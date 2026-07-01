@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-04-27 09:30:11">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CreateSNTranslations - Portal Widget v1.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>437b77762f2101108f98136a2799b6c7</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:10</sys_created_on>
+<sys_id>e6ee1726870301106c9a4087cebb35aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:10</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_8bdda5332fb541108f98136a2799b649</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">f2dda5332fb541108f98136a2799b647</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:10:08</sys_created_on><sys_id>8bdda5332fb541108f98136a2799b649</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_column_8bdda5332fb541108f98136a2799b649</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:10:08</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>203950122</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>26ee1726870301106c9a4087cebb35ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3c97148f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>c3dda533d6b54110d167613b11e3374b</update_guid>
+<update_guid_history>c3dda533d6b54110d167613b11e3374b:203950122</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_row_f2dda5332fb541108f98136a2799b647</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Create SN Translations Automatically - Container 1">addd29332fb541108f98136a2799b6da</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:10:08</sys_created_on><sys_id>f2dda5332fb541108f98136a2799b647</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_row_f2dda5332fb541108f98136a2799b647</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:10:08</sys_updated_on></sp_row></record_update>]]></payload>
+<payload_hash>1443670626</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>32ee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3c9714580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Row</type>
+<update_domain>global</update_domain>
+<update_guid>4fdda5338eb541109a29f8d184416e48</update_guid>
+<update_guid_history>4fdda5338eb541109a29f8d184416e48:1443670626</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_dc4eedd42f3501108f98136a2799b6c4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.createTranslationsSI&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;createTranslationsSI&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var createTranslationsSI = Class.create();
+createTranslationsSI.prototype = {
+    initialize: function() {
+    },
+	
+	rapidAPICall: function(){
+		try{
+            var userID = gs.getProperty('x_661539_update_0.userID');
+            var password = gs.getProperty('x_661539_update_0.password');
+
+			var requestBody = "";
+            var previousURL = 'https://dev57364.service-now.com/api/661539/rapidapi/postTranslation/pt/gato';
+
+            var request = new sn_ws.RESTMessageV2();
+            request.setEndpoint(previousURL);
+            request.setHttpMethod('POST');
+
+            request.setRequestHeader("Accept", "application/json");
+            request.setRequestHeader('Content-Type', 'application/json');
+
+            request.setBasicAuth(userID, password);
+            request.setRequestHeader("Accept", "application/json");
+
+            var response = request.execute();
+            var responseBody = response.getBody();
+            var httpStatus = response.getStatusCode();
+
+            gs.log('response: ' + response);
+        gs.log('responseBody: ' + responseBody);
+        gs.log('httpStatus: ' + httpStatus);
+}catch(e){
+    gs.print('error: ' + e);
+}
+	},
+	elementChoices: function(){
+		var obj = elementChoices = [
+{ id: '0', name: '---Please select---'},
+{ id: 'acknowledgement_confirm_label',name: 'acknowledgement_confirm_label'},
+{ id: 'action_name', name: 'action_name' },
+{ id: 'answer', name: 'answer' },
+{ id: 'cancel_label', name: 'cancel_label' },
+{ id: 'caption', name: 'caption' },
+{ id: 'category', name: 'category' },
+{ id: 'child_descriptor', name: 'child_descriptor' },
+{ id: 'compare_main_label', name: 'compare_main_label' },
+{ id: 'confirm_label', name: 'confirm_label' },
+{ id: 'confirm_problem', name: 'confirm_problem' },
+{ id: 'data_source_label', name: 'data_source_label' },
+{ id: 'description', name: 'description' },
+{ id: 'display_name', name: 'display_name' },
+{ id: 'display_value', name: 'display_value' },
+{ id: 'empty_value', name: 'empty_value' },
+{ id: 'example_text', name: 'example_text' },
+{ id: 'field_value', name: 'field_value' },
+{ id: 'format', name: 'format' },
+{ id: 'header_label', name: 'header_label' },
+{ id: 'headline', name: 'headline' },
+{ id: 'help_tag', name: 'help_tag' },
+{ id: 'help_text', name: 'help_text' },
+{ id: 'hint', name: 'hint' },
+{ id: 'initial_agent_response', name: 'initial_agent_response' },
+{ id: 'instructions', name: 'instructions' },
+{ id: 'items', name: 'items' },
+{ id: 'label', name: 'label' },
+{ id: 'layout_name', name: 'layout_name' },
+{ id: 'link_label', name: 'link_label' },
+{ id: 'lookup_name', name: 'lookup_name' },
+{ id: 'm2m_from_label', name: 'm2m_from_label' },
+{ id: 'm2m_to_label', name: 'm2m_to_label' },
+{ id: 'mail_subject', name: 'mail_subject' },
+{ id: 'menu_title', name: 'menu_title' },
+{ id: 'mobile_title', name: 'mobile_title' },
+{ id: 'name', name: 'name' },
+{ id: 'parent_descriptor', name: 'parent_descriptor' },
+{ id: 'phase_name', name: 'phase_name' },
+{ id: 'placeholder', name: 'placeholder' },
+{ id: 'plural_label', name: 'plural_label' },
+{ id: 'question', name: 'question' },
+{ id: 'question_text', name: 'question_text' },
+{ id: 'question_translated', name: 'question_translated' },
+{ id: 'reason', name: 'reason' },
+{ id: 'second_level_text', name: 'second_level_text' },
+{ id: 'section_header', name: 'section_header' },
+{ id: 'short_description', name: 'short_description' },
+{ id: 'short_name', name: 'short_name' },
+{ id: 'subtitle', name: 'subtitle' },
+{ id: 'text', name: 'text' },
+{ id: 'title', name: 'title' },
+{ id: 'tooltip', name: 'tooltip' },
+{ id: 'translated_ending_state', name: 'translated_ending_state' },
+{ id: 'translated_starting_state', name: 'translated_starting_state' },
+{ id: 'translated_value', name: 'translated_value' },
+{ id: 'ui_action_hint', name: 'ui_action_hint' },
+{ id: 'value_override', name: 'value_override' }
+	];
+		return obj;
+	},
+
+    type: 'createTranslationsSI'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-16 22:13:46&lt;/sys_created_on&gt;&lt;sys_id&gt;dc4eedd42f3501108f98136a2799b6c4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;createTranslationsSI&lt;/sys_name&gt;&lt;sys_package display_value="CreateSNTranslations" source="ef4d73762f2101108f98136a2799b6d7"&gt;ef4d73762f2101108f98136a2799b6d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CreateSNTranslations"&gt;ef4d73762f2101108f98136a2799b6d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_dc4eedd42f3501108f98136a2799b6c4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-01 15:39:52&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2021836598</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>36ee1726870301106c9a4087cebb35ae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c86fb10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>createTranslationsSI</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>283af21e3d220110168f6ce962c477a5</update_guid>
+<update_guid_history>283af21e3d220110168f6ce962c477a5:2021836598,e56ee91830350110087b2656cfb2971a:-1741387689</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_d649b6da2f2201108f98136a2799b6c0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 3">41aeeea0c730030020508b3c5c976326</grid_canvas><height>10</height><portal_widget display_value="Created 2022-04-01 08:35:54">d249b6da2f2201108f98136a2799b6bf</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-01 15:35:54</sys_created_on><sys_id>d649b6da2f2201108f98136a2799b6c0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>41aeeea0c730030020508b3c5c976326</sys_name><sys_package display_value="CreateSNTranslations" source="ef4d73762f2101108f98136a2799b6d7">ef4d73762f2101108f98136a2799b6d7</sys_package><sys_policy/><sys_scope display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</sys_scope><sys_update_name>sys_grid_canvas_pane_d649b6da2f2201108f98136a2799b6c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-01 15:36:05</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1309668986</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>3aee1726870301106c9a4087cebb35ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c4f9440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>41aeeea0c730030020508b3c5c976326</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>4159fada402201106ea91d3d2ad22951</update_guid>
+<update_guid_history>4159fada402201106ea91d3d2ad22951:-1309668986,1649b6da77220110be4ff9f9e596e7c2:47156093</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_sys_user_preferred_language</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="preferred_language" table="sys_user" version="3"><sys_choice_set action="INSERT_OR_UPDATE"><element>preferred_language</element><name>sys_user</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-07-15 23:35:16</sys_created_on><sys_id>dda92d3245113010c0a05206e0e0f889</sys_id><sys_mod_count>0</sys_mod_count><sys_name>preferred_language</sys_name><sys_package display_value="System (apps/system_user)" source="apps/system_user">34a9e93245113010c0a05206e0e0f8a5</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_choice_sys_user_preferred_language</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-07-15 23:35:16</sys_updated_on></sys_choice_set><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>preferred_language</element><hint/><inactive>false</inactive><label>English</label><language>en</language><name>sys_user</name><sequence/><synonyms/><sys_created_by>system</sys_created_by><sys_created_on>2021-07-15 23:35:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>d9a92d3245113010c0a05206e0e0f889</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-07-15 23:35:16</sys_updated_on><value>en</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>preferred_language</element><hint/><inactive>false</inactive><label>French</label><language>fr</language><name>sys_user</name><sequence/><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:20:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a020f1b32fb541108f98136a2799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:20:05</sys_updated_on><value>fr</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>preferred_language</element><hint/><inactive>true</inactive><label>javascript:'System (' + new I18nUtils().getUserLanguage() + ')'</label><language>en</language><name>sys_user</name><sequence/><synonyms/><sys_created_by>system</sys_created_by><sys_created_on>2021-07-15 23:35:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>99a92d3245113010c0a05206e0e0f889</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-07-15 23:35:16</sys_updated_on><value>NULL_OVERRIDE</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>preferred_language</element><hint/><inactive>false</inactive><label>Portuguese</label><language>pt</language><name>sys_user</name><sequence/><synonyms/><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:19:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cc1035b32fb541108f98136a2799b693</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:19:46</sys_updated_on><value>pt</value></sys_choice></sys_choice></record_update>]]></payload>
+<payload_hash>1988442081</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>3eee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3ca02f750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table>sys_user</table>
+<target_name>User.Language</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>2c20f9b35eb54110be8f0282244c6f0e</update_guid>
+<update_guid_history>2c20f9b35eb54110be8f0282244c6f0e:1988442081,4c10b9b3c8b54110c43ea5c704f51d2b:1252694413,481035b371b5411036b8f88aeb709595:-801238698</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_c6d1e032c363101035ae3f52c1d3aedc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Enables Change Type Compatibility for Change Models if the com.snc.change_management.state.model plugin is installed.  When true allows changes to be created with both the type based workflow and Change Models.</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>com.snc.change_management.change_model.type_compatibility</name><read_roles/><suffix>global</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-15 16:56:56</sys_created_on><sys_id>c6d1e032c363101035ae3f52c1d3aedc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>com.snc.change_management.change_model.type_compatibility</sys_name><sys_package display_value="Change Management - Change Models" source="com.snc.change_management.change_model">71a2b17a45d53010c0a05206e0e0f8c9</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_c6d1e032c363101035ae3f52c1d3aedc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 10:46:22</sys_updated_on><type>string</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=c6d1e032c363101035ae3f52c1d3aedc"/></record_update>]]></payload>
+<payload_hash>-1432067933</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>72ee1726870301106c9a4087cebb35ae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f8d2fa9e60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>com.snc.change_management.change_model.type_compatibility</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>00041678cad241101f55e21fb69586ef</update_guid>
+<update_guid_history>00041678cad241101f55e21fb69586ef:-1432067933,e7f316787bd2411057f315d496c301ea:273288396</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_8920b6e0c730030020508b3c5c97631b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 3">41aeeea0c730030020508b3c5c976326</grid_canvas><height>6</height><portal_widget display_value="Created 2017-08-22 04:07:28">8920b6e0c730030020508b3c5c976319</portal_widget><posx>10</posx><posy>29</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-08-22 11:07:28</sys_created_on><sys_id>8920b6e0c730030020508b3c5c97631b</sys_id><sys_mod_count>8</sys_mod_count><sys_name>41aeeea0c730030020508b3c5c976326</sys_name><sys_package display_value="Performance Analytics - Administrator Console" source="com.snc.pa.administration.console">9a81b97245d53010c0a05206e0e0f825</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_8920b6e0c730030020508b3c5c97631b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-01 15:36:05</sys_updated_on><width>2</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1500036803</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>76ee1726870301106c9a4087cebb35ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c4f8b40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>41aeeea0c730030020508b3c5c976326</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>cd59fada7a2201100ad956dd224a7c4e</update_guid>
+<update_guid_history>cd59fada7a2201100ad956dd224a7c4e:-1500036803,a249bada3b220110f8cc1b641df8b19f:-942052740,2649bada42220110dfd8d0cd72fde79e:-454412800</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_c05aa8212f9201108f98136a2799b6e5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Service Portal">1c00c11047322100ba13a5554ee490f2</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Create Translation Config</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query>https://dev57364.service-now.com/sp_config?id=widget_editor&amp;sys_id=c2d075ea2f7941108f98136a2799b685</query><report/><roles>admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-17 11:00:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c05aa8212f9201108f98136a2799b6e5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Create Translation Config</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_c05aa8212f9201108f98136a2799b6e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-17 11:02:29</sys_updated_on><timeline_page/><title>Create Translation Config</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>991181601</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>7aee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f978b16cc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>Create Translation Config</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>b2da64611c9201101efd4a5ce49b99f3</update_guid>
+<update_guid_history>b2da64611c9201101efd4a5ce49b99f3:991181601,348aac213d9201107c856227e0af8237:711111095</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_65dd2dff2f7541108f98136a2799b680</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>create_sn_translations_automatically</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:10:02</sys_created_on><sys_id>65dd2dff2f7541108f98136a2799b680</sys_id><sys_mod_count>0</sys_mod_count><sys_name>create_sn_translations_automatically</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_page_65dd2dff2f7541108f98136a2799b680</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:10:02</sys_updated_on><title>Create SN Translations Automatically</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=65dd2dff2f7541108f98136a2799b680"/></record_update>]]></payload>
+<payload_hash>-889219520</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>7eee1726870301106c9a4087cebb35ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3c96ff460000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>create_sn_translations_automatically</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>21dd29335cb541103d9485ec5c8872da</update_guid>
+<update_guid_history>21dd29335cb541103d9485ec5c8872da:-889219520</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_27ffa6e0c730030020508b3c5c976338</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 3">41aeeea0c730030020508b3c5c976326</grid_canvas><height>9</height><portal_widget display_value="Created 2017-08-22 04:06:49">23ff26e0c730030020508b3c5c976313</portal_widget><posx>10</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-08-22 11:06:49</sys_created_on><sys_id>27ffa6e0c730030020508b3c5c976338</sys_id><sys_mod_count>14</sys_mod_count><sys_name>41aeeea0c730030020508b3c5c976326</sys_name><sys_package display_value="Performance Analytics - Administrator Console" source="com.snc.pa.administration.console">9a81b97245d53010c0a05206e0e0f825</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_27ffa6e0c730030020508b3c5c976338</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-01 15:36:05</sys_updated_on><width>2</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-140074891</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>b2ee1726870301106c9a4087cebb35ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c4f8520000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>41aeeea0c730030020508b3c5c976326</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>8d59fada6d220110c64395e2fe68b34c</update_guid>
+<update_guid_history>8d59fada6d220110c64395e2fe68b34c:-140074891,2249bada17220110395b21f3ed815f07:417909172,2249bada812201108d9ac3cc46c11106:756312789</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_ef4d73762f2101108f98136a2799b6d7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><installed_as_dependency>false</installed_as_dependency><js_level>helsinki_es5</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>CreateSNTranslations</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>ef4d73762f2101108f98136a2799b6d7</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-12 16:47:15</sys_created_on><sys_id>ef4d73762f2101108f98136a2799b6d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-12 16:47:15</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1417779957</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>b6ee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eeed4e1fa0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>CreateSNTranslations</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>b74d73761c2101108303d9c58564a8db</update_guid>
+<update_guid_history>b74d73761c2101108303d9c58564a8db:-1417779957</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_51ed29ff2f7541108f98136a2799b6b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">8bdda5332fb541108f98136a2799b649</sp_column><sp_widget display_value="CreateTranslations">c2d075ea2f7941108f98136a2799b685</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:10:17</sys_created_on><sys_id>51ed29ff2f7541108f98136a2799b6b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_instance_51ed29ff2f7541108f98136a2799b6b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:10:17</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=51ed29ff2f7541108f98136a2799b6b1"/></record_update>]]></payload>
+<payload_hash>656934227</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>baee1726870301106c9a4087cebb35ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3c97390f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>51ed29ff9b754110778062cffc26dcb3</update_guid>
+<update_guid_history>51ed29ff9b754110778062cffc26dcb3:656934227</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_43f0eeb82f1641108f98136a2799b684</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="43f0eeb82f1641108f98136a2799b684" sys_domain="global" table="sys_translated" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>label</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>4bf0eeb82f1641108f98136a2799b68d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>47f0eeb82f1641108f98136a2799b68e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>language</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>0bf0a2f82f1641108f98136a2799b66c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>8ff0a2f82f1641108f98136a2799b66c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>07f0a2f82f1641108f98136a2799b66d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>id</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>8bf0a2f82f1641108f98136a2799b66d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>13f0a2f82f1641108f98136a2799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>value</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>97f0a2f82f1641108f98136a2799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>1ff0a2f82f1641108f98136a2799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>element</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_id>93f0a2f82f1641108f98136a2799b66f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_translated" sys_domain="global" view="Default view">43f0eeb82f1641108f98136a2799b684</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_translated</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 11:43:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43f0eeb82f1641108f98136a2799b684</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_translated</sys_name><sys_overrides/><sys_package display_value="System (apps/system2)" source="apps/system2">ed89e13245113010c0a05206e0e0f876</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_43f0eeb82f1641108f98136a2799b684</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:43:09</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>463916038</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>baee1726870301106c9a4087cebb35ae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f8d639be60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table>sys_translated</table>
+<target_name>Translated Name / Field</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>dff0a2f836164110a119be02106dbd70</update_guid>
+<update_guid_history>dff0a2f836164110a119be02106dbd70:463916038,03f0eeb81e164110eb11192d5c7e0f88:-1490435234</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_fc59bada2f2201108f98136a2799b62e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 3">41aeeea0c730030020508b3c5c976326</grid_canvas><height>10</height><portal_widget display_value="Created 2022-04-01 08:36:04">f859bada2f2201108f98136a2799b62d</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-01 15:36:04</sys_created_on><sys_id>fc59bada2f2201108f98136a2799b62e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>41aeeea0c730030020508b3c5c976326</sys_name><sys_package display_value="CreateSNTranslations" source="ef4d73762f2101108f98136a2799b6d7">ef4d73762f2101108f98136a2799b6d7</sys_package><sys_policy/><sys_scope display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</sys_scope><sys_update_name>sys_grid_canvas_pane_fc59bada2f2201108f98136a2799b62e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-01 15:36:04</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>1691277629</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>beee1726870301106c9a4087cebb35ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c4f6350000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>41aeeea0c730030020508b3c5c976326</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>fc59bada0422011080bcbbecb80eb52f</update_guid>
+<update_guid_history>fc59bada0422011080bcbbecb80eb52f:1691277629</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_addd29332fb541108f98136a2799b6da</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Create SN Translations Automatically - Container 1</name><order>1</order><sp_page display_value="create_sn_translations_automatically">65dd2dff2f7541108f98136a2799b680</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-27 19:10:03</sys_created_on><sys_id>addd29332fb541108f98136a2799b6da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create SN Translations Automatically - Container 1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sp_container_addd29332fb541108f98136a2799b6da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-27 19:10:03</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>-832956808</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>e6ee1726870301106c9a4087cebb35ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f3c97001e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>Create SN Translations Automatically - Container 1</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>6ddd29331db541105e5410ec7c5831dc</update_guid>
+<update_guid_history>6ddd29331db541105e5410ec7c5831dc:-832956808</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sp_angular_provider_2f6679f72fb541108f98136a2799b6c9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_angular_provider"&gt;&lt;sp_angular_provider action="INSERT_OR_UPDATE"&gt;&lt;name&gt;spButton&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function(){
+ return {
+ link: function($scope){
+ $scope.displayMessage = function() {
+ alert('Hello World');
+ };
+ },
+ restrict: 'A', // use 'A' for attribute or 'E' for element 
+ replace: 'true',
+ template: '&lt;div ng-click="displayMessage()" class="btn btn-primary"&gt;This is a Directive&lt;/div&gt;'
+ };
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sp_angular_provider&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-27 19:52:33&lt;/sys_created_on&gt;&lt;sys_id&gt;2f6679f72fb541108f98136a2799b6c9&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;spButton&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_angular_provider_2f6679f72fb541108f98136a2799b6c9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-03-14 16:03:40&lt;/sys_updated_on&gt;&lt;type&gt;directive&lt;/type&gt;&lt;/sp_angular_provider&gt;&lt;/record_update&gt;</payload>
+<payload_hash>606944075</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:10</sys_created_on>
+<sys_id>eaee1726870301106c9a4087cebb35aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f892bc1610000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:10</sys_updated_on>
+<table/>
+<target_name>spButton</target_name>
+<type>Widget Angular Provider</type>
+<update_domain>global</update_domain>
+<update_guid>69031ee89b5601100deecf57fdd22c14</update_guid>
+<update_guid_history>69031ee89b5601100deecf57fdd22c14:606944075,41b29aa80e5601103c7eb960c44e5c60:-65316989,9c97f57b09b54110cfa3bb179c1cdb40:1628740727</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CreateSNTranslations">ef4d73762f2101108f98136a2799b6d7</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_c2d075ea2f7941108f98136a2799b685</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[api.controller=function($scope,$uibModal) {
+  /* widget controller */
+  var c = this;
+	
+	c.data.catalogItem = '';
+	c.data.languages = '';
+	//c.data.textToTranslate = angular.element($('#textToTranslate')).val();
+	//c.server.update();
+	
+	//Make the REST call
+	c.makeCall = function(){
+		c.server.update().then(function(){
+			c.data.textToTranslate = document.getElementById("textToTranslate").value;
+		  document.getElementById("words").value += c.data.responseBody;
+				console.log(angular.element($('#textToTranslate')).val())
+			//document.getElementById("words").value +=  JSON.stringify(c.selectPrefix.id) + '\n';
+			//document.getElementById("words").value +=  JSON.stringify(c.selectElem.id) + '\n';
+			document.getElementById("getTranslation").style.display = 'none';
+		})		
+	}
+	
+	c.server.get({
+		"action": "text_to_translate",
+		"textToTranslate": angular.element($('#textToTranslate')).val()
+	});
+	
+	$scope.catalogItem = {
+		value: c.data.sys_id,
+		name: 'catalog_item'
+	}
+	
+	$scope.languages = {
+		value: c.data.sys_id,
+		name: 'languages'
+	}
+	
+	//info from sn-record-picker
+	$scope.$on('field.change', function(evt,params){
+		c.data.catalogItem = $scope.catalogItem.value;
+		c.data.languages = $scope.languages.value;
+		c.server.update();
+	})
+	
+	//Create the record on SN
+	c.createTranslation = function(){
+		c.server.update().then(function(){
+		})		
+	}
+	
+	//Choices
+	c.translationPrefix = [
+			{id: '0', name: '---Please select---'},
+      {id: 'TRF', name: 'Translated Name / Fields'},
+      {id: 'MSG', name: 'Message'},
+		  {id: 'GMLD', name: 'Field Label'},
+		  {id: 'TRT', name: 'Translated Text'},
+      {id: 'CHC', name: 'Choice'}
+    ];
+	
+	//Element choices
+	c.elementChoices = [
+{ id: '0', name: '---Please select---'},
+{ id: 'acknowledgement_confirm_label',name: 'acknowledgement_confirm_label'},
+{ id: 'action_name', name: 'action_name' },
+{ id: 'answer', name: 'answer' },
+{ id: 'cancel_label', name: 'cancel_label' },
+{ id: 'caption', name: 'caption' },
+{ id: 'category', name: 'category' },
+{ id: 'child_descriptor', name: 'child_descriptor' },
+{ id: 'compare_main_label', name: 'compare_main_label' },
+{ id: 'confirm_label', name: 'confirm_label' },
+{ id: 'confirm_problem', name: 'confirm_problem' },
+{ id: 'data_source_label', name: 'data_source_label' },
+{ id: 'description', name: 'description' },
+{ id: 'display_name', name: 'display_name' },
+{ id: 'display_value', name: 'display_value' },
+{ id: 'empty_value', name: 'empty_value' },
+{ id: 'example_text', name: 'example_text' },
+{ id: 'field_value', name: 'field_value' },
+{ id: 'format', name: 'format' },
+{ id: 'header_label', name: 'header_label' },
+{ id: 'headline', name: 'headline' },
+{ id: 'help_tag', name: 'help_tag' },
+{ id: 'help_text', name: 'help_text' },
+{ id: 'hint', name: 'hint' },
+{ id: 'initial_agent_response', name: 'initial_agent_response' },
+{ id: 'instructions', name: 'instructions' },
+{ id: 'items', name: 'items' },
+{ id: 'label', name: 'label' },
+{ id: 'layout_name', name: 'layout_name' },
+{ id: 'link_label', name: 'link_label' },
+{ id: 'lookup_name', name: 'lookup_name' },
+{ id: 'm2m_from_label', name: 'm2m_from_label' },
+{ id: 'm2m_to_label', name: 'm2m_to_label' },
+{ id: 'mail_subject', name: 'mail_subject' },
+{ id: 'menu_title', name: 'menu_title' },
+{ id: 'mobile_title', name: 'mobile_title' },
+{ id: 'name', name: 'name' },
+{ id: 'parent_descriptor', name: 'parent_descriptor' },
+{ id: 'phase_name', name: 'phase_name' },
+{ id: 'placeholder', name: 'placeholder' },
+{ id: 'plural_label', name: 'plural_label' },
+{ id: 'question', name: 'question' },
+{ id: 'question_text', name: 'question_text' },
+{ id: 'question_translated', name: 'question_translated' },
+{ id: 'reason', name: 'reason' },
+{ id: 'second_level_text', name: 'second_level_text' },
+{ id: 'section_header', name: 'section_header' },
+{ id: 'short_description', name: 'short_description' },
+{ id: 'short_name', name: 'short_name' },
+{ id: 'subtitle', name: 'subtitle' },
+{ id: 'text', name: 'text' },
+{ id: 'title', name: 'title' },
+{ id: 'tooltip', name: 'tooltip' },
+{ id: 'translated_ending_state', name: 'translated_ending_state' },
+{ id: 'translated_starting_state', name: 'translated_starting_state' },
+{ id: 'translated_value', name: 'translated_value' },
+{ id: 'ui_action_hint', name: 'ui_action_hint' },
+{ id: 'value_override', name: 'value_override' }
+	];
+	
+	c.selectPrefix = c.translationPrefix[0];
+	c.selectElem = c.elementChoices[0];
+	
+//Translation prefix helper modal
+//Open
+c.openModal = function() {
+ c.modalInstance = $uibModal.open({
+ templateUrl: 'modalTemplate',
+ scope: $scope
+ });
+ }
+ //Close
+ c.closeModal = function() {
+ c.modalInstance.close();
+ }
+	
+
+};]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css/&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;true&lt;/has_preview&gt;&lt;id&gt;createtranslations&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link&gt;&lt;![CDATA[function link(scope, element, attrs, controller) {  }]]&gt;&lt;/link&gt;&lt;name&gt;CreateTranslations&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+	
+	data.response = '';
+	data.responseBody = '';
+	data.error = '';
+	data.httpStatus = '';
+	data.catalogItem = '';
+	data.textToTranslate = '';
+	data.languages = '';
+	var languagesArr = [];
+	
+	if(input.catalogItem != ''){
+		data.catalogItem = input.catalogItem;
+		data.languages = input.languages;
+		
+		var langChoices = new GlideRecord('sys_choice');
+		langChoices.addEncodedQuery('sys_idIN' + data.languages);
+		langChoices.query();
+		
+		while(langChoices.next()){
+			if(languagesArr.indexOf(langChoices.language + '') == -1){
+				languagesArr.push(langChoices.language + '');
+			}
+		}
+	}
+	
+	if(input.responseBody == ''){
+	try{
+		
+		gs.addInfoMessage(JSON.stringify(input));
+		//gs.log('[Portal 2]: ' + JSON.stringify(input), 'Pedro');
+		/*
+					 var wordToTranslate = input.words;
+           var userID = gs.getProperty('create.translation.user');
+           var password = gs.getProperty('create.translation.password');
+
+						var requestBody = "";
+            var previousURL = 'https://dev57364.service-now.com/api/661539/rapidapi/postTranslation/pt/' + wordToTranslate;
+
+            var request = new sn_ws.RESTMessageV2();
+            request.setEndpoint(previousURL);
+            request.setHttpMethod('POST');
+
+            request.setRequestHeader("Accept", "application/json");
+            request.setRequestHeader('Content-Type', 'application/json');
+
+            request.setBasicAuth(userID, password);
+            request.setRequestHeader("Accept", "application/json");
+
+            var response = request.execute();
+            var responseBody = response.getBody();
+            var httpStatus = response.getStatusCode();
+						data.response = response;
+						data.httpStatus = httpStatus;
+						data.responseBody = responseBody;
+		*/
+		//
+		var obj = {"result":[{"detectedLanguage":{"language":"en","score":1.0},"translations":[{"text":"sapato","to":"pt"}]}]};
+	  data.responseBody = JSON.stringify(obj,null,2);
+//gs.log('[Portal 1]: ' + JSON.stringify(input), 'Pedro');
+}catch(e){
+    data.error = e;
+}
+	}
+	
+	if(input.responseBody != ''){
+		//var translated = new GlideRecord('sys_translated');
+		//translated.initialize();
+		//translated
+		//translated.insert();
+		
+		//gs.log('[Portal 2]: ' + JSON.stringify(input), 'Pedro');
+
+	}
+	
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-23 22:10:48&lt;/sys_created_on&gt;&lt;sys_id&gt;c2d075ea2f7941108f98136a2799b685&lt;/sys_id&gt;&lt;sys_mod_count&gt;248&lt;/sys_mod_count&gt;&lt;sys_name&gt;CreateTranslations&lt;/sys_name&gt;&lt;sys_package display_value="CreateSNTranslations" source="ef4d73762f2101108f98136a2799b6d7"&gt;ef4d73762f2101108f98136a2799b6d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CreateSNTranslations"&gt;ef4d73762f2101108f98136a2799b6d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_c2d075ea2f7941108f98136a2799b685&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-03-17 16:45:18&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div&gt;
+  &lt;h1 id='test'&gt;
+    Welcome to the Create Translation!
+  &lt;/h1&gt;
+  &lt;p&gt;
+    
+  &lt;/p&gt;
+  Type the word/sentence you'll like to translate:
+  &lt;p&gt;
+    
+  &lt;/p&gt;
+  &lt;input type="text" id="textToTranslate" name="textToTranslate" placeholder="insert your text here"&gt;
+  &lt;p&gt;
+    
+  &lt;/p&gt;
+  Choose the Catalog Item you want to create the translations to:
+  &lt;sn-record-picker multiple="false" field="catalogItem" table="'sc_cat_item'" display-field="'name,short_description'" value-field="'sys_id'" search-fields="'name'" page-size="100" &gt;&lt;/sn-record-picker&gt;
+	&lt;p&gt;
+  &lt;/p&gt;
+  Choose all the languages you want to translate:
+  &lt;sn-record-picker multiple="true" field="languages" table="'sys_choice'" display-field="'label'" default-query="'name=sys_user^element=preferred_language^inactive=false^ORDERBYname'" value-field="'sys_id'" search-fields="'name'" page-size="10" &gt;&lt;/sn-record-picker&gt;
+  
+  &lt;label for="singleSelect"&gt;Please Select the type of translation&lt;/label&gt;&lt;br&gt;
+  &lt;label for="singleSelect"&gt;Please click on the green button for help.&lt;/label&gt;&lt;br&gt;
+    &lt;select class="btn btn-default dropdown-toggle" ng-model="c.selectPrefix" ng-options="option.name for option in c.translationPrefix track by option.id" name="singleSelect1" id="singleSelect1"&gt;
+    &lt;/select&gt;
+  &lt;br&gt;
+  &lt;br&gt;
+  &lt;div&gt;
+ &lt;button class="btn btn-primary btn-info" ng-click="c.openModal()"&gt;${Translation prefixes mapped to tables}&lt;/button&gt;
+&lt;/div&gt;
+  &lt;br&gt;
+  &lt;br&gt;
+  &lt;div ng-if="c.selectPrefix.id == 'TRF'"&gt;
+    Please choose the table:
+      &lt;sn-record-picker multiple="false" field="table_name" table="'sys_db_object'" display-field="'label,name'" value-field="'sys_id'" search-fields="'label'" page-size="50" &gt;&lt;/sn-record-picker&gt;
+  &lt;br&gt;
+    Please choose the element:
+    &lt;p&gt;
+    &lt;/p&gt;
+    &lt;select class="btn btn-default dropdown-toggle" ng-model="c.selectElem" ng-options="choice.name for choice in c.elementChoices track by choice.id" name="singleSelect2" id="singleSelect2"&gt;
+    &lt;/select&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+
+      &lt;br&gt;
+  &lt;textarea id="words" ng-if="data.error==''" ng-model="c.data.words"&gt;&lt;/textarea&gt;
+  &lt;span ng-if="data.error!=''"&gt;{{data.error}}&lt;/span&gt;
+ &lt;!-- &lt;span ng-if="data.error==''"&gt;{{data.responseBody}}&lt;/span&gt; --&gt;
+&lt;/div&gt;
+
+
+&lt;div id='getTranslation'&gt;
+    &lt;button type="submit" class="btn btn-primary" ng-click="c.makeCall()"&gt;Get Translation!&lt;/button&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div ng-if="c.data.responseBody != '' || data.error != ''" id='createTranslation'&gt;
+    &lt;button type="submit" class="btn btn-success" ng-click="c.createTranslation()"&gt;Create Translation!&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+ 
+&lt;script type="text/ng-template" id="modalTemplate"&gt;
+ &lt;div class="panel panel-default"&gt;
+  &lt;!-- Default panel contents --&gt;
+  &lt;div class="panel-heading"&gt;
+Information table - Translation prefixes mapped to tables&lt;/div&gt;
+
+  &lt;!-- Table --&gt;
+  &lt;table class="table"&gt;
+     &lt;tr&gt; &lt;!-- This is the first row --&gt;
+    &lt;th&gt;Prefix&lt;/th&gt;
+   		 &lt;th&gt;Table&lt;/th&gt;
+       &lt;th&gt;Navigation&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt; &lt;!-- This is the second row --&gt;
+    &lt;td&gt;TRF&lt;/td&gt;
+    &lt;td&gt;Translated Name / Fields&lt;/td&gt;
+    &lt;td&gt;System Localization &gt; Translated Names / Fields&lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt; &lt;!-- This is the third row --&gt;
+    &lt;td&gt;MSG&lt;/td&gt;
+    &lt;td&gt;Messages&lt;/td&gt;
+    &lt;td&gt;System Localization &gt; Messages&lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt; &lt;!-- This is the forth row --&gt;
+    &lt;td&gt;GMLD&lt;/td&gt;
+    &lt;td&gt;Field Label&lt;/td&gt;
+    &lt;td&gt;System Localization &gt; Field Labels&lt;/td&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt; &lt;!-- This is the fifth row --&gt;
+    &lt;td&gt;TRT&lt;/td&gt;
+    &lt;td&gt;Translated Text&lt;/td&gt;
+    &lt;td&gt;System Localization &gt; Translated Text&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt; &lt;!-- This is the sixth row --&gt;
+    &lt;td&gt;CHC&lt;/td&gt;
+    &lt;td&gt;Choice&lt;/td&gt;
+    &lt;td&gt;System Localization &gt; Choices&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;div class="panel-footer text-right"&gt;
+ &lt;button class="btn btn-primary" ng-click="c.closeModal()"&gt;${Close}&lt;/button&gt;
+ &lt;/div&gt;
+&lt;/script&gt;
+
+&lt;!-- Latest compiled and minified JavaScript --&gt;
+&lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"&gt;&lt;/script&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>11398024</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>f2ee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f98c4f4ca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>CreateTranslations</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>305931a5ec960110234e0252e13ddd55</update_guid>
+<update_guid_history>305931a5ec960110234e0252e13ddd55:11398024,0129f9e122960110b40da0e72d723bb8:528453924,faf8f9e1509601105d9b3a3e8866c672:133269760,15d6b9e1fb960110de47097c283fc651:1861866096,aec679a1109601105dd88c9d04fca9d7:-1378690722,38b6f5e1af9601105536ad0697db338d:-1146720896,958671e13f960110c4e1fe76e06f5c48:1411697477,e74631a10996011041c27ebab7721bff:-1920705194,ed1671e10d960110078858071d7ad93f:2024818244,728579a12c960110a16d39dc62dca4b9:-1255330474,d6557961289601100574a04e48ee24ce:-859140920,a2157561b69601106bc463023c360164:1630148579,eae4756187960110e10f1deda8f7b472:-1458509074,99d4fd617796011064b3472798f035ac:1781301232,6fa4792184960110636bbb65389399b2:1544581584,f664b561ba96011018481dcefc7437fd:1195098029,733471619396011022ff094d96d72613:1045990483,a024f161459601102dbcbcba790cce12:1964032351,5bf3f161e29601102262ab531216420a:-1927895233,0cd33921d2960110a22159cfeb3c26f7:282915487,9fa3bd21129601105bc368842b6745ab:-1170352150,b19379215c96011006cd6e05b4b7d733:1678211504,7a73f921b6960110eb6cc8b3f4289dbd:706876011,21537921229601108d26d41c4113dc77:1943848240,8b4331211d960110fef5d212cb07824e:-1940845231,3d23b521a09601104b6dc51c05f309e3:-1391131763,a3f239edbf560110e9eed23d7cc2ac7d:1908403149,80a2fdeda45601104350613245562a2d:767578476,8542b9edae560110af74602b3a39a110:-759265100,5512f1ed50560110b93e08e8998a90ab:2094561876,38f175edd85601108e1a255988c82937:-1573960410,3de135ed1a560110f657cd20b6750a6b:-1975305426,1cd1fd6dad560110ac653b88fcd3aeb3:-1924136221,d5d075ad6956011076e4bce1845fe7cc:1807704532,6cb0f1ad9d5601108bff4e62bf5dacdd:-1459845250,29603d6d3d5601109e6a72d0e50758a4:-866786191,9e40b96d835601106ac4836e7c297534:-1207860111,f3203d6dff560110ebac85ff2ed9106d:1627662650,e100b12d6d560110d342121485f50ef4:796057323,4adf616d09560110b1e2d79c86af89dc:-823877346,819fe16db1560110ce1e4520490f6ac9:-34223768,785fed2dca560110d191397922dfb2dd:2114610486,8b4fed2d7c56011032260b1e7df1b86a:-2133493766,dfbee52d8556011034900b9c1738c589:1399912392,b69e69a975560110d6165cb3ce0c1b89:420228791,4d6ea5a5985601101a82615ac7545ca1:-1158033268,95fd6d61585601101040e67430be3e6e:2040602737,1d9c69a912560110518bd2fe07013681:239914087,e28c29a9d0560110a3571211d25882d6:1058447132,0908e96578560110c9353e8f2edfad75:-912862864,00e7a96168560110410c693b3e85dba9:636078178,d0d7a96171560110bcd367159bf24590:1041026746,1ef66d615b5601103b25976cc24665ff:-1524040347,80f6a5e151560110011293911d1007f9:-1338340076,3f64e1612c560110e5c8dcf42b1c53c3:-906876406,8c926d61ef560110b906c11deda89356:-982706783,97322961be5601107f25f91b1d6c3ebc:1070815863,61f12ded6d160110c248e9114c9720de:-1479348728,7de16521f85601105bc41c3e69ff09da:1199291968,c3912d21c2560110ebb0ead0f7198db3:-1205043483,2b51a5210956011040ab5f06be527118:-1320846759,b3e02dedae160110519074d315832d4b:-1159307463,0aa06121e1560110563b27c76c3324e6:1925580610,50402dedeb1601102148c21ac2db6520:-1678203188,f0dfd56d681601106d133aa64dd1f6db:-1682967421,07ddd56d951601102d1d663f79d37450:-1084715307,058d552dbc160110d390bd84d99568d6:1007977407,5307206d6452011008df65bdddd26e4c:526131482,c3e660a9b1520110f4bc39a7903aa67b:15704754,05110f38559641109d68c94d0f79f945:744763635,5e01cb38d096411081af47015fb86d80:1072995574,0cf08f3486964110448df62b1e7cc9f0:-2103613009,85a047382f96411007521fb2029cc8e7:1985438930,bd80c3f81d564110e93d26b1b22975e6:-664342726,24404ff40c9641109d3c251e9d662957:-818988801,af004ff4029641107c7fcc9bf28abf4f:-523248813,bc2bf6f08796411000bc8e56c0c9542a:-406555560,94a1f2f80456411076fd351492d44b01:-2098881830,5941beb86a56411010a85dd704c7640c:2032186618,daada634ba564110e6232284e6b745bf:810107600,2f4d26f4be564110c233377ea720bc60:-971871243,413deeb407564110d679088e12df5e65:-1746933601,5b1deeb451564110f3bcc3de361398a1:-241499518,bcfce2348e564110417f972bb0b5efd4:1649183700,86acaab44e564110c4eba572683c03e8:-1706278534,df8c6ab46656411037a6dedd6dab7b98:-1697813946,311aea70d6564110ffe0175b4a85a175:2040052591,8af9663410564110c277bb9fe37f8a00:-1109259016,50e9e234d45641103221a9385dc93377:434954741,c6b96234885641101146940ae8e3fc52:2081267608,e1f6ea70a356411010e3191871206c6a:-1960710203,f875eefcc2164110b18e5470ecbb59b1:1126262453,cb5566fca3164110b71497ae6cbd3352:1900965203,42f4eefc15164110c79137f108958a7e:920112629,30d4aebc9a16411006ef7e6ac697638c:1657315398,cb946ef86d16411048066759cb8e8f32:373719700,b0446e3c391641109ae75c1c4a664adc:1449690221,7ac32e7c5c16411013dd03b3f545169c:229548942,1aa3eef80f16411082e6a34daffd4060:1657315398,0f12eef882164110c548562266380e3a:-620259134,59b12ef8df16411094e6b5527f2ddff9:575784771,9f912af868164110c793e519da0ee1c3:-1684295712,0761227899164110817358995689cafe:-214126385,7fde9e38821641109a856698ba6988d7:-924573412,a6cede38f61641108094832c425148e3:1323344672,25be5e383a164110f6109275358ceb79:951622798,c4ae1a38c2164110758e28c75a157989:1303994638,736e9a384716411076a3dd9e6cd9b08c:-1123718919,254e1a386f16411034b644b34f269539:-1426235397,1f751630e41641102c907e7aae5f08c3:-2025899717,5a4596fc2cd24110f981d8fe0b80c90a:-996681966,8a251ebc2ed2411046ed3e239397f87b:1272239212,f2f4d27839d24110294757b189df284a:374747306,43133fecb89a0110613249a43b05bcbc:-1582549029,4703b7eced9a01104cd005d077d209ca:-651207843,b4f2f3ecb59a01107cd0fa752b42dd95:-1166383051,17d27becae9a0110198cc6fa497d7e15:-1582549029,0db2b7ec0b9a0110e40c81b095e5e3bf:-942131246,65a277ec939a011070d6114c477027df:-136033799,3892f36cc59a011066ee1c909b132c5b:458966862,f772f3ecb09a0110bd67bea9022c9e7e:-136033799,165233ecf39a0110ecf5d2ce451eed64:1402029575,543133ac4a9a0110bd0f5861b0452c20:-1352935054,e011f32ca69a0110baa0a1500fb4aa08:836264562,d640f36c4c9a0110cf57a12f43ad0e3b:581690573,4500332ce99a011001f3fb7ce0001237:1340139112,78cf232c6a9a0110370a39c90e9fba43:2014212552,e21fa32cd79a0110083c21aa1fa0b1d4:1751677162,a03eafe4c09a01104384661a5bb8a47d:897223462,d8ed2ba8579a01100068d5bdf88fc6fc:1153692696,5c6dab64049a0110d448fc6cae3580fb:1350273637,117ceb686c9a01104e25035fa5831145:-1411745765,066c6f28619a0110230ecf44e2efd07c:1015040927,9a7beb244a9a011088d7dda8478f90f8:-1411745765,7b5aafe4519a0110bf9f0add0149ba73:373617277,b43a6fe0a29a0110830d5b79b0c85f4c:-1589199416,81192fa4579a01103488ca96fe7e8833:-1935703067,97f76364ae9a0110bfc842a1432f5fd3:1107170617,28d7ab64b39a0110740cad5d0be38077:-488322925,23a72b649b9a0110675a72aed895b29b:-338516418,9f272364ff9a011060363bc1971bf214:-829135443,6707e3242d9a0110b08bf56ea8241f0f:1654734941,15c6eb24529a0110e07e2826f9ad3dee:1316516825,2b566be00c9a0110c2cdae125990cc01:-1426803274,13262be0249a0110660e688a3805cd6b:-1407804780,21f5efe09f9a0110b0d748d7eb949fe4:540112905,86c56fe0119a0110a00afc498e295837:1368088740,c8752360e89a0110eda1d13b8c32d198:1718957365,9015e3e0dd9a01101882bc23240c2401:-236486575,5aa4ef60ee9a0110b91f423fdc1ee21e:242869010,2ca36b60829a0110b7c8fd394a1b90ea:-395098202,9392af20719a011002dfe1b0d2bc9ca7:673259913,9092afecbd5a011061ba0bee3b7a092e:-2096405659,0982af20669a0110b315aa40fffa3e9e:-1150905961,9f022b20fe9a01105706f608a29a081b:-1532109689,36a45a2c4556011016131ca4954fbd7f:240558214,1b13dae8fd560110c104f01489f52cce:2087498417,36e25aa8df5601105a596717e3403ad0:1581757607,977212a8f55601106df82e65f70481fd:-1889124065,b6040e6c721601103636342158c8522f:1852491394,2cf3caacbf160110dff56d4e9fc2bb33:-511612417,36c30aac63160110fe5d1cc0016a0dfa:1754783580,d0a386acb61601107384deb405e152a5:952902552,866382ace9160110f0b77b8ddda0b56d:-217088344,ed534aa8f7160110be9dcc42cac61303:824250555,09e2ca6c141601103b24e38f7c30cc31:-77474688,532246a80a160110754a9cdda1042778:-527316592,93cf7d686e1601107bf60cd392438769:-1836740165,471fbd686b1601109f8324dc9be7ab12:1982904326,de0f35a87216011060a6ac68f2dea63b:1110031206,87aefd6802160110e6c07f0e4b937e08:1124298744,049e7d6858160110289259039fa14961:-1686643198,3b2e3968a416011086ea38653b0a9d2e:-2013765118,4a1ef928681601101f9492812a8b9d24:526471285,2a27717b79b541103d5694a80ee1fa84:1758837688,dc85b5f759b541103f8f4b18165c2346:-1444404167,873575f7cdb541107bfdb193dba61db1:-230599344,943575f730b54110471e786be8f9a58a:1885794831,792535f701b5411005813463d903efdb:315478512,380531f728b54110f24f8171d231690e:-1220332236,2bd475b7a6b5411038c05fdd462f72d2:271682669,60d4797794b54110b6c33b1095bab748:95567148,b394f9b7fdb541108800f637f85bc6ed:615294190,132475b714b5411061af9ea768249ec9:-1974154266,cc14f177e1b541107665a29a666481d7:-1961158905,d2f339f3ceb54110052c98ac5aa2aae4:1767684918,62c3f97799b5411025f716ad2bb92255:-1107077961,b7833d77ecb54110f3cc487b2e9b3bc3:1681449380,7003f93707b54110b93a2b3353d5edec:1647867015,10f279f30fb541106a926271eb73b276:-1530252953,fa52f9379fb5411018fcd23988acd2d7:1112163217,b32279f321b54110093bcdf50b57a1fe:1813678640,940f69735eb541109397afe80992a154:-2077994124,efee6dff65754110a90e808ff5357805:-660618444,9edee533d6b54110023cac34ea5d0c5f:-1843021926,033a3e8706710110c064234b6af4fe3c:-552186396,f90a76876a710110900874bbfc1dbe1e:1015183550,35e9f6875771011087d38f8faf340d24:-2059451548,fbb936474571011007392610e21ee879:1998851111,df693e4758710110d02f9d2994084155:1456511858,6929fa47d1710110f0aa3d3148d293f9:-53885880,0e09ba47ff710110ed2fd7c9e20a7780:523156294,1f98f2470671011055238c6075e145c3:-97652469,1f78b6c37d7101103bdfd5b72dafad25:23986059,ab58fe07fb710110781e95368b74dfad:1550740971,36e77a07a8710110607fdcbb3ab5680f:33008323,3907b6c338710110e418ce71d085f80c:-587088968,ce9676c32e710110bbb0b3fe202c12d5:-2100873739,8386ba43607101107f5c27bec40f3110:-143430188,0176f2c3637101109a1ae3c1d511aba7:-1350399245,9756b2c33b710110047195b8ed349148:1437088252,95d5ba83857101100f9a6cbf2641b4f1:-1129677423,9885fa43217101104282e915cffc3874:1958566863,08a4b64332710110933755897ed9a1d2:656063080,c7843a43ab7101105e6f65d293da1394:-2124098403,53643a0331710110e1e81823f6b922ac:-1599767739,5cf3fa034171011014b1a2877796059f:-2124098403,67c3be03d6710110becbfa6f8005d72d:2023797670,0fb33a0366710110fa7bcefed63e589e:1762097988,bb93f203677101104478f2717b73dbf2:-1236734544,3e633a03d7710110cc06acfa21014796:1428347355,aa03b2030f710110c033ac126eebbef8:415710622,65df2e0fae3101108a72aa2d4292b978:-1443435888,c36fa60fe9310110f1a34b98f04aeffd:767271760,61fee68bb731011068edc5d24096c244:240616300,4ddee64bad310110fd7d2daa03835a91:-1928507384,764eae4b1c310110357625ca1ed99784:-839940391,310d6e8bfe310110bfa6a7aac7162e73:-689615324,c1fc2e8b653101101bbb109bc061d654:-1003760252,a9daeec7b831011026c49397e353ac47:-1635988695,ebaaaa0b12310110e29a7e8c6485a054:781631963,ee0a620bb2310110e80a00eeacc09b24:1032259741,02e9e2c70a310110c564f670339aa3a8:2106381362,5ad9aec750310110cc35641c5cd07d30:-924709418,e26926c78431011060e8b59f8ee5dbf0:1876151585,205922c78e310110e2fac8b1b11035aa:-1041424234,043926c7c5310110a2ab56aed67ea0e8:373923688,b919a647cb31011025f70d49a88c68ab:474714805,05e822c71f3101103eea784d278cf4a1:977041233,da88ea87083101101443215b9147f33a:845501517,6268e647c3310110a4e33b19cb758ce0:714735451,6c682a87e0310110c920619f0d0d42f2:-127632755,fe18268783310110106f6182d116bac7:2003747163,d008a647bb3101105339b2e63469d483:1627765865,7ae76287143101106785f7ef37e60ffe:-631879547,456379ea237941100d438806c8a2a8bf:-1775055806,4682316e907941107a1de3362a601e6c:-1112750462,5f62b92edd7941101383d32810a1ce73:184334005,5ed0f92e8c794110ab3624efea1bbdbc:-1323957887</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_pa_dashboards_group_RPT3c2fdce6c7100300b0ea8b3c5c976386</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="pa_dashboards_group" version="2" view="RPT3c2fdce6c7100300b0ea8b3c5c976386"><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_name</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>f08e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_class_name</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>348e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_update_name</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>748e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_scope</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>b48e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_policy</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>f48e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>388e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="DELETE"><average_value>false</average_value><element>sys_updated_by</element><list_id display_value="sys_metadata" element="NULL" name="sys_metadata" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bc8e8f32d723210092610eca5e610302</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2014-10-08 04:52:14</sys_created_on><sys_id>788e8f32d723210092610eca5e610303</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-10-08 04:52:14</sys_updated_on></sys_ui_list_element><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>pa_dashboards_group</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id/><sys_mod_count/><sys_name>pa_dashboards_group</sys_name><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2022-04-01 15:33:46</sys_updated_on><sys_user/><view display_value="Rpt3c2fdce6c7100300b0ea8b3c5c976386" name="RPT3c2fdce6c7100300b0ea8b3c5c976386">1045b5fa45193010c0a05206e0e0f8c1</view><view_name>RPT3c2fdce6c7100300b0ea8b3c5c976386</view_name></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>1504571050</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>f6ee1726870301106c9a4087cebb35ae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c2db0c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table>pa_dashboards_group</table>
+<target_name>Dashboard Group</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>c3c8b2daa7220110043ced38daea806c</update_guid>
+<update_guid_history>c3c8b2daa7220110043ced38daea806c:1504571050</update_guid_history>
+<update_set display_value=""/>
+<view>RPT3c2fdce6c7100300b0ea8b3c5c976386</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_grid_canvas_pane_e3503ae0c730030020508b3c5c97636c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab 3">41aeeea0c730030020508b3c5c976326</grid_canvas><height>24</height><portal_widget display_value="Created 2017-08-22 04:08:27">ab503ae0c730030020508b3c5c976369</portal_widget><posx>0</posx><posy>20</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-08-22 11:08:27</sys_created_on><sys_id>e3503ae0c730030020508b3c5c97636c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>41aeeea0c730030020508b3c5c976326</sys_name><sys_package display_value="Performance Analytics - Administrator Console" source="com.snc.pa.administration.console">9a81b97245d53010c0a05206e0e0f825</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_grid_canvas_pane_e3503ae0c730030020508b3c5c97636c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-01 15:36:05</sys_updated_on><width>10</width></sys_grid_canvas_pane></record_update>]]></payload>
+<payload_hash>-1550965018</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>faee1726870301106c9a4087cebb35ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17fe5c4f98e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table/>
+<target_name>41aeeea0c730030020508b3c5c976326</target_name>
+<type>Grid Canvas Pane</type>
+<update_domain>global</update_domain>
+<update_guid>4159fada14220110fe9de27be828f653</update_guid>
+<update_guid_history>4159fada14220110fe9de27be828f653:-1550965018,ae49bada33220110cf0f02db19402da1:-1433328249,2249badaca2201104a57802ef95607a1:506122480</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sys_translated_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="name" table="sys_translated"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>allow_public=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Table</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>name</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">table_name</internal_type><mandatory>false</mandatory><max_length>80</max_length><name>sys_translated</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2021-07-15 23:34:45</sys_created_on><sys_id>7d89253245113010c0a05206e0e0f80a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Table</sys_name><sys_package display_value="System (apps/system2)" source="apps/system2">ed89e13245113010c0a05206e0e0f876</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_sys_translated_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 11:47:04</sys_updated_on><table_reference>true</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1498165749</payload_hash>
+<remote_update_set display_value="CreateSNTranslations - Portal Widget v1.0">e6ee1726870301106c9a4087cebb35aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-27 09:30:11</sys_created_on>
+<sys_id>feee1726870301106c9a4087cebb35ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f8d6731ba0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-27 09:30:11</sys_updated_on>
+<table>sys_translated</table>
+<target_name>Translated Name / Field.Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>64e1eef891164110644a9eaa9ceb5df1</update_guid>
+<update_guid_history>64e1eef891164110644a9eaa9ceb5df1:-1498165749,20e1aeb8bf164110d757ef0ca6412b6d:-1581097538</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

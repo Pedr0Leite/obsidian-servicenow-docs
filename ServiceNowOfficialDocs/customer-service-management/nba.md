@@ -1,0 +1,163 @@
+---
+title: Configuring Recommended Actions
+description: Use the Recommended Actions application to display relevant actions to agents based on a context of a record or enable agents to perform an AI search to find relevant resources. Agents can quickly and easily take action to help customers and resolve their issues.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/customer-service-management/nba.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 6
+breadcrumb: [Implement Intelligence, Configure, Customer Service Management]
+---
+
+# Configuring Recommended Actions
+
+Use the Recommended Actions application to display relevant actions to agents based on a context of a recordor enable agents to perform an AI search to find relevant resources. Agents can quickly and easily take action to help customers and resolve their issues.
+
+\[Omitted image "ra-actions-overview-2.png"\] Alt text: Recommended actions and Search tabs in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]]
+
+With Recommended Actions:
+
+-   Provide agents with optimal action in a context of a record.
+-   Enable agents to focus their attention to the critical call-to-action.
+-   Allow agents to take an action in a contextual side panel or in a subtab.
+-   Enable agents to troubleshoot and provide a resolution to customers.
+-   Rank actions that agents can take based on a configurable logic.
+-   Recommend a value for a field on a form.
+-   Enable agents to use AI search to find the most relevant resources.
+
+## Example scenarios for implementing Recommended Actions
+
+Use Recommended Actions to provide the following recommendations:
+
+-   Apply resolution from a solved case: Recommend agents to apply resolution from a similar solved case and then close the case.
+-   Reassign case: Recommend a field value for the Assignment group field so that the case is assigned to the relevant team.
+-   View and attach article: Recommend a Knowledge article relevant to the customer issue so that agents can view and attach the article to the current case.
+-   Review a refund request. Recommend a decision tree for agents to work through to determine if the customer is eligible for a refund.
+
+For end-to-end configurations of recommended actions for specific scenarios, see [[recommended-actions-use-case|Example configurations of recommended actions]].
+
+## Action types for Recommended Actions
+
+With the Recommended Actions application, you can create the following types of actions for agents to take. For more information, see [[configure-nba|Recommended Actions]].
+
+<table id="table_nxk_y1t_c5b"><thead><tr><th>
+
+Action type
+
+</th><th>
+
+Description
+
+</th></tr></thead><tbody><tr><td>
+
+**Guidance**
+
+</td><td>
+
+An action that an agent can take or information they can share. For example, guidance can recommend that an agent can attach a knowledge article in comment, work note, or mail of a case or [[create-work-orders|create a work order]].
+
+</td></tr><tr><td>
+
+**Guided decision tree**
+
+</td><td>
+
+A guided flow to follow. A decision tree is a multi-step process that includes a series of questions and answers and results in guidance.
+
+</td></tr><tr><td>
+
+**Field recommendation**
+
+</td><td>
+
+A recommended value to use for a field. For example, this type of action can recommend the assignment group based on the text in the case short description.
+
+</td></tr></tbody>
+</table>## AI search
+
+Agents can enter their queries in the search bar to access AI-powered search results. The most relevant answers for the search query appear as genius result cards. Agents can take the actions from the search cards directly to resolve an issue. For more information, see [[ra-csm-ai-search|AI search in Recommended Actions]].
+
+-   **Benefits of AI search integration with Recommended Actions**
+    -   Unified search and recommendations: This integration combines AI-driven search capabilities with proactive recommendations, providing a unified toolset for agents.
+    -   Contextual [[intelligence-csm|intelligence]]: The system leverages contextual data to deliver highly relevant search results and recommendations tailored to each case.
+    -   Proactive recommendations: Agents receive actionable suggestions to accelerate case resolution, based on real-time case context.
+    -   Seamless workflow: The integration streamlines the user workflow by providing access to search and recommendations within a single interface.
+
+## Using recommended actions
+
+Agents can access recommended actions in a workspace such as CSM Configurable Workspace by selecting the Recommended Actions icon \(\[Omitted image "nba-icon.png"\] Alt text: Recommended Actions icon\) in the contextual side panel. For more information, see [[ra-csm-using-recommended-actions|Using the Recommended Actions application]].
+
+## Setting up recommended actions
+
+Set up the Recommended Actions application so that you can create actions of type guidance or field recommendation. An admin can complete the following setup tasks.
+
+<table id="table_vcr_lms_h5b"><thead><tr><th>
+
+Setup task
+
+</th><th>
+
+Description
+
+</th></tr></thead><tbody><tr><td>
+
+[[install-recommended-actions-cs-app|Install the Recommended Actions application]]
+
+</td><td>
+
+Download the Recommended Actions application from the ServiceNow® Store.
+
+</td></tr><tr><td>
+
+[[ra-csm-installed-components|Assign roles to Recommended Actions users]]
+
+</td><td>
+
+[[configure-data-model-roles|Assign roles]] to your users to control access to Recommended Actions features and information.
+
+</td></tr><tr><td>
+
+[[configure-recommended-actions|Configuring the Recommended Actions application]]
+
+</td><td>
+
+Configure recommended actions to create a context, rule, and recommendations with action types such as guidance and field recommendation.**Note:** The Guided Decisions application \(sn\_gd\_core\) is required to create guided decision trees.
+
+</td></tr></tbody>
+</table>**Note:** If Recommended Actions doesn't appear on a variant of a record page \(such as the [[csm-default-record-page|CSM default record page]], [[csm-interaction-record-page|CSM Interaction record page]], or [[csm-front-line-case-page|Front-line case page]]\), ensure that the variant is marked active. For detailed steps, see [[ra-csm-enable-ra-variant-record-page|Restore Recommended Actions on record page variants after upgrade]].
+
+## Integrating decision trees in recommended actions
+
+Optionally, set up the Guided Decisions Experience application so that you can create decision trees and then integrate them in recommended actions. Admins can complete the following setup tasks.
+
+|Setup task|Description|
+|----------|-----------|
+|[[install-guided-decisions-exp-app-new|Install the Guided Decisions Experience application]]|Install the Guided Decisions Experience application from the ServiceNow® Store. This application enables you to configure decision trees that you can use as recommendations.|
+|[[configuring-guided-decisions|Configuring decision trees]]|Configure decision trees that agents can use to troubleshoot solutions for customer issues.|
+|[[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]]|Add decision trees to recommended actions, so that agents can take relevant action during troubleshooting based on a record context.|
+
+## Request apps from the ServiceNow Store
+
+Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+
+## Related
+
+- [[recommended-actions-use-case|Example configurations of recommended actions]]
+- [[configure-nba|Recommended Actions]]
+- [[ra-csm-ai-search|AI search in Recommended Actions]]
+- [[ra-csm-using-recommended-actions|Using the Recommended Actions application]]
+- [[install-recommended-actions-cs-app|Install the Recommended Actions application]]
+- [[ra-csm-installed-components|Components installed with Recommended Actions]]
+- [[configure-recommended-actions|Configuring the Recommended Actions application]]
+- [[ra-csm-enable-ra-variant-record-page|Restore Recommended Actions on record page variants after upgrade]]
+- [[install-guided-decisions-exp-app-new|install guided decisions exp app new]]
+- [[configuring-guided-decisions|Configuring guidances and decision trees]]
+- [[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]]
+- [[csm-workspaces-configure|CSM Configurable Workspace]]
+- [[create-work-orders|Create a work order]]
+- [[intelligence-csm|Intelligence]]
+- [[configure-data-model-roles|Assign roles]]
+- [[csm-default-record-page|CSM default record page]]
+- [[csm-interaction-record-page|CSM Interaction record page]]
+- [[csm-front-line-case-page|Front-line case page]]

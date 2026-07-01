@@ -1,0 +1,37 @@
+---
+title: Customer contact self-registration
+description: The self-registration feature enables new customer contacts to submit registration requests through the customer portal.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/customer-service-management/c\_PortalSelfRegistration.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Use Customer Service Portal, Customer communication, Use, Customer Service Management]
+---
+
+# Customer contact self-registration
+
+The self-registration feature enables new customer contacts to submit registration requests through the customer portal.
+
+A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [[approve-request-from-cust-portal|Approve a change request, or registration request]].
+
+If an account has multiple customer administrators, they all receive the registration request, but only one approval is necessary.
+
+The request is either accepted or rejected. If accepted, a new account is created, and the customer contact gets an email with a user ID and a temporary password. When logging in to the portal for the first time, the customer contact needs to change the temporary password. If rejected, the customer contact gets an email notification.
+
+**Note:** If a request is submitted with an incorrect registration code, a notification message appears `Invalid Registration Code`.
+
+\[Omitted image "customer-self-registration.png"\] Alt text: A self-registration form with various fields for customer contact information.
+
+The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the [[customer-service-account-form|Account form]]. After the code is created, customer administrators can distribute the code to customers as needed.
+
+**Related topics**  
+
+
+[Example: The default self-service Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SelfServicePasswordReset.md)
+
+## Related
+
+- [[approve-request-from-cust-portal|Approve a change request, or registration request]]
+- [[customer-service-account-form|Account form]]

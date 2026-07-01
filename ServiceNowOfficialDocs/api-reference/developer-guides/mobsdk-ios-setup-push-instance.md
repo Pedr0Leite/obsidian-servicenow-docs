@@ -1,0 +1,33 @@
+---
+title: Setting up push notifications on your ServiceNow instance
+description: For each Mobile SDK application that incorporates the Virtual Agent service and leverages push notifications, you must complete the following configuration process on your ServiceNow instance.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/api-reference/developer-guides/mobsdk-ios-setup-push-instance.html
+release: australia
+product: Developer Guides
+classification: developer-guides
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Configure push notifications, Mobile SDK Developer Guide - iOS, Developer guides, API implementation and reference]
+---
+
+# Setting up push notifications on your ServiceNow instance
+
+For each Mobile SDK application that incorporates the Virtual Agent service and leverages push notifications, you must complete the following configuration process on your ServiceNow instance.
+
+-   [[mobsdk-ios-retrieve-apple-cert|Generate and retrieve an iOS push certificate]].
+-   [[mobsdk-and-add-push-app|Add a push application record]] in the Push Application \[sys\_push\_application\] table.
+-   [[mobsdk-and-add-push-msg-content|Add a push notification message content record]] in the Push Notification Message Content \[sys\_push\_notif\_msg\_content\] table.
+-   [[mobsdk-and-add-default-push-reg|Add a default push registration]].
+-   [[mobsdk-and-add-push-notif-msg|Add a push notification message]] in the Push Notification Message \[sys\_push\_notif\_msg\] table.
+-   [[mobsdk-and-mod-push-not|Modify the push notification]] record in the Notification \[sysevent\_email\_action\] table.
+
+## Related
+
+- [[mobsdk-and-add-push-msg-content|Add a push notification message content record]]
+- [[mobsdk-ios-retrieve-apple-cert|Generate and retrieve an iOS push certificate]]
+- [[mobsdk-and-add-default-push-reg|Add a default push registration]]
+- [[mobsdk-and-add-push-notif-msg|Add a push notification message]]
+- [[mobsdk-and-add-push-app|Add a push application record]]
+- [[mobsdk-and-mod-push-not|Modify the push notification]]

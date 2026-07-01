@@ -1,0 +1,34 @@
+---
+title: Threat Report
+description: Threat Reports are collections of threat intelligence focused on one or more topics. Threat reports apply for STIX 2.x.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/threat-intelligence-security-center/threat-report.html
+release: australia
+product: Threat Intelligence Security Center
+classification: threat-intelligence-security-center
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Security Center Library, Use, Threat Intelligence Security Center, Security Operations]
+---
+
+# Threat Report
+
+[[threat-reports|Threat Reports]] are collections of [[threat-intel-landing-page|threat intelligence]] focused on one or more topics. Threat reports apply for STIX 2.x.
+
+Threat reports include description of a [[threat-actor|threat actor]], [[threat-intelligence-malware|malware]], attack technique, including context and related details. They are used to group-related threat intelligence together so that it can be published as a comprehensive cyber threat story.
+
+The Threat Report SDO contains a list of references to STIX Objects along with a textual description and the name of the report.
+
+-   **[Define Threat Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-threat-report.md)**  
+[[define-threat-reports|Define threat reports]] that describe a threat actor, malware, attack technique, including context and related details.
+
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
+
+## Related
+
+- [[threat-reports|Threat reports]]
+- [[threat-intel-landing-page|Threat Intelligence]]
+- [[threat-actor|Threat Actor]]
+- [[threat-intelligence-malware|Malware]]
+- [[define-threat-reports|Define threat reports]]

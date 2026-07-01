@@ -1,0 +1,56 @@
+---
+title: Managing visitor registrations
+description: As an admin and as a reception staff, you can track visitor registrations and update their status while the visitors are on the premises.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/employee-service-management/workplace-visitor-management/manage-visitor-registrations.html
+release: australia
+product: Workplace Visitor Management
+classification: workplace-visitor-management
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Workplace Visitor Management, Workplace Service Delivery, Employee Service Management]
+---
+
+# Managing visitor registrations
+
+As an admin and as a reception staff, you can track visitor registrations and update their status while the visitors are on the premises.
+
+As an admin and as a reception staff, you can perform the following actions on visitor registrations:
+
+-   Register visitors using the application as well as the service portal.
+-   View all the visitor registrations.
+-   View any visitor registrations for the current day or which were created by you.
+-   Create visitor-related services for your employees as a self-service.
+-   Monitor visitor registrations using the [[visitor-reception-dashboard|Visitor Reception Dashboard]].
+-   Create visitor policies and assign it to workplace locations.
+
+As an admin, you can also [[view-visit-logs|view visit logs]] containing details about the state changes for the visitor registrations.
+
+-   **[Use the receptionist portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/use-receptionist-portal.md)**  
+[[use-receptionist-portal|Use the receptionist portal]] to manage visitor [[activity-lxp|activity]] in your workplace.
+-   **[Update a visitor registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/update-visitor-registration.md)**  
+Track visitor registrations and update the status of a visitor while the visitor is on the premises.
+-   **[View visitor registrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-visitor-registrations.md)**  
+[[view-visitor-registrations|View visitor registrations]] submitted through the service portal. You can view all visitor registrations, the ones for the current day, and the ones that were made by you.
+-   **[View visitor policy confirmations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-policy-confirmations.md)**  
+View policy confirmations that were submitted by the visitors.
+-   **[Visitor registration states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/visitor-registration-states.md)**  
+The visitor logs display the current state of visitor registrations. These states can be changed to other states.
+-   **[Anonymize a visitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md)**  
+As an admin, you can [[anonymize-visitor|anonymize a visitor]] to delete the visitor record and all the details of the visitor. Any future registrations of the visitor are canceled.
+-   **[Apply visitor management archive policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/apply-visitor-management-archival-rule.md)**  
+Apply the archival policy for [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]. The archival policy will archive old visitor records and [[register-visitors|visitor registration]] records that are more than one year old.
+
+**Parent Topic:**[Workplace Visitor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-feat.md)
+
+## Related
+
+- [[visitor-reception-dashboard|Visitor Reception Dashboard]]
+- [[view-visit-logs|View visit logs]]
+- [[use-receptionist-portal|Use the receptionist portal]]
+- [[activity-lxp|Activity]]
+- [[view-visitor-registrations|View visitor registrations]]
+- [[anonymize-visitor|Anonymize a visitor]]
+- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
+- [[register-visitors|Visitor registration]]

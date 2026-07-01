@@ -1,0 +1,40 @@
+---
+title: Install Microsoft Exchange Online application
+description: Before you run the integration on your instance, install the Microsoft Exchange Online application for the integration from the ServiceNow Store.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/security-incident-response/install-and-configure-ms-exchange-online.html
+release: australia
+product: Security Incident Response
+classification: security-incident-response
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Microsoft Exchange Online integration, Security Incident Response integrations, Security Incident Response, Enterprise security case management applications, Security Operations]
+---
+
+# Install Microsoft Exchange Online application
+
+Before you run the integration on your instance, install the Microsoft Exchange Online application for the integration from the ServiceNow Store.
+
+## Before you begin
+
+Before you install the application from the ServiceNow Store on your ServiceNow AI Platform instance, complete all the tasks listed in the prerequisite checklists.
+
+Role required: admin
+
+## Procedure
+
+1.  If you have not installed the application for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+
+2.  After you’ve installed the application from the ServiceNow Store, configure it to connect to your ServiceNow AI Platform instance.
+
+
+**Parent Topic:**[Microsoft Exchange Online integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-exchange-online-lookups.md)
+
+**Previous topic:**[Set up your Microsoft Azure account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-azure-account.md)
+
+**Next topic:**[Configure the Microsoft Exchange Online integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msx_configure.md)
+
+## Related
+
+- [[install-non-core-apps|Install a Security Operations integration]]

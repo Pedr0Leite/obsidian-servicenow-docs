@@ -1,0 +1,221 @@
+---
+title: Australia Retail Industry
+locale: en-US
+release: australia
+bundle: rahi
+doc_type: toc
+---
+
+# Australia Retail Industry
+
+- [[rahi-retail-operations-overview|Retail]] -- The ServiceNow Retail product empowers managers and associates to manage daily retail operations by automating tasks and resolving issues quickly with self-service, freeing up time to serve customers. It enables seamless two-way communication and visibility between stores and HQ. It helps in delivering a great customer experience while enhancing staff productivity and reducing costs.
+  - [[rahi-retail-operations-explore|Explore]] -- Whether you're starting or expanding your implementation of the Retail application, learn more about the features available to optimize your retail organization.
+    - [[rahi-retail-case|Retail case overview]] -- The Retail case table stores information about your retail case types and provides the base for retail case creation. This table extends the Customer Service Management case table. All fields utilized through Customer Service Management case remain intact.
+    - [[rahi-retail-portal|Retail portal]] -- Retail portal provides an enhanced experience to use self-service tools, view cases, and gain visibility into metrics for your retail organizations.
+    - [[rahi-retail-retail-mobile|Retail mobile application]] -- The Retail mobile plugin offers a customized mobile experience for retail operations, enabling frontline teams to manage efficiently store activities and resolve issues on the go. It provides real-time insights into key KPIs, supports issue tracking, and is compatible with both Android and iOS platforms.
+    - [[rahi-retail-retail-case-types|Retail case types]] -- Retail case types are designed to address various business needs and streamline workflows for store-level and HQ-driven task management.
+      - [[rahi-retail-retail-store-services|Store inquiry case]] -- The store inquiry case type facilitates seamless communication between store teams and headquarters, enabling efficient exchange of operational queries, information, and issues. This case type is included in the Retail store services plugin.
+      - [[rahi-retail-retail-customer-complaint|Customer complaint case]] -- The customer complaint case type helps manage and resolve customer feedback related to store experiences. This case type enables customers to submit complaints anonymously to encourage honest feedback and help stores improve their service. This case type is included in the Retail customer complaint plugin.
+      - [[rahi-retail-retail-hq-operations|HQ communications case]] -- The HQ communications case enables effective coordination between HQ teams. It facilitates the execution of assigned work and allows HQ teams to monitor progress. This case type is included in the Retail HQ operations plugin.
+      - [[rahi-retail-retail-in-store-operations|In-store operations case]] -- The in-store operations case type allows store team members to report and track in-store operational issues, whether for routine or cyclical demands. This ensures that issues are documented and monitored for consistent execution and support. This case type is included in the Retail in-store operations plugin.
+    - [[rahi-retail-retail-multistore-operational-planning|Retail store plans]] -- The Retail store plan provides a centralized way to plan, schedule, and manage operational work across multiple stores, giving HQ and regional teams full visibility while simplifying execution for store teams.
+      - [[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]] -- Store plan Tracking gives headquarters and regional operations managers real-time visibility into published store plan progress, from overall completion summaries down to individual store tasks, so teams can identify and address delays before they become failures.
+        - [[rahi-retail-stages-tracking-monitoring|Stages of store plan tracking and monitoring]] -- A store plan moves through distinct phases, each supported by specific screens and interactions. Tracking activates from the point of publication onward.
+        - [[rahi-retail-scenarios-tracking-store-plans|Scenarios for tracking store plans]] -- Tracking can support several operational goals.
+        - [[rahi-retail-implementation-details|Implementation details]] -- The following table captures each screen in the tracking flow and the interaction pattern it uses.
+      - [[rahi-retail-create-a-questionnaire-template|Retail questionnaire]] -- Create customizable questionnaire templates to collect customer feedback and survey data for retail operations. Templates can be customized for specific business needs.
+        - [[rahi-retail-smart-assessment-questionnaires|Smart Assessment questionnaires for Retail]] -- Smart Assessment enables users with the sn_rtl_hq_ops.plan_author role to create smart assessment templates and associate them with store tasks.
+  - [[rahi-retail-operations-configuring|Configure]] -- Plan and configure your implementation of Retail.
+    - [[rahi-retail-operations-install|Activate plugins]] -- If you have the admin role, you can install the Retail applications.
+    - [[rahi-retail-assign-roles-users|Assign roles to Retail users]] -- Assign specific roles to give retail users visibility into organizations and the hierarchies they manage.
+      - [roles-by-case-type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/roles-by-case-type.md) -- 
+    - [[rahi-retail-configure-titles-labels|Configure related party configurations]] -- Configure the responsibilities of your retail staff by linking related party entity responsibilities to responsibility definitions.
+    - [[rahi-retail-create-retail-organization|Create a retail organization]] -- Create a retail organization to enable management of hierarchical stores and franchises that simplifies store associate management.
+    - [[rahi-retail-add-members-to-organization|Add members to a retail organization]] -- Add members to your organization to enable them to view and complete tasks within your retail organization.
+    - [[rahi-retail-configure-organizational-structure|Configure your organizational structure]] -- Configure the structure of your retail organization within Retail Core.
+    - [[rahi-retail-setup-support-team|Set up your retail support team]] -- Set up your retail support team by creating a group then assigning the sn_retail.support_agent role to members of that group.
+    - [[rahi-portal-configure-retail-kpi-widget|Add and configure the Retail KPI widget]] -- Display report data in card format on your portal. You can display the report data by adding and configuring the Retail KPI widget.
+      - [[retail-kpi-json-parameters|Retail KPI JSON parameters]] -- JSON parameters define aspects of the Retail KPI list widget on the portal page.
+      - [portal-data-list-json-reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/portal-data-list-json-reference.md) -- 
+      - [configure-portal-navigation-menus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/configure-portal-navigation-menus.md) -- 
+      - [configure-portal-data-list-widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/configure-portal-data-list-widget.md) -- 
+    - [[rahi-retail-configuring-field-visibility-questionnaire-modal|Configuring field visibility in the Create questionnaire modal]] -- The Create questionnaire modal supports dynamic field visibility based on page parameters. When specific parameters are passed to the page, certain fields are automatically hidden.
+  - [[rahi-retail-manage-customer-complaints|Manage customer complaints]] -- Manage customer complaints by creating and assigning them to HQ persona.
+    - [[rahi-retail-creating-request-in-workspace|Create a customer complaint case]] -- Create and assign a retail customer complain case in Workspace on behalf of a customer.
+    - [[rahi-retail-track-a-customer-complaint-case|Track a customer complaint case in workspace]] -- Track the status of a retail customer complaint case in Workspace.
+    - [[rahi-retail-close-customer-case-workspace|Close a customer complaint case in workspace]] -- Provide a resolution and close a customer complaint case in workspace.
+  - [[rahi-retail-manage-store-inquiries|Manage store inquiries]] -- Manage your store inquiry cases by creating, managing, and resolving them by using the retail portal, workspace, or mobile app.
+    - [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]] -- Create a retail store inquiry case from the Retail portal to report issues on behalf of the store that you're associated with. By using the Retail portal to create a case, you can more efficiently get updated information about your case in real time.
+    - [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]] -- Accept, reject, or close a store inquiry case from the Retail portal. By using the Retail portal, you can handle cases more efficiently and get updated information in real time.
+    - [[rahi-retail-track-store-inquiry-case|Track a store inquiry case from the Retail portal]] -- Track the status of a store inquiry case from the Retail portal. By tracking your case from the Retail portal, you can immediately get visibility into the progress, issues, or status of your case.
+    - [[rahi-retail-creating-request-mobile|Create a store inquiry case from a mobile app]] -- Create a store inquiry case from a mobile app to report issues on behalf of the store that you’re associated with. By creating case from a mobile app, you can immediately get visibility into the progress, issues, or status of your case without having to use a computer.
+    - [[rahi-retail-fulfill-retail-store-service-case-mobile|Manage a store inquiry case from a mobile app]] -- Manage a store inquiry case from a mobile app by accepting or rejecting a proposed solution. By managing a case from a mobile app, you can immediately get visibility into the progress, issues, or status of your case without having to use a computer.
+    - [[rahi-retail-tract-store-inquiry-case-retail-mobile-app|Track a store inquiry case from a Retail mobile app]] -- Track the status of a store inquiry case from a mobile app. By tracking your case from a mobile app, you can immediately get visibility into the progress, issues, or status of your case without having to use a computer.
+    - [[rahi-retail-fulfill-retail-store-service-workspace|Resolve a store inquiry support request from workspace]] -- Resolve a store inquiry case with a resolution from your workspace.
+  - [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]] -- You can track your store inquiry cases from the Retail portal.
+    - [[view-cases-and-tasks-in-retail-portal|Track your cases and tasks from the Retail portal]] -- Track the cases that are assigned to you or your team from the Retail portal.
+    - [[rahi-retail-portal-view-knowledge-articles|View knowledge articles]] -- View the knowledge articles that were posted by your organization directly from the Retail portal.
+    - [[rahi-retail-portal-view-retail-organizations|View associated organizations]] -- Track your associated retail organizations from the Retail portal.
+  - [[rahi-retail-manage-store-plans|Manage store plans]] -- Manage store plans to plan and schedule generation of cases and tasks to simplify manual efforts.
+    - [[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]] -- Manage store plans to plan and schedule generation of cases and tasks to simplify manual efforts.
+      - [[create-plan-workspace|Create a store plan]] -- The HQ manager creates a new plan for case and task generation.
+      - [[rahi-retail-add-hq-case-details|Add HQ details to a store plan]] -- Log the HQ case details to the new HQ communications store plan.
+      - [[rahi-retail-add-hq-task-details|Add HQ task details]] -- Log the HQ task details to the new HQ communications store plan.
+      - [[rahi-retail-add-store-case-details|Add store case details]] -- Log the store case details to the new HQ communications plan.
+      - [[rahi-retail-add-store-task-details|Add store task details]] -- Log the store task details to the new HQ communications plan.
+      - [[rahi-retail-add-affected-retail-stores|Add affected Retail stores]] -- Determine the affected Retail stores from the list of retail stores.
+      - [[rahi-retail_schedule-the-cases-or-tasks|Schedule the store plan]] -- Schedule the store plan based on the requirement- immediate, one time, or recurring. Once the store plan gets scheduled, it automates the case and task generation which reduces manual work.
+      - [[review-store-plan-details|Review store plan details]] -- Review the details logged for the store plan and make any updates in any of the sections, if required.
+    - [[rahi-retail-monitor-published-store-plan|Monitor store plans]] -- Audit or review previously published schedules as needed using the CSM/FSM Configurable Workspace.
+    - [[rahi-retail-clone-store-plan|Clone a store plan]] -- Clone an existing store plan to create a new store plan that includes the items, conditions, and hierarchy.
+    - [[rahi-retail-deactivate-a-store-plan|Delete or deactivate a store plan]] -- A store plan can be deleted when it is active and in the Draft state or deactivated when it is active and is in the Published state.
+    - [[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]] -- Monitor progress, completion rates, or delays across all stores for a single plan by tracking and monitoring in-store operations case and task progress.
+      - [[rahi-retail-track-in-store-case|Track In-store operations cases]] -- Monitor the progress of an In-store operations case from the CSM/FSM Configurable Workspace.
+      - [[rahi-retail-track-in-store-task|Track In-store operations tasks]] -- Monitor the progress of an In-store operations task from the CSM/FSM Configurable Workspace.
+      - [[rahi-retail-track-in-store-tasks-mobile|Track In-store operations tasks on mobile app]] -- Monitor the progress of an In-store operations task on Retail mobile app.
+    - [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]] -- Use Retail Mobile to review, track, and complete In-store operations cases and tasks generated from store plans.
+      - [[rahi-retail-view-in-store-cases-tasks|View assigned In-store operations cases and tasks]] -- Review all of your assigned In-store operations cases and tasks within Retail Mobile.
+      - [[rahi-retail-filter-cases-tasks|Filter cases and tasks]] -- Use the filter within Retail Mobile to limit displayed cases or tasks based on specified keywords.
+      - [[rahi-retail-work-in-store-operations-case-mobile|Work on an In-store operations case]] -- Work on an In-store operations case using Retail Mobile.
+      - [[rahi-retail-in-store-task-mobile|Work on an In-store operations task]] -- Complete individual work items tied to a store case using Retail Mobile.
+      - [[rahi-retail-mobile-search-ai|Search for cases and tasks]] -- Use the Search function in Retail Mobile to find cases or tasks based on relevant keywords or descriptions.
+      - [[rahi-retail-complete-questionnaire|Complete a questionnaire for a store task on Retail mobile app]] -- Complete task-based questionnaires for HQ-to-store communication directly on the mobile app.
+  - [[track-monitor-store-plans|Track and monitor store plans]] -- HQ and regional managers lack real-time insight into how published store plans are progressing. This capability bridges that gap by providing visibility from overall plan status down to individual store tasks.
+    - [[track-hq-case|Track a store plan on the workspace]] -- Enable plan creators to track published plan execution end-to-end, overall completion status, parent (HQ) cases, HQ tasks, store cases, and store tasks.
+    - [[track-store-case-hq-case|Track a store case from an HQ case]] -- Track a store case from an HQ case to view the status.
+  - [[rahi-retail-now-assist-for-retail|Now Assist for Retail Service Management (RSM)]] -- The store inquiry AI agent is an intelligent assistant designed to support the headquarters (HQ) support agents in efficiently managing and resolving cases.
+    - [[rahi-retail-now-assist-explore|Explore]] -- Now Assist for Retail Service Management (RSM) streamlines store inquiries and service requests by leveraging generative AI to deliver accurate, context-aware responses. It enhances collaboration between store teams and HQ teams. It drives faster resolutions, improves customer experiences, and enables smarter retail service management.
+    - [[rahi-retail-now-assist-configure|Configure]] -- The collection comprises of Now Assist for Retail Service Management (RSM) and RSM AI agent collection. The Now Assist for Retail Service Management (RSM) and RSM AI agent collection together enable the store inquiry AI agent.
+      - [[rahi-retail-enable-store-inquiry-ai-agent|Enable store inquiry AI agent]] -- The HQ agent can leverage the store inquiry AI agent either manually or by enabling or configuring the trigger.
+    - [[agentic-workflows-now-assist-retail|Use Now Assist for Retail Service Management (RSM)]] -- Use store inquiry Al agent to improve and enhance the store inquiry processes in Retail Service Management(RSM).
+  - [[rahi-retail-operations-reference|Reference]] -- Reference topics provide additional information about Retail components.
+    - [[rahi-retail-components-installed-with-plugins|Components installed with plugins]] -- Several types of components such as tables, user roles, and business rule are installed when you activate the plugins in Retail.
+      - [[rahi-retail-components-installed-retail-core|Components installed with Retail core overview]] -- Several types of components such as tables, user roles, and business rule are installed when you activate the Retail Core.
+      - [[rahi-retail-components-installed-retail-mobile|Components installed with Retail Mobile]] -- Certain dependencies must be considered when using the Retail Mobile plugin.
+      - [[rahi-retail-components-store-services|Components installed with Retail Store Services]] -- Certain roles and dependencies must be considered when using the Retail Store Services plugin.
+      - [[rahi-retail-components-customer-complaint|Components installed with Retail customer complaint]] -- Certain roles and dependencies must be considered when using the Retail customer complaint plugin.
+      - [[rahi-retail-components-retail-hq-operations|Components installed with Retail HQ Operations]] -- Certain roles and dependencies must be considered when using the Retail HQ Operations plugin.
+      - [[rahi-retail-components-in-store-operations|Components installed with Retail In-store Operations]] -- Certain roles and dependencies must be considered when using the Retail In-store Operations plugin.
+      - [[components-playbook-store-plan|Components installed with Retail Playbook for Store Plan]] -- Certain roles and dependencies must be considered when using the Retail Playbook for Store Plan.
+      - [[rahi-retail-components-task-plan-template-playbook|Components installed with Task Plan Template Playbook]] -- Certain roles and dependencies must be considered when using the Task Plan Template Playbook.
+      - [[rahi-retail-components-pwm-playbook-activities|Components installed with PWM Playbook Activities]] -- Certain roles and dependencies must be considered when using the PWM Playbook Activities.
+      - [[rahi-retail-components-smart-assessments|Components installed with Smart Assessments for CSM]] -- Smart Assessment support in Customer Service Management (CSM) and Field Service Management (FSM) workspaces provides a unified experience for creating, configuring, and viewing assessment templates and instances.
+    - [[rahi-retail-data-model|Retail organization data model]] -- Learn about the Retail Core application by viewing the data model and role relationship diagrams. This diagram shows the relationship between the tables and roles within the application.
+      - [[rahi-retail-operations-data-model-tables|Retail organization data model tables]] -- Tables configured within the Retail Operations application enable you to determine the data model, tasks, and product offerings for your Retail Operations workflows.
+    - [[rahi-retail-retail-unified-cas-task-data-model|Retail unified case and task data model]] -- Learn about the unified retail case and task data model which helps understand the relationships between various case and task tables within retail. These extensions are designed to support distinct operational needs such as managing customer complaints, store inquiries, in-store operations, and HQ communications.
+    - [[rahi-retail-domain|Domain Separation in Retail Core]] -- Domain separation is supported for Retail Core. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+  - [Retail Task Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-overview.md) -- Use the ServiceNow [[rahi-retail-task-management-overview|Retail Task Management]] application to optimize the planning, organizing, and assigning of tasks to staff in your retail environment. The broader ServiceNow platform offers many tools to streamline and optimize task management. The Retail Task Management application enables specific retail use cases with a case generator that can create cases for multiple retail locations at once.
+    - [Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-exploring.md) -- Whether you're starting or expanding your implementation of the Retail Task Management application, learn more about the features available to optimize your retail tasks.
+      - [Retail multi-store case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-multistore-case.md) -- The [[rahi-retail-multistore-case|retail multi-store case]] enables the creation of child cases along with relevant tasks for affected stores. The retail multi-store case also enables tracking at the store level granularity.
+    - [Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-configuring.md) -- Set up Retail Task Management Core.
+      - [Install Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-activate.md) -- If you have the admin role, you can install the Retail Task Management Core application.
+      - [Enable service selector for Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-enable-service-selector.md) -- Activate the service selector to set up multi-store case capabilities.
+      - [Configure service definitions for multi-store case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-configure-service-definitions.md) -- Configure service definitions to include the Multiple case creation configuration field to create multi-store cases.
+      - [Create a CSM Table Map for Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-csm-table-map.md) -- Create a CSM table map to create multi-store case configurations for use with your service definitions.
+      - [Create an entity in the Multiple Case Configuration table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-entitt-multiple-case-creation.md) -- Create an entity in the multiple case creation configuration table based on the mapping that you created.
+      - [Create a service definition for multi-store cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-service-definition.md) -- Create a service definition that leverages the multi-store creation engine to create multi-store retail cases.
+      - [enable-multistore-template-configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/enable-multistore-template-configuration.md) -- 
+    - [Create multi-store cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-multi-store.md) -- Create multi-store cases that assign work from HQ to multiple retail locations simultaneously.
+      - [Create a parent multi-store case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-parent-multi-store-case.md) -- Create a parent multi-store case for your retail organization using Retail Task Management Core.
+      - [Manage child cases in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-manage-child-cases.md) -- You can manage child cases created from a parent multi-store case in Retail Task Management Core.
+      - [Retail multi-store case states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-rtmc-case-states.md) -- The following table lists all possible states for the Retail multi-store parent case.
+    - [Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-reference.md) -- Reference topics provide additional information about Retail Task Management components.
+      - [Components installed with Retail Task Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-components.md) -- Several types of components such as tables, user roles, and business rule are installed when you activate the Retail Task Management plugin.
+      - [Retail Task Management Core data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-data-model.md) -- Learn about the Retail Task Management application by viewing the data model and role relationship diagrams. These diagrams show the relationships between the tables and roles within the application and provide an overall picture of how the Retail Task Management application operates.
+
+## Related
+
+- [[rahi-retail-operations-overview|Retail]]
+- [[rahi-retail-operations-explore|Exploring Retail]]
+- [[rahi-retail-case|Retail case overview]]
+- [[rahi-retail-portal|Retail portal]]
+- [[rahi-retail-retail-mobile|Retail mobile application]]
+- [[rahi-retail-retail-case-types|Retail case types]]
+- [[rahi-retail-retail-store-services|Store inquiry case]]
+- [[rahi-retail-retail-customer-complaint|Customer complaint case]]
+- [[rahi-retail-retail-hq-operations|HQ communications case]]
+- [[rahi-retail-retail-in-store-operations|In-store operations case]]
+- [[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
+- [[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]
+- [[rahi-retail-stages-tracking-monitoring|Stages of store plan tracking and monitoring]]
+- [[rahi-retail-scenarios-tracking-store-plans|Scenarios for tracking store plans]]
+- [[rahi-retail-implementation-details|Implementation details]]
+- [[rahi-retail-create-a-questionnaire-template|Retail questionnaire]]
+- [[rahi-retail-smart-assessment-questionnaires|Smart Assessment questionnaires for Retail]]
+- [[rahi-retail-operations-configuring|Configuring Retail]]
+- [[rahi-retail-operations-install|Activate plugins]]
+- [[rahi-retail-assign-roles-users|Assign roles to Retail users]]
+- [[rahi-retail-configure-titles-labels|Configure related party configurations]]
+- [[rahi-retail-create-retail-organization|Create a retail organization]]
+- [[rahi-retail-add-members-to-organization|Add members to a retail organization]]
+- [[rahi-retail-configure-organizational-structure|Configure your organizational structure]]
+- [[rahi-retail-setup-support-team|Set up your retail support team]]
+- [[rahi-portal-configure-retail-kpi-widget|Add and configure the Retail KPI widget]]
+- [[retail-kpi-json-parameters|Retail KPI JSON parameters]]
+- [[rahi-retail-configuring-field-visibility-questionnaire-modal|Configuring field visibility in the Create questionnaire modal]]
+- [[rahi-retail-manage-customer-complaints|Manage customer complaints]]
+- [[rahi-retail-creating-request-in-workspace|Create and assign a retail customer complaint case in workspace]]
+- [[rahi-retail-track-a-customer-complaint-case|Track a customer complaint case in workspace]]
+- [[rahi-retail-close-customer-case-workspace|Close a customer complaint case in workspace]]
+- [[rahi-retail-manage-store-inquiries|Manage store inquiries]]
+- [[rahi-retail-create-store-service-portal|Create a store inquiry case from the Retail portal]]
+- [[rahi-retail-fulfill-retail-store-service-case|Manage a store inquiry case from the Retail portal]]
+- [[rahi-retail-track-store-inquiry-case|Track a store inquiry case from the Retail portal]]
+- [[rahi-retail-creating-request-mobile|Create a store inquiry case from a mobile app]]
+- [[rahi-retail-fulfill-retail-store-service-case-mobile|Manage a store inquiry case from a mobile app]]
+- [[rahi-retail-tract-store-inquiry-case-retail-mobile-app|Track a store inquiry case from a Retail mobile app]]
+- [[rahi-retail-fulfill-retail-store-service-workspace|Resolve a store inquiry support request from workspace]]
+- [[rahi-retail-navigating-retail|Track cases and tasks from the Retail portal]]
+- [[view-cases-and-tasks-in-retail-portal|Track your cases and tasks from the Retail portal]]
+- [[rahi-retail-portal-view-knowledge-articles|View your organization's knowledge articles from the Retail portal]]
+- [[rahi-retail-portal-view-retail-organizations|View your associated retail organizations from the Retail portal]]
+- [[rahi-retail-manage-store-plans|Manage store plans]]
+- [[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
+- [[create-plan-workspace|Create a store plan from the workspace]]
+- [[rahi-retail-add-hq-case-details|Add HQ case details to the HQ communication plan]]
+- [[rahi-retail-add-hq-task-details|Add HQ task details]]
+- [[rahi-retail-add-store-case-details|Add store case details]]
+- [[rahi-retail-add-store-task-details|Add store task details]]
+- [[rahi-retail-add-affected-retail-stores|Add affected Retail stores]]
+- [[rahi-retail_schedule-the-cases-or-tasks|Schedule the store plan]]
+- [[review-store-plan-details|Review store plan details]]
+- [[rahi-retail-monitor-published-store-plan|Monitor a published store plan across multiple stores]]
+- [[rahi-retail-clone-store-plan|Clone a store plan]]
+- [[rahi-retail-deactivate-a-store-plan|Delete or deactivate a store plan]]
+- [[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
+- [[rahi-retail-track-in-store-case|Track an In-store operations case created from a store plan]]
+- [[rahi-retail-track-in-store-task|Track an In-store operations task created from a store plan]]
+- [[rahi-retail-track-in-store-tasks-mobile|Track an In-store operations task on Retail mobile app]]
+- [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
+- [[rahi-retail-view-in-store-cases-tasks|View your assigned In-store operations cases and tasks in Retail Mobile]]
+- [[rahi-retail-filter-cases-tasks|Filter your In-store operations cases and tasks in Retail Mobile]]
+- [[rahi-retail-work-in-store-operations-case-mobile|Work on an In-store operations case]]
+- [[rahi-retail-in-store-task-mobile|Work on an In-store operations task in Retail Mobile]]
+- [[rahi-retail-mobile-search-ai|Search for assigned cases and tasks using AI Search in Retail Mobile]]
+- [[rahi-retail-complete-questionnaire|Complete a questionnaire for a store task on Retail mobile app]]
+- [[track-monitor-store-plans|Track and monitor store plans]]
+- [[track-hq-case|Track a store plan on the workspace]]
+- [[track-store-case-hq-case|Track a store case from an HQ case]]
+- [[rahi-retail-now-assist-for-retail|Now Assist for Retail Service Management \(RSM\)]]
+- [[rahi-retail-now-assist-explore|Explore Now Assist for Retail Service Management \(RSM\)]]
+- [[rahi-retail-now-assist-configure|Configure Now Assist for Retail Service Management \(RSM\)]]
+- [[rahi-retail-enable-store-inquiry-ai-agent|Enable store inquiry AI agent trigger]]
+- [[agentic-workflows-now-assist-retail|Use Now Assist for Retail Service Management \(RSM\)]]
+- [[rahi-retail-operations-reference|Retail reference]]
+- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+- [[rahi-retail-components-installed-retail-core|Components installed with Retail core overview]]
+- [[rahi-retail-components-installed-retail-mobile|Components installed with Retail Mobile]]
+- [[rahi-retail-components-store-services|Components installed with Retail Store Services]]
+- [[rahi-retail-components-customer-complaint|Components installed with Retail customer complaint]]
+- [[rahi-retail-components-retail-hq-operations|Components installed with Retail HQ Operations]]
+- [[rahi-retail-components-in-store-operations|Components installed with Retail In-store Operations]]
+- [[components-playbook-store-plan|Components installed with Retail Playbook for Store Plan]]
+- [[rahi-retail-components-task-plan-template-playbook|Components installed with Task Plan Template Playbook]]
+- [[rahi-retail-components-pwm-playbook-activities|Components installed with PWM Playbook Activities]]
+- [[rahi-retail-components-smart-assessments|Components installed with Smart Assessments for CSM]]
+- [[rahi-retail-data-model|Retail organization data model]]
+- [[rahi-retail-operations-data-model-tables|Retail organization data model tables]]
+- [[rahi-retail-retail-unified-cas-task-data-model|Retail unified case and task data model]]
+- [[rahi-retail-domain|Domain Separation in Retail Core]]
+- [[rahi-retail-task-management-overview|Retail Task Management]]
+- [[rahi-retail-multistore-case|Retail multi-store case]]

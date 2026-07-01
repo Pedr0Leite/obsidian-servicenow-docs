@@ -1,0 +1,1189 @@
+---
+title: Australia Enterprise Architecture
+locale: en-US
+release: australia
+bundle: appportman
+doc_type: toc
+---
+
+# Australia Enterprise Architecture
+
+- [[application-portfolio-management-landing-page|Enterprise Architecture]] -- The ServiceNow Enterprise Architecture unites strategic and operational teams, enabling organizations to achieve their business objectives. It serves as a powerful decision engine, combining robust modeling with the management of business capabilities, application portfolios, information portfolios, and technology portfolios.
+  - [[ea-workspace|Enterprise Architecture Workspace]] -- The Enterprise Architecture Workspace (EA Workspace) is part of the Enterprise Architecture application. It provides an interactive user interface to enable enterprise architects to stay up to date with their tasks, get insights, and monitor the health of the portfolio from a single location.
+    - [[explore-eaw|Exploring Enterprise Architecture Workspace]] -- The Enterprise Architecture Workspace is part of the Enterprise Architecture application. The workspace is a unified interface with multiple views that help you manage your portfolio efficiently. You can use these views to stay up to date with your tasks, insights, tasks that need attention, portfolio health, and dashboards.
+      - [[eaw-overview|Enterprise Architecture Workspace Overview]] -- The Enterprise Architecture Workspace has a consolidated user interface and is designed for different user roles.
+      - [[eaw-business-stakeholder-role|Business stakeholder role for Enterprise Architecture Workspace]] -- The Business Stakeholder (com.snc.business_stakeholder) plugin contains the business stakeholder role for Enterprise Architecture Workspace application. Users with this role can view or read records in the Enterprise Architecture Workspace.
+      - [[eaw-insights|Viewing insights of your portfolio]] -- You can view the insights for your business portfolio, information portfolio, application portfolio, and technology portfolio.
+      - [[manage-requests-certs-assessments|Manage requests, certifications, and assessments]] -- As an Enterprise Architect, you can manage all requests. You can view the status of the certifications, assessments, and technology portfolio audit information.
+      - [[eaw-exploring-dashboards-in-ea-workspace|Exploring dashboards in Enterprise Architecture Workspace]] -- You can use dashboards in Enterprise Architecture Workspace, to track and make informed decisions related to your organization's enterprise architecture landscape.
+        - [[eaw-workspace-dashboard|Explore the Enterprise Architecture Workspace dashboard]] -- The Enterprise Architecture Workspace dashboard provides a summary of the business and application portfolio of your organization. It’s arranged according to different portfolios such as the application portfolio, technology portfolio, information portfolio, and so on.
+        - [[eaw-working-with-the-applications-assessment-dashboard|Explore the Application Assessments dashboard]] -- The Application Assessments dashboard is a responsive dashboard that provides a complete view of applications.
+        - [[eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace|Explore the Application 360 dashboard in Enterprise Architecture Workspace]] -- The Application 360 dashboard performs as a reporting tool and uses Performance Analytics to provide a decision-making approach by identifying which business application requires focus and attention.
+      - [[eaw-explore-data-cert|Exploring data certification in the Enterprise Architecture Workspace]] -- Data certification is a governance process that ensures the accuracy, completeness, and reliability of critical data within an organization. It is essential for data integrity, compliance, decision-making, and risk reduction. Ensures accurate data for application portfolio decisions. Certified data strengthens enterprise modeling and visualization.
+      - [[monitor-portfolio-overview-health|Portfolio overview and health]] -- Get an overview of your profile and monitor your portfolio health.
+      - [[eaw-setup|Exploring the Setup page in the Enterprise Architecture Workspace]] -- Using the Setup page in the Enterprise Architecture Workspace, as an Enterprise Architect, you can configure Enterprise Architecture (formerly Application Portfolio Management) features within the EA Workspace.
+        - [[eaw-configure-application-categories|Manage application categories]] -- An application category is a grouping of applications by their purpose and function, fields, or areas.
+        - [[eaw-configure-application-category-groups|Manage application category groups]] -- An application category group is a collection of application categories. Category groups help with the filtering and reporting of the application categories.
+        - [[eaw-configure-application-families|Manage application families]] -- An application family is an attribute to group a set of related applications based on manufacturer classification of their products.
+        - [[eaw-configure-indicators|Manage indicators]] -- You can view, add, or edit application or capability indicators in the Enterprise Architecture Workspace.
+        - [[eaw-configure-scoring-profiles|Manage scoring profiles]] -- Scoring profiles help you to evaluate the applications based on various indicators.
+        - [[eaw-configure-trm-phases|Manage TRM phases]] -- A Technology Reference Model (TRM) phase refers to a specific stage in the lifecycle of an application within the organization’s TRM framework.
+        - [[eaw-configure-trm-categories|Manage TRM categories]] -- A Technology Reference Model (TRM) category refers to a grouping of TRM software products by their purpose and function. The categorization helps you to consolidate TRM products and rationalize decisions.
+        - [[eaw-config-info-data-domains|Manage information data domains]] -- A data domain is a collection of information objects. ServiceNow Discovery finds the database catalog that lists all the catalog objects, or databases, discovered for an instance of a database.
+        - [[eaw-config-arch-art-categories|Manage architectural artifact categories]] -- The architectural artifact categories enable you to categorize and manage artifacts more efficiently. Architectural artifact categories enable you to organize architectural artifacts and align them with your business goals and strategies.
+        - [[eaw-config-demand-actions|Manage demand actions]] -- Demand actions are strategic decisions that you want to execute for an application. Enterprise Architecture Workspace provides preconfigured actions that help you enhance the capability of the applications. You can add new demand actions as per your requirements.
+        - [[eaw-config-modeling|Manage Enterprise Modeling and Visualization]] -- Enterprise Modeling and Visualization refers to the modeling and diagramming tools within the EA Workspace to represent business capabilities, business hierarchies, and their interrelationships.
+        - [[eaw-config-cert-schedules|Manage certification policies]] -- You can configure certification policies to keep your business applications inventory up to date. Keeping your business application data current helps you to assess your business applications precisely as there are indicators that are dependent on these business applications.
+      - [[manage-business-portfolio|Exploring a business portfolio]] -- As an Enterprise Architect, view the capability hierarchy, manage capabilities, and assign business applications to the capabilities.
+      - [[eaw-gantt-view-of-tpm-and-trm-lifecycle-timelines|Gantt view of TPM and TRM lifecycle timelines]] -- A Gantt chart in the Enterprise Architecture Workspace is a visual representation of the Technology Portfolio Management (TPM) and Technology Reference Model (TRM) timelines of business applications, and their associated application services like software products and hardware models.
+        - [[eaw-tpm-lifecycle-timelines-on-gantt-chart|TPM lifecycle timelines on Gantt chart]] -- For Technology Portfolio Management (TPM), the business applications and their related application services (associated hardware models and software products) are displayed in a hierarchical structure. The corresponding timelines of the application services are displayed as bars on the Gantt chart.
+        - [[eaw-trm-lifecycle-timelines-on-gantt-chart|TRM lifecycle timelines on Gantt chart]] -- For Technology Reference Model (TRM), the application services (hardware models and software products) are displayed in a hierarchical structure, similar to the TPM view. The corresponding lifecycle timelines of the application services are displayed as bars on the Gantt chart. It also displays the data for lifecycles with wild card versions. The TRM wildcard version ends with a ‘*’.
+      - [[eaw-rationalize-business-applications|Rationalization of business applications]] -- As an Enterprise Architect, you can use application rationalization to evaluate your business applications.
+        - [[eaw-bubble-chart-view|Bubble chart view of application rationalization]] -- Bubble charts are interactive graphs that position applications in different quadrants, based on their indicator scores. Based on the position of the business application in the quadrants, enterprise architects can take decisions to invest in, sustain, migrate, or retire the business applications.
+        - [[eaw-list-view|List view of application rationalization]] -- As an Enterprise Architect, you can view the list of all business applications. The List view enables you to see high-level information on all your business applications and all the indicator scores that are attached to them.
+        - [[eaw-application-indicator-score-calculation|Application indicator score calculation in Enterprise Architecture Workspace]] -- Enterprise Architecture Workspace calculates a composite score for each business application and business capability by running data from configured indicators through a multi-step pipeline that normalizes raw values, applies weighted contributions, and aggregates the results into a final score per fiscal period.
+        - [[trm-tech-debt-indicator-for-app-rat|Tech debt indicator score for application rationalization]] -- The Technology Reference Model (TRM) Technical Debt indicator is a customizable application metric that evaluates the technical debt score for each Business Application. This score reflects the number of associated technologies that don’t comply with established TRM standards. It offers a clear and measurable value that can be leveraged across the Enterprise Architecture workspace for scoring, analysis, and visualization.
+        - [[eaw-trm-technology-lifecycle-risk-score|Technology lifecycle risk score in Enterprise Architecture Workspace]] -- The Technology Portfolio Management (TPM) lifecycle risk score is a numeric value that quantifies how close a technology is to its end-of-support or end-of-life milestone. Risk scores roll up from individual technologies through application services to business applications, and serve as an indicator in scoring profiles to surface lifecycle exposure across the portfolio.
+      - [[portfolio-list-view|Exploring Portfolio list view]] -- As an Enterprise Architect, use the Portfolio list view in the Enterprise Architecture Workspace to manage your business architecture, application portfolio, technology portfolio, information portfolio of your organization and also manage your own entities.
+        - [[eaw-business-architecture|Exploring the business architecture]] -- The Business Architecture section within the Portfolio page of the Enterprise Architecture Workspace helps you in the structuring of your business functions and strategies.
+          - [[eaw-business-units|Exploring business units]] -- Business units are part of your organization that are responsible for certain operations and have their own objectives.
+          - [[eaw-departments|Exploring departments]] -- Departments are specialized functional areas within an organization, having their own specified roles and objectives. Departments are subsets of business units.
+          - [[eaw-goals|Exploring goals]] -- Goals are important for aligning and optimizing investments in business applications and for driving strategic outcomes.
+          - [[eaw-value-streams|Exploring value streams]] -- In Enterprise Architecture, a value stream represents an end-to-end sequence of activities that delivers value in your enterprise architecture landscape. A value stream is made up of individual value stream stages, each of which represents a discrete step in that sequence.
+          - [[eaw-value-stream-stage|Exploring value stream stages]] -- Value stream stages are a specific section within the overall value stream, encompassing a specific set of activities.
+          - [[eaw-business-capabilities|Exploring business capabilities]] -- A business capability is the ability of an organization to do its business activities successfully and fulfill its business goals.
+          - [[eaw-business-processes|Exploring business processes]] -- Business processes model how your organization performs work to achieve a business outcome. Use business processes in Enterprise Architecture Workspace to build a process hierarchy and to associate processes with supporting business applications.
+          - [[eaw-demands|Exploring demands]] -- You can use a demand as a step to identify cost-saving opportunities on applications or capabilities and to meet the target.
+        - [[eaw-app-portfolio|Exploring the application portfolio]] -- The Application Portfolio section within the Portfolio page of the Enterprise Architecture Workspace helps you to manage business applications, application services, digital integrations, and digital interfaces.
+          - [[eaw-manage-business-applications|Exploring business applications]] -- A business application is software used by business users to perform a business function. Classify the applications to maintain an inventory and consolidate the business applications. Analyze, assess, and evaluate the applications across various dimensions and determine the action that you can take for each application.
+          - [[eaw-aict|AI Control Tower integration with Enterprise Architecture]] -- View and manage the AI systems associated with a business application from the Enterprise Architecture Workspace to understand AI risk and governance status as part of your broader application portfolio.
+          - [[eaw-manage-application-services|Exploring application services]] -- An application service is a set of interconnected applications and hosts which are configured to offer a service to the organization. An application service is a logical grouping of application functions.
+          - [[eaw-digital-interface|Exploring digital interfaces in Enterprise Architecture Workspace]] -- Manage all your digital interfaces from the Portfolio page of the Enterprise Architecture Workspace.
+          - [[eaw-digital-integration|Exploring digital integrations in Enterprise Architecture Workspace]] -- Manage all your digital integrations in the Enterprise Architecture Workspace.
+            - [[eaw-dig-intg-data-model|Digital integration management data model]] -- This section shows the digital integration management data model.
+        - [[eaw-information-portfolio|Exploring the information portfolio]] -- Use the information portfolio to capture information from the assets of your organization as information objects. You can categorize the information assets and determine its business application use. You can also connect the different layers where data exists and map the layers. Mapping helps to retrieve the information and track the information flow.
+          - [[eaw-data-domains|Exploring data domains]] -- A data domain is a collection of information objects. A data domain categorizes information objects.
+          - [[eaw-information-objects|Exploring information objects]] -- An information object captures the logical data for a business application. It also describes the type of data that is interchanged between the application and the database.
+          - [[eaw-managing-architectural-artifacts|Exploring architectural artifacts]] -- Architectural artifacts are created to describe a system, solution, or state of an enterprise. The goal of architectural artifacts in Enterprise Architecture is to enable enterprise architects to create and manage artifacts in their organization.
+          - [[eaw-managing-arch-decision-records|Exploring architectural decision records (ADR)]] -- Use the Architectural Decision Records (ADR) to explain your infrastructure. ADR is a type of artifact that helps you to understand the background of a specific architectural decision.
+        - [[eaw-exploring-the-ai-portfolio|Exploring the AI Portfolio]] -- The AI Portfolio section within the Portfolio page of the Enterprise Architecture Workspace helps you in managing structured governance, traceability, and lifecycles of AI assets.
+        - [[eaw-dashboard-exploring-ai-portfolio-tab|Exploring the AI Portfolio tab on the Enterprise Architecture Workspace dashboard]] -- The AI Portfolio tab on the Enterprise Architecture Workspace dashboard provides visualization widgets that show how business applications and AI systems in your organization are associated.
+        - [[eaw-my-entities|Manage your entities]] -- The My entities section within the Portfolio page of the Enterprise Architecture Workspace helps you to manage all your own entities.
+      - [[eaw-manage-application-tco|Exploring total cost of ownership (TCO) in Enterprise Architecture Workspace]] -- The Application Total Cost of Ownership (TCO) plugin helps Enterprise Architects to evaluate the cost of business applications and leverage the application costs to prioritize the application portfolio and align with the organization's business strategy.
+        - [[eaw-app-tco|Manage application total cost of ownership (TCO) in Enterprise Architecture Workspace]] -- You can configure the application TCO source and cost type in the Enterprise Architecture Workspace.
+      - [[eaw-technology-portfolio-view|Exploring Technology Portfolio view]] -- As an Enterprise Architect, use the Technology Portfolio list view in the Enterprise Architecture Workspace to manage your Technology Portfolio Management (TPM) lifecycles and risk and your Technology Reference Model (TRM) catalog (software and hardware).
+        - [[eaw-managing-the-technology-portfolio|Manage the Technology Reference Model in Enterprise Architecture Workspace]] -- You can use the Technology Reference Model (TRM) feature in Enterprise Architecture Workspace to define the standards for your software and hardware products and manage unapproved products in your organization.
+          - [[eaw-manage-trm-technical-debt|Manage TRM technical debt]] -- Manage the TRM technical debts that are created for the products that aren’t approved for the usage.
+          - [[eaw-trm-technical-debt-calc|TRM Technical Debt calculation in Enterprise Architecture Workspace]] -- A TRM technical debt indicates the unapproved usage of a software. The technical debts table [sn_apm_trm_standards_technical_debt], displays the TRM products and associated business applications details, and the reason for the technical debt.
+          - [[eaw-trm-wildcard-to-create-technical-debts|Work with TRM lifecycle with wildcard]] -- You can use Technology Reference Model (TRM) lifecycles with wildcards to update multiple TRM software product lifecycles simultaneously without having to specify the exact minor version details of individual TRM software products.
+        - [[eaw-tpm|Manage the Technology Portfolio Management (TPM) in Enterprise Architecture Workspace]] -- Technology Portfolio Management helps Enterprise Architects to manage technology life-cycle risks and technology life-cycle exceptions. Enterprise Architects can evaluate all their business applications and application services by accessing the discovered technologies and auditing information in the Enterprise Architecture Workspace.
+          - [[eaw-view-technology-portfolio-audit-risk|Working with technology portfolio audit details]] -- The  Technology portfolio audit tab shows audit information for your applications. An entry in this table indicates that at least one lifecycle for that software product or hardware model was either approximated, or not found, or doesn’t exist.
+      - [[eaw-modeling|Exploring Enterprise Modeling and Visualization in the EA Workspace]] -- Enterprise Modeling and Visualization in EA Workspace helps you with diagramming and modeling capabilities and enable you to model the future state of your IT and its relationship to the business landscape.
+        - [[eaw-modeling-shapes|Shapes to create a modeling diagram]] -- The shapes available in Enterprise Modeling and Visualization help you create diagrams. You can add a shape to the canvas by either selecting the shape or by dragging the shape from the Shapes palette to the canvas.
+          - [[eaw-modeling-general-shapes|General shapes]] -- The general shapes section provides basic design elements that can be used to construct diagrams. By inserting icons such as arrows, circles, and text boxes, you can visually represent concepts, relationships, and processes in a clear and structured manner.
+          - [[eaw-modeling-aws-shapes|Amazon Web Services (AWS) shapes]] -- The AWS shapes library in EA Workspace helps in modeling cloud architectures. These shapes allow architects to design future-state cloud diagrams aligned with CMDB and CSDM standards.
+          - [[eaw-modeling-csdm-shapes|Common Service Data Model (CSDM) shapes]] -- CSDM is a prescriptive data model that defines standardized relationships between service-related objects in the CMDB. The CSDM shapes represent these objects visually in diagrams, enabling architects to model business capabilities, applications, services, and technical components in alignment with the Now Platform.
+          - [[eaw-modeling-ea-shapes|Enterprise Architecture shapes]] -- Use the Enterprise Architecture shapes to create diagrams with icons related to enterprise architecture.
+          - [[ea-extended-shapes|Enterprise Architecture (EA) extended shapes]] -- Use the Enterprise Architecture shapes to model current and future-state architectures in Enterprise Architecture Workspace.
+          - [[eaw-modeling-archimate-shapes|ArchiMate shapes]] -- ArchiMate shapes are industry-standard elements used by enterprise architects to create diagrams that represent relationships across different domains of an enterprise. These shapes are used to model the business, application, motivation, physical, strategy, and technology layers.
+          - [[eaw-modeling-bpmn-shapes|Business Process Modeling Notation (BPMN) shapes]] -- Use the BPMN shapes to generate diagrams for your current business processes and model the future state of the business processes.
+        - [[eaw-connector-properties|Shape connector properties in Enterprise Modeling and Visualization]] -- When you select a connector between two shapes in an enterprise modeling diagram, a toolbar appears above the connector. Use the toolbar to define the relationship type or visual style of the connector.
+        - [[eaw-modeling-archimate|ArchiMate shapes support in the Enterprise Modeling and Visualization]] -- ArchiMate shapes are industry-standard elements used by enterprise architects to create diagrams that represent relationships across different domains of an enterprise. ArchiMate is a registered trademark of The Open Group. Enterprise Modeling and Visualization supports ArchiMate shapes along with General and Enterprise Architecture shapes.
+        - [[ea-modeling-aws|AWS shapes support in the Enterprise Modeling and Visualization]] -- Enterprise Modeling and Visualization supports Amazon Web Services (AWS) shape libraries for modeling cloud architectures. These shapes enable architects to design future-state cloud diagrams aligned with CMDB and CSDM standards.
+        - [[align-with-csdm5|CSDM shapes support in the Enterprise Modeling and Visualization]] -- ServiceNow CSDM data model defines standardized relationships between service-related objects in the CMDB. It ensures consistency across ITSM, ITOM, and EA practices. In Enterprise Architecture Workspace, CSDM shapes represent these objects visually in diagrams, enabling architects to model business capabilities, applications, services, and technical components in alignment with the Now Platform.
+        - [[eaw-modeling-custom-shapes|Custom shapes support in the Enterprise Modeling and Visualization]] -- Custom shapes are the user-defined graphical elements that can be used to represent specific concepts, processes, systems, or roles in your diagrams. These shapes can be tailored to fit the unique needs of your organization, making your diagrams more meaningful and easier to understand.
+        - [[business-process-modeling|Business process modeling]] -- Business processes are a structured sequence of tasks that are grouped, helping to accomplish specific business outcomes. A business process modeling diagram or a BPMN (Business Process Model and Notation) diagram is a visual representation of a business process.
+      - [[eaw-explore-digital-integ-management|Exploring digital integration management in Enterprise Architecture Workspace]] -- Exploring digital integration management in Enterprise Architecture Workspace.
+      - [[eaw-exploring-product-capabilities|Exploring product capabilities]] -- A product capability is the specific feature that a business application or a Technology Reference Model (TRM) product provides to support business objectives. Product capabilities are used to assess how well a business application or TRM product aligns with strategic goals and operational needs.
+      - [[workspace-open-uib|Open your Configurable Workspace experience in UI Builder task conkeyrefs]] -- Access your Configurable Workspace experience in UI Builder for editing.
+      - [[workspace-list-workspaces|List of workspaces reference conkeyrefs]] -- List of all workspaces ServiceNow offers to target specific users and issues.
+      - [[publishing-center-in-ea-workspace|Exploring the publishing center in Enterprise Architecture Workspace]] -- The Publishing Center is a centralized capability in the Enterprise Architecture Workspace. It helps you configure, manage, and track publishing activities from a single location.
+      - [[eaw-explore-arch-analyzer|Exploring the architecture analyzer]] -- You can use the Architecture Analyzer in the Enterprise Architecture Workspace to visually explore and analyze the relationships between architectural entities.
+      - [[generate-doc-from-diagram|Exploring generating documents from diagrams]] -- Generating documents for a diagram helps you to transform modeling diagrams into governed, reusable architectural documents using predefined templates.
+    - [[configure-eaw|Configuring Enterprise Architecture Workspace]] -- As an administrator, use this section to configure the Enterprise Architecture Workspace.
+      - [[install-ea-workspace|Install Enterprise Architecture Workspace]] -- Install the Enterprise Architecture Workspace application (sn_apm_ws) if you have the admin role.
+        - [[eaw-access-roles|Access roles]] -- The following roles help you to configure and use the Enterprise Architecture Workspace application. After access has been granted to a role, all the groups or users assigned to the role are granted access. Roles can contain other roles, and any access granted to a role is granted to any other role that includes it.
+        - [[eaw-installed-tables|Tables installed with Enterprise Architecture Workspace]] -- The following tables are added with activation of Enterprise Architecture Workspace.
+        - [[eaw-gran-admin-role-changes|Granular admin role changes in Enterprise Architecture]] -- Understand the transition from global admin usage to feature‑specific granular admin roles, outlining the intent, architectural principles, and governance expectations defined by the Granular Admin Directive.
+        - [[eaw-plugin-activation-sequence|Application plugin installation sequence for Enterprise Architecture Workspace]] -- Activate the required plugins and optional add-ons in the correct order to confirm all Enterprise Architecture Workspace features are available on your instance.
+      - [[apm-use-case-product-view|Enterprise Architecture and CSDM framework]] -- Use Enterprise Architecture to gain a comprehensive understanding of your organization's applications so you can identify redundancies and decrease budgetary costs. The goal of this product view is to help you to understand how Enterprise Architecture key entities work with the core CSDM framework.
+        - [[apm-use-case|Enterprise Architecture and CDSM tables]] -- Enterprise Architecture manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Enterprise Architecture.
+        - [[apm-use-case-example|Enterprise Architecture and CSDM use case]] -- Enterprise Architecture lets you define a single, version-agnostic entity that represents all instances, technologies, and data used for planning and reporting.
+        - [[apm-use-case-trouble|Enterprise Architecture and CSDM framework considerations]] -- Consider these points while implementing the CSDM framework.
+      - [[eaw-personalize-the-enterprise-architecture-workspace-home-page|Personalize the Enterprise Architecture Workspace home page]] -- Customize the sections that you want visible on the home page by using the personalize page feature.
+      - [[customize-workspace|Show or hide sections on the home page of the EA Workspace]] -- Customize your workspace to display the components that you want to see.
+      - [[config-overview|Create a configuration for the Overview section]] -- Create visualization configurations for the Portfolio Overview section and apply them as needed.
+      - [[config-insights-health|Create a configuration for the Health or Insights section]] -- Create configurations for the Health or Insights section and apply them as needed.
+      - [[eaw-config-eaw-using-setup-page|Configure EA Workspace using the Setup page]] -- Use the Setup page to configure Enterprise Architecture Workspace.
+        - [[eaw-setup-app-cat|Configure application categories]] -- An application category is a grouping of applications by their purpose and function, fields, or areas.
+          - [[eaw-create-app-category|Add or edit an application category]] -- Each application should have an application category defined. This field is used to describe the purpose of the application, and the key business function this application supports. You can keep the categorization at a high level, like a business function. For example, Sales, HR, Marketing, and Manufacturing.
+        - [[eaw-setup-app-cat-groups|Configure application category groups]] -- An application category group is a collection of application categories. Category groups help with the filtering and reporting of the application categories.
+          - [[eaw-create-app-cat-grp|Add or edit an application category group]] -- Add or edit an application category group and align it with your business requirements. Category groups help with the filtering and reporting of the application categories
+        - [[eaw-setup-app-families|Configure application families]] -- An application family is an attribute to group a set of related applications based on manufacturer classification of their products into product suites.
+          - [[eaw-create-app-family|Add or edit an application family]] -- Add or edit an application family and align it with your business requirements.
+        - [[eaw-setup-indicators|Configure indicators]] -- Configure application or capability indicators in the Enterprise Architecture Workspace.
+          - [[eaw-create-indicator|Add or edit an application indicator]] -- Add or edit an application indicator to assess the application across dimensions such as cost, quality, technical risk, investments, user satisfaction, and business value.
+          - [[eaw-add-or-edit-a-capability-indicator|Add or edit a capability indicator]] -- Add or edit a capability indicator to access business capabilities within the indicator framework.
+          - [[eaw-enable-or-disable-an-application-indicator|Activate or turn off an application or capability indicator]] -- Enable or disable application indicators according to your business requirements.
+        - [[eaw-setup-scroring-prof|Configure scoring profiles]] -- Scoring profiles help you to evaluate the applications based on various indicators.
+          - [[eaw-create-scoring-profile|Add or edit a scoring profile]] -- You can add or edit a scoring profile with new indicators and associate it with the business application. You can also use the same indicators within many scoring profiles, which generate indicator scores unique to that scoring profile. After you create a scoring profile, you have to associate it with indicators.
+            - [[eaw-attach-profile-indicators-with-application-scoring-profiles|Attach profile indicator]] -- You must associate scoring profiles with profile indicators.
+          - [[eaw-regenerate-scoring-profile-indicator-scores-in-eaw|Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace]] -- You can update the scoring profile indicator scores on-demand. Updating the scoring profile indicators scores is necessary when the scoring profile is updated with new indicators.
+        - [[eaw-setup-trm-phases|Configure TRM phases]] -- A Technology Reference Model (TRM) phase represents the status of the application, that is whether the application is approved for use, being evaluated or being scheduled for divestment.
+          - [[eaw-create-trm-phase|Add or edit a TRM phase]] -- Define your own TRM phase for the TRM products.
+        - [[eaw-setup-trm-categories|Configure TRM categories]] -- A Technology Reference Model (TRM) category refers to a grouping of TRM software products by their purpose and function.
+          - [[eaw-create-new-trm-category|Add or edit a TRM category]] -- Add or edit a TRM category to group the TRM software products.
+        - [[eaw-setup-info-data-domains|Configure information data domains]] -- A data domain is a structured grouping of information objects that are categorized to support business applications and processes. The data domain helps define how business application data is captured and describes how the data is exchanged between applications and databases.
+          - [[eaw-add-edit-info-data-domain|Add or edit an information data domain]] -- Create or edit an information data domain to logically group related information objects and govern how information is organized and linked to underlying data sources across business applications.
+        - [[eaw-setup-arch-art-categories|Configure architectural artifact categories]] -- The architectural artifact categories enable you to categorize and manage artifacts more efficiently. Configuring architectural artifact categories enable you to structure and classify architectural artifacts, and verify the architectural artifacts support strategic goals.
+          - [[eaw-add-edit-arch-art-category|Add or edit an architectural artifact category]] -- Add  or edit an artifact category. Assign the category to an architectural artifact. Categories enable you to categorize and manage artifacts more efficiently.
+        - [[eaw-setup-demand-actions|Configure demand actions]] -- Demand actions enable you to initiate structured responses to architectural insights. These actions typically include creating demands for remediation, initiating lifecycle changes, or launching application rationalization efforts.
+          - [[eaw-add-edit-demand-action|Add or edit a demand action]] -- Add or edit a demand action that help you enhance the capability of the applications in the Enterprise Architecture Workspace.
+        - [[eaw-setup-modeling|Configure Enterprise Modeling and Visualization]] -- You can configure the shape libraries, modeling options, entities, and relationships used in the Enterprise Modeling and Visualization.
+          - [[eaw-show-hide-shapes|Show or hide shapes in diagrams]] -- Configure a custom shape library element to show or hide it in different diagram types.
+          - [[eaw-add-edit-shape-library|Add or edit a shape library]] -- Create a shape library or edit an existing library to add new shapes and create diagrams using the shapes.
+          - [[eaw-modeling-add-shape-library-element|Add a shape library element]] -- Create a shape library element to associate a shape and its diagram action to the shape library.
+          - [[eaw-modeling-create-diagram-action|Create diagram action]] -- Create diagram actions for newly added custom shapes that can be used in Enterprise Modeling and Visualization to create diagrams.
+          - [[eaw-edit-modeling-menu|Edit a modeling configuration]] -- As an administrator, you can edit an existing configuration details for modeling. You can also make the configuration active or inactive.
+          - [[eaw-add-edit-entity|Add or edit an entity]] -- Add an entity or edit an existing entity details that are included in the Enterprise Modeling and Visualization diagram.
+          - [[eaw-add-update-entity-icon|Add or update shape icon for an entity]] -- Add a shape icon to an entity or edit an existing one to use them in creating Enterprise Modeling and Visualization diagram.
+          - [[eaw-add-edit-relationship|Add or edit a relationship]] -- Add or edit a relationship configuration details available for the Enterprise Modeling and Visualization in the Enterprise Architecture Workspace.
+        - [[eaw-setup-app-tco|Configure application total cost of ownership (TCO) in Enterprise Architecture Workspace]] -- Configure the application TCO source, cost type, and determine the duration of a fiscal property, in the Enterprise Architecture Workspace.
+          - [[eaw-install-app-tco|Install the Application Total Cost of Ownership (TCO) plugin]] -- Install the Application TCO store application that you purchased from the ServiceNow Store to make it available on your instance.
+          - [[eaw-create-tco-source|Create a source for an Application TCO]] -- Create a source for an Application Total Cost of Ownership (TCO). Specify the source of cost being ingested in Enterprise Architecture Workspace.
+          - [[eaw-create-tco-source-cost-type|Create a TCO source cost type]] -- Create a source cost type for the TCO source. Specify the type of cost being ingested in Enterprise Architecture Workspace.
+          - [[eaw-create-tco-cost-type|Create a cost type for Application TCO in Enterprise Architecture Workspace]] -- Create a cost type as capital expense (Capex) or operating expense (Opex) for Application TCO. Specify the type of cost being ingested in Enterprise Architecture Workspace.
+          - [[eaw-set-property-tco-dashboards|Set system property to define fiscal period]] -- Set the system property (com.glide.fiscal_calendar.fiscal_unit) to view TCO dashboards for a specific duration of the fiscal period in the Dashboard page of the Enterprise Architecture Workspace.
+        - [[eaw-setup-cert-policies|Configure certification policies]] -- Configure certification policies to keep your business applications inventory up to date. Keeping your business application data current helps you to assess your business applications precisely as there are indicators that are dependent on these business applications.
+          - [[eaw-convert-cert-schedules-to-cert-policies|Import certification schedules in to Data Manager]] -- Import the certification schedules into Data Manager to convert the existing certification schedules to certification policies.
+          - [[eaw-publish-a-draft-policy|Publish a draft Data Manager policy]] -- Publish the draft policies to activate them.
+          - [[eaw-manage-cert-schedules|Add or edit a certification policy]] -- Add or edit a certification policy in the Enterprise Architecture Workspace.
+        - [[eaw-config-tech-portfolio-mgmt|Configure Technology Portfolio Management]] -- Configure Technology Portfolio Management in Enterprise Architecture Workspace. By configuring TPM, you can get application lifecycle risk insights and rationalize applications.
+          - [[eaw-install-tpm|Activate the Technology Portfolio Management (TPM) plugin]] -- Activate the Technology Portfolio Management (TPM) store application that you purchased from the ServiceNow Store to make it available on your instance.
+            - [[eaw-tables-installed-with-tpm|Tables installed with TPM in the EA Workspace]] -- Several types of tables are installed with Technology Portfolio Management.
+            - [[eaw-tpm-business-rules|Business rules for TPM in EA Workspace]] -- Several types of business rules are added with Technology Portfolio Management.
+            - [[eaw-tpm-scheduled-jobs|Scheduled jobs for TPM in the EA Workspace]] -- Several types of scheduled jobs are added for Technology Portfolio Management.
+        - [[eaw-config-tech-ref-model|Configure Technology Reference Model]] -- Configure Technology Reference Model Enterprise Architecture Workspace. Configuring the Technology Reference Model offers a structured approach to managing technology standards across your organization.
+          - [[eaw-install-trm|Install the Technology Reference Model (TRM) Model plugin]] -- Install the Technology Reference Model (TRM) store application that you purchased from the ServiceNow Store to make it available on your instance.
+    - [[eaw-managing-ea-workspace|Managing Enterprise Architecture Workspace]] -- Use the Enterprise Architecture Workspace (EAW) for managing portfolios, modeling architecture, and visualizing IT landscapes.
+      - [[eaw-work-with-ea-workspace-homepage|Working with Enterprise Architecture workspace home page]] -- Enterprise Architecture Workspace home page serves as a personalized command center for enterprise architects, offering a unified, role-based view of portfolio insights, tasks, and health indicators. The Home page is designed to give architects immediate visibility into the state of their portfolios.
+        - [[eaw-view-update-trm-requests|View or update your TRM requests]] -- View all your product requests, product lifecycle requests, track their statuses, and edit your existing requests. You can also manage the approvers for your request
+        - [[eaw-approve-trm-req|Approve or reject TRM requests]] -- As an Enterprise Architect, approve or reject a TRM product or product lifecycle requests submitted by other users.
+        - [[eaw-apply-filters-portfolio-overview-and-health|Apply filters to the Portfolio Overview and Health section]] -- You can apply filters to the Portfolio Overview and Health section in the Enterprise Architecture Workspace. Based on the applied filters, the interactive cards and graphs displayed in this section are updated, and you can view specific business applications and business capability data. Your filter preferences are saved and applied the next time you visit the page.
+      - [[eaw-work-with-dashboards|Working with Dashboards]] -- Dashboards in Enterprise Architecture Workspace is a central, visual interface for monitoring, analyzing, and acting on enterprise architecture data. Dashboards provide a consolidated view of the health and performance of key portfolios such as application portfolio, business portfolio, information portoflio and technology portfolio.
+        - [[eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard|View the performance of applications using the Application Assessments dashboard]] -- Use the Application Assessments dashboard to view overview reports on the performance of the business applications.
+        - [[eaw-monitor-performance-in-application-360-dashboard|Monitor performance in Application 360 dashboard]] -- Use the Application 360 dashboard to analyze indicator scores and identify business applications that require attention.
+      - [[eaw-work-with-business-portfolio-mod|Working with the business portfolio module]] -- Manage business capabilities, add sub-capabilities, associate business applications.
+        - [[add-a-capability|Add a business capability]] -- Add a business capability to the capability hierarchy map.
+        - [[eaw-create-a-demand-towards-achievement-of-capability|Create a demand towards achievement of a capability]] -- Use a demand as a step to identify cost-saving opportunities on capabilities, to meet the target. The strategy that you associate with the demand action decides the strategy for the capability.
+        - [[update-hierarchy|Update the hierarchy of a business capability]] -- Assign a hierarchy ID to a business capability.
+        - [[eaw-create-sub-capability|Create a sub-capability]] -- Add a sub-capability to the capability hierarchy map.
+        - [[assign-a-business-application|Assign a business application]] -- Assign a business application to a capability to relate the capability with the application.
+        - [[unassign-a-business-application-from-a-capability|Unassign a business application from a capability]] -- You can unassign a business application from a capability.
+        - [[delete-a-capability|Delete a capability from the hierarchy]] -- Delete a capability that you no longer require.
+        - [[eaw-view-roadmap-bc|View a roadmap of a business capability]] -- View the roadmap of your business capabilities and align them with the organization's strategy. Creating a portfolio plan helps you plan, prioritize, and roadmap the work for your business capability.
+        - [[eaw-export-business-portfolio-data|Export business portfolio data to Excel or CSV]] -- Export the business portfolio list data to Microsoft Excel or CSV so that you can use the data to share with stakeholders and prepare for analysis.
+      - [[eaw-work-with-app-rat|Working with application rationalization]] -- Application rationalization helps enterprise architects evaluate, optimize, and govern the business application portfolio with clarity and strategic intent. Application rationalization is a structured process to assess all business applications by category, capability, or family and determine whether to invest, sustain, migrate, or retire.
+        - [[eaw-using-app-rat-bubble-chart-view|Use bubble chart view]] -- The bubble chart view visually positions applications across four quadrants using configurable X and Y axes. The color-coded bubbles reflect planned disposition values to quickly identify which applications align with strategic goals.
+          - [[eaw-analyze-applications-by-capability|Analyze applications using the bubble chart]] -- Consolidate and analyze the business applications based on multiple scores.
+          - [[eaw-create-a-demand-using-the-bubble-chart|Create a demand using the bubble chart]] -- Create a demand for an application from the bubble chart.
+          - [[eaw-set-planned-disposition-of-a-business-application|Set the planned disposition of a business application]] -- Set the planned disposition of a business application to track decisions on the plan of the application.
+          - [[eaw-add-business-application-lifecycle-data|Add business application lifecycle data]] -- Create or edit the life cycle of a business application to manage the business application.
+          - [[eaw-edit-ba-details-in-bubble-chart|Edit business application details in bubble chart view]] -- You can make updates to the business application record directly from the list, without leaving the bubble chart view.
+          - [[eaw-update-sys-prop-change-number-of-bubbles|Update system property to change bubble chart display limit]] -- Customize the sn_apm_ws.appRationalizationMaximumBubbles system property to change the number of bubbles displayed on the application rationalization bubble chart page.
+          - [[eaw-bubble-chart-use-case|Use case: How indicator scores appear on the bubble chart]] -- Understand how application indicator scores are calculated and displayed as bubbles on the Application Rationalization bubble chart.
+        - [[eaw-using-app-rat-list-view|Use list view]] -- Manage demands, business applications, add lifecycle data, planned disposition and modify associated demands and project details for business applications.
+          - [[eaw-create-a-demand-using-the-list-view|Create a demand using the list view]] -- Create a demand for an application from the list view.
+          - [[eaw-set-planned-disposition-of-a-business-application-listview|Set the planned disposition of a business application]] -- Set the planned disposition of a business application to track future decisions on the application.
+          - [[eaw-add-business-application-lifecycle-data-listview|Add business application lifecycle data using the list view]] -- Create or edit the life cycle of a business application to better manage the business application.
+          - [[eaw-edit-business-application-details|Edit business application details in list view]] -- You can make updates to the business application record directly from the list, without leaving the list view.
+          - [[eaw-edit-a-demand-associated-with-a-business-application|Edit a demand associated with a business application]] -- Use application rationalization to edit existing demands associated with business applications.
+          - [[eaw-edit-a-project-associated-with-a-business-application|Edit a project associated with a business application]] -- Use application rationalization to edit existing projects associated with business applications.
+          - [[eaw-export-app-rat-list-data|Export application rationalization data to Excel or CSV]] -- Export the application rationalization list view data to Microsoft Excel or CSV so that you can use the data to obtain insights, share with stakeholders, and prepare for analysis.
+        - [[eaw-apply-filters-app-rat|Apply filters on the Application Rationalization page]] -- You can apply filters on the Application Rationalization page in the Enterprise Architecture Workspace. Based on the applied filters, the bubble chart and list view are updated so that you can view data for a specific business application. Your filter preferences are saved and applied the next time you visit the page.
+      - [[eaw-work-with-tpm|Working with Technology Portfolio Management (TPM) in EA Workspace]] -- Technology Portfolio Management provide visibility, governance, and actionable insights into the technologies used across the enterprise.
+        - [[use-tpm-encoded-query|Filter software results using an encoded query in TPM]] -- Filter out unwanted software products and reduce the number of results to skip unwanted software and their lifecycles to be shown in the Lifecycle Timeline view of a business application. By default, the TPM picks licensable software. Use this encoded query when you want TPM to include other software (non-licensable) and filter the result.
+        - [[update-tpm-data|TPM Lifecycle data]] -- Manually update the Technology Portfolio Management (TPM) lifecycle data including end of support date, end of extended support date, and end of life date for your software and hardware models for your business applications and application services.
+        - [[eaw-restart-tpm-scheduled-job|Restart scheduled job]] -- You can restart the TPM Discovered Technologies and Lifecycles job if it encounters any interruptions or failures.
+        - [[eaw-view-tech-lifecycle|View technology lifecycle details]] -- You can view the Technology Portfolio Management (TPM) lifecycle timelines in Enterprise Architecture Workspace, to track the different phases of a product’s lifecycle, such as end of support, end of extended support, and end of life.
+        - [[eaw-view-tech-risk|View TPM risk details]] -- View all the Technology Portfolio Management (TPM) risk data for software products that are facing high and moderate technology risks.
+        - [[eaw-update-system-property-gather-software-cmdb|Update system property]] -- You can optionally customize the default values of the sn_apm_tpm.configurationItemsWithSoftwareInstalls system property, to capture the details of Technology Portfolio Management (TPM) software products that aren’t stored in the default CMDB tables, Computer (CMDB_CI_Computer) and all similar instances of the table, Docker Container (CMDB_CI_Docker_Container), and Serverless Hardwares (CMDB_CI_Serverless_Hardware).
+        - [[eaw-view-audit-risk-details|View technology portfolio audit risk details]] -- You can view all your technology portfolio details in the Enterprise Architecture Workspace.
+          - [[eaw-update-verif-status|Update verification status of TPM audit details]] -- Change the verification status of a software product or hardware model lifecycle in the TPM technology lifecycle exception table.
+        - [[eaw-view-tpm-logs|View TPM logs]] -- Track the progress of Technology Portfolio Management (TPM) analysis by examining the TPM Discovered Technology Run Logs [sn_apm_tpm_discovered_technology_run_log] table. Each time the analysis is run, an entry is added to this table.
+        - [[eaw-run-job-to-populate-tpm-lifecycle-identifier|Run a scheduled job to populate TPM lifecycle record identifier]] -- Run the Populate Number field in TPM Discovered Technologies job to populate missing Technology Portfolio Management (TPM) lifecycle record identifiers.
+        - [[eaw-run-scheduled-job-update-tpm-data|Run a scheduled job to generate TPM lifecycle data]] -- Run a scheduled job to fetch the technology lifecycle data for your technology portfolio.
+        - [[eaw-schedule-job-generate-tpm-risk|Schedule a job to generate TPM technology risk]] -- Execute the  Populate Technology Lifecycle Risks scheduled job to generate the TPM technology lifecycle risks and populate the result in the TPM Technology Lifecycle Risks [sn_apm_tpm_technology_risk] table.
+      - [[eaw-work-with-trm|Working with Technology Reference Model (TRM) in EA Workspace]] -- The Technology Reference Model provides a structured, centralized view of all technology products; hardware, software, and platforms used across the enterprise.
+        - [[eaw-view-all-trm-phases|View all TRM phases]] -- You can view the list of all Technology Reference Model (TRM) phases in the Enterprise Architecture Workspace.
+        - [[view-all-trm-categories|View all TRM categories]] -- You can view the list of all Technology Reference Model (TRM) categories in the Enterprise Architecture Workspace.
+        - [[eaw-view-all-trm-products-grouped-by-product-category|View all TRM products grouped by product category]] -- You can view all your Technology Reference Model (TRM) products, grouped by category, in the Enterprise Architecture Workspace.
+        - [[eaw-view-all-trm-products|View all TRM products]] -- You can view all available Technology Reference Model (TRM) products in the Enterprise Architecture Workspace.
+        - [[eaw-request-a-trm-products|Request a TRM product]] -- You can request a TRM product using the TRM catalog to add a new software or hardware to the TRM library.
+        - [[eaw-request-a-trm-product-lifecycle|Request a TRM product lifecycle]] -- You can add a new request to create a life cycle for a TRM product.
+        - [[eaw-create-trm-prod-lifecycle|Add a TRM product in Enterprise Architecture Workspace]] -- As an Enterprise Architect, you can add a new TRM product to the TRM library.
+        - [[eaw-assoicate-artifact-trm-prod|Associate an Architectural Artifact to a TRM product]] -- As an Enterprise Architect, you can associate an architectural artifact to a TRM product.
+        - [[eaw-create-trm-prod-lifecycle-req|Add a TRM product lifecycle]] -- As an Enterprise Architect, you can add a new TRM product lifecycle.
+        - [[eaw-view-capabilities-associated-with-trm-product|View product capabilities associated with a Technology Reference Model product]] -- You can view the list of product capabilities associated with Technology Reference Model (TRM) product, in the Enterprise Architecture Workspace.
+        - [[eaw-create-a-new-product-capability-and-assoc-trm-product|Create product capabilities and associate it with a Technology Reference Model product]] -- You can create product capabilities and associate it with Technology Reference Model (TRM) products in the Enterprise Architecture Workspace.
+        - [[eaw-add-existing-product-capability-to-trm-product|Add an existing product capability to a Technology Reference Model product]] -- You can add existing product capabilities to Technology Reference Model (TRM) products in the Enterprise Architecture Workspace.
+        - [[eaw-remove-product-capabilities-assoc-with-trm-product|Remove product capabilities]] -- You can remove the product capabilities associated with Technology Reference Model (TRM) products in the Enterprise Architecture Workspace, confirming only the relevant and current product capabilities are associated with the TRM products.
+        - [[eaw-view-ba-assoc-with-trm-product|View business applications associated with a Technology Reference Model product]] -- You can view the list of business applications associated with Technology Reference Model (TRM) products, in the Enterprise Architecture Workspace (EA Workspace).
+        - [[eaw-create-ba-and-assoc-with-trm-product|Create and associate a business application]] -- You can create business applications and associate it with Technology Reference Model (TRM) products in the Enterprise Architecture Workspace (EA Workspace).
+        - [[eaw-add-existing-ba-to-trm-product|Add an existing business application to a Technology Reference Model product]] -- You can add existing business application to Technology Reference Model (TRM) products in the Enterprise Architecture Workspace.
+        - [[remove-ba-assoc-with-trm-product|Remove business applications associated with a Technology Reference Model product]] -- You can remove the business applications associated with Technology Reference Model (TRM) products in the Enterprise Architecture Workspace, confirming only the relevant and current business applications are associated with the TRM products.
+        - [[view-trm-tech-debt|View TRM technical debts]] -- You can view the Technology Reference Model (TRM) technical debts that are created for the products that aren’t aligned with the TRM phases and standards.
+        - [[eaw-run-job-trm-tech-debts|Run a scheduled job to update TRM technical debt data in EA Workspace]] -- Run a scheduled job to fetch the TRM technical debts data. You must run this job to see the products that are not approved for usage in your enterprise according to the TRM phases defined in Enterprise Architecture Workspace > Setup>TRM Phases>All. You can schedule this job to periodically update the TRM technical debt for all business applications.
+        - [[eaw-schedule-job-sync-trm-product-names|Run a job to sync TRM product names]] -- Run a scheduled job to sync the names of Technology Reference Model (TRM) products with the names of their linked Software Asset Management (SAM) software products.
+        - [[eaw-export-trm-prod-cat-data|Export Technology Reference Model product category data to Excel or CSV]] -- Export the Technology Reference Model (TRM) list view data to Microsoft Excel or CSV so that you can use the data to share with stakeholders and prepare for analysis.
+      - [[eaw-work-with-gantt-chart-views|Working with Gantt chart views in EA Workspace]] -- The Gantt charts in the Enterprise Architecture Workspace allow toggling between TPM (Technology Portfolio Management) and TRM (Technology Reference Model) views. This enables enterprise architects to visualize key lifecycle stages such as deployment, maintenance, and retirement. Identify risks like outdated configurations or unsupported technologies.
+        - [[eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart|View TPM and TRM lifecycle timelines on the Gantt chart]] -- Use the Gantt chart to view and track Technology Portfolio Management (TPM) and Technology Reference Model (TRM) lifecycle timelines.
+      - [[eaw-work-with-ent-model-and-visual|Working with Enterprise Modeling and Visualization]] -- Enterprise Modeling and Visualization provides a structured, visual framework for managing the complex relationships between IT systems, business processes, and organizational goals.
+        - [[eaw-view-shape-libraries|View all shape libraries]] -- View all shape libraries available for the Enterprise Modeling and Visualization in the Enterprise Architecture Workspace.
+        - [[eaw-view-modeling-config|View configuration for Enterprise Architecture Workspace]] -- View all the configuration details of Enterprise Architecture Workspace.
+        - [[eaw-view-entity-config|View all entities]] -- View all entities available for the Enterprise Modeling and Visualization in the Enterprise Architecture Workspace.
+        - [[eaw-view-relationships|View relationships configurations]] -- View all relationship configurations available for the Enterprise Modeling and Visualization in the Enterprise Architecture Workspace.
+        - [[eaw-show-shape-ports|Show shape controls without hovering]] -- Enable an accessibility preference to keep all contextual buttons and controls on diagram shapes visible at all times, without requiring you to hover.
+        - [[eaw-modeling-create-diagram|Create a blank diagram using modeling in the EA Workspace]] -- Create a diagram and synchronize it to the ServiceNow database.
+        - [[eaw-set-connector-properties|Set shape connector properties]] -- Configure the relationship type or visual style of a connector between shapes in an enterprise modeling diagram.
+        - [[eaw-modeling-add-labels-to-connector-lines|Add labels to connector lines between shapes in a diagram]] -- You can enhance diagram clarity in Enterprise Modeling and Visualization by adding a descriptive text on the connector line between shapes. Connector line labels clarify the nature of the relationship between shapes, annotate the data flow direction, and provide contextual information.
+        - [[eaw-work-with-bc-map|Working with business capability map]] -- Model your business capabilities map using the Enterprise Modeling and Visualization. Update existing capability maps by adding other business capabilities and business applications.
+          - [[eaw-modeling-bc-map|Create a diagram for a business capability map]] -- Create and model your business capability map using the Enterprise Modeling and Visualization.
+          - [[eaw-modeling-update-bc-map|Update a business capability map]] -- Modify an existing business capability map by adding new capabilities, business applications, or changing the hierarchy of the existing capabilities.
+          - [[eaw-modeling-bcmap-add-bc-ba|Add business capability or business application]] -- Add a new or existing business capability or business application to the capability map using the Enterprise Modeling and Visualization.
+        - [[eaw-work-with-ba-map|Working with business hierarchy map]] -- Model your business application hierarchy using the Enterprise Modeling and Visualization. Update an existing business hierarchy map by adding more shapes and relationships.
+          - [[eaw-modeling-ba-map|Create diagram for a business hierarchy map]] -- Create and model your business application hierarchy map using the Enterprise Modeling and Visualization.
+          - [[eaw-modeling-update-ba-map|Update a business application hierarchy map]] -- Modify an existing business application hierarchy map by adding or removing shapes and relationships.
+        - [[eaw-work-with-bp-map|Working with business process map]] -- Use the Enterprise Modeling and Visualization to create, update, and manage business process diagrams that represent the current and future state of your business workflows.
+          - [[eaw-modeling-bp-map|Create a diagram for a business process map]] -- Create business process diagrams and model the future state of the business processes using the Enterprise Modeling and Visualization.
+          - [[eaw-modeling-update-bp-map|Update a business process map]] -- Modify an existing business process map by adding new events, activities, or gateways.
+          - [[eaw-modeling-modify-bpmn|Modify BPMN diagram details]] -- Business Process Model and Notation (BPMN) diagram element directly from the diagram page. You can make quick updates without leaving the modeling interface.
+        - [[eaw-work-with-archimate-shapes|Working with ArchiMate Shapes]] -- Use ArchiMate shapes to build enterprise architecture diagrams that represent the relationships between business, application, and technology domains across your organization.
+          - [[eaw-modeling-create-diagram-archimate|Create diagram using ArchiMate shapes and add relationships]] -- Use the industry standard ArchiMate shapes to create modeling diagrams for your enterprise in the Enterprise Architecture Workspace.
+        - [[eaw-work-with-aws-shapes|Working with Amazon Web Services (AWS) shapes]] -- AWS is a cloud computing platform, used for cloud migration, application hosting, and digital transformation, making it critical for enterprise architecture planning. AWS shapes are part of the Cloud Architecture modeling capability. They enable architects to visualize AWS cloud components, model hybrid architectures, and support cloud migration planning and future-state architecture design.
+          - [[eaw-modeling-create-diagram-aws|Create a diagram using AWS shapes]] -- Use the AWS shapes within the Cloud Architecture modeling capability of the Enterprise Architecture Workspace to visualize AWS cloud components. These shapes also enable architects to design hybrid architectures and support cloud migration planning.
+        - [[eaw-work-with-csdm-shapes|Working with CSDM shapes]] -- Common Service Data Model (CSDM) is a standardized framework and CMDB data model provided by ServiceNow. It defines service-related terms, tables, and relationships across the Now Platform to ensure consistency in how services, applications, and infrastructure are represented. In Enterprise Architecture Workspace, CSDM shapes are visual elements that represent entities on diagrams for modeling and analysis.
+          - [[eaw-modeling-create-diagram-csdm|Create a diagram using CSDM shapes]] -- The CSDM shapes represent objects visually in diagrams, enabling architects to model business capabilities, applications, services, and technical components in alignment with the Now Platform.
+        - [[eaw-working-custom-shapes|Working with custom shapes]] -- Custom shapes represent specific elements that are unique to your organization. Manage custom shapes, create diagram actions for the shapes in the Enterprise Architecture Workspace.
+          - [[eaw-modeling-store-image-databse|Storing shapes or images to the database]] -- Upload the images to the database to configure them to show up in the diagrams page of the Enterprise Modeling and Visualization.
+          - [[eaw-modeling-action-custom-shape|Create a diagram action for a custom shape]] -- Create diagram actions for newly added custom shapes that can be used in  Enterprise Modeling and Visualization to create diagrams.
+          - [[eaw-modeling-add-custom-shape-library|Add a custom shape library]] -- Create a shape library to add custom shapes that are unique to your organization.
+          - [[eaw-modeling-custom-shape-element|Add a shape library element for a custom shape]] -- Create a shape library element to associate a custom shape and its diagram action to the custom shape library.
+          - [[eaw-modeling-custom-shape-example|Custom shapes example]] -- Use custom shapes to represent specific elements that are unique to your organization, such as custom business processes, systems, or roles.
+        - [[eaw-modeling-group-ungroup-shape|Convert a shape to a group shape]] -- Group shapes enable you to combine multiple related shapes into a single container for better organization and clarity in diagrams. It’s useful for representing logical groupings such as a set of applications under a business capability, related processes under a value stream stage.
+        - [[eaw-modeling-expand-collapse-shape|Expand or collapse a group shape]] -- The expand and collapse functionality for a group shape helps in simplifying visualization, improves focus, and supports hierarchical modeling.
+        - [[eaw-modeling-download-diagram|Download a modeling diagram as an image]] -- Download a diagram as an image to share it with other stakeholders with offline access or use it in the presentations.
+        - [[eaw-modeling-reorder-shapes-cat|Reorder shapes categories]] -- Reordering shape categories helps architects customize the panel for faster access to frequently used shapes.
+        - [[eaw-align-distribute-shapes|Align and distribute shapes in a modeling diagram]] -- Organize shapes on the diagram canvas by aligning them to a common edge or center, or by distributing them at equal spacing.
+        - [[eaw-modeling-replace-shape|Replace a shape in a diagram]] -- Replace any shape on the diagram canvas with a different shape type. When you replace a shape, relationship lines update automatically to reflect the new shape type.
+        - [[eaw-modeling-show-hide-shapes-panel|Show or hide shapes panel]] -- Show or hide the Shapes Panel to optimize your workspace for different tasks.
+        - [[eaw-modeling-shapes-grid-list-view|Switch to list or grid view of shapes panel]] -- Switch between List View and Grid View in the shapes panel according to your modeling needs.
+        - [[eaw-filter-shapes|Search shapes in a diagram]] -- Search for a shape in the Shapes palette of a diagram.
+        - [[eaw-modeling-add-related-records|Add related records in the modeling diagram]] -- Fetch and add specific related records to the selected shape in a diagram.
+        - [[eaw-modeling-share-diagram|Share a modeling diagram]] -- Share your draft diagrams with individuals and groups and define access levels for them to view and modify the diagram.
+        - [[eaw-modeling-sync-diagram-servicenow|Commit diagram changes]] -- Synchronize an approved diagram and all its elements to the database.
+        - [[eaw-modeling-save-as-new|Save as a version]] -- Copy an existing diagram and create a version for it within the selected architectural artifact. You can update the new version as required.
+        - [[eaw-add-or-edit-diagram-version-details|Add or edit diagram version details]] -- You can add or edit version-specific details for a diagram to improve change management and compliance. Adding diagram version details ensures better clarity between all stakeholders in the context of the diagram and timelines.
+        - [[eaw-modeling-duplicate|Duplicate a modeling diagram]] -- You can make a copy of an existing diagram that you created and modify the duplicate diagram according to your requirement.
+        - [[eaw-modeling-submit-for-approval|Submit a modeling diagram for approval]] -- Send your draft modeling diagrams for approval. After receiving the approval, you can commit the diagram to the database. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group.
+        - [[eaw-modeling-sync-shape|Synchronize a shape to the database]] -- Add a shape to a diagram. Synchronize the shape to the database by mapping the shape to an existing CI or adding a CI.
+        - [[eaw-approve-diagram-req|Approve or reject a modeling diagram request]] -- As an Enterprise Architect, approve or reject a Enterprise Modeling and Visualization diagram requests submitted by other users.
+        - [[eaw-modeling-delete-shape|Delete a shape]] -- Delete a shape and all of its relationships from a diagram.
+        - [[eaw-modeling-delete-diagram|Delete Enterprise Modeling and Visualization diagrams]] -- You can delete diagrams from the Enterprise Modeling and Visualization All Diagrams page, confirming only the relevant and current diagrams are available.
+        - [[create-documents-for-diagrams|Generate a document from a diagram]] -- Generate documents from the Enterprise Modeling and Visualization diagrams page.
+        - [[view-docs-for-diagram|View documents for a diagram]] -- View documents that are generated for a diagram from the Enterprise Modeling and Visualization diagrams page.
+      - [[eaw-work-with-data-cert|Working with data certification]] -- In the Enterprise Architecture Workspace, enterprise architects can manage certifications alongside requests, assessments, and portfolio health insights without switching to separate modules. You can define rules for validating data (for example, application lifecycle, technology standards), automate recurring checks (daily, monthly, quarterly), assign certifiers to review and approve data. You can highlight overdue certifications and compliance gaps.
+        - [[eaw-create-policy|Create a certification policy]] -- Creating a data certification policy serves as a governance mechanism to ensure that the data used in enterprise architecture models and visualizations is accurate, complete, and trustworthy.
+        - [[eaw-data-cert-edit-policy|Edit a certification policy]] -- Update an existing certification policy details.
+        - [[eaw-data-cert-view-policy|View certification policy]] -- View details of a published policy.
+        - [[eaw-data-cert-publish-policy|Publish a certification policy]] -- Publish a draft policy to activate it and enable certifications to be issued under that policy.
+        - [[eaw-data-cert-run-certification|Run certification for a policy]] -- Run certification for published policies to generate a new certification instance for an active policy.
+        - [[eaw-data-cert-notification|Data certification task notifications]] -- When a data certification policy runs in the Enterprise Architecture Workspace, the system automatically sends email notifications to task assignees as due dates approach. This notification behavior is provided by the CMDB Data Manager and does not require additional configuration in the Enterprise Architecture Workspace.
+        - [[eaw-data-cert-track-progress|Track progress of a certification policy]] -- Monitor and review the certification policy status to track completion progress and view details such as total tasks, completed tasks, open tasks, and unassigned tasks.
+        - [[eaw-approve-data-cert-tasks|Review and certify data certification tasks]] -- You can review and complete data certification tasks to confirm that records meet the standards defined in a certification policy. Certification tasks are generated when a policy is run and are assigned based on the policy's assignment configuration.
+        - [[eaw-data-cert-activate|Activate a certification policy]] -- Activate a certification policy to add it to the active certification runs. This process ensures that the policy is active and can be used for certifications.
+        - [[eaw-data-cert-deactivate|Deactivate a certification policy]] -- Deactivate a published policy to remove it from active certification runs. This process ensures that the policy is no longer active and can't be used for certifications.
+        - [[eaw-delete-data-cert|Delete a certification policy]] -- Delete an unwanted certification policy permanently.
+      - [[eaw-work-with-architecture-analyzer|Working with architecture analyzer]] -- Use the architectural analyzer in the Enterprise Architecture Workspace to visually explore and analyze relationships between Common Service Data Model (CSDM) entities like business applications, business capabilities, application services, and information objects.
+        - [[eaw-create-exploration-in-arch-analyzer|Create an exploration in the architecture analyzer]] -- You can create an exploration to begin analyzing relationships between architectural entities using the architecture analyzer in the Enterprise Architecture Workspace.
+      - [[eaw-work-with-portfolio-list-view|Working with Portfolio list view]] -- Manage your business architecture, application portfolio, information portfolio and manage all your own entities form the portfolio list view of the Enterprise Architecture Workspace.
+        - [[create-my-list|Create my list]] -- Create your own filtered lists in the Enterprise Architecture Workspace and access them under the My Lists tab.
+        - [[eaw-using-business-architecture|Using business architecture]] -- Manage business units, departments, goals, value streams, value stream stages, business capabilities, business processes, and demands in the Enterprise Architecture Workspace.
+          - [[eaw-manage-business-units|Manage business units]] -- Manage business units in the Enterprise Architecture Workspace to define your organizational functions.
+            - [[eaw-view-all-business-units|View all business units]] -- You can view the list of all available business units in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-business-unit|Add or edit a business unit]] -- Create or edit a business unit to define your organizational functions.
+          - [[eaw-manage-departments|Manage departments]] -- Add or edit departments, add users to the departments in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-departments|View all departments]] -- You can view the list of all available departments in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-department|Add or edit a department]] -- You can create or edit departments to effectively manage and optimize business applications by providing a structured approach to align the business applications with the strategic goals of the organization.
+            - [[eaw-add-a-new-user-to-a-deparment|Add a user to a department]] -- You can add users to departments, thereby enabling the departments to perform their specific tasks and reach their desired objectives. Users can contribute to the decision-making process of a department by providing their insights. This leads to optimized usage of business applications and increased cost savings.
+          - [[eaw-manage-goals|Manage goals]] -- Manage goals to track and optimize your investments in business applications. Add a quantitative and qualitative targets to the goals in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-goals|View all goals]] -- You can view the list of all available goals in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-goal|Add or edit a goal]] -- Create or edit a goal to track and optimize your investments in business applications.
+            - [[eaw-add-a-quantitative-target-to-a-goal|Add a quantitative target to a goal]] -- You can add a quantitative target to track the progress of achieving a goal. It’s a numbers-based measurable target set to track the performance of a goal.
+            - [[eaw-add-a-qualitative-target-to-a-goal|Add a qualitative target to a goal]] -- You can add a qualitative target to track the progress of achieving a goal. It's a non-measurable and interpretation-based target, set to track the performance of a goal.
+            - [[eaw-create-a-sub-goal|Create a sub-goal]] -- You can create sub-goals that are associated with your main goals. Sub-goals are more specific in nature and consist of actionable items that contribute to the completion of the parent goal.
+          - [[eaw-manage-value-streams|Manage value streams]] -- A value stream is a high-level representation of the steps an organization takes to deliver value to a customer whether internal or external. These steps are organized into value stream stages, each of which contributes incrementally to the final value delivered.
+            - [[eaw-view-all-value-streams|View value streams details]] -- You can value stream details in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-value-stream|Add or edit a value stream]] -- Create or edit a value stream to organize and understand the flow of value creation in your organization.
+            - [[eaw-add-vs-stages-to-a-vs|Add value stream stages to a value stream]] -- You can add value stream stages to a value stream to break it down into discrete steps and establish the foundation for associating business processes and business capabilities with each stage.
+            - [[eaw-add-an-application-model-to-a-value-stream|Associate an application model to a value stream]] -- You can add an application model to a value stream to better manage your application portfolios. This ensures that any hardware/software investments are tied to the organizational goal and requirement.
+          - [[eaw-manage-value-stream-stages|Manage value stream stages]] -- Value stream stages are the building blocks of a value stream, each adding an incremental value. Add or edit value stream stages in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-value-stream-stages|View value stream stage details]] -- You can view the list of all available value streams stages in the Enterprise Architecture Workspace. You can also view and manage the business processes and business capabilities associated with the value stream.
+            - [[eaw-add-or-edit-a-value-stream-stage|Add or edit a value stream stage]] -- Create or edit a value stream stage to improve the efficiency of a value stream and verify each step adds value to the output of the value stream.
+            - [[eaw-assoc-bp-with-vs-stage|Add or remove a business process from a value stream stage]] -- You can add an existing business process to a value stream stage to map your enterprise architecture workflows to the stages of your value streams. You can also remove associated business processes if they are no longer relevant for the value stream stage.
+            - [[add-or-remove-a-bc-from-vs-stage|Add or remove a business capability from a value stream stage]] -- You can add an existing business capability to a value stream stage to map your organizational capabilities to the stages of your value streams. You can also remove associated business capability if they’re no longer relevant for the value stream stage.
+          - [[eaw-manage-business-capabilities|Manage business capabilities]] -- Add or edit a business capability, sub-capability, and manage architectural artifacts and diagrams of the capabilities in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-capabilities-on-the-portfolio-page|View all business capabilities on the Portfolio page]] -- You can view the list of all available capabilities in the Enterprise Architecture Workspace.
+            - [[eaw-add-capability|Add or edit a business capability from the Portfolio page]] -- Create or edit a business capability to align your organization’s business goals.
+            - [[eaw-create-a-sub-capability-from-the-portfolio-page|Create a sub-capability from the Portfolio page]] -- You can add a sub-capability to a capability.
+            - [[eaw-create-lucid-diagram-cap|Create a Lucidchart diagram]] -- Create a diagram in Lucidchart for your business capability maps and associate it with an architectural artifact.
+            - [[eaw-assoicate-artifact-bc|Manage architectural artifacts]] -- You can create new, add, or remove the artifacts that are associated with a business capability.
+            - [[eaw-view-vs-stages-assoc-with-bc|View value stream stages associated with a business capability]] -- You can view the value stream stages associated with a business capability to understand which steps in your value stream the business capability supports.
+          - [[eaw-manage-business-processes|Manage business processes]] -- A business processes is a structured method to organize and manage applications that collectively deliver a specific service—whether internal (example: HR systems) or external (example: customer portals). This process ensures alignment between business capabilities and IT assets, enabling better governance, risk management, and value delivery.
+            - [[eaw-view-all-business-processes|View all business processes]] -- You can view the list of all available business processes in the Enterprise Architecture Workspace.
+            - [[eaw-create-business-process|Add or edit a business process]] -- A Business process is a collection of related, structured activities performed to achieve a specific business outcome. Use business processes to model how your organization operates and to associate the business applications that support those activities.
+            - [[eaw-assoicate-artifact-bp|Manage architectural artifacts of a business process]] -- You can create new, add, or remove the artifacts that are associated with a business process.
+            - [[eaw-view-vs-stages-assoc-with-bp|View value stream stages associated with a business process]] -- You can view the value stream stages associated with a business process to understand which steps in your value stream the business process supports.
+          - [[eaw-manage-demands|Manage demands]] -- The structured process of capturing, evaluating, prioritizing, and tracking business demands—such as new applications, enhancements, or rationalization initiatives—across the application lifecycle. It ensures that IT investments align with strategic business goals and that resources are allocated efficiently.
+            - [[eaw-view-all-demands|View all demands]] -- You can create or edit a demand as a step to identify cost-saving opportunities on applications or capabilities, to meet the target.
+            - [[eaw-create-demand-ba|Add or edit a demand]] -- You can create or edit a demand as a step to identify cost-saving opportunities on applications or capabilities, to meet a target.
+        - [[eaw-work-with-application-portfolio|Working with an application portfolio]] -- Manage all your business applications, business capabilities, information objects, application services and also, manage their associated architectural artifacts in the Enterprise Architecture Workspace.
+          - [[view-all-business-apps|View all business applications]] -- View the list of all business applications in the Enterprise Architecture Workspace.
+          - [[eaw-create-business-app|Add or edit a business application]] -- Add the applications that your organization wants to introduce based on their functions and the business processes they fulfill. In Enterprise Architecture, add or edit any business application that is used to assess and track costs, usage, business value, functional fitment, and risks.
+          - [[eaw-view-business-capabilities-assoc-with-ba|View business capabilities associated with a business application]] -- You can view the list of business capabilities associated with business applications in the Enterprise Architecture Workspace, to understand the value of the business application in your enterprise architecture landscape and improve decision making.
+          - [[eaw-add-existing-business-capability-to-ba|Associate business capabilities]] -- You can add existing business capabilities to business applications in the Enterprise Architecture Workspace, to ensure better alignment with your strategic enterprise architecture goals.
+          - [[eaw-unassign-business-capabilities-from-ba|Remove business capabilities associated with a business application]] -- You can unassign the business capabilities associated with business applications in the Enterprise Architecture Workspace.
+          - [[eaw-create-diagram-ba|Create diagram for a business application]] -- Create a diagram for your business application hierarchy and associate it with an architectural artifact.
+          - [[eaw-create-lucid-diagram-ba|Create a Lucidchart diagram for a business application]] -- Create a diagram Lucidchart for your business application hierarchy and associate it with an architectural artifact.
+          - [[view-ba-form-in-coreui|Open business application form in Core UI from EA Workspace]] -- Open the business application form in Core UI from the EA Workspace to view and edit the business application form in the Enterprise Architecture view.
+          - [[eaw-add-ai-system-to-ba|Associate AI System]] -- Associate an existing AI Control Tower AI system with a business application from the Enterprise Architecture Workspace.
+          - [[eaw-view-ai-system-in-aict-from-ba|View AI system details from a business application]] -- You can open an AI system record in the AI Control Tower Workspace directly from the AI Systems tab on a business application record in the Enterprise Architecture Workspace.
+          - [[eaw-unassign-ai-system-from-ba|Remove an AI system from a business application]] -- You can remove an AI system from a business application record in the Enterprise Architecture Workspace.
+          - [[eaw-open-map-ba|View a unified map for a business application]] -- View a unified map for your business applications in the Enterprise Architecture Workspace to understand the current architecture and associated references.
+            - [[eaw-view-unified-map-in-modeling-tool|View the unified map for a business application in Enterprise Modeling and Visualization]] -- You can view and model the unified map for your business applications, using Enterprise Modeling and Visualization. Using the Enterprise Modeling and Visualization [com.snc.apm_modelling_tool] functionality in Enterprise Architecture Workspace, you can modify your existing applications hierarchy and associate them with architectural artifacts.
+          - [[eaw-view-roadmap-ba|View roadmap of a business application]] -- View the roadmap of your business applications and align them with the organization's strategy. Creating a portfolio plan helps you plan, prioritize, and roadmap the work for your business application.
+          - [[eaw-view-product-capabilities-associated-with-ba|View product capabilities associated with a business application]] -- You can view the list of product capabilities associated with business applications, in the Enterprise Architecture Workspace (EA Workspace).
+          - [[eaw-create-new-product-capability-and-assoc-with-ba|Create and associate product capability with a business application]] -- You can create product capabilities and associate them with business applications in the Enterprise Architecture Workspace.
+          - [[add-existing-product-capability-to-ba|Add an existing product capability to a business application]] -- You can add existing product capabilities to business applications in the Enterprise Architecture Workspace.
+          - [[eaw-remove-product-capabilities-associated-with-ba|Remove product capabilities]] -- You can remove the product capabilities associated with business applications in the Enterprise Architecture Workspace, confirming only the relevant and current product capabilities are associated with the business application.
+          - [[eaw-associate-info-obj-ba|Associate information objects]] -- Relate a business application to an information object using the CI relationship [cmdb_rel_ci] table of type Uses::Used by. Use this suggested relationship to get the logical data of the information object, which can be used to leverage the business application.
+          - [[eaw-view-archi-artfct-assoc-with-ba|View architectural artifacts associated with a business application]] -- You can view the list of architectural artifacts associated with business applications, in the Enterprise Architecture Workspace.
+          - [[eaw-assoicate-artifact-ba|Associate architectural arifacts]] -- You can create a new architectural artifact from the business application related list, in the EA Workspace.
+          - [[eaw-add--existing-archi-artfct-to-a-ba|Link architectural artifact to a business application]] -- You can add existing architectural artifacts to business applications in the EA Workspace.
+          - [[eaw-unassign-archi-artfct-assoc-ba|Remove architectural artifacts associated with a business application]] -- You can remove the architectural artifacts associated with business applications in the EA Workspace, ensuring that only relevant and current architectural artifacts are associated with the business applications.
+          - [[eaw-view-trm-products-assoc-with-ba|View Technology Reference Model products associated with business applications]] -- You can view the list of Technology Reference Model (TRM) products associated with business applications, in the Enterprise Architecture Workspace (EA Workspace).
+          - [[eaw-create-trm-products-and-assoc-ba|Create and associate TRM product with a business application]] -- You can create a Technology Reference Model (TRM) products and associate it with business applications in the Enterprise Architecture Workspace.
+          - [[eaw-add-existing-trm-products-to-ba|Associate TRM products]] -- You can add existing Technology Reference Model (TRM) product to business applications in the Enterprise Architecture Workspace.
+          - [[eaw-remove-trm-products-assoc-with-ba|Remove TRM products associated with business applications]] -- You can remove the Technology Reference Model (TRM) products associated with business applications in the Enterprise Architecture Workspace, confirming only the relevant and current TRM products are associated with the business application.
+          - [[eaw-working-with-product-capabilities|Working with product capabilities]] -- Add or edit product capabilities in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-product-capabilities|View all product capabilities]] -- You can view the list of product capabilities for your application portfolio, in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-product-capability|Add or edit a product capability]] -- Create or edit product capabilities in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-app-services|View all application services]] -- View the list of all application services in the Enterprise Architecture Workspace.
+          - [[eaw-add-appl-service|Add or edit an application service in the Enterprise Architecture Workspace]] -- Add or edit an application service of your organization in the Enterprise Architecture Workspace.
+          - [[eaw-run-job-gen-model-id-ba|Generate Model ID]] -- Execute a script to generate the application model for existing business applications. An application model is a structured representation of a business application's components and their relationships and interactions within your application landscape.
+        - [[eaw-work-with-info-portfoliodita|Working with information portfolio]] -- Information portfolio helps to capture information from the assets of your organization as information objects. You can categorize the information assets and determine its business application use.
+          - [[eaw-manage-data-domains|Manage data domains]] -- A data domain is a logical grouping that categorizes information objects (like tables, fields, or records) based on shared characteristics, business functions, or governance needs.
+            - [[eaw-view-all-data-domains|View all data domains]] -- You can view the list of all data domains in the Enterprise Architecture Workspace.
+            - [[eaw-add-or-edit-a-data-domain-from-the-portfolio-page|Add or edit a data domain from the Portfolio page]] -- Create or edit a data domain to relate an information object to the database catalog of a database instance to collect the physical data.
+          - [[eaw-manage-info-object|Manage information objects]] -- An information object captures the logical data for a business application. It also describes the type of data that is interchanged between the application and the database.
+            - [[eaw-view-all-information-objects|View all information objects]] -- You can view the list of all information objects in the Enterprise Architecture Workspace.
+            - [[eaw-create-new-information-object|Add or edit an information object]] -- Create an information object to capture the logical data for a business application.
+          - [[eaw-manage-arch-artifacts|Manage architectural artifacts]] -- Architectural artifacts are created to describe a system, solution, or state of an enterprise. The goal of architectural artifacts in Enterprise Architecture is to enable enterprise architects to create and manage artifacts in their organization.
+            - [[eaw-view-arch-art-categories|View all architectural artifact categories]] -- View the list of all architectural artifact categories in the Enterprise Architecture Workspace.
+            - [[eaw-view-all-architectural-artifacts|View all architectural artifacts]] -- You can view the list of all architectural artifacts in the Enterprise Architecture Workspace.
+            - [[eaw-create-architectural-artifact|Create or edit an architectural artifact from Portfolio page]] -- Create an architectural artifact to align it with your business requirements.
+            - [[eaw-add-a-related-entity-to-an-architectural-artifact|Add a related entity to an architectural artifact]] -- Associate an architectural artifact to existing entities such as business capabilities, business applications, digital integrations, and digital interfaces. The association creates a relationship between the artifact and related entities.
+            - [[eaw-share--archi-artft-with-users-groups|Share an architectural artifact with users or groups]] -- You can share architectural artifacts with users or groups for enhanced and effective collaboration with all relevant stakeholders, in the Enterprise Architecture Workspace.
+            - [[eaw-manage-access-to-architectural-artifacts|Manage access to architectural artifacts]] -- You can manage the user or group access to specific architectural artifacts from the Enterprise Architecture Workspace.
+            - [[eaw-req-approval-artifact-version|Request approval]] -- You can request approval for architectural artifacts of the type URL or Attachment from users who are part of the Enterprise Architect user group. The user reviews and approves the request.
+            - [[eaw-download-artifact-version|Download an architectural artifact version]] -- Download a version of an architectural artifact that has the file type defined as Attachment.
+            - [[eaw-delete-an-architectural-artifact-version|Delete an architectural artifact version]] -- Delete an architectural artifact version that is in Draft state from the Enterprise Architecture Workspace.
+          - [[eaw-manage-adr|Manage architectural decision records (ADR)]] -- The Architectural Decision Records (ADR) help you to explain your infrastructure. ADR is a type of artifact that helps in understanding the background of a specific architectural decision.
+            - [[eaw-create-edit-adr|Add or edit an architectural decision record (ADR)]] -- Create or update an artifact of the type architectural decision record (ADR) to align it with your business requirements.
+            - [[eaw-create-and-mng-page-subpage-for-adr|Create and manage pages and subpages]] -- Flexibly organize information for your architectural decision records (ADR) by creating, duplicating, and deleting pages and subpages in the Enterprise Architecture Workspace.
+            - [[eaw-tag-users-or-records-in-adr|Tag users or records in Architectural Decision Records]] -- You can tag users or records in architectural decision records (ADR) in the Enterprise Architecture Workspace.
+            - [[eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc|Update system property to reference additional records]] -- You can customize the default values of the sn_apm_ws.record_mention_config system property, to enable the tagging of additional record tables in an architectural decision record (ADR).
+            - [[eaw-add-an-adr-version|Add an architectural decision record version]] -- Create multiple versions of architectural decision records (ADR) in the Enterprise Architecture Workspace. Creating multiple ADR versions enable you to capture the evolution of architectural decisions over time or capture details of alternatives to existing architectural decisions.
+            - [[eaw-request-approval-adr|Request approval]] -- Send a version of architectural artifacts of the type Architectural Decision Record (ADR) for approval to an Enterprise Architect user. The user reviews and approves the request.
+          - [[manage-arch-documents|Manage architectural documents]] -- Architectural documents are an artifact type used to store and govern documents generated from Enterprise Modeling and Visualization diagrams. They provide a centralized view of all diagram‑generated documents.
+            - [[view-architectural-documents|View all architectural documents]] -- View all architectural documents that are automatically generated from the diagrams page and the documents that are manually created.
+            - [[create-architectural-document|Create an architectural document]] -- Create an architectural document in the Enterprise Architecture Workspace. An Architectural document captures and governs architecture information generated from diagrams.
+            - [[edit-architectural-content|Edit artifact content of an architectural document]] -- Edit artifact content of an architectural document.
+            - [[edit-architectural-document|Edit an architectural document details]] -- Edit an architectural document to update or modify details.
+            - [[add-related-entity-arch-doc|Add a related entity to an architectural document]] -- Associate an architectural artifact to existing entities such as business capabilities, business applications, digital integrations, and digital interfaces. The association creates a relationship between the artifact and related entities.
+            - [[manage-artifact-content|Manage artifact content]] -- Manage artifact content of an architectural document performing actions such as creating new versions, sharing the document with users or groups.
+            - [[delete-architectural-document|Delete an architectural document]] -- Delete a draft version of an architectural document that you no longer require.
+        - [[eaw-working-with-ai-portfolio|Working with AI Portfolio]] -- Manage AI System Digital Assets, AI Model Digital Assets, AI Dataset Digital Assets, and AI Prompt Digital assets in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-system-digital-assets|View all AI system digital assets]] -- You can view the list of all available AI system digital assets in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-model-digital-assets|View all AI model digital assets]] -- You can view the list of all available AI model digital assets in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-dataset-digital-assets|View all AI dataset digital assets]] -- You can view the list of all available AI dataset digital assets in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-prompt-digital-assets|View all AI Prompt Digital Assets]] -- You can view the list of all available AI prompt digital assets in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-system-product-models|View all AI System Product Models]] -- You can view the list of all available AI system product models in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-model-product-models|View all AI Model Product Models]] -- You can view the list of all available AI model product models in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-dataset-product-models|View all AI Dataset Product Models]] -- You can view the list of all available AI dataset product models in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-ai-prompt-product-models|View all AI Prompt Product Models]] -- You can view the list of all available AI prompt product models in the Enterprise Architecture Workspace.
+        - [[eaw-work-with-your-entities|Working with your entities]] -- Manage all your Enterprise Architecture Workspace entities from a single place.
+          - [[eaw-my-business-cap|View your business capabilities]] -- View the list of all your business capabilities that are created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-business-cap|Add or edit your business capabilities]] -- Add or edit a business capability to align your organization’s business goals.
+          - [[eaw-my-business-processes|View your business processes]] -- View the list of all business processes that are created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-bus-processes|Add or edit your business processes]] -- Add or edit a business process to group applications that help accomplish a specific application service. A business process is a collection of related structured tasks performed to accomplish a specific application service.
+          - [[eaw-my-business-apps|View your business applications]] -- View the list of all your business applications that are created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-business-apps|Add or edit your business applications]] -- Add the applications that your organization wants to introduce based on their functions and the business process they fulfill. In Enterprise Architecture, add or edit your business applications that are used to assess and track costs, usage, business value, functional fitment, and risks.
+          - [[eaw-my-app-services|View your application services]] -- View the list of application services created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-app-services|Add or edit your application services]] -- Add or edit an application service created by you in the Enterprise Architecture Workspace.
+          - [[eaw-my-info-objects|View your information objects]] -- View the list of information objects created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-info-objects|Add or edit your information objects]] -- Add or edit an information object to capture the logical data for a business application.
+          - [[eaw-my-arch-artifacts|View your architectural artifacts]] -- View the list of all your architectural artifacts created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-artifacts|Add or edit your architectural artifacts]] -- Add or edit an architectural artifact to align it with your business requirements.
+          - [[eaw-my-trm-products|View your TRM products]] -- View all your Technology Reference Model (TRM) products in the Enterprise Architecture Workspace. TRM allows you to define the standards for your software and hardware products and manage unapproved products in your organization.
+          - [[eaw-add-edit-my-trm-prod|Add or edit your TRM products]] -- Add a software product to the Technology Reference Model (TRM) library or edit an existing product details and maintain the TRM library for your organization.
+          - [[eaw-my-digital-integrations|View your digital integrations]] -- View the list of all digital integrations created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-dig-integ|Add or edit your digital integrations]] -- Add a digital integration or edit an existing digital integration created by you in the EA Workspace.
+          - [[eaw-my-digital-interfaces|View your digital interfaces]] -- View the list of all digital interfaces that are created by you in the Enterprise Architecture Workspace.
+          - [[eaw-add-edit-my-digi-interfaces|Add or edit your digital interfaces]] -- Add or edit a digital interface for an integration to describe how business applications can interact.
+      - [[eaw-work-with-tco|Working with application Total Cost of Ownership (TCO)]] -- The Application Total Cost of Ownership (TCO) plugin helps Enterprise Architects to evaluate the cost of business applications and leverage the application costs to prioritize the application portfolio and align with the organization's business strategy.
+        - [[eaw-view-all-tco-records|View all total cost of ownership records]] -- View the list of all total cost of ownership (TCO) records in the Enterprise Architecture Workspace.
+        - [[eaw-create-new-tco|Add or edit a total cost of ownership record]] -- Create a new entry for total cost of ownership (TCO) record to evaluate the cost of your business applications.
+      - [[eaw-work-with-digital-integ-mngmnt|Working with digital integration management in Enterprise Architecture Workspace]] -- Manage digital integrations and digital interfaces in Enterprise Architecture Workspace.
+        - [[eaw-work-with-digital-integrations|Working with digital integrations]] -- Add or edit a digital integration, manage architectural artifacts, and information objects of a digital integration in Enterprise Architecture Workspace.
+          - [[eaw-view-all-dig-integ|View all digital integrations]] -- View the list of all your digital integrations in the Enterprise Architecture Workspace.
+          - [[eaw-create-digital-integ|Add or edit]] -- Add a digital integration or edit an existing digital integration in the EA Workspace. The digital integration is a design object used by the Enterprise Architects. It describes a connection between two business applications or between a business application and an external service (for example: AWS, Yahoo, a TimeZone Conversion service) that provides an interface (API) to interact with.
+          - [[eaw-assoicate-artifact-dig-intgn|Manage architectural artifacts of a digital integration in EA Workspace]] -- You can create new, add, or remove the architectural artifacts that are associated with a digital integration.
+          - [[eaw-dig-integ-add-info-object|Associate an information object to a digital integration]] -- Associate an information object to a digital integration in the Enterprise Architecture Workspace.
+          - [[example-prov-n-subsc-roles-with-data-flow|Example: Provider and subscriber with data flow directions]] -- The provider and subscriber roles are independent of the data flow direction. The following example illustrates how the same provider and subscriber pairing can support both outgoing and incoming data flow directions.
+        - [[eaw-work-with-digital-interfaces|Working with digital interfaces]] -- Add or edit a digital interface, connect a digital interface to a CMDB API, manage artifacts, relate an SDLC component, information object, and credentials to a digital interface in the Enterprise Architecture Workspace.
+          - [[eaw-view-all-dig-interfaces|View all digital interfaces]] -- View the list of all your digital interfaces in the Enterprise Architecture Workspace.
+          - [[eaw-create-digital-interface|Add or edit a digital interface in the EA Workspace]] -- Add or edit a digital interface for an integration to describe how business applications can interact.
+          - [[eaw-relate-dig-interface-api|Connect a digital interface with the CMDB API in the EA Workspace]] -- Create a relationship between a digital interface and a CMDB API. The relationship helps you find out which digital integration uses which API, which APIs are built out of the design specs of the digital interface, and what environments are deployed. The relationship helps to group the deployed APIs.
+          - [[eaw-manage-artifacts-digital-interface|Manage architectural artifacts]] -- You can create new, add, or remove the architectural artifacts that are associated with a digital interface.
+          - [[eaw-dig-interface-add-sdlc-comp|Relate an SDLC component to a digital interface]] -- Associate an SDLC component to a digital interface in the Enterprise Architecture Workspace. The SDLC components represent the artifacts or configurations that are used to implement an Interface.
+          - [[eaw-dig-interface-add-info-object|Relate an information object to a digital interface]] -- Associate an information object to a digital interface in the Enterprise Architecture Workspace. You can also define how the information object should be consumed within the digital interface.
+          - [[eaw-dig-interface-add-credential|Relate credentials to a digital interface]] -- Relate and manage integration user and account for a digital interface to track which user is assigned to which digital interface.
+      - [[working-with-publishing-center|Working with the publishing center]] -- Use the Publishing Center to make architecture content accessible and actionable across the enterprise.
+        - [[published-trm-cat-exp|Published TRM catalog experience]] -- When you publish a Technology Reference Model (TRM) catalog from the Publishing Center, the system generates a Knowledge Base catalog that presents approved technology standards in a consumable, read‑only format.
+        - [[config-trm-data-to-publish|Create a configuration to publish TRM data]] -- Define configuration for a Technology Reference Model (TRM) catalog that can be published to the knowledge base article.
+        - [[modify-trm-cat-pub-config|Edit a published TRM catalog configuration]] -- Edit a published TRM catalog configuration to update catalog name, article publishing rules for software and hardware records, or manage portal and knowledge base mappings.
+        - [[associate-portal-to-trm-cat|Associate a portal with a knowledge base]] -- Create or update a portal mapping for your published catalog, set the order for the knowledge base. And make the record active or inactive.
+        - [[automatic-synch-published-catalogs|Automatic synchronization of published TRM catalogs]] -- After you publish a TRM catalog, most updates to TRM data are synchronized automatically with the published knowledge base content.
+        - [[publish-trm-cat-to-kb|Publish a TRM catalog to the knowledge base]] -- Publish a Technology Reference Model (TRM) catalog to the ServiceNow Knowledge Base, making approved technology standards available for broader discovery and consumption.
+        - [[republish-trm-cat|Republish a TRM catalog after updates]] -- Republish a TRM catalog to apply the latest TRM updates to the published knowledge base content.
+        - [[view-run-log|View publishing status and run log]] -- View publishing run logs to monitor publishing activity and review the publishing history for a TRM catalog.
+        - [[access-the-published-kb|Access the published TRM catalog knowledge base]] -- Access the published TRM catalog to view approved technology standards and lifecycle information in the knowledge base.
+        - [[understand-publishing-output|Understanding the publishing results and knowledge base output]] -- Understand what happens after you publish or republish a TRM catalog and how to interpret the results in the Publishing Center and the knowledge base.
+        - [[ai-search-trm-cat|AI Search on the TRM catalog]] -- Use the Now Assist panel to search published Technology Reference Model (TRM) catalog records using natural language queries.
+          - [[index-archive-pub-trm-cat|Index previously published TRM catalog records for AI Search]] -- Manually trigger indexing for TRM catalog records that were published before you installed the May 2026 EA Workspace update, so that they are searchable through the Now Assist panel.
+        - [[retire-archive-pub-trm-cat|Retire or archive a published TRM catalog]] -- Use the Knowledge Base management controls to retire or archive the content generated from a published Technology Reference Model (TRM) catalog.
+      - [[eaw-work-with-setup-page|Working with the Setup page]] -- As an Enterprise Architect, use the Setup page to configure Enterprise Architecture Workspace features and functionality.
+        - [[eaw-view-all-application-categories|View all application categories]] -- You can view the list of all application categories in the Enterprise Architecture Workspace.
+        - [[eaw-view-all-application-category-groups|View all application category groups]] -- You can view the list of all application category groups in the Enterprise Architecture Workspace.
+        - [[eaw-view-all-application-families|View all application families]] -- You can view the list of all application families in the Enterprise Architecture Workspace.
+        - [[eaw-manage-indicators|Working with indicators]] -- Manage capability and application indicators, and regenerate capability and application indicator scores on-demand in Enterprise Architecture Workspace.
+          - [[eaw-view-all-capability-indicators|View all capability indicators]] -- You can view the list of all capability indicators in the Enterprise Architecture Workspace
+          - [[eaw-view-all-application-indicators|View all application indicators]] -- You can view the list of all application indicators in the Enterprise Architecture Workspace.
+          - [[eaw-regenerate-indicator-score|Regenerate application indicator scores on-demand in Enterprise Architecture Workspace]] -- You can update application indicator scores on-demand, to assess the application across various dimensions such as cost, quality, technical risk, business value, to gather real-time insights into the performance of applications and take immediate action, if necessary.
+          - [[eaw-regenerate-capability-indicator-scores-in-eaw|Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace]] -- You can update capability indicator scores on-demand, to gather real-time insights into the performance of business capabilities and take immediate action, if necessary.
+        - [[eaw-view-all-scoring-profiles|View all scoring profiles]] -- You can view the list of all scoring profiles in the Enterprise Architecture Workspace.
+        - [[eaw-view-info-data-domains|View information data domains]] -- View the list of all data domains configured in the Enterprise Architecture Workspace.
+        - [[eaw-view-demand-actions|View all demand-actions]] -- View all preconfigured demand actions in the Enterprise Architecture Workspace that help you enhance the capability of the applications.
+        - [[eaw-view-all-cert-schedules|View all certification policies]] -- View the list of all certification policies and manage them in the Enterprise Architecture Workspace.
+        - [[document-templates-for-ea|Working with the document templates]] -- Document Templates define how architectural documents are generated from diagrams and architectural artifacts in Enterprise Architecture Workspace.
+          - [[view-document-templates|View all document templates]] -- View the list of templates available to create documents in the Enterprise Architecture Workspace.
+          - [[create-manage-doc-templates|Create a document template]] -- Create a document template to define how architectural documents are generated from diagrams and architectural artifacts in Enterprise Architecture Workspace.
+          - [[export-document-templates|Export document templates]] -- Download document templates in the required file format.
+    - [[eaw-integrate-eaw-with-other-apps|Integrating Enterprise Architecture Workspace with other applications]] -- Understand the process required to set up Enterprise Architecture Workspace to work with key applications in the ServiceNow platform to provide a deep insight into the applications.
+      - [[eaw-integrate-with-lucid|Enterprise Architecture Workspace integration with Lucidchart]] -- Create enhanced architectural diagrams for your Business Applications and Business Capabilities in Lucidchart and access them from your ServiceNow instance.
+    - [[eaw-reference|Enterprise Architecture Workspace reference]] -- Reference topics that provide additional details about Enterprise Architecture Workspace such as the field descriptions, user roles, tables, guidelines, and domain separation information.
+      - [[installed-with-eaw|Components installed with Enterprise Architecture Workspace]] -- Several types of components are installed with activation of the Enterprise Architecture Workspace plugin, including tables, user roles, and scheduled jobs.
+      - [[eaw-create-diagram-bc|Create diagram for a business capability form]] -- An Enterprise architect can create a diagram using Lucidchart for a business capability maps and associate it with an architectural artifact.
+      - [[eaw-create-trm-prod-req-form|Create TRM product request form]] -- Create a new request to include a new software product to the TRM library. An email notification is sent to the approver for approval. The approver belongs to the Enterprise Architect group.
+      - [[eaw-trm-product-request-form|Request TRM product form]] -- The Request TRM product form is used for adding or editing a request to include a new software or hardware product to the Technology Reference Model (TRM) library.
+      - [[eaw-new-trm-prod-form|Create TRM product form]] -- As an Enterprise Architect, you can add a new software product to the TRM library. It creates the record directly without sending a request for approval.
+      - [[eaw-create-trm-prod-lifecycle-form|Create TRM product lifecycle form]] -- Add a new lifecycle for a TRM product. It creates the record directly without sending a request for approval.
+      - [[eaw-create-trm-prod-lifecycle-req-form|Request TRM product lifecycle form]] -- Add a new request to create a lifecycle for a TRM product. An email notification is sent to the approver for approval. The approver belongs to the Enterprise Architect group.
+      - [[eaw-trm-technical-debt-form|TRM technical debt form]] -- The Technology Reference Model (TRM) technical debts that are created for the products that aren’t aligned with the TRM phases and standards.
+      - [[eaw-trm-phase-form|TRM Phase form]] -- Define your own TRM phase or edit an existing TRM phase.
+      - [[eaw-technology-portfolio-audit-form|Technology portfolio audit form]] -- You can use the Technology portfolio audit table to view audit information for your applications.
+      - [[eaw-create-new-profile-indicator-form|Create profile indicator form]] -- You can use indicators within many scoring profiles, which generate indicator scores unique to that scoring profile.
+      - [[eaw-create-a-sub-capability|Create a sub-capability form]] -- Create a sub-capability and add it to the capability hierarchy map.
+      - [[eaw-information-object-form|Create information object form]] -- An information object captures the logical data for the business application.
+      - [[eaw-cap-form|Create business capability form]] -- Business Capability is a common table used within the Enterprise Architecture application.
+      - [[eaw-digital-integ-form|Digital integration form (easy form) in EA Workspace]] -- The digital integration represents the integration between two business applications.
+      - [[eaw-update-digital-integration-form|Digital integration form in EA Workspace]] -- Use the digital integration form to update the digital integration between two business applications and between a business application and an external company.
+      - [[eaw-demand-form|Create demand form]] -- Use a demand as a step to identify cost-saving opportunities on the business applications and meet your targets.
+      - [[eaw-apprat-business-application-form|Business application form]] -- Using the business application form, you can add any business application to assess and track its costs, usage, business value, functional fitment, and risks.
+      - [[eaw-new-arct-artfct-form|Architectural artifact form]] -- Architectural artifacts describe a system, solution, or state of an enterprise. The architectural artifacts in Enterprise Architecture enable enterprise architects to create and manage the artifacts used in their organization.
+      - [[eaw-share-architectural-artifacts-form|Share architectural artifacts form]] -- Share architectural artifacts with users and group and assign them relevant access permissions.
+      - [[eaw-application-model-lifecycle-details-form|Application model life-cycle details form]] -- The application model life cycle helps you to better manage the life cycle of a business application.
+      - [[eaw-business-application-form|Business application form]] -- Enterprise Architecture helps system admins add any business application to assess and track its costs, usage, business value, functional fitment, and risks.
+      - [[eaw-create-new-product-capability-form|Create product capability form]] -- Use a product capability to specify the feature that a business application or Technology Reference Model product provides to support business objectives.
+      - [[eaw-edit-demand-form|Demand form]] -- Use a demand as a step to identify cost-saving opportunities on the business applications and meet your targets.
+      - [[eaw-demand-action-form|Demand Actions Form]] -- Demand actions are strategic decisions that you want to execute for an application. Enterprise Architecture (formerly Application Portfolio Management) provides preconfigured actions that help you enhance the capability of the applications.
+      - [[eaw-create-new-demand-form|Create demand form]] -- Create a demand for your application or capability.
+      - [[eaw-edit-project-form|Edit a project form]] -- Use application rationalization to edit details of an existing project associated with a business application.
+      - [[eaw-digital-interface-form|Digital interface form]] -- Digital interfaces are provided as part of a business application, but they can also stand on their own. Interfaces provide a way for other business applications to interact with the applications.
+      - [[eaw-dig-interface-api-form|Digital interface to API form]] -- The relationship between a digital interface and an application service API helps analysts to view which digital interface is using which API.
+      - [[eaw-business-process-form|Create business process form]] -- A business process is a collection of related structured tasks performed to accomplish a specific application service. Create a business process to group applications that help accomplish a specific application service.
+      - [[eaw-app-service-form|Application service form]] -- An application service is a configuration item (CI) that represents the operational view of a deployed application or your technology landscape. It logically models all technical components such as servers, databases, middleware, and configurations, that work together to deliver a specific business capability. Application services are linked to business applications in the CMDB.
+      - [[new-tco-form|Total cost of ownership form]] -- Application TCO helps enterprise architects to evaluate the cost of business applications and prioritize application portfolio.
+      - [[eaw-create-a-new-business-unit-form|Create a business unit form]] -- Create a business unit to define your organizational functions.
+      - [[eaw-create-new-department-form|Create department form]] -- Create a business unit to define your organizational functions.
+      - [[eaw-create-new-user-form|Create user form]] -- Create a user to add to a department.
+      - [[eaw-create-new-goal-form|Create goal form]] -- Use the Goal form to create goals for your organizational strategic priorities.
+      - [[eaw-create-new-target-form|Create target form]] -- Use the Create target form to create a quantitative or qualitative target for your goal.
+      - [[eaw-create-new-versions-form|Create architectural artifact version form]] -- Create new versions of architectural artifacts.
+      - [[eaw-create-new-value-stream-to-process-form|Create value stream to process form]] -- Add a value stream to a process to create an efficient workflow.
+      - [[eaw-create-new-application-model-from|Create application model form]] -- Add an application model to a value stream for better management of your application portfolios.
+      - [[eaw-create-new-value-stream-stage-form|Create value stream stage form]] -- Add a value stream stage to identify and map each activity associated with that stage of the overall value stream.
+      - [[eaw-create-new-application-category-form|Create application category form]] -- Create an application category to categorize applications and rationalize decisions on their usage.
+      - [[eaw-crate-new-application-category-group-form|Create application category group form]] -- Create an application category group or edit an existing one to align it with your business requirements.
+      - [[eaw-create-new-application-family-form|Create application family form]] -- Create an application family to align it with your business requirements.
+      - [[eaw-create-new-indicator-form|Create indicator form]] -- Create an application or capability indicator to assess applications or capabilities within the indicator framework.
+      - [[create-new-scoring-profile-form|Create scoring profile form]] -- Create an application score profile and update the default application profile with new profile indicators per your requirements.
+      - [[eaw-certification-schedule-form|Certification schedule form in Enterprise Architecture Workspace]] -- A system administrator with Enterprise Architecture (formerly APM) admin role can create and assign data certification tasks to the system owners for certifying business application data.
+      - [[eaw-shape-library-form|Shape library form]] -- You can add new shapes to the shapes library as per your requirement. Use these shapes to create the diagrams in Enterprise Modeling and Visualization.
+      - [[eaw-modeling-config-form|Modeling configuration form]] -- The modeling configuration form helps you to configure UI options for Enterprise Modeling and Visualization.
+      - [[eaw-entity-config-form|Entity configuration form]] -- The entity configuration form helps you to configure entities that can be used in the Enterprise Modeling and Visualization.
+      - [[eaw-relationship-form|Relationship configuration form]] -- The entity configuration form helps you to configure entities that can be used in the Enterprise Modeling and Visualization.
+      - [[eaw-add-relationship-form|Add relationship form]] -- Relate a business application to an information object using the CI relationship [cmdb_rel_ci] table of type Uses::Used by. Use this suggested relationship to get the logical data of the information object to leverage a business application.
+      - [[eaw-dig-interface-sdlc-comp-form|Digital interface SDLC component form]] -- The SDLC components represent the artifacts or configurations that are used to implement an Interface.
+      - [[eaw-dig-interface-info-object-form|Digital interface information object form]] -- A digital interface is related to a business application, and the business application will have related information objects. You can use this relationship to get the logical data of the information object.
+      - [[eaw-dig-interface-credential-form|Digital interface credentials form]] -- short description.
+      - [[eaw-edit-version-detail-form|Edit version detail form]] -- Add version labels, descriptions, and rollout dates to an Enterprise Modeling and Visualization diagram to improve traceability and ensure that all stakeholders are aligned on the diagram’s context and timelines.
+      - [[eaw-modeling-create-bc-map-form|Create a business capability map form]] -- Creating artifacts for the business capability hierarchy map helps you to update the capability hierarchy directly in the map using Enterprise Modeling and Visualization.
+      - [[eaw-modeling-create-ba-map-form|Create a business hierarchy map form]] -- Creating artifacts for the business capability hierarchy map helps you to update the capability hierarchy directly in the map using Enterprise Modeling and Visualization.
+      - [[eaw-new-arch-artifact-form|Create architectural artifact form]] -- Architectural artifacts describe a system, solution, or state of an enterprise. The architectural artifacts in the Enterprise Architecture Workspace enable Enterprise Architects to create and manage the artifacts used in their organization.
+      - [[eaw-artifact-releated-entity-form|Create related entities form]] -- Enterprise Architecture Workspace enables the Enterprise Architects to associate an architectural artifact to existing elements in the ServiceNow AI Platform, such as business capabilities, business applications, digital integrations, digital interfaces, and TRM products. These associations creates a relationship between the artifact and related entities.
+      - [[eaw-diagram-action-form|Create diagram action form]] -- The diagram action form helps you to create action for a custom shape that can be used in the Enterprise Modeling and Visualization.
+      - [[eaw-modeling-image-form|Image form]] -- The image form helps you to create an image file in the database for a custom shape that can be used in the Enterprise Modeling and Visualization.
+      - [[eaw-certification-policy-form|Certification policy form in Enterprise Architecture Workspace]] -- A system administrator with Enterprise Architecture (formerly APM) admin role can create and assign data certification tasks to the system owners for certifying business application data.
+      - [[eaw-modeling-shape-library-element-form|Shape library element form]] -- Associate a shape element and its diagram action to a shape library so that the shape is available in the Enterprise Modeling and Visualization.
+      - [[eaw-modeling-bp-map-form|Create a business process map form]] -- Create a business process map and associate an artifact for the map using Enterprise Modeling and Visualization.
+      - [[eaw-create-new-value-stream-form|Create value stream form]] -- Create a new value stream to visualize the flow of a process from start to finish.
+      - [[eaw-create-diagram-ba-form|Create diagram form for a business application]] -- An Enterprise architect can create a diagram using Lucidchart for a business application hierarchy and associate it with an architectural artifact.
+      - [[eaw-data-cert-gen-info-form|General information form]] -- Learn about the fields of the General information form. Use this form to provide details for the new policy.
+      - [[eaw-data-cert-options-form|Options form]] -- The options that appear depends on whether they are relevant to the selected policy type. Therefore, some of the following options don't appear on your form.
+      - [[eaw-data-cert-schedule-form|Schedule form]] -- Learn about the fields of the Schedule form. Use this form to define the timing and frequency for executing the certification task.
+      - [[eaw-data-filter-form|Data filter form]] -- Learn about the fields of the Data filter form. Use this form to define which records need certification.
+      - [[create-pub-config-form|Create publishing configuration form]] -- Specify the configuration that is used for publishing a Technology Reference Model (TRM) catalog to the knowledge base.
+      - [[create-portal-kb|Create a portal knowledge base form]] -- Create a new portal knowledge base to associate a portal with a knowledge base so that users can access the published TRM catalog from the selected portal.
+      - [[document-template-form|Document template form]] -- Use the document template form to create document template that can be used in the Enterprise Architecture Workspace.
+      - [[eaw-data-domain-form|Data Domain form]] -- Define and manage a data domain to organize related information objects within a hierarchical structure. Data domains help categorize data discovered in database catalogs by ServiceNow Discovery. A data catalog lists all the catalog objects, or databases, discovered for an instance of a database.
+      - [[eaw-filter-conditions-reference|Filter conditions]] -- Filter and sort options define which records appear in a custom list and the order in which they are displayed.
+      - [[architectural-category-form|Architectural category form]] -- Architectural category enables Enterprise architects to categorize and manage artifacts efficiently.
+      - [[data-domain-form|Data Domain form]] -- Define and manage a data domain to organize related information objects within a hierarchical structure. Data domains help categorize data discovered in database catalogs by ServiceNow Discovery. A data catalog lists all the catalog objects, or databases, discovered for an instance of a database.
+      - [[trm-category-form|TRM Category form]] -- Add a new request or edit an existing request to create a TRM category.
+  - [[now-assist-ea|Now Assist for Enterprise Architecture (EA)]] -- Use the ServiceNow Now Assist for Enterprise Architecture (EA) application to summarize Architectural Decision Records (ADR) in the Enterprise Architecture Workspace Use the Architectural Decision Records (ADR) to explain your infrastructure. ADR is a type of artifact that helps you to understand the background of a specific architectural decision.
+    - [[exploring-now-assist-for-ea|Explore]] -- With the Now Assist for Enterprise Architecture (EA) application, you can generate a summary of Architectural Decision Records (ADR) or gather insights into business applications in the Enterprise Architecture Workspace.
+      - [[ea-qna-overview|Enterprise Architecture query agent]] -- The Enterprise Architecture query agent answers natural language questions about your enterprise architecture portfolio, returning AI-generated answers grounded into their Enterprise Architecture data.
+      - [[eaw-bpm-diagram-from-image|Business process map diagrams from images]] -- Use the ServiceNow AI lens skill to generate a business process map (BPM) diagram automatically by uploading an image of an existing process diagram from any tool.
+      - [[supporting-info-now-assist-ea|Supporting information for Now Assist for Enterprise Architecture (EA)]] -- Get a quick overview of the important information that is related to the Now Assist for Enterprise Architecture (EA) application.
+    - [[configure-now-assist-ea|Configure]] -- If you have the admin role, you can configure the Now Assist for Enterprise Architecture (EA) to enable generative AI skills in Enterprise Architecture Workspace (EA).
+      - [[sn-otto-access-roles|Now Assist access roles]] -- The following roles help you to configure and use each Now Assist for Enterprise Architecture (EA) skill.
+      - [[configure-ai-data-explr-qry-genr-skills|Configure AI Data Explorer and Query Generation skills]] -- You can configure the AI Data Explorer and Query Generation skills to provide AI-assisted data exploration features and generate insights in Enterprise Architecture Workspace.
+      - [[set-kg-system-properties-ea-qna|Enable Knowledge Graph system properties for the Enterprise Architecture query agent]] -- Enable the Knowledge Graph system properties to allow the Enterprise Architecture query agent to generate accurate answers based on your Configuration Management Database (CMDB) data.
+    - [[using-now-assist-for-ea|Use Now Assist]] -- With the Now Assist for Enterprise Architecture (EA) application, you can summarize Architectural decision records (ADR) and help gather insights into business applications in the Enterprise Architecture Workspace.
+      - [[ea-qna-use|Use Enterprise Architecture query agent]] -- You can ask the Enterprise Architecture query agent natural language questions about your enterprise architecture portfolio using the Now Assist panel in Enterprise Architecture Workspace.
+      - [[eaw-create-bpm-diag-from-image|Create business process map diagram from image using Now Assist]] -- Upload an image of an existing process diagram to generate a new, editable business process map diagram in EA Workspace using the ServiceNow AI Lens Now Assist skill.
+      - [[eaw-review-ai-generated-bpm-diag|Review Now Assist-generated business process map diagram]] -- After ServiceNow AI lens generates a business process map (BPM) diagram from an uploaded image, review the diagram and resolve any low-confidence shapes, and accept or discard it.
+      - [[summarize-docs-genai-skill-ea|Generate a summary for Architectural Decision Records (ADRs)]] -- Quickly learn the details of the Architectural Decision Records (ADR) from the summary that is generated by Now Assist in the Enterprise Architecture Workspace. Minimize the time that you spend in reading large Architectural Decision Records (ADR) artifacts that helps you to understand the background of a specific architectural decision by using a summary that is generated by Now Assist.
+      - [[elaborate-shorten-content-ew|Elaborate or shorten content in the Architectural Decision Records (ADRs)]] -- Elaborate or shorten the Architectural Decision Records (ADR) content using the Now Assist in the Enterprise Architecture Workspace.
+      - [[generate-insights-into-ba|Generate insights into business applications]] -- Learn the details of business applications and gather concise and actionable insights on business applications from the summary that is generated by Now Assist for Enterprise Architecture (EA). The business application insights are context-aware, that is the summary automatically includes relevant information from the specific page where you generate the insights.
+      - [[compare-modeling-diagrams|Compare Enterprise Modeling and Visualization diagrams]] -- Compare different versions of Enterprise Modeling and Visualization diagrams and learn the details of the differences from the summary that is generated by Now Assist in the Enterprise Architecture Workspace.
+      - [[elaborate-or-shorten-content-form-fields|Elaborate or shorten content in form fields]] -- Elaborate or shorten text in the description or reasoning fields in forms using Now Assist in the Enterprise Architecture Workspace. You can also use prompts to generate content for the Reasoning field found in Planned Disposition section of a business application form.
+      - [[generate-insights-ea-dashboard|Generate insights for Enterprise Architecture Workspace dashboard widgets]] -- You can use the conversational interface provided by AI Data Explorer Now Assist skill to query and analyze data from Enterprise Architecture Workspace dashboards. Instead of manually reviewing dashboard visualizations, you can use the AI Data Explorer to ask natural language questions to retrieve insights and identify trends.
+      - [[register-business-application-using-conversational-experience|Register a business application by using the conversational experience]] -- Use the conversational experience of Now Assist in Virtual Agent to register a business application from any application that supports Virtual Agent.
+      - [[register-digital-integration-using-conv-exp|Register a digital integration by using the conversational experience]] -- Use the conversational experience of Now Assist in Virtual Agent to register a digital integration from any application that supports Virtual Agent.
+    - [[using-na-ea-ai-agents|Using AI agent agentic workflow in Now Assist for Enterprise Architecture (EA)]] -- Use the AI agents in Enterprise Architecture to help complete tasks autonomously.
+      - [[now-assist-aiagents-ea-diagramming-usecase|Generate enterprise architecture diagram agentic workflow]] -- Use the Enterprise architecture diagrams AI agent to generate Enterprise Modeling and Visualization diagrams for business applications hierarchy and summarize them.
+    - [[now-assist-ea-reference|Now Assist for Enterprise Architecture reference]] -- Reference information to provide additional information about tables, roles, and properties installed with Now Assist for Enterprise Architecture (EA).
+
+## Related
+
+- [[application-portfolio-management-landing-page|Enterprise Architecture]]
+- [[ea-workspace|Enterprise Architecture Workspace]]
+- [[explore-eaw|Exploring Enterprise Architecture Workspace]]
+- [[eaw-overview|Enterprise Architecture Workspace Overview]]
+- [[eaw-business-stakeholder-role|Business stakeholder role for Enterprise Architecture Workspace]]
+- [[eaw-insights|Viewing insights of your portfolio]]
+- [[manage-requests-certs-assessments|Managing requests, certifications, and assessments]]
+- [[eaw-exploring-dashboards-in-ea-workspace|Exploring dashboards in Enterprise Architecture Workspace]]
+- [[eaw-workspace-dashboard|Explore the Enterprise Architecture Workspace dashboard]]
+- [[eaw-working-with-the-applications-assessment-dashboard|Explore the Application Assessments dashboard]]
+- [[eaw-working-with-application-360-dashboard-in-enterprise-architecture-workspace|Explore the Application 360 dashboard in Enterprise Architecture Workspace]]
+- [[eaw-explore-data-cert|Exploring data certification in the Enterprise Architecture Workspace]]
+- [[monitor-portfolio-overview-health|Portfolio overview and health]]
+- [[eaw-setup|Exploring the Setup page in the Enterprise Architecture Workspace]]
+- [[eaw-configure-application-categories|Manage application categories]]
+- [[eaw-configure-application-category-groups|Manage application category groups]]
+- [[eaw-configure-application-families|Manage application families]]
+- [[eaw-configure-indicators|Manage indicators]]
+- [[eaw-configure-scoring-profiles|Manage scoring profiles]]
+- [[eaw-configure-trm-phases|Manage TRM phases]]
+- [[eaw-configure-trm-categories|Manage TRM categories]]
+- [[eaw-config-info-data-domains|Manage information data domains]]
+- [[eaw-config-arch-art-categories|Manage architectural artifact categories]]
+- [[eaw-config-demand-actions|Manage demand actions]]
+- [[eaw-config-modeling|Manage Enterprise Modeling and Visualization]]
+- [[eaw-config-cert-schedules|Manage certification policies]]
+- [[manage-business-portfolio|Exploring a business portfolio]]
+- [[eaw-gantt-view-of-tpm-and-trm-lifecycle-timelines|Gantt view of TPM and TRM lifecycle timelines]]
+- [[eaw-tpm-lifecycle-timelines-on-gantt-chart|TPM lifecycle timelines on Gantt chart]]
+- [[eaw-trm-lifecycle-timelines-on-gantt-chart|TRM lifecycle timelines on Gantt chart]]
+- [[eaw-rationalize-business-applications|Rationalization of business applications]]
+- [[eaw-bubble-chart-view|Bubble chart view of application rationalization]]
+- [[eaw-list-view|List view of application rationalization]]
+- [[eaw-application-indicator-score-calculation|Application indicator score calculation in Enterprise Architecture Workspace]]
+- [[trm-tech-debt-indicator-for-app-rat|Tech debt indicator score for application rationalization]]
+- [[eaw-trm-technology-lifecycle-risk-score|Technology lifecycle risk score in Enterprise Architecture Workspace]]
+- [[portfolio-list-view|Exploring Portfolio list view]]
+- [[eaw-business-architecture|Exploring the business architecture]]
+- [[eaw-business-units|Exploring business units]]
+- [[eaw-departments|Exploring departments]]
+- [[eaw-goals|Exploring goals]]
+- [[eaw-value-streams|Exploring value streams]]
+- [[eaw-value-stream-stage|Exploring value stream stages]]
+- [[eaw-business-capabilities|Exploring business capabilities]]
+- [[eaw-business-processes|Exploring business processes]]
+- [[eaw-demands|Exploring demands]]
+- [[eaw-app-portfolio|Exploring the application portfolio]]
+- [[eaw-manage-business-applications|Exploring business applications]]
+- [[eaw-aict|AI Control Tower integration with Enterprise Architecture]]
+- [[eaw-manage-application-services|Exploring application services]]
+- [[eaw-digital-interface|Exploring digital interfaces in Enterprise Architecture Workspace]]
+- [[eaw-digital-integration|Exploring digital integrations in Enterprise Architecture Workspace]]
+- [[eaw-dig-intg-data-model|Digital integration management data model]]
+- [[eaw-information-portfolio|Exploring the information portfolio]]
+- [[eaw-data-domains|Exploring data domains]]
+- [[eaw-information-objects|Exploring information objects]]
+- [[eaw-managing-architectural-artifacts|Exploring architectural artifacts]]
+- [[eaw-managing-arch-decision-records|Exploring architectural decision records \(ADR\)]]
+- [[eaw-exploring-the-ai-portfolio|Exploring the AI Portfolio]]
+- [[eaw-dashboard-exploring-ai-portfolio-tab|Exploring the AI Portfolio tab on the Enterprise Architecture Workspace dashboard]]
+- [[eaw-my-entities|Manage your entities]]
+- [[eaw-manage-application-tco|Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace]]
+- [[eaw-app-tco|Manage application total cost of ownership \(TCO\) in Enterprise Architecture Workspace]]
+- [[eaw-technology-portfolio-view|Exploring Technology Portfolio view]]
+- [[eaw-managing-the-technology-portfolio|Manage the Technology Reference Model in Enterprise Architecture Workspace]]
+- [[eaw-manage-trm-technical-debt|Manage TRM technical debt]]
+- [[eaw-trm-technical-debt-calc|TRM Technical Debt calculation in Enterprise Architecture Workspace]]
+- [[eaw-trm-wildcard-to-create-technical-debts|Work with TRM lifecycle with wildcard]]
+- [[eaw-tpm|Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace]]
+- [[eaw-view-technology-portfolio-audit-risk|Working with technology portfolio audit details]]
+- [[eaw-modeling|Exploring Enterprise Modeling and Visualization in the EA Workspace]]
+- [[eaw-modeling-shapes|Shapes to create a modeling diagram]]
+- [[eaw-modeling-general-shapes|General shapes]]
+- [[eaw-modeling-aws-shapes|Amazon Web Services \(AWS\) shapes]]
+- [[eaw-modeling-csdm-shapes|Common Service Data Model \(CSDM\) shapes]]
+- [[eaw-modeling-ea-shapes|Enterprise Architecture shapes]]
+- [[ea-extended-shapes|Enterprise Architecture \(EA\) extended shapes]]
+- [[eaw-modeling-archimate-shapes|ArchiMate shapes]]
+- [[eaw-modeling-bpmn-shapes|Business Process Modeling Notation \(BPMN\) shapes]]
+- [[eaw-connector-properties|Shape connector properties in Enterprise Modeling and Visualization]]
+- [[eaw-modeling-archimate|ArchiMate shapes support in the Enterprise Modeling and Visualization]]
+- [[ea-modeling-aws|AWS shapes support in the Enterprise Modeling and Visualization]]
+- [[align-with-csdm5|CSDM shapes support in the Enterprise Modeling and Visualization]]
+- [[eaw-modeling-custom-shapes|Custom shapes support in the Enterprise Modeling and Visualization]]
+- [[business-process-modeling|Business process modeling]]
+- [[eaw-explore-digital-integ-management|Exploring digital integration management in Enterprise Architecture Workspace]]
+- [[eaw-exploring-product-capabilities|Exploring product capabilities]]
+- [[workspace-open-uib|Open your Configurable Workspace experience in UI Builder task conkeyrefs]]
+- [[workspace-list-workspaces|List of workspaces reference conkeyrefs]]
+- [[publishing-center-in-ea-workspace|Exploring the publishing center in Enterprise Architecture Workspace]]
+- [[eaw-explore-arch-analyzer|Exploring the architecture analyzer]]
+- [[generate-doc-from-diagram|Exploring generating documents from diagrams]]
+- [[configure-eaw|Configuring Enterprise Architecture Workspace]]
+- [[install-ea-workspace|Install Enterprise Architecture Workspace]]
+- [[eaw-access-roles|Enterprise Architecture Workspace access roles]]
+- [[eaw-installed-tables|Tables installed with Enterprise Architecture Workspace]]
+- [[eaw-gran-admin-role-changes|Granular admin role changes in Enterprise Architecture]]
+- [[eaw-plugin-activation-sequence|Application plugin installation sequence for Enterprise Architecture Workspace]]
+- [[apm-use-case-product-view|Enterprise Architecture \(EA\) and the CSDM framework]]
+- [[apm-use-case|Enterprise Architecture and CSDM tables]]
+- [[apm-use-case-example|Enterprise Architecture use case]]
+- [[apm-use-case-trouble|Enterprise Architecture considerations]]
+- [[eaw-personalize-the-enterprise-architecture-workspace-home-page|Personalize the Enterprise Architecture Workspace home page]]
+- [[customize-workspace|Show or hide sections on the home page of the EA Workspace]]
+- [[config-overview|Create and apply a configuration for the Overview section]]
+- [[config-insights-health|Create and apply a configuration for the Health or Insights section]]
+- [[eaw-config-eaw-using-setup-page|Configure EA Workspace using the Setup page]]
+- [[eaw-setup-app-cat|Configure application categories]]
+- [[eaw-create-app-category|Add or edit an application category]]
+- [[eaw-setup-app-cat-groups|Configure application category groups]]
+- [[eaw-create-app-cat-grp|Add or edit an application category group]]
+- [[eaw-setup-app-families|Configure application families]]
+- [[eaw-create-app-family|Add or edit an application family]]
+- [[eaw-setup-indicators|Configure indicators]]
+- [[eaw-create-indicator|Add or edit an application indicator]]
+- [[eaw-add-or-edit-a-capability-indicator|Add or edit a capability indicator]]
+- [[eaw-enable-or-disable-an-application-indicator|Activate or turn off an application or capability indicator]]
+- [[eaw-setup-scroring-prof|Configure scoring profiles]]
+- [[eaw-create-scoring-profile|Add or edit a scoring profile]]
+- [[eaw-attach-profile-indicators-with-application-scoring-profiles|Attach a profile indicator with an application scoring profile]]
+- [[eaw-regenerate-scoring-profile-indicator-scores-in-eaw|Regenerate scoring profile indicator scores on-demand in Enterprise Architecture Workspace]]
+- [[eaw-setup-trm-phases|Configure TRM phases]]
+- [[eaw-create-trm-phase|Add or edit a TRM phase]]
+- [[eaw-setup-trm-categories|Configure TRM categories]]
+- [[eaw-create-new-trm-category|Add or edit a TRM category]]
+- [[eaw-setup-info-data-domains|Configure information data domains]]
+- [[eaw-add-edit-info-data-domain|Add or edit an information data domain]]
+- [[eaw-setup-arch-art-categories|Configure architectural artifact categories]]
+- [[eaw-add-edit-arch-art-category|Add or edit an architectural artifact category]]
+- [[eaw-setup-demand-actions|Configure demand actions]]
+- [[eaw-add-edit-demand-action|Add or edit a demand action]]
+- [[eaw-setup-modeling|Configure Enterprise Modeling and Visualization]]
+- [[eaw-show-hide-shapes|Show or hide shapes in diagrams]]
+- [[eaw-add-edit-shape-library|Add or edit a shape library]]
+- [[eaw-modeling-add-shape-library-element|Add a shape library element]]
+- [[eaw-modeling-create-diagram-action|Create diagram action]]
+- [[eaw-edit-modeling-menu|Edit a modeling configuration]]
+- [[eaw-add-edit-entity|Add or edit an entity]]
+- [[eaw-add-update-entity-icon|Add or update shape icon for an entity]]
+- [[eaw-add-edit-relationship|Add or edit a relationship]]
+- [[eaw-setup-app-tco|Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace]]
+- [[eaw-install-app-tco|Install the Application Total Cost of Ownership \(TCO\) plugin]]
+- [[eaw-create-tco-source|Create a source for an Application TCO]]
+- [[eaw-create-tco-source-cost-type|Create a TCO source cost type]]
+- [[eaw-create-tco-cost-type|Create a cost type for Application TCO in Enterprise Architecture Workspace]]
+- [[eaw-set-property-tco-dashboards|Set the duration of a fiscal period property for TCO dashboards]]
+- [[eaw-setup-cert-policies|Configure certification policies]]
+- [[eaw-convert-cert-schedules-to-cert-policies|Import certification schedules in to Data Manager]]
+- [[eaw-publish-a-draft-policy|Publish a draft Data Manager policy]]
+- [[eaw-manage-cert-schedules|Add or edit a certification policy]]
+- [[eaw-config-tech-portfolio-mgmt|Configure Technology Portfolio Management]]
+- [[eaw-install-tpm|Activate the Technology Portfolio Management \(TPM\) plugin]]
+- [[eaw-tables-installed-with-tpm|Tables installed with TPM in the EA Workspace]]
+- [[eaw-tpm-business-rules|Business rules for TPM in EA Workspace]]
+- [[eaw-tpm-scheduled-jobs|Scheduled jobs for TPM in the EA Workspace]]
+- [[eaw-config-tech-ref-model|Configure Technology Reference Model]]
+- [[eaw-install-trm|Install the Technology Reference Model \(TRM\) Model plugin]]
+- [[eaw-managing-ea-workspace|Managing Enterprise Architecture Workspace]]
+- [[eaw-work-with-ea-workspace-homepage|Working with Enterprise Architecture workspace home page]]
+- [[eaw-view-update-trm-requests|View or update your TRM requests]]
+- [[eaw-approve-trm-req|Approve or reject TRM requests]]
+- [[eaw-apply-filters-portfolio-overview-and-health|Apply filters to the Portfolio Overview and Health section]]
+- [[eaw-work-with-dashboards|Working with Dashboards]]
+- [[eaw-view-the-performance-of-applications-using-the-applications-assessment-dashboard|View the performance of applications using the Application Assessments dashboard]]
+- [[eaw-monitor-performance-in-application-360-dashboard|Monitor performance in Application 360 dashboard]]
+- [[eaw-work-with-business-portfolio-mod|Working with the business portfolio module]]
+- [[add-a-capability|Add a business capability]]
+- [[eaw-create-a-demand-towards-achievement-of-capability|Create a demand towards achievement of a capability]]
+- [[update-hierarchy|Update the hierarchy of a business capability]]
+- [[eaw-create-sub-capability|Create a sub-capability]]
+- [[assign-a-business-application|Assign a business application]]
+- [[unassign-a-business-application-from-a-capability|Unassign a business application from a capability]]
+- [[delete-a-capability|Delete a capability from the hierarchy]]
+- [[eaw-view-roadmap-bc|View a roadmap of a business capability]]
+- [[eaw-export-business-portfolio-data|Export business portfolio data to Excel or CSV]]
+- [[eaw-work-with-app-rat|Working with application rationalization]]
+- [[eaw-using-app-rat-bubble-chart-view|Use bubble chart view]]
+- [[eaw-analyze-applications-by-capability|Analyze applications using the bubble chart]]
+- [[eaw-create-a-demand-using-the-bubble-chart|Create a demand using the bubble chart]]
+- [[eaw-set-planned-disposition-of-a-business-application|Set the planned disposition of a business application]]
+- [[eaw-add-business-application-lifecycle-data|Add business application lifecycle data using the bubble chart]]
+- [[eaw-edit-ba-details-in-bubble-chart|Edit business application details in bubble chart view]]
+- [[eaw-update-sys-prop-change-number-of-bubbles|Change the number of bubbles displayed on the bubble chart]]
+- [[eaw-bubble-chart-use-case|eaw bubble chart use case]]
+- [[eaw-using-app-rat-list-view|Use list view]]
+- [[eaw-create-a-demand-using-the-list-view|Create a demand using the list view]]
+- [[eaw-set-planned-disposition-of-a-business-application-listview|Set the planned disposition of a business application]]
+- [[eaw-add-business-application-lifecycle-data-listview|Add business application lifecycle data using the list view]]
+- [[eaw-edit-business-application-details|Edit business application details in list view]]
+- [[eaw-edit-a-demand-associated-with-a-business-application|Edit a demand associated with a business application]]
+- [[eaw-edit-a-project-associated-with-a-business-application|Edit a project associated with a business application]]
+- [[eaw-export-app-rat-list-data|Export application rationalization data to Excel or CSV]]
+- [[eaw-apply-filters-app-rat|Apply filters on the Application Rationalization page]]
+- [[eaw-work-with-tpm|Working with Technology Portfolio Management \(TPM\) in EA Workspace]]
+- [[use-tpm-encoded-query|Filter software results using an encoded query in TPM]]
+- [[update-tpm-data|Update TPM data for a business application or application service]]
+- [[eaw-restart-tpm-scheduled-job|Restart Populate TPM Discovered Technologies and Lifecycles scheduled job]]
+- [[eaw-view-tech-lifecycle|View technology lifecycle details]]
+- [[eaw-view-tech-risk|View TPM risk details]]
+- [[eaw-update-system-property-gather-software-cmdb|Update the system property to gather software products from a CMDB table]]
+- [[eaw-view-audit-risk-details|View technology portfolio audit risk details]]
+- [[eaw-update-verif-status|Update verification status of TPM audit details]]
+- [[eaw-view-tpm-logs|View TPM logs]]
+- [[eaw-run-job-to-populate-tpm-lifecycle-identifier|Run a scheduled job to populate Technology Portfolio Management lifecycle record identifier]]
+- [[eaw-run-scheduled-job-update-tpm-data|Run a scheduled job to generate TPM lifecycle data]]
+- [[eaw-schedule-job-generate-tpm-risk|Schedule a job to generate TPM technology risk]]
+- [[eaw-work-with-trm|Working with Technology Reference Model \(TRM\) in EA Workspace]]
+- [[eaw-view-all-trm-phases|View all TRM phases]]
+- [[view-all-trm-categories|View all TRM categories]]
+- [[eaw-view-all-trm-products-grouped-by-product-category|View all TRM products grouped by product category]]
+- [[eaw-view-all-trm-products|View all TRM products]]
+- [[eaw-request-a-trm-products|Request a TRM product]]
+- [[eaw-request-a-trm-product-lifecycle|Request a TRM product lifecycle]]
+- [[eaw-create-trm-prod-lifecycle|Add a TRM product in Enterprise Architecture Workspace]]
+- [[eaw-assoicate-artifact-trm-prod|Associate an Architectural Artifact to a TRM product]]
+- [[eaw-create-trm-prod-lifecycle-req|Add a TRM product lifecycle]]
+- [[eaw-view-capabilities-associated-with-trm-product|View product capabilities associated with a Technology Reference Model product]]
+- [[eaw-create-a-new-product-capability-and-assoc-trm-product|Create product capabilities and associate it with a Technology Reference Model product]]
+- [[eaw-add-existing-product-capability-to-trm-product|Add an existing product capability to a Technology Reference Model product]]
+- [[eaw-remove-product-capabilities-assoc-with-trm-product|Remove product capabilities associated with a Technology Reference Model product]]
+- [[eaw-view-ba-assoc-with-trm-product|View business applications associated with a Technology Reference Model product]]
+- [[eaw-create-ba-and-assoc-with-trm-product|Create a business application and associate it with a Technology Reference Model product]]
+- [[eaw-add-existing-ba-to-trm-product|Add an existing business application to a Technology Reference Model product]]
+- [[remove-ba-assoc-with-trm-product|Remove business applications associated with a Technology Reference Model product]]
+- [[view-trm-tech-debt|View TRM technical debts]]
+- [[eaw-run-job-trm-tech-debts|Run a scheduled job to update TRM technical debt data in EA Workspace]]
+- [[eaw-schedule-job-sync-trm-product-names|Run a job to sync TRM product names in EA Workspace]]
+- [[eaw-export-trm-prod-cat-data|Export Technology Reference Model product category data to Excel or CSV]]
+- [[eaw-work-with-gantt-chart-views|Working with Gantt chart views in EA Workspace]]
+- [[eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart|View TPM and TRM lifecycle timelines on the Gantt chart]]
+- [[eaw-work-with-ent-model-and-visual|Working with Enterprise Modeling and Visualization]]
+- [[eaw-view-shape-libraries|View all shape libraries]]
+- [[eaw-view-modeling-config|View configuration for Enterprise Architecture Workspace]]
+- [[eaw-view-entity-config|View all entities]]
+- [[eaw-view-relationships|View relationships configurations]]
+- [[eaw-show-shape-ports|Show shape controls without hovering]]
+- [[eaw-modeling-create-diagram|Create a blank diagram using modeling in the EA Workspace]]
+- [[eaw-set-connector-properties|Set shape connector properties in Enterprise Modeling and Visualization]]
+- [[eaw-modeling-add-labels-to-connector-lines|Add labels to connector lines between shapes in a diagram]]
+- [[eaw-work-with-bc-map|Working with business capability map]]
+- [[eaw-modeling-bc-map|Create a diagram for a business capability map]]
+- [[eaw-modeling-update-bc-map|Update a business capability map]]
+- [[eaw-modeling-bcmap-add-bc-ba|Add a business capability or business application to the capability map]]
+- [[eaw-work-with-ba-map|Working with business hierarchy map]]
+- [[eaw-modeling-ba-map|Create diagram for a business hierarchy map]]
+- [[eaw-modeling-update-ba-map|Update a business application hierarchy map]]
+- [[eaw-work-with-bp-map|Working with business process map]]
+- [[eaw-modeling-bp-map|Create a diagram for a business process map]]
+- [[eaw-modeling-update-bp-map|Update a business process map]]
+- [[eaw-modeling-modify-bpmn|Modify BPMN diagram details]]
+- [[eaw-work-with-archimate-shapes|Working with ArchiMate Shapes]]
+- [[eaw-modeling-create-diagram-archimate|Create diagram using ArchiMate shapes and add relationships]]
+- [[eaw-work-with-aws-shapes|Working with Amazon Web Services \(AWS\) shapes]]
+- [[eaw-modeling-create-diagram-aws|Create a diagram using AWS shapes]]
+- [[eaw-work-with-csdm-shapes|Working with CSDM shapes]]
+- [[eaw-modeling-create-diagram-csdm|Create a diagram using CSDM shapes]]
+- [[eaw-working-custom-shapes|Working with custom shapes]]
+- [[eaw-modeling-store-image-databse|Storing shapes or images to the database]]
+- [[eaw-modeling-action-custom-shape|Create a diagram action for a custom shape]]
+- [[eaw-modeling-add-custom-shape-library|Add a custom shape library]]
+- [[eaw-modeling-custom-shape-element|Add a shape library element for a custom shape]]
+- [[eaw-modeling-custom-shape-example|Custom shapes example]]
+- [[eaw-modeling-group-ungroup-shape|Convert a shape to a group shape]]
+- [[eaw-modeling-expand-collapse-shape|Expand or collapse a group shape]]
+- [[eaw-modeling-download-diagram|Download a modeling diagram as an image]]
+- [[eaw-modeling-reorder-shapes-cat|Reorder shapes categories]]
+- [[eaw-align-distribute-shapes|Align and distribute shapes in a modeling diagram]]
+- [[eaw-modeling-replace-shape|Replace a shape in a diagram]]
+- [[eaw-modeling-show-hide-shapes-panel|Show or hide shapes panel]]
+- [[eaw-modeling-shapes-grid-list-view|Switch to list or grid view of shapes panel]]
+- [[eaw-filter-shapes|Search shapes in a diagram]]
+- [[eaw-modeling-add-related-records|Add related records in the modeling diagram]]
+- [[eaw-modeling-share-diagram|Share a modeling diagram]]
+- [[eaw-modeling-sync-diagram-servicenow|Commit diagram changes]]
+- [[eaw-modeling-save-as-new|Save as a version]]
+- [[eaw-add-or-edit-diagram-version-details|Add or edit diagram version details]]
+- [[eaw-modeling-duplicate|Duplicate a modeling diagram]]
+- [[eaw-modeling-submit-for-approval|Submit a modeling diagram for approval]]
+- [[eaw-modeling-sync-shape|Synchronize a shape to the database]]
+- [[eaw-approve-diagram-req|Approve or reject a modeling diagram request]]
+- [[eaw-modeling-delete-shape|Delete a shape]]
+- [[eaw-modeling-delete-diagram|Delete Enterprise Modeling and Visualization diagrams]]
+- [[create-documents-for-diagrams|Generate a document from a diagram]]
+- [[view-docs-for-diagram|View documents for a diagram]]
+- [[eaw-work-with-data-cert|Working with data certification]]
+- [[eaw-create-policy|Create a certification policy]]
+- [[eaw-data-cert-edit-policy|Edit a certification policy]]
+- [[eaw-data-cert-view-policy|View certification policy]]
+- [[eaw-data-cert-publish-policy|Publish a certification policy]]
+- [[eaw-data-cert-run-certification|Run certification for a policy]]
+- [[eaw-data-cert-notification|Data certification task notifications]]
+- [[eaw-data-cert-track-progress|Track progress of a certification policy]]
+- [[eaw-approve-data-cert-tasks|Review and certify data certification tasks]]
+- [[eaw-data-cert-activate|Activate a certification policy]]
+- [[eaw-data-cert-deactivate|Deactivate a certification policy]]
+- [[eaw-delete-data-cert|Delete a certification policy]]
+- [[eaw-work-with-architecture-analyzer|Working with architecture analyzer]]
+- [[eaw-create-exploration-in-arch-analyzer|Create an exploration in the architecture analyzer]]
+- [[eaw-work-with-portfolio-list-view|Working with Portfolio list view]]
+- [[create-my-list|Create my list]]
+- [[eaw-using-business-architecture|Using business architecture]]
+- [[eaw-manage-business-units|Manage business units]]
+- [[eaw-view-all-business-units|View all business units]]
+- [[eaw-add-or-edit-a-business-unit|Add or edit a business unit]]
+- [[eaw-manage-departments|Manage departments]]
+- [[eaw-view-all-departments|View all departments]]
+- [[eaw-add-or-edit-a-department|Add or edit a department]]
+- [[eaw-add-a-new-user-to-a-deparment|Add a user to a department]]
+- [[eaw-manage-goals|Manage goals]]
+- [[eaw-view-all-goals|View all goals]]
+- [[eaw-add-or-edit-a-goal|Add or edit a goal]]
+- [[eaw-add-a-quantitative-target-to-a-goal|Add a quantitative target to a goal]]
+- [[eaw-add-a-qualitative-target-to-a-goal|Add a qualitative target to a goal]]
+- [[eaw-create-a-sub-goal|Create a sub-goal]]
+- [[eaw-manage-value-streams|Manage value streams]]
+- [[eaw-view-all-value-streams|View value streams details]]
+- [[eaw-add-or-edit-a-value-stream|Add or edit a value stream]]
+- [[eaw-add-vs-stages-to-a-vs|Add value stream stages to a value stream]]
+- [[eaw-add-an-application-model-to-a-value-stream|Associate an application model to a value stream]]
+- [[eaw-manage-value-stream-stages|Manage value stream stages]]
+- [[eaw-view-all-value-stream-stages|View value stream stage details]]
+- [[eaw-add-or-edit-a-value-stream-stage|Add or edit a value stream stage]]
+- [[eaw-assoc-bp-with-vs-stage|Add or remove a business process from a value stream stage]]
+- [[add-or-remove-a-bc-from-vs-stage|Add or remove a business capability from a value stream stage]]
+- [[eaw-manage-business-capabilities|Manage business capabilities]]
+- [[eaw-view-all-capabilities-on-the-portfolio-page|View all business capabilities on the Portfolio page]]
+- [[eaw-add-capability|Add or edit a business capability from the Portfolio page]]
+- [[eaw-create-a-sub-capability-from-the-portfolio-page|Create a sub-capability from the Portfolio page]]
+- [[eaw-create-lucid-diagram-cap|Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace]]
+- [[eaw-assoicate-artifact-bc|Manage architectural artifacts of a business capability in EA Workspace]]
+- [[eaw-view-vs-stages-assoc-with-bc|View value stream stages associated with a business capability]]
+- [[eaw-manage-business-processes|eaw manage business processes]]
+- [[eaw-view-all-business-processes|View all business processes]]
+- [[eaw-create-business-process|Add or edit a business process]]
+- [[eaw-assoicate-artifact-bp|Manage architectural artifacts of a business process]]
+- [[eaw-view-vs-stages-assoc-with-bp|View value stream stages associated with a business process]]
+- [[eaw-manage-demands|Manage demands]]
+- [[eaw-view-all-demands|View all demands]]
+- [[eaw-create-demand-ba|Add or edit a demand]]
+- [[eaw-work-with-application-portfolio|Working with an application portfolio]]
+- [[view-all-business-apps|View all business applications]]
+- [[eaw-create-business-app|Add or edit a business application]]
+- [[eaw-view-business-capabilities-assoc-with-ba|View business capabilities associated with a business application]]
+- [[eaw-add-existing-business-capability-to-ba|Add an existing business capability to a business application]]
+- [[eaw-unassign-business-capabilities-from-ba|Remove business capabilities associated with a business application]]
+- [[eaw-create-diagram-ba|Create a diagram for a business application in the EA Workspace]]
+- [[eaw-create-lucid-diagram-ba|Create a Lucidchart diagram for a business application in the EA Workspace]]
+- [[view-ba-form-in-coreui|Open business application form in Core UI from EA Workspace]]
+- [[eaw-add-ai-system-to-ba|Add an existing AI system to a business application]]
+- [[eaw-view-ai-system-in-aict-from-ba|View AI system details from a business application]]
+- [[eaw-unassign-ai-system-from-ba|Remove an AI system from a business application]]
+- [[eaw-open-map-ba|View a unified map for a business application]]
+- [[eaw-view-unified-map-in-modeling-tool|View the unified map for a business application in Enterprise Modeling and Visualization]]
+- [[eaw-view-roadmap-ba|View roadmap of a business application]]
+- [[eaw-view-product-capabilities-associated-with-ba|View product capabilities associated with a business application]]
+- [[eaw-create-new-product-capability-and-assoc-with-ba|Create a product capability and associate it with a business application]]
+- [[add-existing-product-capability-to-ba|Add an existing product capability to a business application]]
+- [[eaw-remove-product-capabilities-associated-with-ba|Remove product capabilities associated with a business application]]
+- [[eaw-associate-info-obj-ba|Manage information objects of a business application in EA Workspace]]
+- [[eaw-view-archi-artfct-assoc-with-ba|View architectural artifacts associated with a business application]]
+- [[eaw-assoicate-artifact-ba|Create an architectural artifact and associate it with a business application]]
+- [[eaw-add--existing-archi-artfct-to-a-ba|Add an existing architectural artifact to a business application]]
+- [[eaw-unassign-archi-artfct-assoc-ba|Remove architectural artifacts associated with a business application]]
+- [[eaw-view-trm-products-assoc-with-ba|View Technology Reference Model products associated with business applications]]
+- [[eaw-create-trm-products-and-assoc-ba|Create Technology Reference Model products and associate it with business applications]]
+- [[eaw-add-existing-trm-products-to-ba|Add existing Technology Reference Model products to business applications]]
+- [[eaw-remove-trm-products-assoc-with-ba|Remove Technology Reference Model products associated with a business application]]
+- [[eaw-working-with-product-capabilities|Working with product capabilities]]
+- [[eaw-view-all-product-capabilities|View all product capabilities]]
+- [[eaw-add-or-edit-a-product-capability|Add or edit a product capability]]
+- [[eaw-view-all-app-services|View all application services]]
+- [[eaw-add-appl-service|Add or edit an application service in the Enterprise Architecture Workspace]]
+- [[eaw-run-job-gen-model-id-ba|Run a scheduled job to generate an application model for business applications]]
+- [[eaw-work-with-info-portfoliodita|Working with information portfolio]]
+- [[eaw-manage-data-domains|Manage data domains]]
+- [[eaw-view-all-data-domains|View all data domains]]
+- [[eaw-add-or-edit-a-data-domain-from-the-portfolio-page|Add or edit a data domain from the Portfolio page]]
+- [[eaw-manage-info-object|Manage information objects]]
+- [[eaw-view-all-information-objects|View all information objects]]
+- [[eaw-create-new-information-object|Add or edit an information object]]
+- [[eaw-manage-arch-artifacts|Manage architectural artifacts]]
+- [[eaw-view-arch-art-categories|View all architectural artifact categories]]
+- [[eaw-view-all-architectural-artifacts|View all architectural artifacts]]
+- [[eaw-create-architectural-artifact|Create or edit an architectural artifact from Portfolio page]]
+- [[eaw-add-a-related-entity-to-an-architectural-artifact|Add a related entity to an architectural artifact]]
+- [[eaw-share--archi-artft-with-users-groups|Share an architectural artifact with users or groups]]
+- [[eaw-manage-access-to-architectural-artifacts|Manage access to architectural artifacts]]
+- [[eaw-req-approval-artifact-version|Request approval for an architectural artifact of type URL or Attachment]]
+- [[eaw-download-artifact-version|Download an architectural artifact version]]
+- [[eaw-delete-an-architectural-artifact-version|Delete an architectural artifact version]]
+- [[eaw-manage-adr|Manage architectural decision records \(ADR\)]]
+- [[eaw-create-edit-adr|Add or edit an architectural decision record \(ADR\)]]
+- [[eaw-create-and-mng-page-subpage-for-adr|Create and manage pages and subpages for architectural decision records]]
+- [[eaw-tag-users-or-records-in-adr|Tag users or records in Architectural Decision Records]]
+- [[eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc|Enable referencing additional records in architectural decision records]]
+- [[eaw-add-an-adr-version|Add an architectural decision record version]]
+- [[eaw-request-approval-adr|Request approval for an architectural artifact version of type Architectural Decision Record]]
+- [[manage-arch-documents|Manage architectural documents]]
+- [[view-architectural-documents|View all architectural documents]]
+- [[create-architectural-document|Create an architectural document]]
+- [[edit-architectural-content|Edit artifact content of an architectural document]]
+- [[edit-architectural-document|Edit an architectural document details]]
+- [[add-related-entity-arch-doc|Add a related entity to an architectural document]]
+- [[manage-artifact-content|Manage artifact content]]
+- [[delete-architectural-document|Delete an architectural document]]
+- [[eaw-working-with-ai-portfolio|Working with AI Portfolio]]
+- [[eaw-view-all-ai-system-digital-assets|View all AI system digital assets]]
+- [[eaw-view-all-ai-model-digital-assets|View all AI model digital assets]]
+- [[eaw-view-all-ai-dataset-digital-assets|View all AI dataset digital assets]]
+- [[eaw-view-all-ai-prompt-digital-assets|View all AI Prompt Digital Assets]]
+- [[eaw-view-all-ai-system-product-models|View all AI System Product Models]]
+- [[eaw-view-all-ai-model-product-models|View all AI Model Product Models]]
+- [[eaw-view-all-ai-dataset-product-models|View all AI Dataset Product Models]]
+- [[eaw-view-all-ai-prompt-product-models|View all AI Prompt Product Models]]
+- [[eaw-work-with-your-entities|Working with your entities]]
+- [[eaw-my-business-cap|View your business capabilities]]
+- [[eaw-add-edit-my-business-cap|Add or edit your business capabilities]]
+- [[eaw-my-business-processes|View your business processes]]
+- [[eaw-add-edit-my-bus-processes|Add or edit your business processes]]
+- [[eaw-my-business-apps|View your business applications]]
+- [[eaw-add-edit-my-business-apps|Add or edit your business applications]]
+- [[eaw-my-app-services|View your application services]]
+- [[eaw-add-edit-my-app-services|Add or edit your application services]]
+- [[eaw-my-info-objects|View your information objects]]
+- [[eaw-add-edit-my-info-objects|Add or edit your information objects]]
+- [[eaw-my-arch-artifacts|View your architectural artifacts]]
+- [[eaw-add-edit-my-artifacts|Add or edit your architectural artifacts]]
+- [[eaw-my-trm-products|View your TRM products]]
+- [[eaw-add-edit-my-trm-prod|Add or edit your TRM products]]
+- [[eaw-my-digital-integrations|View your digital integrations]]
+- [[eaw-add-edit-my-dig-integ|Add or edit your digital integrations]]
+- [[eaw-my-digital-interfaces|View your digital interfaces]]
+- [[eaw-add-edit-my-digi-interfaces|Add or edit your digital interfaces]]
+- [[eaw-work-with-tco|Working with application Total Cost of Ownership \(TCO\)]]
+- [[eaw-view-all-tco-records|View all total cost of ownership records]]
+- [[eaw-create-new-tco|Add or edit a total cost of ownership record]]
+- [[eaw-work-with-digital-integ-mngmnt|Working with digital integration management in Enterprise Architecture Workspace]]
+- [[eaw-work-with-digital-integrations|Working with digital integrations]]
+- [[eaw-view-all-dig-integ|View all digital integrations]]
+- [[eaw-create-digital-integ|eaw create digital integ]]
+- [[eaw-assoicate-artifact-dig-intgn|Manage architectural artifacts of a digital integration in EA Workspace]]
+- [[eaw-dig-integ-add-info-object|Associate an information object to a digital integration]]
+- [[example-prov-n-subsc-roles-with-data-flow|example prov n subsc roles with data flow]]
+- [[eaw-work-with-digital-interfaces|Working with digital interfaces]]
+- [[eaw-view-all-dig-interfaces|View all digital interfaces]]
+- [[eaw-create-digital-interface|Add or edit a digital interface in the EA Workspace]]
+- [[eaw-relate-dig-interface-api|Connect a digital interface with the CMDB API in the EA Workspace]]
+- [[eaw-manage-artifacts-digital-interface|Manage architectural artifacts of a digital interface in EA Workspace]]
+- [[eaw-dig-interface-add-sdlc-comp|Relate an SDLC component to a digital interface]]
+- [[eaw-dig-interface-add-info-object|Relate an information object to a digital interface]]
+- [[eaw-dig-interface-add-credential|Relate credentials to a digital interface]]
+- [[working-with-publishing-center|Working with the publishing center]]
+- [[published-trm-cat-exp|Published TRM catalog experience]]
+- [[config-trm-data-to-publish|Create a configuration to publish TRM data]]
+- [[modify-trm-cat-pub-config|Edit a published TRM catalog configuration]]
+- [[associate-portal-to-trm-cat|Associate a portal with a knowledge base]]
+- [[automatic-synch-published-catalogs|Automatic synchronization of published TRM catalogs]]
+- [[publish-trm-cat-to-kb|Publish a TRM catalog to the knowledge base]]
+- [[republish-trm-cat|Republish a TRM catalog after updates]]
+- [[view-run-log|View publishing status and run log]]
+- [[access-the-published-kb|Access the published TRM catalog knowledge base]]
+- [[understand-publishing-output|Understanding the publishing results and knowledge base output]]
+- [[ai-search-trm-cat|AI Search on the TRM catalog]]
+- [[index-archive-pub-trm-cat|Index previously published TRM catalog records for AI Search]]
+- [[retire-archive-pub-trm-cat|Retire or archive a published TRM catalog]]
+- [[eaw-work-with-setup-page|Working with the Setup page]]
+- [[eaw-view-all-application-categories|View all application categories]]
+- [[eaw-view-all-application-category-groups|View all application category groups]]
+- [[eaw-view-all-application-families|View all application families]]
+- [[eaw-manage-indicators|Working with indicators]]
+- [[eaw-view-all-capability-indicators|View all capability indicators]]
+- [[eaw-view-all-application-indicators|View all application indicators]]
+- [[eaw-regenerate-indicator-score|Regenerate application indicator scores on-demand in Enterprise Architecture Workspace]]
+- [[eaw-regenerate-capability-indicator-scores-in-eaw|Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace]]
+- [[eaw-view-all-scoring-profiles|View all scoring profiles]]
+- [[eaw-view-info-data-domains|View information data domains]]
+- [[eaw-view-demand-actions|View all demand-actions]]
+- [[eaw-view-all-cert-schedules|View all certification policies]]
+- [[document-templates-for-ea|Working with the document templates]]
+- [[view-document-templates|View all document templates]]
+- [[create-manage-doc-templates|Create a document template]]
+- [[export-document-templates|Export document templates]]
+- [[eaw-integrate-eaw-with-other-apps|Integrating Enterprise Architecture Workspace with other applications]]
+- [[eaw-integrate-with-lucid|Enterprise Architecture Workspace integration with Lucidchart]]
+- [[eaw-reference|Enterprise Architecture Workspace reference]]
+- [[installed-with-eaw|Components installed with Enterprise Architecture Workspace]]
+- [[eaw-create-diagram-bc|Create diagram for a business capability form]]
+- [[eaw-create-trm-prod-req-form|Create TRM product request form]]
+- [[eaw-trm-product-request-form|Request TRM product form]]
+- [[eaw-new-trm-prod-form|Create TRM product form]]
+- [[eaw-create-trm-prod-lifecycle-form|Create TRM product lifecycle form]]
+- [[eaw-create-trm-prod-lifecycle-req-form|Request TRM product lifecycle form]]
+- [[eaw-trm-technical-debt-form|TRM technical debt form]]
+- [[eaw-trm-phase-form|TRM Phase form]]
+- [[eaw-technology-portfolio-audit-form|Technology portfolio audit form]]
+- [[eaw-create-new-profile-indicator-form|Create profile indicator form]]
+- [[eaw-create-a-sub-capability|Create a sub-capability form]]
+- [[eaw-information-object-form|Create information object form]]
+- [[eaw-cap-form|Create business capability form]]
+- [[eaw-digital-integ-form|Digital integration form \(easy form\) in EA Workspace]]
+- [[eaw-update-digital-integration-form|Digital integration form in EA Workspace]]
+- [[eaw-demand-form|Create demand form]]
+- [[eaw-apprat-business-application-form|Business application form]]
+- [[eaw-new-arct-artfct-form|Architectural artifact form]]
+- [[eaw-share-architectural-artifacts-form|Share architectural artifacts form]]
+- [[eaw-application-model-lifecycle-details-form|Application model life-cycle details form]]
+- [[eaw-business-application-form|Business application form]]
+- [[eaw-create-new-product-capability-form|Create product capability form]]
+- [[eaw-edit-demand-form|Demand form]]
+- [[eaw-demand-action-form|Demand Actions Form]]
+- [[eaw-create-new-demand-form|Create demand form]]
+- [[eaw-edit-project-form|Edit a project form]]
+- [[eaw-digital-interface-form|Digital interface form]]
+- [[eaw-dig-interface-api-form|Digital interface to API form]]
+- [[eaw-business-process-form|Create business process form]]
+- [[eaw-app-service-form|Application service form]]
+- [[new-tco-form|Total cost of ownership form]]
+- [[eaw-create-a-new-business-unit-form|Create a business unit form]]
+- [[eaw-create-new-department-form|Create department form]]
+- [[eaw-create-new-user-form|Create user form]]
+- [[eaw-create-new-goal-form|Create goal form]]
+- [[eaw-create-new-target-form|Create target form]]
+- [[eaw-create-new-versions-form|Create architectural artifact version form]]
+- [[eaw-create-new-value-stream-to-process-form|Create value stream to process form]]
+- [[eaw-create-new-application-model-from|Create application model form]]
+- [[eaw-create-new-value-stream-stage-form|Create value stream stage form]]
+- [[eaw-create-new-application-category-form|Create application category form]]
+- [[eaw-crate-new-application-category-group-form|Create application category group form]]
+- [[eaw-create-new-application-family-form|Create application family form]]
+- [[eaw-create-new-indicator-form|Create indicator form]]
+- [[create-new-scoring-profile-form|Create scoring profile form]]
+- [[eaw-certification-schedule-form|Certification schedule form in Enterprise Architecture Workspace]]
+- [[eaw-shape-library-form|Shape library form]]
+- [[eaw-modeling-config-form|Modeling configuration form]]
+- [[eaw-entity-config-form|Entity configuration form]]
+- [[eaw-relationship-form|Relationship configuration form]]
+- [[eaw-add-relationship-form|Add relationship form]]
+- [[eaw-dig-interface-sdlc-comp-form|Digital interface SDLC component form]]
+- [[eaw-dig-interface-info-object-form|Digital interface information object form]]
+- [[eaw-dig-interface-credential-form|Digital interface credentials form]]
+- [[eaw-edit-version-detail-form|Edit version detail form]]
+- [[eaw-modeling-create-bc-map-form|Create a business capability map form]]
+- [[eaw-modeling-create-ba-map-form|Create a business hierarchy map form]]
+- [[eaw-new-arch-artifact-form|Create architectural artifact form]]
+- [[eaw-artifact-releated-entity-form|Create related entities form]]
+- [[eaw-diagram-action-form|Create diagram action form]]
+- [[eaw-modeling-image-form|Image form]]
+- [[eaw-certification-policy-form|Certification policy form in Enterprise Architecture Workspace]]
+- [[eaw-modeling-shape-library-element-form|Shape library element form]]
+- [[eaw-modeling-bp-map-form|Create a business process map form]]
+- [[eaw-create-new-value-stream-form|Create value stream form]]
+- [[eaw-create-diagram-ba-form|Create diagram form for a business application]]
+- [[eaw-data-cert-gen-info-form|General information form]]
+- [[eaw-data-cert-options-form|Options form]]
+- [[eaw-data-cert-schedule-form|Schedule form]]
+- [[eaw-data-filter-form|Data filter form]]
+- [[create-pub-config-form|Create publishing configuration form]]
+- [[create-portal-kb|Create a portal knowledge base form]]
+- [[document-template-form|Document template form]]
+- [[eaw-data-domain-form|Data Domain form]]
+- [[eaw-filter-conditions-reference|Filter conditions]]
+- [[architectural-category-form|Architectural category form]]
+- [[data-domain-form|Data Domain form]]
+- [[trm-category-form|TRM Category form]]
+- [[now-assist-ea|Now Assist for Enterprise Architecture \(EA\)]]
+- [[exploring-now-assist-for-ea|Exploring Now Assist for Enterprise Architecture \(EA\)]]
+- [[ea-qna-overview|Enterprise Architecture query agent]]
+- [[eaw-bpm-diagram-from-image|Business process map diagrams from images]]
+- [[supporting-info-now-assist-ea|Supporting information for Now Assist for Enterprise Architecture \(EA\)]]
+- [[configure-now-assist-ea|Configure Now Assist for Enterprise Architecture \(EA\)]]
+- [[sn-otto-access-roles|Now Assist for Enterprise Architecture \(EA\) access roles]]
+- [[configure-ai-data-explr-qry-genr-skills|Configure AI Data Explorer and Query Generation skills]]
+- [[set-kg-system-properties-ea-qna|Enable Knowledge Graph system properties for the Enterprise Architecture query agent]]
+- [[using-now-assist-for-ea|Using Now Assist for Enterprise Architecture \(EA\)]]
+- [[ea-qna-use|Use Enterprise Architecture query agent]]
+- [[eaw-create-bpm-diag-from-image|Create a business process map diagram from an image]]
+- [[eaw-review-ai-generated-bpm-diag|Review and accept a Now Assist-generated business process map diagram]]
+- [[summarize-docs-genai-skill-ea|Generate a summary for Architectural Decision Records \(ADRs\)]]
+- [[elaborate-shorten-content-ew|Elaborate or shorten content in the Architectural Decision Records \(ADRs\)]]
+- [[generate-insights-into-ba|Generate insights into business applications]]
+- [[compare-modeling-diagrams|Compare Enterprise Modeling and Visualization diagrams]]
+- [[elaborate-or-shorten-content-form-fields|Elaborate or shorten content in form fields]]
+- [[generate-insights-ea-dashboard|Generate insights for Enterprise Architecture Workspace dashboard widgets]]
+- [[register-business-application-using-conversational-experience|Register a business application by using the conversational experience]]
+- [[register-digital-integration-using-conv-exp|Register a digital integration by using the conversational experience]]
+- [[using-na-ea-ai-agents|Using AI agent agentic workflow in Now Assist for Enterprise Architecture \(EA\)]]
+- [[now-assist-aiagents-ea-diagramming-usecase|Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow]]
+- [[now-assist-ea-reference|Now Assist for Enterprise Architecture reference]]

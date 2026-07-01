@@ -1,0 +1,35 @@
+---
+title: Email address internationalization
+description: Email address internationalization allows international character support for email addresses for non-English characters when sending and receiving emails. Email addresses can have non American Standard Code for Information Interchange \(ASCII\) characters.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/platform-administration/email-address-internationalization.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Configure, Email client, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+---
+
+# Email address internationalization
+
+Email address internationalization allows international character support for email addresses for non-English characters when sending and receiving emails. Email addresses can have non American Standard Code for Information Interchange \(ASCII\) characters.
+
+Enable or disable International characters in an email by running a scheduled job.
+
+The **glide.email\_address.rfc6530.enabled** system property can be set to true only if the configured email SMTP server for the instance supports SMTP UTF8 extension. This property by default enables sending and receiving of inbound emails to and from international email addresses including processing of the emails received from encoded international email addresses.
+
+## Enable or disable email address internationalization
+
+Enable email address internationalization by setting the **glide.email\_address.rfc6530.enabled** system property to `true`.
+
+Disable email address internationalization by setting the **glide.email\_address.rfc6530.enabled** system property to `false`.
+
+-   **[[customize-email-int|Customize email address internationalization]]**  
+Customize email address internationalization to turn off processing of inbound and outbound emails, disable support for inbound emails or to add email address format for decoding international email addresses.
+
+**Parent Topic:**[[configuring-email-client|Configure email client]]
+
+## Related
+
+- [[customize-email-int|Customize email address internationalization]]
+- [[configuring-email-client|Configure email client]]

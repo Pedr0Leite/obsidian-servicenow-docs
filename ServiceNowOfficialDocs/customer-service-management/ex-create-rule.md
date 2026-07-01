@@ -1,0 +1,59 @@
+---
+title: Create a rule from the Case context record
+description: Create a rule to show recommendations for active cases that meet the condition specified in this rule.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/customer-service-management/ex-create-rule.html
+release: australia
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Example: Link the similar major case to the current case, Example configurations, Recommended Actions configuration, Implement Intelligence, Configure, Customer Service Management]
+---
+
+# Create a rule from the Case context record
+
+Create a rule to show recommendations for active cases that meet the condition specified in this rule.
+
+## Before you begin
+
+Role required: sn\_nb\_action.next\_best\_action\_author, admin
+
+## About this task
+
+New [[gamification-components-rules|rules]] can only be created from context records.
+
+## Procedure
+
+1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+
+2.  Select the Case context.
+
+    The Case context is available by default.
+
+3.  In the Rules related list, select **New**.
+
+4.  In the **Name** field, enter `Active rule`.
+
+5.  In the **Roles** field, select the Edit User Roles \[Omitted image "icon-pencil-ac.png"\] Alt text: Edit User Roles icon icon and then select Customer service agent \[sn\_customerservice\_agent\] and Consumer service agent \[sn\_customerservice.consumer\_agent\].
+
+    The selected user roles can see recommendations for this rule.
+
+6.  Select **Done** on the Roles pop-up window.
+
+7.  In the **Condition** field, use the condition builder to add the condition "Active \| is \| true".
+
+    Agents can see recommendations for the records in the context table that meet this criteria.
+
+8.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
+
+    For more information, see [[ra-csm-rules|Apply rules to tables extended from the context table]].
+
+9.  In the **Field affecting this rule** field, select Short description from the slush bucket.
+
+10. Select **Submit**.
+
+## Related
+
+- [[ra-csm-rules|Rules in Recommended Actions]]
+- [[gamification-components-rules|Rules]]
+- [[configure-nba|Recommended Actions]]

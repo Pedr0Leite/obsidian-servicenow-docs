@@ -1,0 +1,32 @@
+---
+title: Configure success blueprints
+description: Configure success blueprint templates and the supporting elements that customer success managers use to define how success is measured for an engagement.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/acct-lifecycle-events/account-lifecycle-setup-success-blueprints.html
+release: australia
+topic_type: concept
+last_updated: "2026-06-08"
+reading_time_minutes: 1
+breadcrumb: [Customer success, Configure, Customer Success Management]
+---
+
+# Configure success blueprints
+
+Configure [[account-lifecycle-success-blueprint|success blueprint]] templates and the supporting elements that [[account-lifecycle-events-customer-success-about|customer success]] managers use to define how success is measured for an engagement.
+
+A success blueprint captures what success looks like for a customer, how it is measured, and the initiatives that will deliver it. Templates define a reusable set of success objectives and primary success outcomes for a specific product or solution. [[account-lifecycle-use-cust-success|Customer success]] managers can apply these templates to [[account-lifecycle-engagement|engagements]], or create blueprints manually when no template fits.
+
+-   **[[account-lifecycle-create-blueprint-template|Define a success blueprint template]]**  
+[[account-lifecycle-create-success-blueprint|Create a success blueprint]] template with predefined success objectives and outcomes for a product model that helps your organization scale its customer success operations.
+
+**Parent Topic:**[[account-lifecycle-config-cust-success|Configure customer success]]
+
+## Related
+
+- [[account-lifecycle-create-blueprint-template|Define a success blueprint template]]
+- [[account-lifecycle-config-cust-success|Configure customer success]]
+- [[account-lifecycle-create-success-blueprint|Create a success blueprint]]
+- [[account-lifecycle-success-blueprint|Success blueprint]]
+- [[account-lifecycle-events-customer-success-about|Customer success]]
+- [[account-lifecycle-use-cust-success|Customer success]]
+- [[account-lifecycle-engagement|Engagements]]

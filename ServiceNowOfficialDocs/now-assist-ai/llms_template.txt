@@ -1,0 +1,21 @@
+# Now Assist AI — Custom Knowledge Base
+
+> LLM-optimized index for the `now-assist-ai/` vault section. This folder contains custom, curated knowledge about ServiceNow Now Assist AI features — drawn from labs, support cases, and production experience. Not official ServiceNow documentation.
+
+## <Section Name>
+
+- [<Note Title>](<subfolder>/<Note%20Title>.md): <One-sentence description of what the note covers. Include key terms, tables, APIs, or error codes an LLM should know to route here.>
+
+---
+<!-- Template instructions (remove when publishing):
+
+SECTION = the topic area (e.g. "AI Agents", "AI Search", "Prompt Engineering", "Skills / Skill Kit")
+LINK    = path relative to now-assist-ai/, URL-encode spaces as %20
+DESCRIPTION = what a reader would learn; mention key terms so vector search hits this entry
+
+Pattern for a new entry:
+- [Title](subfolder/File%20Name.md): What this covers, key APIs or tables, source if notable.
+
+Keep entries in alphabetical order within each section.
+Update llms.txt (the live index) after adding here.
+-->

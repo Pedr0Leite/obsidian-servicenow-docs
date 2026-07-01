@@ -1,0 +1,448 @@
+---
+title: Australia Manufacturing
+locale: en-US
+release: australia
+bundle: mftg
+doc_type: toc
+---
+
+# Australia Manufacturing
+
+- [[manufacturing-overview|Manufacturing Commercial Operations]] -- The  ServiceNow Manufacturing Commercial Operations (MCO) enables you to optimize sales, support, and service operations to enhance operational efficiency, lower costs, and improve productivity.
+  - [[manufacturing-explore|Explore]] -- Learn how the  Manufacturing Commercial Operations solution can help your organization to speed up revenue and create differentiated customer and channel experiences while reducing operations costs.
+    - [[manufacturing-commercial-operations-core-features|MCO core]] -- Manufacturing Commercial Operations Manufacturing Commercial Operations (MCO) features enables you to raise sale promotion and recall campaign and raise claim requests for repair.
+      - [[mco-sls-prom-clms|Sales promotion]] -- OEMs create sales promotions and discounts targeted to specific criteria or customers. Channel partners extend these promotions to end customers during sales transactions, and the OEM reimburses dealers for the discounts offered.
+        - [[mco-sales-promotion-campaign-use-case|Use case for sales promotion campaign]] -- Use case scenarios demonstrate when and how to use the Sales promotion application to create a promotion campaign. It provides practical examples of common sales promotion management situations.
+        - [[mco-sales-promotion-claim-submission|Use case for sales promotion claim submission]] -- Use case scenarios demonstrate when and how to use the Dealer portal application to submit a sales promotion claim. It provides practical examples of common sales promotion management situations.
+        - [[mco-sales-promotion-claim-review-and-approval-use-case|Use case for sales promotion claim approval]] -- Use case scenarios demonstrate when and how to use the sales promotion application to review and approve the claims. It provides practical examples of common sales promotion management situations.
+      - [[mco-rcl-clms|Recall campaign]] -- A recall process is a structured procedure launched by Original Equipment Manufacturers (OEM) to fix defects or issues in their manufactured products that are sold to the customers. Dealers can submit repair claims for work performed as part of recall campaigns, while OEM assessors benefit from a playbook-guided experience that simplifies and standardizes claim resolution.
+        - [[mco-recall-campaign-use-case-scenario|Use case for recall campaign]] -- Use case scenarios demonstrate when and how to use the Recall Campaign application to create a recall campaign. It provides practical examples of common recall management situations.
+        - [[mco-recall-claim-submission-use-case|Use case for recall claim submission]] -- Use case scenarios demonstrate when and how to use the Dealer portal application to submit a recall claim. It provides practical examples of common recall management situations.
+        - [[mco-recall-claim-review-and-approval|Use case for recall claim approval]] -- Use case scenarios demonstrate when and how to use the recall campaign application to review and approve the claims. It provides practical examples of common recall management situations.
+      - [[mco-warranty-clms|Repair claim]] -- In the Repair claims workflow, the customer approaches the dealer with issues related to one or more products. The dealer diagnoses and fixes the issue​ and raises the reimbursement for the repair work performed.
+        - [[mco-repair-claim-submission-use-case|Use case for repair claim submission]] -- Use case scenarios demonstrate when and how to use the Dealer portal application to submit a repair claim. It provides practical examples of common repair or warranty management situations.
+        - [[mco-repair-claim-review-and-approval-use-case|Use case for repair claim approval]] -- Use case scenarios demonstrate when and how to use the repair claim application to review and approve the claims. It provides practical examples of common repair or warranty management situations.
+      - [[mco-pre-auth-request|Pre-authorization]] -- A pre-authorization request is a process to confirm the approval before initiating activities, such as repairs, material procurement, or labor costs that are included under warranty or service agreements. This procedure confirms that all required inspections and criteria are satisfied and duly authorized by the Warranty Specialist. When a claim is created, approved pre-authorization requests can be used to generate claim jobs, avoiding re-entering of claim details. This process promotes quality assurance and operational efficiency in the process.
+      - [[additional-features|Additional features]] -- Manufacturing Commercial Operations supports additional features to enhance the product capabilities.
+    - [[mco-quality-issue-management|Quality issue management]] -- Quality issue management (QIM) application enables manufacturers to capture, track, and resolve non-conformance and quality investigations using structured, end-to-end workflows.
+      - [[mco-product-non-conformance-use-case|Use case for product non-conformance]] -- Use case scenarios demonstrate when and how to use the Product non-conformance application to create and resolve the product non-conformance issue. It provides practical examples of common product non-conformance situations.
+      - [[mco-product-quality-investigation-use-case|Use case for product quality investigation]] -- Use case scenarios demonstrate when and how to use the Product non-conformance application to create a product quality investigation report. It provides practical examples of common product quality investigation situations.
+    - [[mco-landing-page|Agents workspace]] -- Manufacturing Commercial Operations enables OEMs or manufacturers to use Agents workspace as a landing page to create sales promotion and recall campaigns. It also enables the agents to view, submit, review, and approve claims.
+    - [[mco-dealer-portal|Dealer portal]] -- The dealer portal enables the OEM and Dealers to engage in the post-sales customer service requirements like claim submission, product recall announcements, customer service requests. It enables dealers to efficiently manage day-to-day business operations. The portal also provides real-time data insights, enabling proactive monitoring and informed decision-making.
+  - [[configuring-manufacturing-foundation|Configure]] -- Set up Manufacturing Commercial Operations to enable manufacturers to manage the end-to-end life-cycle of your manufacturing products.
+    - [[getting-started-mco|Getting started with Manufacturing Commercial Operations]] -- Activate the Manufacturing Commercial Operations plugin and plan your implementation by installing additional plugins.
+      - [[install-manufacturing-commercial-operations-core|Install MCO]] -- Install the Manufacturing Commercial Operations Core application with the admin role. The application includes demo data Manufacturing Commercial Operations core and installs related ServiceNow store applications and plugins that aren’t already installed.
+      - [[manufacturing-commercial-operations-plugins|Plugins installed with MCO]] -- With the ServiceNow Manufacturing Commercial Operations main plugin, you can install all the dependent plugins that a customer is entitled to with Manufacturing Commercial Operations.
+    - [[mco-configure-responsibility-access|Configure responsibility access]] -- The declarative responsibility framework in Manufacturing Commercial Operations (MCO) is used to define and update responsibilities and access levels. The framework enables you to use low-code or no-code tools, which reduces the time required for scripting.
+      - [[mco-granular-roles-and-entities|Granular roles and entities]] -- Module-level granular roles have been added to facilitate defining and configuring the responsibility framework. These roles enable tasks to be performed without creating custom access control lists (ACLs) on the target table when a responsibility ACL exists. This update aims to provide a more direct and declarative migration process.
+    - [[set-up-additional-plugins|Set up additional requirements (optional)]] -- You can setup the additional configurations to active Customer Service Management, Order to cash operations, and Service Bridge capabilities.
+      - [[mco-install-cust-ser-mgmt|Install CSM]] -- Set up and install your Customer Service Management environment with data models, customer data, product data, user management, and case management tools to go live.
+        - [[mco-business-portal-configure|Configure the Business Portal]] -- Configure the business portal to enable your customers to submit orders through self-service.
+      - [[mco-install-som|Install Order Management]] -- Set up the Order Management (Order Management) applications for Manufacturing Commercial Operations to optimize the lead-to-cash cycle and allow your agents can work on various stages of the manufacturing sales life cycle, such as order and fulfillment and entitlements.
+      - [[mco-install-configure-sb-providers|Install Service Exchange]] -- To set up and configure the Service Exchange for Provider and Consumer application for Manufacturing Commercial Operations, follow these steps.
+    - [[mco-setup|Set up Manufacturing Commercial Operations]] -- Set up the Manufacturing Commercial Operations basic requirements.
+      - [[create-labor-code|Create a labor code]] -- Define a labor code for the different tasks or work performed by the service agents.
+      - [[mco-product-models|Configuring product models]] -- A product is a type of merchandise or service that a company sells and supports. Product models identify different types of products, such as service, hardware, software, or consumables.
+        - [[mco-create-prod-mod|Modify a product model]] -- Modify a product record that your company sells and supports.
+      - [[mco-assets|Configuring assets]] -- An asset is a specific product or instance that is supported for a Manufacturing Commercial Operations to manage the asset details.
+      - [[mco-create-install-base-item|Create an install base item]] -- Create an install base item that represents the instance of the product that has been configured for a customer The install base item enables you to track all the purchases that were made by a customer.
+        - [[mco-related-list-intall-base|Related list for an install base item]] -- In the Manufacturing Commercial Operations application, you can use the Install base related list to track information that is related to the install base hierarchy, cases, entitlements, and other entities. By using these tables, you can understand your customers' purchases and provide efficient post-sales support.
+          - [[mco-create-child-install-base-item|Create a child install base item]] -- Create a child install base item in the Manufacturing Commercial Operations application to view a list of all the cases and issues of the parent install base item.
+          - [[create-a-sold-product|Create a installed product]] -- Create an association between sold products and install base items. Installed products provide information on the instances that a sold product is deployed on.
+          - [[create-sold-product-covered|Create sold product or install base item for contract]] -- The customer contracts and entitlements application uses the Sold Product Covered form to add sold products or install base items that are covered to the Customer Contracts and Entitlements entities.
+    - [[set-up-dealer|Set up dealer]] -- Agents workspace enables the OEMs to create the dealers and assign the roles.
+      - [[mco-create-dealer|Create a dealer]] -- As an OEM, create a dealer role.
+        - [[mco-create-internal-business-location|Create an internal business location]] -- Create an internal business location to enable users and consumers to create accounts, contacts, consumers, and households.
+        - [[mco-create-channel-partner|Create a channel partner]] -- Create a channel partner to streamline and help manage the sales process of a product or a service for an enterprise.
+        - [[adding-company-records|Adding and associating company records]] -- Create a company record and associate it to an internal business location and channel partner.
+        - [[adding-staff-members|Adding staff members]] -- Add users as staff members to a internal business location or channel partner so that they can support accounts, contacts, consumers, and households.
+          - [[mco-internal-business-location|Add members to an internal business]] -- Add users as staff members to an internal business location to support accounts, contacts, consumers, and households.
+          - [[mco-add-members-to-an-channel-partner|Add members to an channel partner]] -- Register a new partner member or transfer existing staff within a partner organization.
+        - [[assign-mco-roles|Assign roles]] -- Assign roles to control access to features, capabilities, and data in the Manufacturing Commercial Operations Core application.
+    - [[mco-set-up-sls-prom|Set up sales promotion]] -- A sales promotion setup enables the manufacturers to configure the sales promotion details. It includes the promotion name, start and end date of the promotion, sales promotion type, and incentive details.
+      - [[create-promotion-type|Create promotion type]] -- As a OEM or manufacturer, create a sales promotion type that is applicable to a specific set of promotions.
+      - [[mco-create-input-set|Create promotion questionnaire]] -- Create a promotion questionnaire. Configure the MCO input set.
+        - [[mco-input-attributes|Create an MCO input attribute]] -- Create the MCO input attributes for sales promotion campaign.
+      - [[mco-checklist-template|Create a checklist template]] -- Create a checklist template. Manufacturers can use the checklist template to create checklists for verification.
+  - [[mco-integrating-with-other-applications|Integrate]] -- Extend the capabilities of Manufacturing Commercial Operations and connect with other departments to assist with quality issue management by integrating with other applications.
+    - [[mco-fsm-integration|FSM integration]] -- Quality Issue Management (QIM) integrates with Field Service Management (FSM) to support quality actions that require on-site intervention. When a Non-Conformance (NC) or Quality Investigation (QI) record identifies a need for field verification, containment, or corrective repair, you can create an FSM work order directly from within QIM without switching applications.
+      - [[mco-integrate-with-fsm|Integrate with Field Service Management]] -- Manufacturing Commercial Operations provides an integration with the Field Service Management application. This integration enables you to view work order and work order task information from a report.
+  - [[manufacturing-using|Use]] -- Learn how Manufacturing Commercial Operations enables you to manage the end-to-end life-cycle of your products, subscriptions, and services.
+    - [[mco-use-dealer-portal|Dealer management]] -- The dealer portal enables you to manage the repair, recall, and sales promotion claims.
+      - [[mco-lookup|Look up by serial number]] -- Look up the serial number of the asset or claims details in the dealer portal. View the item for recall and sales promotion claims.
+      - [[mco-pre-auth-request-use|Pre-authorization request]] -- MCO dealer portal enable you to create and submit the pre-authorization request.
+        - [[mco-submit-pre-auth-request|Submit a pre-authorization request]] -- Submit a pre-authorization request to confirm whether certain parts, fees, or repairs are covered under a warranty or service contract.
+      - [[repair-claim-dealer|Repair claim for the dealer]] -- The dealer portal enables the dealers to raise a claim request for the repair work that was performed for a product. The repair could have been done either under warranty or after the recall of the product.
+        - [[mco-submit-repair-claim|Submit a repair claim for warranty]] -- Create a warranty claim and submit it for approval.
+      - [[mco-sales-promotion-dealer|Sales promotion for the dealer]] -- The dealer portal enables the dealers to view the sales promotions campaign created by OEMs. Dealers can also raise a claim request on the sales promotion.
+        - [[mco-sales-promotion-single-claim|Submit a sales promotion claim]] -- As a dealer, submit a single sales promotion claim request.
+        - [[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]] -- Upload a bulk sales promotion claim request.
+      - [[mco-qim-for-the-dealer|Quality issue management for the dealer]] -- The dealer portal enables the dealers to view the product non-conformance requested by them. Dealers can also submit the product non-conformance issue reports.
+        - [[mco-report-an-issue|Report an issue]] -- Create an issue report for the product non-conformance.
+    - [[mco-agent-management|Agent management]] -- The workspace portal or the agent workspace enables the OEM or the manufacturers to create, view, and approve claims.
+      - [[mco-use-repair-claim|Repair claim]] -- The Agents workspace enables the OEMs to create, view, review, and approve the repair claims.
+        - [[mco-create-rc-using-playbook|Create a repair claim using playbook]] -- Create a repair claim for the products under warranty or recall using the playbook experience.
+        - [[mco-create-repair-claim|Create a repair claim manually]] -- Create a repair claim for the products under warranty or recall.
+        - [[mco-view-repair-cc|View a repair claim case]] -- View the repair claim cases.
+        - [[mco-approve-repair-claims|Reviewing and approving repair claims]] -- Agents portal or workspace enables you to review and approve the claims submitted by a dealer.
+      - [[mco-recall-management|Recall management]] -- Recall management enables the OEMs to identify and remove or replace the faulty products sold to the customers.
+        - [[mco-rc-my-campaigns|Create a campaign]] -- Create a recall campaign and also view the list of campaigns claims assigned to the person who has logged in to the workspace.
+          - [[mco_importing_impacted_assets|Importing impacted assets]] -- Recall campaign management enables you to import the impacted assets.
+          - [[mco-campaign-tasks|Campaign tasks]] -- As an OEM, plan, manage, and execute a promotional effort.
+          - [[mco-corrective-actions|Corrective actions]] -- Corrective action enables you to address the asset issue, either by eliminating or replacing the asset.
+            - [[mco_corrective_action_charges|Corrective action charges]] -- Create correction action charges to enable the expenses incurred to address a non-conformance and implement measures to help prevent its recurrence.
+            - [[mco-part-requirements|Generate a part requirement]] -- Capture all the part requirements at the campaign level.
+              - [[mco-part-availability|Create a part availability]] -- Track current part availability and expected availability dates for required parts.
+          - [[mco-impacted-asset|Create an impacted asset]] -- Identify an impacted asset that must be replaced or recalled.
+          - [[mco-recall-campaign-phases|Recall a campaign phase]] -- Create a recall campaign for a specific geography or a dealership.
+            - [[mco_assign_impacted_asset|Assign an impacted asset]] -- Assign an impacted asset to the recall campaign.
+            - [[mco-phase-task|Adding a phase task]] -- Agents workspace enables the manufacturers to add the phase task details for the recall campaigns.
+            - [[mco_recall_campaign_phases|Adding a sub-phase]] -- Create a sub-phase for a parent phase.
+              - [[mco_assign_unassign_impacted_assets|Assign or unassign impacted assets]] -- Create a impacted asset list and assign or unassign it to a phases or sub-phases.
+            - [[mco_phases_sub-phases|Phases and sub-phases]] -- Create a set of phases and sub-phase within a recall campaign to enable detailed segmentation, improving tracking, and management at each stage of the process.
+            - [[mco-phase-part-allocations|Create a phase part allocation]] -- Create an allocation entry for a required part.
+        - [[mco-rc-all-campaigns|View a campaign]] -- View a recall campaign using the All campaigns form.
+        - [[mco-rc-my-campaign-phases|Create My campaign phases]] -- Display the claims assigned to the person who has logged in to the workspace.
+        - [[mco_merge_phases|Merge two or more phases]] -- Merge phases and sub-phases to reorganize and transfer assets.
+      - [[mco-sales-promotion|Sales promotion]] -- Sales Promotion Management enables manufacturers to create, manage, and track promotional programs across their dealer and distributor networks. Use it to configure promotion types, define eligibility criteria, and set discount structures. Integration with dealer operations ensures promotions are visible and claimable at the point of sale.
+        - [[mco-create-sales-promotion-claim-using-playbook|Create a sales promotion claim using playbook]] -- To be done.
+        - [[mco-sls-pro-mgmt|Sales promotion management]] -- The Agent workspace enables the OEMs to create the promotion campaign for a specific set of customers.
+          - [[mco-my-promotions|My promotions]] -- Agents workspace enables OEM to create the sales promotions campaigns. OEM agent can view all the sales promotion campaign created by them.
+            - [[mco-create-checklist|Create a checklist template]] -- Agents workspace enables the manufacturer to create a checklist for verification.
+              - [[mco-create-applicable-prod|Create an applicable product]] -- Create an applicable product. An applicable product specifies the products to which the sales promotion is applied.
+              - [[mco-create-visibility-criteria|Create a visibility criteria]] -- Agents workspaces enables the manufacturers to create the visibility criteria. Manufacturer can filter the dealer name for which the target sales promotion is applicable.
+              - [[mco-create-sls-promotion-cc|Create a sales promotion claim case]] -- Create a sales promotion claim case to claim the reimbursement or discount.
+          - [[mco-all-promotions|View all promotions]] -- As an OEM agent, view all the promotions that you created.
+        - [[mco-sls-pro-clm-mgmt|Sales promotion claim management]] -- To be updated
+          - [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]] -- Create a sales promotion claim case.
+          - [[all-cases|View sales promotion claim cases]] -- View the sales promotion claim cases.
+          - [[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]] -- Agents workspace enables a claims agent to review and approve the sales promotion claims submitted by the dealer.
+            - [[mco-approve-sp-claim|Approve all claims]] -- As an OEM claims agent, approve all the claim request raised by the dealer.
+            - [[mco-reject-all-sp-claims|Reject a claims]] -- Reject a claims that was raised by the dealer.
+            - [[mco-partially-approve-spclaims|Partially approve a claims]] -- Partially approve a sales promotion claim by updating the approved amount, which is less than the claimed amount.
+      - [[mco-agents-pre-auth-requests|Pre-authorization requests]] -- Dealer Service advisors submit pre-authorization requests to verify warranty or service contract coverage for parts or charges. The Warranty Specialist reviews and either approves, rejects, returns, or partially approves the request. Approved requests are used by advisors to create repair claims or link them to relevant jobs.
+        - [[mco-agents-create-pre-auth-request|Create a pre-authorization request]] -- Create a pre-authorization request to check if certain parts or charges are covered under warranty or service contracts.
+          - [[mco-pre-auth-review|Pre-authorization request]] -- Review and approve the pre-authorization request submitted by a dealer.
+      - [[mco-product-non-conformances|Product non-conformance]] -- The Agents workspace enables you to create and view product non-conformance cases.
+        - [[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]] -- Create a non-conformance case for the products that have issue using the playbook experience.
+        - [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]] -- In the workspace, you can use the product non-conformance related list to log the report.
+          - [[mco-product-non-conformance-case-task|Create a product non-conformance case]] -- Create a non-conformance case report for products that had an issue.
+          - [[mco-root-cause-analysis-task|Create a root cause analysis]] -- Create a root cause analysis (RCA) to identify the underlying cause of an issue and implement effective, long-term solutions.
+            - [[mco-task-cause-associations|Associating a task cause]] -- Associate a cause to a RCA for the root cause analysis of the product non-conformance.
+          - [[mco-correction-actions|Create a correction action]] -- Create a correction actions for the non-conformance report.
+            - [[mco-copq-expense-line|Create a CoPQ expense line]] -- Create CoPQ (Cost of Poor Quality) expense line enables you to capture the actual costs incurred due to poor quality. These costs include rework, scrap, warranty claims, or customer returns.
+            - [[mco-impacted-asset-action|Impacted asset action]] -- Create the list of assets that are impacted under non-conformance cases.
+          - [[mco-containment-actions|Create a containment action]] -- Create a containment action report to address issues for the impacted assets.
+          - [[mco-create-work-order|Create a work order]] -- When off-site work is required, create a work order to provide field service agents with the information they must fulfill the request. You can create a work order from scratch or from another existing work order.
+          - [[mco-task-sla|Task SLA]] -- Create one or more Service Level Agreement (SLA) definitions and use them to create an SLA record. This SLA record enables you to use an SLA system for your organization's task.
+          - [[mco-relationships|Create a parent-child relationship]] -- Create the relationship between parent and child and assign the type of relationship.
+        - [[mco-view-a-product-non-conformance|View a product non-conformance]] -- View the product non-conformance reports.
+      - [[mco-PQI-use|Product quality investigation]] -- The Agents workspace enables you to create and view product quality investigation cases.
+        - [[mco-create-product-quality-investigation|Create a product quality investigation]] -- Create a product quality investigation report.
+          - [[mco-related-list-for-pqi|Related list for quality issues]] -- In the workspace, you can use the product quality issues related list to log the report.
+            - [[mco-product-quality-investigation-task|Create a product quality investigation]] -- Create a non-conformance case task report for products that had an issue.
+            - [[mco-stakeholders|Create a stakeholder]] -- Create a stakeholder who is involved in the product quality investigation.
+            - [[mco-corrective-action|Create a corrective action]] -- Create a corrective action for the quality investigation case.
+            - [[mco-preventive-action|Create a preventive action]] -- Create a preventive action for product quality issue case.
+      - [[mco-remediation-action-plans|Remediation action plans]] -- The Agents workspace enables you to create and view remediation action plans.
+        - [[mco-create-remediation-action-plan|Create a remediation action plan]] -- Create a remediation action plan for product quality investigation case.
+          - [[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]] -- In the workspace, you can use the remediation action-related list to log the information.
+            - [[mco-copq-financial-requests|Create a CoPQ financial request]] -- Create a CoPQ financial request for remediation action plan.
+              - [[mco-copq-planned-line-charge|Create a CoPQ planned line charge]] -- Create a CoPQ planned line charge for CoPQ financial request.
+            - [[mco-cause-action-plans|Cause action plans]] -- Create a cause action plan for the remediation action.
+    - [[mco-additional-workflows|Additional workflows]] -- Additional workflows installed with the Manufacturing Commercial Operations.
+      - [[mco-use-cust-ser-mgmt|Customer Service Management for MCO]] -- Agents and managers can use Customer Service Management application to create cases for customers, route cases to agents with the required skills and availability, manage customer information and case activity, and connect with other applications and departments to assist with case resolution.
+      - [[mco-som-using|Order Management]] -- The Order Management application for Manufacturing Commercial Operations creates a seamless ordering experience for your manufacturing customers.
+        - [[mco-business-portal-using|Using Business Portal]] -- Customers can use the Business Portal to browse product catalogs and create product orders in Sales Customer Relationship Management for Manufacturing Commercial Operations.
+          - [Create an order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-business-portal-using.md) -- Customers can use the Business Portal to browse product catalogs and create product orders in Sales Customer Relationship Management for Manufacturing Commercial Operations.
+          - [View an order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-business-portal-using.md) -- Customers can use the Business Portal to browse product catalogs and create product orders in Sales Customer Relationship Management for Manufacturing Commercial Operations.
+        - [[invoice-ops-creating-invoice-cases-mco|Create an invoice case]] -- Agents can create invoice cases from the Invoice Cases list view in CSM Configurable Workspace in Manufacturing Commercial Operations.
+      - [[mco-using-servicebridge-manufacturers|Service Exchange for Providers]] -- As a manufacturer using Service Exchange for Providers in Manufacturing Commercial Operations, learn how to use Service Bridge to submit requests from the service catalog, and track order fulfillment from your ServiceNow instances.
+      - [[using-servicebridge-mf-cons|Service Exchange for Consumers]] -- As a manufacturer using Service Exchange for Consumers in Manufacturing Commercial Operations, learn how your consumers can use Manufacturing Commercial Operations with Service Bridge to submit requests from the service catalog, all from your ServiceNow instance.
+  - [[manufacturing-reference|Reference]] -- Reference topics provide additional information about Manufacturing Commercial Operations.
+    - [[mco-components-installed|Components installed]] -- Several types of components are installed with installation of the Manufacturing Commercial Operations application. These components include user roles, tables, plugins, ServiceNow Store applications, and business rules.
+    - [[mco-components-installed-with-other-product-workflows|Components for other plugins]] -- Several types of components are installed when you activate the Customer Service Management, Cash to lead, and Service Bridge applications.
+    - [[data-model|Data model]] -- Learn about the Manufacturing Commercial Operations application as well as its entitlements and integrations by viewing the data model and integrations architecture diagrams. These diagrams show the relationships between the tables and roles within the application. They provide an overall picture of how the Manufacturing Commercial Operations application operates.
+      - [[dealer-data-model-overview|Dealer data model]] -- The dealer framework helps you manage the day-to-day business activities and monitor the real-time data insight.
+        - [[dealer-tables|Dealer tables]] -- This section explains the dealer tables in Manufacturing Commercial Operations.
+      - [[sales-promotion-campaign-claims|Sales promotion campaign data model]] -- A sales promotion is a marketing strategy of implementing new ideas to increase sales, raise brand awareness, and provide discounts to the customers.
+        - [[sales-promotion-campaign-claim-table|Sales Promotion Campaign Claim tables]] -- This section explains the sales promotion campaign claims tables in Manufacturing Commercial Operations.
+      - [[repair-claims|Repair claims data model]] -- The repair claims framework enables the dealer to raise a reimbursement claim request for the repair of the equipment or product that is under warranty contract.
+        - [[repair-claims-tables|Repair claims tables]] -- This section explains the repair claim tables in Manufacturing Commercial Operations.
+      - [[recall-claims|Recall campaign data model]] -- The recall campaign framework enables you to initiate the reimbursement claim request from the OEM for the recalled products.
+        - [[recall-claims-table|Recall campaign tables]] -- This section explains the recall campaign tables in Manufacturing Commercial Operations.
+      - [[mco-quality-issue-management-data-model|Quality issue management data model]] -- The quality issue management (QIM) framework enables OEMs for documenting non-conformance, evaluating their effects on assets and customers, conducting root cause analysis, and implementing corrective, containment, and other remediation actions.
+        - [[mco-quality-issue-management-tables|Quality issue management tables]] -- This section explains quality issue management (QIM) tables in Manufacturing Commercial Operations.
+    - [[manufacturing-integrate|MCO Integration APIs]] -- Use ServiceNow APIs to change functionality and add features in the Manufacturing Commercial Operations (MCO) solution.
+      - [[warranty-claims-SOAP-API|Warranty Claims SOAP API]] -- The Warranty Claims SOAP API handles incoming repair orders from dealer systems and converts them into warranty claims within the Oracle Enterprise Manager (OEM)’s platform.
+    - [[repair-form|Repair form]] -- Includes all the forms related to repair and recall.
+      - [[mco-campaign-tasks-form|Campaign tasks form]] -- Campaign tasks form enables you to add the recall campaign details.
+      - [[mco-cp-form|Channel partner form]] -- Use the fields on the channel partner form to manage and store information related to channel partners.
+      - [[mco-corrective-action-form|Corrective action form]] -- The corrective action form enables the OEM to address the asset issue, either by eliminating or replacing the asset.
+      - [[mco_corrective_action_charges_form|Corrective action charges form]] -- Corrective action charges form include the expenses related to addressing a non-conformance like labor charges.
+      - [[mco-claim-details-form|Claim details form]] -- The Claim details form enables the dealer to enter the claim details for the repair work performed.
+      - [[install-based-item-form|Install based item form]] -- An install base item refers to an application service configuration item. Each install base item references the configuration item record for the customer. If issues arise with a configuration item, customer service agents can trace which install base items that the case is affecting.
+      - [[mco-internal-business-location-form|Internal business location form]] -- Internal Business Location (IBL) form to store information about an internal business location. This information includes the staff members assigned to that location, cases, sold products, and install base items created for customers.
+      - [[mco-input-atrributes_form|MCO input attributes form]] -- MCO input attributes form.
+      - [[mco-phase-task-form|Phase task form]] -- Phase task form enables you to add the details of the recall phase.
+      - [[mco-recall-campaign-form|Recall campaign form]] -- The recall campaign form provides the original equipment manufacturer (OEM) with the required information to initiate a recall campaign.
+      - [[mco-recall-campaign-phases-form|Recall campaign phase form]] -- The recall campaign phase form enables you to add the recall campaign phases details.
+      - [[repair-claim-form|Repair claim form]] -- The repair claim form enables you to enter the warranty and recall claim details.
+      - [[mco-pre-auth-form|Pre-authorization form]] -- The pre-authorization form enables you to enter the pre-authorization details.
+      - [[mco-pre-auth-job-details-form|Pre-authorization job details form]] -- The pre-authorization job form enables you to enter the warranty, labor, and part details.
+    - [[sales-promotion-form|Sales promotion form]] -- Includes all the forms related to the sales promotion.
+      - [[mco-all-promotion-form|All promotion form]] -- The All promotion form enables the manufacturers to enter the promotion campaign and incentive details.
+      - [[mco-my-promotions-form|My promotions form]] -- The My promotions form enables the manufacturers to enter the promotion campaign and incentive details.
+      - [[mco-sp-bulk-upload-form|Sales promotion bulk upload form]] -- Bulk sales promotion upload form.
+    - [[mco-qim-form|Quality issue management form]] -- Includes all the forms related to quality issue management.
+      - [[mco-cause-action-plan-form|Cause action plan form]] -- The Cause action plan form enables you to add the cause action details for a remediation plan.
+      - [[mco-containment-actions-form|Containment action form]] -- The containment action form lets you record details of products with quality issues and helps prevent their sale to new customers.
+      - [[mco-copq-expense-line-form|CoPQ expense line form]] -- The CoPQ expense line form enables you to enter the expense line details for product non-conformance..
+      - [[mco-copq-financial-requests-form|CoPQ financial requests form]] -- CoPQ financial form enables you to enter the financial requests raised for the remediation plan.
+      - [[mco-copq-planned-line-charge-form|CoPQ planned line charge form]] -- The CoPQ planned line form enables you to add the required details.
+      - [[mco-corrective-action-form-for-pqi|Corrective action form for PQI]] -- The corrective action form enables you to add the details for PQI.
+      - [[mco-correction-actions-form|Correction actions form]] -- The Correction action form enables you to enter the correction action details for the issue.
+      - [[mco-preventive-action-form|Preventive action form]] -- The preventive action form enables you to add the details for QI.
+      - [[mco-report-a-product-non-conformance|Report a product non-conformance]] -- The report a product non-conformance form enables you to add the issue details.
+      - [[mco-product-non-conformance-case-form|Product details form]] -- The Product non-conformance details form enables you to add the case details.
+      - [Product details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-form.md) -- The Product non-conformance details form enables you to add the case details.
+      - [[mco-product-non-conformance-case-task-form|Product non-conformance case task form]] -- The Product non-conformance case task form enables you to add the case task details.
+      - [[mco-product-quality-investigation-form|Product quality investigation form]] -- The PQI form enables you to add the investigation details.
+      - [[mco-product-quality-investigation-task-form|Product quality investigation task form]] -- Product quality investigation task form enables you to add the investigation case task details.
+      - [[mco-remediation-action-plan-form|Remediation action plan form]] -- The Remediation action plan form enables you to add the remediation details.
+      - [[mco-root-cause-analysis-task-form|Root cause analysis task form]] -- Root cause analysis task form enables you to enter the root cause of the product non-conformance.
+      - [[mco-stakeholders-form|Stakeholder form]] -- The stakeholders form enables you to add the stakeholder details involved in the issue.
+      - [[work-order-form|Work order form]] -- Create and track field service work orders for on-site correction, containment, or repair activities linked to a QIM record.
+    - [[mco-general-form|General form]] -- General forms used in MCO.
+      - [[mco-effectiveness-form|Effectiveness form]] -- This form enables you to add the effectiveness information.
+      - [[mco-discuss-sidebar|Discuss form]] -- The Start a Sidebar discussion form enables you to start a discussion.
+      - [[mco-notes|Notes form]] -- Notes form enables you to add the watch list details.
+      - [[mco-resolution-information-form|Resolution information form]] -- This form enables you to add the report closing details.
+    - [[mco-domain-separation|Domain separation]] -- Domain separation is supported for Manufacturing Commercial Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including the users who can see and access data.
+  - [[now-assist-for-MCO|Now Assist for MCO]] -- Use the ServiceNow Now Assist for Manufacturing Commercial Operations application to create the corrective actions and charges information for the dealers.
+    - [[mco-use-agenetic-workflows|Use agentic workflows]] -- Use the MCO AI agents within an agentic workflow to extract relevant data from repair documents, enabling the generation of corrective actions and associated charges.
+      - [[mco-execute-recall-campaigns-faster-ai-wf|Execute recall campaigns faster agentic workflow]] -- Use MCO AI agents agentic workflow to generate the corrective actions and charges for the required repair documents quickly and efficiently.
+    - [[mco-use-generative-ai-skills|Use generative AI]] -- If you have an agent role, you can summarize the report details with the Now Assist for Manufacturing Commercial Operations (MCO) application.
+      - [[execute-recall-campaigns|Create recall corrective actions]] -- Create recall corrective actions AI agent extracts the information available in the repair documents. The AI agent identifies and collects all relevant data contained within the repair documents and generates the corrective action and the corresponding charges.
+      - [[mco-plan-and-execute-recall-campaign-phases-and-subphases|Plan and execute recall campaign phases and sub-phases]] -- Plan and execute recall campaign phases and sub-phases AI agent enables product recall campaigns to generate and manage phase.
+      - [[mco-report-an-issue_AI|Reporting an issue]] -- Use the MCO portal to submit product non-conformance issues with AI-guided playbook workflows for duplicate detection, completeness assessment, cost tracking, and review. This improves data consistency, traceability, and efficiency.
+      - [[mco-summarize-fraudulent-claim-detection|Summarize fraudulent claim detection]] -- Automatically detect fraudulent claims by identifying duplicates, similar claim patterns, reused dealer images, mismatched or incomplete supporting documents, usage inconsistencies, and abnormal claim spikes.
+
+## Related
+
+- [[manufacturing-overview|Manufacturing Commercial Operations]]
+- [[manufacturing-explore|Explore Manufacturing Commercial Operations]]
+- [[manufacturing-commercial-operations-core-features|MCO core]]
+- [[mco-sls-prom-clms|Sales promotion]]
+- [[mco-sales-promotion-campaign-use-case|Sales promotion campaign use case]]
+- [[mco-sales-promotion-claim-submission|Sales promotion claim submission use case]]
+- [[mco-sales-promotion-claim-review-and-approval-use-case|Sales promotion claim review and approval use case]]
+- [[mco-rcl-clms|Recall campaign]]
+- [[mco-recall-campaign-use-case-scenario|Recall campaign use case]]
+- [[mco-recall-claim-submission-use-case|Recall claim submission use case]]
+- [[mco-recall-claim-review-and-approval|Recall claim review and approval use case]]
+- [[mco-warranty-clms|Repair claim]]
+- [[mco-repair-claim-submission-use-case|Repair claim submission use case]]
+- [[mco-repair-claim-review-and-approval-use-case|Repair claim review and approval use case]]
+- [[mco-pre-auth-request|Pre-authorization]]
+- [[additional-features|Additional features]]
+- [[mco-quality-issue-management|Quality issue management]]
+- [[mco-product-non-conformance-use-case|Product non-conformance use case]]
+- [[mco-product-quality-investigation-use-case|Product quality investigation use case]]
+- [[mco-landing-page|Manufacturing Commercial Operations landing page \(Agents or CSM/FSM configurable workspace\)]]
+- [[mco-dealer-portal|Dealer portal]]
+- [[configuring-manufacturing-foundation|Configure Manufacturing Commercial Operations]]
+- [[getting-started-mco|Getting started with Manufacturing Commercial Operations]]
+- [[install-manufacturing-commercial-operations-core|Install Manufacturing Commercial Operations]]
+- [[manufacturing-commercial-operations-plugins|Plugins installed with Manufacturing Commercial Operations]]
+- [[mco-configure-responsibility-access|Configure responsibility access]]
+- [[mco-granular-roles-and-entities|Granular roles and entities]]
+- [[set-up-additional-plugins|Set up additional requirements \(optional\)]]
+- [[mco-install-cust-ser-mgmt|Install Customer Service Management for Manufacturing Commercial Operations]]
+- [[mco-business-portal-configure|Configure the Business Portal for Manufacturing Commercial Operations]]
+- [[mco-install-som|Install Order Management for Manufacturing Commercial Operations]]
+- [[mco-install-configure-sb-providers|Install Service Exchange for Providers and Consumers for Manufacturing Commercial Operations]]
+- [[mco-setup|Set up Manufacturing Commercial Operations]]
+- [[create-labor-code|Create a labor code]]
+- [[mco-product-models|Configuring product models]]
+- [[mco-create-prod-mod|Modify a product model]]
+- [[mco-assets|Configuring assets]]
+- [[mco-create-install-base-item|Create an install base item]]
+- [[mco-related-list-intall-base|Related list for an install base item]]
+- [[mco-create-child-install-base-item|Create a child install base item]]
+- [[create-a-sold-product|Create a installed product]]
+- [[create-sold-product-covered|Create sold product or install base item for contract]]
+- [[set-up-dealer|Set up dealer]]
+- [[mco-create-dealer|Create a dealer]]
+- [[mco-create-internal-business-location|Create an internal business location]]
+- [[mco-create-channel-partner|Create a channel partner]]
+- [[adding-company-records|Adding and associating company records]]
+- [[adding-staff-members|Adding staff members]]
+- [[mco-internal-business-location|Add members to an internal business location]]
+- [[mco-add-members-to-an-channel-partner|Add members to an channel partner]]
+- [[assign-mco-roles|Assign roles]]
+- [[mco-set-up-sls-prom|Set up sales promotion]]
+- [[create-promotion-type|Create promotion type]]
+- [[mco-create-input-set|Create promotion questionnaire]]
+- [[mco-input-attributes|Create an MCO input attribute]]
+- [[mco-checklist-template|Create a checklist template]]
+- [[mco-integrating-with-other-applications|Integrating Manufacturing Commercial Operations with other applications]]
+- [[mco-fsm-integration|FSM integration]]
+- [[mco-integrate-with-fsm|Integrate with Field Service Management]]
+- [[manufacturing-using|Using Manufacturing Commercial Operations]]
+- [[mco-use-dealer-portal|Dealer management]]
+- [[mco-lookup|Look up an asset or claim by its serial number]]
+- [[mco-pre-auth-request-use|Pre-authorization request]]
+- [[mco-submit-pre-auth-request|Submit a pre-authorization request]]
+- [[repair-claim-dealer|Repair claim for the dealer]]
+- [[mco-submit-repair-claim|Submit a repair claim for warranty]]
+- [[mco-sales-promotion-dealer|Sales promotion for the dealer]]
+- [[mco-sales-promotion-single-claim|Submit a sales promotion claim]]
+- [[mco-sales-promotion-bulk-upload|Upload a bulk sales promotion claim]]
+- [[mco-qim-for-the-dealer|Quality issue management for the dealer]]
+- [[mco-report-an-issue|Report an issue]]
+- [[mco-agent-management|Agent management]]
+- [[mco-use-repair-claim|Repair claim]]
+- [[mco-create-rc-using-playbook|Create a repair claim using playbook]]
+- [[mco-create-repair-claim|Create a repair claim manually]]
+- [[mco-view-repair-cc|View a repair claim case]]
+- [[mco-approve-repair-claims|Reviewing and approving repair claims]]
+- [[mco-recall-management|Recall management]]
+- [[mco-rc-my-campaigns|Create a campaign]]
+- [[mco_importing_impacted_assets|Importing impacted assets]]
+- [[mco-campaign-tasks|Campaign tasks]]
+- [[mco-corrective-actions|Corrective actions]]
+- [[mco_corrective_action_charges|Corrective action charges]]
+- [[mco-part-requirements|Generate a part requirement]]
+- [[mco-part-availability|Create a part availability]]
+- [[mco-impacted-asset|Create an impacted asset]]
+- [[mco-recall-campaign-phases|Recall a campaign phase]]
+- [[mco_assign_impacted_asset|Assign an impacted asset]]
+- [[mco-phase-task|Adding a phase task]]
+- [[mco_recall_campaign_phases|Adding a sub-phase]]
+- [[mco_assign_unassign_impacted_assets|Assign or unassign impacted assets]]
+- [[mco_phases_sub-phases|Create a phase and sub-phase in a recall campaign]]
+- [[mco-phase-part-allocations|Create a phase part allocation]]
+- [[mco-rc-all-campaigns|View All campaigns]]
+- [[mco-rc-my-campaign-phases|Create My campaign phases]]
+- [[mco_merge_phases|Merge two or more phases]]
+- [[mco-sales-promotion|Sales promotion]]
+- [[mco-create-sales-promotion-claim-using-playbook|Create a sales promotion claim using playbook]]
+- [[mco-sls-pro-mgmt|Sales promotion management]]
+- [[mco-my-promotions|My promotions]]
+- [[mco-create-checklist|Create a checklist template]]
+- [[mco-create-applicable-prod|Create an applicable product]]
+- [[mco-create-visibility-criteria|Create a visibility criteria]]
+- [[mco-create-sls-promotion-cc|Create a sales promotion claim case]]
+- [[mco-all-promotions|View all promotions]]
+- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
+- [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]
+- [[all-cases|View sales promotion claim cases]]
+- [[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]]
+- [[mco-approve-sp-claim|Approve all claims]]
+- [[mco-reject-all-sp-claims|Reject a claims]]
+- [[mco-partially-approve-spclaims|Partially approve a claims]]
+- [[mco-agents-pre-auth-requests|Pre-authorization requests]]
+- [[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
+- [[mco-pre-auth-review|Review and approve a pre-authorization request]]
+- [[mco-product-non-conformances|Product non-conformance]]
+- [[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]]
+- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+- [[mco-product-non-conformance-case-task|Create a product non-conformance case]]
+- [[mco-root-cause-analysis-task|Create a root cause analysis]]
+- [[mco-task-cause-associations|Associating a task cause]]
+- [[mco-correction-actions|Create a correction action]]
+- [[mco-copq-expense-line|Create a CoPQ expense line]]
+- [[mco-impacted-asset-action|Impacted asset action]]
+- [[mco-containment-actions|Create a containment action]]
+- [[mco-create-work-order|Create a work order]]
+- [[mco-task-sla|Task SLA]]
+- [[mco-relationships|Create a parent-child relationship]]
+- [[mco-view-a-product-non-conformance|View a product non-conformance]]
+- [[mco-PQI-use|Product quality investigation]]
+- [[mco-create-product-quality-investigation|Create a product quality investigation]]
+- [[mco-related-list-for-pqi|Related list for quality issues]]
+- [[mco-product-quality-investigation-task|Create a product quality investigation]]
+- [[mco-stakeholders|Create a stakeholder]]
+- [[mco-corrective-action|Create a corrective action]]
+- [[mco-preventive-action|Create a preventive action]]
+- [[mco-remediation-action-plans|Remediation action plans]]
+- [[mco-create-remediation-action-plan|Create a remediation action plan]]
+- [[mco-related-list-for-remediation-action-plan|Related list for remediation action plan]]
+- [[mco-copq-financial-requests|Create a CoPQ financial request]]
+- [[mco-copq-planned-line-charge|Create a CoPQ planned line charge]]
+- [[mco-cause-action-plans|Cause action plans]]
+- [[mco-additional-workflows|Additional workflows]]
+- [[mco-use-cust-ser-mgmt|Customer Service Management for MCO]]
+- [[mco-som-using|Order Management]]
+- [[mco-business-portal-using|Using the Business Portal in Manufacturing Commercial Operations]]
+- [[invoice-ops-creating-invoice-cases-mco|Create an invoice case]]
+- [[mco-using-servicebridge-manufacturers|Service Exchange for Providers]]
+- [[using-servicebridge-mf-cons|Service Exchange for Consumers]]
+- [[manufacturing-reference|Reference]]
+- [[mco-components-installed|Components installed]]
+- [[mco-components-installed-with-other-product-workflows|Components installed with additional plugins]]
+- [[data-model|Data model]]
+- [[dealer-data-model-overview|Dealer data model]]
+- [[dealer-tables|Dealer tables]]
+- [[sales-promotion-campaign-claims|Sales promotion campaign data model]]
+- [[sales-promotion-campaign-claim-table|Sales Promotion Campaign Claim tables]]
+- [[repair-claims|Repair claims data model]]
+- [[repair-claims-tables|Repair claims tables]]
+- [[recall-claims|Recall campaign data model]]
+- [[recall-claims-table|Recall campaign tables]]
+- [[mco-quality-issue-management-data-model|Quality issue management data model]]
+- [[mco-quality-issue-management-tables|Quality issue management tables]]
+- [[manufacturing-integrate|MCO Integration APIs]]
+- [[warranty-claims-SOAP-API|Warranty Claims SOAP API]]
+- [[repair-form|Repair form]]
+- [[mco-campaign-tasks-form|Campaign tasks form]]
+- [[mco-cp-form|Channel partner form]]
+- [[mco-corrective-action-form|Corrective action form]]
+- [[mco_corrective_action_charges_form|Corrective action charges form]]
+- [[mco-claim-details-form|Claim details form]]
+- [[install-based-item-form|Install based item form]]
+- [[mco-internal-business-location-form|Internal business location form]]
+- [[mco-input-atrributes_form|MCO input attributes form]]
+- [[mco-phase-task-form|Phase task form]]
+- [[mco-recall-campaign-form|Recall campaign form]]
+- [[mco-recall-campaign-phases-form|Recall campaign phase form]]
+- [[repair-claim-form|Repair claim form]]
+- [[mco-pre-auth-form|Pre-authorization form]]
+- [[mco-pre-auth-job-details-form|Pre-authorization job details form]]
+- [[sales-promotion-form|Sales promotion form]]
+- [[mco-all-promotion-form|All promotion form]]
+- [[mco-my-promotions-form|My promotions form]]
+- [[mco-sp-bulk-upload-form|Sales promotion bulk upload form]]
+- [[mco-qim-form|Quality issue management form]]
+- [[mco-cause-action-plan-form|Cause action plan form]]
+- [[mco-containment-actions-form|Containment action form]]
+- [[mco-copq-expense-line-form|CoPQ expense line form]]
+- [[mco-copq-financial-requests-form|CoPQ financial requests form]]
+- [[mco-copq-planned-line-charge-form|CoPQ planned line charge form]]
+- [[mco-corrective-action-form-for-pqi|Corrective action form for PQI]]
+- [[mco-correction-actions-form|Correction actions form]]
+- [[mco-preventive-action-form|Preventive action form]]
+- [[mco-report-a-product-non-conformance|Report a product non-conformance]]
+- [[mco-product-non-conformance-case-form|Product details form]]
+- [[mco-product-non-conformance-case-task-form|Product non-conformance case task form]]
+- [[mco-product-quality-investigation-form|Product quality investigation form]]
+- [[mco-product-quality-investigation-task-form|Product quality investigation task form]]
+- [[mco-remediation-action-plan-form|Remediation action plan form]]
+- [[mco-root-cause-analysis-task-form|Root cause analysis task form]]
+- [[mco-stakeholders-form|Stakeholder form]]
+- [[work-order-form|Work order form]]
+- [[mco-general-form|General form]]
+- [[mco-effectiveness-form|Effectiveness form]]
+- [[mco-discuss-sidebar|Discuss form]]
+- [[mco-notes|Notes form]]
+- [[mco-resolution-information-form|Resolution information form]]
+- [[mco-domain-separation|Domain separation for MCO]]
+- [[now-assist-for-MCO|Now Assist for Manufacturing Commercial Operations]]
+- [[mco-use-agenetic-workflows|Using agentic workflows in Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+- [[mco-execute-recall-campaigns-faster-ai-wf|Execute recall campaigns faster agentic workflow]]
+- [[mco-use-generative-ai-skills|Using generative AI in Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+- [[execute-recall-campaigns|Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+- [[mco-plan-and-execute-recall-campaign-phases-and-subphases|Plan and execute recall campaign phases and sub-phases using Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+- [[mco-report-an-issue_AI|Report an issue using Now Assist for Manufacturing Commercial Operations \(MCO\)]]
+- [[mco-summarize-fraudulent-claim-detection|Summarize fraudulent claim detection using agents]]

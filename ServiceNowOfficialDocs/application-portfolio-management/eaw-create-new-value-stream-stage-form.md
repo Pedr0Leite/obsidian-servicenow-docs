@@ -1,0 +1,80 @@
+---
+title: Create value stream stage form
+description: Add a value stream stage to identify and map each activity associated with that stage of the overall value stream.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/application-portfolio-management/eaw-create-new-value-stream-stage-form.html
+release: australia
+topic_type: reference
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Enterprise Architecture Workspace reference, Enterprise Architecture Workspace, Enterprise Architecture]
+---
+
+# Create value stream stage form
+
+Add a value stream stage to identify and map each activity associated with that stage of the overall value stream.
+
+<table id="table_mss_mdj_ybc"><thead><tr><th>
+
+Field
+
+</th><th>
+
+Description
+
+</th></tr></thead><tbody><tr><td>
+
+Name
+
+</td><td>
+
+The name of the stage.
+
+</td></tr><tr><td>
+
+Value stream
+
+</td><td>
+
+The name of the value stream with which the value stream stage is associated.
+
+</td></tr><tr><td>
+
+Display name
+
+</td><td>
+
+This field is read-only.The display name of the value stream stage that is automatically generated from the value stream name and the value stream stage name after the record is saved. This field is read-only.
+
+</td></tr><tr><td>
+
+Order
+
+</td><td>
+
+The order in which this stage appears within the overall value stream.
+
+</td></tr><tr><td>
+
+Description
+
+</td><td>
+
+A brief description of the value stream stage.You can also elaborate or shorten the content in this field using Now Assist. For details, see [[elaborate-or-shorten-content-form-fields|Elaborate or shorten content in form fields]].
+
+</td></tr></tbody>
+</table>**Parent Topic:**[[eaw-reference|Enterprise Architecture Workspace reference]]
+
+**Related topics**  
+
+
+[[eaw-value-stream-stage|Exploring value stream stages]]
+
+[[eaw-add-or-edit-a-value-stream-stage|Add or edit a value stream stage]]
+
+## Related
+
+- [[elaborate-or-shorten-content-form-fields|Elaborate or shorten content in form fields]]
+- [[eaw-reference|Enterprise Architecture Workspace reference]]
+- [[eaw-value-stream-stage|Exploring value stream stages]]
+- [[eaw-add-or-edit-a-value-stream-stage|Add or edit a value stream stage]]

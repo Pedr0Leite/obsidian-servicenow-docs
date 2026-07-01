@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-10-01 13:29:01">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>pedroleite - Instance to Instance Integration</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>774c730007563010e3c6f03c7c1ed02a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>0dea0db72f3230108f98136a2799b673</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_auth_profile_basic_5410509807563010e3c6f03c7c1ed0ad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic"><sys_auth_profile_basic action="INSERT_OR_UPDATE"><name>Dev1 Credentials</name><password>+CnTDNLFlL8jGz27UOez+g==</password><sys_class_name>sys_auth_profile_basic</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 15:42:16</sys_created_on><sys_id>5410509807563010e3c6f03c7c1ed0ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dev1 Credentials</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_auth_profile_basic_5410509807563010e3c6f03c7c1ed0ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 15:42:16</sys_updated_on><username>rest.incident.a</username></sys_auth_profile_basic></record_update>]]></payload>
+<payload_hash>-1663581672</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>01ea0db72f3230108f98136a2799b674</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b832049500000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table/>
+<target_name>Dev1 Credentials</target_name>
+<type>Basic Auth Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>8e205c9c4556301004f1bf43516e43b1</update_guid>
+<update_guid_history>8e205c9c4556301004f1bf43516e43b1:-1663581672</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_9af0dc9c07563010e3c6f03c7c1ed099</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="incident"&gt;state=1^correlation_idISEMPTY^EQ&lt;item display_value="New" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/&gt;&lt;item endquery="false" field="correlation_id" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;CREATE to Dev1 instance&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+ // Add your code here
+var body = {
+"short_description": current.short_description.toString(),
+"correlation_id": current.sys_id.toString(),
+"state": current.state.toString(),
+"category": current.category.toString(),
+"work_notes":current.work_notes.getJournalEntry()
+};
+try {
+var r = new sn_ws.RESTMessageV2('Create in Dev1 instance', 'post');
+r.setRequestBody(JSON.stringify(body));
+//override authentication profile
+//authentication type ='basic'/ 'oauth2'
+//r.setAuthenticationProfile(authentication type, profile name);
+
+ //set a MID server name if one wants to run the message on MID
+//r.setMIDServer('MY_MID_SERVER');
+
+ //if the message is configured to communicate through ECC queue, either
+//by setting a MID server or calling executeAsync, one needs to set skip_sensor
+//to true. Otherwise, one may get an intermittent error that the response body is null
+//r.setEccParameter('skip_sensor', true);
+
+ var response = r.execute();
+var responseBody = response.getBody();
+var json = responseBody;
+var obj = JSON.parse(json); //define JSON parsing for the response JSON file to decode
+var foundsysID = obj.result.sys_id; //decoded dev2 newly created incident sys_id
+current.correlation_id = foundsysID; //copied the sys_id of dev2 incident to correlation id
+current.update(); //update the current incient in dev1
+
+ var httpStatus = response.getStatusCode();
+	
+//gs.log('httpStatus: ' + httpStatus, 'Pedro');
+//gs.log('responseBody: ' + JSON.stringify(responseBody), 'Pedro');
+	
+} catch (ex) {
+var message = ex.message;
+}
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-26 15:47:41&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9af0dc9c07563010e3c6f03c7c1ed099&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;CREATE to Dev1 instance&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_9af0dc9c07563010e3c6f03c7c1ed099&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-27 09:35:29&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9af0dc9c07563010e3c6f03c7c1ed099"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-259597916</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>09ea0db72f3230108f98136a2799b675</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b86f6d83b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table>incident</table>
+<target_name>CREATE to Dev1 instance</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>47c5402ce95230108e7f131bdc7691dc</update_guid>
+<update_guid_history>47c5402ce95230108e7f131bdc7691dc:-259597916,2385c8e847523010bfe3285ce6059a85:-1172144540,5b2588e8fc5230104ed7e42a540f62f2:166975716,61f4c4e8165230100a04fda32340731d:1229155087,8b640ca842523010c2934adb369dcb66:-1898120870,a124c8a8ca523010ff8dd24442a73e46:-1531746967,7cc304a85f523010eb771f3294749ab5:-178365528,3c234c2823523010ee3e9e0d9e160d91:-1531746967,891298dcf6563010a929baccfe385c88:1660718781,d561d4dca156301023070445a55628dc:1706351692</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_225054dc07563010e3c6f03c7c1ed006</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>POST</function_name><http_method>post</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Create in Dev1 instance [ POST ]</qualified_name><rest_endpoint>https://dev56781.service-now.com/api/now/table/incident</rest_endpoint><rest_message display_value="Create in Dev1 instance">e9df0c1807563010e3c6f03c7c1ed0fa</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 15:43:37</sys_created_on><sys_id>225054dc07563010e3c6f03c7c1ed006</sys_id><sys_mod_count>0</sys_mod_count><sys_name>POST</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_225054dc07563010e3c6f03c7c1ed006</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 15:43:37</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+<payload_hash>1562226889</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>0dea0db72f3230108f98136a2799b674</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b832185a60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table/>
+<target_name>POST</target_name>
+<type>HTTP Method</type>
+<update_domain>global</update_domain>
+<update_guid>f57094dcb55630101dffc8f557eedc12</update_guid>
+<update_guid_history>f57094dcb55630101dffc8f557eedc12:1562226889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_6352901007963010e3c6f03c7c1ed017</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="incident"&gt;correlation_idISNOTEMPTY^sys_updated_by!=rest.incident^EQ&lt;item endquery="false" field="correlation_id" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="false" field="sys_updated_by" goto="false" newquery="false" operator="!=" or="false" value="rest.incident"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;UPDATE to Dev1 Instance&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+    var cor = current.correlation_id;
+    var body = {
+        "short_description": current.short_description.toString(),
+        "correlation_id": current.sys_id.toString(),
+        "state": current.state.toString(),
+        "category": current.category.toString(),
+        "work_notes": current.work_notes.getJournalEntry(1)
+    };
+	
+    try {
+        var r = new sn_ws.RESTMessageV2('Create in Dev1 instance', 'PUT');
+        r.setEndpoint('https://dev56781.service-now.com/api/now/table/incident/' + cor);
+        r.setRequestBody(JSON.stringify(body));
+
+        var response = r.execute();
+        var responseBody = response.getBody();
+        var httpStatus = response.getStatusCode();
+
+        gs.log('httpStatus: ' + httpStatus, 'Pedro');
+        gs.log('responseBody: ' + JSON.stringify(responseBody), 'Pedro');
+    } catch (ex) {
+        var message = ex.message;
+    } // Add your code here															  
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-08-26 15:54:01&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6352901007963010e3c6f03c7c1ed017&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;UPDATE to Dev1 Instance&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_6352901007963010e3c6f03c7c1ed017&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-08-27 09:38:34&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=6352901007963010e3c6f03c7c1ed017"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1226964542</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>45ea0db72f3230108f98136a2799b675</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b86f9aaa00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table>incident</table>
+<target_name>UPDATE to Dev1 Instance</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>d8864c2c38523010bdf509e0bc579235</update_guid>
+<update_guid_history>d8864c2c38523010bdf509e0bc579235:-1226964542,bd760c2c7352301093621d5bc4066894:384274171,0236482cff5230101f05b0ef8dfd782f:1661442457,15c5002c5e5230101c9cd0d8fb7a25c4:1811029492,41fd3f1006123010071adce488cc6255:914408680,dea49cd0a9963010dd277917c68bfb44:1513197081,c11490d040963010650097400b942fa9:1546817668,8a0490d00696301027ceda2cbcc58015:853391460,16d2d8dcd05630109f55c30d825cc1da:-1405812744</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_e9df0c1807563010e3c6f03c7c1ed0fa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>basic</authentication_type><basic_auth_password/><basic_auth_profile display_value="Dev1 Credentials">5410509807563010e3c6f03c7c1ed0ad</basic_auth_profile><basic_auth_user/><description/><name>Create in Dev1 instance</name><oauth2_profile/><protocol_name/><rest_endpoint>https://dev56781.service-now.com/api/now/table/incident</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 15:41:25</sys_created_on><sys_id>e9df0c1807563010e3c6f03c7c1ed0fa</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Create in Dev1 instance</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_e9df0c1807563010e3c6f03c7c1ed0fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 15:45:14</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+<payload_hash>223317199</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>49ea0db72f3230108f98136a2799b674</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b832301440000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table/>
+<target_name>Create in Dev1 instance</target_name>
+<type>REST Message</type>
+<update_domain>global</update_domain>
+<update_guid>69d018dcc0563010c3e345b3a1194077</update_guid>
+<update_guid_history>69d018dcc0563010c3e345b3a1194077:223317199,872010dc1c5630104bfa944dd207b0b2:-893117808,39ffcc9cee5630109942a2996a9cca93:1095156226</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_dde2905007963010e3c6f03c7c1ed01f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile display_value="Dev1 Credentials">5410509807563010e3c6f03c7c1ed0ad</basic_auth_profile><basic_auth_user/><content/><function_name>PUT</function_name><http_method>put</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Create in Dev1 instance [ PUT ]</qualified_name><rest_endpoint>https://dev56781.service-now.com/api/now/table/incident/</rest_endpoint><rest_message display_value="Create in Dev1 instance">e9df0c1807563010e3c6f03c7c1ed0fa</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 15:55:18</sys_created_on><sys_id>dde2905007963010e3c6f03c7c1ed01f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>PUT</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_dde2905007963010e3c6f03c7c1ed01f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 16:04:19</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+<payload_hash>-705714240</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>81ea0db72f3230108f98136a2799b675</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b833479230000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table/>
+<target_name>PUT</target_name>
+<type>HTTP Method</type>
+<update_domain>global</update_domain>
+<update_guid>c5351414bd963010a6a4421d455a8e36</update_guid>
+<update_guid_history>c5351414bd963010a6a4421d455a8e36:-705714240,4d231410bc9630102de22e2593253d00:-773353658</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_c3b000a407523010e3c6f03c7c1ed0e8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="DELETE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-27 09:13:53</sys_created_on><sys_id>c3b000a407523010e3c6f03c7c1ed0e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.web_service_admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">3db000a407523010e3c6f03c7c1ed0e3</sys_security_acl><sys_update_name>sys_security_acl_role_c3b000a407523010e3c6f03c7c1ed0e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-27 09:13:53</sys_updated_on><sys_user_role display_value="web_service_admin" name="web_service_admin">8ced49cb0a0a0b8f00bd2ecf512c510b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1574101236</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>8dea0db72f3230108f98136a2799b675</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b86e69cf40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table>3db000a407523010e3c6f03c7c1ed0e3</table>
+<target_name>.web_service_admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6bb1c4e431523010fa6c44723a14447e</update_guid>
+<update_guid_history>6bb1c4e431523010fa6c44723a14447e:-1574101236,fed044a41d52301044ed24f231897fe0:1393242776</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3db000a407523010e3c6f03c7c1ed0e3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="DELETE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Allow write for records in incident, for users with role web_service_admin.</description><name>incident</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-27 09:13:53</sys_created_on><sys_id>3db000a407523010e3c6f03c7c1ed0e3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>incident</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_3db000a407523010e3c6f03c7c1ed0e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-27 09:16:58</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>256884662</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>c9ea0db72f3230108f98136a2799b675</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b86e69d740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table>incident</table>
+<target_name>incident</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>27b1c4e49c5230103290de26654df482</update_guid>
+<update_guid_history>27b1c4e49c5230103290de26654df482:256884662,8c91c0e45852301046201ce732628df9:-2064114774,6d01c0a4fc5230107200d858cda8a960:-1690376455,fed044a4f6523010588a7a02cf0d04e4:1603590075</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_rest_message_fn_7dffcc9c07563010e3c6f03c7c1ed08f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>Create in Dev1 instance [ Default GET ]</qualified_name><rest_endpoint>https://dev56781.service-now.com/</rest_endpoint><rest_message display_value="Create in Dev1 instance">e9df0c1807563010e3c6f03c7c1ed0fa</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-26 15:41:25</sys_created_on><sys_id>7dffcc9c07563010e3c6f03c7c1ed08f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_rest_message_fn_7dffcc9c07563010e3c6f03c7c1ed08f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-26 15:41:25</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+<payload_hash>-1316732651</payload_hash>
+<remote_update_set display_value="pedroleite - Instance to Instance Integration">0dea0db72f3230108f98136a2799b673</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-10-01 13:29:00</sys_created_on>
+<sys_id>cdea0db72f3230108f98136a2799b674</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17b831f83dd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-10-01 13:29:00</sys_updated_on>
+<table/>
+<target_name>Default GET</target_name>
+<type>HTTP Method</type>
+<update_domain>global</update_domain>
+<update_guid>71ffcc9c4e563010058263c96dd98092</update_guid>
+<update_guid_history>71ffcc9c4e563010058263c96dd98092:-1316732651</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

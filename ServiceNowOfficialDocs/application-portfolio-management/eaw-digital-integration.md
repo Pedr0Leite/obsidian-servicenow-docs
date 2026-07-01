@@ -1,0 +1,57 @@
+---
+title: Exploring digital integrations in Enterprise Architecture Workspace
+description: Manage all your digital integrations in the Enterprise Architecture Workspace.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/application-portfolio-management/eaw-digital-integration.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 2
+breadcrumb: [Exploring the application portfolio, Exploring Portfolio list view, Exploring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+---
+
+# Exploring digital integrations in Enterprise Architecture Workspace
+
+Manage all your digital integrations in the [[ea-workspace|Enterprise Architecture Workspace]].
+
+The digital integration functionality in Enterprise Architecture Workspace helps you to understand the business purposes for your applications, for their connection, and for their interaction. Install the Digital Integration Management \(sn\_apm\_di\) plugin from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/71e7ac97a33251109eb0cc4a66fcda0c/).
+
+You can do the following:
+
+-   Proactively identify integration issues in one location.
+-   Manage the information flows across your organization.
+-   Govern interface usage for internal and external APIs.
+
+The digital integration represents the integration between two business applications. In a typical scenario, there's a consuming business application, a provider business application, and an interface provided by the provider business application. The digital integration contains integration metadata, including name, version, type, data flow direction, middleware used, and owners.
+
+An easy form for digital integration enables the creation of a digital integration from a single page, including the introduction of a new digital interface if it doesn't exist.The digital integrations are saved in the Digital Integration \[sn\_apm\_di\_digital\_integration\] table. After you create a digital integration, a CI relationship link is created between the two business applications with the interface type. This link enables you to access the integration as part of the node map for any business application. A catalog entry is provided to request approval for a digital integration. After the request is approved, the integration gets created.
+
+The Digital Integrations page displays a list of existing digital integrations and their related information. You can access the Digital Integrations page by navigating to **Workspaces** &gt; **Enterprise Architecture Workspace** &gt; **Portfolio** &gt; **Application Portfolio** &gt; **Digital Integrations**\[Omitted image "eaw-digital-integrations.png"\] Alt text: Digital Integrations in Enterprise Architecture Workspace.
+
+-   **[[eaw-dig-intg-data-model|Digital integration management data model]]**  
+This section shows the digital integration management data model.
+
+**Parent Topic:**[[eaw-app-portfolio|Exploring the application portfolio]]
+
+**Related topics**  
+
+
+[Digital integration management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-intg-data-model.md)
+
+[[eaw-view-all-dig-integ|View all digital integrations]]
+
+[[eaw-create-digital-integ|Add or edit a digital integration in the EA Workspace]]
+
+[[eaw-assoicate-artifact-dig-intgn|Manage architectural artifacts of a digital integration in EA Workspace]]
+
+[[eaw-dig-integ-add-info-object|Associate an information object to a digital integration]]
+
+## Related
+
+- [[eaw-dig-intg-data-model|Digital integration management data model]]
+- [[eaw-app-portfolio|Exploring the application portfolio]]
+- [[eaw-view-all-dig-integ|View all digital integrations]]
+- [[eaw-create-digital-integ|eaw create digital integ]]
+- [[eaw-assoicate-artifact-dig-intgn|Manage architectural artifacts of a digital integration in EA Workspace]]
+- [[eaw-dig-integ-add-info-object|Associate an information object to a digital integration]]
+- [[ea-workspace|Enterprise Architecture Workspace]]

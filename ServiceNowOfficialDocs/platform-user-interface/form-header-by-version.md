@@ -1,0 +1,57 @@
+---
+title: Form headers for UI versions
+description: Core UI and UI15 each have a different form header that offers different navigation icons.The form header displays the title of the form \(table\) and provides several controls.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/platform-user-interface/form-header-by-version.html
+release: australia
+topic_type: concept
+last_updated: "2026-03-12"
+reading_time_minutes: 2
+breadcrumb: [Forms in the classic environment, Working in the classic environment, Working in Core UI, Configure UIs and portals, Configure user experiences]
+---
+
+# Form headers for UI versions
+
+[[c_UI16|Core UI]] and UI15 each have a different form header that offers different navigation icons.
+
+Learn about form header navigation by selecting the form header topic that corresponds to the UI version your organization uses.
+
+**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+
+## Core UI form header
+
+The form header displays the title of the form \(table\) and provides several controls.
+
+The Core UI form header includes the following controls.
+
+\[Omitted image "FormHeaderUI16.png"\] Alt text: Form header Core UI
+
+|Control|Icon|Description|
+|-------|----|-----------|
+|Back|\[Omitted image "FormBackUI15.png"\] Alt text: back icon|Navigates to the previously viewed page without saving changes.|
+|Form context menu|\[Omitted image "MenuIconUI14.png"\] Alt text: [[c_FormContextMenu|form context menu]] icon|Appears when a user clicks the menu icon beside the form title or right-clicks the form header. This menu is also called a right-click menu.|
+|Attachments|\[Omitted image "FormAttachmentsUI15.png"\] Alt text: [[attachments-configurable-workspace|attachments]] icon|Allows users to view and add attachments to the record. For more information, see [[t_AddingAnAttachment|Add and manage attachments]].|
+|Show activity stream|\[Omitted image "FormLiveFeedUI15.png"\] Alt text: show [[activity-stream-configurable-workspace|activity stream]] icon|Moves focus to the journal entry section of the form. If the journal fields are not on the form, the activity stream opens in a fly-out window.|
+|Personalize form|\[Omitted image "Personalize\_Form\_Icon\_Helsinki.png"\] Alt text: personalize form icon|Opens the form personalization menu. For more information, see [[t_PersonalizeAForm|Personalize a form]].|
+|More options\[Omitted image "IconUI16MoreOptions.png"\] Alt text: More options icon|
+|Email|\[Omitted image "FormEmailUI15.png"\] Alt text: email icon|Opens an email window.|
+|Template bar|\[Omitted image "IconToggleTemplateBar.png"\] Alt text: edit tags icon|Opens a bar at the bottom of the form and [[lists-configurable-workspace|lists]] available templates.|
+|Annotations|\[Omitted image "FormToggleAnnotUI15.png"\] Alt text: annotations icon|Displays on-form annotations. For more information, see [Administering form annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_FormAnnotation.md).|
+|Tags|\[Omitted image "FormEditTagsUI15.png"\] Alt text: edit tags icon|Displays the option to create custom tags and categorize documents. For more information, see [[c_Tags|Tags]].|
+|Remaining controls|
+|Submit or Update| |Saves changes and returns to the previously viewed page.|
+|Related actions| |Provides standard actions in the form header for some tables, such as Close Incident or Resolve Incident in incident.|
+|Delete| |Deletes the record from the list.|
+|Previous and Next|\[Omitted image "FormPreviousUI15.png"\] Alt text: previous icon \[Omitted image "FormNextUI15.png"\] Alt text: next icon|Opens the previous and next record on the list from which the record was accessed.|
+
+## Related
+
+- [[c_UsingForms|Forms in the classic environment]]
+- [[t_AddingAnAttachment|Add and manage attachments]]
+- [[t_PersonalizeAForm|Personalize a form]]
+- [[c_Tags|Tags]]
+- [[c_UI16|Core UI]]
+- [[c_FormContextMenu|Form context menu]]
+- [[attachments-configurable-workspace|Attachments]]
+- [[activity-stream-configurable-workspace|Activity stream]]
+- [[lists-configurable-workspace|Lists]]

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-02-22 21:55:30">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>The Global scope part of the Update Set Mover app</description>
+<inserted/>
+<name>Update Set Mover - Global Update Set v2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>297be8602ffd01108f98136a2799b63e</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>90c36cd62ff501108f98136a2799b607</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_route_permission_aa4409cf2f1101108f98136a2799b6d3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_route_permission"><sys_ux_route_permission action="INSERT_OR_UPDATE"><active>true</active><groups/><roles/><route display_value="Update Set Mover Informations">2e4409cf2f1101108f98136a2799b6ce</route><sys_class_name>sys_ux_route_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:41</sys_created_on><sys_id>aa4409cf2f1101108f98136a2799b6d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_route_permission_aa4409cf2f1101108f98136a2799b6d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:41</sys_updated_on><type>write</type><users>6816f79cc0a8016401c5a33be04be441</users></sys_ux_route_permission></record_update>]]></payload>
+<payload_hash>684036846</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>14c36cd62ff501108f98136a2799b608</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0d0160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name/>
+<type>UX Dashboard Route Permission</type>
+<update_domain>global</update_domain>
+<update_guid>e64409cf3e110110d05daff3252e4dd4</update_guid>
+<update_guid_history>e64409cf3e110110d05daff3252e4dd4:684036846</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_uib_screen_test_values_1644c5cf2f1101108f98136a2799b699</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config/><screen/><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:40</sys_created_on><sys_id>1644c5cf2f1101108f98136a2799b699</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_uib_screen_test_values_1644c5cf2f1101108f98136a2799b699</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:40</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+<payload_hash>-836633309</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>18c36cd62ff501108f98136a2799b607</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0cd020000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name/>
+<type>UIB Screen Test Values</type>
+<update_domain>global</update_domain>
+<update_guid>5644c5cf97110110500b0eab6825b49a</update_guid>
+<update_guid_history>5644c5cf97110110500b0eab6825b49a:-836633309</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_macroponent_9244c5cf2f1101108f98136a2799b69b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><category>page</category><component_dependencies/><composition>[ ]</composition><da_relay_models/><data>[ ]</data><dispatched_events/><extends display_value="Dashboard Template">33f0d274b7321010f1feb81cde11a969</extends><handled_events/><interactions/><interfaces/><internal_event_mappings>{ }</internal_event_mappings><layout/><macroponent_dependencies/><name>Update Set Mover Informations</name><props>[ ]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties>[ ]</state_properties><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:41</sys_created_on><sys_id>9244c5cf2f1101108f98136a2799b69b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Set Mover Informations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_macroponent_9244c5cf2f1101108f98136a2799b69b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:41</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+<payload_hash>529301631</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>50c36cd62ff501108f98136a2799b608</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0ce0e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name>Update Set Mover Informations</target_name>
+<type>UX Macroponent Definition</type>
+<update_domain>global</update_domain>
+<update_guid>aa44c5cf1b11011024595920d3820d9d</update_guid>
+<update_guid_history>aa44c5cf1b11011024595920d3820d9d:529301631</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_d07011582f0001108f98136a2799b6cd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.UpdateSetAjaxGlobal&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Various ajax functions for update sets&amp;#13;
+Update Set Mover&lt;/description&gt;&lt;name&gt;UpdateSetAjaxGlobal&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var UpdateSetAjaxGlobal = Class.create();
+
+UpdateSetAjaxGlobal.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    //Update Set Mover changes
+    setUpdateSetStateAfterCommitted: function(record) {
+        var updateSet = new GlideRecord('sys_update_set');
+        updateSet.get(record);
+        updateSet.setValue('state', 'pending'); //pending = Pending Completion on this instance
+        updateSet.setWorkflow(false);
+        updateSet.update();
+    },
+
+    buildRecords: function() {
+        //Build the Pending choice state for the sys_update_set table
+        var choice = new GlideRecord('sys_choice');
+        choice.initialize();
+        choice.setValue('name', 'sys_update_set');
+        choice.setValue('element', 'state');
+        choice.setValue('language', 'en');
+        choice.setValue('label', 'Pending Completion on This Instance');
+        choice.setValue('value', 'pending');
+        choice.setValue('sequence', 4);
+        choice.insert();
+
+        //Build the filed to mark the update sets to be ready for Prod
+        var field = new GlideRecord('sys_dictionary');
+        field.initialize();
+        field.setValue('name', 'sys_update_set');
+        field.setValue('internal_type', 'boolean');
+        field.setValue('column_label', 'Ready to move to prod?');
+        field.setValue('element', 'u_ready_to_move_to_prod');
+        field.insert();
+
+        //Build the field Complete on Prod
+        var field2 = new GlideRecord('sys_dictionary');
+        field2.initialize();
+        field2.setValue('name', 'sys_update_set');
+        field2.setValue('internal_type', 'boolean');
+        field2.setValue('column_label', 'Completed on Prod');
+        field2.setValue('element', 'u_completed_on_prod');
+        field2.setValue('read_only', 'true');
+        field2.insert();
+
+        //Build the Client Script OnLoad &amp; OnChange based on the field Ready to move to prod?
+        //Show options if US is commited on Prod
+        var clientScript1 = new GlideRecord('sys_script_client');
+        clientScript1.initialize();
+        clientScript1.setValue('name', 'Show options if US is commited on Prod');
+        clientScript1.setValue('isolate_script', 'false');
+        clientScript1.setValue('applies_extended', 'false');
+        clientScript1.setValue('active', 'true');
+        clientScript1.setValue('description', 'On Load and On Change Client script based on "Ready to move to prod?" field');
+        clientScript1.setValue('global', 'true');
+        clientScript1.setValue('type', 'onChange');
+        clientScript1.setValue('script', "function onChange(control, oldValue, newValue, isLoading, isTemplate) {    var completeOnProd = g_form.getValue('u_completed_on_prod');    var readyToMoveToProd = 'u_ready_to_move_to_prod';    if (newValue == 'false' &amp;&amp; completeOnProd == 'true') {        g_form.removeOption('state', 'pending');        g_form.setReadOnly(readyToMoveToProd, true);        return;    } else if (newValue == 'true' &amp;&amp; completeOnProd == 'false') {        g_form.addOption('state', 'complete', 'Complete', 1);        g_form.setValue('state', 'complete');        return;    } else if (newValue == 'false' &amp;&amp; completeOnProd == 'false') {        return;    }    if (newValue == 'false' &amp;&amp; completeOnProd == 'true') {        g_form.addOption('state', 'complete', 'Complete', 1);        g_form.removeOption('state', 'pending');        g_form.setReadOnly(readyToMoveToProd, true);    } else if (newValue == 'true' &amp;&amp; completeOnProd == 'false') {        g_form.addOption('state', 'complete', 'Complete', 1);        g_form.addOption('state', 'pending', 'Pending Completion on This Instance', 4);        g_form.setValue('state', 'complete');    } else if (newValue == 'false' &amp;&amp; completeOnProd == 'false') {        g_form.removeOption('state', 'complete');        g_form.setValue('state', 'pending');    }}");
+        clientScript1.setValue('ui_type', '10');
+        clientScript1.setValue('field', 'u_ready_to_move_to_prod');
+        clientScript1.setValue('sys_scope', 'global');
+        clientScript1.setValue('order', '100');
+        clientScript1.setValue('table', 'sys_update_set');
+        clientScript1.insert();
+
+        //Build the Client Script OnLoad &amp; OnChange based on the field Ready to move to prod?
+        //Update Set Mover State Options
+        var clientScript2 = new GlideRecord('sys_script_client');
+        clientScript2.initialize();
+        clientScript2.setValue('name', 'Update Set Mover State Options');
+        clientScript2.setValue('isolate_script', 'true');
+        clientScript2.setValue('applies_extended', 'true');
+        clientScript2.setValue('active', 'true');
+        clientScript2.setValue('description', 'Update Set Mover State Options depending on the instance options configurations from the Update Set Mover application.');
+        clientScript2.setValue('global', 'true');
+        clientScript2.setValue('type', 'onLoad');
+        clientScript2.setValue('script', "function onLoad() {    var ajaxGetState = new GlideAjax('x_661539_update_0.updateSetMoverUtils');    ajaxGetState.addParam('sysparm_name', 'getCurrentInstanceValue');    ajaxGetState.getXML(myCallBack);}function myCallBack(response) {    var readyForProd = g_form.getValue('u_ready_to_move_to_prod');    var completeOnProd = g_form.getValue('u_completed_on_prod');    var readyToMoveToProd = 'u_ready_to_move_to_prod';    var completeOnProdField = 'u_completed_on_prod';	    var res = response.responseXML.documentElement.getAttribute('answer');    var finalRes = JSON.parse(res);    if (finalRes.type != 'Production' &amp;&amp; finalRes.last == 'true' &amp;&amp; readyForProd == 'false' &amp;&amp; completeOnProd == 'false') {        g_form.removeOption('state', 'complete');    } else if (finalRes.type == 'Production' || finalRes.last == 'false') {        g_form.removeOption('state', 'pending');        g_form.setDisplay(readyToMoveToProd, false);        g_form.setDisplay(completeOnProdField, false);    }}");
+        clientScript2.setValue('ui_type', '10');
+        clientScript2.setValue('field', 'application');
+        clientScript2.setValue('order', '50');
+        clientScript2.setValue('sys_scope', 'global');
+        clientScript2.setValue('table', 'sys_update_set');
+        clientScript2.insert();
+
+        //Build List UI Action
+        var uiAction = new GlideRecord('sys_ui_action');
+        uiAction.initialize();
+        uiAction.setValue('list_button', 'false');
+        uiAction.setValue('client_script_v2', 'false');
+        uiAction.setValue('ui11_compatible', 'true');
+        uiAction.setValue('form_context_menu', 'false');
+        uiAction.setValue('list_context_menu', 'false');
+        uiAction.setValue('list_choice', 'true');
+        uiAction.setValue('form_link', 'false');
+        uiAction.setValue('show_update', 'true');
+        uiAction.setValue('form_style', '');
+        uiAction.setValue('action_name', 'listMarkReady');
+        uiAction.setValue('client', 'true');
+        uiAction.setValue('form_menu_button_v2', 'false');
+        uiAction.setValue('sys_scope', 'global');
+        uiAction.setValue('table', 'sys_update_set');
+        uiAction.setValue('order', '100');
+        uiAction.setValue('list_banner_button', 'false');
+        uiAction.setValue('onclick', 'listMarkReady();');
+        uiAction.setValue('active', 'true');
+        uiAction.setValue('sys_overrides', '');
+        uiAction.setValue('ui16_compatible', 'true');
+        uiAction.setValue('script', "function listMarkReady() { var list = GlideList2.get('sys_update_set'); var keyset = list.getChecked(); var answer = confirm('Do you confirm you want to mark these update sets to be ready to move to prod?''); if (answer == true) { keyset.split(',').forEach(function(record) { markSelected(record); }); location.reload(true); } else { return false; } } function markSelected(record){ var updateSet = new GlideRecord('sys_update_set'); updateSet.get(record); updateSet.setValue('u_ready_to_move_to_prod', true); updateSet.setValue('state', 'complete'); updateSet.update();}");
+        uiAction.setValue('form_button', 'false');
+        uiAction.setValue('show_insert', 'true');
+        uiAction.setValue('condition', 'new global.UpdateSetAjaxGlobal().checkIfLastInstanceBeforeProd();');
+        uiAction.setValue('form_button_v2', 'false');
+        uiAction.setValue('name', 'Mark Update Sets As Ready to Go to Prod');
+        uiAction.setValue('list_link', 'false');
+        uiAction.setValue('list_style', '');
+        uiAction.insert();
+
+    },
+
+    deleteRecords: function() {
+        var choice = new GlideRecord('sys_choice');
+        choice.addQuery('element', 'state');
+        choice.addQuery('name', 'sys_update_set');
+        choice.addQuery('value', 'pending');
+        choice.addQuery('label', 'Pending Completion on This Instance');
+        choice.query();
+
+        if (choice.next()) {
+            choice.deleteRecord();
+        }
+
+        var field = new GlideRecord('sys_dictionary');
+        field.addQuery('name', 'sys_update_set');
+        field.addQuery('column_label', 'Ready to move to prod?');
+        field.addQuery('element', 'u_ready_to_move_to_prod');
+        field.query();
+
+        if (field.next()) {
+            field.deleteRecord();
+        }
+
+        var field2 = new GlideRecord('sys_dictionary');
+        field2.addQuery('name', 'sys_update_set');
+        field2.addQuery('column_label', 'Completed on Prod');
+        field2.addQuery('element', 'u_completed_on_prod');
+        field2.query();
+
+        if (field2.next()) {
+            field2.deleteRecord();
+        }
+
+        var clientScript1 = new GlideRecord('sys_script_client');
+        clientScript1.addQuery('name', 'Update Set Mover State Options');
+        clientScript1.addQuery('table', 'sys_update_set');
+        clientScript1.query();
+
+        if (clientScript1.next()) {
+            clientScript1.deleteRecord();
+        }
+
+        var clientScript2 = new GlideRecord('sys_script_client');
+        clientScript2.addQuery('name', 'Show options if US is commited on Prod');
+        clientScript2.addQuery('table', 'sys_update_set');
+        clientScript2.query();
+
+        if (clientScript2.next()) {
+            clientScript2.deleteRecord();
+        }
+
+        var uiAction = new GlideRecord('sys_ui_action');
+        uiAction.addQuery('name', 'Mark Update Sets As Ready to Go to Prod');
+        uiAction.addQuery('action_name', 'listMarkReady');
+        uiAction.query();
+
+        if (uiAction.next()) {
+            uiAction.deleteRecord();
+        }
+    },
+
+    setReadyForProdFalseGlobal: function(sysID) {
+        try {
+            var updateSet = new GlideRecord('sys_update_set');
+            updateSet.addQuery('origin_sys_id', sysID);
+            updateSet.query();
+
+            if (updateSet.next()) {
+                updateSet.setValue('u_ready_to_move_to_prod', false);
+                updateSet.setValue('u_completed_on_prod', true);
+                updateSet.setValue('state', 'complete');
+                updateSet.update();
+            } else {
+                gs.log('setReadyForProdFalseGlobal try error, no update set found');
+            }
+
+        } catch (e) {
+            gs.log('setReadyForProdFalse Error: ' + e, 'UpdateSetAjaxGlobal');
+
+        }
+    },
+
+    checkIfLastInstanceBeforeProd: function() {
+        var currentInstance = gs.getProperty('instance_name');
+        var instanceTable = new GlideRecord('x_661539_update_0_instances');
+        instanceTable.addQuery('last_instance_before_prod', true);
+        instanceTable.query();
+        if (instanceTable.next()) {
+            return instanceTable.name == currentInstance ? true : false;
+        }
+    },
+
+    type: "UpdateSetAjaxGlobal"
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-11-21 20:13:00&lt;/sys_created_on&gt;&lt;sys_id&gt;d07011582f0001108f98136a2799b6cd&lt;/sys_id&gt;&lt;sys_mod_count&gt;67&lt;/sys_mod_count&gt;&lt;sys_name&gt;UpdateSetAjaxGlobal&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_d07011582f0001108f98136a2799b6cd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-02-22 19:14:10&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1326056434</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>54c36cd62ff501108f98136a2799b607</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17f22dafd090000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name>UpdateSetAjaxGlobal</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>55def3068a75011078b7b2fe6dde885c</update_guid>
+<update_guid_history>55def3068a75011078b7b2fe6dde885c:1326056434,170d62b87f750110281c3c3a807ac74e:1140005139,abace678b0750110146d8cf8ed342167:-702665317,6f484e601135411006c9f60484d13f0e:1585841643,2be78e60be3541103c0b9b419c74bae5:1578436893,06613560acf141105a2bc7504a624fe3:755146114,8e97e528d2b141106a10dc9e7ce86183:716965870,39522de045b1411061a392349b4c9a67:1656119031,5800ad20e5b14110c608743faacb8672:1753993118,ab9968ec4fbd011099ef5d14f24742fa:-910966068,9d756868fbbd01102fa2617c103dde3f:718514415,c91420e89dbd0110d40d92dd4941d769:-1167572206,0623e0a8cbbd0110cfa8409d08b7be89:-1568880082,b26bd06064bd0110d39d7530a6ac6880:-1345663931,2c993a9b8fb4011022986879db8fd115:1833420246,1398365b05b40110a7b59d6a2b9d317a:109972050,c267721b90b401106247e93ef1520470:1234656425,9995b657e6b40110a6e265156419abbd:150835686,b8a4765740b4011097b0b6400a49350c:-1694030348,bf99669bc9740110a78a9754bbf94a8b:-1994333217,13d236069d780110f840dcac80624a41:-343351285,9ad732ef699001108fd19d60f39d8a5a:-1165253090,322776af59900110d3fbb4fac300dcc2:-1182976978,61f6b2afee9001104a2e876348710ad2:-1106133011,668caee3059001109d93b62f931fe108:-1068780183,3705aaebcb5001107c33e690618a0e66:-1589423763,dcb3aa6bc850011068db3b3149f8f35d:1809992104,385e7a93ca980110f254041d2730d58e:-1147607067,ab79b6df81580110adcb0c9ec00a08ae:366893546,0469b6df2958011051dbf9902452668a:1898481811,21c5be9bbe58011041eaa738b7d6faff:-927056690,170229963d5441100fcc9631ef8be039:1082244454,ddd121d60c5441101ed13bc7cea56bdf:1790308293,63cb068a5d580110552e1778edb48782:-118074868,926c24827d14011040386569ff3e35c8:-634975157,3b3a2082fe140110fba07cc9d82ebbc3:-511274064,57fe41b5035001109d111a9bc0861892:-1575231059,f594c9f9591001104ce9ac9c3c5759dd:-1605435895,39340df937100110a6e124269bf13159:-1826695621,dcd3c9f979100110992e519e51f2ba96:-302761071,3fd205b9c5100110f44cf9c8b4e11494:-518555889,3a4ef50503100110622252bb212f44b0:-821177763,14fc6e08d9d00110ee986abc9d1c49c0:1544531760,d72b6a4476d00110c9f289141bf18bc6:266382416,de57e2003ed001107117e6cc80da4543:-1522589082,f133aeccc790011066457afeab3f7e07:1908736978,d8e266ccde900110389e49b905521d1b:-1104123683,0b9266ccd79001100116a993517a0585:1509486165,db2d528882900110ec700bc08956a8b7:-694972330,f4ec5e488e900110817e1c881da90d27:1066166400,348cd64816900110717bfa277e0fb4c3:-1572560992,41da5ec4ec900110fcfd3256c5a7a5f7:-694972330,30badac4259001105d14f2e76de13ee1:2146257665,284ad28461900110e6b99bd2e43a68b3:1630614352,b919d284fc900110b8c7b54910cfa87f:-1715983493,162d8fcfc48001108601397ee47ed269:1379318269,8b0dc3cf43800110c1d06867530d666c:-1761349923,286efe8357800110c6234da7e94998be:194316289,584c7e03eb8001108350056c6ba3ec10:1348320584,4515ddae6900011086fadcc74e8f7d19:2115058412,75c4112eeb000110b27e76db080cb9a2:889392619,0cf3192e76000110ab4469ec78a92b74:1393778562,7a13116e7f0001105bdb7e059fccb624:522956963,d5501d2a440001101277d3a6ddbe3341:-683016889,5c7f856ae50001102c6c75bf8a465b65:-291856054,213031e43f800110a512fb221a2f147e:244847590,be6f2564798001102ce7378b2792f07f:1572621928,907011580500011018dd7f517be62ed1:468581015</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_screen_type_1e44c5cf2f1101108f98136a2799b696</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Update Set Mover Informations</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:40</sys_created_on><sys_id>1e44c5cf2f1101108f98136a2799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Set Mover Informations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_screen_type_1e44c5cf2f1101108f98136a2799b696</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:40</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=1e44c5cf2f1101108f98136a2799b696"/></record_update>]]></payload>
+<payload_hash>1978113931</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>5cc36cd62ff501108f98136a2799b608</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0cca10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name>Update Set Mover Informations</target_name>
+<type>UX Screen Collection</type>
+<update_domain>global</update_domain>
+<update_guid>9644c5cfcf1101108bb0e00e7c78ee98</update_guid>
+<update_guid_history>9644c5cfcf1101108bb0e00e7c78ee98:1978113931</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_screen_e644c5cf2f1101108f98136a2799b69e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config/><description/><event_mappings/><macroponent display_value="Update Set Mover Informations">9244c5cf2f1101108f98136a2799b69b</macroponent><macroponent_config/><name>Update Set Mover Informations</name><order>0</order><parent_macroponent display_value="Dashboard viewport">3119f143532510102b54ddeeff7b126e</parent_macroponent><required_translations>[ ]</required_translations><screen_condition/><screen_type display_value="Update Set Mover Informations">1e44c5cf2f1101108f98136a2799b696</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e644c5cf2f1101108f98136a2799b69e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Set Mover Informations</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_screen_e644c5cf2f1101108f98136a2799b69e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:41</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=e644c5cf2f1101108f98136a2799b69e"/></record_update>]]></payload>
+<payload_hash>-1722986277</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>98c36cd62ff501108f98136a2799b608</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0ce7d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name>Update Set Mover Informations</target_name>
+<type>UX Screen</type>
+<update_domain>global</update_domain>
+<update_guid>6e44c5cfd211011003ea1debc8ad02a0</update_guid>
+<update_guid_history>6e44c5cfd211011003ea1debc8ad02a0:-1722986277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_app_route_2e4409cf2f1101108f98136a2799b6ce</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config/><description/><fields/><icon/><name>Update Set Mover Informations</name><optional_parameters/><order>0</order><parent_macroponent display_value="Dashboard viewport">3119f143532510102b54ddeeff7b126e</parent_macroponent><parent_macroponent_composition_element_id>PGx19X02X1991xXimVEbm9pPYokBTAyq5</parent_macroponent_composition_element_id><route_type>ckz2mfubn00042681kbsnc4jd</route_type><screen_type display_value="Update Set Mover Informations">1e44c5cf2f1101108f98136a2799b696</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:41</sys_created_on><sys_id>2e4409cf2f1101108f98136a2799b6ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Update Set Mover Informations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_app_route_2e4409cf2f1101108f98136a2799b6ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:41</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=2e4409cf2f1101108f98136a2799b6ce"/></record_update>]]></payload>
+<payload_hash>-175726709</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>9cc36cd62ff501108f98136a2799b607</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0cf960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name>Update Set Mover Informations</target_name>
+<type>UX App Route</type>
+<update_domain>global</update_domain>
+<update_guid>6a4409cf0c11011015a9e9b7c85d27d0</update_guid>
+<update_guid_history>6a4409cf0c11011015a9e9b7c85d27d0:-175726709</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ux_route_permission_e64409cf2f1101108f98136a2799b6d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_route_permission"><sys_ux_route_permission action="INSERT_OR_UPDATE"><active>true</active><groups/><roles/><route display_value="Update Set Mover Informations">2e4409cf2f1101108f98136a2799b6ce</route><sys_class_name>sys_ux_route_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-31 11:41:41</sys_created_on><sys_id>e64409cf2f1101108f98136a2799b6d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ux_route_permission_e64409cf2f1101108f98136a2799b6d1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-31 11:41:41</sys_updated_on><type>read</type><users/></sys_ux_route_permission></record_update>]]></payload>
+<payload_hash>-1397389635</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>d4c36cd62ff501108f98136a2799b608</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17eaff0cfe90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table/>
+<target_name/>
+<type>UX Dashboard Route Permission</type>
+<update_domain>global</update_domain>
+<update_guid>6e4409cf43110110c6af6e1f99b701d2</update_guid>
+<update_guid_history>6e4409cf43110110c6af6e1f99b701d2:-1397389635</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_5004c388c0a8016c0092cd1419fabca3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5004c388c0a8016c0092cd1419fabca3" sys_domain="global" table="sys_update_set" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c0e9e8162f9041108f98136a2799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>48e9e8162f9041108f98136a2799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c8e9e8162f9041108f98136a2799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>4ce9e8162f9041108f98136a2799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>release_date</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>cce9e8162f9041108f98136a2799b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>install_date</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>40e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>installed_from</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c0e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>44e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>application</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c4e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>48e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c8e9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>merged_to</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>4ce9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>x_661539_update_0_u_ready_to_move_to_prod</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>cce9e8162f9041108f98136a2799b6fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>40e9e8162f9041108f98136a2799b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-10 08:48:04</sys_created_on><sys_id>c0e9e8162f9041108f98136a2799b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_update_set" sys_domain="global" view="Default view">5004c388c0a8016c0092cd1419fabca3</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-10 08:48:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_update_set</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-01-23 17:33:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>5004c388c0a8016c0092cd1419fabca3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_update_set</sys_name><sys_overrides/><sys_package display_value="System Update Sets (with remote update set support)" source="com.glide.system_update_set">068aa5ba45113010c0a05206e0e0f851</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_5004c388c0a8016c0092cd1419fabca3</sys_update_name><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-01-23 17:33:13</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1966211601</payload_hash>
+<remote_update_set display_value="Update Set Mover - Global Update Set v2">90c36cd62ff501108f98136a2799b607</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-02-22 21:55:30</sys_created_on>
+<sys_id>d8c36cd62ff501108f98136a2799b607</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>17da3872a740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-02-22 21:55:30</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Update Set</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>04e92c168b9041100ddddd2ff987f501</update_guid>
+<update_guid_history>04e92c168b9041100ddddd2ff987f501:1966211601,c4e9e052d9904110b6bbf9a5b613c621:-207773396</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

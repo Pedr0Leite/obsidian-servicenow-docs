@@ -1,0 +1,58 @@
+---
+title: Survey scorecard category results
+description: The Category Results view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/servicenow-platform/r\_SurveyScorecardCategoryResults.html
+release: australia
+topic_type: reference
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [View a survey scorecard, Survey responses and results, Use surveys, Surveys, Assessments and Surveys, Exploring Service Administration, Service Administration, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+---
+
+# Survey scorecard category results
+
+The [[r_CategoryResults|Category Results]] view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
+
+Select a category from the list to display the questions from that category in the chart.
+
+This view displays responses that use the following data types:
+
+-   Checkbox
+-   Choice
+-   Likert Scale
+-   Number
+-   Template
+-   [[yes-no|Yes/No]]
+-   Multiple selection
+-   Image Scale
+-   [[numeric-scale|Numeric Scale]]
+
+**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [[c_SurveyDesigner|Survey Designer]]
+
+\[Omitted image "SrvyScoreCardCtgryRslts.png"\] Alt text: Survey category results
+
+To view details about a specific response, point to the colored bar to display the response, the number of responses, and the percentage it represents of all the responses to that question.
+
+\[Omitted image "SurveyScorecardResultDetail.png"\] Alt text: Survey scorecard category results detail
+
+**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+
+**Related topics**  
+
+
+[Survey scorecard question results]()
+
+[Survey scorecard average ratings]()
+
+[Survey scorecard history]()
+
+[Export a survey scorecard as an image]()
+
+## Related
+
+- [[t_ViewAScorecard|View a survey scorecard]]
+- [[r_CategoryResults|Category results]]
+- [[yes-no|Yes/No]]
+- [[numeric-scale|Numeric scale]]
+- [[c_SurveyDesigner|Survey designer]]

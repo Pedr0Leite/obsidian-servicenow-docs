@@ -2,34 +2,44 @@
 
 Obsidian vault and AI-navigable knowledge base for ServiceNow platform development.
 
-Combines official ServiceNow product documentation (~46,000 files) with custom curated notes from labs, support cases, and production experience.
-
-## Getting Started
-
-**`INDEX.md`** is the master navigation file. It maps every directory in the vault to a description and keyword set — use it to find the right area before diving into files.
-
-**`now-assist-ai/llms.txt`** is the LLM-optimized index for the custom knowledge section.
-
 ## Structure
 
 ```
 obsidian-servicenow-docs/
-├── INDEX.md                        # Master navigation index
-├── CLAUDE.md                       # Instructions for AI agents
-├── README.md                       # This file
 │
-├── now-assist-ai/                  # Custom knowledge (labs, cases, production)
-│   ├── llms.txt                    # LLM index for this section
-│   ├── llms_template.txt           # Template for new entries
-│   ├── ai-agents/                  # AI Agent debugging & best practices
-│   └── ai-search/                  # AI Search (AIS) behavior & tuning
+├── CLAUDE.md                     # AI agent guide (Claude, Copilot, Codex, etc.)
+├── README.md                     # This file
 │
-└── markdown/                       # Official ServiceNow documentation
-    └── <50 product areas>/         # ~46k markdown files
+├── ServiceNowOfficialDocs/       # Official ServiceNow docs, converted to markdown
+│   ├── INDEX.md                  # Master navigation index — start here
+│   ├── <product-area>/           # ~50 product directories (e.g. it-service-management/, api-reference/)
+│   ├── delta-*/                  # Per-release delta docs (Washington DC/Yokohama/Zurich → Australia)
+│   ├── roles-by-product/         # Role & permission reference by product
+│   └── now-assist-ai/            # Custom curated notes (labs, support cases, production)
+│       └── llms.txt              # LLM-optimized index for this section
+│
+└── Notion/                       # Personal Notion export (ServiceNow workspace)
+    └── ServiceNow/                # Topic folders: AI & VA, CMDB, Flow Designer, Security & ACL, etc.
 ```
 
-## Adding Notes
+## Content types
 
-1. Create a note under `now-assist-ai/<topic>/`
-2. Add an entry to `now-assist-ai/llms.txt` (copy the pattern from `llms_template.txt`)
-3. If a new topic area, add a row to `INDEX.md`
+| Location | Content |
+|----------|---------|
+| `ServiceNowOfficialDocs/<product-area>/` | Official ServiceNow product documentation, ~46,000 files |
+| `ServiceNowOfficialDocs/delta-*/` | Per-release delta docs tracking what changed between versions |
+| `ServiceNowOfficialDocs/roles-by-product/` | Role definitions and permission reference by product |
+| `ServiceNowOfficialDocs/now-assist-ai/` | Custom curated notes — not official docs |
+| `Notion/ServiceNow/` | Exported personal notes from Notion, organized by topic |
+
+## Navigation
+
+Use **`ServiceNowOfficialDocs/INDEX.md`** to find any official-docs topic without browsing directories.
+
+For custom `now-assist-ai/` content, use **`ServiceNowOfficialDocs/now-assist-ai/llms.txt`**.
+
+For personal notes, browse `Notion/ServiceNow/` by topic folder.
+
+---
+
+*Official documentation content sourced from ServiceNow. `Notion/` and `now-assist-ai/` content is independently authored.*

@@ -1,0 +1,121 @@
+---
+title: Log user impersonation
+description: Configure glide.sys.log\_impersonation to control if user-impersonating events are logged in your instance.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/platform-security/instance-security-hardening-settings/sc-log-user-impersonation.html
+release: australia
+product: Instance Security Hardening Settings
+classification: instance-security-hardening-settings
+topic_type: reference
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
+---
+
+# Log user impersonation
+
+Configure **glide.sys.log\_impersonation** to control if user-impersonating events are logged in your instance.
+
+If **glide.sys.log\_impersonation** is not set to the recommended value of **true**, then user-impersonating events are no longer logged.
+
+Ensure that the property **glide.sys.log\_impersonation** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+
+## More information
+
+<table id="table_ajc_b43_3kb"><thead><tr><th>
+
+Attribute
+
+</th><th>
+
+Description
+
+</th></tr></thead><tbody><tr><td>
+
+[[sc-configuration|Configuration]] name
+
+</td><td>
+
+**glide.sys.log\_impersonation**
+
+</td></tr><tr><td>
+
+Configuration type
+
+</td><td>
+
+System Properties \(/sys\_properties\_list.do\)
+
+</td></tr><tr><td>
+
+Data type
+
+</td><td>
+
+Boolean
+
+</td></tr><tr><td>
+
+Recommended value
+
+</td><td>
+
+true
+
+</td></tr><tr><td>
+
+Default value
+
+</td><td>
+
+&lt;none&gt;
+
+</td></tr><tr><td>
+
+Fallback value
+
+</td><td>
+
+false
+
+</td></tr><tr><td>
+
+Category
+
+</td><td>
+
+[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
+
+</td></tr><tr><td>
+
+Security risk
+
+</td><td>
+
+-   Severity score: 6.4
+-   CVSS score: Medium
+-   Security risk details: ServiceNow's automated security detections and security investigation capabilities effectiveness is reduced.
+
+</td></tr><tr><td>
+
+Dependencies and prerequisites
+
+</td><td>
+
+None
+
+</td></tr><tr><td>
+
+References
+
+</td><td>
+
+[Impersonating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ImpersonateAUser.md)
+
+</td></tr></tbody>
+</table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
+
+## Related
+
+- [[ca-system-properties|System properties]]
+- [[sc-configuration|Configuration]]

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2021-05-07 09:45:02">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Added support for CC and BCC</description>
+<inserted/>
+<name>Global Impersonator 1.1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>436fc7bddb37a4500054644a4b961952</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:01</sys_created_on>
+<sys_id>b6e5d358db807010474be14cd396194c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:01</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sys_app_module_2d2bd6192b510300be9f27b436da15eb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Email Impersonator">ac0b96192b510300be9f27b436da156b</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Email Impersonator</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e3f55c900f548b801fff8e9ce1050e52&amp;sysparm_preview=true&amp;sysparm_domain_restore=false&amp;sysparm_stack=no</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-09-18 14:03:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>2d2bd6192b510300be9f27b436da15eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Email Impersonator</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_2d2bd6192b510300be9f27b436da15eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-09-18 14:03:27</sys_updated_on><timeline_page/><title>Email Impersonator</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>929840243</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>36e55398db807010474be14cd39619d6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58a00000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>Email Impersonator</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>88145a8ca0332f00b4e3e5b5284d0b3e:929840243</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sc_cat_item_producer_e3f55c900f548b801fff8e9ce1050e52</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type/&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property/&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Email Impersonator&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner/&gt;&lt;picture/&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=e3f55c900f548b801fff8e9ce1050e52&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles&gt;snc_internal&lt;/roles&gt;&lt;save_options/&gt;&lt;save_script/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[function process_email(id) {
+	var evt = new GlideRecord('sysevent');
+	evt.initialize();
+	evt.process_on = gs.nowDateTime();
+	evt.name = "email.read";
+	evt.parm1 = id;
+	evt.insert();
+}
+
+//var ar = new GlideRecord("sys_email");
+//ar.newRecord();
+var from = producer.from;
+var to = producer.to;
+current.direct= to;
+current.received_type = "new";
+current.recipients = to;
+current.content_type = "Email Impersonator";
+current.user = from; // Add from email
+var user_id = "";
+var usr = new GlideRecord("sys_user");
+usr.addQuery("email",from);
+usr.query();
+
+if (usr.next()) {
+	
+	user_id = usr.sys_id;
+	
+} if (user_id != "") {current.user_id = user_id;}
+	gs.print("d" + user_id);
+	
+	current.subject = producer.subject;
+	current.body = producer.body;
+	
+	var htmlText = current.body.toString();
+	
+	//Replace all &lt;br /&gt; tags with a CRLF
+	var regX1 = /&lt;br\s\/&gt;/ig;
+	var text2 = htmlText.replace(regX1, String.fromCharCode(13));
+	
+	// Replace all remainging HTML tags with ""
+	var regX2 = /(&lt;([^&gt;]+)&gt;)/ig;
+	var finalText = htmlText.replace(regX2, "");
+	finalText = finalText.replace("&amp;nbsp", " ");
+	current.body_text = finalText;
+	
+	process_email(current.sys_id);
+	]]&gt;&lt;/script&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/sys_id&gt;&lt;sys_mod_count&gt;13&lt;/sys_mod_count&gt;&lt;sys_name&gt;Email Impersonator&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_e3f55c900f548b801fff8e9ce1050e52&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-09-18 14:12:54&lt;/sys_updated_on&gt;&lt;table_name&gt;sys_email&lt;/table_name&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e3f55c900f548b801fff8e9ce1050e52"/&gt;&lt;fx_price action="delete_multiple" query="id=e3f55c900f548b801fff8e9ce1050e52"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="EUR"&gt;EUR&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_id&gt;1777d0540f548b801fff8e9ce1050ee1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;pedro.leite&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-07-27 08:50:38&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="EUR"&gt;EUR&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_id&gt;5377d0540f548b801fff8e9ce1050ee3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;pedro.leite&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-07-27 08:50:38&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1097879361</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>3ae55398db807010474be14cd39619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58af0000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table>sys_email</table>
+<target_name>Email Impersonator</target_name>
+<type>Record Producer</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>c8145a8c77332f00db43acffcfe1022d:-651599247</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_de381c540f548b801fff8e9ce1050e16</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>to</name><order>20</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>To:</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2017-07-27 08:54:08</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>de381c540f548b801fff8e9ce1050e16</sys_id><sys_mod_count>1</sys_mod_count><sys_name>To:</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_de381c540f548b801fff8e9ce1050e16</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2017-07-27 08:55:27</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=de381c540f548b801fff8e9ce1050e16"/></record_update>]]></payload>
+<payload_hash>983362706</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>3ee55398db807010474be14cd39619d4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58c30000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>To:</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>80145a8c73332f00a101bafe23033e28:983362706</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_334894940f548b801fff8e9ce1050edd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>from</name><order>25</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>From:</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2017-07-27 08:54:28</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>334894940f548b801fff8e9ce1050edd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>From:</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_334894940f548b801fff8e9ce1050edd</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2017-07-27 08:55:26</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=334894940f548b801fff8e9ce1050edd"/></record_update>]]></payload>
+<payload_hash>-152168132</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>3ee5d358db807010474be14cd396194c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58940000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>From:</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>c8145a8cfc332f0061b720205c8cc223:-152168132</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sys_app_application_ac0b96192b510300be9f27b436da156b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Administration">647e6524c0a80a080010856a87e15ce2</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>itil</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-09-18 14:02:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_number/><sys_domain_path>/</sys_domain_path><sys_id>ac0b96192b510300be9f27b436da156b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Email Impersonator</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_ac0b96192b510300be9f27b436da156b</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:20:47</sys_updated_on><title>Email Impersonator</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-584322557</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>72e55398db807010474be14cd39619d6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58cb0000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>Email Impersonator</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>17c8b05daa1bab00138ca8ab67191b75</update_guid>
+<update_guid_history>17c8b05daa1bab00138ca8ab67191b75:-584322557,c1983c1d371bab0057fc1078e8eda81a:-837577476,e131a27e3ec8ff401da7933814a09c13:-584322557,08145a8c33332f00dbf90c528f590b3c:-837577476</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_fd09385ddb1bab00f6f8115e689619f3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>copied</name><order>26</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>cc</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:22:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fd09385ddb1bab00f6f8115e689619f3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>cc</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_fd09385ddb1bab00f6f8115e689619f3</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:25:29</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=fd09385ddb1bab00f6f8115e689619f3"/><fx_price action="delete_multiple" query="id=fd09385ddb1bab00f6f8115e689619f3"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="EUR">EUR</currency><field>price_if_checked</field><id>fd09385ddb1bab00f6f8115e689619f3</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="GBP">GBP</reference_currency><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:22:18</sys_created_on><sys_id>2529b45ddb1bab00f6f8115e6896199f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:22:18</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="EUR">EUR</currency><field>rec_price_if_checked</field><id>fd09385ddb1bab00f6f8115e689619f3</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="GBP">GBP</reference_currency><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:22:18</sys_created_on><sys_id>e929b45ddb1bab00f6f8115e6896199e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:22:18</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1409777224</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>76e55398db807010474be14cd39619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58ea0000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>cc</target_name>
+<type>Variable</type>
+<update_domain/>
+<update_guid>1ce93cdd441bab00dbb48f3a191ddd08</update_guid>
+<update_guid_history>1ce93cdd441bab00dbb48f3a191ddd08:1409777224,6529b45d241bab000f9597379fbae8a3:-1590808341</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_b9681c540f548b801fff8e9ce1050e1b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>body</name><order>30</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>Body:</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2017-07-27 08:54:57</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>b9681c540f548b801fff8e9ce1050e1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Body:</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_b9681c540f548b801fff8e9ce1050e1b</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2017-07-27 08:54:57</sys_updated_on><table/><tooltip/><type>23</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=b9681c540f548b801fff8e9ce1050e1b"/></record_update>]]></payload>
+<payload_hash>-451417901</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>7ae55398db807010474be14cd39619d4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58880000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>Body:</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>c0145a8cbd332f001a00774d0c6dab26:-451417901</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_fd08d0940f548b801fff8e9ce1050e7c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>subject</name><order/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>Subject: </question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2017-07-27 08:53:45</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>fd08d0940f548b801fff8e9ce1050e7c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Subject: </sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_fd08d0940f548b801fff8e9ce1050e7c</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2017-07-27 08:53:45</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=fd08d0940f548b801fff8e9ce1050e7c"/></record_update>]]></payload>
+<payload_hash>406981823</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>b2e55398db807010474be14cd39619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58180000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>Subject: </target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>40145a8c72332f0090150e64d93e9f2a:406981823</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sys_app_application_ac0b96192b510300be9f27b436da156b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Administration">647e6524c0a80a080010856a87e15ce2</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-09-18 14:02:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>ac0b96192b510300be9f27b436da156b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Email Impersonator</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_ac0b96192b510300be9f27b436da156b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-09-18 14:02:30</sys_updated_on><title>Email Impersonator</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-837577476</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>bee55398db807010474be14cd39619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58ba0000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>Email Impersonator</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history>e131a27e3ec8ff401da7933814a09c13:-584322557,08145a8c33332f00dbf90c528f590b3c:-837577476</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sys_ui_related_sc_cat_item_producer_null_27d41d870f8ccf807ef047ece1050e3f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" table="sc_cat_item_producer" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>0</position><related_list>item_option_new.cat_item</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>1abbf815db5bab00f6f8115e6896197a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>1</position><related_list>io_set_item.sc_cat_item</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>96bbf815db5bab00f6f8115e6896197b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>2</position><related_list>sc_cat_item_group_mtom.sc_cat_item</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>9abbf815db5bab00f6f8115e6896197b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>3</position><related_list>catalog_ui_policy.catalog_item</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>9ebbf815db5bab00f6f8115e6896197b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>4</position><related_list>catalog_script_client.cat_item</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>92bbf815db5bab00f6f8115e6896197c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Record Producer - Default view" name="sc_cat_item_producer" related_list="NULL" sys_domain="00d4ba68683b9000a519f2c6bc7cffe0" view="Default view">27d41d870f8ccf807ef047ece1050e3f</list_id><order_by/><position>5</position><related_list>REL:67bdac52374010008687ddb1967334ee</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_id>96bbf815db5bab00f6f8115e6896197c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Record Producer - Default view</calculated_name><filter/><name>sc_cat_item_producer</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:33:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>00d4ba68683b9000a519f2c6bc7cffe0</sys_domain><sys_domain_number/><sys_domain_path>!!#/!!&amp;/</sys_domain_path><sys_id>27d41d870f8ccf807ef047ece1050e3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record Producer - Default view</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_sc_cat_item_producer_null_27d41d870f8ccf807ef047ece1050e3f</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:33:33</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>168658896</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>f6e55398db807010474be14cd39619d6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58fb0000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table>sc_cat_item_producer</table>
+<target_name>Record Producer</target_name>
+<type>Related Lists</type>
+<update_domain>00d4ba68683b9000a519f2c6bc7cffe0</update_domain>
+<update_guid>52bbf815cc5bab0099b85799e7f80eb0</update_guid>
+<update_guid_history>52bbf815cc5bab0099b85799e7f80eb0:-1541419338,-1857569818:-1857569818</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>sc_cat_item_producer_e3f55c900f548b801fff8e9ce1050e52</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property/&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Email Impersonator&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;picture/&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=e3f55c900f548b801fff8e9ce1050e52&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles&gt;snc_internal&lt;/roles&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;script&gt;&lt;![CDATA[function process_email(id) {
+	var evt = new GlideRecord('sysevent');
+	evt.initialize();
+	evt.process_on = gs.nowDateTime();
+	evt.name = "email.read";
+	evt.parm1 = id;
+	evt.insert();
+}
+
+//var ar = new GlideRecord("sys_email");
+//ar.newRecord();
+var from = producer.from;
+var to = producer.to;
+var cc = producer.copied;
+var bcc = producer.blind_copied;
+current.cc = cc;
+current.bcc = bcc;
+current.direct= to;
+current.received_type = "new";
+current.recipients = to;
+current.content_type = "Email Impersonator";
+current.user = from; // Add from email
+var user_id = "";
+var usr = new GlideRecord("sys_user");
+usr.addQuery("email",from);
+usr.query();
+
+if (usr.next()) {
+	
+	user_id = usr.sys_id;
+	
+} if (user_id != "") {current.user_id = user_id;}
+	gs.print("d" + user_id);
+	
+	current.subject = producer.subject;
+	current.body = producer.body;
+	
+	var htmlText = current.body.toString();
+	
+	//Replace all &lt;br /&gt; tags with a CRLF
+	var regX1 = /&lt;br\s\/&gt;/ig;
+	var text2 = htmlText.replace(regX1, String.fromCharCode(13));
+	
+	// Replace all remainging HTML tags with ""
+	var regX2 = /(&lt;([^&gt;]+)&gt;)/ig;
+	var finalText = htmlText.replace(regX2, "");
+	finalText = finalText.replace("&amp;nbsp", " ");
+	current.body_text = finalText;
+	
+	process_email(current.sys_id);
+	]]&gt;&lt;/script&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/sys_id&gt;&lt;sys_mod_count&gt;15&lt;/sys_mod_count&gt;&lt;sys_name&gt;Email Impersonator&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_e3f55c900f548b801fff8e9ce1050e52&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;pedro.leite&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-01-28 09:25:06&lt;/sys_updated_on&gt;&lt;table_name&gt;sys_email&lt;/table_name&gt;&lt;template/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e3f55c900f548b801fff8e9ce1050e52"/&gt;&lt;fx_price action="delete_multiple" query="id=e3f55c900f548b801fff8e9ce1050e52"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="EUR"&gt;EUR&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="GBP"&gt;GBP&lt;/reference_currency&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_id&gt;1777d0540f548b801fff8e9ce1050ee1&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;pedro.leite&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-01-28 09:23:18&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="EUR"&gt;EUR&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;e3f55c900f548b801fff8e9ce1050e52&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="GBP"&gt;GBP&lt;/reference_currency&gt;&lt;sys_created_by&gt;pedro.leite&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 08:50:38&lt;/sys_created_on&gt;&lt;sys_id&gt;5377d0540f548b801fff8e9ce1050ee3&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;pedro.leite&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-01-28 09:23:18&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>834117841</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>fae55398db807010474be14cd39619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58e10000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table>sys_email</table>
+<target_name>Email Impersonator</target_name>
+<type>Record Producer</type>
+<update_domain/>
+<update_guid>a6c93cdd741bab00b2e044bccdd2cef5</update_guid>
+<update_guid_history>a6c93cdd741bab00b2e044bccdd2cef5:-1766945459,946974ddee1bab00342e51a5dce53d16:-738742263,85983c1d231bab006ffe92688043ed0b:-651599247,c8145a8c77332f00db43acffcfe1022d:-651599247</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>retrieved</category>
+<comments/>
+<name>item_option_new_f8e93011db5bab00f6f8115e6896195e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Email Impersonator">e3f55c900f548b801fff8e9ce1050e52</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>blind_copied</name><order>27</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>bcc</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sys_email</record_producer_table><reference/><reference_qual/><reference_qual_condition/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:26:08</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f8e93011db5bab00f6f8115e6896195e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>bcc</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>item_option_new_f8e93011db5bab00f6f8115e6896195e</sys_update_name><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:26:58</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=f8e93011db5bab00f6f8115e6896195e"/><fx_price action="delete_multiple" query="id=f8e93011db5bab00f6f8115e6896195e"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="EUR">EUR</currency><field>price_if_checked</field><id>f8e93011db5bab00f6f8115e6896195e</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="GBP">GBP</reference_currency><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:26:08</sys_created_on><sys_id>bd0af8dddb1bab00f6f8115e6896195a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:26:08</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="EUR">EUR</currency><field>rec_price_if_checked</field><id>f8e93011db5bab00f6f8115e6896195e</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="GBP">GBP</reference_currency><sys_created_by>pedro.leite</sys_created_by><sys_created_on>2019-01-28 09:26:08</sys_created_on><sys_id>f10af8dddb1bab00f6f8115e6896195a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>pedro.leite</sys_updated_by><sys_updated_on>2019-01-28 09:26:08</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1161431933</payload_hash>
+<remote_update_set display_value="Global Impersonator 1.1">b6e5d358db807010474be14cd396194c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>pedro.leite</sys_created_by>
+<sys_created_on>2021-05-07 09:45:02</sys_created_on>
+<sys_id>fee55398db807010474be14cd39619d4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1791e1d58f20000001</sys_recorded_at>
+<sys_updated_by>pedro.leite</sys_updated_by>
+<sys_updated_on>2021-05-07 09:45:02</sys_updated_on>
+<table/>
+<target_name>bcc</target_name>
+<type>Variable</type>
+<update_domain/>
+<update_guid>b13afcdd671bab003560389e13cddced</update_guid>
+<update_guid_history>b13afcdd671bab003560389e13cddced:1161431933,353af45dba1bab00f09c0ce45562d8b4:1651578820,b90af8dd471bab00b01e7fcadbbe805e:298018820</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
