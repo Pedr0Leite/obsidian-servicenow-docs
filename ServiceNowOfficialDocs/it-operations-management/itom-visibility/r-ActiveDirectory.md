@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Active Directory Domain Controller discovery

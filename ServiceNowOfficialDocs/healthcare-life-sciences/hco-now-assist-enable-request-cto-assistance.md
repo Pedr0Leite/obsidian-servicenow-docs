@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # Enable the Request care team assistance agentic workflow to create care team cases

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Machine learning solutions for Search administration, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ml
+  - search-ranking
+  - relevancy
+  - nlp
+  - type-concept
 ---
 
 # Predictive Intelligence for Contextual Search

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Read email using Microsoft Graph, Read or send emails using Microsoft Graph, Advanced email setup, Configure, Email Administration, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Configure an OAuth profile to use a client ID and secret for token generation

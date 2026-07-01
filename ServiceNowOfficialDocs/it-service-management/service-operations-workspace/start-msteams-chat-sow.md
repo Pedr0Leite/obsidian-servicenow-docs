@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-01-30"
 reading_time_minutes: 2
 breadcrumb: [ServiceNow integrations with Microsoft Teams in Service Operations Workspace, Managing IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Collaborate on a task record using Microsoft Teams in Service Operations Workspace

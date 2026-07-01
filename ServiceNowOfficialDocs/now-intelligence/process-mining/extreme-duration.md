@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting Automated improvement opportunities, Setting improvement opportunities, Use, Process Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - process-mining
+  - workflow
+  - bottlenecks
+  - analytics
+  - type-task
 ---
 
 # Configure extreme duration on nodes

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Audit Task Management, Audit Supervisor Workspace, Audit Workspace Overview, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Create a walkthrough in the Audit Workspace

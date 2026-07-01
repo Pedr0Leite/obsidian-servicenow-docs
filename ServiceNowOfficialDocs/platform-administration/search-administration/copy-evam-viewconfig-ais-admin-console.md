@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Customizing the result-card, Using AI Search Admin console, AI Search Admin console, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-task
 ---
 
 # Create a copy of an EVAM view configuration

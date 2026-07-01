@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Unified Approval Rules Overview, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create or edit approval rules

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable M2M mapping between supplier contact and suppliers, Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Verify version record

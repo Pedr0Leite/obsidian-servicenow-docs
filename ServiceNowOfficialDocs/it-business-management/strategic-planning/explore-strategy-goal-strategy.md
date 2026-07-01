@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 5
 breadcrumb: [Strategy and Goals, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-concept
 ---
 
 # Exploring Strategy and Goals in Strategic Planning Workspace

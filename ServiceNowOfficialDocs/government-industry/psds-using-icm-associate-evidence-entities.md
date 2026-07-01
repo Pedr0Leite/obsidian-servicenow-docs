@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using Evidence Management, Investigative Case Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Associate and link evidence to entities

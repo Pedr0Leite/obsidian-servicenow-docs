@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure KPI groups, Configure, Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-task
 ---
 
 # Copy a KPI group to create a new KPI group in Digital Portfolio Management

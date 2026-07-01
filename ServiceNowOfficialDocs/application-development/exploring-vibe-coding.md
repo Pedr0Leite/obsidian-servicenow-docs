@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [explore, vibe coding, AI-assisted development, conversational interface, plain language, application development, AI agents, code generation, developer experience, governance, security]
 breadcrumb: [Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Exploring agentic development

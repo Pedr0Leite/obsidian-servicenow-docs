@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-18"
 reading_time_minutes: 1
 breadcrumb: [Using Service Catalog for Enterprise Asset Management requests and flows, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Fulfilling enterprise asset requests

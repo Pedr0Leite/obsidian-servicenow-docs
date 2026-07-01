@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 3
 keywords: [employee communications, announcements, employee slate, content library]
 breadcrumb: [Employee communications, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Create an announcement

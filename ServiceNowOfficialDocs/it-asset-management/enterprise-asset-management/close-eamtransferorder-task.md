@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a transfer order in Enterprise Asset Workspace, Create and manage enterprise asset inventory, Managing enterprise asset inventory and contracts, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-task
 ---
 
 # Close transfer order line tasks in Enterprise Asset Workspace

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Unified Approvals View, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Review questionnaire to approve or reject requets

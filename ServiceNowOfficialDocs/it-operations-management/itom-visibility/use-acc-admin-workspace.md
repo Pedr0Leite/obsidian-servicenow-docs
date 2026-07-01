@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-11-10"
 reading_time_minutes: 1
 breadcrumb: [Use ITOM Infra Services Workspace, ITOM Infra Services Workspace, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-task
 ---
 
 # Use the Agent Client Collector \(ACC\) admin workspace

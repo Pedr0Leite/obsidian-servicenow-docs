@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Gen AI, Generative AI, skill, Platform workflow, Admin]
 breadcrumb: [Now Assist skills, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Now Assist skills in the Platform workflow

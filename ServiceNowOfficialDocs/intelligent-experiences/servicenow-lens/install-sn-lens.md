@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-task
 ---
 
 # Configure ServiceNow AI Lens

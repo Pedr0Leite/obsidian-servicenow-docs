@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Service Level Agreement \(SLA\) definition, Configure Service Level Agreement \(SLA\), Configuring Service Level Management, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-task
 ---
 
 # Create an SLA definition

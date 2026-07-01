@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Reference, Strategy and Goals, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-reference
 ---
 
 # Components installed with Strategy and Goals

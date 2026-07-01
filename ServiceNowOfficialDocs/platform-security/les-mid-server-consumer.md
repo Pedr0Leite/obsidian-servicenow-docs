@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Log Export Service \(LES\), Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # MID server consumer

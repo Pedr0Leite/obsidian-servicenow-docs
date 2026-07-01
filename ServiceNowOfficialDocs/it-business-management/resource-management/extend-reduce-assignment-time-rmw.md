@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [extend assignment, reduce assignment, resource assignment dates, resource management workspace]
 breadcrumb: [Using Resource Management Workspace, Use, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-task
 ---
 
 # Extend or reduce duration of an assignment

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Add applications, ServiceNow SDK, Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - sdk
+  - local-dev
+  - developer-tools
+  - typescript
+  - type-task
 ---
 
 # Create an application with the ServiceNow SDK

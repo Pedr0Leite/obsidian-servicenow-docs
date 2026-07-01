@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Discovery generic attributes, Configuring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Define CI field attributes

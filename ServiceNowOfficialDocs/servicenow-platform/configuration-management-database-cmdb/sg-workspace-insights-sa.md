@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Insights view, Explore, Service Graph Workspace, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-concept
 ---
 
 # CMDB success advisor insights dashboard in Service Graph Workspace

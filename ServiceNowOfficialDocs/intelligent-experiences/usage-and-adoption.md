@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Now Assist, genAI, Generative AI, adoption, indicators, usage, actions]
 breadcrumb: [Using Now Assist Analytics, Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Usage and adoption

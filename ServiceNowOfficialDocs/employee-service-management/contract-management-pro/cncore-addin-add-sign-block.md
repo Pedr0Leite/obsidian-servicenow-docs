@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-03"
 reading_time_minutes: 3
 breadcrumb: [Configure signatories, Add content controls, Create templates in Microsoft Word, Configure contract templates, Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts

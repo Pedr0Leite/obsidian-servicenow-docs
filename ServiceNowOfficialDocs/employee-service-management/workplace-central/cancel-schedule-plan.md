@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 1
 breadcrumb: [Working with Schedule Planning, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Cancel a schedule plan

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [BU configuration, Group contract documents, Uptake steps CM Pro]
 breadcrumb: [Configure CM Pro for your workspace, Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Group contract documents by contract type in a contract request

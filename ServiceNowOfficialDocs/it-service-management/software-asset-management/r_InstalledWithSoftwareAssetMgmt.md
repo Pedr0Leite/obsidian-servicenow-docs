@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 10
 breadcrumb: [Legacy Software Asset Management plugin Overview module, Legacy Software Asset Management plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - software
+  - itsm
+  - licenses
+  - type-reference
 ---
 
 # Installed with the legacy Software Asset Management plugin

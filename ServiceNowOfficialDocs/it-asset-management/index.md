@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: itam
 doc_type: toc
+tags:
+  - it-asset-management
 ---
 
 # Australia IT Asset Management

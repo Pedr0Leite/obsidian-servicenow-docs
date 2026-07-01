@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 9
 breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - ire
+  - integration
+  - identification
+  - type-reference
 ---
 
 # RTE operation types included within the Integration Commons for CMDB app

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Examples, Unified experience framework, SIR Workspace Orchestration, Working with Security Incident Records, Use, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 1
 breadcrumb: [Configure, Patient Support Services, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # Assign roles for Patient Support Services users

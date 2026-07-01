@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Sharing components among applications — Component libraries, Using DevOps Config, DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-task
 ---
 
 # Manage shared components in a CDM application

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Knowledge Base Articles"
+area: "Vault Root"
+source: notion-export
 tags:
   - knowledge-base
   - ai
@@ -27,6 +29,9 @@ tags:
 [Integrations](Knowledge%20Base%20Articles/Integrations%202f1c42ce9a5680b589e0dadd660e3337.md)
 
 ## Related
+- [[Integration Design - How to choose the best patter]]
+- [[Prompt Guideance]]
+- [[Enable Engagement Messenger on a website when thir]]
 
 - [[AI]]
 - [[CSM]]

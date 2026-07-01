@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Tracked analytics fields and cookies, User privacy, tracking, and consent, Configuring Usage Insights, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-reference
 ---
 
 # Usage Insights client-side storage cookies

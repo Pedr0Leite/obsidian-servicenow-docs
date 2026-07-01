@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 3
 breadcrumb: [Respond to assessments, Manage, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-task
 ---
 
 # Add a comment or work note to a question

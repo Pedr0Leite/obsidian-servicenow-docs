@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-15"
 reading_time_minutes: 1
 breadcrumb: [Activate a Now Assist skill, Use Now Assist Admin, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Configure project status generation skill in the Now Assist Admin console

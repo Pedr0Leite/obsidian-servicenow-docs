@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Add time card and log time in mobile, Mobile Time Sheets, Time Card management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - timecards
+  - time-tracking
+  - approval
+  - itbm
+  - type-task
 ---
 
 # Update time card hours for a task

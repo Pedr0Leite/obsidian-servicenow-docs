@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Read-only fields in Hardware Asset Management, Client script modifiable fields in Hardware Asset Management, Hardware Asset Management, Hardware Asset Management tables]
 breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-reference
 ---
 
 # Read-only and client script modifiable fields in HAM tables

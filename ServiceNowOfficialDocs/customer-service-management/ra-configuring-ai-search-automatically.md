@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configuring AI search, Recommended Actions configuration, Implement Intelligence, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Automatically map AI search results with guidance inputs in Recommended Actions

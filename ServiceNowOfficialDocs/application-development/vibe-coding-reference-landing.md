@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [reference]
 breadcrumb: [Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Agentic development reference

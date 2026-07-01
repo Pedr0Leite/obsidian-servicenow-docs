@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configuring CA, Continuous Authentication \(CA\), Zero Trust Access, Access Management]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Tutorial: Configure Continuous Authentication for a Data Class

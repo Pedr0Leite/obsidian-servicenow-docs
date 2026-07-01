@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI search in contract workspace, Search in contract request]
 breadcrumb: [Configure Contract Workspace, Configure additional features in CM Pro, Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Configure AI search for Contract Workspace

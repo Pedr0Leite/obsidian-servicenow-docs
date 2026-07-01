@@ -1,6 +1,8 @@
 ---
 aliases:
   - "YouTube Videos"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - widgets
@@ -17,6 +19,9 @@ tags:
 [Service Portal: Communicating between the Client Script and the Server Script of a widget](https://www.youtube.com/watch?v=sr_gqqxllRM&t=1s)
 
 ## Related
+- [[Integrations – Service Portal]]
+- [[Angular provider]]
+- [[$uibModal's open function]]
 
 - [[ServiceNow – Service Portal]]
 - [[Portals Events]]

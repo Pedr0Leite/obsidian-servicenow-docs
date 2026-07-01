@@ -11,6 +11,12 @@ last_updated: "2024-12-19"
 reading_time_minutes: 1
 keywords: [optimization accelerators, performance optimization, platform capabilities, reference]
 breadcrumb: [Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-concept
 ---
 
 # Optimization Accelerators

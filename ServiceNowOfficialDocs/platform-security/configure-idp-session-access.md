@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Tutorial: Use ZTA, Zero Trust Access, Access Management]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Configure Identity Provider attribute for Session Access

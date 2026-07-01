@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [service map, system health alerts, configuration items, core components, self-health checks, alert criticality, colored bars, critical alerts, major alerts, minor alerts, component monitoring, log ingestion process, data inputs, log sources, HLA AI Engine, Metric Base, impact visualization]
 breadcrumb: [Viewing system features and health alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Viewing Health Log Analytics system health alerts on the service map

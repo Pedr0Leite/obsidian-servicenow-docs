@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Continual Improvement Management, IT Service Management]
+tags:
+  - it-service-management
+  - cim
+  - improvements
+  - itsm
+  - metrics
+  - type-task
 ---
 
 # Create an improvement request

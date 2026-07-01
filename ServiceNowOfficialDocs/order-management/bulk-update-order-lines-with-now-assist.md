@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Now Assist for Order Management, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Manage order updates with Now Assist

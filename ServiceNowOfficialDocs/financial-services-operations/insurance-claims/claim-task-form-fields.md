@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Create an ad-hoc task on a claim, Use, Individual Life Claims, Exploring insurance claims applications, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - insurance
+  - claims
+  - fso
+  - processing
+  - type-reference
 ---
 
 # Claim Task form fields

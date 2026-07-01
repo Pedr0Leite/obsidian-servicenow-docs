@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure TRM phases, Configure EA Workspace using the Setup page, Configuring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Add or edit a TRM phase

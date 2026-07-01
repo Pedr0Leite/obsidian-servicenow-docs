@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Create a legacy scenario analysis, Enable the legacy scenario analysis flow, Legacy scenario analysis, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Create Scenario analysis form

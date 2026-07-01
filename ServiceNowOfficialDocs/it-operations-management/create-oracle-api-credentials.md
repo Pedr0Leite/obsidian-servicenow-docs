@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Oracle API credentials]
 breadcrumb: [Set up Oracle Cloud infrastructure \(OCI\) service accounts, Set up a cloud service account, Access to cloud environments for ITOM products, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-task
 ---
 
 # Create Oracle API credentials

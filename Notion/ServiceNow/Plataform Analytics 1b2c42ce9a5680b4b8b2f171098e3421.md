@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Plataform Analytics"
+area: "Vault Root"
+source: notion-export
 tags:
   - performance-analytics
   - metrics

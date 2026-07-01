@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-09"
 reading_time_minutes: 3
 breadcrumb: [Explore, Change Management, IT Service Management]
+tags:
+  - it-service-management
+  - change-management
+  - cab
+  - risk
+  - itsm
+  - type-concept
 ---
 
 # Change model management

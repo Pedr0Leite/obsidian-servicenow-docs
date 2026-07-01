@@ -7,6 +7,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms]
+tags:
+  - source-to-pay-operations
+  - s2p
+  - procurement
+  - payments
+  - fsc
+  - type-concept
 ---
 
 # Source-to-Pay Integrations glossary

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-10"
 reading_time_minutes: 5
 breadcrumb: [Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-concept
 ---
 
 # Privacy content accelerator

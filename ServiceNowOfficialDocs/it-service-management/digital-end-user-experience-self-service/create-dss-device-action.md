@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-05-15"
 reading_time_minutes: 1
 breadcrumb: [Device actions, Configure, Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-task
 ---
 
 # Create a custom device action

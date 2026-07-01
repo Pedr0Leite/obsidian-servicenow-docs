@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Integration with Change Management, Integrating Field Service Management with other applications, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - integrations
+  - mapping
+  - fsm
+  - connectors
+  - type-concept
 ---
 
 # Setting up Change Management for Field Service

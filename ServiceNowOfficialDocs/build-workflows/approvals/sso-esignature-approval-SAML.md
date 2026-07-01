@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Approval with e-signature, Classic approvals, Build workflows]
+tags:
+  - build-workflows
+  - approvals
+  - workflow
+  - authorization
+  - sign-off
+  - type-task
 ---
 
 # Use Multi-Provider SSO to set up an SSO approval for a SAML 2.0 authentication

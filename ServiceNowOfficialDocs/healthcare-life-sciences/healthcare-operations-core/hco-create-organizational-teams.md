@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up healthcare locations and healthcare organizations, Configure, Healthcare Operations Core, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - healthcare-ops
+  - core
+  - operations
+  - facilities
+  - type-task
 ---
 
 # Create organizational teams in Healthcare Operations Core

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [SPM Benchmarks, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - benchmarks
+  - spm
+  - metrics
+  - kpis
+  - type-concept
 ---
 
 # Exploring SPM Benchmarks

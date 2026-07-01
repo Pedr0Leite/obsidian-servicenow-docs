@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Configure the Tanium environment, Tanium Endpoints, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-task
 ---
 
 # Create an API token

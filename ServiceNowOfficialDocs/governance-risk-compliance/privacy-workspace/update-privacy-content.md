@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-10"
 reading_time_minutes: 3
 breadcrumb: [Privacy content accelerator, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Activate privacy content

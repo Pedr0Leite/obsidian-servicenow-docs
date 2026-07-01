@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Rescan vulnerable items and remediation tasks in the IT Remediation Workspace, Use, IT Remediation Workspace, Vulnerability Response Workspaces, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - remediation
+  - workspace
+  - security
+  - it
+  - type-task
 ---
 
 # Rescan Rapid7 vulnerable items from the Vulnerability Response workspaces

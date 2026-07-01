@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Talent Development Core application reference, Talent Development Core, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - talent
+  - skills
+  - development
+  - hr
+  - type-reference
 ---
 
 # Talent Activity Category reference

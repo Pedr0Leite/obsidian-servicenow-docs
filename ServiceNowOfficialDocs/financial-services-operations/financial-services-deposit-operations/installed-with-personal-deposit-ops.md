@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Reference, Deposit Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - deposits
+  - accounts
+  - fso
+  - banking
+  - type-reference
 ---
 
 # Components installed with Financial Services Personal Deposit Operations

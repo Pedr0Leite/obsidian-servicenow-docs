@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Submit a dispute case with Disputes intake via Virtual Agent, Use generative AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Resume a Disputes intake via Virtual Agent dispute case as a customer

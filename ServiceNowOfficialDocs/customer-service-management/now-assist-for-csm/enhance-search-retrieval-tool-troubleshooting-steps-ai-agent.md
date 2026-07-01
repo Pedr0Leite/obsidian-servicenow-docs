@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Set up the Troubleshooting steps identification AI agent, Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Configure the Troubleshooting steps identification AI agent to use the Search retrieval tool

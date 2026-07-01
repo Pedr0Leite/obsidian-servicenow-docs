@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Sales and Service API Core, Lead-to-cash foundation apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Outbound Request

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [IT Remediation Workspace, Vulnerability Response Workspaces, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - remediation
+  - workspace
+  - security
+  - it
+  - type-concept
 ---
 
 # Exploring the IT Remediation Workspace

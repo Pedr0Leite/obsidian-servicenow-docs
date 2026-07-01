@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-07"
 reading_time_minutes: 1
 breadcrumb: [Evidence Management, Investigative Case Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure terms and conditions for sign and submit in Investigative Case Management

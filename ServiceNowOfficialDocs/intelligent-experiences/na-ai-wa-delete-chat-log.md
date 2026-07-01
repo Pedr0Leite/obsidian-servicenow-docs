@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-09-05"
 reading_time_minutes: 1
 breadcrumb: [Example 3: Adaptive desktop action for web, Execute desktop actions, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Delete an AI agent chat log

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Managing RMA response orders for defective DaaS assets, Enterprise Asset Management for Providers, Industry-specific EAM solutions, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-task
 ---
 
 # Create a Return Merchandise Authorization \(RMA\) response order line for a defective Device as a Service \(DaaS\) asset

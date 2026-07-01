@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Dashboards for real-time visualization of log data, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Monitor visualized log data on a predefined dashboard in Health Log Analytics

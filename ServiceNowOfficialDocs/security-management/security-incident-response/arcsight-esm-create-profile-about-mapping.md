@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use, Set up instance, ArcSight ESM Event Ingestion integration, Security Incident Response integrations, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Mapping correlation event fields for the ArcSight ESM event ingestion integration

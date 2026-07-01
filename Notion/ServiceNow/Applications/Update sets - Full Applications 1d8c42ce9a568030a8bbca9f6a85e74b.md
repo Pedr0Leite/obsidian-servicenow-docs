@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Update sets - Full Applications"
+area: "Applications"
+source: notion-export
 tags:
   - update-sets
   - applications
@@ -19,6 +21,9 @@ tags:
 [pedroleite - Process Sync IntegrationHub.xml](Update%20sets%20-%20Full%20Applications/pedroleite_-_Process_Sync_IntegrationHub.xml)
 
 ## Related
+- [[Anonymize data]]
+- [[09 Case Study – Files]]
+- [[09 Case Study – For PPT]]
 
 - [[Update Set Mover]]
 - [[Applications]]

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Examining indicators, KPI Details, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # View contributing indicators to a formula in KPI Details

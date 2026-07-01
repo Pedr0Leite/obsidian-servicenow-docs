@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 2
 breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Perform full data migration

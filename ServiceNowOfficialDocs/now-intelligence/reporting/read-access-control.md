@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Report\_view access control, Administering reports, Reporting, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - reports
+  - builder
+  - scheduling
+  - analytics
+  - type-concept
 ---
 
 # Report execution security

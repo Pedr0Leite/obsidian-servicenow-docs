@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Threat Event, Threat Entities, TISC Library Repository, Threat Intelligence Security Center Library, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Define Threat Event

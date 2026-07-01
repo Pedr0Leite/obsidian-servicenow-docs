@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [scan assets, scan multiple assets, multi scan inventory audit]
 breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Complete multi scan inventory audit using the ServiceNow Agent app

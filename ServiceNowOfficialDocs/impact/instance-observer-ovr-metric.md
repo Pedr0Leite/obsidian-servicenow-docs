@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Instance Observer reference, Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Overview of Instance Observer metrics

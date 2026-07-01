@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Create CI types for Service Mapping and Discovery

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Generate project summary, Now Assist skill, Now Assist, Gen AI, Generative AI, Email project summary, Strategic Portfolio Management, SPM]
 breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Schedule the project insights email

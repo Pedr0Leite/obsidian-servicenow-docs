@@ -9,6 +9,9 @@ last_updated: "2025-05-04"
 reading_time_minutes: 3
 keywords: [Change Advisory Board, CAB, Change Management, guided setup, CAB configuration, CAB members, CAB schedule, approval policy]
 breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller experience in Simplified IT Service Management, Configure integrations and ITSM experiences in Simplified IT Service Management, Configure and integrate, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-task
 ---
 
 # Configure Change Advisory Board for Simplified Change Management

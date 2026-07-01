@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 6
 keywords: [firewall, agentic workflow, Now Assist, Panorama, firewall, agentic workflow, Now Assist, rule request, firewall, approval, rule request, device group, firewall, implementation, Panorama, change management]
 breadcrumb: [Using Firewall Audits and Reporting, Firewall Audits and Reporting, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Firewall rule requests using agentic workflows

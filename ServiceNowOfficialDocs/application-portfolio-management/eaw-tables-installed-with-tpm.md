@@ -8,6 +8,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate the Technology Portfolio Management \(TPM\) plugin, Configure Technology Portfolio Management, Configure EA Workspace using the Setup page, Configuring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-reference
 ---
 
 # Tables installed with TPM in the EA Workspace

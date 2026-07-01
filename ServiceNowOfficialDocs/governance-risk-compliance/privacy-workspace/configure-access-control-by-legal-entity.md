@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-11-27"
 reading_time_minutes: 3
 breadcrumb: [Access control by legal entity, Use, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-concept
 ---
 
 # Configuring access control

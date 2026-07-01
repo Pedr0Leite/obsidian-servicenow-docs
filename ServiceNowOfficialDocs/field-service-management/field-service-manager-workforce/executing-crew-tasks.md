@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using Crew operations, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-concept
 ---
 
 # Managing crew tasks using the Now Mobile Agent application

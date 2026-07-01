@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Working with ArchiMate Shapes

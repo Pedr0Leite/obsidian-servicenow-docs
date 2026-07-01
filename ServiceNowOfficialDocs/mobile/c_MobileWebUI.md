@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Access instances on mobile web browser, Using the mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Mobile web UI

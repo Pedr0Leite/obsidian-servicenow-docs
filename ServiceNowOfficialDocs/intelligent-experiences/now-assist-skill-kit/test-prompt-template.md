@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-09-16"
 reading_time_minutes: 2
 breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-task
 ---
 
 # Test a prompt

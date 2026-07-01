@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Auto-creation of cases, Use, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-task
 ---
 
 # Setting major case threshold for auto generated cases

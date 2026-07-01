@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Managing custom tables and apps, Subscription Management, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # Grandfathered and exempted tables

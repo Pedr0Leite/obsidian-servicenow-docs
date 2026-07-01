@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Script Debugger, Debugging scripts, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-task
 ---
 
 # Evaluate expressions in runtime using Console

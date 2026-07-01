@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # AI in Hardware Asset Management

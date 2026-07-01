@@ -9,6 +9,9 @@ last_updated: "2026-03-23"
 reading_time_minutes: 2
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Use agentic AI in Now Assist for Vault

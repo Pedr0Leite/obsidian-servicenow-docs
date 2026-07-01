@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a contract, Contracts, Contract Management use, Contract Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - contracts
+  - renewals
+  - entitlements
+  - itam
+  - type-task
 ---
 
 # Add a configuration item to a contract

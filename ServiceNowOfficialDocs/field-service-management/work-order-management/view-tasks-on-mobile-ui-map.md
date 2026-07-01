@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing tasks, Execute from the agent map, Execute work order tasks, Updating task status, Completing work orders on the web interface, Use, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-task
 ---
 
 # View task information on the classic mobile UI map

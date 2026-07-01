@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Access control, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]

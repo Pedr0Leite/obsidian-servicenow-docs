@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-29"
 reading_time_minutes: 1
 breadcrumb: [Grants Management reference, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # Grants Management App Dependencies

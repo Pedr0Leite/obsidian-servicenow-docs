@@ -12,6 +12,13 @@ reading_time_minutes: 2
 keywords: [Insights and Opportunities, incident, dashboard, ITSM, Service Operations Workspace, analytics, SLA, sentiment, incident trends, reassignment]
 audience: user
 breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-concept
 ---
 
 # Insights and Opportunities for Incident dashboard

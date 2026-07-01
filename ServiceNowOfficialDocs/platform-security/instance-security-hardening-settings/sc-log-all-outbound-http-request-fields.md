@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Log all outbound http request fields \[Removed in Security Center v1.3.2\]

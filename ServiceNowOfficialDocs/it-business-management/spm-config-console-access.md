@@ -10,6 +10,9 @@ reading_time_minutes: 1
 keywords: [Strategic Portfolio Management, SPM, Now Assist for Setup, Admin Home, Admin Center, configuration console, setup console, portfolio management setup]
 audience: administrator
 breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Access Setup Hub \(SPM\)

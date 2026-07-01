@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 2
 breadcrumb: [Integrating ServiceNow Voice with CSM, Integrating Voice with other applications, ServiceNow Voice, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-task
 ---
 
 # Install ServiceNow Voice for CSM

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Share Threat Intelligence data between TISC instances, Administer, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-concept
 ---
 
 # Sharing intelligence using TAXII Server

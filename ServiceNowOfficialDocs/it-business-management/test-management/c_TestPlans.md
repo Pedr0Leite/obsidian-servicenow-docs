@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up the manual testing process, Test Management 1.0, Test Management applications, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - test-management
+  - qa
+  - defects
+  - itbm
+  - type-concept
 ---
 
 # Test plans

@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 2
 keywords: [Security Exposure Management Workspace, user management, group management, role assignment, explicit roles, Security Exposure Management]
 breadcrumb: [Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Configure users and groups in Security Exposure Management Workspace

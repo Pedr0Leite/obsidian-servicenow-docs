@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Splunk Enterprise Event Ingestion integration for Security Operations by ServiceNow, Security Incident Response integrations, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration

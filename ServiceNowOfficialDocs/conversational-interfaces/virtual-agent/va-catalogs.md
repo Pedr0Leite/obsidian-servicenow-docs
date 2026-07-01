@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [virtual agent, catalogs, autopilot, requested, item, RITM, web, client, live agent]
 breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Using catalogs and autopilot in Virtual Agent

@@ -9,6 +9,12 @@ last_updated: "2026-02-27"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Configure, Now Assist for Order Management, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Configure the invoice quantity validation extension point

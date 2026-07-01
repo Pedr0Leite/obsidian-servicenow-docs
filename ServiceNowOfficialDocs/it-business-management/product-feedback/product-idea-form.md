@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Form field information for Feedback application, Feedback reference, Feedback application in Strategic Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - feedback
+  - product
+  - management
+  - itbm
+  - type-reference
 ---
 
 # Product idea form

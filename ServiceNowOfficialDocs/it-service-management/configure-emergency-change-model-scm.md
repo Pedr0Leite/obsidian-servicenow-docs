@@ -9,6 +9,9 @@ last_updated: "2026-05-18"
 reading_time_minutes: 3
 keywords: [Emergency change model, emergency change submitters, change notifications]
 breadcrumb: [Configure change models, Configuring Simplified Change Management, Configuring the fulfiller experience in Simplified IT Service Management, Configure integrations and ITSM experiences in Simplified IT Service Management, Configure and integrate, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-task
 ---
 
 # Configure the Emergency change model

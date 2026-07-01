@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring the documentation section, General administration setup for BCM, Configure, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Configure documentation section

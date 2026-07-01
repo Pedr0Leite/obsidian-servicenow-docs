@@ -11,6 +11,13 @@ last_updated: "2026-05-01"
 reading_time_minutes: 4
 keywords: [explore, SBOM, software bill of materials, third-party risk, due diligence]
 breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-concept
 ---
 
 # Exploring software bill of materials collection

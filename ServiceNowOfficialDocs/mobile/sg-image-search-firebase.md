@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure photo search, Mobile photo search, Global search, Launcher screens, Mobile app components, Building mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Create a Firebase account

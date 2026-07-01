@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 2
 keywords: [PDR location configuration, jurisdictions privacy request]
 breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights \(PDR\), Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Configure jurisdictions for the external-facing Personal Data Rights form

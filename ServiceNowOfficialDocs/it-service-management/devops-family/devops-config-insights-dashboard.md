@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-concept
 ---
 
 # Analytics and reporting using the DevOps Config Insights dashboard

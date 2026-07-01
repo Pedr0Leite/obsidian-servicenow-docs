@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Auto-Responder notifications, Machine learning solutions, Implement Intelligence, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Include cases logged using specified communication channels in Auto-Responder notifications

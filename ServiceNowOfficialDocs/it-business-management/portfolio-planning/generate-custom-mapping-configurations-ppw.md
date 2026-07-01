@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Portfolio Planning with PPM, Configure, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-concept
 ---
 
 # Create custom mapping configurations

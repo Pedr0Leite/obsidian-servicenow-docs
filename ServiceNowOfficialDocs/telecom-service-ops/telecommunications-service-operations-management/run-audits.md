@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Use, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-task
 ---
 
 # Run Telecom Discrepancy audit

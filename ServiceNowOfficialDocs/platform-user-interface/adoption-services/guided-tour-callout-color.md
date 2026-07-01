@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Guided Tours reference, Guided Tours, Adoption services, Configure user experiences]
+tags:
+  - platform-user-interface
+  - adoption
+  - onboarding
+  - guided-setup
+  - ui
+  - type-reference
 ---
 
 # Guided Tour callout color

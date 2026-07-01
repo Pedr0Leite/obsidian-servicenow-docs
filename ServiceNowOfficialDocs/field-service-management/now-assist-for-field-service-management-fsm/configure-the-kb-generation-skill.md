@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-task
 ---
 
 # Configure the KB generation skill

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 3
 breadcrumb: [MID-less log streaming, MID-less integrations, Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Set up log streaming via ITOM Gateway for Health Log Analytics

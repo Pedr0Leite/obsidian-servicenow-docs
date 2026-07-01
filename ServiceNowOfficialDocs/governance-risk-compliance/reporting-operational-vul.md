@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 2
 breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Reporting Operational vulnerability

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Cloud License Estimator, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-licensing
+  - cost
+  - estimation
+  - finops
+  - type-concept
 ---
 
 # Exploring Cloud License Estimator

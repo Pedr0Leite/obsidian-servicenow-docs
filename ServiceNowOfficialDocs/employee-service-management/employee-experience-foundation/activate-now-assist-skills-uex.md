@@ -11,6 +11,13 @@ last_updated: "2026-04-27"
 reading_time_minutes: 2
 keywords: [generative AI for Employee Center, generative AI for UEX, configuration]
 breadcrumb: [Configure, Now Assist for Employee Experience, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Activate Now Assist for Employee Experience skills

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-SCCM, SGC-Microsoft SCCM, SGC SCCM, SGC Microsoft SCCM, SGC for SCCM, SGC for Microsoft SCCM, SCCM SGC, Microsoft SCCM SGC, Service Graph Connector for SCCM, Service Graph Connector for Microsoft SCCM, SCCM connection details, SCCM connection, common connection framework, CCF, SGC-SCCM, SGC-Microsoft SCCM, SGC SCCM, SGC Microsoft SCCM, SGC for SCCM, SGC for Microsoft SCCM, SCCM SGC, Microsoft SCCM SGC, Service Graph Connector for SCCM, Service Graph Connector for Microsoft SCCM, SCCM connection details, SCCM connection, common connection framework, CCF]
 breadcrumb: [Microsoft SCCM, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for Microsoft SCCM

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Understand Security Incident Response Orchestration workflows and workflow templates, Security Incident Response Orchestration, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Security Incident Response workflow templates

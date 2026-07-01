@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Working with Internal Intelligence Records, Observables, TISC Library Repository, Threat Intelligence Security Center Library, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # View Internal Intelligence Records

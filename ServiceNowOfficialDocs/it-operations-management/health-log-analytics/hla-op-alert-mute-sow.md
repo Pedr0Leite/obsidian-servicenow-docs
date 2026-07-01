@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Assign higher or lower significance to an alert, Controlling alert generation, prioritization, and anomaly detection, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Mute an unimportant alert in Health Log Analytics

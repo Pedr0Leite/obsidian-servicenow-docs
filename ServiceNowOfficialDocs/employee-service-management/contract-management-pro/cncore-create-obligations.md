@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Recurring obligation task, Recurring schedule]
 breadcrumb: [Obligation Management, Use, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Create obligation records

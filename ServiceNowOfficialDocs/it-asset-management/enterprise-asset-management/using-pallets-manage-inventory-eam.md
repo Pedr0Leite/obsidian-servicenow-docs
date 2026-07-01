@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Create pallet assets in the Enterprise Asset Workspace, Create and manage enterprise assets, Managing enterprise models and assets, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Using pallet assets to manage your asset inventory in the Enterprise Asset Workspace

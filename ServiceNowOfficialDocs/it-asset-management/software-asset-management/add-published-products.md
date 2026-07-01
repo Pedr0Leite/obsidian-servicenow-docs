@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage phase-wise Software Asset Management implementation, Using Software Asset Workspace, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-task
 ---
 
 # Publish a specific set of your software products

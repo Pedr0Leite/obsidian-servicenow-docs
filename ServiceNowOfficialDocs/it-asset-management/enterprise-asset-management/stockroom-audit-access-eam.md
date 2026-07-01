@@ -11,6 +11,13 @@ last_updated: "2026-03-31"
 reading_time_minutes: 1
 keywords: [Stockroom audit in EAM, Audit roles in EAM]
 breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise asset inventory and contracts, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Stockroom audit access by role

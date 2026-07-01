@@ -11,6 +11,13 @@ last_updated: "2026-03-18"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Explore, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # AI in Enterprise Asset Management

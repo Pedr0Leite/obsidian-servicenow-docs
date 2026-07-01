@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Raising requests, Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Ask a question using the supplier catalog

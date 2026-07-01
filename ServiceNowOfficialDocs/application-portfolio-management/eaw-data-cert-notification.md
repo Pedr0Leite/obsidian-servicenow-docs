@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-05-15"
 reading_time_minutes: 2
 breadcrumb: [Working with data certification, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Data certification task notifications

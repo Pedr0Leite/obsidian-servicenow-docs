@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - cases
+  - investigation
+  - type-concept
 ---
 
 # Universal Request for Health and Safety cases

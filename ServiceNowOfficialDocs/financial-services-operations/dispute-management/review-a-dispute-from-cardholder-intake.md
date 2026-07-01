@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-task
 ---
 
 # Review a dispute from portal or workspace intake

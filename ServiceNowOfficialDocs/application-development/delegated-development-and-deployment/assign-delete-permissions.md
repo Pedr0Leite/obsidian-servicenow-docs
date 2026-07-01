@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Delegated Development, Planning your application, Building applications]
+tags:
+  - application-development
+  - delegated-dev
+  - deployment
+  - pipeline
+  - governance
+  - type-task
 ---
 
 # Assign delete permissions

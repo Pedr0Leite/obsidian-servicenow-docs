@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 13
 breadcrumb: [Using Planning console - Legacy, Using Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-reference
 ---
 
 # Planning console tasks

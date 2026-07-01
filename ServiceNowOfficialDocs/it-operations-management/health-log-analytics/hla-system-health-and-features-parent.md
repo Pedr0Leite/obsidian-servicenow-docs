@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [system features, health alerts, core components, service map, configuration items, feature settings, system health monitoring, component model, feature activation, health status]
 breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Viewing system features and system health alerts in Health Log Analytics

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install Collaboration Services for Task Communications Management, Task Communications Management plugins, Task Communications Management, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - task-comms
+  - email
+  - templates
+  - bulk
+  - type-reference
 ---
 
 # Components installed with Collaboration Services for Task Communications Management

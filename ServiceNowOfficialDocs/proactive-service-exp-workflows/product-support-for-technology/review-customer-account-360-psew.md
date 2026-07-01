@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Review customer or partner accounts, Use, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-task
 ---
 
 # Review an account by using the 360 View in Proactive Service Experience Workflows

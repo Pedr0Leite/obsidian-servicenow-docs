@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Create bubble report, Create bubble visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a bubble data visualization in the Visualization Designer

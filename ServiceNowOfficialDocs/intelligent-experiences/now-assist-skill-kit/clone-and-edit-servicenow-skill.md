@@ -11,6 +11,13 @@ last_updated: "2026-04-30"
 reading_time_minutes: 2
 keywords: [clone, clone skill, Now Assist Skill Kit]
 breadcrumb: [Create a skill, Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-task
 ---
 
 # Clone a skill

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-02-17"
 reading_time_minutes: 2
 breadcrumb: [Analyzing assistants, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-concept
 ---
 
 # Related dashboards page

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Virtual Agent Designer, Application scope, Unified navigation, Globe icon, Virtual Agent topic]
 breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Change the application scope for Virtual Agent Designer topics

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate HR Service Delivery for mobile, HR Service Delivery for mobile, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - mobile
+  - app
+  - hr
+  - type-reference
 ---
 
 # Components installed with Now Mobile for HR Service Delivery

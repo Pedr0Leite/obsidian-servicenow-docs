@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Outlook Actionable Messages"
+area: "Email"
+source: notion-export
 tags:
   - email
   - outlook

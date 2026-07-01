@@ -11,6 +11,13 @@ last_updated: "2026-04-22"
 reading_time_minutes: 1
 keywords: [Remove user from EM admin role, evt\_mgmt\_admin]
 breadcrumb: [Install Discovery, Configure Event Management using Setup Hub, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-task
 ---
 
 # Remove user from Discovery admin role

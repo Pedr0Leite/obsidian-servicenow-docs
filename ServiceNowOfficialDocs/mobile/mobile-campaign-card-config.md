@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Displaying campaigns, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Configure the details for the appearance of cards for a mobile campaign

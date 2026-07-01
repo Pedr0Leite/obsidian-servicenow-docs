@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up the Operational Technology Visibility dashboard, Configure, Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-task
 ---
 
 # Review the indicator sources for a large number of records

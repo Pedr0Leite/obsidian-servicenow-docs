@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Install Now Assist plugins, Configuring Now Assist Admin features, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist suite versions

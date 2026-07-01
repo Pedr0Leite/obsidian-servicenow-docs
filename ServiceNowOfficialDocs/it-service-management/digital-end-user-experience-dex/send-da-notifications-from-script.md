@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-05"
 reading_time_minutes: 1
 breadcrumb: [Customizing Desktop Assistant notifications using API parameters, Set up Desktop Assistant, Configure, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-task
 ---
 
 # Send a Desktop Assistant notification from server-side script

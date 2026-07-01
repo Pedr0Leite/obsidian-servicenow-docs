@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Customizing the sales process dashboard, Lead-to-Cash Process Management, Order operations apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Customize details displayed on node map tiles using a decision table

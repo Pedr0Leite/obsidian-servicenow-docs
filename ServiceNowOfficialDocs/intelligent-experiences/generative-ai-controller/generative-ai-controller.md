@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Gen AI, Generative AI, LLM, Large language model]
 breadcrumb: [Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - generative-ai
+  - controller
+  - llm
+  - prompts
+  - type-reference
 ---
 
 # Generative AI Controller

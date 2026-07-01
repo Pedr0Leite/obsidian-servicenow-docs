@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 6
 breadcrumb: [Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # How the ServiceNow AI Platform works

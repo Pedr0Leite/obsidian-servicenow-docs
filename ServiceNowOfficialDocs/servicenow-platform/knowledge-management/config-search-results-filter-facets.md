@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledge Management Service Portal, Configuring Knowledge Management, Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - knowledge-management
+  - kb
+  - articles
+  - search
+  - type-task
 ---
 
 # Configure filter facet widget instance options

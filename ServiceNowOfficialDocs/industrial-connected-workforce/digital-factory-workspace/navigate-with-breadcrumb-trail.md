@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 1
 keywords: [breadcrumb, functional location, equipment model, navigation]
 breadcrumb: [Functional location vertical navigation, Operational Equipment Model, Industrial Data Models, Use, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-task
 ---
 
 # Navigate the equipment model with the breadcrumb trail

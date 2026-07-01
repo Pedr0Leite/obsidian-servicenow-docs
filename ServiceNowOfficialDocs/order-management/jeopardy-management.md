@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-26"
 reading_time_minutes: 3
 breadcrumb: [Order management, Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Jeopardy Management

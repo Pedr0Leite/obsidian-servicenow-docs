@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 6
 breadcrumb: [Single score visualization, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Single score data visualization example

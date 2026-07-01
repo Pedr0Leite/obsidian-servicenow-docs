@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [View information in a security incident, Managing security incidents and inbound requests, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-task
 ---
 
 # View enrichment data for a security incident

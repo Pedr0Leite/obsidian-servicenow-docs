@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Security Operations Carbon Black Integration - Isolate Host Flow, Security Operations Integration- Isolate Host capability, Integration capabilities, Security Operations Integration Reference, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Set Network Isolation Enabled activity

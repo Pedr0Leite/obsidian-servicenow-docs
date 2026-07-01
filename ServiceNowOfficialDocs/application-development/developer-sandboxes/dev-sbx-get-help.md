@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-04-14"
 reading_time_minutes: 1
 breadcrumb: [Explore, Developer Sandboxes, Developing your application, Building applications]
+tags:
+  - application-development
+  - sandbox
+  - developer-environment
+  - isolation
+  - type-concept
 ---
 
 # Get help with Developer Sandboxes

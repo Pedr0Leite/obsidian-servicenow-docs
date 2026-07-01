@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Purchase lines, Sourcing and Purchasing Automation, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-reference
 ---
 
 # Cost allocations

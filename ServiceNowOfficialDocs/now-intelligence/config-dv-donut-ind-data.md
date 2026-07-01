@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Pie and donut visualizations, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Indicator data options for pie and donut visualizations

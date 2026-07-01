@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data Relationships Framework, Reference, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Create a main node configuration record

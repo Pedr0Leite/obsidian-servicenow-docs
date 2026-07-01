@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Return Merchandise Authorization Case Management, Order operations, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Return Merchandise Authorization case line table fields

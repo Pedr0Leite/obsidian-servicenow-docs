@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage control objectives and policies, Use, GRC Compliance workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - workspace
+  - grc
+  - oversight
+  - type-task
 ---
 
 # Deactivate a control objective using the Compliance Workspace

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [employee center vs employee center pro, ec vs ec pro, employee center employee center pro, difference between employee center and employee center pro, employee center pro]
 breadcrumb: [Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Exploring Employee Center Pro

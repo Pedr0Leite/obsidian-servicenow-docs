@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-28"
 reading_time_minutes: 11
 breadcrumb: [Event Management setup, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-reference
 ---
 
 # Event Management configuration preferences

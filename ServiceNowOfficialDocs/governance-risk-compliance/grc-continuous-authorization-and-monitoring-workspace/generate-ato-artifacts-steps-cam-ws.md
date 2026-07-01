@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [ATO artifacts for an authorization package, Continuous authorization and monitoring tasks in the CAM Workspace, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-authorization
+  - fedramp
+  - grc
+  - monitoring
+  - type-task
 ---
 
 # Generate ATO artifacts

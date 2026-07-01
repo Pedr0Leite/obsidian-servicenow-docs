@@ -9,6 +9,9 @@ last_updated: "2025-04-27"
 reading_time_minutes: 5
 keywords: [BCM, import, export, Excel, event task, bulk update]
 breadcrumb: [Importing and exporting event tasks in Microsoft Excel, Structured workflows for Exercises, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Export data into Microsoft Excel and update the file

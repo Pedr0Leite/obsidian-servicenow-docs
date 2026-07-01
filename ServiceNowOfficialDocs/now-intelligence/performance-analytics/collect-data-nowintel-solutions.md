@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Platform Analytics solutions, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-concept
 ---
 
 # Collect data for Platform Analytics Solutions

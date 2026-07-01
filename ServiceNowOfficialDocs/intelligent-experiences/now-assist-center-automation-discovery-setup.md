@@ -9,6 +9,9 @@ last_updated: "2026-06-03"
 reading_time_minutes: 1
 keywords: [AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Configure, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Set up automation opportunity discovery in Now Assist Center

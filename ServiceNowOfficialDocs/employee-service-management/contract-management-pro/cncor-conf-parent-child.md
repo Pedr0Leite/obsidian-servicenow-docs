@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Contract request linking, Configure parent-child contract linking, Configure parent-child field mapping, Contract request parent-child field mapping, Contract parent-child field mapping]
 breadcrumb: [Create a contract type, Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Configure field mapping for parent-child contract linking

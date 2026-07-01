@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Task Intelligence, Task Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - task-intelligence
+  - routing
+  - ml
+  - prediction
+  - type-task
 ---
 
 # Install Task Intelligence Admin Console

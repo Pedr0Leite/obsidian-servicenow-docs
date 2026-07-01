@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Log Viewer, alert logs, anomaly frequency, root cause analysis, time filtering, log data visualization, search queries, log analysis, alert investigation, log filtering]
 breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Reviewing the logs for an alert on the Log Viewer in Health Log Analytics

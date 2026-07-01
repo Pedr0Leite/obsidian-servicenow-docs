@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Preparing for Agent Client Collector implementation, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-concept
 ---
 
 # Agent Client Collector planning checklist

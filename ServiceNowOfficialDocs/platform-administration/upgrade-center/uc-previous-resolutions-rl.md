@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Skipped Records visual task board \(VTB\), Reviewing upgrade history, Using Upgrade Center, Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - upgrades
+  - upgrade-center
+  - versions
+  - type-reference
 ---
 
 # Previous Resolutions related list

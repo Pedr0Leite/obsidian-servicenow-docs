@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 4
 breadcrumb: [Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-concept
 ---
 
 # Scheduling in Workforce Optimization for ITSM

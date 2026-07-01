@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Request Playbook, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure a service definition for Playbooks in Public Sector Digital Services

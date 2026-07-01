@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 21
 breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-concept
 ---
 
 # Install a MID Server on Windows

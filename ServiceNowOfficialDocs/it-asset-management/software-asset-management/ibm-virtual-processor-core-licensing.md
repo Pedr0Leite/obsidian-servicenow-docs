@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Supported IBM license types, Software Asset Management publisher pack for IBM, Supported software publisher licenses, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-concept
 ---
 
 # IBM virtual processor core \(VPC\) licenses

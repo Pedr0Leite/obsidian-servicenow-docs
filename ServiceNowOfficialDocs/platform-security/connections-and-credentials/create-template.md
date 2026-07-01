@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Connection &amp; Credential configuration templates, Explore credentials, connections, and aliases, Connections and Credentials, Access Management]
+tags:
+  - platform-security
+  - credentials
+  - connections
+  - aliases
+  - integration
+  - type-task
 ---
 
 # Create a configuration template

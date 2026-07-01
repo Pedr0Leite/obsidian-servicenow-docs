@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Employee Document Management, HR Documents, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - documents
+  - storage
+  - classification
+  - hr
+  - type-reference
 ---
 
 # Reference - Employee Document Management

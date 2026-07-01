@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Consumables life cycle, Use, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-task
 ---
 
 # Consume consumable assets

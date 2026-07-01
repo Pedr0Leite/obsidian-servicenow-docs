@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-01-30"
 reading_time_minutes: 5
 breadcrumb: [Managing a major incident record, Major Incident Management in Service Operations Workspace, Managing IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Review and update a post incident report

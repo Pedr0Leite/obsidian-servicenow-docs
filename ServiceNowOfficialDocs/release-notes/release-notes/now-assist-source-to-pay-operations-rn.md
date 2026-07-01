@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [AI agents, Agentic AI]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Now Assist for Source-to-Pay Operations release notes

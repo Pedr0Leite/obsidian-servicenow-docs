@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 12
 breadcrumb: [Products combined by family]
+tags:
+  - delta-yokohama-australia
+  - type-reference
 ---
 
 # Combined Now Assist in AI Search release notes for upgrades from Xanadu to Australia

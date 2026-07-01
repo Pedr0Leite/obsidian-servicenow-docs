@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-task
 ---
 
 # Enter actuals spent in a project in classic Project Workspace

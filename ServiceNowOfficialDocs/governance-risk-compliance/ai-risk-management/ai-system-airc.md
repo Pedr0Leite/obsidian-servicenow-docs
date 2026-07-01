@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 3
 keywords: [AI system, AI governance, aggregated risk score]
 breadcrumb: [AI assets, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # AI systems

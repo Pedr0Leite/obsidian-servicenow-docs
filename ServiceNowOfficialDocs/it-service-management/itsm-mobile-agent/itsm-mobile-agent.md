@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-reference
 ---
 
 # ITSM Mobile Agent

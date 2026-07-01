@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Cross-instance application trust configuration, Multi-instance Management, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Configure Manager Instances

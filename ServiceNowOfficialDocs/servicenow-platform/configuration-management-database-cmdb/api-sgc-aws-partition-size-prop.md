@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-AWS-API, SGC AWS API, SGC for AWS API, AWS API SGC, Service Graph Connector for AWS API Gateway, AWS API Gateway data sources, SG-AWS API Gateway data sources, SG-AWS API Gateway, AWS API Gateway parallel loading, AWS API Gateway partition size, aws\_account\_partition\_size]
 breadcrumb: [Additional features, AWS API Gateway, API Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Set partition size for AWS API Gateway accounts

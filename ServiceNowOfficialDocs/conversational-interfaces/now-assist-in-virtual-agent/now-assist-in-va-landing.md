@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-reference
 ---
 
 # Now Assist in Virtual Agent

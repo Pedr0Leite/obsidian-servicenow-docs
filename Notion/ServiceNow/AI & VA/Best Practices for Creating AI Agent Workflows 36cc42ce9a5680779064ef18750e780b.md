@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Best Practices for Creating AI Agent Workflows"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -503,6 +505,9 @@ For more details on **"Advanced AI Agent Instructions Guide: ServiceNow Edition
 [https://www.servicenow.com/community/now-assist-articles/advanced-ai-agent-instructions-guide-servicenow-edition/ta-p/3346578](https://www.servicenow.com/community/now-assist-articles/advanced-ai-agent-instructions-guide-servicenow-edition/ta-p/3346578)
 
 ## Related
+- [[Introducing AI Agents and Quick Start Guide]]
+- [[Custom metrics in Agentic Evaluation]]
+- [[Test & Evaluation]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Get Familiar with Agentic Workflows & AI Agent]]

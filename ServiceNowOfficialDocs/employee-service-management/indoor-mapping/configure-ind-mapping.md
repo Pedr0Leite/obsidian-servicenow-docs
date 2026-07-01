@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Map instance data, Indoor mapping properties]
 breadcrumb: [Indoor Mapping, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - indoor-mapping
+  - workplace
+  - floor-plans
+  - space
+  - type-concept
 ---
 
 # Configure Indoor Mapping

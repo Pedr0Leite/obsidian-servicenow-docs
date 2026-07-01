@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Terraform working in Cloud Workspace]
 breadcrumb: [Explore, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-concept
 ---
 
 # About provision modes in Cloud Account Management

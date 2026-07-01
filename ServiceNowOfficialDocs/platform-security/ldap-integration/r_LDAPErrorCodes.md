@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [LDAP integration troubleshooting, LDAP integration, Authentication, Access Management]
+tags:
+  - platform-security
+  - ldap
+  - active-directory
+  - sync
+  - authentication
+  - type-reference
 ---
 
 # LDAP error codes

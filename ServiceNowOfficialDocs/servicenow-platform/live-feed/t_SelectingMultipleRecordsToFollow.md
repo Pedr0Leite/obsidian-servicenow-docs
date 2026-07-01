@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Working with record feeds, Use Live Feed to work on records, Using Live Feed, Live Feed Core UI, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - live-feed
+  - social
+  - collaboration
+  - activity
+  - type-task
 ---
 
 # Follow a record feed from a list

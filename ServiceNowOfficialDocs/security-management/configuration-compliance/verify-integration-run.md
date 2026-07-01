@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Understanding the Vulnerability Response Integration with Palo Alto Prisma Cloud, Integrate with other applications, Configuration Compliance, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - config-compliance
+  - cis
+  - scap
+  - security
+  - type-task
 ---
 
 # Verify the Vulnerability Response Integration with Palo Alto Prisma Cloud import run status

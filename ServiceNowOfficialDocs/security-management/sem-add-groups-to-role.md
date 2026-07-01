@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 1
 keywords: [groups, roles, Security exposure Management Workspace, role assignment]
 breadcrumb: [Configure users and groups in Security Exposure Management Workspace, Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Add groups to a role

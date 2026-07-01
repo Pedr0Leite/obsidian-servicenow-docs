@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configure the Password Reset Windows Application to use a proxy server, Installing and configuring Password Reset Windows Application, Password Reset, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - password-reset
+  - self-service
+  - enrollment
+  - type-task
 ---
 
 # Configure an exception policy on your proxy server

@@ -9,6 +9,9 @@ last_updated: "2026-06-08"
 reading_time_minutes: 5
 keywords: [explore]
 breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Exploring AI Security Exposure Management

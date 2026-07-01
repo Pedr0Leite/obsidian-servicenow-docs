@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Analyzing, Now Assist, performance, Overview page, summary section, skills performance]
 breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Analyzing Now Assist usage

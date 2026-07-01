@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage deployments, Use, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-reference
 ---
 
 # Deployment Request form in the Pipelines and Deployments app

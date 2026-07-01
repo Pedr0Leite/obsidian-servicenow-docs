@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-03"
 reading_time_minutes: 1
 breadcrumb: [Hugging Face, Service Graph Connectors for AI Control Tower, AI connections, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # Create an AI Connection for Hugging Face

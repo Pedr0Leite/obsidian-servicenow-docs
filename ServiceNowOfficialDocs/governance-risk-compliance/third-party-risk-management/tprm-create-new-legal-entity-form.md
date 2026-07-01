@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Create a legal entity and enhance digital resilience data, Use digital resilience third-party registers, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-reference
 ---
 
 # Create New Company form

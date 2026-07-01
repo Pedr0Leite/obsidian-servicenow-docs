@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Approval and rollback workflow activities, Workflow activities reference, Workflow activities, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - workflow-activities
+  - actions
+  - activities
+  - automation
+  - type-reference
 ---
 
 # Generate workflow activity

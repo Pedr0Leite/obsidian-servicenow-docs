@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-task
 ---
 
 # Create response due date rules

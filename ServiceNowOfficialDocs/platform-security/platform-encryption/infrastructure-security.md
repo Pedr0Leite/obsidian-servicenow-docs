@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-concept
 ---
 
 # Infrastructure Security

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Workplace Application, Workplace app]
 breadcrumb: [Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace
+  - mobile
+  - agent
+  - facilities
+  - type-concept
 ---
 
 # Workplace Agent for mobile

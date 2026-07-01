@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [REST APIs, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - api-explorer
+  - testing
+  - endpoints
+  - type-task
 ---
 
 # Define a CORS rule

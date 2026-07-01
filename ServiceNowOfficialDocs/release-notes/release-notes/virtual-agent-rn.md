@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-27"
 reading_time_minutes: 4
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Virtual Agent release notes

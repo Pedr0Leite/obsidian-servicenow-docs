@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [Now Assist Security Operations]
 breadcrumb: [Configure, Now Assist for SPO, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-reference
 ---
 
 # Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)

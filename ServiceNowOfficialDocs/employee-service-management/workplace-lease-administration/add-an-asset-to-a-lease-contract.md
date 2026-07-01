@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create workplace contracts in Core UI, Working with Workplace Lease Administration from the Core UI, Use, Workplace Lease Administration, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lease
+  - real-estate
+  - administration
+  - facilities
+  - type-task
 ---
 
 # Add assets to a workplace contract in Core UI

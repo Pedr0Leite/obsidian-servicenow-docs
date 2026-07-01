@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Targets and thresholds, Configure fundamentals, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Bulk delete targets/thresholds or delete another user's personal target or threshold

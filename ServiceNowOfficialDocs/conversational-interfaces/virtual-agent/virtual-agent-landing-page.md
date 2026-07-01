@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-24"
 reading_time_minutes: 3
 breadcrumb: [Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Virtual Agent

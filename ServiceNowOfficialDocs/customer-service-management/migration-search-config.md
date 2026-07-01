@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Workspace, CSM Configurable Workspace, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Global Search in configurable workspaces

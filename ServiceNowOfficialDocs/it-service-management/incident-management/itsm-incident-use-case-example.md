@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Applying CSDM guidelines to Incident Management, Configuring Incident Management, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-concept
 ---
 
 # Incident Management use case

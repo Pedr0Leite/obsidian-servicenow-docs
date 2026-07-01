@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Fun with array methods!"
+area: "Random Scripts"
+source: notion-export
 tags:
   - array-methods
   - javascript

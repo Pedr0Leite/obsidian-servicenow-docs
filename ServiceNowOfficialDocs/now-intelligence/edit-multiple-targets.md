@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 6
 breadcrumb: [Targets and thresholds, KPI Details, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Edit multiple targets in KPI Details

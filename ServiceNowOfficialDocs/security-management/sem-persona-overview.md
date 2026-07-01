@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Security Exposure Management Workspace personas and granular roles

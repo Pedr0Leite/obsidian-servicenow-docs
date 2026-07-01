@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Resolving slow queries, Resolve issues, Platform performance, Maintain and monitor, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - performance
+  - diagnostics
+  - tuning
+  - queries
+  - type-task
 ---
 
 # Schedule a slow-query index suggestion for creation

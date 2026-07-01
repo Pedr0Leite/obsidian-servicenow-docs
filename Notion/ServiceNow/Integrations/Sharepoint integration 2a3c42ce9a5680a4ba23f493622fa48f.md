@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Sharepoint integration"
+area: "Integrations"
+source: notion-export
 tags:
   - sharepoint
   - integrations
@@ -19,6 +21,9 @@ https://learn.microsoft.com/en-us/graph/api/driveitem-list-permissions?view=grap
 [Set up the AI Search spoke](https://www.servicenow.com/docs/bundle/washingtondc-integrate-applications/page/administer/integrationhub-store-spokes/task/setup-ais-spoke.html)
 
 ## Related
+- [[EVAM Navigation – Untitled]]
+- [[Changing the AI Search navigation on Employee Cent]]
+- [[EVAM]]
 
 - [[ServiceNow – Integrations]]
 - [[Integrations – Service Portal]]

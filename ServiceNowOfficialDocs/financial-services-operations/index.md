@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: finso
 doc_type: toc
+tags:
+  - financial-services-operations
 ---
 
 # Australia Financial Services Operations

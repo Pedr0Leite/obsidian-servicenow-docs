@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-task
 ---
 
 # Enable issue configurations for DEX Self-service

@@ -11,6 +11,12 @@ last_updated: "2026-05-06"
 reading_time_minutes: 3
 keywords: [Organizational Change Management, OCM, Reinforcement, Sustainment, Adoption, KPI, Champion Network]
 breadcrumb: [Strategy Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # OCM: Reinforcing and Sustaining Change

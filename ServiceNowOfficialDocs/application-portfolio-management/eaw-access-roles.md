@@ -9,6 +9,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 16
 keywords: [access roles, permissions, role capabilities, enterprise architect, application portfolio, business architecture, technology portfolio, data certification, modeling, AI systems]
 breadcrumb: [Install Enterprise Architecture Workspace, Configuring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-reference
 ---
 
 # Enterprise Architecture Workspace access roles

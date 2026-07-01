@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [manage attachments, card data security attachments, issuer tab, merchant tab, contextual side panel attachments, download documents vault, secure attachments, dispute transaction attachments, view documents tokenizer vault]
 breadcrumb: [Use, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Manage attachments in Card Data Security

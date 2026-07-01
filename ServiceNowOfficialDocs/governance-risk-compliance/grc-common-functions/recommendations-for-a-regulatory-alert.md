@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Explore, Now Assist, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # AI-generated recommendations for a regulatory alert skill

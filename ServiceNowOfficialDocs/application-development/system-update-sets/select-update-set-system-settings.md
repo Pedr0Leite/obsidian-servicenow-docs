@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Working with update sets, System update sets, Deploying applications, Building applications]
+tags:
+  - application-development
+  - update-sets
+  - deployment
+  - migration
+  - version-control
+  - type-task
 ---
 
 # Select the current update set in Unified Navigation

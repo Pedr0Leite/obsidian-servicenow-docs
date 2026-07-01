@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 4
 keywords: [employee communications, announcements, content library, employee slate, chat promotion, quick start, setup flow, home page configuration, organization chart, employee profile, notifications, conversational catalog, AI widget builder, role-based home page cards, analytics and reporting]
 breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Get started with Employee Slate

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Problem Management in Service Operations Workspace reference, Problem Management in Service Operations Workspace, Managing IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-reference
 ---
 
 # Problem task form

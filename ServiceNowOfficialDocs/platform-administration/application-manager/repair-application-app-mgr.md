@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Repairing apps and plugins, Application Manager, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - app-manager
+  - plugins
+  - activation
+  - governance
+  - type-task
 ---
 
 # Repair an application or plugin

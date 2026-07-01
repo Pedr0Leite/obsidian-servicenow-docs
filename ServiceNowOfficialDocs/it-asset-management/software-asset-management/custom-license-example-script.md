@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Add a custom license metric, Software Asset Management administration, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-reference
 ---
 
 # Custom license metric example script

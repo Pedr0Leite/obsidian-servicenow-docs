@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - visitor-management
+  - check-in
+  - badging
+  - security
+  - type-reference
 ---
 
 # Components installed with Workplace Visitor Management

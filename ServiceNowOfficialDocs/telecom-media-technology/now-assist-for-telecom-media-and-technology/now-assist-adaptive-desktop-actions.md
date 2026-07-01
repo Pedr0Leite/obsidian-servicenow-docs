@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-18"
 reading_time_minutes: 1
 breadcrumb: [Use generative AI skills, Now Assist for TMT, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - now-assist
+  - ai
+  - tmt
+  - generative
+  - type-concept
 ---
 
 # Using adaptive desktop actions for Customer Experimentation

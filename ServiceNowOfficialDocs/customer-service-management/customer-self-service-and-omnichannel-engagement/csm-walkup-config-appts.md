@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Appointment booking configuration, Walk-up Experience appointment booking, Walk-up Experience for Customer Service Management, Set up self-service, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - self-service
+  - omnichannel
+  - portal
+  - engagement
+  - type-task
 ---
 
 # Create a Walk-up Experience appointment booking configuration for a service

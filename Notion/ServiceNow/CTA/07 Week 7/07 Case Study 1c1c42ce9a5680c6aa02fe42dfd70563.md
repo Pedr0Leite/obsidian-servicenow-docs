@@ -1,6 +1,8 @@
 ---
 aliases:
   - "07 Case Study"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - week-7
@@ -18,6 +20,9 @@ tags:
 [Files](07%20Case%20Study/Files%201c1c42ce9a56805ebe62f484291ccd10.md)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Meet the team at Sovereign Bank]]
 - [[07 Week 7]]
 - [[07 Case Study – For PPT]]
 - [[07 Case Study – Files]]

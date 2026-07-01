@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [create work order, AI agent, image]
 breadcrumb: [Use agentic AI in FSM, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-task
 ---
 
 # Create a work order using Now Assist for Field Service Management \(FSM\)

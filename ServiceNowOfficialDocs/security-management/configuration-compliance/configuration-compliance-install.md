@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuration Compliance dashboard, Analytics and Reporting, Configuration Compliance, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - config-compliance
+  - cis
+  - scap
+  - security
+  - type-task
 ---
 
 # Activate Performance Analytics for Configuration Compliance

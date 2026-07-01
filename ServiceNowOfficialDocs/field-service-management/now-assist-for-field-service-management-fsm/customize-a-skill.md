@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-concept
 ---
 
 # Customizing a skill

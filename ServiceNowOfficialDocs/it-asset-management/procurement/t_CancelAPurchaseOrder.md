@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a purchase order, Procurement purchase order management for assets, Procurement, IT Asset Management]
+tags:
+  - it-asset-management
+  - procurement
+  - purchasing
+  - vendors
+  - itam
+  - type-task
 ---
 
 # Cancel a purchase order

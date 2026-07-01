@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-11"
 reading_time_minutes: 8
 breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-reference
 ---
 
 # MID Server configuration file security

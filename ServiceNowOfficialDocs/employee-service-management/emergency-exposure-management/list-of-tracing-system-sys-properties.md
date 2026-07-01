@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Tracing systems in Emergency Exposure Management, Set up Emergency Exposure Management, Emergency Exposure Management, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - exposure
+  - health-safety
+  - tracking
+  - type-reference
 ---
 
 # System properties for tracing systems in Emergency Exposure Management

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Dispute Content Pack for US Regulations, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Domain separation Dispute Content Pack for US Regulations

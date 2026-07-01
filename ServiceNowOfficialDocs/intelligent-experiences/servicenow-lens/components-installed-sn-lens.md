@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Components installed with ServiceNow Lens, Roles installed with ServiceNow Lens, Tables installed with ServiceNow Lens, ServiceNow Lens roles, ServiceNow Lens tables]
 breadcrumb: [Reference, ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-reference
 ---
 
 # Components installed with ServiceNow AI Lens

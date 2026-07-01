@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI for IT Operations Management, generative AI for ITOM, Express List, alert analysis, alert group, summary, description]
 breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Generate an alert group description in Express List using Now Assist

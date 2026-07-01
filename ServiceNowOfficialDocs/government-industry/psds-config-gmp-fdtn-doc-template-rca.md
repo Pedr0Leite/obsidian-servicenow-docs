@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Foundation, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure Restricted Caller Access \(RCA\) for Document Templates

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Passing data from one automated test step to another, Building and running automated tests with the Automated Test Framework, Automated Test Framework \(ATF\) test building and execution, Automated Test Framework \(ATF\), Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - atf
+  - testing
+  - automated-tests
+  - test-suites
+  - type-task
 ---
 
 # Pass values from one automated test step to another

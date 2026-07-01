@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Self-health monitors for Event Management, Manage and monitor alerts, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-task
 ---
 
 # View the Event Management self-health application services map

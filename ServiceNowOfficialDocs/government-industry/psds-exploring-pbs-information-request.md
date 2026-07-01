@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Playbooks, Playbooks and Solutions, Explore, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Exploring the Information Request Playbook

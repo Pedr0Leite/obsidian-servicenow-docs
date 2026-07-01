@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ServiceNow – Integrations"
+area: "Vault Root"
+source: notion-export
 tags:
   - integrations
   - rest-api
@@ -49,6 +51,9 @@ tags:
 [Sharepoint integration](Integrations/Sharepoint%20integration%202a3c42ce9a5680a4ba23f493622fa48f.md)
 
 ## Related
+- [[How to setup OAuth2 authentication for RESTMessage]]
+- [[Conversational integration with Microsoft Teams -]]
+- [[Creating Custom MS Teams Cards]]
 
 - [[REST]]
 - [[SOAP]]

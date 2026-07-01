@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 3
 keywords: [email reply routing, closed interactions, email routing]
 breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Email reply linking for closed interactions

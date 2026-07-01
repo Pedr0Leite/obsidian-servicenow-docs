@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [ServiceNow Lens, ServiceNow Lens overview, Get started with ServiceNow Lens, ServiceNow Lens AI guidelines, Now Assist, AI Lens]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-reference
 ---
 
 # ServiceNow AI Lens

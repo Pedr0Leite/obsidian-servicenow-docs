@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use flows in SAP Ariba, Use, Source-to-Pay integration with SAP Ariba, Integration with third-party applications, Integrations, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - s2p
+  - integration
+  - erp
+  - framework
+  - type-task
 ---
 
 # Manually trigger flows or subflows in SAP Ariba \(Inbound\)

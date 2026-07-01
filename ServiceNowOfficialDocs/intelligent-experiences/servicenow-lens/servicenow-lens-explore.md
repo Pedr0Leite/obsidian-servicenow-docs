@@ -11,6 +11,13 @@ last_updated: "2025-03-20"
 reading_time_minutes: 5
 keywords: [ServiceNow Lens, ServiceNow Lens overview, ServiceNow Lens benefits]
 breadcrumb: [ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-concept
 ---
 
 # Exploring ServiceNow AI Lens

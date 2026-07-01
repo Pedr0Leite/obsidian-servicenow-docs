@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Know Your Customer, Common applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - kyc
+  - compliance
+  - aml
+  - onboarding
+  - type-task
 ---
 
 # Configure Financial Services Know Your Customer

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 3
 breadcrumb: [Project Risk Assessment using Advanced Risk Assessment, Integrate, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Configure Project Portfolio Management and Advanced Risk integration

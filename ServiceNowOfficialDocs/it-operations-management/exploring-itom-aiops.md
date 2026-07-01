@@ -9,6 +9,9 @@ last_updated: "2026-04-17"
 reading_time_minutes: 6
 keywords: [explore]
 breadcrumb: [ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # Exploring ITOM AIOps

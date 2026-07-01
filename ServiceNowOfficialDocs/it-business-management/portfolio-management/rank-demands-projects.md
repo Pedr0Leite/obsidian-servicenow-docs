@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create planning scenarios, Scenario Planning for PPM, Portfolio Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio
+  - roadmap
+  - planning
+  - itbm
+  - type-task
 ---
 
 # Rank demands and projects

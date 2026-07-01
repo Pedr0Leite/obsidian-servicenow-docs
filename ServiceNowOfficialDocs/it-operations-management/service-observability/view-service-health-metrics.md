@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Monitoring and investigating, Service Observability, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - observability
+  - slo
+  - health
+  - itom
+  - type-task
 ---
 
 # View service health metrics

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Explore Guided Tours, Guided Tours, Adoption services, Configure user experiences]
+tags:
+  - platform-user-interface
+  - adoption
+  - onboarding
+  - guided-setup
+  - ui
+  - type-concept
 ---
 
 # GTD workflow

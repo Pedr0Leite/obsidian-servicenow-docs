@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-27"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for Core Business Suite, Configure Core Business Suite using Now Assist, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-task
 ---
 
 # Create a notification

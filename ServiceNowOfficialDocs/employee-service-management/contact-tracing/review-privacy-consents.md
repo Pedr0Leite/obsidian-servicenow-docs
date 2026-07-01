@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Maintaining user data privacy in Contact Tracing, Contact Tracing, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contact-tracing
+  - health-safety
+  - covid
+  - type-task
 ---
 
 # Review user privacy consents in Contact Tracing

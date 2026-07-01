@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Case and account escalation, Configure case management, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Case and account escalation components

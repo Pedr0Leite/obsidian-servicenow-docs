@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Service Mapping, Application Service, unmapped server, Service Mapping workspace]
 breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Create an application service for unmapped servers

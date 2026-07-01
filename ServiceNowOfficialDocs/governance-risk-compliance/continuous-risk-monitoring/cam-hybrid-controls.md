@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [RMF step 2 - Select controls for an authorization package, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-monitoring
+  - controls
+  - grc
+  - risk
+  - type-task
 ---
 
 # Set up baseline controls

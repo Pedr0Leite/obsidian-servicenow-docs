@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Uses of a processing activity, Reference, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-concept
 ---
 
 # Workflow of a processing activity

@@ -11,6 +11,13 @@ last_updated: "2026-05-26"
 reading_time_minutes: 1
 keywords: [article optimization recommendations, Now Assist skills, knowledge optimization, Now Assist admin]
 breadcrumb: [Configure Now Assist in Knowledge Management, Now Assist in Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - now-assist
+  - ai
+  - knowledge
+  - generative
+  - type-task
 ---
 
 # Enable article optimization recommendations

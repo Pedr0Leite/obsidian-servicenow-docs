@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 10
 breadcrumb: [Create and test your credentials, Get started with credentials, Connections and Credentials, Access Management]
+tags:
+  - platform-security
+  - credentials
+  - connections
+  - aliases
+  - integration
+  - type-reference
 ---
 
 # SSH credentials

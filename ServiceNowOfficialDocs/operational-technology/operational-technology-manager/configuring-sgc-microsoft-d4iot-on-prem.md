@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\), Integrate, Operational Technology Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - manager
+  - configuration
+  - overview
+  - type-task
 ---
 
 # Configure the Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)

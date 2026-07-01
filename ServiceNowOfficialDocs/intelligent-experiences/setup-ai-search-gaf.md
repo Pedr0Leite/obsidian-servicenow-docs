@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [gaf]
 breadcrumb: [GAF, Configure, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Set up AI Search for GAF

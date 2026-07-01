@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Data Loss Prevention Incident Response User Workspace, Manage incidents, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-task
 ---
 
 # Report or respond to DLP incidents

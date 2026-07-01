@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Google Calendar - Calendar synchronization, Setup Workplace Calendar Synchronization, Configure, Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-task
 ---
 
 # Create a Connection and credential record for Google

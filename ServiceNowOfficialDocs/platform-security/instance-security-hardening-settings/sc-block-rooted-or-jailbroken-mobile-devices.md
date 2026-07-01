@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Malicious code, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Block rooted or jailbroken mobile devices

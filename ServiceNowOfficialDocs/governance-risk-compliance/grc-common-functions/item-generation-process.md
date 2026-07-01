@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # Using the item generation process to generate controls and risks

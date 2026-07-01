@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-06"
 reading_time_minutes: 1
 breadcrumb: [RMF step 3 - Implement controls, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-monitoring
+  - controls
+  - grc
+  - risk
+  - type-task
 ---
 
 # View controls in grid view

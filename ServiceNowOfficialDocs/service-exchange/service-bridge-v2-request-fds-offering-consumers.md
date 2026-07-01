@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [foundation data sync, FDS offerings, request offering, provider inbound, receive data]
 breadcrumb: [Configure inbound FDS as providers, Configure for providers, Service Exchange for Providers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-task
 ---
 
 # Request foundation data sync offerings from a consumer

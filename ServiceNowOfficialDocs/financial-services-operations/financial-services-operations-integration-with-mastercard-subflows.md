@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 11
 breadcrumb: [Components installed, Reference, Mastercard, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Financial Services Operations Integration with Mastercard subflows

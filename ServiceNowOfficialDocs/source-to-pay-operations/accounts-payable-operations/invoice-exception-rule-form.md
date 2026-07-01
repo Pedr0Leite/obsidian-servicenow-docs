@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Invoice exception form, Reference, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-reference
 ---
 
 # Invoice Exception Rule Form

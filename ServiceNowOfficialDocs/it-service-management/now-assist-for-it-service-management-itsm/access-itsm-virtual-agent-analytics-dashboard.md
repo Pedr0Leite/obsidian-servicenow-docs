@@ -12,6 +12,13 @@ reading_time_minutes: 1
 keywords: [Now Assist, Agentic AI, generative AI, Gen AI, analytics, dashboard, metrics, tracking, virtual agent, ITSM, Service Operations Workspace, Assistant Designer]
 audience: [administrator, user]
 breadcrumb: [Use ITSM Virtual Agent analytics dashboard, Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-concept
 ---
 
 # Tracking metrics using the ITSM Virtual Agent Analytics dashboard

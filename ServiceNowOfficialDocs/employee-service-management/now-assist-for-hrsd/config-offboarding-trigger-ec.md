@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-02-25"
 reading_time_minutes: 1
 breadcrumb: [Offboarding knowledge transfer plan generation agentic workflow, Use agentic workflows, Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - hrsd
+  - generative
+  - type-task
 ---
 
 # Configure the AI agent triggers for offboarding to use Employee Center

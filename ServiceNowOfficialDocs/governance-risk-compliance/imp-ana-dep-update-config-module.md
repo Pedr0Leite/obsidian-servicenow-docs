@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Dependency Configuration records, General administration setup for BCM, Configure, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Configuring impact analysis dependency updates

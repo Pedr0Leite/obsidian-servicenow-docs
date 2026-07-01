@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-reference
 ---
 
 # SCOM connector instance form

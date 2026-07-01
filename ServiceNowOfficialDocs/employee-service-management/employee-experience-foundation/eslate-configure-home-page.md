@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [home page, homepage configuration, AI chat, announcements widget, quick links, upcoming holiday, Employee Slate]
 breadcrumb: [Employee Slate home, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure the home page for Employee Slate

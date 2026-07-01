@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 10
 breadcrumb: [Configure Eligibility Rules Engine, Social Benefits Playbook, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Configure Eligibility Rules Engine Policies in Social Benefits Playbook

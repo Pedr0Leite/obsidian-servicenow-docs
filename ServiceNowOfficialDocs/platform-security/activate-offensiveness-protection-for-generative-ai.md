@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Generative AI, Gen AI, Now Assist, Admin, Guardian, offensiveness protection]
 breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Activate offensiveness protection for generative AI

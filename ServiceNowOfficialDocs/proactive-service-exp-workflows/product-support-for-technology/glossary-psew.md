@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms]
 breadcrumb: [Reference, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-reference
 ---
 
 # Glossary Proactive Service Experience Workflows

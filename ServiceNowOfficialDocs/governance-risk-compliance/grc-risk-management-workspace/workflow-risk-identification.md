@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Application risk assessment using Advanced Risk Assessment, Integrate, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Workflow of risk identification for business applications

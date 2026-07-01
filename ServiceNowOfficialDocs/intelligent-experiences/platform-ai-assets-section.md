@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [AI Agents, Agentic AI, generative AI, AI skills]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist AI assets

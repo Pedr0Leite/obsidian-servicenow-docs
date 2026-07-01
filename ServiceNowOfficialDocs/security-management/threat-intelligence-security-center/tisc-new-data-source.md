@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 8
 breadcrumb: [Threat Intelligence Feeds, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Configure a new threat intelligence feed

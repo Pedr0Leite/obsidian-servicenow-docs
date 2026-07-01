@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Catalog in Service Portal, Integrating Service Catalog, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-task
 ---
 
 # Access Service Catalog categories in Service Portal

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [generative AI for financial services operations generate summary, generative AI for FSO generate summary]
 breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Summarize a dispute or claims case with case summarization

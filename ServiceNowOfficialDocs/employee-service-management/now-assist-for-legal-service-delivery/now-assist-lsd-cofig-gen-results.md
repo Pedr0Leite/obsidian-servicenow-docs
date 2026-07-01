@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [Configure, Now Assist for Legal Service Delivery \(LSD\), Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - legal
+  - generative
+  - type-concept
 ---
 
 # Configuring Q&amp;A Genius Results in Now Assist for Legal Service Delivery \(LSD\)

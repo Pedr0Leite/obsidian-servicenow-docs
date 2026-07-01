@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Sourcing Pipeline Management, Use, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Add a pipeline project to a sourcing request

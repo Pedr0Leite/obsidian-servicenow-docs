@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Field Service Territory Planning Console, CSM/FSM Configurable Workspace, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-task
 ---
 
 # Enable identification of relevant territories for a work order or work order task

@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [task dependencies, task plan template, task sequencing]
 breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Task dependencies for task plan templates

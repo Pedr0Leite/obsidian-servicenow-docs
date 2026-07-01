@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-24"
 reading_time_minutes: 2
 breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-concept
 ---
 
 # External-facing Personal Data Rights form configuration

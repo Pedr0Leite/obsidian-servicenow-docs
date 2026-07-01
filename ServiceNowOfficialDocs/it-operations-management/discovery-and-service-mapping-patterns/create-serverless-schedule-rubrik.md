@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [Rubrik discovery, serverless discovery]
 breadcrumb: [Rubrik Cluster, Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Create a serverless discovery schedule for Rubrik cluster discovery

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-concept
 ---
 
 # Using Workplace Reservations for Microsoft Outlook Add-in

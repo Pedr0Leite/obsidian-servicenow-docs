@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Investigate, Processing a Mastercard dispute, Resolving disputes with Mastercard, Processing, Use, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-task
 ---
 
 # Make a decision on chargeback, write off, or transaction denial

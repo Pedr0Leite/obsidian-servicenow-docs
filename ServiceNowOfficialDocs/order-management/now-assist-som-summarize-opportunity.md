@@ -9,6 +9,12 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [opportunity summarization, Now Assist for SFA, generative AI, CRM Workspace]
 breadcrumb: [Use generative AI, Now Assist for SFA, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Summarize an opportunity using Now Assist for SFA

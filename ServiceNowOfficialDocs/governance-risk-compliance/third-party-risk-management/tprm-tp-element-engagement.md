@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Monitoring third-party elements, Monitor third-party risk, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Add a third-party element record to an engagement

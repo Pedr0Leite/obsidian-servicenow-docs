@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Slack integration - Incident Management, Collaboration services, IT Service Management]
+tags:
+  - it-service-management
+  - collaboration
+  - messaging
+  - itsm
+  - type-task
 ---
 
 # Create slack channel for an incident

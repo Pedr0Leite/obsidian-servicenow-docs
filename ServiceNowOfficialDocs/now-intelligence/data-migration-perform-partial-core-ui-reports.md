@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [How to migrate a few Core UI reports]
 breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Migrate a selection of Core UI reports

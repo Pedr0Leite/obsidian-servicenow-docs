@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Personas for consumers, Configure for consumers, Service Exchange for Consumers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-task
 ---
 
 # Assign groups to a persona

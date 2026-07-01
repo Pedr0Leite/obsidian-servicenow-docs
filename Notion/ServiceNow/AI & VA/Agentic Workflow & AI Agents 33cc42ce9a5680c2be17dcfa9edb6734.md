@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Agentic Workflow & AI Agents"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -23,6 +25,9 @@ https://www.servicenow.com/docs/r/intelligent-experiences/sn-aia-use-cases-list.
 [Guidelines for creating prompts • Zurich ServiceNow AI Platform Capabilities • Docs | ServiceNow](https://www.servicenow.com/docs/r/zurich/servicenow-platform/now-assist-in-knowledge-management/guidelines-for-creating-prompts.html)
 
 ## Related
+- [[AI & VA]]
+- [[Custom metrics in Agentic Evaluation]]
+- [[Test & Evaluation]]
 
 - [[Agentic Workflow & AI Agents – Tips]]
 - [[Get Familiar with Agentic Workflows & AI Agent]]

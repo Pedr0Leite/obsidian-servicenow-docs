@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Carousel, user input, control, node, Virtual Agent, designer, images, photos]
 breadcrumb: [Assistant Designer user input controls, Assistant Designer interface reference, Virtual Agent reference, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Carousel user input control

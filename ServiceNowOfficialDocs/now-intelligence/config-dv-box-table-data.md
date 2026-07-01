@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Boxplot visualization, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Table data options for boxplot visualizations

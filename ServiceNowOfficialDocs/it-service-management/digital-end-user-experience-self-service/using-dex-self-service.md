@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-concept
 ---
 
 # Using Digital End-user Experience Self-service

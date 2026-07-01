@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Create translation for an existing choice"
+area: "Random Scripts"
+source: notion-export
 tags:
   - translations
   - sys-choice

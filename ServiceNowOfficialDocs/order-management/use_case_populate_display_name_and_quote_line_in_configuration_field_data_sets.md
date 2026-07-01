@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Use cases, Using CPQ, Configure, price, quote apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Use case: Populate display names and quote lines in Configuration Field Data Set objects

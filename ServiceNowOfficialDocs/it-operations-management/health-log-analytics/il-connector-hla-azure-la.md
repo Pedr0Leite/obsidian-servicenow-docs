@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Azure Log Analytics, data input, integration, configuration, ServiceNow, Health Log Analytics, HLA]
 breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Set up a Microsoft Azure Log Analytics integration for Health Log Analytics

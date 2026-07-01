@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Edit and manage service portfolios, Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-task
 ---
 
 # Manage the CSDM life cycle fields in Service Portfolio Management

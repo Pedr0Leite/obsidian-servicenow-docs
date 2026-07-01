@@ -9,6 +9,9 @@ last_updated: "2026-04-15"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [AI Agent Advisor, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # AI Agent Advisor reference

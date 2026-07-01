@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Open asset remediation tasks, close an asset remediation task, asset remediation tasks]
 breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Close an asset remediation task

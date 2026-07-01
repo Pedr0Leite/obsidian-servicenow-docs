@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-05-13"
 reading_time_minutes: 1
 breadcrumb: [Working with Space Planning, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Use Stack Plan

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Platform Analytics dashboards, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Configure a record overview dashboard

@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 2
 keywords: [propose single change, affected CI, change request]
 breadcrumb: [Create a change request in Service Operations Workspace, Change Management in Service Operations Workspace, Operating IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Propose a single change to a CI in Service Operations Workspace

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage an assessment-type action task, Creating an action task for the operational vulnerability, Managing Operational vulnerability, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Perform an assessment on the action task

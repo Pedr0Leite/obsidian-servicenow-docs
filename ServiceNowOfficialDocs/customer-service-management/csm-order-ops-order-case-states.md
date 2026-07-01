@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Order Operations Case Management, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Order case and order case line item states

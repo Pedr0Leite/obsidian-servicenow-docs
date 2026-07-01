@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Redox Inbound Integration, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Configuring credentials in the Redox engine for sending requests to a ServiceNow instance

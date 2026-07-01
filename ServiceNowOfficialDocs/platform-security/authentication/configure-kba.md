@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Knowledge-based authentication, Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Configure knowledge-based authentication

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - knowledge-management
+  - kb
+  - articles
+  - search
+  - type-reference
 ---
 
 # Duplicate knowledge article numbers

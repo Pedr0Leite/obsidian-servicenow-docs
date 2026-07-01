@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configuring Service Control Policy in AWS, Setting up AWS cloud, Configuring cloud providers, Configuring Cloud Account Management, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-task
 ---
 
 # Set up suspension of an AWS account using service control policy

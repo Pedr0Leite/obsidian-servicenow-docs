@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Deactivate skills in Now Assist in Contract Management, Deactivate contract metadata extraction, Deactivate contract analysis, Turn off contract metadata extraction, Turn off contract analysis, Turn off Now Assist in Contract Management]
 breadcrumb: [Manage skills, Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Deactivate skills for Now Assist in Contract Management

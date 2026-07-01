@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [create word document template, manual content control, Microsoft Word add-in for ServiceNow Contracts]
 breadcrumb: [Explore, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Word Document Templates

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Scripting for operation handlers, Setting up ServiceNow Voice, ServiceNow Voice, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-concept
 ---
 
 # Provider configuration in Voice

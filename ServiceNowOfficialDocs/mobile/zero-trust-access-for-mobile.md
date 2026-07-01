@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile authentication, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Securing your ServiceNow mobile instance with Zero Trust Access

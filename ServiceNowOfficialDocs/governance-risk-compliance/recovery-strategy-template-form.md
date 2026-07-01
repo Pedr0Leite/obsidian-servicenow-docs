@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-16"
 reading_time_minutes: 1
 breadcrumb: [Configure a recovery strategy template, Structured workflows for BCPs, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Recovery strategy template form

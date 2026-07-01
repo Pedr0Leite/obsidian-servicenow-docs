@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [User privacy, tracking, and consent, Configuring Usage Insights, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-reference
 ---
 
 # Types of tracking consent policies in Usage Insights

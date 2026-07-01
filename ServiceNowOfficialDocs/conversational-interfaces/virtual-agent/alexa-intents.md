@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up Conversational Integration with Alexa, Configure Conversational Integration with Alexa, Conversational Integration with Alexa, Integrating Virtual Agent with Voice channels, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Supported Alexa intents

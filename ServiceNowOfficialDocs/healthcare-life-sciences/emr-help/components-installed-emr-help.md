@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Reference, EMR Help, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - emr
+  - ehr
+  - healthcare-it
+  - integration
+  - type-reference
 ---
 
 # Components installed with EMR Help

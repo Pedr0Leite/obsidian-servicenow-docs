@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up pillars and entity types from Workspace UI, Setting up pillars, entity types, entity filters, and entities, Configure, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Entity type New record form

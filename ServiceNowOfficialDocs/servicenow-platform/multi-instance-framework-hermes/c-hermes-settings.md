@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 2
 keywords: [Hermes, Hermes settings, Hermes configuration, hermes\_admin, maint, Kafka integration, system settings, background jobs]
 breadcrumb: [Explore, Hermes Messaging Service, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - multi-instance
+  - hermes
+  - scaling
+  - enterprise
+  - type-concept
 ---
 
 # Hermes Settings page

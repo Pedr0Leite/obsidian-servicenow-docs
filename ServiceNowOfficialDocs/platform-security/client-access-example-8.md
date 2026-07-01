@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Test a Windows Management Instrumentation credential encrypted with Secrets Management

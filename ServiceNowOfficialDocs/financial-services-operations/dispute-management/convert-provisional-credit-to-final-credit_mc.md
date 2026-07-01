@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Chargeback, Processing a Mastercard dispute, Resolving disputes with Mastercard, Processing, Use, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-task
 ---
 
 # Convert provisional credit to final credit

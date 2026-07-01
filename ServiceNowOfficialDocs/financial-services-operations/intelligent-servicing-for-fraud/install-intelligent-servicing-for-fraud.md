@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [install intelligent servicing for fraud, sn\_bom\_fraud, install fraud application, fraud application installation, servicenow store installation, fraud demo data, admin role required, install fraud plugins]
 breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-task
 ---
 
 # Install Intelligent Servicing for Fraud

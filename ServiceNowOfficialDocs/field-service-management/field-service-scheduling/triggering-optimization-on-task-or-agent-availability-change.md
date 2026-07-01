@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Intraday optimization, Schedule Optimization, Setting up a Field Service scheduling method, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-concept
 ---
 
 # Optimizing technician schedules in response to urgent events

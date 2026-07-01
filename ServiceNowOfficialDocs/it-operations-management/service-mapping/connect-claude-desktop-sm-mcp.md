@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 3
 keywords: [Claude Desktop, MCP Server, Service Mapping, connect, OAuth, ITOM, Now Assist, CMDB]
 breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Connect Claude Desktop to the Service Mapping MCP Server

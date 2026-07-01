@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2025-11-17"
 reading_time_minutes: 1
 breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Using the prominent action button

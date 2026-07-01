@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure Predictive Intelligence, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-concept
 ---
 
 # Database View support for Predictive Intelligence

@@ -11,6 +11,13 @@ last_updated: "2025-11-13"
 reading_time_minutes: 2
 keywords: [Compare contract documents, Compare contract revisions]
 breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Compare contract revisions in Contract Management Pro

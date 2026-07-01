@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 11
 keywords: [Virtual Agent, Static choice, User input, Designer]
 breadcrumb: [Assistant Designer user input controls, Assistant Designer interface reference, Virtual Agent reference, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Static Choice user input control

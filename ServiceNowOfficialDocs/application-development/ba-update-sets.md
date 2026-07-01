@@ -9,6 +9,9 @@ last_updated: "2026-05-29"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Update sets and Build Agent

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Use a local data instance, Technical dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Local data instances for multiple data visualizations

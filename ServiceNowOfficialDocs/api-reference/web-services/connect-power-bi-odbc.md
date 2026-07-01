@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-04"
 reading_time_minutes: 2
 breadcrumb: [Integrate, Access your ServiceNow data using SQL API, Additional integration resources, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-task
 ---
 
 # Connect Power BI Desktop to ODBC driver

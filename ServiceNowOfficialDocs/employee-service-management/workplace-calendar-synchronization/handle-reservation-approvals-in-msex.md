@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-04-03"
 reading_time_minutes: 1
 breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workplace Calendar Synchronization, Configure, Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-concept
 ---
 
 # Reservation approvals in Microsoft Exchange Online

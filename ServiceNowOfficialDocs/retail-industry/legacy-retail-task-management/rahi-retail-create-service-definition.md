@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Retail Task Management, Retail]
+tags:
+  - retail-industry
+  - retail
+  - task-management
+  - stores
+  - legacy
+  - type-task
 ---
 
 # Create a service definition for multi-store cases in Retail Task Management Core

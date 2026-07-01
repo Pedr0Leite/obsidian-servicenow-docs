@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [LogicMonitor templates, Service Observability templates, Service Observability reference, Service Observability, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - observability
+  - slo
+  - health
+  - itom
+  - type-reference
 ---
 
 # LogicMonitor Observability tab for Service Observability

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Enable demand currency view, Multicurrency, Configure, Demand Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - demand
+  - pipeline
+  - scoring
+  - itbm
+  - type-concept
 ---
 
 # Benefit plan updates and recalculation in demand currency

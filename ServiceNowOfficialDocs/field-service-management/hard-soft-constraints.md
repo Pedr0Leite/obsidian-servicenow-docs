@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 21
 breadcrumb: [Schedule Optimization components, Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Objectives and constraints used with Schedule Optimization

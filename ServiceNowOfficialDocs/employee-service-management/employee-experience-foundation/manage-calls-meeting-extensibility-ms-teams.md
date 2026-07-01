@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-01-30"
 reading_time_minutes: 2
 breadcrumb: [Use Microsoft Teams Meeting Extensions, Use Microsoft Teams integration for Agent Experience, Use, ServiceNow for Microsoft Teams and Microsoft 365, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Manage calls using Meeting Extensions

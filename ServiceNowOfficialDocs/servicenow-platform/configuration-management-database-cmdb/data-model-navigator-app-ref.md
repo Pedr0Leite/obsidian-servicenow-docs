@@ -11,6 +11,13 @@ last_updated: "2026-05-01"
 reading_time_minutes: 2
 keywords: [Data Model Navigator, CMDB data model, tables, attributes, relationships, IP address management, cloud]
 breadcrumb: [Explore, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-reference
 ---
 
 # Data Model Navigator app features

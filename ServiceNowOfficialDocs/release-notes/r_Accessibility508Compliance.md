@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [accessibility-508-compliance, VPAT, ACR, accessibility conformance report, accessibility release highlights, accessibility release notes, compliance, conformance, product accessibility, administer]
 breadcrumb: [Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Accessibility and conformance

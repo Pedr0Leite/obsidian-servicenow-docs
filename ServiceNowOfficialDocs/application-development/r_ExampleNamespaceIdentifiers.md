@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Namespace identifier, Application scope, Anatomy of an application, Learning about developing on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Namespace identifier examples

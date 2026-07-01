@@ -9,6 +9,12 @@ last_updated: "2026-04-30"
 reading_time_minutes: 1
 keywords: [web to mobile, component conversion]
 breadcrumb: [Web to mobile component conversion, Using the Mobile App Builder, Mobile App Builder, Building tools, Building mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Enable the mobile card generation skill

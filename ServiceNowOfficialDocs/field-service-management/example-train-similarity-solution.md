@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Predictive Intelligence for Field Service Management, FSM reports and analytics, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-concept
 ---
 
 # Example: Suggest similar part requirements for work order tasks

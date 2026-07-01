@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [log correlators, alert correlation, related alerts, free text correlators, log property correlators, log metadata analysis, correlated alerts, log source analysis, alert relationships]
 breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Identifying related alerts in log data by using log correlators in Health Log Analytics

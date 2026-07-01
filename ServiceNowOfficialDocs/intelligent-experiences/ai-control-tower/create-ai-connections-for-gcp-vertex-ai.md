@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [GCP Vertex AI, Service Graph Connectors for AI Control Tower, AI connections, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # Create an AI connection for GCP Vertex AI

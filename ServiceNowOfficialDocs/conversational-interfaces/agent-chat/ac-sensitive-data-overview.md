@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Sensitive Data Handler, Agent Chat, Virtual Agent]
 breadcrumb: [Explore, Agent Chat, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - agent-chat
+  - live-chat
+  - messaging
+  - support
+  - type-concept
 ---
 
 # Sensitive Data Handler

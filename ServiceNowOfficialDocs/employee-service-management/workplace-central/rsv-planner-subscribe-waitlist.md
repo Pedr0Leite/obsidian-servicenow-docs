@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-05-23"
 reading_time_minutes: 4
 breadcrumb: [Manage, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Manage reservation waitlist records

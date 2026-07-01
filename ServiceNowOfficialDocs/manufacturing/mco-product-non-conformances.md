@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-concept
 ---
 
 # Product non-conformance

@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate carbon calculations agentic workflow, Configure, Now Assist, Use, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-task
 ---
 
 # Activate calculation creation AI agent

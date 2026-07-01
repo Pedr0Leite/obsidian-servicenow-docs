@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Track cases and tasks from the Retail portal, Retail]
+tags:
+  - retail-industry
+  - type-task
 ---
 
 # Track your cases and tasks from the Retail portal

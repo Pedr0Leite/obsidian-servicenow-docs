@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Regulatory alerts, Regulatory Change Management Core UI, Use, Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-task
 ---
 
 # Add an AI-recommended citation to a regulatory alert

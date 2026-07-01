@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Add artifacts to case\(s\) or case task\(s\), Threat Analyst Workbench, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Roll up of MITRE Techniques from Artifacts to Case

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, supplier, supplier portal, virtual agent, AP specialist, AP agent]
 breadcrumb: [Virtual agent flows, Using Supplier Collaboration Portal in APO, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Configure the chat channel

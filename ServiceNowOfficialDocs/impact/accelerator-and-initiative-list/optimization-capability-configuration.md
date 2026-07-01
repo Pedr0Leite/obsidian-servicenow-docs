@@ -11,6 +11,12 @@ last_updated: "2026-04-28"
 reading_time_minutes: 4
 keywords: [Optimization, Capability Configuration, Platform Health, Sprint Configuration, ServiceNow Adoption]
 breadcrumb: [Optimization Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Optimization Capability Configuration

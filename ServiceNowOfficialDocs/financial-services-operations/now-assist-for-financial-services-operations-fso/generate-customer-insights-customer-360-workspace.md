@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Agentic Contact Center for Banking AI agents overview, AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Generate customer insights in the Customer 360 page

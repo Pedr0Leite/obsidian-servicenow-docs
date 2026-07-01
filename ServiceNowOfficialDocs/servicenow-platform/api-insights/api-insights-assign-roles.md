@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 1
 breadcrumb: [System administrator tasks, Configure, API Insights, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - api-insights
+  - governance
+  - usage
+  - analytics
+  - type-task
 ---
 
 # Assign roles for API Insights users

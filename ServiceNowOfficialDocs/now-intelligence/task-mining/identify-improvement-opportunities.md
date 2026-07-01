@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Use, Task Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - task-mining
+  - desktop
+  - process-capture
+  - analytics
+  - type-task
 ---
 
 # Identify task improvement actions

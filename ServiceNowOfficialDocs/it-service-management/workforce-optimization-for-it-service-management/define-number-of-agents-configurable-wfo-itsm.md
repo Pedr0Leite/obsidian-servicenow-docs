@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure, Setting up, Demand Forecast, Scheduling, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Define the minimum and maximum number of agents to forecast demand

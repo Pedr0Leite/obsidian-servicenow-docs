@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Client side planning console, Using Planning console - Legacy, Using Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-task
 ---
 
 # Enable client side planning

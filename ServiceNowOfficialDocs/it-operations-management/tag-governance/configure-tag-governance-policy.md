@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Establishing Tag Governance policies, Using Tag Governance, Tag Governance, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - tags
+  - governance
+  - cloud
+  - cmdb
+  - type-task
 ---
 
 # Configure a tag policy for Tag Governance

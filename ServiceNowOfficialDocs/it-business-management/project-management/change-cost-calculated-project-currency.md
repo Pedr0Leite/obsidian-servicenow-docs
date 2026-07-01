@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Multicurrency in Project Management, Exploring Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-concept
 ---
 
 # Updates in cost plan and recalculation of cost in project currency

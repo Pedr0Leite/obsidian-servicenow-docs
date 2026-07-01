@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [holiday schedule, field service, workforce management, dispatcher workspace, location-based calendar]
 breadcrumb: [Configuring an agent calendar, Set up workforce, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - workforce-optimization
+  - shifts
+  - scheduling
+  - fsm
+  - type-concept
 ---
 
 # Field service holiday schedules

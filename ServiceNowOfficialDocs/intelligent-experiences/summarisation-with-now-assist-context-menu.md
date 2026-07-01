@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Summarize records with the Now Assist context menu

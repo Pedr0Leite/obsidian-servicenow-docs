@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-02"
 reading_time_minutes: 7
 breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Add a defined desktop action tool to an AI agent for desktop and web-based task

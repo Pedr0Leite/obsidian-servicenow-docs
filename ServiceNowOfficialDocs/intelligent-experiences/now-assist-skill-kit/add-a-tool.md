@@ -11,6 +11,13 @@ last_updated: "2026-04-23"
 reading_time_minutes: 5
 keywords: [tool, tool node, decision node, Now Assist Skill Kit]
 breadcrumb: [Create a prompt, Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-task
 ---
 
 # Add a tool

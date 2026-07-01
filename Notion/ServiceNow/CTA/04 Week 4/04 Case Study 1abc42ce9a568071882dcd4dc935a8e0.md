@@ -1,6 +1,8 @@
 ---
 aliases:
   - "04 Case Study"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -58,6 +60,9 @@ Your audience will be Albert Wan (Program Director/Platform Owner).
 [Files](04%20Case%20Study/Files%201b7c42ce9a5680c391f0ca674eaf9ebc.md)
 
 ## Related
+- [[Help with ppt]]
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
 
 - [[04 Week 4]]
 - [[How governance at Sovereign Bank would apply]]

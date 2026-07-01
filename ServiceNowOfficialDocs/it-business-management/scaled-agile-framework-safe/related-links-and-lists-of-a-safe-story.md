@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Define a story in SAFe, SAFe entities, Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-reference
 ---
 
 # Related links and lists for a SAFe story

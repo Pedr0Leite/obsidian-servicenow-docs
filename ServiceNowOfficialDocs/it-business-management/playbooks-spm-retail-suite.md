@@ -9,6 +9,9 @@ last_updated: "2026-05-14"
 reading_time_minutes: 7
 keywords: [playbooks, SPM retail suite, SPM Retail, store life cycle playbook, retail project playbook]
 breadcrumb: [Explore, Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-concept
 ---
 
 # Explore playbooks for retail projects

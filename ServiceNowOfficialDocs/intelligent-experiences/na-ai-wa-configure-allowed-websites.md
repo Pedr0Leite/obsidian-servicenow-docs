@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-08-28"
 reading_time_minutes: 2
 breadcrumb: [Adaptive desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Configure allowed websites for adaptive desktop actions

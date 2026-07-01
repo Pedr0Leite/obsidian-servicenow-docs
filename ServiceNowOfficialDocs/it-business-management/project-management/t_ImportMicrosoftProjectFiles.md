@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Project import from Microsoft Project, Importing and exporting projects, Using Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-task
 ---
 
 # Import a Microsoft Project file with the Import module

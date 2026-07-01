@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Now Assist, generative AI, Gen AI, installing Now Assist, AI features, AI products, updating Now Assist, solutions, configure Now Assist, Conversational request submission]
 breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - legal
+  - generative
+  - type-concept
 ---
 
 # Now Assist for Legal Service Delivery \(LSD\)

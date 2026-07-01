@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Configure the document template for the Sign document action type for supplier task

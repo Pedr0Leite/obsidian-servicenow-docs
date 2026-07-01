@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2025-10-10"
 reading_time_minutes: 11
 breadcrumb: [Order Management reference, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Customer order states

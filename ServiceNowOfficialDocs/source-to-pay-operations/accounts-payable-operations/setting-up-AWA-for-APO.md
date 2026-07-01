@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Advanced Work Assignment in Accounts Payable Operations, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Setting up Advanced Work Assignment for Accounts Payable Operations

@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Order Management, Additional workflows, Use, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-concept
 ---
 
 # Using the Business Portal in Manufacturing Commercial Operations

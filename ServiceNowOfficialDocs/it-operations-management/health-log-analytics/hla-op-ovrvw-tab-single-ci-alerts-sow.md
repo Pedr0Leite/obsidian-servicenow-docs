@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Health Log Analytics, Overview tab, log analytics alerts, Service Operations Workspace, anomaly detection, identified issue, configuration items, impacted services, meaningful log properties, anomalous behavior, alert investigation, surrounding logs]
 breadcrumb: [Information on the alert Overview tab, Health Log Analytics reference, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-reference
 ---
 
 # Sections and cards on the Overview tab for a Log Analytics alert in Health Log Analytics

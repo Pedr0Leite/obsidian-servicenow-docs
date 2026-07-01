@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-03"
 reading_time_minutes: 2
 breadcrumb: [Software Bill of Materials, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - sbom
+  - bill-of-materials
+  - software
+  - security
+  - type-concept
 ---
 
 # Uploading and viewing your SBOM files in the SBOM Workspace

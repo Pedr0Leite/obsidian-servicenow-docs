@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 1
 keywords: [tisc, threat hunting, playbook, manual add]
 breadcrumb: [Threat Hunting Playbook, Using playbooks, Threat Analyst Workbench, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Add the Threat Hunting Playbook to a Case

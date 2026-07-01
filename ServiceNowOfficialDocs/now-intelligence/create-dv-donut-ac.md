@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 10
 keywords: [Create pie report, Create donut visualization, Create semi-donut report, Create pie visualization, Create donut report, Create semi-donut visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a pie or donut data visualization

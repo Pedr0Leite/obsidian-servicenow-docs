@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-concept
 ---
 
 # Domain separation and Digital Portfolio Management

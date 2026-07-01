@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a monetary benefit plan, Create a demand, Use, Demand Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - demand
+  - pipeline
+  - scoring
+  - itbm
+  - type-task
 ---
 
 # Update a monetary benefit plan breakdown for a demand

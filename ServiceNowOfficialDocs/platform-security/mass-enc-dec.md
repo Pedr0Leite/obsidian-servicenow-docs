@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Run mass encryption or decryption

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-reference
 ---
 
 # External Content Connectors

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Service Level Management reference, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-reference
 ---
 
 # Quick start tests for Service Level Management

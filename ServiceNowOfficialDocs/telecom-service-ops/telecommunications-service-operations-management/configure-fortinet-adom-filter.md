@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configure Fortinet SGC, Configure Telecom Visibility, Configure, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-task
 ---
 
 # Filter ADOMs for the Fortinet pull connector

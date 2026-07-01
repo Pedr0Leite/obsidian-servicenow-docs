@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Change Management, IT Service Management]
+tags:
+  - it-service-management
+  - change-management
+  - cab
+  - risk
+  - itsm
+  - type-task
 ---
 
 # Tutorial: add a new change management state

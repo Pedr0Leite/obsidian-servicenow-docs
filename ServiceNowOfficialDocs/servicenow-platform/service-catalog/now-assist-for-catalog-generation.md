@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [generative AI, Now Assist in Catalog Builder]
 breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-reference
 ---
 
 # Now Assist in Catalog Builder

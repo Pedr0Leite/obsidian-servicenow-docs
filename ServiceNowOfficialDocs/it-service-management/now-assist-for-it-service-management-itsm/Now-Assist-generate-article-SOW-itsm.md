@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Now Assist, Agentic AI, generative AI, Gen AI]
 breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-task
 ---
 
 # Generate a knowledge article from the Service Operations Workspace for ITSM and classic environment by using Now Assist

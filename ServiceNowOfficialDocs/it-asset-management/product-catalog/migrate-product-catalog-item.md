@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [import product catalog item]
 breadcrumb: [Product catalog items, Product Catalog, IT Asset Management]
+tags:
+  - it-asset-management
+  - product-catalog
+  - models
+  - catalog
+  - itam
+  - type-task
 ---
 
 # Import a Product Catalog item

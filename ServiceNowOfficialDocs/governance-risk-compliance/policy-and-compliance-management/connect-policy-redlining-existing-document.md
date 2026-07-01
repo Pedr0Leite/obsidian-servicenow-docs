@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create and associate a policy text document in Microsoft OneDrive, Creating and associating policy texts from Cloud documents, Policy authoring and redlining in Compliance Workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-task
 ---
 
 # Connect an existing document in Microsoft OneDrive to policy

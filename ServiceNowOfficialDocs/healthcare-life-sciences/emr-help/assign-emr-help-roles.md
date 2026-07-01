@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - emr
+  - ehr
+  - healthcare-it
+  - integration
+  - type-task
 ---
 
 # Assign roles for EMR Help users

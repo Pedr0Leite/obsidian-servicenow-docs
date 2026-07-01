@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-10"
 reading_time_minutes: 5
 breadcrumb: [Appliances page, Use the Console pages, Discovery Console for Operational Technology \(OT\), Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Edit an Appliance record

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Audit Management Console, Configuring auditing for a table, Auditing]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Setup your audit retention

@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-05-31"
 reading_time_minutes: 2
 breadcrumb: [Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Install and enable offline capabilities

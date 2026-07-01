@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 2
 breadcrumb: [Export in OSCAL format, CAM OSCAL, Continuous authorization and monitoring tasks in the CAM Workspace, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-authorization
+  - fedramp
+  - grc
+  - monitoring
+  - type-task
 ---
 
 # Export OSCAL Assessment Results

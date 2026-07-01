@@ -1,6 +1,8 @@
 ---
 aliases:
   - "00 Ready to launch"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -20,6 +22,9 @@ tags:
 [How to access a Technical Challenge](00%20Ready%20to%20launch/How%20to%20access%20a%20Technical%20Challenge%20196c42ce9a5680ff83b5e10be841588f.md)
 
 ## Related
+- [[Describe the types of challenges you anticipate So]]
+- [[01 Case study – Files]]
+- [[Text for slides]]
 
 - [[CTA]]
 - [[Introducing Sovereign Bank]]

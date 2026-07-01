@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [contract approval workflow]
 breadcrumb: [Contract Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - contracts
+  - renewals
+  - itsm
+  - type-concept
 ---
 
 # Contract approval flow

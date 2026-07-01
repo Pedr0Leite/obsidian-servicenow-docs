@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How the ECC Queue table records get processed from"
+area: "Mid Server"
+source: notion-export
 tags:
   - ecc-queue
   - mid-server

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Demand Management forms, Reference, Demand Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - demand
+  - pipeline
+  - scoring
+  - itbm
+  - type-reference
 ---
 
 # Non-monetary Benefit Plan form

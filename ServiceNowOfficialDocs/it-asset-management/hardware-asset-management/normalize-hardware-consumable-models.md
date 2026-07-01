@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Normalize hardware and consumable models

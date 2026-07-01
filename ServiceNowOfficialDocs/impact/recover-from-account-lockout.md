@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 1
 breadcrumb: [Register your instance, Scan Engine integrations, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Recover from account lockout

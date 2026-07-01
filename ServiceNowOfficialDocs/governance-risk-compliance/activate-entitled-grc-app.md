@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Download a GRC application from the ServiceNow Store for the first time, GRC and the ServiceNow Store, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Activate an entitled GRC ServiceNow Store application

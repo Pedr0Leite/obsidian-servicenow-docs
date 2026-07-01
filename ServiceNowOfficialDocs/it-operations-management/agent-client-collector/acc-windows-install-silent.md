@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [ACC installation on a Windows machine, ACC deployment - servers, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Install the Agent Client Collector on a Windows machine using silent installation

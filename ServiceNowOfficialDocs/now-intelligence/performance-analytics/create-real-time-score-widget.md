@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Score widgets, Performance Analytics widgets, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Create a real-time score visualization for a score widget

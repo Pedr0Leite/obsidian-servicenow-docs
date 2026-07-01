@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-11"
 reading_time_minutes: 1
 breadcrumb: [Sharing task plan templates, Task Plan Templates, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Share a task plan template from the workspace

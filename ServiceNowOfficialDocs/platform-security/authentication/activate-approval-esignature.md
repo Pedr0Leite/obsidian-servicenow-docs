@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [E-signature for Multi-Provider SSO, Multi-Provider SSO configurations, Multi-Provider single sign-on \(SSO\), Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Activate Approval with e-Signature plugin

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-07"
 reading_time_minutes: 1
 breadcrumb: [Track and monitor store plans, Retail]
+tags:
+  - retail-industry
+  - type-task
 ---
 
 # Track a store plan on the workspace

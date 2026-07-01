@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Architect Responsibilities"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - architecture-principles
@@ -43,6 +45,9 @@ Certified Technical Architects have a successful track record in management cons
 - Technical development
 
 ## Related
+- [[CTA]]
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
 
 - [[01 Week 1]]
 - [[Architectural Principles]]

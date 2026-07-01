@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Serverless Discovery, Running discoveries in your network, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Create pattern and schedule for standard serverless discovery

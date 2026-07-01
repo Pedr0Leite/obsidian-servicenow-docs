@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Agent-Initiated Messaging Interface, Configure, Agent Chat, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - agent-chat
+  - live-chat
+  - messaging
+  - support
+  - type-reference
 ---
 
 # Messaging channels for Agent-Initiated Messaging Interface

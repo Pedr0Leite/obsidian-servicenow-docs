@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2023-08-03"
 reading_time_minutes: 3
 breadcrumb: [Pre-Visit Management, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Configuring Pre-Visit Management

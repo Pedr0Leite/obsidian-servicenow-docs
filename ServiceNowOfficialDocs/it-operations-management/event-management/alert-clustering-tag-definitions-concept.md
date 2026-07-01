@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Mixed alert grouping, Alert grouping types and creation methods, Alert grouping, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-concept
 ---
 
 # Tag cluster alert grouping

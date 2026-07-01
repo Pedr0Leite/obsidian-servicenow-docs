@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Deleting forms and questions, Forms in apps, Build apps, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-task
 ---
 
 # Hide a form from use in the ServiceNow AI Platform in Creator Studio

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [move a dashboard, move a responsive dashboard]
 breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Move a Core UI dashboard with an update set

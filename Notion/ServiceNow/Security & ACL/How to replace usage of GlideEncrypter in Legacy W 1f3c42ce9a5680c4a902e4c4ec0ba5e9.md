@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to replace usage of GlideEncrypter in Legacy W"
+area: "Security & ACL"
+source: notion-export
 tags:
   - encryption
   - glide-encrypter

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Domain separation for Platform Analytics dashboards

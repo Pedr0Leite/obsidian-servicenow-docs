@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice management, supplier, invoice automation]
 breadcrumb: [Working with Supplier Catalog, Using Supplier Collaboration Portal in APO, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Submit new Invoice

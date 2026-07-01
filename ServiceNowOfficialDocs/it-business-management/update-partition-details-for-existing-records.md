@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configure, SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Update partition details for existing records

@@ -11,6 +11,12 @@ last_updated: "2024-12-19"
 reading_time_minutes: 4
 keywords: [SOW configuration, SOW ITOM admin setup]
 breadcrumb: [Exploring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-concept
 ---
 
 # Exploring Service Operations Workspace for ITOM 2

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-14"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Install Now Assist plugins

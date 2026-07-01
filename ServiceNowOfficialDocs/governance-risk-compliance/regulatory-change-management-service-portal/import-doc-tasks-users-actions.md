@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Source document import tasks, Regulatory Change Management Core UI, Use, Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-reference
 ---
 
 # Users, associated actions, and states for the source document import tasks

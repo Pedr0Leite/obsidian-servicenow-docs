@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 2
 keywords: [AI summarization, email interactions, ServiceNow Otto]
 breadcrumb: [Email Interaction, Email channel, Enable communication channels, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # AI summarization of email interactions

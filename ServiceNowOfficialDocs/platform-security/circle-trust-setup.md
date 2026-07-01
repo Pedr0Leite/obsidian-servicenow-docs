@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Load required key pairs and certificates for Code Signing

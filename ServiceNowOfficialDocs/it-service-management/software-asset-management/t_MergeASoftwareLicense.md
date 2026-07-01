@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Software licenses in the legacy Software Asset Management plugin, Legacy Software Asset Management plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - software
+  - itsm
+  - licenses
+  - type-task
 ---
 
 # Merge software licenses using the legacy Software Asset Management plugin

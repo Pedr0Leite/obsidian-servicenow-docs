@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-concept
 ---
 
 # ITOM AIOps configuration center

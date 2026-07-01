@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Context-sensitive help, User interface configuration, Working in Core UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-reference
 ---
 
 # Help context types and prioritization

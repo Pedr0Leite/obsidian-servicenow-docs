@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Using external LLMs with Now Assist"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - genai
@@ -259,6 +261,9 @@ When you are building your own custom generative AI functionality within Now Ass
 [Eliza_0-1767998972924.png](https://www.servicenow.com/community/image/serverpage/image-id/495010iA5A91FA79504B2BF/image-dimensions/632x335?v=v2)
 
 ## Related
+- [[Introducing Custom Record Summarization Now Assist]]
+- [[Now Assist case Summaization in custom tables]]
+- [[Now Assist for CSM - Resolution Notes Generation]]
 
 - [[Now Assist]]
 - [[GenAI]]

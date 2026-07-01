@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-02"
 reading_time_minutes: 1
 breadcrumb: [Verifi, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # Configuring Financial Services Operations Integration with Verifi

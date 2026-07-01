@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Help with ppt"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -151,6 +153,9 @@ tags:
 ---
 
 ## Related
+- [[04 Week 4]]
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
 
 - [[04 Case Study – For PPT]]
 - [[04 Case Study]]

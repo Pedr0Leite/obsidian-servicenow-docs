@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [configure, tisc add-on, splunk]
 breadcrumb: [TISC add-on for Splunk overview, TISC Security Tools integrations, TISC Integrations, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Configure TISC add-on in Splunk

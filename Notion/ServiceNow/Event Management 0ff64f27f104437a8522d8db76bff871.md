@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Event Management"
+area: "Vault Root"
+source: notion-export
 tags:
   - event-management
   - itom

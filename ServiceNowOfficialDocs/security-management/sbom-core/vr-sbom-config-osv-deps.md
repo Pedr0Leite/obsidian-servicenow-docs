@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-03"
 reading_time_minutes: 3
 breadcrumb: [Configure, Software Bill of Materials, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - sbom
+  - bill-of-materials
+  - software
+  - security
+  - type-concept
 ---
 
 # Configuring the Deps.dev, OSV.dev, and PaCE integrations for Software Bill of Materials

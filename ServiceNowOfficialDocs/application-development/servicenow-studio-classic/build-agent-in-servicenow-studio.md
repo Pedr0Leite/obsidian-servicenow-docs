@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-11"
 reading_time_minutes: 4
 breadcrumb: [Use, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-concept
 ---
 
 # Build Agent in ServiceNow Studio

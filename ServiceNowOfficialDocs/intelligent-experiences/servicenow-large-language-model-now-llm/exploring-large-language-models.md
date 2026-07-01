@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-llm
+  - large-language-model
+  - ai
+  - fine-tuning
+  - type-concept
 ---
 
 # Large language models on the ServiceNow AI Platform

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 14
 breadcrumb: [Components installed with additional plugins, Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Workforce Optimization for Field Service components

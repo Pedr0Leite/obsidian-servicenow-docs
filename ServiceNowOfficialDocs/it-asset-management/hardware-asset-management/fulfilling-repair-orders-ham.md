@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Manage asset repair in stockrooms, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Repair order fulfillment in the Hardware Asset Workspace

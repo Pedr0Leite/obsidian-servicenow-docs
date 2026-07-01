@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Chief Human Resources Officer \(CHRO\) Dashboard, Executive dashboard overview, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Chief Human Resources Officer Dashboard data visualizations

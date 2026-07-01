@@ -1,6 +1,8 @@
 ---
 aliases:
   - "EVAM View Template - JSON Configuration"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - evam
@@ -129,6 +131,7 @@ some manner like the [Mobile Card Builder](https://community.servicenow.com/comm
 But until then, I hope this has been a handy resource.
 
 ## Related
+- [[EVAM Navigation – Untitled]]
 
 - [[EVAM]]
 - [[Changing the AI Search navigation on Employee Cent]]

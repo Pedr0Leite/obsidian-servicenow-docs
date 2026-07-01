@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Analytics and reporting solutions for Risk Management, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Advanced Governance, Risk, and Compliance Application Risk dashboard

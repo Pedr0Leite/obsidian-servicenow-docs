@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-05-19"
 reading_time_minutes: 2
 keywords: [Retail Strategic Portfolio Management Suite, SPM retail, retail store projects, store lifecycle management, retail playbooks]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Retail Strategic Portfolio Management Suite release notes

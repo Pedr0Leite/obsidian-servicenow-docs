@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 13
 keywords: [Now Assist, generative AI]
 breadcrumb: [Explore, Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-concept
 ---
 
 # Exploring Now Assist in Regulatory Change Management \(RCM\)

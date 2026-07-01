@@ -9,6 +9,12 @@ last_updated: "2026-06-01"
 reading_time_minutes: 2
 keywords: [Human Resources analytics, CBS Analytics, Core Business Suite dashboard, HR cases, performance trends]
 breadcrumb: [CBS Analytics overview, View Core Business Suite Analytics, Use, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Human Resources analytics on the CBS dashboard

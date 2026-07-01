@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 15
 keywords: [slack, integration profile, saas]
 breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - saas
+  - license-management
+  - discovery
+  - optimization
+  - type-concept
 ---
 
 # Integrating with Slack

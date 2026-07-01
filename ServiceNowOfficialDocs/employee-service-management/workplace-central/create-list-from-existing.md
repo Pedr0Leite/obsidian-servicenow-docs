@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 1
 breadcrumb: [Creating custom lists on Workplace Central, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Create a custom list based on an existing list

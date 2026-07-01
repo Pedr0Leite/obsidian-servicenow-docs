@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory]
+tags:
+  - telecom-network-inventory
+  - network-inventory
+  - telecom
+  - resources
+  - tni
+  - type-concept
 ---
 
 # Data collection and refresh for the Network Inventory Workspace widgets

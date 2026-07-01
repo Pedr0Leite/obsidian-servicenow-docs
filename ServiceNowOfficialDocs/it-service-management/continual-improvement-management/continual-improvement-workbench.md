@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Overview, Continual Improvement Management, IT Service Management]
+tags:
+  - it-service-management
+  - cim
+  - improvements
+  - itsm
+  - metrics
+  - type-concept
 ---
 
 # Continual Improvement Workbench

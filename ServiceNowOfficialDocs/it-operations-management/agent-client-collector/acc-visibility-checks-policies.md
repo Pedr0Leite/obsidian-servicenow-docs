@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Agent Client Collector, Agent Client Collector for Visibility, ACC for Visibility]
 breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Agent Client Collector for Visibility - Content default checks and policies

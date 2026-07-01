@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setup Integrated Facilities Management Integration Framework, Workplace Case Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace
+  - cases
+  - facilities
+  - management
+  - type-task
 ---
 
 # Configure provider routing rules

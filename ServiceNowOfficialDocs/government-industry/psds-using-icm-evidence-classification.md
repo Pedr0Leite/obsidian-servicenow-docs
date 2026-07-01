@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-13"
 reading_time_minutes: 1
 breadcrumb: [Using Evidence Management, Investigative Case Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure the security classification of an evidence record in Investigative Case Management

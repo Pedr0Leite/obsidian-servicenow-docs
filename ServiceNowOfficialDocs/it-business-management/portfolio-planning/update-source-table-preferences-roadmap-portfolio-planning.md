@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [alignment planner workspace, portfolio planning workspace, portfolio planner, strategic planner, strategic planning workspace]
 breadcrumb: [Configuring Prioritization and Roadmap settings in Portfolio Planning, Configure, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Customize the planning item display preferences for Prioritization and Roadmap in Portfolio Planning Workspace

@@ -9,6 +9,9 @@ last_updated: "2026-05-20"
 reading_time_minutes: 1
 keywords: [install CSM, activate CSM]
 breadcrumb: [Getting started with Customer Service Management, Set up your environment, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Install all Customer Service Management applications

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Components installed with the email client, Email client, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # Quick message author \[email\_client\_quick\_message\_author\]

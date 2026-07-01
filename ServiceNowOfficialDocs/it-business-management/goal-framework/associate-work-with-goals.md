@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Manage goals, Goal Framework and Goal Framework for SPM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - goals
+  - okr
+  - alignment
+  - itbm
+  - type-task
 ---
 
 # Associate a work or planning item with goals or targets

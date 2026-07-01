@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Self-declaring SAP engine license usage, Software Asset Management publisher pack for SAP, Supported software publisher licenses, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-task
 ---
 
 # Self-declare SAP engine license usage in the Software Asset Management classic application

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Global Identity, Identity]
+tags:
+  - platform-security
+  - identity
+  - idp
+  - federation
+  - sso
+  - type-task
 ---
 
 # Updating ID fields

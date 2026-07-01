@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 17
 breadcrumb: [Customizing Service Operations Workspace for ITSM to align with your requirements, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-concept
 ---
 
 # Customize the incident record page

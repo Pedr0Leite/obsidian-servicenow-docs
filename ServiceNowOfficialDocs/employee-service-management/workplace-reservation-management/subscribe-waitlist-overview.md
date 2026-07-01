@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 6
 breadcrumb: [Manage employee reservations, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-concept
 ---
 
 # Manage and configure reservation waitlist

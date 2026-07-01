@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Now Assist, agentic AI, AI readiness]
 breadcrumb: [ServiceNow AI implementation, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # AI governance for Now Assist on the ServiceNow AI Platform

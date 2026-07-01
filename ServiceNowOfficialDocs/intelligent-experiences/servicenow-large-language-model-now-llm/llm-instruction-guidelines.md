@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [LLM, Large language model, writing, guidelines, instructions, Now Assist, GenAI, Generative AI]
 breadcrumb: [Large language models on the ServiceNow AI Platform, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-llm
+  - large-language-model
+  - ai
+  - fine-tuning
+  - type-concept
 ---
 
 # General guidelines for writing instructions for generative AI large language models \(LLMs\)

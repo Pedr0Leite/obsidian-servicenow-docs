@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Analytics, reference, user roles, domain separation, Generative AI, GenAI]
 breadcrumb: [Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist Analytics reference

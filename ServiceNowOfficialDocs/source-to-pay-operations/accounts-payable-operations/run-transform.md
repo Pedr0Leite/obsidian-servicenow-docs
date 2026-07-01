@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice management, admin, invoice automation]
 breadcrumb: [Load invoice data, Import data into invoice, Accounts Payable Operations integration framework, Integrate, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Run transform to update invoice data

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Service Operations Workspace for ITSM reference, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-reference
 ---
 
 # Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM

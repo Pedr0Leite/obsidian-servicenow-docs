@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request task management, Request Management in a Service Management application, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-reference
 ---
 
 # Request task states

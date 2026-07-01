@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, ReleaseOps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - release-management
+  - pipeline
+  - ci-cd
+  - devops
+  - type-reference
 ---
 
 # Deployment analyzer rules

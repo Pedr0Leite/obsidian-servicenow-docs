@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaborate with your project teams using PPM Collaboration application, Using Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-concept
 ---
 
 # Setting up PPM collaboration for Microsoft Teams

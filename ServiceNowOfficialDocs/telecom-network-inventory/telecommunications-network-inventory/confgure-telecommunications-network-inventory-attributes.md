@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Telecommunications Network Inventory]
+tags:
+  - telecom-network-inventory
+  - network-inventory
+  - telecom
+  - resources
+  - tni
+  - type-task
 ---
 
 # Configure attributes

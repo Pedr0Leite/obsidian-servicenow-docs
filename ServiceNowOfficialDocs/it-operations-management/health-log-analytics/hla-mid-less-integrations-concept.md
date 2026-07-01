@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 4
 keywords: [Health Log Analytics, HLA, OpenTelemetry, OTel, MID-less log streaming, integration, ITOM Gateway, JSON Web Token \(JWT\)]
 breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # MID-less integrations for Health Log Analytics

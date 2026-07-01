@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use agentic AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-reference
 ---
 
 # Release lifecycle documentation AI agent

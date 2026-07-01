@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Assign or remove access for non-admins, Configure, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-task
 ---
 
 # Assign the user criteria for Can Read access to a site

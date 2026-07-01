@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Transfer, LINE, chat, conversations, Live Agent, AWA, Advanced Work Assignment, Conversational, Messaging, Integration]
 breadcrumb: [Use, Conversational Integration with LINE, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Transfer LINE chat conversations to live agents

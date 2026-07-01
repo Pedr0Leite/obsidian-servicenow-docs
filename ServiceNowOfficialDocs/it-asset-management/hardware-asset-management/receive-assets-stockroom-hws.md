@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Manage the receiving of assets at stockrooms, Manage stockrooms, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Receive a hardware asset at a stockroom in the Hardware Asset Workspace

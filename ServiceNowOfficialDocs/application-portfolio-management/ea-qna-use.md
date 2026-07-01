@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 2
 breadcrumb: [Use Now Assist, Now Assist for Enterprise Architecture \(EA\), Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Use Enterprise Architecture query agent

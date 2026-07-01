@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-task
 ---
 
 # Map an IP address to a DNS name

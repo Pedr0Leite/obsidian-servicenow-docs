@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Build Custom AI Skills with Now Assist Skill Kit S"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist-skill-kit
   - genai

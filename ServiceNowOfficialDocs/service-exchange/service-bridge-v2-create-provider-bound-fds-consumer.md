@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure outbound FDS as consumers, Configure for consumers, Service Exchange for Consumers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-task
 ---
 
 # Create and publish a provider-bound FDS offering definition

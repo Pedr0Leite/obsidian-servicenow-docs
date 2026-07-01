@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring air gap connections, Microsoft SCCM, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-task
 ---
 
 # Perform a test data load for the air gap solution for Microsoft SCCM

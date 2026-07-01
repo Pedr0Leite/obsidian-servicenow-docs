@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2024-03-11"
 reading_time_minutes: 1
 breadcrumb: [Roles for all products]
+tags:
+  - roles-by-product
+  - type-reference
 ---
 
 # Hermes Messaging Service roles

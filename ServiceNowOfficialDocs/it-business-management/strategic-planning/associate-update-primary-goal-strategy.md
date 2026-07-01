@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Manage enterprise goals, Strategy and Goals, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-task
 ---
 
 # Associate or update primary goal or target

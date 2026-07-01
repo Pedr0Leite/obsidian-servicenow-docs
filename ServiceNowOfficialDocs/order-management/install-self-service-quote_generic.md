@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Quote creation via Self-Service, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Install Quote Self-Service

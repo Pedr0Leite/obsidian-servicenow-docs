@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage internal stakeholders, Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Add internal stakeholders from the Source-to-Pay Workspace

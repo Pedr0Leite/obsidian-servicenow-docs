@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-04-22"
 reading_time_minutes: 1
 breadcrumb: [Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-concept
 ---
 
 # Integrating Manufacturing Commercial Operations with other applications

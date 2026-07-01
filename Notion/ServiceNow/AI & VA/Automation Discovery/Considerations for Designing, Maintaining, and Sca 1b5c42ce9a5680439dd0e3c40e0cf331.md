@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Automation Discovery – Considerations for Designing, Maintaining, and Sca"
+area: "AI & VA"
+source: notion-export
 tags:
   - automation-discovery
   - virtual-agent
@@ -40,6 +42,9 @@ recommendation has a New status, you may select it and click Add to
 Virtual Agent.
 
 ## Related
+- [[Issue Auto Resolution – Considerations for Designing, Maintaining, and Sca]]
+- [[Issue Auto Resolution]]
+- [[Now Assist]]
 
 - [[Automation Discovery]]
 - [[VA - Basic Arch and ACLs]]

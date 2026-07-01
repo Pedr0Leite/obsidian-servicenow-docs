@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-31"
 reading_time_minutes: 1
 breadcrumb: [Identify affected accounts, Use, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-task
 ---
 
 # Communicate with customer about proactive case

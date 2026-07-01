@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: tsom
 doc_type: toc
+tags:
+  - telecom-service-ops
 ---
 
 # Australia Telecom Service Operations Management

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-22"
 reading_time_minutes: 2
 breadcrumb: [Configure, Telecommunications Customer 360, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-reference
 ---
 
 # Extension points in Telecommunications Customer 360

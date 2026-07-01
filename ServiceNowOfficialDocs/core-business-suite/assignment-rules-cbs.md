@@ -9,6 +9,12 @@ last_updated: "2026-06-08"
 reading_time_minutes: 1
 keywords: [assignment rule, form fields, CBS]
 breadcrumb: [Reference, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-reference
 ---
 
 # Assignment rule form

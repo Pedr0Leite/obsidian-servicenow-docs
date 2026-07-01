@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 144
 breadcrumb: [Basic system configuration, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # Available system properties

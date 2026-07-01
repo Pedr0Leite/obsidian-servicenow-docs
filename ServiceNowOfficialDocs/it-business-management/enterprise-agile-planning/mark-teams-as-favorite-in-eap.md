@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage team backlog, Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-task
 ---
 
 # Add or remove teams from Favorites in EAP

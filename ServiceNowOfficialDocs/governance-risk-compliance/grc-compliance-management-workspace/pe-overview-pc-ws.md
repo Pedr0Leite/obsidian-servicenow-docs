@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request a policy exception using the Compliance Workspace, Manage policy exceptions and extensions using the Compliance Workspace, Use, GRC Compliance workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - workspace
+  - grc
+  - oversight
+  - type-concept
 ---
 
 # Manage policy exception from the overview page

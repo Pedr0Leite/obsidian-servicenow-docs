@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [insurance csr customer insights ai agent, generate insurance customer insights, insurance customer 360 now assist, insurance ai agent customer 360, insurance policy insights, insurance claims insights, insurance coverage insights, agentic contact center insurance ai insights]
 breadcrumb: [Agentic Contact Center for Insurance AI agents overview, AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Generate customer insights in the Customer 360 page for Agentic Contact Center for Insurance

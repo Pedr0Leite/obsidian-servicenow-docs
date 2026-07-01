@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Scenario Analysis, Operational Resilience, scenario testing, simulation assessment, Annual Loss Model, Start Simulation]
 breadcrumb: [Building a scenario analysis using simulation, Scenario analysis using simulation, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Start simulation and run scenario testing

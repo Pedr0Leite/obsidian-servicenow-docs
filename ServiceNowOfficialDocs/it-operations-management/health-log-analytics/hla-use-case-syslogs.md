@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [ServiceNow, Health Log Analytics, HLA, system logs, instance, monitoring, use case, data input, MID Server, System Logs Retriever]
 breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Use Case: Proactive monitoring of your ServiceNow instance in Health Log Analytics

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Configure change models, Configuring Simplified Change Management, Configuring the fulfiller experience in Simplified IT Service Management, Configure integrations and ITSM experiences in Simplified IT Service Management, Configure and integrate, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Change model defaults for Simplified Change Management

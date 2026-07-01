@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-23"
 reading_time_minutes: 3
 breadcrumb: [Using External Key Management Service, External Key Management Service, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # External Key Management Service and instance automation

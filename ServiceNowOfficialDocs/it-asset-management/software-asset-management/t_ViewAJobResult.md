@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [View normalization suggestions in Software Asset Management classic, Using Software Asset Management classic, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-task
 ---
 
 # View a software job result

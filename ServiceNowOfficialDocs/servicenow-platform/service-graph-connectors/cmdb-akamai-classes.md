@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Akamai API Security, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-reference
 ---
 
 # CMDB classes targeted in Service Graph Connector for Akamai API Security

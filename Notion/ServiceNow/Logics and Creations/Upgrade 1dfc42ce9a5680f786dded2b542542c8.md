@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Upgrade"
+area: "Logics and Creations"
+source: notion-export
 tags:
   - upgrade
   - cloning

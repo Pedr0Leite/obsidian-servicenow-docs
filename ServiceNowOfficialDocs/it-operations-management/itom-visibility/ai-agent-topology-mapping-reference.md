@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [reference]
 breadcrumb: [AI Agent Topology Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-concept
 ---
 
 # AI Agent Topology Mapping reference

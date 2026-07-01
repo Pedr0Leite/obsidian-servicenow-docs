@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Now Assist in Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - now-assist
+  - ai
+  - knowledge
+  - generative
+  - type-concept
 ---
 
 # Configuring Now Assist in Knowledge Management

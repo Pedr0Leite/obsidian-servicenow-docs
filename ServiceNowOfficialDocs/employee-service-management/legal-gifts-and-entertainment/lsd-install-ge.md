@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Gifts and Entertainment Compliance, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - gifts
+  - entertainment
+  - compliance
+  - type-task
 ---
 
 # Install Gifts and Entertainment Compliance

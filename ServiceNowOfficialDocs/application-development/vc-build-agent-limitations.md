@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Build Agent overview, Develop, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Limitations of agentic app generation with Build Agent

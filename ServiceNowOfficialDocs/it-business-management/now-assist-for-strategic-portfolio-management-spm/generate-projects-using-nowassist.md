@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-16"
 reading_time_minutes: 2
 breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Generate a project plan using project plan generation skill

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist skill, Now Assist, Gen AI, Generative AI, SPM, Strategic Portfolio Management, Demand summarization]
 breadcrumb: [Use, Demand Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - demand
+  - pipeline
+  - scoring
+  - itbm
+  - type-task
 ---
 
 # Summarize demands with demand summarization skill

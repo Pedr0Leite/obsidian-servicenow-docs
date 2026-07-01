@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Add lists under list categories, Add list category in SOW core, Using Universal Task, Universal Task, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-task
+  - tasks
+  - workflow
+  - coordination
+  - type-reference
 ---
 
 # UX List Form SOW

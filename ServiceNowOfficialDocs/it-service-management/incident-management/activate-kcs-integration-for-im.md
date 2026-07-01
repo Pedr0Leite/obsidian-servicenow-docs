@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-01-30"
 reading_time_minutes: 2
 breadcrumb: [Incident Management plugins, Reference, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-task
 ---
 
 # Activate KCS Integration for Incident Management

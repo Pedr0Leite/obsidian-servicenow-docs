@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use, Universal Request, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-request
+  - routing
+  - hr
+  - cross-department
+  - type-task
 ---
 
 # Transfer a primary ticket

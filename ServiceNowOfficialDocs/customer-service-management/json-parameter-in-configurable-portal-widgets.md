@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configurable Portal Widgets reference, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # JSON parameter in Configurable Portal Widgets

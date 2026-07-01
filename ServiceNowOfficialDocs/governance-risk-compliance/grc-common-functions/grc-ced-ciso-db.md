@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Risk and compliance dashboard, Cybersecurity Executive dashboard, Chief Information Security Officer]
 breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # Cybersecurity Executive dashboard for Chief Information Security Officers

@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 2
 keywords: [risk assessment methodologies, RAM, AI Risk and Compliance, risk classification, risk scoring]
 breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-reference
 ---
 
 # Risk assessment methodologies reference

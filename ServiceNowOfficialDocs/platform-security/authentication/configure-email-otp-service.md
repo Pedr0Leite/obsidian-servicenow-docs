@@ -11,6 +11,13 @@ last_updated: "2026-06-01"
 reading_time_minutes: 1
 keywords: [email OTP, one-time password, authentication]
 breadcrumb: [Email OTP authentication, Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Configure Email OTP

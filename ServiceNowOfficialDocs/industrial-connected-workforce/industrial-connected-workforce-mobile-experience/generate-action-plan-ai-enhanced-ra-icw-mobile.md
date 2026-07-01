@@ -11,6 +11,13 @@ last_updated: "2026-04-25"
 reading_time_minutes: 2
 keywords: [action plan, AI enhanced recommended actions, Industrial Connected Workspace, Digital Factory Workspace, ICW, Deviation remediation]
 breadcrumb: [Create a deviation, Use, Industrial Connected Workforce Mobile Experience, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - mobile
+  - factory
+  - workers
+  - industrial
+  - type-task
 ---
 
 # Generate an action plan using AI Enhanced recommended actions for ICW Mobile

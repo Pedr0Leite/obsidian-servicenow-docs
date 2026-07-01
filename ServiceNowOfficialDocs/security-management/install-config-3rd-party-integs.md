@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Security Operations Integration Configurations, ServiceNow Security Operations integration development guidelines, Security Operations Integration Reference, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Activate and configure third-party integrations

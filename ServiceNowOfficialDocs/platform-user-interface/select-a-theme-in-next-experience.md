@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [choose theme, select theme, theme user preference]
 breadcrumb: [Preferences, Use, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-task
 ---
 
 # Select a theme in Next Experience

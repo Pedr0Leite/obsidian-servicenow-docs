@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Lifecycle Events reference, Lifecycle Events, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lifecycle-events
+  - onboarding
+  - offboarding
+  - transitions
+  - type-reference
 ---
 
 # Components installed with Lifecycle Events for Enterprise

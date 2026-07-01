@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Integrating Now Assist in Virtual Agent with Microsoft Copilot, Use Now Assist in VA conversations with Teams, Conversational Integration with Microsoft Teams, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Now Assist in Virtual Agent conversations with Microsoft Copilot

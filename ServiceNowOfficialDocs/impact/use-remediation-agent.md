@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Prevent technical debt with real-time code fixes, Prevent and resolve technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Use Real-time prevention monitoring to fix a general guidelines finding

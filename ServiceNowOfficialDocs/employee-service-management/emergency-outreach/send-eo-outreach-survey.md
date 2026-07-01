@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - outreach
+  - notifications
+  - mass-comms
+  - type-task
 ---
 
 # Send a readiness survey and view responses

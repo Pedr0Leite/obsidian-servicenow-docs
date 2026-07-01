@@ -9,6 +9,9 @@ last_updated: "2025-09-05"
 reading_time_minutes: 2
 keywords: [Google chrome extension]
 breadcrumb: [Adaptive desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Install the Google Chrome extension for adaptive desktop actions

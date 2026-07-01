@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - core
+  - ehs
+  - data-model
+  - type-reference
 ---
 
 # Health and Safety Core

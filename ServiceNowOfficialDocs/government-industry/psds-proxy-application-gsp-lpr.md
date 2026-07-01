@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [How to create a License and Permit request on behalf of a constituent or business, Create a License and Permit request]
 breadcrumb: [Using License and Permit Playbook, Playbooks, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Create a License and Permit request on behalf of a constituent or business

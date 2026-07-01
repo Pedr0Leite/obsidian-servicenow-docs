@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [AI in Hardware Asset Management, Explore, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Supporting information for Now Assist for Hardware Asset Management \(HAM\)

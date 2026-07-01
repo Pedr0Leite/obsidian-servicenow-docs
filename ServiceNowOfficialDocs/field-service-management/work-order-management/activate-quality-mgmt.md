@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Quality Management, Set up work orders and tasks, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-task
 ---
 
 # Activate Field Service Quality Management

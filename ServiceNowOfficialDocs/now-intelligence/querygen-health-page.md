@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI search, LLM status, semantic layer]
 breadcrumb: [Tuning the semantic layer, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Query Generation Health page

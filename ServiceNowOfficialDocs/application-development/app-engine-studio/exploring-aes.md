@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [App Engine, App Engine ServiceNow, App Engine Studio, low code development, ServiceNow App Engine, performance review template, app template, app engine studio in servicenow]
 breadcrumb: [App Engine Studio, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - aes
+  - low-code
+  - app-builder
+  - drag-and-drop
+  - type-concept
 ---
 
 # Exploring App Engine Studio

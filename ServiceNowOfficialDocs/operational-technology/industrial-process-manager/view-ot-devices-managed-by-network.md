@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Review and update the equipment model details, Managing equipment models, Use, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-task
 ---
 
 # View all OT devices by managed network

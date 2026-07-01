@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-SolarWinds, SGC SolarWinds, SGC for SolarWinds, SolarWinds SGC, Service Graph Connector for SolarWinds, SolarWinds connection details, SolarWinds connection, common connection framework, CCF, SGC-SolarWinds, SGC SolarWinds, SGC for SolarWinds, SolarWinds SGC, Service Graph Connector for SolarWinds, SolarWinds connection details, SolarWinds connection, common connection framework, CCF]
 breadcrumb: [SolarWinds, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for SolarWinds

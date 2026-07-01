@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Workplace Management]
 breadcrumb: [Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-core
+  - data-model
+  - foundation
+  - type-concept
 ---
 
 # Workplace Core

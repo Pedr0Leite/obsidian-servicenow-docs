@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [reference]
 breadcrumb: [Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Core Business Suite reference

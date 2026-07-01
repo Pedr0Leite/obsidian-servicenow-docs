@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 6
 breadcrumb: [Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Mobile experience capabilities available in offline mode

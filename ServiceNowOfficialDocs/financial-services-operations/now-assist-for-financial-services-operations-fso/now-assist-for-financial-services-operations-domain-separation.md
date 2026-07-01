@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [generative AI for financial services operations domain separation, generative AI for FSO domain separation]
 breadcrumb: [Reference, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Domain separation and Now Assist for Financial Services Operations \(FSO\)

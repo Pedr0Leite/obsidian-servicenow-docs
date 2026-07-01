@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Standalone Signing Tool, Using Code Signing, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Signing Tool arguments

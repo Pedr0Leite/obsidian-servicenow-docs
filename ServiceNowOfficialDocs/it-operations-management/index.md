@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: itom
 doc_type: toc
+tags:
+  - it-operations-management
 ---
 
 # Australia IT Operations Management

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Work on a legal request through Mobile Agent, Legal Mobile, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - mobile
+  - app
+  - lsd
+  - type-task
 ---
 
 # Manage a checklist for a legal request through Mobile Agent

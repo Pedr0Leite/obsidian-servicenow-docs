@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 2
 breadcrumb: [Configure PaCE Eligibility Framework Engine, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure the Smart Assessment Engine for Grants Management

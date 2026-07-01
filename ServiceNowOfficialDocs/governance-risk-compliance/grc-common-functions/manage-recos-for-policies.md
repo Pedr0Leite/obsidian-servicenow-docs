@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [generative AI, GenAI, Now Assist, ServiceNow AI Platform]
 breadcrumb: [Generate recommendations for regulatory alert impacted areas, Use generative AI skills, Now Assist, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-task
 ---
 
 # Accept or dismiss recommendations for regulatory alert impacted policies

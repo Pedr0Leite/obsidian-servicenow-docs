@@ -9,6 +9,9 @@ last_updated: "2026-04-01"
 reading_time_minutes: 5
 keywords: [ITOM Health, admin configuration, AIOps setup, Event Management, Service Operations Workspace]
 breadcrumb: [Explore, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # Admin configuration use case for AIOps

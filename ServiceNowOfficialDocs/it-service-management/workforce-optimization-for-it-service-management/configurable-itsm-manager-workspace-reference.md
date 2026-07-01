@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Advanced configurations, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-reference
 ---
 
 # Workforce Optimization ITSM Manager Workspace components

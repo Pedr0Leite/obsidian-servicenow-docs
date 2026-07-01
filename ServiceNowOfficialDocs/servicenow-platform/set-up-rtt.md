@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Real Time Transcription for ServiceNow Voice Customer Service Management, Setting up ServiceNow Voice, ServiceNow Voice, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-task
 ---
 
 # Set up Real-Time Transcription for ServiceNow Voice

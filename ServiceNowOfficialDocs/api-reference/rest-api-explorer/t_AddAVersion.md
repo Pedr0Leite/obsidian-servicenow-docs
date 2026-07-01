@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable versioning for a scripted REST API, Create a scripted REST API, Scripted REST APIs, REST APIs, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - api-explorer
+  - testing
+  - endpoints
+  - type-task
 ---
 
 # Add a version to a scripted REST API

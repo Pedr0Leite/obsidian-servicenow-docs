@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-29"
 reading_time_minutes: 2
 breadcrumb: [Content engagement, Setup employee communications, Configuring Employee Center Pro, Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Smart prioritization

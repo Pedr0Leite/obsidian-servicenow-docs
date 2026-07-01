@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage email tasks, Using CSM Configurable Workspace in Customer Service Management, Manage cases, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Send an email response from a case activity stream

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [configuring generative AI for financial services operations, configuring generative AI for FSO]
 breadcrumb: [Features, Now Assist Finance Supply Chain, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - now-assist
+  - ai
+  - fsc
+  - generative
+  - type-task
 ---
 
 # Configuring Now Assist for Common Finance and Supply Chain features

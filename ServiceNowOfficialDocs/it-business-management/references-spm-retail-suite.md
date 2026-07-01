@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 1
 keywords: [reference, SPM Retail]
 breadcrumb: [Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-concept
 ---
 
 # Retail Strategic Portfolio Management Suite References

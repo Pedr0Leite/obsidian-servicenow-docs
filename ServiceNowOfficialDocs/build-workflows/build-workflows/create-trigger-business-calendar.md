@@ -6,6 +6,13 @@ release: australia
 topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
+tags:
+  - build-workflows
+  - workflow
+  - flow-designer
+  - automation
+  - orchestration
+  - type-task
 ---
 
 # Create a scheduled trigger using business calendar

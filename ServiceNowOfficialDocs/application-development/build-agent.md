@@ -9,6 +9,9 @@ last_updated: "2026-04-30"
 reading_time_minutes: 2
 keywords: [Build Agent, AI agent, autonomous AI, application development, ServiceNow applications, conversational interface, natural language, application lifecycle management, Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Build Agent

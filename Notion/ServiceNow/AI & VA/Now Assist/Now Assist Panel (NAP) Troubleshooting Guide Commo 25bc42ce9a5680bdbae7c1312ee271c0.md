@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist Panel (NAP) Troubleshooting Guide Commo"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - troubleshooting
@@ -203,6 +205,9 @@ Users have created AI agent use cases, but they don't show output in the Now Ass
     - Check system logs for integration errors
 
 ## Related
+- [[Now Assist in AI Search]]
+- [[Now Assist Q&A using Dynamic Translation]]
+- [[GenAI]]
 
 - [[Now Assist]]
 - [[Now Assist for ITSM Handling Customization Scenari]]

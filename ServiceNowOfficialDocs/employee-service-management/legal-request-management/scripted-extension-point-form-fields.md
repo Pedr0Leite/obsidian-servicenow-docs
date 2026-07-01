@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create implementation in Scripted Extension Point, Configure legal storage system, Configure, Legal Request Management, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - requests
+  - intake
+  - routing
+  - type-concept
 ---
 
 # Scripted Extension Point form fields

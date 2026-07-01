@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [AI Search, Virtual Agent, ServiceNow AI Platform, User experience]
 breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Improving the user experience with AI Search

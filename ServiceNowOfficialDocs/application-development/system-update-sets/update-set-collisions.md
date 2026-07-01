@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Compare local update sets, Working with update sets, System update sets, Deploying applications, Building applications]
+tags:
+  - application-development
+  - update-sets
+  - deployment
+  - migration
+  - version-control
+  - type-reference
 ---
 
 # Update set collision resolution

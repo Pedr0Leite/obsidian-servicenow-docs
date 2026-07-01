@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using the Consumer Service Portal, Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Accept or reject a case solution from the Consumer Service Portal

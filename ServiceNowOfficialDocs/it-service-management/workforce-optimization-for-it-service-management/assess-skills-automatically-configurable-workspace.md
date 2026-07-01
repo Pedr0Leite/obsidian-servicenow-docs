@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Surveys, Training your teams, Coaching, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Assess the quality of your agent's completed tasks

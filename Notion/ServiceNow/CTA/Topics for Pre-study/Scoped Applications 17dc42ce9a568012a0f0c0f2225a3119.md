@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Scoped Applications"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -197,6 +199,9 @@ For your CTA case study, you’ll want to emphasize the architectural considerat
 This structure should serve as a good foundation for understanding and documenting Scoped Applications in ServiceNow, as well as assisting you in preparing your CTA case study. Let me know if you need more details on any specific section!
 
 ## Related
+- [[Exam questions - per topics]]
+- [[Real questions]]
+- [[TO REVIEW FOR EXAM]]
 - [[Topics for Pre-study]]
 - [[Technical Governance]]
 - [[Domain Separation]]

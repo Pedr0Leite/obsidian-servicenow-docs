@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Set up a grant program, Grants Management Program Setup, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Set up a results letter using a template in Grants Management

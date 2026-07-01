@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Software Asset Management Foundation plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - foundation
+  - plugin
+  - itsm
+  - type-concept
 ---
 
 # Configuring the classic Software Asset Management Foundation plugin

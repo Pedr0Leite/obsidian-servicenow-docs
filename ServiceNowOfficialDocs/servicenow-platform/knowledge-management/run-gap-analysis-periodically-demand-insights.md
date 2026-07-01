@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuration tasks for knowledge demand insights, Configuring Knowledge Management, Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - knowledge-management
+  - kb
+  - articles
+  - search
+  - type-task
 ---
 
 # Set the frequency of knowledge gap analysis

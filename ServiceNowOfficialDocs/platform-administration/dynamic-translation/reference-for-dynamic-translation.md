@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-14"
 reading_time_minutes: 1
 breadcrumb: [Dynamic Translation, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - translation
+  - localization
+  - dynamic
+  - languages
+  - type-concept
 ---
 
 # Reference for Dynamic Translation

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Choose tasks to run, Assigning tasks using Dynamic Scheduling, Scheduling and dispatching, Use, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-concept
 ---
 
 # Confirm Assignment pop-up window

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI for financial services operations skill inputs, generative AI for FSO skill inputs]
 breadcrumb: [Configure, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Skill inputs for Now Assist for Financial Services Operations \(FSO\)

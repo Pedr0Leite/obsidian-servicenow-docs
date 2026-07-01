@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-16"
 reading_time_minutes: 2
 breadcrumb: [Product offerings and catalogs, Configure, Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-concept
 ---
 
 # Creating and publishing product offering versions

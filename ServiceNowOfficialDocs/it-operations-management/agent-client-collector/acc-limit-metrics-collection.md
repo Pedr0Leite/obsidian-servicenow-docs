@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable metrics collection and evaluation, ACC deployment - shared between servers and endpoints, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Limit metrics collection and evaluation

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable data collection for Value Management, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Impact Value Management Data Collection Content Pack for IRM

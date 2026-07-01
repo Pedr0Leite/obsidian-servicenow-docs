@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [custom table record summarization, Now Assist for App Engine, AI skill, AI in custom apps, table summary generation]
 breadcrumb: [Explore, Now Assist for App Engine, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - code-generation
+  - app-engine
+  - type-concept
 ---
 
 # Custom app record summarization skill

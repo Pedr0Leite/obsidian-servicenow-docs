@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - reports
+  - builder
+  - scheduling
+  - analytics
+  - type-task
 ---
 
 # Create coloring rules for multilevel pivot reports

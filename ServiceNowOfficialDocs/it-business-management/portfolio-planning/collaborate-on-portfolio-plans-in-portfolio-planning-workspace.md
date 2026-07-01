@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [alignment planner workspace, portfolio planning workspace, portfolio planner, strategic planner, strategic planning workspace]
 breadcrumb: [Manage portfolio plans, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Collaborate on portfolio plans

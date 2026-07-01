@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2023-08-03"
 reading_time_minutes: 6
 breadcrumb: [KPI Details, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Indicator targets and thresholds in KPI Details

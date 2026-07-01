@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-26"
 reading_time_minutes: 4
 breadcrumb: [Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Create and secure an AI agent in Now Assist

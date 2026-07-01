@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integration with Project Portfolio Management, Integrating Field Service Management with other applications, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - integrations
+  - mapping
+  - fsm
+  - connectors
+  - type-concept
 ---
 
 # Customize the work order state transition map

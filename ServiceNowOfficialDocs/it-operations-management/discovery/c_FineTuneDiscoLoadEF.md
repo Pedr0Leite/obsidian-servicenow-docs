@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Discovery to use Event Framework, Advanced Discovery configuration, Configuring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Optimizing Discovery load for Event Framework

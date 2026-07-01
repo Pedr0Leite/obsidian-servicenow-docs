@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [filter search results, Log Viewer filters, field filters, column filters, filter operators, exclude filters, negative filters, remove filters, Selected fields, Available fields, filter values, field value filters]
 breadcrumb: [Review alert-related logs on the Log Viewer, Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Filter search results on the Log Viewer in Health Log Analytics

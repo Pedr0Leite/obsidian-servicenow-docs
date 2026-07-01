@@ -9,6 +9,13 @@ last_updated: "2026-04-14"
 reading_time_minutes: 1
 keywords: [AI system, business application, remove, unassign, association, portfolio]
 breadcrumb: [Working with an application portfolio, Working with Portfolio list view, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Remove an AI system from a business application

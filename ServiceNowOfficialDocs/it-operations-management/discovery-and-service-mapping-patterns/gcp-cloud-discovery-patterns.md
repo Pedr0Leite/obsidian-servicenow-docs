@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [GCP discovery, GCP patterns, Google Cloud Platform discovery, Google Cloud Platform patterns]
 breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Google Cloud Platform \(GCP\) Cloud discovery using Patterns

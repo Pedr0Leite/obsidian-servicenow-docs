@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Inventory and asset management, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - assets
+  - parts
+  - field-service
+  - inventory
+  - type-concept
 ---
 
 # Configuring stockrooms

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist for Employee Center Pro, Now Assist, Agentic AI]
 breadcrumb: [Now Assist for Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Configuring Now Assist for Employee Center Pro

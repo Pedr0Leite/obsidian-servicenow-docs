@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Access Service Operations Workspace ITOM, Service Operations Workspace ITOM Home page]
 breadcrumb: [Exploring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-concept
 ---
 
 # Service Operations Workspace for ITOM user interface

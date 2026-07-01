@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Configuring Service Operations Workspace for ITSM, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-concept
 ---
 
 # Admin Center in Service Operations Workspace for ITSM

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-07"
 reading_time_minutes: 5
 breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-concept
 ---
 
 # Predictive Intelligence Usage Analytics dashboard

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [add favorites, favorites menu, most used pages]
 breadcrumb: [Managing your favorites, Use, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-task
 ---
 
 # Add favorites in Next Experience

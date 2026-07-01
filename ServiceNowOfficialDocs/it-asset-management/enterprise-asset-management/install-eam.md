@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-task
 ---
 
 # Install Enterprise Asset Management

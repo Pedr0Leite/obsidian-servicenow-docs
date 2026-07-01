@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - jira
+  - integration
+  - atlassian
+  - itbm
+  - type-concept
 ---
 
 # Atlassian Jira Integration for Agile Development

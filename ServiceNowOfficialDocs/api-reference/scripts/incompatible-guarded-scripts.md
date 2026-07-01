@@ -11,6 +11,13 @@ last_updated: "2026-06-11"
 reading_time_minutes: 5
 keywords: [Guarded Script DSL, incompatible scripts, script remediation, script exemptions, Guarded Script DSL, script remediation, script includes, script exemptions, incompatible scripts]
 breadcrumb: [Guarded script evaluator, Sandbox environment, Server-side scripting, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-concept
 ---
 
 # Reviewing scripts incompatible with guarded script

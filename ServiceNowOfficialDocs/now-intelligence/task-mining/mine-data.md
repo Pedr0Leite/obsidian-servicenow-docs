@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [task scope]
 breadcrumb: [Defining the scope of projects, Use, Task Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - task-mining
+  - desktop
+  - process-capture
+  - analytics
+  - type-task
 ---
 
 # Define user actions for task logging

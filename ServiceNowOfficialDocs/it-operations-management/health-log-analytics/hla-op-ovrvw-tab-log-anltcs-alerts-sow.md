@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Overview tab, Log Analytics group, Log Analytics alerts, alert correlations, log correlator, alerts in group, identified issue, impacted services, configuration items, Service Operations Workspace]
 breadcrumb: [Information on the alert Overview tab, Health Log Analytics reference, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-reference
 ---
 
 # Sections and cards on the Overview tab for a Log Analytics group in Health Log Analytics

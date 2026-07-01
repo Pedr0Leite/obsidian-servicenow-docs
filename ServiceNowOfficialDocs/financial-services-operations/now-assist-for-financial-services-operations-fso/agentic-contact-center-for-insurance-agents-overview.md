@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [insurance csr support ai agent, insurance csr customer insights ai agent, agentic contact center insurance ai agents, insurance ai agent overview, now assist insurance agents, insurance knowledge graph]
 breadcrumb: [AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Agentic Contact Center for Insurance AI agents overview

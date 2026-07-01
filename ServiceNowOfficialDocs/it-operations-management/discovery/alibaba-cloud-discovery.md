@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Alibaba, cloud, Discovery, Service Mapping, Patterns, CMDB]
 breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Discovery for Alibaba Cloud

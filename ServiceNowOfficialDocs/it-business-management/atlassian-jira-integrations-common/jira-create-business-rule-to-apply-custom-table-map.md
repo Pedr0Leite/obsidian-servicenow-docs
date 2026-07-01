@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Customizing map configuration for your Jira projects, Setting up the integration between Jira and Agile Development 2.0, Atlassian Jira Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - jira
+  - integration
+  - atlassian
+  - itbm
+  - type-task
 ---
 
 # Create a business rule to apply a custom Agile Development 2.0 table map configuration

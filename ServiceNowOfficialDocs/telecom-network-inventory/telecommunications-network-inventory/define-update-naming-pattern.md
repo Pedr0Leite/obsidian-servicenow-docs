@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Create inventory template for network asset instantiation, Use, Telecommunications Network Inventory]
+tags:
+  - telecom-network-inventory
+  - network-inventory
+  - telecom
+  - resources
+  - tni
+  - type-task
 ---
 
 # Define or update a naming pattern for a related template

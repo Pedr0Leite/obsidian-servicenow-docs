@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-31"
 reading_time_minutes: 5
 breadcrumb: [Reference, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-reference
 ---
 
 # AI agents and agentic workflows in Simplified IT Service Management

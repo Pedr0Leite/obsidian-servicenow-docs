@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Resource Scheduling, Inventory and asset management, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - assets
+  - parts
+  - field-service
+  - inventory
+  - type-task
 ---
 
 # Activate Resource Scheduling

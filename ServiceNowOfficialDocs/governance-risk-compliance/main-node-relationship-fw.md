@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 17
 breadcrumb: [Explore, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Main node configurations: A component of the Data Relationships Framework

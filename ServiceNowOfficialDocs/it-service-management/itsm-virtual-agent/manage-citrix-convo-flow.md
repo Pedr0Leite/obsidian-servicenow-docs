@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using ITSM Virtual Agent pre-built topics, ITSM Virtual Agent, IT Service Management]
+tags:
+  - it-service-management
+  - virtual-agent
+  - itsm
+  - chatbot
+  - deflection
+  - type-reference
 ---
 
 # Citrix session pre-built topics for ITSM Virtual Agent

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Domain Separation Center, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Configure the Domain Separation Center

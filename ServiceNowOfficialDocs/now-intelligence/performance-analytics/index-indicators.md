@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-08"
 reading_time_minutes: 5
 breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-concept
 ---
 
 # Indexing multiple indicators in a formula

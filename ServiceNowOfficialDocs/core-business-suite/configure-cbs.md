@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [configure]
 breadcrumb: [Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Configure Core Business Suite Foundation

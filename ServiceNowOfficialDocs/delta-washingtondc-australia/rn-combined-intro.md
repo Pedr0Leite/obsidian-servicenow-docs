@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2025-06-02"
 reading_time_minutes: 59
+tags:
+  - delta-washingtondc-australia
+  - type-concept
 ---
 
 # Products combined by family

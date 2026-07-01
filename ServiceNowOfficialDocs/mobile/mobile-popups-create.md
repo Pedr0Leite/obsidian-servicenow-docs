@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Mobile pop-ups, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Create a mobile pop-up

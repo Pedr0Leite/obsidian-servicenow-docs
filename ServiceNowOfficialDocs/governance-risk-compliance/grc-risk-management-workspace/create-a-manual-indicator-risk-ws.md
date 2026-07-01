@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Create and run a manual risk indicator in the Risk Workspace

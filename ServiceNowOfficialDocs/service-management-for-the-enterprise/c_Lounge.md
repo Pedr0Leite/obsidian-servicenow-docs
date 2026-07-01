@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Plan a move scenario, Enterprise move scenarios, Move planning tool, Enterprise move, Facilities move management, Facilities Service Management overview, Facilities Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-concept
 ---
 
 # Lounge

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Access control, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Use Document Classification to limit publicly accessible documents \[New in Security Center 7.0\]

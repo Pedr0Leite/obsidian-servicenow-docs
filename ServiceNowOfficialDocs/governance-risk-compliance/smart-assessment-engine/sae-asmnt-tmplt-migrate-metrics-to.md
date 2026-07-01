@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Creating an assessment template from legacy assessment metric types, Configure, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-task
 ---
 
 # Migrate a legacy metric type to an assessment template

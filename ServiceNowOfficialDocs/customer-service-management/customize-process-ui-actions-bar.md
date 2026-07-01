@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Playbook pages, Playbooks in Customer Service Management, Agent tools, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Customize UI actions for a playbook page

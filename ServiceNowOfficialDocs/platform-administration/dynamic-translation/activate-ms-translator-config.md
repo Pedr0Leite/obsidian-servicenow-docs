@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Microsoft Azure Translator Service spoke, Integration with other translation services, Dynamic Translation, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - translation
+  - localization
+  - dynamic
+  - languages
+  - type-task
 ---
 
 # Activate the Microsoft translator configuration

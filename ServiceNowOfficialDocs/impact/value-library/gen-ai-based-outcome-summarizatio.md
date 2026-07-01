@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Value management, Using Impact, Impact]
+tags:
+  - impact
+  - value
+  - roi
+  - metrics
+  - type-task
 ---
 
 # Gen AI based outcome summarization

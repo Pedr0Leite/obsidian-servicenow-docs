@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: ipact
 doc_type: toc
+tags:
+  - impact
 ---
 
 # Australia Impact

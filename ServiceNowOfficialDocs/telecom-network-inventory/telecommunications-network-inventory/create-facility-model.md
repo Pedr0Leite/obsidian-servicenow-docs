@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
+tags:
+  - telecom-network-inventory
+  - network-inventory
+  - telecom
+  - resources
+  - tni
+  - type-task
 ---
 
 # Create a facility model

@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Lead-to-Cash Process Management reference, Order operations, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Components installed with Lead-to-Cash Process Management

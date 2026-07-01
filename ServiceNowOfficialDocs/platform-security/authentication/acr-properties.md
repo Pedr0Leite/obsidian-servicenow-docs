@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Account recovery \(ACR\), Multi-Provider SSO configurations, Multi-Provider single sign-on \(SSO\), Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-reference
 ---
 
 # Account recovery properties

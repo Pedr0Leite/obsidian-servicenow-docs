@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-01"
 reading_time_minutes: 2
 breadcrumb: [Exploring Secrets Management, Secrets Management, Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # About client-side Secrets Management

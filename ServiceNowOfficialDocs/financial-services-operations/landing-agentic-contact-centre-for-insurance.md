@@ -9,6 +9,9 @@ last_updated: "2026-05-28"
 reading_time_minutes: 1
 keywords: [agentic contact center for insurance, insurance contact center, insurance csr workspace, ai-powered insurance workspace, insurance ai powered support, insurance customer summary, insurance csr homepage]
 breadcrumb: [Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Agentic Contact Center for Insurance

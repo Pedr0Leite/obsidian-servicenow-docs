@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-concept
 ---
 
 # Import a key from a web service

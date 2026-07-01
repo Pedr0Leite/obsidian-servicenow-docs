@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use agentic AI in CSM, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-concept
 ---
 
 # Customer Service Management accelerate complaint case handling AI agent collection

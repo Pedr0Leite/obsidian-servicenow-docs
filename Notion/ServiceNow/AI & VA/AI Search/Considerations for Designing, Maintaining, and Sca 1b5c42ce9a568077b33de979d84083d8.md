@@ -1,6 +1,8 @@
 ---
 aliases:
   - "AI Search – Considerations for Designing, Maintaining, and Sca"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-search
   - search-relevancy

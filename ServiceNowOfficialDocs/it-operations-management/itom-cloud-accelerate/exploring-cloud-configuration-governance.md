@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Cloud Configuration Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accelerate
+  - itom
+  - setup
+  - rapid
+  - type-concept
 ---
 
 # Exploring Cloud Configuration Governance

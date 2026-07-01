@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Monthly Health Assessment, HealthScan tech KPIs, HealthScan, Impact Delivery Instance reference, Impact reference, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Schedule Monthly Health Assessment scans

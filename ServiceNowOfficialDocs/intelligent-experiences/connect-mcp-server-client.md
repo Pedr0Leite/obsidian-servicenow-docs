@@ -9,6 +9,9 @@ last_updated: "2025-08-08"
 reading_time_minutes: 8
 keywords: [use]
 breadcrumb: [MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Connecting to an MCP server from an MCP client

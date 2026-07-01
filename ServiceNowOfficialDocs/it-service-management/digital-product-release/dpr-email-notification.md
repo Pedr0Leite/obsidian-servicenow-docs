@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Email notifications in Digital Product Release, Email notifications in DPR]
 breadcrumb: [Reference, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-reference
 ---
 
 # Email notifications in Digital Product Release

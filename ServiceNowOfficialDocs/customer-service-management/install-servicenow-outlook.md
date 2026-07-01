@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrating with Microsoft Outlook, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Install the ServiceNow Add-in for Microsoft Outlook

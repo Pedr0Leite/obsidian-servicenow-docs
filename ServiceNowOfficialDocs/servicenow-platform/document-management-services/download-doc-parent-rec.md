@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Linking documents to a parent record, Use, Document Management, Document Services, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - documents
+  - storage
+  - dms
+  - attachments
+  - type-task
 ---
 
 # Download a document from its parent record

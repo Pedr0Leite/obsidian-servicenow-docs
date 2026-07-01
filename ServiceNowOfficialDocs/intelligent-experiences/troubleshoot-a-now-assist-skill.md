@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, skill, troubleshoot, diagnostic, nsa\_admin, Generative AI, GenAI]
 breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Troubleshoot a Now Assist skill

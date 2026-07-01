@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-28"
 reading_time_minutes: 1
 breadcrumb: [Submit request using external-facing PDR form, Use, Personal Data Rights \(PDR\), Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-reference
 ---
 
 # External-facing PDR form fields

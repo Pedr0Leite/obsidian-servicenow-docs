@@ -11,6 +11,12 @@ last_updated: "2026-06-03"
 reading_time_minutes: 2
 keywords: [connections tab, connection cards, Provider Center, Consumer Center, registration status]
 breadcrumb: [Service Exchange Center, Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Connections

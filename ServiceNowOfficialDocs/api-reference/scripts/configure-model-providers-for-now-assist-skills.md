@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Configure, Now Assist for Code, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-concept
 ---
 
 # Configure AI model providers for Now Assist for Code skills

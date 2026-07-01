@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Timeline pages, Viewing record information over time, Reference, Time configuration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - timezone
+  - business-hours
+  - schedules
+  - sla
+  - type-task
 ---
 
 # Display a metric as a timeline

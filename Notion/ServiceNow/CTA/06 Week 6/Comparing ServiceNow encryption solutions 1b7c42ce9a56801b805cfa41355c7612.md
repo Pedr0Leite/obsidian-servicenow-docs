@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Comparing ServiceNow encryption solutions"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - encryption
@@ -21,6 +23,9 @@ tags:
 ![image.png](Comparing%20ServiceNow%20encryption%20solutions/image%202.png)
 
 ## Related
+- [[Introducing Sovereign Bank]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[06 Week 6]]
 - [[Alternative Encryption Products to GlideEncrypter]]

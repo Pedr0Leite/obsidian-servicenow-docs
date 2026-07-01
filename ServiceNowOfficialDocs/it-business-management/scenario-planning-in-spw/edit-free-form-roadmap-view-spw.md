@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Managing free-form roadmap views, Create a free-form roadmap, Plan roadmaps, Portfolio Planning in Strategic Planning Workspace, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - scenario-planning
+  - spw
+  - strategy
+  - itbm
+  - type-task
 ---
 
 # Edit a free-form roadmap view

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Operational Technology Change Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - change-management
+  - ics
+  - scada
+  - type-reference
 ---
 
 # Components installed with Operational Technology Change Management

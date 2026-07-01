@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [license key discovery, ACC-VC, license keys table, license registry configuration, agent client collector]
 breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # License key discovery and access control tables

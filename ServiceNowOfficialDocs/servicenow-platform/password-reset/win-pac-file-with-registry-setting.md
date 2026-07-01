@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure a proxy server using PAC file \(automatic configuration script method\), Configure the Password Reset Windows Application to use a proxy server, Installing and configuring Password Reset Windows Application, Password Reset, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - password-reset
+  - self-service
+  - enrollment
+  - type-reference
 ---
 
 # PAC file with registry setting

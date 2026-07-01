@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-12-08"
 reading_time_minutes: 1
 breadcrumb: [Playbook for remedial actions in incident investigation, Incident diagnostics and suggested resolutions, DEX for service desk agents, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-task
 ---
 
 # Manage remedial actions in DEX incident investigation Playbook

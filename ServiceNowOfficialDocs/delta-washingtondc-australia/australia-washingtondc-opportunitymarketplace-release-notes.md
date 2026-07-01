@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 6
 breadcrumb: [Products combined by family]
+tags:
+  - delta-washingtondc-australia
+  - type-reference
 ---
 
 # Combined Opportunity Marketplace release notes for upgrades from Washington DC to Australia

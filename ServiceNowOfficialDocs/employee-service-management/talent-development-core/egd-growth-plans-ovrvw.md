@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Exploring Talent Development Core, Talent Development Core, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - talent
+  - skills
+  - development
+  - hr
+  - type-concept
 ---
 
 # Growth plans overview

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [ServiceNow, Health Log Analytics, HLA, source type structure, adjust, inner log messages, anomalies, customize, properties, JavaScript]
 breadcrumb: [Source type structure adjustment, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Refine the source type structure in Health Log Analytics

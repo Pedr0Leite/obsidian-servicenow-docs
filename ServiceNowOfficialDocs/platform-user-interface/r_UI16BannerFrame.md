@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Core UI, Working in Core UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-reference
 ---
 
 # System settings for the Core UI

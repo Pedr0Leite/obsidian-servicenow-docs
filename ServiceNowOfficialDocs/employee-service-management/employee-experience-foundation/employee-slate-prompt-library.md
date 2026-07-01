@@ -11,6 +11,13 @@ last_updated: "2026-04-28"
 reading_time_minutes: 5
 keywords: [prompt library, example prompts, conversational AI, Now Assist Chat, Moveworks]
 breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-reference
 ---
 
 # Employee Slate prompt library

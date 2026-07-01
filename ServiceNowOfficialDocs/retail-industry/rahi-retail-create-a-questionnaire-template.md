@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [questionnaire template, customer feedback, retail survey, data collection, template configuration]
 breadcrumb: [Retail store plans, Explore, Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Retail questionnaire

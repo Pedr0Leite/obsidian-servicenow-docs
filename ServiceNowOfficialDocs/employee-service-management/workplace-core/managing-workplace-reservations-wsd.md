@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-core
+  - data-model
+  - foundation
+  - type-concept
 ---
 
 # Managing workplace reservations for employees

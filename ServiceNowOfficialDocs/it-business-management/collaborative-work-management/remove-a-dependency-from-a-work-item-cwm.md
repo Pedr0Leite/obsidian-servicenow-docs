@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [dependencies, relationships, remove, unlink, CWM, work items]
 breadcrumb: [Task dependencies and relationships, Agile in CWM, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Remove a dependency from a work item in CWM

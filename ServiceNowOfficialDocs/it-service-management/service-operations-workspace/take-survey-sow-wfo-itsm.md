@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-01-30"
 reading_time_minutes: 1
 breadcrumb: [Workforce Optimization for ITSM in the Service Operations Workspace, Optimizing IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Take a survey in Service Operations Workspace

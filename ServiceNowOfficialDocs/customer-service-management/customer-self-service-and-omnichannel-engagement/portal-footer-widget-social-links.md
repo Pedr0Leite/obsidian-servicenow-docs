@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Portal Polaris Footer widget, Configurable Portal widgets, Set up self-service, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - self-service
+  - omnichannel
+  - portal
+  - engagement
+  - type-task
 ---
 
 # Configure social media links in the Portal Polaris Footer widget

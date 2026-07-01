@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a chat assistant, View assistants, Configuring assistants overview, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-concept
 ---
 
 # Portal prerequisites for enhanced chat

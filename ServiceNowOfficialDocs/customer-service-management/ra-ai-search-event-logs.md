@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [AI search, event logging, analytics, ServiceNow, AI Search event logs and Analytics, AI search usage using the AI search analytics dashboard, Tracking the AI search usage in Recommended Actions]
 breadcrumb: [AI search, Recommended Actions configuration, Implement Intelligence, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # AI Search event and action logs for AI Search usage in Recommended Actions

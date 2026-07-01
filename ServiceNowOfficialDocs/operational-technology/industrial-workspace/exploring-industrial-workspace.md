@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-26"
 reading_time_minutes: 2
 breadcrumb: [Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-concept
 ---
 
 # Exploring the Industrial Workspace

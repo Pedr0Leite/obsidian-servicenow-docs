@@ -10,6 +10,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Channels in Conversational Interfaces, Exploring Conversational Interfaces Console, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Disable live agent support for a channel

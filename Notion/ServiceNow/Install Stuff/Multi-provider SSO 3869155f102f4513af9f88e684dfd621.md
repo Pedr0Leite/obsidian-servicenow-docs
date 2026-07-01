@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Multi-provider SSO"
+area: "Install Stuff"
+source: notion-export
 tags:
   - sso
   - saml
@@ -29,6 +31,9 @@ ativar config
 ativar properties
 
 ## Related
+- [[Enable Engagement Messenger on a website when thir]]
+- [[Integrations – SAML]]
+- [[Knowledge Base Articles – Integrations]]
 
 - [[Install Stuff]]
 - [[How to configure LDAP]]

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # View AI assets by life-cycle stage

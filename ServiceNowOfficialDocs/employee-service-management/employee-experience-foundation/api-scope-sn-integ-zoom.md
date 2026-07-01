@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaboration services for Zoom reference, ServiceNow for Zoom, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-reference
 ---
 
 # API permissions/scope for ServiceNow integration with Zoom

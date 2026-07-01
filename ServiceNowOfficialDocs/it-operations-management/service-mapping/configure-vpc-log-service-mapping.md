@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Data collection and discovery using VPC Flow Logs, Advanced Service Mapping configuration, Configuring Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Configure data collection using VPC Flow Logs

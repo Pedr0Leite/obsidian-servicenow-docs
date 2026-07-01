@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Device details pages, DEX Application and Device Health reference, Reference, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-reference
 ---
 
 # Running processes page

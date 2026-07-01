@@ -9,6 +9,9 @@ last_updated: "2026-04-16"
 reading_time_minutes: 1
 keywords: [AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI, AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI, AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI, AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # AI Agent Advisor roles

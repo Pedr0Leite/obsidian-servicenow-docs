@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Questionnaire support in Exception Management via Smart Assessment, Exception Management Overview, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Use case for False positive or Request Exception Questionnaire

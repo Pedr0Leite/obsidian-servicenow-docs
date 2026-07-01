@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-29"
 reading_time_minutes: 10
 breadcrumb: [Explore, Service Graph Workspace, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-concept
 ---
 
 # Ingestion view in Service Graph Workspace

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Reference, Change Management, IT Service Management]
+tags:
+  - it-service-management
+  - change-management
+  - cab
+  - risk
+  - itsm
+  - type-reference
 ---
 
 # Change Management properties

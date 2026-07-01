@@ -11,6 +11,13 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [running process-based discovery, platform coverage, system property, file-based discovery, FBD, agent client collector]
 breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Running process-based discovery platform coverage and properties

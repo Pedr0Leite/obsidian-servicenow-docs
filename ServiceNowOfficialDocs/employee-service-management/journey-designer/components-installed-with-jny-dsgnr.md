@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-designer
+  - custom
+  - milestones
+  - workflow
+  - type-reference
 ---
 
 # Components installed with Journey designer

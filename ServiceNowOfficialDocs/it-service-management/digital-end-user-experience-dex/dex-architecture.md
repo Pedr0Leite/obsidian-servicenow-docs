@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 5
 breadcrumb: [Explore, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-concept
 ---
 
 # DEX Architecture

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Cloud Account Management reference, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-concept
 ---
 
 # Cloud Asset Collection table

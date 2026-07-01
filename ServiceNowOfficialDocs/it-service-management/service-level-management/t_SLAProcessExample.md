@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Level Management reference, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-task
 ---
 
 # Service Level Agreement \(SLA\) process example

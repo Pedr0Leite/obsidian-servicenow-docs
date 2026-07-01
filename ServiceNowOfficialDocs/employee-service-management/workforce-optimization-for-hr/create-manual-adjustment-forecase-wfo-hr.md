@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure demand forecast, Configure, Workforce Optimization overview, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workforce-optimization
+  - scheduling
+  - hr
+  - capacity
+  - type-task
 ---
 
 # Create a manual adjustment for a forecast

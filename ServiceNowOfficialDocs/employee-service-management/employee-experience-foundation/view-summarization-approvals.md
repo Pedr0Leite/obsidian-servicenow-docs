@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [generative AI for Employee Center, generative AI for UEX, Summarization for Employee Center, Summarization]
 breadcrumb: [Use, Now Assist for Employee Experience, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # View summarization for approvals

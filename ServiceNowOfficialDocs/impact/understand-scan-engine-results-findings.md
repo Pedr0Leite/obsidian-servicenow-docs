@@ -9,6 +9,9 @@ last_updated: "2026-06-01"
 reading_time_minutes: 2
 keywords: [scan results, scan findings, platform health]
 breadcrumb: [Diagnose technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Understand scan results and findings

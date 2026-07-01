@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Create custom activities using custom activity designer templates, Orchestration activity designer, Classic Orchestration, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - orchestration
+  - itpa
+  - automation
+  - runbooks
+  - type-task
 ---
 
 # Create input variables

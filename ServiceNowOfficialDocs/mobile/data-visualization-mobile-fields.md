@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a mobile analytics preview, Mobile dashboard preview, Launcher screens, Mobile app components, Building mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Data visualization fields available for display in mobile

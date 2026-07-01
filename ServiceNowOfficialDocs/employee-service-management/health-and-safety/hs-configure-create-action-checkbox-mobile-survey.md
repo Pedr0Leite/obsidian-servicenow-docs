@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage the safety inspection and audit surveys through mobile app, Manage safety inspections and audits through the mobile apps, Mobile experience for Health and Safety, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-task
 ---
 
 # Configure the create action check box for safety inspection survey in the Mobile Agent app

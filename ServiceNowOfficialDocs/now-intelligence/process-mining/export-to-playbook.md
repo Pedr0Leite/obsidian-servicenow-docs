@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Analyzing and getting process insights, Use, Process Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - process-mining
+  - workflow
+  - bottlenecks
+  - analytics
+  - type-task
 ---
 
 # Export a process to Playbook

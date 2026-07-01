@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - fsm
+  - telecom
+  - field-technicians
+  - tmt
+  - type-concept
 ---
 
 # Field Service Management for Telecommunications

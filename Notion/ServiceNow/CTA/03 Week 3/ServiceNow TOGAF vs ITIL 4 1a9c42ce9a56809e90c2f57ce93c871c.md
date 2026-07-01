@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ServiceNow TOGAF vs ITIL 4"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - togaf
@@ -28,6 +30,9 @@ Both **TOGAF** and **ITIL 4** are widely used frameworks, but they serve differe
 - **Example**: TOGAF helps determine **how ServiceNow integrates** with existing IT systems, while ITIL 4 ensures **incident resolution, change approvals, and service continuity**.
 
 ## Related
+- [[Case study – Files]]
+- [[01 Case study]]
+- [[Architect Responsibilities]]
 
 - [[03 Week 3]]
 - [[03 Week 3 – Case study]]

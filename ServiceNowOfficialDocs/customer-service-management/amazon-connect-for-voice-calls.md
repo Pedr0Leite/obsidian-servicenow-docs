@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Integrating with contact centers, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Use Interaction Controls Component \(ICC\) call controls with Amazon Connect

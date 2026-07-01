@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [XML APIs, Encryption rule objects and APIs, Define a custom encryption rule, Configuring Edge Encryption, Edge Encryption, Encryption]
+tags:
+  - platform-security
+  - edge-encryption
+  - field-level
+  - proxy
+  - security
+  - type-concept
 ---
 
 # XMLElement

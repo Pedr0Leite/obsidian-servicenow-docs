@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaboration with incident tasks, My incidents, Managing incidents and tasks using My Work applet, ITSM Mobile Agent, IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-task
 ---
 
 # Join an active conference call from an incident task

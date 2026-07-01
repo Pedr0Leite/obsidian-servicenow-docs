@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Fulfiller experience, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Generating AI summary and next steps

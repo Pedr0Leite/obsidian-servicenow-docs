@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create service requests, Care Team Operations for Biomed, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # Request other biomed service with Care Team Operations for Biomed

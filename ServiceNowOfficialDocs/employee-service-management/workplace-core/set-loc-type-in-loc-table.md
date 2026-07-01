@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Location migration, Manage workplace safety activities, Workplace Core, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-core
+  - data-model
+  - foundation
+  - type-task
 ---
 
 # Set the location type in Location table

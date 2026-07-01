@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-16"
 reading_time_minutes: 2
 breadcrumb: [Recall campaign, MCO core, Explore, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-concept
 ---
 
 # Recall campaign use case

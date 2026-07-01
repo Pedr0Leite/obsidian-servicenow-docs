@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create monetary benefit plans for your planning items in Portfolio Planning, Manage financials for planning items, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Edit monetary benefit plan

@@ -8,6 +8,14 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-reference
 ---
 
 # Customer success management flows

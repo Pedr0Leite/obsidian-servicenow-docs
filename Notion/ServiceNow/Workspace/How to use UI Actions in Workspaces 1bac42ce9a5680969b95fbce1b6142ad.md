@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to use UI Actions in Workspaces"
+area: "Workspace"
+source: notion-export
 tags:
   - workspace
   - ui-actions

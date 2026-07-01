@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Personal portfolios, Work with portfolios, Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-task
 ---
 
 # Create a personal portfolio in Digital Portfolio Management

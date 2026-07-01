@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Facilities Floor Plan, Interactive facility maps, Facilities Service Management overview, Facilities Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # Create a facility request from the floor plan

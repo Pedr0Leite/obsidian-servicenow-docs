@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Associate, Domain, ID, chat, portal]
 breadcrumb: [Domain separation and Virtual Agent, Virtual Agent technical reference, Virtual Agent reference, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Associate a domain ID with a chat portal

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Sidebar and Microsoft Teams, Configuring Sidebar, Sidebar, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - sidebar
+  - ai-assistant
+  - contextual-help
+  - type-task
 ---
 
 # Enable or configure the Microsoft Teams integration

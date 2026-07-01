@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up scheduling, Workforce Optimization, Set up workforce, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - workforce-optimization
+  - shifts
+  - scheduling
+  - fsm
+  - type-task
 ---
 
 # Create event types to display on the team calendar with Workforce Optimization for Field Service

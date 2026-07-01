@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 4
 keywords: [spend and savings management, category management, savings opportunity, category taxonomy, sn\_spend\_mgmt]
 breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Spend and Savings Management

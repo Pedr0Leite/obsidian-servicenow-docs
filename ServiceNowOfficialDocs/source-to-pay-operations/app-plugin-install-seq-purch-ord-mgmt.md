@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [app installation sequence, Purchase order management installation, plugins]
 breadcrumb: [Install Purchase Order Management, Configure, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-reference
 ---
 
 # Application plugin installation sequence in Purchase Order Management

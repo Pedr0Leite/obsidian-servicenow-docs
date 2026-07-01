@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [use]
 breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Fulfilling care team task plans

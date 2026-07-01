@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using the Eligibility Rules Engine, Using Social Benefits Playbook, Playbooks, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Understanding Policy as Code Engine \(PaCE\) and the Social Benefits Playbook

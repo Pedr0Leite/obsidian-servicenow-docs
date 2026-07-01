@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [dependent relationship, dependent rules, hosting rule, containment rule]
 breadcrumb: [CMDB dependent relationship rules, Configure, CMDB Identification and Reconciliation \(IRE\), Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-concept
 ---
 
 # Create dependent relationship rules

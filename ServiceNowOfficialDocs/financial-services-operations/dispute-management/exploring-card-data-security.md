@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [card data security overview, pci dss compliance, payment card industry data security standard, tokenization, detokenization, dispute workflow security, passthrough integration, cardholder data protection, pci compliant vault, card data security features, secure payment card data]
 breadcrumb: [Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Exploring Card Data Security

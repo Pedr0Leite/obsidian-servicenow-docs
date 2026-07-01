@@ -11,6 +11,12 @@ last_updated: "2026-04-06"
 reading_time_minutes: 2
 keywords: [AI release notes generation in Digital Product Release, Now Assist, AI-powered release notes, Now Assist skill]
 breadcrumb: [Explore, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-concept
 ---
 
 # AI-powered release notes generation

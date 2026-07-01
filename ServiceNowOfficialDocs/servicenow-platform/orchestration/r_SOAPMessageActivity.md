@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Deprecated Orchestration activities, Activate Orchestration, Classic Orchestration, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - orchestration
+  - itpa
+  - automation
+  - runbooks
+  - type-reference
 ---
 
 # SOAP Message workflow activity

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure how users interact with your applications in UI Builder, Working in UI Builder, UI Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - ui-builder
+  - uib
+  - portals
+  - workspaces
+  - type-task
 ---
 
 # Create an experience for UI Builder

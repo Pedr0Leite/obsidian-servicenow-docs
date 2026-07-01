@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Explore, Now Assist for Code, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-concept
 ---
 
 # General guidelines for code generation

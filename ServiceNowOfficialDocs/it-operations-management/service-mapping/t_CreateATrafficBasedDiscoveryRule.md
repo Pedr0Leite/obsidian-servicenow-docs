@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Enable traffic-based discovery for CI types or specific CIs

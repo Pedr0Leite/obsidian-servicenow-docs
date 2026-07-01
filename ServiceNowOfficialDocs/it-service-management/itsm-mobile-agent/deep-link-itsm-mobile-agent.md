@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaboration Services for ITSM Mobile Agent, Exploring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-task
 ---
 
 # Add deep linking support to ITSM Mobile Agent

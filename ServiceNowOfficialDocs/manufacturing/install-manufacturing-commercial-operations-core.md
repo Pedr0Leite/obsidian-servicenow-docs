@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Getting started with Manufacturing Commercial Operations, Configure, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-task
 ---
 
 # Install Manufacturing Commercial Operations

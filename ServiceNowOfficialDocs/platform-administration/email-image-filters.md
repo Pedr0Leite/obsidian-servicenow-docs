@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Email properties, Configure, Email Administration, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # Email image filtering properties

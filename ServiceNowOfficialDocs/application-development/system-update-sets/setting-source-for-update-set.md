@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, System update sets, Deploying applications, Building applications]
+tags:
+  - application-development
+  - update-sets
+  - deployment
+  - migration
+  - version-control
+  - type-task
 ---
 
 # Set up the source instance for an update set

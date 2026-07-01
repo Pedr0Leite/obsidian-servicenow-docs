@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service management states, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # State flow example

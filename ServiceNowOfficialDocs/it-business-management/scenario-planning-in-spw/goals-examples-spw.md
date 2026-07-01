@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Manage portfolio plan goals, Portfolio Planning in Strategic Planning Workspace, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - scenario-planning
+  - spw
+  - strategy
+  - itbm
+  - type-concept
 ---
 
 # Goals examples and recommendations

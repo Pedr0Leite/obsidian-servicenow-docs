@@ -9,6 +9,9 @@ last_updated: "2025-07-31"
 reading_time_minutes: 6
 keywords: [Using grants management, setup grants, configure grants]
 breadcrumb: [Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Using Grants Management

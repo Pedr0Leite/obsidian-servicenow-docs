@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-05-15"
 reading_time_minutes: 2
 breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-reference
 ---
 
 # Custom device action example

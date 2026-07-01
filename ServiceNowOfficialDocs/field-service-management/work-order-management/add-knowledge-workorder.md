@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage work order tasks, Prepare work orders, Use, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-task
 ---
 
 # Assign a knowledge article to a work order or work order task

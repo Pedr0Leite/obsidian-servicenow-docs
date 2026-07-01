@@ -9,6 +9,9 @@ last_updated: "2026-05-18"
 reading_time_minutes: 2
 keywords: [dashboard glossary, dashboard terms, bookmark dashboard, dashboard category, certified dashboard, dashboard, data visualization, dashboard element, dashboard filter, filter group, inline editor, dashboard editor, Platform Analytics library, dashboards library, dashboard tab, top stage, dashboard top stage, widget, dashboard widget]
 breadcrumb: [Reference, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Dashboard terms

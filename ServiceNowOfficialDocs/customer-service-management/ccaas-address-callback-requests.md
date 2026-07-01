@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Manage a CCaaS callback request in the Configurable Workspace

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use an app template, Create your app, Build, App Engine Studio, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - aes
+  - low-code
+  - app-builder
+  - drag-and-drop
+  - type-task
 ---
 
 # Update custom template contents and properties

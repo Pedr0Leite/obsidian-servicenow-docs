@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile, Workplace Service Delivery for Mobile, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - mobile
+  - app
+  - workplace
+  - type-task
 ---
 
 # Review and edit your reservations in Workplace

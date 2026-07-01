@@ -9,6 +9,12 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [CBS analytics, Core Business Suite analytics, My Assets Analytics]
 breadcrumb: [Use, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-task
 ---
 
 # View Core Business Suite Analytics

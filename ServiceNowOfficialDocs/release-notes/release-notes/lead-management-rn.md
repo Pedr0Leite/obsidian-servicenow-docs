@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-06-03"
 reading_time_minutes: 1
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Lead Management release notes

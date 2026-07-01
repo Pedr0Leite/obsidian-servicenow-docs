@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 5
 breadcrumb: [About Rules Engine in TISC, Administer, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # MITRE ATT&amp;CK Technique Extraction Rules

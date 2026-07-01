@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-13"
 reading_time_minutes: 4
 breadcrumb: [Create AI agents, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Add an adaptive desktop action tool to an AI agent for web-based tasks

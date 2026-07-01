@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-12-04"
 reading_time_minutes: 5
 breadcrumb: [Configure, Setup Hub, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Understand the Configuration page flow in Setup Hub

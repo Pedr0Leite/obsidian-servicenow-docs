@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Source-to-Pay integration framework, Integration with third-party applications, Integrations, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - s2p
+  - integration
+  - erp
+  - framework
+  - type-concept
 ---
 
 # Fixed asset integration

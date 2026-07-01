@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Telecom Discovery, Telecom Visibility, Explore, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-concept
 ---
 
 # Telecom Discovery Builder framework

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-01-11"
 reading_time_minutes: 1
 breadcrumb: [Now Assist in Virtual Agent reference, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-reference
 ---
 
 # Multilingual support for voice assistants

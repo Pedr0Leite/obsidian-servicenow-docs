@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting improvement opportunities, Use, Process Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - process-mining
+  - workflow
+  - bottlenecks
+  - analytics
+  - type-task
 ---
 
 # Set improvement opportunities for process tables

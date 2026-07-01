@@ -9,6 +9,13 @@ last_updated: "2026-05-08"
 reading_time_minutes: 2
 keywords: [align shapes, distribute shapes, modeling diagram, enterprise modeling]
 breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Align and distribute shapes in a modeling diagram

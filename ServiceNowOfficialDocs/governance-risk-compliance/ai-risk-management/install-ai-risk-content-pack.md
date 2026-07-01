@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-05"
 reading_time_minutes: 2
 breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Install AI Risk and Compliance content

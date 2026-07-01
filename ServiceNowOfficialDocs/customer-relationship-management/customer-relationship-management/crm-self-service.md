@@ -6,6 +6,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-04-20"
 reading_time_minutes: 1
+tags:
+  - customer-relationship-management
+  - crm
+  - accounts
+  - contacts
+  - opportunities
+  - type-concept
 ---
 
 # Self service

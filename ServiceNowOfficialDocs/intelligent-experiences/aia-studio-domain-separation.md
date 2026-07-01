@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Reference, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Domain separation and Now Assist AI Agent Studio

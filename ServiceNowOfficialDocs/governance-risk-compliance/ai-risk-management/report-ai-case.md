@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [report AI case, Employee Center, AI case submission]
 breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Report an AI case from the Employee Center

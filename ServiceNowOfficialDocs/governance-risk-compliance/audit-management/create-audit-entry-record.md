@@ -11,6 +11,13 @@ last_updated: "2026-05-29"
 reading_time_minutes: 1
 keywords: [audit entry, third-line record, create]
 breadcrumb: [Audit entry for GRC objects, Exploring Audit Management, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Create an audit entry record

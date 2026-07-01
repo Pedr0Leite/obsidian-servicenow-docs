@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Security Operations email parsing, Security Operations email processing, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create email parsers in Security Operations

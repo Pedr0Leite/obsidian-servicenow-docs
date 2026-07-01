@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Enable AI agents to securely access parameters, Defined desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create a parameter value record

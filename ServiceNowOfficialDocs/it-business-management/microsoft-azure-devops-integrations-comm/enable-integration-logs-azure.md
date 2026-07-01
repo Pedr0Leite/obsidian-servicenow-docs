@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Troubleshooting issues for Azure DevOps integration with Agile Development, Microsoft Azure DevOps Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - azure-devops
+  - integration
+  - microsoft
+  - itbm
+  - type-task
 ---
 
 # Enable detailed project logging in Microsoft Azure DevOps Integration with Agile Development 2.0

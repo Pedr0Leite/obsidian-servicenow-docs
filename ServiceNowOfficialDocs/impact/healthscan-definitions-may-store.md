@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 8
 breadcrumb: [HealthScan definitions, HealthScan tech KPIs, HealthScan, Impact Delivery Instance reference, Impact reference, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Healthscan definitions updates: May 2025 store

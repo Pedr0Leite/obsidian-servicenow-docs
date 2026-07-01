@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Prioritize portfolio plan work, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Export data of portfolio plan items from Prioritization to Excel or CSV

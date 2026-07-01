@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-New Relic, SGC New Relic, SGC for New Relic, New Relic SGC, Service Graph Connector for New Relic, Service Graph Connector for Observability - New Relic, New Relic connection details, New Relic connection, common connection framework, CCF, SGC-New Relic, SGC New Relic, SGC for New Relic, New Relic SGC, Service Graph Connector for New Relic, Service Graph Connector for Observability - New Relic, New Relic connection details, New Relic connection, common connection framework, CCF]
 breadcrumb: [Observability - New Relic, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for Observability - New Relic

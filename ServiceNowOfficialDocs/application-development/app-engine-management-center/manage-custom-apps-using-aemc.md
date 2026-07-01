@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Manage app development, Use, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-concept
 ---
 
 # Managing custom apps using AEMC

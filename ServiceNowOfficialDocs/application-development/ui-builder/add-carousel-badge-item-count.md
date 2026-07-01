@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [UIB, UI Builder, Carousel, Components]
 breadcrumb: [Learn components by example, Customize UI Builder pages using components, Working in UI Builder, UI Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - ui-builder
+  - uib
+  - portals
+  - workspaces
+  - type-task
 ---
 
 # Add carousel badge item count

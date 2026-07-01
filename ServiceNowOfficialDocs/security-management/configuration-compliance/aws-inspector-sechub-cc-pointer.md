@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-03"
 reading_time_minutes: 1
 breadcrumb: [Integrate with other applications, Configuration Compliance, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - config-compliance
+  - cis
+  - scap
+  - security
+  - type-concept
 ---
 
 # Exploring the AWS Integration for Security Exposure Management Test Results integration

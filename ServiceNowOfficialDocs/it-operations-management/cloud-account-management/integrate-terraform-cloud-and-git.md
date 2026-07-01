@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Terraform and GitHub, Provisioning modes for Cloud Account Management in Cloud Workspace, Setting up AWS cloud, Configuring cloud providers, Configuring Cloud Account Management, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-task
 ---
 
 # Integrate Terraform Cloud with GitHub

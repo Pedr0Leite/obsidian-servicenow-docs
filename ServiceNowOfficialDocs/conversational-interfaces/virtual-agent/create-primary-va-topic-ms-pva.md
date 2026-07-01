@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Virtual Agent, Bot Interconnect, Microsoft, Power, shell, topic]
 breadcrumb: [Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect, Using Virtual Agent Bot Interconnect in your configuration, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Create a Virtual Agent Bot Interconnect shell topic to call Microsoft Power Virtual Agents topics

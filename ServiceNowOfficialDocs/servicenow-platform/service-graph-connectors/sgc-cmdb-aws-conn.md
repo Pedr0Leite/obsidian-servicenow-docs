@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-AWS, SGC AWS, SGC for AWS, AWS SGC, Service Graph Connector for AWS, AWS connection details, AWS connection, common connection framework, CCF, SGC-AWS, SGC AWS, SGC for AWS, AWS SGC, Service Graph Connector for AWS, AWS connection details, AWS connection, common connection framework, CCF]
 breadcrumb: [AWS, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for AWS

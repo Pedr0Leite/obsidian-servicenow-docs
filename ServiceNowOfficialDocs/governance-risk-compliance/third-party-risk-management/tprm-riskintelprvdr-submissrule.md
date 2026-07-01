@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Scores from risk intelligence providers, Integrate, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Automate actions upon risk intelligence updates

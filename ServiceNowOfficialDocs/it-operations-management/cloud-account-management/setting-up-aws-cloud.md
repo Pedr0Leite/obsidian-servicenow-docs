@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Set up AWS cloud with Cloud Workspace]
 breadcrumb: [Configuring cloud providers, Configuring Cloud Account Management, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-concept
 ---
 
 # Setting up AWS cloud

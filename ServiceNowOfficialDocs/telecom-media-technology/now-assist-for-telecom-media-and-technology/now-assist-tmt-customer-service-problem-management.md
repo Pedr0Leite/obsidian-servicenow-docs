@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use agentic workflows, Now Assist for TMT, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - now-assist
+  - ai
+  - tmt
+  - generative
+  - type-concept
 ---
 
 # Customer Service Problem Management agentic workflows

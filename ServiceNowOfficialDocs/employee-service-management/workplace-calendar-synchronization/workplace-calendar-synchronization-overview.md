@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-09-08"
 reading_time_minutes: 3
 breadcrumb: [Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-concept
 ---
 
 # Explore Workplace Calendar Synchronization

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Google Cloud Platform \(GCP\) - External IP Addresses, GCP External IP Addresses, External IP Addresses, GCP discovery, GCP patterns]
 breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # GCP External IP Addresses pattern-based discovery

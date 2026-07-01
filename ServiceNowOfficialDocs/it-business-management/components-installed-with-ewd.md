@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Reference, SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-reference
 ---
 
 # Components installed with Enterprise-Wide Deployment

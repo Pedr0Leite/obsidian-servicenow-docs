@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Data privacy, Data Privacy, Platform Privacy]
+tags:
+  - platform-security
+  - data-privacy
+  - consent
+  - gdpr
+  - classic
+  - type-concept
 ---
 
 # Real time protection

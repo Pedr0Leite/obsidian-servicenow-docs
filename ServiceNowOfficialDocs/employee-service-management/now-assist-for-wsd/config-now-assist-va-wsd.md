@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, Now Assist for Workplace Service Delivery \(WSD\), Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - workplace
+  - generative
+  - type-task
 ---
 
 # Configure Now Assist in Virtual Agent for Workplace Service Delivery

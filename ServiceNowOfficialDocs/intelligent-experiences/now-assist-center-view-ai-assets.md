@@ -9,6 +9,9 @@ last_updated: "2026-06-04"
 reading_time_minutes: 4
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Using the asset inventory, Use, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # View your AI assets in the asset inventory

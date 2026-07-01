@@ -11,6 +11,13 @@ last_updated: "2026-04-09"
 reading_time_minutes: 2
 keywords: [scripting governance tool, scan for scripting users, conditional script writer group, scripting access audit]
 breadcrumb: [Use Scripting Governance Tool, Scripting Governance Tool, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-task
 ---
 
 # Scan for users who have scripted

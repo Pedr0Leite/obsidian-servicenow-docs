@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Request a false positive for a vulnerable item or remediate task, Use, IT Remediation Workspace, Vulnerability Response Workspaces, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - remediation
+  - workspace
+  - security
+  - it
+  - type-task
 ---
 
 # Request a false positive for a set of test results

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 2
 breadcrumb: [Import tasks using Now Assist, Manage work using Boards, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Import existing tasks into a CWM Board

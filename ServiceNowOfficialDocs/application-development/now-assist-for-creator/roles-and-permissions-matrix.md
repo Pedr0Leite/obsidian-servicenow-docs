@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Reference, UI generation, Use generative AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-reference
 ---
 
 # Roles and permissions matrix

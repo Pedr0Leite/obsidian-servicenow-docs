@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 3
 keywords: [MCP Server, Service Mapping, role hierarchy, sn\_sm\_gen\_ai.sm\_mcp\_user, service\_mapping\_user, access control, Now Assist, CMDB]
 breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Configure roles for the Service Mapping MCP tools

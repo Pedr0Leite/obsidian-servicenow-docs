@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-26"
 reading_time_minutes: 1
 breadcrumb: [Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Configuring AI Desktop Actions for defined path desktop actions

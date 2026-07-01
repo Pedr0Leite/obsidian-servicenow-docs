@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(Azure\), Integrate, Operational Technology Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - manager
+  - configuration
+  - overview
+  - type-concept
 ---
 
 # Accessing the connection details of the Service Graph Connector for Microsoft Defender for IoT \(Azure\)

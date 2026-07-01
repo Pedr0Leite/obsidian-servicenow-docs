@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-24"
 reading_time_minutes: 2
 breadcrumb: [File-based Discovery, Running discoveries in your network, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Run File-based Discovery

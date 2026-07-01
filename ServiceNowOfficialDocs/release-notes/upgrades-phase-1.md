@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Upgrade to the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-task
 ---
 
 # Phase 1 - Read the release notes and plan your upgrade

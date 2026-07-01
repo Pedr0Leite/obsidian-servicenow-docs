@@ -8,6 +8,13 @@ topic_type: reference
 last_updated: "2026-06-09"
 reading_time_minutes: 10
 breadcrumb: [Configure, Now Assist for Enterprise Architecture \(EA\), Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-reference
 ---
 
 # Now Assist for Enterprise Architecture \(EA\) access roles

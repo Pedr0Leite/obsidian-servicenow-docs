@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Approve or reject time card from mobile, Mobile Time Sheets, Time Card management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - timecards
+  - time-tracking
+  - approval
+  - itbm
+  - type-task
 ---
 
 # Track your time sheets

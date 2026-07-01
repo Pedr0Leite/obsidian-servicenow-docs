@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Recordings"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - capstone
@@ -19,6 +21,9 @@ tags:
 [Sovereign Bank Case Study.pdf](Recordings/Sovereign_Bank_Case_Study.pdf)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Meet the team at Sovereign Bank]]
 - [[12 Capstone Assessment]]
 - [[Exam]]
 - [[CTA – Case study]]

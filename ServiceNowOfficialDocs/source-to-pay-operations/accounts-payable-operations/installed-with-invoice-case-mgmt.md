@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice management, invoice case management, invoice automation]
 breadcrumb: [Install Invoice Case Management, Configure, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-reference
 ---
 
 # Components installed with Invoice Case Management

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Software license usage, Using Software Asset Management classic, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-task
 ---
 
 # Add a software removal candidate in Software Asset Management classic

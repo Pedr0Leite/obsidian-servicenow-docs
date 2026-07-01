@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: rn
 doc_type: toc
+tags:
+  - release-notes
 ---
 
 # Australia Release Notes

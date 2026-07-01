@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 4
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Explore, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # MCP connections and Build Agent

@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Digital Product Release and Integrated Release Management, DPR and GRC integration, Release compliance with GRC compliance framework, Policy and compliance management for DPR releases]
 breadcrumb: [Explore, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-concept
 ---
 
 # DPR and GRC integration for release compliance

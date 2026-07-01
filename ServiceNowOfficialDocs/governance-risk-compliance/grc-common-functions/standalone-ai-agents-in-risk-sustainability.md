@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Agentic AI, generative AI, Gen AI]
 breadcrumb: [Use agentic AI, Now Assist, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # Standalone AI Agents in Now Assist for Integrated Risk Management \(IRM\)

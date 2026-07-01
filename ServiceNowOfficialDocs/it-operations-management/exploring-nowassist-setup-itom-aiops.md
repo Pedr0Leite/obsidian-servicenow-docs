@@ -9,6 +9,9 @@ last_updated: "2026-03-16"
 reading_time_minutes: 2
 keywords: [explore]
 breadcrumb: [IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # Install ITOM using Setup Hub

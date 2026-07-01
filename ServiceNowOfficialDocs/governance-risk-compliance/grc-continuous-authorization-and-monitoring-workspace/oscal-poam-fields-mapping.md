@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-12"
 reading_time_minutes: 3
 breadcrumb: [CAM OSCAL, Continuous authorization and monitoring tasks in the CAM Workspace, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-authorization
+  - fedramp
+  - grc
+  - monitoring
+  - type-reference
 ---
 
 # OSCAL POAM fields mapping

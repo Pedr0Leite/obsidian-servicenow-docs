@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data Discovery scheduled discovery, Data Discovery Store, Data Discovery, Platform Privacy]
+tags:
+  - platform-security
+  - data-discovery
+  - pii
+  - scanning
+  - compliance
+  - type-task
 ---
 
 # Review granular findings

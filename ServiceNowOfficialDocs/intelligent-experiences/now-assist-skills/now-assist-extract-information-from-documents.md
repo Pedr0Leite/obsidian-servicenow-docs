@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Now LLM Service, Document Intelligence, Extract information from documents skill]
 breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Now Assist extract information from documents

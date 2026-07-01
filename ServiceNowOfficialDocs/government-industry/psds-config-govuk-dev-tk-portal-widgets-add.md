@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Configure widgets, Configure UK GDS Service Portal, GOV.UK Developer Toolkit, Set up self-service, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Add Widgets to GOV.UK Design System Service Portal pages

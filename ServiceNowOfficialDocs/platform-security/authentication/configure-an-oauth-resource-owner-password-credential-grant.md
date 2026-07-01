@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [ROPC Grant, Inbound integrations, OAuth Inbound, OAuth authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Configure an OAuth resource owner password credential grant

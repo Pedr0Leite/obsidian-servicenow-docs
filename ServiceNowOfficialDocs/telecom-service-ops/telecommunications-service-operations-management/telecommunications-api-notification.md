@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Telecom Assurance, Explore, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-concept
 ---
 
 # External event management via Telecommunications API notifications

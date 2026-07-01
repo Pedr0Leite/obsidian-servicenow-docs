@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 2
 breadcrumb: [Configuring plan template, Setup for a BCP, Configure, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Configure Task templates and Task template groups

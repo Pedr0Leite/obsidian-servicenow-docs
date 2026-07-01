@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrated service and experience feedback management, Integrated experience and service feedback, Setup continuous improvement, Configuring Employee Center Pro, Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Modify the workflow feedback widget

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-reference
 ---
 
 # New Operational Assignment form

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-25"
 reading_time_minutes: 2
 breadcrumb: [Create a Discovery process classification, Discovery classifiers, Configuring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # On classification script objects for Discovery

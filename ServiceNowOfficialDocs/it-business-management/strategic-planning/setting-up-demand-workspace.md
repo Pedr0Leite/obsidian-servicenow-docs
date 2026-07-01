@@ -11,6 +11,13 @@ last_updated: "2026-05-11"
 reading_time_minutes: 1
 keywords: [configure]
 breadcrumb: [Next Experience for Demand Management in Strategic Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-concept
 ---
 
 # Configuring Next Experience for Demand Management

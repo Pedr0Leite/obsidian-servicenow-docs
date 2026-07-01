@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [PPM Standard \(Project Portfolio Management\), Explore Project Portfolio Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-task
 ---
 
 # Activate Investment Funding for projects and demands

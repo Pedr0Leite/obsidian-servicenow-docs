@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Manage, Workplace Space Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - space-management
+  - floor-plans
+  - utilization
+  - facilities
+  - type-task
 ---
 
 # Allocate a cost center, department, or workplace entity

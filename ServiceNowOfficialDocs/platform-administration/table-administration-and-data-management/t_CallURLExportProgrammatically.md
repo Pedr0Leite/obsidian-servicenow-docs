@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Export directly from a URL, Exporting data, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-task
 ---
 
 # Call URL export programmatically

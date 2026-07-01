@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 4
 keywords: [scope, scope item, assessment scope, scope items, reference information]
 breadcrumb: [Triggering assessments, Configure, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-concept
 ---
 
 # Scope items in an assessment

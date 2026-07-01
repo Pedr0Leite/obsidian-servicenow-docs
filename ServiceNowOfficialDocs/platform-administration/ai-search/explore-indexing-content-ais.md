@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Explore, AI Search, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ai-search
+  - indexing
+  - relevancy
+  - search
+  - type-concept
 ---
 
 # Index searchable content from ServiceNow AI Platform tables and external sources

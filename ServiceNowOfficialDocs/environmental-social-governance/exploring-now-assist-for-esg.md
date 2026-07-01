@@ -9,6 +9,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [explore]
 breadcrumb: [Now Assist, Use, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-concept
 ---
 
 # Exploring Now Assist for Operational Sustainability \(formerly ESG\)

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Request due diligence, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Request due diligence for a third-party engagement

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Incident pattern analysis, Use generative AI skills, Now Assist for Health and Safety, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - health-safety
+  - generative
+  - type-task
 ---
 
 # Work on an incident pattern record

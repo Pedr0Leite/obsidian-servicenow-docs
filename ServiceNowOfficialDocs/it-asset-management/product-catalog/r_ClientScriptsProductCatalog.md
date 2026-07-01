@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Components installed with Product Catalog, Product Catalog, IT Asset Management]
+tags:
+  - it-asset-management
+  - product-catalog
+  - models
+  - catalog
+  - itam
+  - type-reference
 ---
 
 # Client scripts installed with Product Catalog

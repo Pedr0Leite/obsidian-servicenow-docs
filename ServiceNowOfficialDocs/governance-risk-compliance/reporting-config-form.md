@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-12"
 reading_time_minutes: 1
 breadcrumb: [Create Reporting configurations, Generating Microsoft Word reports using Document designer, Manage, Using Digital resilience incident reporting, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Create Reporting Configuration form

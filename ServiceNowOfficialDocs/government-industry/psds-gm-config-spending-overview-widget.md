@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 2
 keywords: [Configure funding allocation charts, Spending Overview widget, filter pills, Funding Allocation tab, UI Builder, grants management configuration]
 breadcrumb: [Set up a grant program, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure the Spending Overview Widget and Filter pills

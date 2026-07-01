@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Operational Technology Incident Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - incidents
+  - ics
+  - response
+  - type-reference
 ---
 
 # Components installed with Operational Technology Incident Management

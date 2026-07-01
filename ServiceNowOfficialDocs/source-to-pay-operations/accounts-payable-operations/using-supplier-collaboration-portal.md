@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [APO, Accounts Payable Operations, invoice exception, supplier, supplier portal, invoice inquiry case]
 breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Using Supplier Collaboration Portal in APO

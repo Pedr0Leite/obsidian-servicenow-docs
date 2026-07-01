@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Unified service map in SOW ITOM, Impact path in SOW ITOM, Impact tree in SOW ITOM, Relation between CIs and alerts]
 breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-task
 ---
 
 # View unified service map and the impact paths in Service Operations Workspace

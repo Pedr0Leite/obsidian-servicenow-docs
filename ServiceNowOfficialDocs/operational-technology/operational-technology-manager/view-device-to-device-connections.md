@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [OT device related items and related lists, Edit or view OT devices after import or discovery, Use, Operational Technology Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - manager
+  - configuration
+  - overview
+  - type-task
 ---
 
 # View and edit device to device connections

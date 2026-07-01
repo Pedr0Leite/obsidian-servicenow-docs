@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Exploit protection \(WAF\), Use mitigation controls, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create a policy for the AWS WAF integration for mitigation controls monitoring

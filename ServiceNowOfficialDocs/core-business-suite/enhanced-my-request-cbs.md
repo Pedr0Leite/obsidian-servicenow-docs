@@ -9,6 +9,12 @@ last_updated: "2026-05-26"
 reading_time_minutes: 2
 keywords: [Enhanced My Request, Core Business Suite, Health and Safety, Finance, requests]
 breadcrumb: [Use, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Enhanced Requests Experience in Core Business Suite

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Viewing links between alerts in alert groups in Express List, Express List in SOW for ITOM, Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-task
 ---
 
 # View links between alerts in a group in Express List

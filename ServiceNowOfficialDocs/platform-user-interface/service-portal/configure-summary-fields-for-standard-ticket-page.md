@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 1
 breadcrumb: [Configure the standard ticket page, Standard ticket page, Creating portal pages, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Configure summary fields for standard ticket page

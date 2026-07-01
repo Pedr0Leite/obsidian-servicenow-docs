@@ -11,6 +11,13 @@ last_updated: "2026-04-16"
 reading_time_minutes: 1
 keywords: [Business App Mapping AI Agent, confidence thresholds, CSDM, ITOM]
 breadcrumb: [AI Agents for Service Mapping, AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-reference
 ---
 
 # Business App Mapping AI Agent confidence thresholds

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [configure now assist for fso, now assist for fso skills, activate fso now assist skills, configure case summarization, configure customer profile summarization, disputes intake virtual agent, configure fso agentic workflows]
 breadcrumb: [Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Configuring Now Assist for Financial Services Operations \(FSO\)

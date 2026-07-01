@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, Gen AI, Generative AI, AI Governance, Now LLM, large language model]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-reference
 ---
 
 # AI Control Tower

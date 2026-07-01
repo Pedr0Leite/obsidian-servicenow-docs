@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Cloud Discovery Workspace, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-discovery
+  - inventory
+  - workspace
+  - itom
+  - type-task
 ---
 
 # Install Cloud Discovery Workspace

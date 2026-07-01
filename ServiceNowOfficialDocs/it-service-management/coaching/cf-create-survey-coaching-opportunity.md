@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up, Configure, Coaching, IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Create a survey and associate with a Coaching opportunity

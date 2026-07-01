@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Escape jelly script \[Updated in Security Center 1.3 and 1.5\]

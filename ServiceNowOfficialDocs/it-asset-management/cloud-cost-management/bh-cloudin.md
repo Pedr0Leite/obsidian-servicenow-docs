@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - cloud-cost
+  - finops
+  - optimization
+  - itam
+  - type-concept
 ---
 
 # Business hours

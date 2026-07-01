@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use generative AI skills, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-task
 ---
 
 # Generate recommended actions for products by using Now Assist for SAM

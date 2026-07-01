@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 2
 keywords: [Now Assist, Virtual Agent, enhanced chat, topics, subflows, actions, assistant]
 breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Testing assistants

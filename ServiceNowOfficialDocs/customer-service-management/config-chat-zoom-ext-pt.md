@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 2
 breadcrumb: [Chat Zoom Connector, Chat channel, Enable communication channels, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Configure application-specific field values for Zoom interactions

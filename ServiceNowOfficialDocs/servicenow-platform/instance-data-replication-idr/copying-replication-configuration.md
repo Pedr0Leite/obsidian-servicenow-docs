@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Administer, Instance Data Replication, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - idr
+  - replication
+  - instances
+  - data-sync
+  - type-concept
 ---
 
 # Deploying a replication configuration from one instance to another in Instance Data Replication

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-03-18"
 reading_time_minutes: 6
 breadcrumb: [Create a chat assistant, View assistants, Configuring assistants overview, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-task
 ---
 
 # Assign search sources to a chat assistant

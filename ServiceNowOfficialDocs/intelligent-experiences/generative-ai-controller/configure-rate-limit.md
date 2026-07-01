@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - generative-ai
+  - controller
+  - llm
+  - prompts
+  - type-task
 ---
 
 # Configure rate limiting for providers

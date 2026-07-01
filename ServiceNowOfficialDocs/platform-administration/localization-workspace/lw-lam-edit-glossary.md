@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-28"
 reading_time_minutes: 4
 breadcrumb: [Language Asset Management, Configuring Localization Workspace, Localization Workspace, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - workspace
+  - translations
+  - content
+  - type-task
 ---
 
 # Edit a glossary in Language Asset Management

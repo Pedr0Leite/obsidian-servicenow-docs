@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Agile Development 2.0, Integrate, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-task
 ---
 
 # Onboard Agile Development 2.0 to DevOps Change Velocity — Workspace

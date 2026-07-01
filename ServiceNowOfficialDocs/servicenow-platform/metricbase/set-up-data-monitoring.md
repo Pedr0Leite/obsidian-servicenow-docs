@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - metricbase
+  - time-series
+  - metrics
+  - storage
+  - type-task
 ---
 
 # Create a time-series definition in MetricBase

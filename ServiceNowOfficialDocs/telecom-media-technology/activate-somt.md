@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-31"
 reading_time_minutes: 1
 breadcrumb: [Configure, Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # Activate Sales CRM for Telecommunications

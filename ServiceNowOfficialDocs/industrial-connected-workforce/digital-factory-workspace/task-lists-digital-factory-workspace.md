@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Explore, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-concept
 ---
 
 # Task lists in the Digital Factory Workspace

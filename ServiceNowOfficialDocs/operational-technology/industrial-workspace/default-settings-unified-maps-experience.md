@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up the Operational Technology Unified Map experience, Configure, Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-concept
 ---
 
 # Default settings of the Operational Technology Unified Map experience

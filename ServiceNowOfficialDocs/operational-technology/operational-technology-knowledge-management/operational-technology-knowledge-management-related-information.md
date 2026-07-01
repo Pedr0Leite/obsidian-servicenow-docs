@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Operational Technology Knowledge Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - knowledge
+  - runbooks
+  - procedures
+  - type-reference
 ---
 
 # Related information

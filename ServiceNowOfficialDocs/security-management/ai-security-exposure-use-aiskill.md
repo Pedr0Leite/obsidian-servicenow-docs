@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Using the AI guardrails helper skill and agentic workflow, AI Security Exposure Management, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Use the AI guardrails helper skill

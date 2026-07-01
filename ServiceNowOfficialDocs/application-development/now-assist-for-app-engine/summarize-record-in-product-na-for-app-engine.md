@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [summarize a record in a custom table, summarize a table in a custom app, generate summary for table]
 breadcrumb: [Use, Now Assist for App Engine, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - code-generation
+  - app-engine
+  - type-task
 ---
 
 # Summarize a record in-product using Now Assist for App Engine

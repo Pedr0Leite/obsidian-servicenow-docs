@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [How to migrate a few dashboards]
 breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Perform a partial migration of dashboards

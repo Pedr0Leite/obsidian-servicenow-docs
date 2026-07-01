@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-05"
 reading_time_minutes: 7
 breadcrumb: [Cloud discovery reporting, Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Cloud Resources Explorer

@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 2
 keywords: [Platform Analytics dashboard, BCM dashboard, create dashboard, customize dashboard, home page dashboard, record overview dashboard]
 breadcrumb: [Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Platform Analytics dashboards

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Service Request, Data Model, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # Tables installed with Service Request Playbook

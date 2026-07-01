@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [User criteria for Service Portal, Managing portal access, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Create a user criteria record for Service Portal

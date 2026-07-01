@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 1
 breadcrumb: [Audit Workspace for the Auditor, Audit Workspace Overview, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Update other assigned audit tasks in Audit Workspace

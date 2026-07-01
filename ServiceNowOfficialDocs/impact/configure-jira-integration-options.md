@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-05"
 reading_time_minutes: 2
 breadcrumb: [User story integration, Scan Engine integrations, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Configure Jira user story integration

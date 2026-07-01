@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Regenerate a text index for a table, Zing indexes words, Zing text indexing and search engine, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-task
 ---
 
 # Regenerate the text index for a single record

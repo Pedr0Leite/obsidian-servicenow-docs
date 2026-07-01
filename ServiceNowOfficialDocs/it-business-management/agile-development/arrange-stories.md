@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage your product backlog in Agile Development 2.0, Managing your product development using Agile Development 2.0, Agile Development 2.0, Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - agile
+  - sprints
+  - stories
+  - backlog
+  - type-task
 ---
 
 # Arrange Agile Development 2.0 stories in Agile Board using the keyboard

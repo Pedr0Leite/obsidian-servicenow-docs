@@ -11,6 +11,13 @@ last_updated: "2025-09-25"
 reading_time_minutes: 3
 keywords: [Trending Topics, GenAI Insights, Case Manager Dashboard, Customer Sentiment, Base system Insights]
 breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-concept
 ---
 
 # View trending topics dashboard

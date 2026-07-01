@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 2
 keywords: [support-video]
 breadcrumb: [Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Discovery monitoring and issue resolution

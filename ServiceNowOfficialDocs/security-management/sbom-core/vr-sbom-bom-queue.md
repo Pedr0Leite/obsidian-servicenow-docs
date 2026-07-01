@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Viewing reports and dashboards in the Software Bill of Materials workspace, Use, Software Bill of Materials, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - sbom
+  - bill-of-materials
+  - software
+  - security
+  - type-task
 ---
 
 # View upload status for Software Bill of Materials files

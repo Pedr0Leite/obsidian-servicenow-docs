@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-04-08"
 reading_time_minutes: 1
 breadcrumb: [Business Portal reference, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Invoice line item details on Business Portal

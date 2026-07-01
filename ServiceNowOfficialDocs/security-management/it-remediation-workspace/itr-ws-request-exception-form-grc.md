@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, IT Remediation Workspace, Vulnerability Response Workspaces, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - remediation
+  - workspace
+  - security
+  - it
+  - type-reference
 ---
 
 # Request exception form fields for policy exceptions

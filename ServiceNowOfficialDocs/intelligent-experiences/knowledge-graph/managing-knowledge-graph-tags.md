@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-04"
 reading_time_minutes: 1
 breadcrumb: [Tagging in Knowledge Graph Designer, Using Enterprise graph schema, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-task
 ---
 
 # Managing Knowledge Graph tags

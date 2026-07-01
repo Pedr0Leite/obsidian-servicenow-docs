@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Carousel widget, Example widgets, Widget library, Using portal widgets, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Add slides to the carousel widget

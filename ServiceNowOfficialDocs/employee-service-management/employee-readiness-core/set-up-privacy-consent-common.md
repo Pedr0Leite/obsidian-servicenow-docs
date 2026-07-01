@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Maintaining privacy consent in Employee Readiness Core, Employee Readiness Core, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - readiness
+  - assessment
+  - compliance
+  - training
+  - type-concept
 ---
 
 # Setting up privacy consent settings

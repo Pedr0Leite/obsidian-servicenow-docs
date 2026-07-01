@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Email Interaction for CSM]
 breadcrumb: [Email Interaction, Email channel, Enable communication channels, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Configure Advanced Work Assignment for routing email interactions

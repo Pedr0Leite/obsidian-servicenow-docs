@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Authentication, Access Management]
+tags:
+  - platform-security
+  - certificates
+  - mtls
+  - pki
+  - authentication
+  - type-concept
 ---
 
 # Certificate-based authentication

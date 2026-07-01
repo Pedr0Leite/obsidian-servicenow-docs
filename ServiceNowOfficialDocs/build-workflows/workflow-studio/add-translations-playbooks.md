@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 1
 breadcrumb: [Creating and managing Playbooks, Build Playbooks, Playbooks, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Add translations for Playbooks

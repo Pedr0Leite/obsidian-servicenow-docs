@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Accelerate alert resolution with past incident analysis, Use generative AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Generate a Now Assist summary of past related incidents

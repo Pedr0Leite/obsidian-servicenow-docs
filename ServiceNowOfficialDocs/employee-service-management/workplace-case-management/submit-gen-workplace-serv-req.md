@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 4
 breadcrumb: [Requesting a workplace service, Workplace Case Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace
+  - cases
+  - facilities
+  - management
+  - type-task
 ---
 
 # Raise help request for a workplace inquiry

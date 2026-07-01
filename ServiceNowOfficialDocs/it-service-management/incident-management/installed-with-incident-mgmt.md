@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate KCS Integration for Incident Management, Incident Management plugins, Reference, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-reference
 ---
 
 # Component installed with KCS Integration for Incident Management plugin

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-15"
 reading_time_minutes: 1
 breadcrumb: [Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-concept
 ---
 
 # Integrate

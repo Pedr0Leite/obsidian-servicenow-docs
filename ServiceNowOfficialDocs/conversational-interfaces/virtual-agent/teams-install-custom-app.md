@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Microsoft Teams, MSTeams, tenant, Virtual Agent, Conversational Integration, bot]
 breadcrumb: [Integrate multiple ServiceNow instances with a single MS Teams tenant, Specialized VA integrations for Teams, Integrate VA with Teams, Conversational Integration with Microsoft Teams, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Integrate your self-configured bot with single Microsoft Teams tenant

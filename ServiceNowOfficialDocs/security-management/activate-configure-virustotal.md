@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [VirusTotal integration setup, VirusTotal integration, Threat Intelligence integrations, Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Activate and configure the VirusTotal integration

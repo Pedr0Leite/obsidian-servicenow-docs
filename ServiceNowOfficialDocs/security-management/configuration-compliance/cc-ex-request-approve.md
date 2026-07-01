@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Requesting and approving an exception for a remediation task, Use, Configuration Compliance, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - config-compliance
+  - cis
+  - scap
+  - security
+  - type-task
 ---
 
 # Approve an exception request in Configuration Compliance

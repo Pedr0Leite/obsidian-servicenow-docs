@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 1
 breadcrumb: [3E, Integration with third-party services, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-concept
 ---
 
 # 3E Regulatory Intelligence

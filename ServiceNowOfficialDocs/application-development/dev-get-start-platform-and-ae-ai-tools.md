@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-31"
 reading_time_minutes: 1
 breadcrumb: [Adding AI to your apps, Getting Started guide for developers, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Platform and App Engine tools

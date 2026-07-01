@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [filter, Platform Analytics, data visualization]
 breadcrumb: [Technical dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Technical dashboards compared to inline dashboards

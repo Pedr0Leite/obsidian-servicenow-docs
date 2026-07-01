@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Field Service Manager Mobile, Completing work on mobile, Use, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-task
 ---
 
 # View the tasks assigned to an agent

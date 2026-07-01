@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Security Operations and the ServiceNow Store, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Download an application from the ServiceNow Store for the first time

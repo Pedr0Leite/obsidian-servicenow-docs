@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Now Assist in AI Search, ServiceNow Store applications and integrations, AI Search, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ai-search
+  - indexing
+  - relevancy
+  - search
+  - type-task
 ---
 
 # Provide feedback on Now Assist Multi-Content Response Genius Result answers

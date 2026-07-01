@@ -9,6 +9,9 @@ last_updated: "2026-01-23"
 reading_time_minutes: 2
 keywords: [Opt out, Now Assist, data sharing, Admin console, settings page, account]
 breadcrumb: [Data sharing and processes, Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Opt out of data sharing for Now Assist

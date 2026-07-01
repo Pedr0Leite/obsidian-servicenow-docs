@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing impacted people, Critical Event Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - critical-events
+  - emergency
+  - response
+  - safety
+  - type-task
 ---
 
 # Add a person manually to the impacted people list

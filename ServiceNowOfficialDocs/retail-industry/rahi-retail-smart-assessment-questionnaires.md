@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Retail questionnaire, Retail store plans, Explore, Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Smart Assessment questionnaires for Retail

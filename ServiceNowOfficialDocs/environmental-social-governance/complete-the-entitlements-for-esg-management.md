@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Operational Sustainability Management \(formerly ESG Management\) implementation, Configure, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-task
 ---
 
 # Complete the entitlements for Operational Sustainability Management \(formerly ESG Management\)

@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Explore Project Portfolio Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-reference
 ---
 
 # Test Management 2.0 integration with Project Portfolio Management

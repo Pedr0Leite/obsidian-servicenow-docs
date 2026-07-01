@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Code Signing, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Sign the REST and SOAP messages in the production instance

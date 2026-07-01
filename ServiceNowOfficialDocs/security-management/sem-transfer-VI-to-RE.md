@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use Remediation Effort records, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Transfer records to remediation efforts in the Security Exposure Management Workspace

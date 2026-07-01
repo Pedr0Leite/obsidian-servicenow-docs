@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 6
 keywords: [AI offboarding, AI model retirement, AI dataset retirement, AI Risk and Compliance, AI governance, AI Control Tower]
 breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # Offboarding AI assets review

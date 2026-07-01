@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, List administration, Forms, fields, and lists, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - lists
+  - columns
+  - views
+  - administration
+  - type-task
 ---
 
 # Omit record count in a list

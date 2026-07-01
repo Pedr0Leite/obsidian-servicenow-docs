@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Now Assist panel]
 breadcrumb: [Use, Now Assist for Workplace Service Delivery \(WSD\), Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - workplace
+  - generative
+  - type-task
 ---
 
 # Review notifications in the Now Assist panel

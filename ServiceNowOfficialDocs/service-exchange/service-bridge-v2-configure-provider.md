@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Exchange for Providers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Configure Service Exchange for Providers

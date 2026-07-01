@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Domain separation and AI Search, Configuring AI Search, AI Search, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ai-search
+  - indexing
+  - relevancy
+  - search
+  - type-task
 ---
 
 # Enable automatic domain updates for a referenced table

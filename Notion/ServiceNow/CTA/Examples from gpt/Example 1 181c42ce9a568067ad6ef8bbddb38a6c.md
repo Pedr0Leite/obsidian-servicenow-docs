@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Example 1"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -122,3 +124,8 @@ When presenting this case study during the CTA course, focus on the following:
     - Begin with an overview of UBL’s challenges and business objectives. Highlight the risks posed by legacy systems and the benefits of moving to ServiceNow.
 2. **Solution Overview**
     - Walk jurors through the proposed solution, module by module. Use visual aids
+
+## Related
+- [[Topics for Pre-study]]
+- [[CTA – Case study]]
+- [[05 Case Study – For PPT]]

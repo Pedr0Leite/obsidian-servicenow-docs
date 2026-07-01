@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: omgmt
 doc_type: toc
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
 ---
 
 # Australia Sales Customer Relationship Management

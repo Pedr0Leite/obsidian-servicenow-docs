@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-29"
 reading_time_minutes: 2
 breadcrumb: [Reference, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-reference
 ---
 
 # Collaboration permissions for ServiceNow Studio

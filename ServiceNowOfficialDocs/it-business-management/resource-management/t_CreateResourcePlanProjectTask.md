@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Resource plans, Resource Management classic, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-task
 ---
 
 # Create a resource plan

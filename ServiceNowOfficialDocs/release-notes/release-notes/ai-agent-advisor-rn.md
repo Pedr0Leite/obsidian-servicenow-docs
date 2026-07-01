@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-04-17"
 reading_time_minutes: 4
 keywords: [AI Agent Advisor, Now Assist, Now Assist Center, Gen AI, Generative AI]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # AI Agent Advisor release notes

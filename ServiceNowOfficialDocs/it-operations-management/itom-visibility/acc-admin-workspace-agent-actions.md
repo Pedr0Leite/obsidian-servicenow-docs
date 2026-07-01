@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-14"
 reading_time_minutes: 1
 breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Agent Client Collector \(ACC\) admin workspace agent actions

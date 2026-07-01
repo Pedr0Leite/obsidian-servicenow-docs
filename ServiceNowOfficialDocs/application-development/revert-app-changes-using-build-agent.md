@@ -9,6 +9,9 @@ last_updated: "2026-04-02"
 reading_time_minutes: 1
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Revert app changes with Build Agent

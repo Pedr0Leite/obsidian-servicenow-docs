@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-08-06"
 reading_time_minutes: 2
 breadcrumb: [Configuring Kubernetes Visibility Agent, Kubernetes discovery using Kubernetes Visibility Agent, Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Enabling application service maps

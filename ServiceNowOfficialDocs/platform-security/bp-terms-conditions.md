@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Recommended practices for service providers, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Domain separation terms

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Send email to remind users to enroll for Password Reset, Configure your Password Reset process, Configuring Password Reset, Password Reset, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - password-reset
+  - self-service
+  - enrollment
+  - type-task
 ---
 
 # Customize the Password Reset enrollment reminder email

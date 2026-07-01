@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Configure, Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Add members to HQ group to complete playbook

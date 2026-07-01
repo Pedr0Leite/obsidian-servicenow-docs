@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-16"
 reading_time_minutes: 1
 breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Event task creation progress in exercise and crisis events

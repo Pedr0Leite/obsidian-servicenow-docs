@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-concept
 ---
 
 # Creating an assessment template from legacy assessment metric types

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Building a lifecycle event, Using Lifecycle Events, Lifecycle Events, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lifecycle-events
+  - onboarding
+  - offboarding
+  - transitions
+  - type-task
 ---
 
 # Select a Lifecycle Event for Now Mobile

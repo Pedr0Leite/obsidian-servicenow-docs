@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, map, skill, dashboard, performance indicator, sn\_na\_analytics\_admin, sn\_na\_analytics\_configuration, genAI, Generative AI]
 breadcrumb: [Configuring Now Assist Analytics, Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Map a skill to a dashboard

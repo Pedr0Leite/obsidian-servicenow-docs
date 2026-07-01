@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [APO, Accounts Payable Operations, invoice processing, Accounts Payable Workspace, AP case, universal request, employee inquiry]
 breadcrumb: [Universal Request in Accounts Payable Operations, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Create invoice case from Universal Request

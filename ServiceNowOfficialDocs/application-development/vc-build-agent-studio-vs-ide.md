@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [ServiceNow Studio, ServiceNow IDE, Build Agent, low-code, full-stack generation]
 breadcrumb: [Build Agent overview, Develop, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Build Agent and ServiceNow AI Platform tools

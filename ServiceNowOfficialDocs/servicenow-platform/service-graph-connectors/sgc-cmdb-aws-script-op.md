@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Service Graph Connector for AWS, Service Graph Connector for AWS scripts]
 breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Executing scripts required for setting up AWS

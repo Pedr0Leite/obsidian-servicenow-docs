@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage evidence requests, Classic UI, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-task
 ---
 
 # Enable Related Evidence related list

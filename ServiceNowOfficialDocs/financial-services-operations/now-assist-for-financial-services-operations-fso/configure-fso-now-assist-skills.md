@@ -12,6 +12,13 @@ reading_time_minutes: 3
 keywords: [Now Assist, Financial Services Operations, FSO, AI skills, case summarization, disputes intake, customer profile summarization, Agentic Contact Center, configuration, generative AI]
 audience: administrator
 breadcrumb: [Configure, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Configure Financial Services Operations Now Assist skills

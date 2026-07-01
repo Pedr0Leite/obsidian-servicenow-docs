@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-09-26"
 reading_time_minutes: 1
 breadcrumb: [Configuring Now Assist Admin features, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Activate Now Assist panel enhanced chat

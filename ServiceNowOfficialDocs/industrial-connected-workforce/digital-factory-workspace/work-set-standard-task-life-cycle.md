@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 3
 keywords: [work set life cycle, states]
 breadcrumb: [Industrial Standards, Use, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-reference
 ---
 
 # Work set standard and task life cycles

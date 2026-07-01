@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-task
 ---
 
 # Create an improvement initiative from Digital Portfolio Management

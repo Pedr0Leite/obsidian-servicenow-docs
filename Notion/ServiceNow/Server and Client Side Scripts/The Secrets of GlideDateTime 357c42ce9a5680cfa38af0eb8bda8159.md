@@ -1,6 +1,8 @@
 ---
 aliases:
   - "The Secrets of GlideDateTime"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - glide-date-time
   - scripting

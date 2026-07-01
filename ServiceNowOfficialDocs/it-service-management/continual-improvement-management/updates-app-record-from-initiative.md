@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Continual Improvement Management, IT Service Management]
+tags:
+  - it-service-management
+  - cim
+  - improvements
+  - itsm
+  - metrics
+  - type-reference
 ---
 
 # Updates after application record creation from improvement initiatives

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-13"
 reading_time_minutes: 1
 breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Disable JavaScript tags in embedded HTML

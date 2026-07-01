@@ -11,6 +11,13 @@ last_updated: "2026-06-10"
 reading_time_minutes: 6
 keywords: [scripted extension point, extension point, SmartAsmtResponseAssistExtensionPoint, AI Response Assist, Document Provider, customize AI sources]
 breadcrumb: [Configure, Now Assist, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-concept
 ---
 
 # Customizing AI Response Assist sources

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Patterns]
 breadcrumb: [Cloud resource discovery references, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Data collected for GCP Cloud Discovery

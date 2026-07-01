@@ -9,6 +9,12 @@ last_updated: "2026-03-26"
 reading_time_minutes: 2
 keywords: [configurable product action, child blueprint, parent blueprint, admin]
 breadcrumb: [Enable solution configuration, CPQ app, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create a configurable product action

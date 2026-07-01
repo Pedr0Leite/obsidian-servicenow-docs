@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Install Virtual Agent plugins, Activate and get started, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models

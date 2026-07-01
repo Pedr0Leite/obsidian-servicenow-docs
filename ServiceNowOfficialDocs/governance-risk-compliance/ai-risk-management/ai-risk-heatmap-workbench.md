@@ -11,6 +11,13 @@ last_updated: "2026-04-21"
 reading_time_minutes: 1
 keywords: [AI risk heatmap, AI risk visualization, AI risk governance]
 breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # AI risk heatmap workbench

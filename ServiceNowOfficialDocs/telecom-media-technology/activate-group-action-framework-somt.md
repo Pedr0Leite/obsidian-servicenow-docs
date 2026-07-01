@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Order enrichment AI agent, Standalone AI agents, Use agentic workflows, Now Assist for Sales CRM for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # Activate Group Action Framework for Now Assist for Sales CRM for Telecommunications

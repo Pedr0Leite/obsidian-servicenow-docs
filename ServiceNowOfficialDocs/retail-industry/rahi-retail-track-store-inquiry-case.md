@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage store inquiries, Retail]
+tags:
+  - retail-industry
+  - type-task
 ---
 
 # Track a store inquiry case from the Retail portal

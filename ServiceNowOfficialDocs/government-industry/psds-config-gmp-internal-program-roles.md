@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-30"
 reading_time_minutes: 1
 breadcrumb: [Create internal program team, Set up a grant program, Grants Management Program Setup, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure custom internal program team roles

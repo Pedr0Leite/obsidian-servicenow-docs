@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring advanced settings for your ML solutions, Configure Predictive Intelligence, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-task
 ---
 
 # Configure DBSCAN for a clustering solution

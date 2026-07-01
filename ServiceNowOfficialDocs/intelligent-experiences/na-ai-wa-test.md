@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-09-07"
 reading_time_minutes: 7
 breadcrumb: [Add adaptive desktop action for web, Create AI agents, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Test an AI agent or agentic workflow for adaptive desktop actions

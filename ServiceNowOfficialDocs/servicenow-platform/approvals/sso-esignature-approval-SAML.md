@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Approval with e-signature, Classic approvals, Exploring Service Administration, Service Administration, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - approvals
+  - engine
+  - workflow
+  - platform
+  - type-task
 ---
 
 # Use Multi-Provider SSO to set up an SSO approval for a SAML 2.0 authentication

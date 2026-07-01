@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Jumpstart Your Data Privacy

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Google Dialogflow ES as the NLU provider for Virtual Agent, Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Activate the Google Dialogflow ES service and enable it in your instance

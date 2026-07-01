@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 4
 keywords: [assessment templates, FRIA, EU AI Act, NIST, AI Risk and Compliance]
 breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-reference
 ---
 
 # Assessment templates reference

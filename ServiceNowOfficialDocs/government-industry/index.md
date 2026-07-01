@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: gvin
 doc_type: toc
+tags:
+  - government-industry
 ---
 
 # Australia Public Sector

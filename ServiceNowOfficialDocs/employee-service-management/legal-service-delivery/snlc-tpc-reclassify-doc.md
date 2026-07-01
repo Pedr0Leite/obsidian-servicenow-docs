@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Work on a third-party contract review request, Third-party contract review requests, Use, Contract Management Pro for Legal Service Delivery, Integration with ServiceNow applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - lsd
+  - legal
+  - service-delivery
+  - cases
+  - type-task
 ---
 
 # Reclassify contract documents in third-party contract review request as a legal fulfiller

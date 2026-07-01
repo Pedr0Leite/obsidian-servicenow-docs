@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Service Mapping, Kubernetes, hybrid environments, container discovery, application dependencies, topology-mapping, cloud native]
 breadcrumb: [Choose method for discovering and mapping services, Exploring Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-concept
 ---
 
 # Service Mapping for containerized environments using KVA

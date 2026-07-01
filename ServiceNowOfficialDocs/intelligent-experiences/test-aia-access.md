@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-13"
 reading_time_minutes: 3
 breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Test user access to an AI agent

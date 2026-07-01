@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Managing ideas using Innovation Management, Innovation Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - innovation
+  - ideas
+  - evaluation
+  - itbm
+  - type-task
 ---
 
 # Train the similarity solution for Innovation Management to find similar ideas

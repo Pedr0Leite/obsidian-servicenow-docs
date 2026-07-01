@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 2
 breadcrumb: [Activity Management, Lead and opportunity management apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Make emails associated through the CRM Outlook Add-in visible to agents

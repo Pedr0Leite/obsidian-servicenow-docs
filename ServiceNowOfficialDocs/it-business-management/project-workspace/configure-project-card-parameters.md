@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-task
 ---
 
 # Configure parameters displayed on project cards in classic Project Workspace

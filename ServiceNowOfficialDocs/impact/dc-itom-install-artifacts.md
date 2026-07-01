@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Impact Value Management Data Collection Content Pack for ITOM, Enable data collection for Value Management, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Review ITOM artifacts

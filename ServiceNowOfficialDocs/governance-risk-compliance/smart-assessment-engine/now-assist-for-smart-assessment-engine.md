@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-26"
 reading_time_minutes: 3
 breadcrumb: [Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-reference
 ---
 
 # Now assist for smart assessment engine

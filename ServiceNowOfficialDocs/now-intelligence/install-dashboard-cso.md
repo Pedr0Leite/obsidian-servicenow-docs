@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Chief Information Security Officer \(CISO\) Dashboard, Executive dashboard overview, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Install the Chief Information Security Officer Dashboard

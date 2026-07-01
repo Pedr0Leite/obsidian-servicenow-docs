@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install DEX Score, Configure DEX Score, Digital Experience Score, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - des
+  - digital-experience
+  - score
+  - itsm
+  - type-task
 ---
 
 # Load Digital Experience Score​ demo data

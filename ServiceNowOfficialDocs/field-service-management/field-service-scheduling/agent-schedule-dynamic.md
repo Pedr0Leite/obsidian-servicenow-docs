@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-concept
 ---
 
 # Set up agent schedules for dynamic scheduling

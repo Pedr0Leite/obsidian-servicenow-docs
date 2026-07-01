@@ -11,6 +11,13 @@ last_updated: "2026-04-29"
 reading_time_minutes: 1
 keywords: [customize canvas, add widgets, resize widgets, arrange widgets]
 breadcrumb: [Personalized canvas, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Customize canvas widgets

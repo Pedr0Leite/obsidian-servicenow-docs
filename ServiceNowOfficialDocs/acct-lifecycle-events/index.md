@@ -4,6 +4,13 @@ locale: en-US
 release: australia
 bundle: actle
 doc_type: toc
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
 ---
 
 # Australia Customer Success Management

@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: gloss
 doc_type: toc
+tags:
+  - glossary
+  - terminology
+  - definitions
+  - acronyms
 ---
 
 # NOW Platform Glossary

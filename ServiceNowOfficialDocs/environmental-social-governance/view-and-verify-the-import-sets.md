@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrating Operational Sustainability Management \(formerly ESG\) with Watershed, Integrating Operational Sustainability Management \(formerly ESG\) with other applications, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-task
 ---
 
 # View and verify the import sets

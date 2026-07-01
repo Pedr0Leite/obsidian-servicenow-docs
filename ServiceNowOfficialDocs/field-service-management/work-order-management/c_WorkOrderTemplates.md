@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work orders, Set up work orders and tasks, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-concept
 ---
 
 # Configuring work order templates

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: platux
 doc_type: toc
+tags:
+  - platform-user-interface
 ---
 
 # Australia ServiceNow AI Platform user interface

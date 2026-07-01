@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Patterns, Azure, Cloud, Discovery, Visibility, CMDB]
 breadcrumb: [Cloud discovery solutions comparison, Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # GCP discovery solutions comparison

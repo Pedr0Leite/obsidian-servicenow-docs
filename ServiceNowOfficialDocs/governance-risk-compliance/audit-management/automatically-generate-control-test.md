@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Control Test Creation, Manage engagements, Audit Management Overview, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Automatically generate control tests from an engagement

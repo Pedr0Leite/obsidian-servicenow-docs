@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI, Now Assist, record summarization]
 breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Generate a record summary on mobile

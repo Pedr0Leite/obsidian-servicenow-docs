@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 4
 breadcrumb: [Playbooks and Solutions, Explore, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Exploring Grants Management for Public Sector Digital Services

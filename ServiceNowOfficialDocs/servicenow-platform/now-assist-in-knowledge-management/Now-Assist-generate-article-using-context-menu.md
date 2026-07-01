@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, Gen AI, Generative AI, AI Search, Configuring Now Assist, Now LLM, large language model, Knowledge content recommendation, Context menu, Now Assist, Gen AI, Generative AI, AI Search, Configuring Now Assist, Now LLM, large language model, Knowledge content recommendation, Context menu]
 breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - now-assist
+  - ai
+  - knowledge
+  - generative
+  - type-task
 ---
 
 # Edit an article using the Now Assist context menu

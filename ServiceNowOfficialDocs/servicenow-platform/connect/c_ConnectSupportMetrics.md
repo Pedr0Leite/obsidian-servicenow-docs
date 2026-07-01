@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Connect Support administration, Connect Support, Connect, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - connect
+  - messaging
+  - collaboration
+  - type-concept
 ---
 
 # Connect Support metrics

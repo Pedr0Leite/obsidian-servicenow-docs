@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 1
 keywords: [risk assessment, AI systems, risk score, Advanced Risk, risk assessment methodology, perform risk assessment, AI Risk and Compliance]
 breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Perform risk assessments on AI systems

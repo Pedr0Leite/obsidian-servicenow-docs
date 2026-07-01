@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Formula building in a calculated metric definition, Configuring GRC: Metrics, GRC: Metrics, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-task
 ---
 
 # Edit a calculated metric definition formula

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Document Templates, Document Templates, HR Documents, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - hr
+  - cases
+  - service-catalog
+  - type-concept
 ---
 
 # Document Templates of type HTML

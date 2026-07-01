@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [vault, release notes]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # ServiceNow Vault release notes

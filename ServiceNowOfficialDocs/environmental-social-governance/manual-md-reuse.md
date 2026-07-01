@@ -8,6 +8,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Create a manual metric definition, Configuring GRC: Metrics, GRC: Metrics, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-reference
 ---
 
 # Manual metric definition fields

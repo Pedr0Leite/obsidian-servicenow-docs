@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [room booking, desk booking]
 breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-concept
 ---
 
 # Explore Workplace Reservation Management

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Treasury Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - treasury
+  - fso
+  - finance
+  - banking
+  - type-task
 ---
 
 # Work on a document task to generate agreement documents

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: psec
 doc_type: toc
+tags:
+  - platform-security
 ---
 
 # Australia Platform security

@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 2
 keywords: [personalized canvas, widgets, widget library, layout]
 breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Personalized canvas

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Use generative AI skills in Now Assist for Vault

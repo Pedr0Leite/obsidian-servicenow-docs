@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-config
+  - drift
+  - compliance
+  - itom
+  - type-reference
 ---
 
 # Schemas of Cloud Provisioning and Governance tables

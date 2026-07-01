@@ -8,6 +8,14 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure DCE Visualizations, Data context engine, Customer success, Configure, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-reference
 ---
 
 # DCE Insights tables

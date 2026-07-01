@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Evaluate access, Using Access Analyzer, Access Analyzer, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-task
 ---
 
 # View permissions for a group

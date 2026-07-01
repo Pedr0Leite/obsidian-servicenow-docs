@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [OKE, Agent Client Collector, Kubernetes, Visibility, deployment, installation, prerequisites, Cloud Native Operations for Visibility, CNO for Visibility]
 breadcrumb: [Configuring Kubernetes Visibility Agent, Kubernetes discovery using Kubernetes Visibility Agent, Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Prepare for Kubernetes Visibility Agent deployment

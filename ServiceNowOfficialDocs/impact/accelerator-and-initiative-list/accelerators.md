@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Accelerator request, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-task
 ---
 
 # Request Accelerators and Initiatives for Impact Store Application

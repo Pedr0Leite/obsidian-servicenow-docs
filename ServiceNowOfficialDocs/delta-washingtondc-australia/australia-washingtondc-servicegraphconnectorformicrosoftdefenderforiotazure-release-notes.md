@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 8
 breadcrumb: [Products combined by family]
+tags:
+  - delta-washingtondc-australia
+  - type-reference
 ---
 
 # Combined Service Graph Connector for Microsoft Defender for IoT \(Azure\) release notes for upgrades from Washington DC to Australia

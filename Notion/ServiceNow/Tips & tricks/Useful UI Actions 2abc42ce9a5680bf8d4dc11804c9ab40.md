@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Useful UI Actions"
+area: "Tips & tricks"
+source: notion-export
 tags:
   - ui-actions
   - tips-and-tricks
@@ -299,6 +301,7 @@ I liked [Ahmed Drar's idea](https://www.servicenow.com/community/csm-articles/e
 }` |
 
 ## Related
+- [[Workspace]]
 
 - [[Tips & tricks]]
 - [[How to use UI Actions in Workspaces]]

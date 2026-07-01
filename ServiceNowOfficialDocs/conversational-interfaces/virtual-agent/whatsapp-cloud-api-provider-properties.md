@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-18"
 reading_time_minutes: 1
 breadcrumb: [Using, Conversational Integration with WhatsApp \(WhatsApp Cloud API\), Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # WhatsApp Cloud API provider properties

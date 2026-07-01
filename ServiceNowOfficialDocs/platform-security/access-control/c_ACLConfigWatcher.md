@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [ACL debugging tools, Advanced ACL configuration, Access Control List Rules, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-concept
 ---
 
 # ACL configuration watcher

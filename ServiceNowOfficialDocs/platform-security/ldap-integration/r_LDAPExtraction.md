@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [LDAP record synchronization, LDAP integration, Authentication, Access Management]
+tags:
+  - platform-security
+  - ldap
+  - active-directory
+  - sync
+  - authentication
+  - type-reference
 ---
 
 # LDAP extraction

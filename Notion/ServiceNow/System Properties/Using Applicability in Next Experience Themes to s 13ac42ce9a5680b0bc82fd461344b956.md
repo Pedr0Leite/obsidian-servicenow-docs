@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Using Applicability in Next Experience Themes to s"
+area: "System Properties"
+source: notion-export
 tags:
   - system-properties
   - next-experience
@@ -218,6 +220,7 @@ how different default colors can be applied by role.
 [https://youtu.be/kuvL7zlUbsU](https://youtu.be/kuvL7zlUbsU)
 
 ## Related
+- [[Workspace for a custom app forms]]
 
 - [[System Properties]]
 - [[Workspace App Shell UX Page Properties]]

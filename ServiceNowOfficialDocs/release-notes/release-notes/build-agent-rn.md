@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-05-04"
 reading_time_minutes: 6
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Build Agent release notes

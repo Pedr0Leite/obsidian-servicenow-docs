@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Implications of disabling SM state flows, Service management states, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # Re-enable state flows

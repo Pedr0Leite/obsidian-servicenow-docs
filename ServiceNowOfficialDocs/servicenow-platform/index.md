@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: platcap
 doc_type: toc
+tags:
+  - servicenow-platform
 ---
 
 # Australia ServiceNow AI Platform Capabilities

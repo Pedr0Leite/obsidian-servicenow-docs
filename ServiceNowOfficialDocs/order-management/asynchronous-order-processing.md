@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-23"
 reading_time_minutes: 4
 breadcrumb: [Order management, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Asynchronous order processing for large customer and consumer orders

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Sidebar reference, Sidebar, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - sidebar
+  - ai-assistant
+  - contextual-help
+  - type-concept
 ---
 
 # Domain separation and Sidebar

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [components installed with intelligent servicing for fraud, sn\_bom\_fraud plugin, fraud tables, fraud roles, sn\_bom\_fraud\_case, sn\_bom\_fraud\_task, sn\_bom\_fraud\_transaction, sn\_bom\_fraud.admin, sn\_bom\_fraud.agent, sn\_bom\_fraud.manager, sn\_bom\_fraud.viewer, sn\_bom\_fraud.contributor, card fraud policy rules, fraud investigation routing rules, decision tables for fraud]
 breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-reference
 ---
 
 # Components installed with Intelligent Servicing for Fraud

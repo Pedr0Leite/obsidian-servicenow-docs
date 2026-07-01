@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, AI Enhanced recommended actions for ICW, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - type-task
 ---
 
 # Set up AI Enhanced recommended actions for Industrial Connected Workforce

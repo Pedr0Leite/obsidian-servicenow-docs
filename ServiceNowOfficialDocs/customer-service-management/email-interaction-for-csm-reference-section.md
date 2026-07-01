@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-03"
 reading_time_minutes: 1
 breadcrumb: [Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Email Interaction for CSM reference

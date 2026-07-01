@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Delegating roles, Managing roles, User administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - users
+  - groups
+  - roles
+  - access
+  - type-task
 ---
 
 # Designate role delegators

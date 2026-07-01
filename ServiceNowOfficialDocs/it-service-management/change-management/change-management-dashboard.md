@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2023-08-03"
 reading_time_minutes: 1
 breadcrumb: [Legacy: Change Management Platform Analytics Solutions, Use, Change Management, IT Service Management]
+tags:
+  - it-service-management
+  - change-management
+  - cab
+  - risk
+  - itsm
+  - type-concept
 ---
 
 # Legacy: Change Management dashboard

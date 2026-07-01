@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-concept
 ---
 
 # Reviewing customer or partner accounts in Proactive Service Experience Workflows

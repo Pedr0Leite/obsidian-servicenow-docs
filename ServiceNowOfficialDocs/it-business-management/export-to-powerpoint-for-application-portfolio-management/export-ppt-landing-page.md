@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - export
+  - powerpoint
+  - apm
+  - reporting
+  - type-reference
 ---
 
 # Export to PowerPoint for Strategic Portfolio Management

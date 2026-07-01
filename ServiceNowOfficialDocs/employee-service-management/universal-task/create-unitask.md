@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-task
+  - tasks
+  - workflow
+  - coordination
+  - type-task
 ---
 
 # Create a universal task

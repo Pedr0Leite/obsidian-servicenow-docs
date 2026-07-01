@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Creating and executing a PowerShell script-based remedial action, DEX remedial actions, Configure, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-task
 ---
 
 # Create a check definition for a custom remedial action

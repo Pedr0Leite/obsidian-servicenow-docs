@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Review the domain service orders, Approve and fulfill service orders, Use, Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # Review and update the service specifications for a service order line item

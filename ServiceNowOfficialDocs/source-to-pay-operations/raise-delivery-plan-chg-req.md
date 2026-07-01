@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Submit delivery plan change, Delivery plan change, New exception record, Raise an issue, purchase order exception]
 breadcrumb: [Reporting delivery plan issues, Use, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-task
 ---
 
 # Raise a delivery plan change request

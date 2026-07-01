@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Monitor System Events and Scheduled Jobs dashboard, Maintain and monitor, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # System Events and Jobs dashboard roles

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Install the Edge Encryption proxy server using the command line installer, Installing Edge Encryption, Edge Encryption, Encryption]
+tags:
+  - platform-security
+  - edge-encryption
+  - field-level
+  - proxy
+  - security
+  - type-task
 ---
 
 # Install the Edge Encryption proxy server \(command line installer\)

@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-03-30"
 reading_time_minutes: 3
 breadcrumb: [Working with data certification, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Review and certify data certification tasks

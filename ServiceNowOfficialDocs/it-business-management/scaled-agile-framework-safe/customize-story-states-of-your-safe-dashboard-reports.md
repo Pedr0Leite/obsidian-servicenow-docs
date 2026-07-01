@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Customizing Essential SAFe dashboard reports, Performance Analytics Content Pack for Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-task
 ---
 
 # Customize story states of your Essential SAFe dashboard reports

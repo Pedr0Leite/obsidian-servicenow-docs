@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [APO, Accounts Payable Operations, Accounts Payable Operations,, Accounts Payable Workspace, email ingestion, invoice automation]
 breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Composing emails with predefined content from the Source-to-Pay Workspace

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-04-23"
 reading_time_minutes: 2
 breadcrumb: [Advanced configurations, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-concept
 ---
 
 # Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM

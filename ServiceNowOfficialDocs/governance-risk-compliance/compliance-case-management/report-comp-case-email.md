@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Report compliance case, Use, Compliance Case Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - cases
+  - grc
+  - remediation
+  - type-task
 ---
 
 # Report a compliance case through email

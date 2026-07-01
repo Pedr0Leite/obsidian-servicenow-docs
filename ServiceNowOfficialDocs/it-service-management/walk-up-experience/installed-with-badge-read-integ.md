@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate Badge Reader Integration, Badge Reader Integration for Walk-up Experience, Configure, Walk-up Experience, IT Service Management]
+tags:
+  - it-service-management
+  - walk-up
+  - kiosk
+  - support
+  - itsm
+  - type-reference
 ---
 
 # Installed with Badge Reader Integration

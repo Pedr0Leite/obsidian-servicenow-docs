@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-concept
 ---
 
 # View relationship maps in Digital Portfolio Management

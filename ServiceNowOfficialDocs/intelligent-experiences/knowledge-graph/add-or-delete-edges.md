@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Knowledge Graph Designer, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-task
 ---
 
 # Add or delete edges to a Knowledge Graph schema

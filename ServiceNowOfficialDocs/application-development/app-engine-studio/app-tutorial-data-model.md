@@ -12,6 +12,13 @@ reading_time_minutes: 2
 keywords: [data model, application development, tutorial, tables, employee travel request]
 audience: developer
 breadcrumb: [App creation tutorial, Build, App Engine Studio, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - aes
+  - low-code
+  - app-builder
+  - drag-and-drop
+  - type-concept
 ---
 
 # Building a data model

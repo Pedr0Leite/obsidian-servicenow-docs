@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [LEAP reference, Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - aiops
+  - leap
+  - playbooks
+  - remediation
+  - type-reference
 ---
 
 # LEAP Installer fields

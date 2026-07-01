@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Service, Graph, Connectors, ITOM, Visibility, Patterns, Discovery, Service Mapping, AWS, Azure, GCP, Cloud]
 breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Cloud discovery solutions comparison

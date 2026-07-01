@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-reference
 ---
 
 # Quick start test for Asset Management

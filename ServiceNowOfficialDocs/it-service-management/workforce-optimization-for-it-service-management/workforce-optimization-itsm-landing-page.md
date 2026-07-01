@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-06-11"
 reading_time_minutes: 3
 breadcrumb: [IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-reference
 ---
 
 # Workforce Optimization for ITSM

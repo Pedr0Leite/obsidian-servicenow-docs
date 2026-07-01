@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Parts Manager, AI agent, work order, field service]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Now Assist for FSM release notes

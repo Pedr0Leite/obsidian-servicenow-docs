@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-11-23"
 reading_time_minutes: 1
 breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # Explore the MCP server approval workflow

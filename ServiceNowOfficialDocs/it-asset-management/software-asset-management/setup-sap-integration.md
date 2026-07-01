@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [Software Asset Management publisher pack for SAP, Supported software publisher licenses, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-concept
 ---
 
 # Set up SAP integration to establish a connection with SAP

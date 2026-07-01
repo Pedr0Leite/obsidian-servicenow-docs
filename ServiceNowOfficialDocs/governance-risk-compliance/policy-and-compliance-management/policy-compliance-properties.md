@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Enhancement steps, Implement, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-reference
 ---
 
 # Set notification properties

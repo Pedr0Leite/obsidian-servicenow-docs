@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-01-27"
 reading_time_minutes: 2
 breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Employee Slate overview

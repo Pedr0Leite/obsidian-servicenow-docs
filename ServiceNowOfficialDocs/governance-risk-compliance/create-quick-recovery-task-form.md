@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Create a quick recovery task, Structured workflows for BCPs, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Create a quick recovery task form

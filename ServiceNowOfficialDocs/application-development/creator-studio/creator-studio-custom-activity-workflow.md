@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [About custom activities, Administer, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-concept
 ---
 
 # Steps to create a custom activity in Creator Studio

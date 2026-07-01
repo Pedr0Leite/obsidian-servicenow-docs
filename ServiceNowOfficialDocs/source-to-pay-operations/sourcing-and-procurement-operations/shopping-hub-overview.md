@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-23"
 reading_time_minutes: 6
 breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Shopping Hub

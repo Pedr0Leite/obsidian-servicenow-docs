@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure push notifications, Mobile SDK Developer Guide - Android, Developer guides, API implementation and reference]
+tags:
+  - api-reference
+  - developer
+  - guides
+  - patterns
+  - best-practices
+  - type-concept
 ---
 
 # Setting up push notifications on your ServiceNow instance

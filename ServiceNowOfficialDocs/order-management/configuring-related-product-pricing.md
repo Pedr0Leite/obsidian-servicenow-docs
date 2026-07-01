@@ -10,6 +10,12 @@ reading_time_minutes: 2
 keywords: [derived pricing, price list line, product offering source, product offering target, Derived Pricing Matrix]
 audience: administrator
 breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Configuring derived pricing

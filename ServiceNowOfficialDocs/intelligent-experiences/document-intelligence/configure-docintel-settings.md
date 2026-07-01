@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - document-intelligence
+  - ocr
+  - extraction
+  - ai
+  - type-task
 ---
 
 # Configure Document Intelligence settings

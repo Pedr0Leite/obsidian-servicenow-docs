@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Upgrade to the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-task
 ---
 
 # Phase 3 - Verify your upgrade configurations and schedule the development instance upgrade in Now Support

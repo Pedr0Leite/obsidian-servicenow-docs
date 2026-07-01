@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Enable semantic generation for tables in the semantic layer

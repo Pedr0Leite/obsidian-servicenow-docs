@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [container, image, Aqua Trivy, security, pattern, scanning, CMDB, Visibility, ACC for Kubernetes - Visibility, Agent Client Collector]
 breadcrumb: [Kubernetes discovery using patterns, Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Container image scanning for software decomposition

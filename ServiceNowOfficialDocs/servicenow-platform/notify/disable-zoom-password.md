@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Notify Zoom connector in Notify, Configuring Notify, Notify, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - notify
+  - sms
+  - voice
+  - notifications
+  - type-task
 ---
 
 # Disable Zoom meeting password

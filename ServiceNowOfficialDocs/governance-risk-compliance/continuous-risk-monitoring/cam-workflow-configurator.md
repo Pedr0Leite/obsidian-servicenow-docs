@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-monitoring
+  - controls
+  - grc
+  - risk
+  - type-concept
 ---
 
 # CAM workflow configuration

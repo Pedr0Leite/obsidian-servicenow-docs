@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Microsoft Viva Engage external content connector, Configure, External Content Connectors, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-task
 ---
 
 # Configure Microsoft Viva Engage for external content indexing

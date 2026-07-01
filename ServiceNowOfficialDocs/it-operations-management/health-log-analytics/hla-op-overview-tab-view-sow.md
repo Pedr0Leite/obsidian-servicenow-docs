@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Health Log Analytics, alert remediation, Overview tab, Service Operations Workspace, log analytics alerts, alert management, playbook, remediation tasks, alert investigation, anomalous behavior]
 breadcrumb: [Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Start remediation of a Log Analytics alert from the Overview tab

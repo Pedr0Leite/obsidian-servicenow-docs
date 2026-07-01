@@ -9,6 +9,14 @@ last_updated: "2026-05-22"
 reading_time_minutes: 1
 keywords: [go-live support, post go-live, account onboarding, onboarding case, account lifecycle]
 breadcrumb: [Account onboarding playbook, Manage account onboarding cases, Account onboarding, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-concept
 ---
 
 # Go-live and post support

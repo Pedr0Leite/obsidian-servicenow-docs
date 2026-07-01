@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-08"
 reading_time_minutes: 9
 breadcrumb: [Deploy Operational Technology Discovery, Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Architectural considerations

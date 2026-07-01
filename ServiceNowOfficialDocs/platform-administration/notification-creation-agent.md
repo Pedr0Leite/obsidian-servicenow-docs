@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-16"
 reading_time_minutes: 1
 breadcrumb: [Now Assist in Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # Notification agent

@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 4
 breadcrumb: [Use generative AI, Now Assist for SFA, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Manage opportunity records

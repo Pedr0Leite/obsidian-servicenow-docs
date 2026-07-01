@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Get started with credentials, Connections and Credentials, Access Management]
+tags:
+  - platform-security
+  - credentials
+  - connections
+  - aliases
+  - integration
+  - type-task
 ---
 
 # Set up OAuth integration via MID Server

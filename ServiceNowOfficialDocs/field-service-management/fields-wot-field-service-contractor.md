@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Work order task fields in the Field Service Contractor application

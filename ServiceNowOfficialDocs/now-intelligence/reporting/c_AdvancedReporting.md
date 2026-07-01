@@ -10,6 +10,13 @@ topic_type: topic
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reporting, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - reports
+  - builder
+  - scheduling
+  - analytics
+  - type-topic
 ---
 
 # Advanced Core UI reporting topics

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Validate imported staging records, Using the Service Graph Connector for Microsoft Excel through import tasks, Service Graph Connector for Microsoft Excel, Use, Operational Technology Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - manager
+  - configuration
+  - overview
+  - type-task
 ---
 
 # Preview existing OT records in the CMDB

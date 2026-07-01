@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Administer and maintain the Talent Development Core app, Talent Development Core, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - talent
+  - skills
+  - development
+  - hr
+  - type-task
 ---
 
 # Create Talent Development Activity Types

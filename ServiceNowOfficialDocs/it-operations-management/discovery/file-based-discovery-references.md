@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-24"
 reading_time_minutes: 4
 breadcrumb: [File-based Discovery, Running discoveries in your network, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # File-based Discovery references

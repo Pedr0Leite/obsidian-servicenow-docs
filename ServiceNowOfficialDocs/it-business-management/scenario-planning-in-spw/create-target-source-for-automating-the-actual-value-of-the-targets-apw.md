@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring target source for target automation, Configuring goals in Strategic Planning, Configure, Portfolio Planning in Strategic Planning Workspace, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - scenario-planning
+  - spw
+  - strategy
+  - itbm
+  - type-task
 ---
 
 # Create a target source for automating the Actual value of the targets

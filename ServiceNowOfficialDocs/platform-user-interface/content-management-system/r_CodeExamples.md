@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Content Management and the Apache Jelly engine, Content blocks, Configure Content Management sites, Content Management System, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - cms
+  - content
+  - portal
+  - pages
+  - type-reference
 ---
 
 # Content management and Jelly code examples

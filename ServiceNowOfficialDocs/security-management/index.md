@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: security
 doc_type: toc
+tags:
+  - security-management
 ---
 
 # Australia Security Management

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Set up a cloud service account, Access to cloud environments for ITOM products, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-task
 ---
 
 # Set up Azure service accounts

@@ -9,6 +9,9 @@ last_updated: "2025-11-18"
 reading_time_minutes: 3
 keywords: [a2a]
 breadcrumb: [Create an external agent, Create an AI agent, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Integrating external AI agents

@@ -10,6 +10,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 46
 breadcrumb: [Client Next Experience API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - type-concept
 ---
 
 # GlideForm \(Next Experience\) - Client

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 4
 breadcrumb: [Time Sheet Portal, Time Card management, Working with Task table, Table admin, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-task
 ---
 
 # Create time cards and log time through Time Sheet Portal

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [enable next experience, activate next experience]
 breadcrumb: [Configure, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-concept
 ---
 
 # Considerations for activating Next Experience

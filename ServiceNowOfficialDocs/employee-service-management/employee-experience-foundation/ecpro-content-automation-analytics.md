@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 4
 breadcrumb: [Setup continuous improvement, Configuring Employee Center Pro, Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Content Analytics

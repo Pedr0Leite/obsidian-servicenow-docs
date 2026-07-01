@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 2
 breadcrumb: [Usage insights for call events enabled using Interaction Controls Component \(ICC\), ICC for voice calls, Integrating with Computer Telephony Integration \(CTI\), Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Enable Usage Insights for Interaction Controls Component \(ICC\) enabled call events

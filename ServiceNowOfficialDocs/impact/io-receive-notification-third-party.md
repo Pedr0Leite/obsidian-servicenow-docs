@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-28"
 reading_time_minutes: 4
 breadcrumb: [Alerts in Instance Observer, Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Configure IO alert notifications for a third-party application

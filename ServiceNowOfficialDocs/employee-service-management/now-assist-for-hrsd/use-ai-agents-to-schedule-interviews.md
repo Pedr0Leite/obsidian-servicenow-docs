@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 1
 keywords: [AI agents, Agentic AI]
 breadcrumb: [Use agentic workflows, Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - hrsd
+  - generative
+  - type-concept
 ---
 
 # Schedule interviews agentic workflow

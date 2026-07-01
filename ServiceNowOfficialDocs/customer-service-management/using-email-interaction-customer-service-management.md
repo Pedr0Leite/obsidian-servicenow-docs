@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 8
 keywords: [Email Interaction for CSM, email replies closed interactions, AI summarization email interactions]
 breadcrumb: [Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Using Email Interaction for Customer Service Management

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-17"
 reading_time_minutes: 1
 breadcrumb: [ITSM Success Dashboard Admin console, Configure, ITSM Success Dashboard indicators, IT Service Management]
+tags:
+  - it-service-management
+  - dashboard
+  - success
+  - indicators
+  - itsm
+  - type-task
 ---
 
 # Set fulfillment automation level of catalog item for the Success Dashboard indicators

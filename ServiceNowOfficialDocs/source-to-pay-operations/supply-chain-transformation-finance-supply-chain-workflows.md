@@ -9,6 +9,9 @@ last_updated: "2025-03-10"
 reading_time_minutes: 2
 keywords: [supply chain transformation, finance and supply chain workflows, source to pay suite, supplier lifecycle operations, sourcing and procurement operations, accounts payable operations, procurement automation, supplier collaboration, procurement and payments]
 breadcrumb: [Finance and Supply Chain workflows, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # Supply chain transformation with Finance and Supply Chain workflows

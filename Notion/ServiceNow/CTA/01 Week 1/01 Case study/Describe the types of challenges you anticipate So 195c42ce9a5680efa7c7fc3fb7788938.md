@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Describe the types of challenges you anticipate So"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -126,6 +128,9 @@ ________________________________________________________________________________
 - Ensuring that **ServiceNow adoption is sustained post-go-live**.
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Text for slides]]
 
 - [[01 Case study]]
 - [[Architectural Principles]]

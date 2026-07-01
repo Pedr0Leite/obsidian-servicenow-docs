@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Microsoft Exchange On-Premises - Calendar synchronization, Setup Workplace Calendar Synchronization, Configure, Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-concept
 ---
 
 # Create a normal mode connection for Microsoft Exchange On-Premises

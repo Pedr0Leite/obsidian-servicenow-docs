@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 2
 keywords: [Export a visualization, Export a report, Export a visualization to PDF, Export a visualization to PNG, Export a visualization to JPEG, Export a list visualization to Excel]
 breadcrumb: [Share, edit, or delete, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Export a data visualization from the Visualization Designer

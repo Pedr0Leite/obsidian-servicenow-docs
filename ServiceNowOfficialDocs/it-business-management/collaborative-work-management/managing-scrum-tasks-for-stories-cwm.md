@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [scrum tasks, stories, agile, CWM, sprint, Kanban, Now Assist, AI generation]
 breadcrumb: [Agile in CWM, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-concept
 ---
 
 # Scrum tasks for stories in CWM

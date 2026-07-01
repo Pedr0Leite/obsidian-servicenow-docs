@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 7
 breadcrumb: [Manage and configure reservation waitlist, Manage employee reservations, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-task
 ---
 
 # Create a reservation waitlist

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-30"
 reading_time_minutes: 5
 breadcrumb: [Configure, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Set up checklist for the GRC Mobile application

@@ -11,6 +11,13 @@ last_updated: "2024-12-19"
 reading_time_minutes: 1
 keywords: [CyberArk Certificate Manager SaaS certificate revocation]
 breadcrumb: [Certificate management with CyberArk Certificate Manager SaaS, Certificate Inventory and Management, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Revoke certificates through CyberArk Certificate Manager SaaS

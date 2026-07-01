@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Emergency Self Report, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - self-report
+  - health-safety
+  - incidents
+  - type-task
 ---
 
 # Report and track health statuses during an emergency

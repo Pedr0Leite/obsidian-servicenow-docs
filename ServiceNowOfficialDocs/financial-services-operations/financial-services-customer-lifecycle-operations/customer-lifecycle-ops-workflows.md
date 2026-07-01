@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Customer Lifecycle Operations, Common applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - customer-lifecycle
+  - onboarding
+  - fso
+  - banking
+  - type-concept
 ---
 
 # Customer Lifecycle Operations workflows

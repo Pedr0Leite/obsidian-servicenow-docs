@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Employee experience, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Employee experience in Employee Slate

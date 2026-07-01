@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: rahi
 doc_type: toc
+tags:
+  - retail-industry
 ---
 
 # Australia Retail Industry

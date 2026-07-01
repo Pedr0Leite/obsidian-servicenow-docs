@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [license key discovery, ACC-VC, Windows registry, software license, agent client collector]
 breadcrumb: [ACC Discovery, ACC deployment - servers, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-concept
 ---
 
 # License key discovery

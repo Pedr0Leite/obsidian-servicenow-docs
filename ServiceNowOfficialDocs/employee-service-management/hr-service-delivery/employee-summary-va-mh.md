@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Manager Hub, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - hr
+  - cases
+  - service-catalog
+  - type-task
 ---
 
 # Use the Employee Summary Virtual Agent topic in Manager Hub

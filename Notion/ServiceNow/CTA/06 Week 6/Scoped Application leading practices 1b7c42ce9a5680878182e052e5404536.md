@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Scoped Application leading practices"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - scoped-apps
@@ -23,6 +25,9 @@ Review the list of things all application development teams wish they had consid
 - Need for extended table or extended table hierarchy
 
 ## Related
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[06 Week 6]]
 - [[Making applications available to other instances]]

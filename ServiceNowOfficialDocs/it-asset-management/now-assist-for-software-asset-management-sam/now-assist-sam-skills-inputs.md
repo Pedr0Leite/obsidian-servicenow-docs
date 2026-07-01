@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 9
 breadcrumb: [Configure, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-reference
 ---
 
 # Skill inputs and triggers for Now Assist for Software Asset Management \(SAM\)

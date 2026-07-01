@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Service Builder, IT Service Management]
+tags:
+  - it-service-management
+  - service-builder
+  - configuration
+  - itsm
+  - type-concept
 ---
 
 # Service Builder approval flow

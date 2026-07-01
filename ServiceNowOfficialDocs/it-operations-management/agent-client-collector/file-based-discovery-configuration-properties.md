@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 3
 keywords: [File-Based Discovery, configuration, properties, Agent Client Collector]
 breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Agent Client Collector File-Based Discovery properties

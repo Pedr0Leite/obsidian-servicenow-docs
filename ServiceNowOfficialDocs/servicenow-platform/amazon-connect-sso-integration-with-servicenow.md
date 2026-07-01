@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 2
 keywords: [Amazon Connect SSO, single sign-on, SAML, identity provider, Contact Control Panel]
 breadcrumb: [Integrate ServiceNow Voice with Amazon Connect, Integrating Voice with other applications, ServiceNow Voice, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-concept
 ---
 
 # Amazon Connect SSO integration with ServiceNow

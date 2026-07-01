@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaboration services, IT Service Management]
+tags:
+  - it-service-management
+  - collaboration
+  - messaging
+  - itsm
+  - type-concept
 ---
 
 # Slack integration - Incident Management

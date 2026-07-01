@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 3
 breadcrumb: [Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-task
 ---
 
 # Create a service in Service Portfolio Management

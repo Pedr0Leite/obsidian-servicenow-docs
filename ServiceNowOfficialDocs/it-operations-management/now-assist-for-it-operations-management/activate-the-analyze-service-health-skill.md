@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\), Configure, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Activate the analyze service health skill

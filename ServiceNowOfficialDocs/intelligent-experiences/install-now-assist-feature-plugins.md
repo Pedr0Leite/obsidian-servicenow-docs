@@ -9,6 +9,9 @@ last_updated: "2026-05-20"
 reading_time_minutes: 4
 keywords: [Install, Now Assist, plugins, Admin, console, Journey Checklist]
 breadcrumb: [Configuring Now Assist Admin features, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Install Now Assist plugins

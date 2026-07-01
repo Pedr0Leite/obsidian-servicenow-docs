@@ -6,6 +6,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
+tags:
+  - employee-service-management
+  - esm
+  - hr
+  - service-delivery
+  - platform
+  - type-concept
 ---
 
 # Assignment and matching rules in HR

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Working with intent and activity analysis, Configure, Now Assist for Process Mining, Use, Process Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - process-mining
+  - workflow
+  - bottlenecks
+  - analytics
+  - type-task
 ---
 
 # Activate Intent and Activity Analysis skill

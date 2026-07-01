@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Azure DevOps, Integrate, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-concept
 ---
 
 # ServiceNow DevOps change request state in Azure DevOps pipeline logs

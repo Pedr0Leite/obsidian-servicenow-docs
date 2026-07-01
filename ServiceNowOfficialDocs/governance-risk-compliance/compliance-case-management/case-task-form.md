@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create action task, Compliance case task workflow, Use, Compliance Case Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - cases
+  - grc
+  - remediation
+  - type-reference
 ---
 
 # Case task form

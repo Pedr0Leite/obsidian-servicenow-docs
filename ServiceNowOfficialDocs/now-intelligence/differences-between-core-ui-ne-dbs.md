@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [What's the difference between old and new dashboards]
 breadcrumb: [Explore, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Differences between Core UI and Platform Analytics dashboards

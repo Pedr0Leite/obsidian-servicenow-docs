@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Application collaboration, Learning about developing on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Assign collaboration descriptors to users

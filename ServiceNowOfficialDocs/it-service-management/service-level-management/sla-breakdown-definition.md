@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring Service Level Management, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-concept
 ---
 
 # Service Level Agreement \(SLA\) breakdown definitions

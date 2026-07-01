@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Exam questions"
+area: "CIS"
+source: notion-export
 tags:
   - cis-certification
   - cmdb
@@ -69,6 +71,9 @@ A CMDB admin found duplicate, should the admin delete, merge or keep it as it is
 How to activate CMDB 360 and dynamic reconcilliation rules?
 
 ## Related
+- [[CIS]]
+- [[How to access a Technical Challenge]]
+- [[Architectural Principles]]
 
 - [[Certified Implementation Specialist in Data Founda]]
 - [[Study material]]

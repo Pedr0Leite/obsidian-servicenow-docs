@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Configure Telecom Discovery Builder, Configure Telecom Visibility, Configure, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-concept
 ---
 
 # Standardized JSON data set for service graph connectors

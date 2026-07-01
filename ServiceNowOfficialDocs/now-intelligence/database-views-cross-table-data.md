@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 1
 keywords: [database views, cross-table data, semantic layer, table configuration]
 breadcrumb: [Tuning the semantic layer, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Database views for cross-table data

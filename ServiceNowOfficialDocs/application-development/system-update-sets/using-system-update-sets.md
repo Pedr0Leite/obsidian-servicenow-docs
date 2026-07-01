@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [System update sets, Deploying applications, Building applications]
+tags:
+  - application-development
+  - update-sets
+  - deployment
+  - migration
+  - version-control
+  - type-concept
 ---
 
 # Working with update sets

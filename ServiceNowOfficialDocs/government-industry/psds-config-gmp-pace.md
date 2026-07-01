@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Configure PaCE Eligibility Framework Engine for use with Grants Management

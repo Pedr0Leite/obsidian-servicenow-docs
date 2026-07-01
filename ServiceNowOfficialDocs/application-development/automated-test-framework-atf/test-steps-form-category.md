@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 23
 breadcrumb: [Automated Test Framework \(ATF\) test step categories, Automated Test Framework \(ATF\), Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - atf
+  - testing
+  - automated-tests
+  - test-suites
+  - type-reference
 ---
 
 # Form category

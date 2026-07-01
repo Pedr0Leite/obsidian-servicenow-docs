@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-08-08"
 reading_time_minutes: 3
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # MCP Server Console

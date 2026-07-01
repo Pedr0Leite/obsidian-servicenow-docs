@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-27"
 reading_time_minutes: 2
 breadcrumb: [Telecommunications Customer 360 component, Configure, Telecommunications Customer 360, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # Add the Telecom Customer 360 component to a record page

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-02-13"
 reading_time_minutes: 2
 breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Configuring a Guardrail Service Provider

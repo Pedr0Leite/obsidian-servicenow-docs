@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 1
 keywords: [configure themes, branding, audience targeting]
 breadcrumb: [Employee Slate for Now Assist, Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure additional themes

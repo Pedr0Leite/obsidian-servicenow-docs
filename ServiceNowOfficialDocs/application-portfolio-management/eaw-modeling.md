@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-05-06"
 reading_time_minutes: 10
 breadcrumb: [Exploring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Exploring Enterprise Modeling and Visualization in the EA Workspace

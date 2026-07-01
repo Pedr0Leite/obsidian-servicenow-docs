@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-05-29"
 reading_time_minutes: 2
 breadcrumb: [Partner Relationship Management reference, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Quote creation via Self-Service fields for Channel Partners

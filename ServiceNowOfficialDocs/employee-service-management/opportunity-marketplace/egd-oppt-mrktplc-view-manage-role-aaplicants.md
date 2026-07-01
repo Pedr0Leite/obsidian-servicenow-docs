@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Opportunity Marketplace, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - opportunity
+  - internal-mobility
+  - career
+  - hr
+  - type-task
 ---
 
 # View and manage role applicants from Opportunity Marketplace

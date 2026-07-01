@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Service Catalog configuration for Universal Request, Integrating Service Catalog, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-task
 ---
 
 # Configure all catalog items or record producers to create a universal request

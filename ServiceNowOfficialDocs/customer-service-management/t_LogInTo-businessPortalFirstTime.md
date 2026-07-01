@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Self-register, Business Portal, Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Log in to the Business Portal for the first time

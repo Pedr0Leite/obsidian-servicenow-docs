@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2025-11-16"
 reading_time_minutes: 1
 breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create a price list line

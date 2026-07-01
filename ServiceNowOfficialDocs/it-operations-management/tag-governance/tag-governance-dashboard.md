@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Tag Governance Insights dashboard, Tag policy coverage, Overall compliance status, CI compliance by infrastructures, Compliance trends, Most used tags, Least used tags]
 breadcrumb: [Exploring Tag Governance, Tag Governance, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - tags
+  - governance
+  - cloud
+  - cmdb
+  - type-concept
 ---
 
 # View Tag Governance metrics

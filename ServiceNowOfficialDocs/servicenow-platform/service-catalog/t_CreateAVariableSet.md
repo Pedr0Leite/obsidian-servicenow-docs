@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Service catalog variable sets, Service Catalog Reference, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-task
 ---
 
 # Create a variable set and add it to an item

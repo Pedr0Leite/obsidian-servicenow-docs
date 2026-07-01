@@ -11,6 +11,13 @@ last_updated: "2026-05-06"
 reading_time_minutes: 3
 keywords: [Amazon Athena Workgroup, Amazon Athena, AWS discovery, AWS patterns, Athena Workgroup pattern discovery]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Amazon Athena Workgroup pattern-based discovery

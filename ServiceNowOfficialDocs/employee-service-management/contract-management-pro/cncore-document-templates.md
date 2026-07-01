@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Own paper contract template, Contract template, Word document templates, Generate contract, Content controls, Signature tag, Contracts metadata, Configure metadata]
 breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Configure templates for a contract and amendment request in Contract Management Pro

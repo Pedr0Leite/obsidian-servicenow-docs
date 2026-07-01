@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-04-02"
 reading_time_minutes: 1
 breadcrumb: [Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Install Core Business Suite applications

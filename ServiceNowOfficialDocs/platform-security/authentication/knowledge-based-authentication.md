@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [KBA Security questions, Personal identification information, Authentication methods, Identity verification, Challenge questions, Secret answers, User authentication, Security Questions]
 breadcrumb: [Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # Knowledge-based authentication \(Security Questions\)

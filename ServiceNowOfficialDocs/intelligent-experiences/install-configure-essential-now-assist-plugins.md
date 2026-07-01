@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Activating actionable use cases, Use, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Install and configure essential Now Assist plugins using Now Assist Center

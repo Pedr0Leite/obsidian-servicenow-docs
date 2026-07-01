@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 12
 keywords: [Discovery role, Pattern role]
 breadcrumb: [ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-concept
 ---
 
 # Discovery patterns used by ITOM Visibility

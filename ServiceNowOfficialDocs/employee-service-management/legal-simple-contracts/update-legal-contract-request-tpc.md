@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 1
 breadcrumb: [Third-party contract review requests, Requests, Legal Simple Contracts, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - contracts
+  - simplified
+  - clm
+  - type-task
 ---
 
 # Modify a legal request

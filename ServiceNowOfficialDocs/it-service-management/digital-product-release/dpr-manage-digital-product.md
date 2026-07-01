@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-11"
 reading_time_minutes: 1
 breadcrumb: [Use, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-task
 ---
 
 # Define release scope using product enhancements

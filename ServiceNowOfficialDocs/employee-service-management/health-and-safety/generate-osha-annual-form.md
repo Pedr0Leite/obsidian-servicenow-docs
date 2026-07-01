@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Health and Safety Incident Management OSHA Content Pack, Health and Safety injury and illness reports, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-task
 ---
 
 # Generate an annual OSHA 300 Log or 300A Summary form

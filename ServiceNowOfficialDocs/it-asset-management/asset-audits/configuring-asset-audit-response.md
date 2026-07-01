@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Asset Audit Response, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-audit
+  - reconciliation
+  - hardware
+  - itam
+  - type-concept
 ---
 
 # Configuring Asset Audit Response

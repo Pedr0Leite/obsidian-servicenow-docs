@@ -9,6 +9,9 @@ last_updated: "2026-06-04"
 reading_time_minutes: 4
 keywords: [now assist, app engine, AI capability, AI feature, AI product, AI agent, skill, generative AI, genAI, Now Assist for App Engine, custom app, Now Assist for creator, app generation, code generation, app summarization, UI generation, develop apps]
 breadcrumb: [Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Agentic development on the ServiceNow AI Platform

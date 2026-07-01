@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Compliance case task workflow, Use, Compliance Case Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - cases
+  - grc
+  - remediation
+  - type-task
 ---
 
 # Work on an action task

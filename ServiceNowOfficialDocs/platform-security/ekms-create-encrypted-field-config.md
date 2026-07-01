@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 3
 breadcrumb: [Configuring External Key Management Service, External Key Management Service, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Create Encrypted Field Configurations

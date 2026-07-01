@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Case form, Customer Service forms, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Create a case for a new install base item

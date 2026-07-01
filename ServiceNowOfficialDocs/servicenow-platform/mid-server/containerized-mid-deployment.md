@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Containerized MID Server, Configuring MID Servers, Configuring MID Server, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-concept
 ---
 
 # Containerized MID Server Deployment and Auto-configuration

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Discovery Sensor for Operational Technology \(OT\)

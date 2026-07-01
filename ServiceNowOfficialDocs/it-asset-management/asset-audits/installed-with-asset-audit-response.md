@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Asset Audit Response, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-audit
+  - reconciliation
+  - hardware
+  - itam
+  - type-reference
 ---
 
 # Installed with Asset Audit Response

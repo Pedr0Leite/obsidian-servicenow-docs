@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for Health and Safety, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - health-safety
+  - generative
+  - type-concept
 ---
 
 # Health and safety Now Assist Reference

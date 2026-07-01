@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Inbound staging tables for Accounts Payable Operations, Inbound staging tables, Source-to-Pay integration framework, Integration with third-party applications, Integrations, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - s2p
+  - integration
+  - erp
+  - framework
+  - type-reference
 ---
 
 # Invoice line stage table

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing Feedback application in Strategic Planning, Feedback application in Strategic Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - feedback
+  - product
+  - management
+  - itbm
+  - type-task
 ---
 
 # Associate feedback with a product idea

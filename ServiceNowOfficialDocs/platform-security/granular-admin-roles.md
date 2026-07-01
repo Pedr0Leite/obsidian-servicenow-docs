@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 39
 keywords: [Granular admin roles, admin roles, ServiceNow admin roles, admin, roles, access management, assigning roles, maintain security, enforce conformance]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Granular admin roles

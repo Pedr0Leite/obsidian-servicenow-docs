@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 1
 breadcrumb: [Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Code Signing reference

@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Partner Relationship Management, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # View quote analytics on Partner portal

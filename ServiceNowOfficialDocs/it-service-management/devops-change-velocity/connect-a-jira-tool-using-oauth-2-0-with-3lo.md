@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-15"
 reading_time_minutes: 2
 breadcrumb: [Onboard Jira using Workspace, Jira, Integrate, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-task
 ---
 
 # Connect a Jira tool using OAuth 2.0 with 3LO

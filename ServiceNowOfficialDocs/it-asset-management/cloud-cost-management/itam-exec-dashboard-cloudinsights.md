@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - cloud-cost
+  - finops
+  - optimization
+  - itam
+  - type-concept
 ---
 
 # Visibility into Cloud Cost Management KPIs using the Asset Management Executive Dashboard

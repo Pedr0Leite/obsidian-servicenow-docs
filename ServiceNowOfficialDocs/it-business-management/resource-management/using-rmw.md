@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 16
 keywords: [resource assignments, resource management, resource allocation]
 breadcrumb: [Use, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-concept
 ---
 
 # Using Resource Management Workspace

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-24"
 reading_time_minutes: 4
 breadcrumb: [Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # External Key Management Service

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Get started with credentials, Connections and Credentials, Access Management]
+tags:
+  - platform-security
+  - credentials
+  - connections
+  - aliases
+  - integration
+  - type-task
 ---
 
 # Create a Connection &amp; Credential alias

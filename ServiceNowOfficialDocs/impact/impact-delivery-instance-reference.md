@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-11"
 reading_time_minutes: 2
 breadcrumb: [Impact reference, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Impact Delivery Instance reference

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable Usage Insights, Configuring Usage Insights, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-task
 ---
 
 # Enable Usage Insights for specific applications

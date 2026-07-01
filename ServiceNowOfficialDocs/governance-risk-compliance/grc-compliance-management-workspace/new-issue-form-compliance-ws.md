@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Manually create GRC issues using the Compliance Workspace, Manage issues using the Compliance Workspace, Use, GRC Compliance workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - workspace
+  - grc
+  - oversight
+  - type-reference
 ---
 
 # Compliance Workspace issue form details

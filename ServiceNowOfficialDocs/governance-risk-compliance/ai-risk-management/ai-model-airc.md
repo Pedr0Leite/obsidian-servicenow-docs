@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [AI model, AI governance, model life cycle, aggregated risk score, AI Risk and Compliance]
 breadcrumb: [AI assets, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # AI models

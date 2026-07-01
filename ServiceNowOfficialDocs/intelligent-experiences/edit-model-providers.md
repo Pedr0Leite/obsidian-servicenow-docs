@@ -9,6 +9,9 @@ last_updated: "2025-07-02"
 reading_time_minutes: 2
 keywords: [Edit LLM provider, web search]
 breadcrumb: [Manage AI models, Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Manage model providers

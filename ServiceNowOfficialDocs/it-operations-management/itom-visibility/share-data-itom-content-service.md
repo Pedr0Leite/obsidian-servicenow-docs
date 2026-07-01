@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Discovery, Content, Service, Patterns]
 breadcrumb: [ITOM Content Service, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-task
 ---
 
 # Share data on ITOM Content Service

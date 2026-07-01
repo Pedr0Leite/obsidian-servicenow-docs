@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Investment Portal, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-task
 ---
 
 # Configure your investment metrics as widgets

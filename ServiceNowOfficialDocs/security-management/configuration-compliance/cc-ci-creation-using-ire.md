@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-03"
 reading_time_minutes: 2
 breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - config-compliance
+  - cis
+  - scap
+  - security
+  - type-concept
 ---
 
 # Creating CIs for Configuration Compliance using the Identification and Reconciliation Engine

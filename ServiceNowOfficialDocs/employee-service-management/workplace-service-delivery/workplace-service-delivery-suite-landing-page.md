@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [WSD, ServiceNow workplace, workspace, workspace service delivery, workspace management, WSD module, Workplace Services, Work Service Delivery, workplace application, workplace requests software, client workplace services, workplace management, wsd landing page, delivery suite]
 breadcrumb: [Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - workplace
+  - service-delivery
+  - type-concept
 ---
 
 # Workplace Service Delivery

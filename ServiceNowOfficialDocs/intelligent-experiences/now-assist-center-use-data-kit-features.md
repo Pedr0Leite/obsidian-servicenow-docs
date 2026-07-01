@@ -9,6 +9,9 @@ last_updated: "2026-03-14"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Using other Now Assist applications from Now Assist Center, Use, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Use Now Assist Data Kit features in Now Assist Center

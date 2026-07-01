@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-18"
 reading_time_minutes: 3
 breadcrumb: [Configure the Merit Review Scoring Framework and Rubric, Set up a grant program, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Create a custom Merit Review scoring framework for a Grant Program in the Reviewer Service Portal

@@ -11,6 +11,13 @@ last_updated: "2026-04-30"
 reading_time_minutes: 1
 keywords: [esc, servicenow esc, Now Assist, AI Agents, Agentic AI]
 breadcrumb: [Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Now Assist for Employee Center Pro

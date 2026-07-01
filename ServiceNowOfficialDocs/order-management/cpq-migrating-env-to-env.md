@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [blueprint migration environment export import Matrix Loader]
 breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Migrate a blueprint between environments

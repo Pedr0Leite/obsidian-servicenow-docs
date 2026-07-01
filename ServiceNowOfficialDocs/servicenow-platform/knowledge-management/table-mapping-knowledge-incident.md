@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Knowledge article creation from an incident, Using Knowledge Management, Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - knowledge-management
+  - kb
+  - articles
+  - search
+  - type-task
 ---
 
 # Create field mapping from an incident to a knowledge article

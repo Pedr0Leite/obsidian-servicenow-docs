@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 2
 keywords: [activate risk statements, privacy risk statements, risk statement category, privacy content]
 breadcrumb: [Privacy content accelerator, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Update privacy content

@@ -9,6 +9,9 @@ last_updated: "2025-04-27"
 reading_time_minutes: 7
 keywords: [import, export, Excel, event task, Record Transform Engine]
 breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Importing and exporting event tasks in Microsoft Excel

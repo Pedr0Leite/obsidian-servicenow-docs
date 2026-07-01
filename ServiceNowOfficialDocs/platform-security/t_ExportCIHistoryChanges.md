@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [History Timeline, Knowing about History sets, Auditing]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Export a snapshot of a configuration item

@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 2
 keywords: [configure work prioritization, decision table configuration, priority rules, procurement administrator, work prioritization setup, purchase requisition priority, sourcing request priority, procurement case priority, sourcing and procurement operations, SPO]
 breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Configuring work prioritization

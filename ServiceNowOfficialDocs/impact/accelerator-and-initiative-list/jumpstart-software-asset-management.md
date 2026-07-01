@@ -11,6 +11,12 @@ last_updated: "2026-05-06"
 reading_time_minutes: 2
 keywords: [Software Asset Management, SAM, License Compliance, Software Asset Workspace, CMDB, Publisher Packs]
 breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Jumpstart Your Software Asset Management

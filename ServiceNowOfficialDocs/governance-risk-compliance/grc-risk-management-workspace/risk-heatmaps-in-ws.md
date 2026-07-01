@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 1
 breadcrumb: [Analytics and reporting solutions for Risk Management, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Operational risk heatmap for Advanced Risk Assessment in the Risk Workspace

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Configuring Certificate Inventory and Management, Certificate Inventory and Management, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Certificate alerts and notifications

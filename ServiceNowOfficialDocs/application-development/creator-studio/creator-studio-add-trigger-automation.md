@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Automation in apps, Build apps, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-task
 ---
 
 # Edit the trigger for a playbook in Creator Studio

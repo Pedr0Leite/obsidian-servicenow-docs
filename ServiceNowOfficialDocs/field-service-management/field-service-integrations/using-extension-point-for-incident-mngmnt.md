@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Incident Management, Integration with Incident Management, Integrating Field Service Management with other applications, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - integrations
+  - mapping
+  - fsm
+  - connectors
+  - type-reference
 ---
 
 # Using extension point for incident management

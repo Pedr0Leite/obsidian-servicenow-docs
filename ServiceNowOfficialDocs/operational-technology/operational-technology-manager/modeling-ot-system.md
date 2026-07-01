@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [DCS, control system]
 breadcrumb: [Use, Operational Technology Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - manager
+  - configuration
+  - overview
+  - type-concept
 ---
 
 # Modeling an Operational Technology system service

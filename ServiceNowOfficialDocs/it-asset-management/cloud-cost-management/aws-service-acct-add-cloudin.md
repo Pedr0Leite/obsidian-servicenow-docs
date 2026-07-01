@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure Cloud Cost Management for AWS, Configuring Cloud Cost Management, Cloud Cost Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - cloud-cost
+  - finops
+  - optimization
+  - itam
+  - type-task
 ---
 
 # Add an AWS service account

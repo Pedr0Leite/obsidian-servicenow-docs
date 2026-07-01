@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, Workplace Maintenance Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - maintenance
+  - work-orders
+  - assets
+  - facilities
+  - type-reference
 ---
 
 # Components installed with Workplace Maintenance Management

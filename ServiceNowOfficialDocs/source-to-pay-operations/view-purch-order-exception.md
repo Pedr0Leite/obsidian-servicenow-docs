@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [view PO exception, view purchase order exception, exception]
 breadcrumb: [Source-to-Pay Workspace, Explore, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-task
 ---
 
 # View a purchase order exception

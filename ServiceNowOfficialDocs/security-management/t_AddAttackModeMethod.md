@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Attack modes and methods, IoC Repository, Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Define an attack mode/method

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Service Catalog topic blocks in Virtual Agent powered by NLU, Service Catalog Reference, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-concept
 ---
 
 # Submit a request topic conversation

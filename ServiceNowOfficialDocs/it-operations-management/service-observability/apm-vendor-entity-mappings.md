@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - observability
+  - slo
+  - health
+  - itom
+  - type-concept
 ---
 
 # Observability vendor entity mappings for Service Observability

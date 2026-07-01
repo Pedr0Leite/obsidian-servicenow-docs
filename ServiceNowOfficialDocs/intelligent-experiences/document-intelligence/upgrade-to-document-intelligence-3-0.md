@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - document-intelligence
+  - ocr
+  - extraction
+  - ai
+  - type-reference
 ---
 
 # Upgrade to Document Intelligence 3.0 or later from version 2.4 or earlier

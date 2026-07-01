@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [installing Now Assist, AI features, AI products, updating Now Assist, solutions, Now Assist, GenAI, generative AI, configure Now Assist]
 breadcrumb: [Analyze potential impact agentic workflow, Use agentic AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Use the Analyze potential impact agentic workflow to assess a change request

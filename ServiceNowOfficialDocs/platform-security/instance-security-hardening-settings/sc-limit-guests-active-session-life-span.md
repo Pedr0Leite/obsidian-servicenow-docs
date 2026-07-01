@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Session management, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Limit guest's active session life span

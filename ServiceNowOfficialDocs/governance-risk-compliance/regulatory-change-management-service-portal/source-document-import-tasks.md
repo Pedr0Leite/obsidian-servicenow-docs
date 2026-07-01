@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Regulatory process flow and tasks, Explore, Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-concept
 ---
 
 # Source document import tasks

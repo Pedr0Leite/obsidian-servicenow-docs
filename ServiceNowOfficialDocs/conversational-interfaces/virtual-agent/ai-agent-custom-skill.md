@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Virtual, Agent, designer, AI, agent, connector, utility]
 breadcrumb: [Managing AI agents, Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Using AI agents in Virtual Agent topics

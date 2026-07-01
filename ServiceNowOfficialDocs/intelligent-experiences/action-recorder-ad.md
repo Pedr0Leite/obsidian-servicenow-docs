@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-02-11"
 reading_time_minutes: 5
 breadcrumb: [Defined desktop actions for desktop, Explore, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Action recorder in AI Desktop Actions

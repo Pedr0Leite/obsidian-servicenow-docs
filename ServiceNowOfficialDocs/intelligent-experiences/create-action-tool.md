@@ -9,6 +9,9 @@ last_updated: "2026-05-29"
 reading_time_minutes: 1
 keywords: [Create subflow tool type for MCP server]
 breadcrumb: [Create a tool, Configure, MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create a tool from Action

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Architectural Principles"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - architecture-principles
@@ -116,6 +118,9 @@ Integrations must be **secure, scalable, and compliant** with **Sovereign Bank�
 5. **Ensure governance & sustainability** (avoid rogue customizations, align with ServiceNow’s upgrade strategy).
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Describe the types of challenges you anticipate So]]
+- [[02 Case study – Files]]
 
 - [[01 Week 1]]
 - [[Architect Responsibilities]]

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: megaroles
 doc_type: toc
+tags:
+  - roles-by-product
 ---
 
 # Roles By Product

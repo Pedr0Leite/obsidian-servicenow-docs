@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Set up Emergency Exposure Management, Emergency Exposure Management, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - exposure
+  - health-safety
+  - tracking
+  - type-concept
 ---
 
 # Tracing systems in Emergency Exposure Management

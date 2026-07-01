@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [large scale deployment ServiceNow, ReleaseOps guided setup]
 breadcrumb: [Configure, ReleaseOps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - release-management
+  - pipeline
+  - ci-cd
+  - devops
+  - type-task
 ---
 
 # Complete ReleaseOps guided setup

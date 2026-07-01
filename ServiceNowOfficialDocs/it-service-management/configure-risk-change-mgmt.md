@@ -9,6 +9,9 @@ last_updated: "2025-05-04"
 reading_time_minutes: 3
 keywords: [change management, risk configuration, risk assessment, risk scoring, change risk, admin experience, configuration console]
 breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller experience in Simplified IT Service Management, Configure integrations and ITSM experiences in Simplified IT Service Management, Configure and integrate, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-task
 ---
 
 # Configure risk for Simplified Change Management

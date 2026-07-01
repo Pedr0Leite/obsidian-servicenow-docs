@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice processing, Accounts Payable Workspace, invoice inquiry case, email ingestion, AP specialist]
 breadcrumb: [Composing emails with predefined content from the Source-to-Pay Workspace, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Communicate using emails from the Source-to-Pay Workspace

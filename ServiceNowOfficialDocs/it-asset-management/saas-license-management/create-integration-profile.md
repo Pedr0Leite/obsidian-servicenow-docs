@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [saas integrations, saas applications, third-party integrations, saas license management]
 breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - saas
+  - license-management
+  - discovery
+  - optimization
+  - type-concept
 ---
 
 # Integrate with SaaS applications

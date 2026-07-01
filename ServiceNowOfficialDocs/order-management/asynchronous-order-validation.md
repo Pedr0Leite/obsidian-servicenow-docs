@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-23"
 reading_time_minutes: 2
 breadcrumb: [Asynchronous order processing, Order management, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Validating your orders through asynchronous order processing

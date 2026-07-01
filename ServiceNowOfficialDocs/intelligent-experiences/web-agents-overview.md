@@ -9,6 +9,9 @@ last_updated: "2025-09-05"
 reading_time_minutes: 3
 keywords: [explore, AI Agents, Agentic AI]
 breadcrumb: [Explore, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Adaptive desktop actions for web-based tasks

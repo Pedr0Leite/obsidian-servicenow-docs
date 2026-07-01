@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-reference
 ---
 
 # Components installed with DevOps Change Velocity

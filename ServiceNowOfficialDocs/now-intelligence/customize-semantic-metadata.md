@@ -9,6 +9,9 @@ last_updated: "2026-04-17"
 reading_time_minutes: 5
 keywords: [semantic metadata, semantic descriptions, semantic labels, usage instructions, entities, dimensions, query generation, update sets]
 breadcrumb: [Tuning the semantic layer, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Customizing semantic metadata

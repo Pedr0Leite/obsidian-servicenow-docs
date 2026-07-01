@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-concept
 ---
 
 # Leverage Knowledge Graph prebuild integration with AI agents

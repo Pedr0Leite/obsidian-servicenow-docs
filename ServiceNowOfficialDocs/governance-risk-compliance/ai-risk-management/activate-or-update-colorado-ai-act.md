@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 3
 keywords: [Colorado AI Act, Senate Bill 24-205, SB 205, activate framework, citations, control objectives, risk statements]
 breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Activate or update the Colorado Artificial Intelligence Act

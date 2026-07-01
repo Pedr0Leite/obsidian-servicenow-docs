@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Scan Engine integrations

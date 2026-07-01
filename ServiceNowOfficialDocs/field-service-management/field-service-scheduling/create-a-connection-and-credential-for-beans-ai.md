@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Travel estimate provider, Create a scheduling attribute, Schedule Optimization, Setting up a Field Service scheduling method, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-task
 ---
 
 # Set up a connection and credential for Beans.ai travel estimate provider

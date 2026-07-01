@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 12
 breadcrumb: [Location Directory, Request employee-related services, Workplace Core, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-core
+  - data-model
+  - foundation
+  - type-task
 ---
 
 # Work with the Map view on the Location Directory

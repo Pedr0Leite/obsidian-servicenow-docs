@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: mobile
 doc_type: toc
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
 ---
 
 # Australia Mobile Configuration and Navigation

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Use, Health and Safety Core, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - core
+  - ehs
+  - data-model
+  - type-concept
 ---
 
 # Managing safety actions in the Action planner

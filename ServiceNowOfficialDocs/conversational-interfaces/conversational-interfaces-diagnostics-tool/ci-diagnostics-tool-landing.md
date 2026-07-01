@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - diagnostics
+  - troubleshooting
+  - virtual-agent
+  - type-reference
 ---
 
 # Conversational Interfaces Diagnostic Tool

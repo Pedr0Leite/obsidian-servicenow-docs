@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: csm
 doc_type: toc
+tags:
+  - customer-service-management
 ---
 
 # Australia Customer Service Management

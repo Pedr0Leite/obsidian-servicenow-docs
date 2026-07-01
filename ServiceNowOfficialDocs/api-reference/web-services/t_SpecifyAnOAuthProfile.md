@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Profiles and scopes, Use a third-party OAuth provider, Configure a message with OAuth, Outbound REST authentication, REST, Outbound, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-task
 ---
 
 # Specify an OAuth profile

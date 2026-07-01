@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 9
 breadcrumb: [Automated indicators, Indicators, Configure fundamentals, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Assign and map breakdowns

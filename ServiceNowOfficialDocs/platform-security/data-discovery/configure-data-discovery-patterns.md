@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 3
 breadcrumb: [Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Discovery, Platform Privacy]
+tags:
+  - platform-security
+  - data-discovery
+  - pii
+  - scanning
+  - compliance
+  - type-task
 ---
 
 # Configure Data Discovery patterns

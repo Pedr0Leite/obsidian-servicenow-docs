@@ -9,6 +9,9 @@ last_updated: "2025-12-29"
 reading_time_minutes: 1
 keywords: [Use]
 breadcrumb: [Now Assist for Care Team Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Using Agentic AI in Now Assist for Care Team Operations

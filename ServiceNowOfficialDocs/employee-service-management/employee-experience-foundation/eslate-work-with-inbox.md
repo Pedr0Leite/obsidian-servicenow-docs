@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 2
 keywords: [employee communications, announcements, content library, employee slate, chat promotion]
 breadcrumb: [Tasks and requests, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Work with tasks and approvals

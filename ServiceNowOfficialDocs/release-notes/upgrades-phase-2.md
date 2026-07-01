@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Upgrade to the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-task
 ---
 
 # Phase 2 - Prepare for the development instance upgrade

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create an action item in the risk response task, Create a risk response task in the Risk Workspace, Use Risk Workspace, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-reference
 ---
 
 # Create New Action Item form

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-04"
 reading_time_minutes: 7
 breadcrumb: [Explore, Coaching, IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-concept
 ---
 
 # About Coaching

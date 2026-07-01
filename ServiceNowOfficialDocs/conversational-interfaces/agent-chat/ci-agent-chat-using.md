@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 11
 keywords: [Using, Agent Chat, Virtual Agent, live, conversation]
 breadcrumb: [Agent Chat, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - agent-chat
+  - live-chat
+  - messaging
+  - support
+  - type-concept
 ---
 
 # Using Agent Chat

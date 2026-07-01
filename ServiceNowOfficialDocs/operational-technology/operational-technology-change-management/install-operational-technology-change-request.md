@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Configure, Operational Technology Change Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - change-management
+  - ics
+  - scada
+  - type-task
 ---
 
 # Install Operational Technology Change Management

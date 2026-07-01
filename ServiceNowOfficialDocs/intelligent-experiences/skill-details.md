@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, Analytics, skills details, dashboard, generative AI, Gen AI, sn\_na\_analytics\_viewer]
 breadcrumb: [Skills performance, Using Now Assist Analytics, Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Skill details

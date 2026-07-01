@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - timecards
+  - time-tracking
+  - approval
+  - itbm
+  - type-task
 ---
 
 # Recall a processed time sheet or time card from your mobile device

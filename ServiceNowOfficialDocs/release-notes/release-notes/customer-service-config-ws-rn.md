@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 7
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Agent experience for CSM release notes

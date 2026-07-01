@@ -9,6 +9,9 @@ last_updated: "2026-05-25"
 reading_time_minutes: 1
 keywords: [use]
 breadcrumb: [AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Examples of creating desktop actions

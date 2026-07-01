@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 24
 keywords: [PaCE content, PaCE policies, PaCE content policies, DevOps Config policies, Default DevOps Config policies, PaCE default policies, DevOps Config Policy content pack]
 breadcrumb: [Default DevOps Config policies, DevOps Config reference, DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-reference
 ---
 
 # Generic policies in DevOps Config

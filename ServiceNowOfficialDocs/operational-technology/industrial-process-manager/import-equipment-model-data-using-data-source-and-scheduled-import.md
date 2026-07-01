@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Importing equipment model data, Configure, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-task
 ---
 
 # Import your equipment model data using the data source and scheduled import

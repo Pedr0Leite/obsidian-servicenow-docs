@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 4
 breadcrumb: [Requesting translations in Localization Workspace, Localization Workspace, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - workspace
+  - translations
+  - content
+  - type-task
 ---
 
 # Request translations in Localization Workspace: Estimate and Due Date

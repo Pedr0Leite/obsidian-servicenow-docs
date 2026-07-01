@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Guarded Scripts"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - platform
@@ -198,6 +200,9 @@ Advance to Phase 3. Once you are confident all scripts are covered, run new Glid
 Note: On-premises administrators can enable automatic phase advancement by setting com.glide.script.sandbox.ks.watchdog.auto.advance to true.
 
 ## Related
+- [[How to delete or edit sensitive comments in Servic]]
+- [[Knowledge Base Articles – Metrics]]
+- [[Integration Design - How to choose the best patter]]
 
 - [[Platform]]
 - [[Knowledge Base Articles]]

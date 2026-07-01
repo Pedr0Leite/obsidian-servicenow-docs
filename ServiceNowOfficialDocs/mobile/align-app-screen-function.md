@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-05-31"
 reading_time_minutes: 2
 breadcrumb: [Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Set up and align the app, screen, and function hierarchy for offline mode

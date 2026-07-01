@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing teams and incidents using My Team applet, ITSM Mobile Agent, IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-concept
 ---
 
 # Performance metrics

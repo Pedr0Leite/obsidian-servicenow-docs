@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 4
 breadcrumb: [Build Agent overview, Develop, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Agentic development app refinement in the ServiceNow IDE

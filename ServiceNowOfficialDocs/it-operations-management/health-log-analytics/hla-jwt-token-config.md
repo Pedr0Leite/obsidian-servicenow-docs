@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 3
 keywords: [JSON Web Token provider, JWT provider, JSON Web Token token, JWT token, authenticate, Health Log Analytics, HLA, ITOM Gateway, MID-less log streaming]
 breadcrumb: [MID-less log streaming, MID-less integrations, Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Configure a JSON Web Token \(JWT\) provider and token for Health Log Analytics

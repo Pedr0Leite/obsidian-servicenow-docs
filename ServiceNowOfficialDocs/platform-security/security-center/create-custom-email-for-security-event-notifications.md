@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure policy preferences, Security Event Notifications, Security monitoring console, Security Center, Platform Security]
+tags:
+  - platform-security
+  - security-center
+  - posture
+  - compliance
+  - risks
+  - type-task
 ---
 
 # Create a custom email for security event notifications

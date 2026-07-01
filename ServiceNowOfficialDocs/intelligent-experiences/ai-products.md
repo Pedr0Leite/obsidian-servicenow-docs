@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 11
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Enable AI experiences

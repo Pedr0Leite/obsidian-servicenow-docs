@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [View links between system elements and URLs, Content Management integration points, Content Management System, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - cms
+  - content
+  - portal
+  - pages
+  - type-reference
 ---
 
 # Page source view

@@ -12,6 +12,13 @@ reading_time_minutes: 3
 keywords: [Now Assist, Agentic AI, generative AI, Gen AI, virtual agent, analytics, resources, knowledge articles, catalog items, deflections, escalations, ITSM]
 audience: administrator
 breadcrumb: [Track metrics, Use ITSM Virtual Agent analytics dashboard, Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-concept
 ---
 
 # ITSM Virtual Agent resources analytics

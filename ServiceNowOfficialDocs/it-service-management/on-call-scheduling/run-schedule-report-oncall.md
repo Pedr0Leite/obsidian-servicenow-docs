@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service Management]
+tags:
+  - it-service-management
+  - on-call
+  - rotations
+  - escalation
+  - itsm
+  - type-task
 ---
 
 # Run a Schedule report to view my schedule

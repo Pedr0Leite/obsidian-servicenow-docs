@@ -11,6 +11,13 @@ last_updated: "2026-04-02"
 reading_time_minutes: 1
 keywords: [external search sources, Employee Slate, Now Assist]
 breadcrumb: [Search sources for Employee Slate, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Add external search sources

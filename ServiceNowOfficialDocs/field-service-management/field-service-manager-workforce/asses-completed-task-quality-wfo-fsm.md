@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Coaching, Workforce Optimization, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-task
 ---
 
 # Assess the quality of completed tasks

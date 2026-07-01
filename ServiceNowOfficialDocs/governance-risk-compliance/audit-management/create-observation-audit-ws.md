@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Audit observations in Audit, Audit Supervisor Workspace, Audit Workspace Overview, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Create an observation for an engagement

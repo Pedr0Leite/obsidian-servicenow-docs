@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Tutorial: Configure SCIM for user provisioning with a Provider, SCIM Provider, System for Cross-domain Identity Management \(SCIM\), Identity]
+tags:
+  - platform-security
+  - identity
+  - idp
+  - federation
+  - sso
+  - type-reference
 ---
 
 # SCIM Troubleshooting

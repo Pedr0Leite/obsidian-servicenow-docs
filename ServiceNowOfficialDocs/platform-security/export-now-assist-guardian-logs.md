@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Export, Now Assist Guardian, logs, Gen AI, Generative AI, admin, offensiveness, prompt injection]
 breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Export Now Assist Guardian logs

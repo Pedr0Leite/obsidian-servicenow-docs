@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 2
 keywords: [work set standard, grouped standard, sub-activity]
 breadcrumb: [Industrial Standards, Explore, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-concept
 ---
 
 # Work set standards

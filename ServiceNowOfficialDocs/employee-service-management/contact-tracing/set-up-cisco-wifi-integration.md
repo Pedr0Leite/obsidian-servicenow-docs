@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Retrieving Wi-Fi access log data, Contact Tracing, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contact-tracing
+  - health-safety
+  - covid
+  - type-task
 ---
 
 # Configure Cisco DNA Spaces settings for Wi-Fi access logs

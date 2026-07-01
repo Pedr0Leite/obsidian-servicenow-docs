@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Walk-up Experience for Customer Service Management, Set up self-service, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - self-service
+  - omnichannel
+  - portal
+  - engagement
+  - type-reference
 ---
 
 # System properties for configuring Walk-up Experience for guest users

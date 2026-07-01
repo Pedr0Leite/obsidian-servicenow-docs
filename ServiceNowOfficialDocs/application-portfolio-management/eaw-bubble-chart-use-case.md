@@ -9,6 +9,13 @@ last_updated: "2026-04-21"
 reading_time_minutes: 21
 keywords: [bubble chart, indicator scores, normalized value, application rationalization, scoring profile]
 breadcrumb: [Use bubble chart view, Working with application rationalization, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Use case: How indicator scores appear on the bubble chart

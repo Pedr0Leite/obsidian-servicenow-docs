@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 6
 breadcrumb: [Use HAM advisor, Asset and CI management, Explore, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Monitoring CMDB data quality using dashboard metrics in CMDB success advisor for HAM

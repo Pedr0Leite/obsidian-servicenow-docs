@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0, Microsoft Azure DevOps Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - azure-devops
+  - integration
+  - microsoft
+  - itbm
+  - type-reference
 ---
 
 # Connecting Agile Development 2.0 and Azure DevOps

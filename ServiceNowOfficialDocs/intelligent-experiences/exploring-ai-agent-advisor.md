@@ -9,6 +9,9 @@ last_updated: "2026-06-06"
 reading_time_minutes: 2
 keywords: [explore]
 breadcrumb: [AI Agent Advisor, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Exploring AI Agent Advisor

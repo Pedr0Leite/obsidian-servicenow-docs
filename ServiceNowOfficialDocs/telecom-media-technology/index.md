@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: telmt
 doc_type: toc
+tags:
+  - telecom-media-technology
 ---
 
 # Australia Telecommunications, Media, and Technology

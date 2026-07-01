@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2025-10-03"
 reading_time_minutes: 7
 breadcrumb: [Order decomposition, Order Management, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Order decomposition examples

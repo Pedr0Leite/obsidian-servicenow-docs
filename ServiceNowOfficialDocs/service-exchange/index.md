@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: sebrdg
 doc_type: toc
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
 ---
 
 # Australia Service Exchange

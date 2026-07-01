@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Express List, Event Management, Alert, Now Assist]
 breadcrumb: [Viewing an alert group analysis by Now Assist in Express List, Express List in SOW for ITOM, Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-task
 ---
 
 # View an alert group analysis by Now Assist in Express List

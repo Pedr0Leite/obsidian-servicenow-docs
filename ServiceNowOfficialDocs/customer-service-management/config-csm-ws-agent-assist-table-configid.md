@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Configure the Agent Assist and Response Template tabs

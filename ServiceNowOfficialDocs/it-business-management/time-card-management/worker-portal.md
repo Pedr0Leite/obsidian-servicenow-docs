@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 8
 breadcrumb: [Time Card management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - timecards
+  - time-tracking
+  - approval
+  - itbm
+  - type-concept
 ---
 
 # Time Sheet Portal

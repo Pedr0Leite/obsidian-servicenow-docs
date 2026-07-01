@@ -6,6 +6,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-04-30"
 reading_time_minutes: 6
+tags:
+  - customer-relationship-management
+  - crm
+  - accounts
+  - contacts
+  - opportunities
+  - type-concept
 ---
 
 # User management

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 2
 breadcrumb: [Products combined by family]
+tags:
+  - delta-zurich-australia
+  - type-reference
 ---
 
 # Combined HR Service Delivery integration with First Advantage service release notes for upgrades from Zurich to Australia

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Customizing a skill, Configure, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-task
 ---
 
 # Customize a Now Assist for Field Service Management \(FSM\) work order task summarization skill

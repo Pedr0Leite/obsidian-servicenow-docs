@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 38
 breadcrumb: [Scan Engine definitions, Diagnose technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Scan Engine definitions: Security

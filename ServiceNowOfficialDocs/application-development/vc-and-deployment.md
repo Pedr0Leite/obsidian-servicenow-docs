@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 4
 keywords: [vibe coding, AI-assisted development, deployment, workflow, collaborative design, AI-driven app development, review and testing, deployment approval, autonomous checks, Git-based source control, update sets, application packaging, scoped applications, CI/CD]
 breadcrumb: [Develop, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Agentic development and deployment

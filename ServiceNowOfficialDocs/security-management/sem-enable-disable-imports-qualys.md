@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Enable or disable the import of test results for a Qualys test group in the Vulnerability Manager Workspace]
 breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Enable or disable the import of test results for a Qualys test group

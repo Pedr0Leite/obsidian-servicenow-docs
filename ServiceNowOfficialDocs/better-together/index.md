@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: btss
 doc_type: toc
+tags:
+  - better-together
+  - integration
+  - cross-product
+  - combined-solutions
 ---
 
 # Australia Better Together

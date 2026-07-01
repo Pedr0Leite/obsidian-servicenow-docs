@@ -9,6 +9,9 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [agentic contact centre insurance reference]
 breadcrumb: [Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Agentic Contact Center for Insurance reference

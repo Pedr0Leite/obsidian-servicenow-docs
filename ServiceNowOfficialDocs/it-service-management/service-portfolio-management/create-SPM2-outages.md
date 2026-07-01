@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 3
 breadcrumb: [Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-task
 ---
 
 # Log outages in Service Portfolio Management

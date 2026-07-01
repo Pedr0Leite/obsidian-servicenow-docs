@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Configure, email, reply, Now Assist Admin, console, features, technology, skill, Generative AI, GenAI]
 breadcrumb: [Activate a Now Assist skill, Using Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Configure email reply recommendation in the Now Assist Admin console

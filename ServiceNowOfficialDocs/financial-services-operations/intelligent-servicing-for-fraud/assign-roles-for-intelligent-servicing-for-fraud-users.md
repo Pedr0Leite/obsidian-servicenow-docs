@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [assign roles for fraud users, fraud user roles, sn\_bom\_fraud.admin, sn\_bom\_fraud.agent, sn\_bom\_fraud.manager, sn\_bom\_fraud.viewer, sn\_bom\_fraud.contributor, sn\_bom\_fraud.agent\_connector, fraud access control, fraud role assignment, assign role to user, assign role to group]
 breadcrumb: [Configure, Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-task
 ---
 
 # Assign roles for Intelligent Servicing for Fraud users

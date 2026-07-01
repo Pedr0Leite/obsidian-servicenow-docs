@@ -11,6 +11,13 @@ last_updated: "2026-05-06"
 reading_time_minutes: 3
 keywords: [AWS DMS Endpoint, AWS Database Migration Service, AWS discovery, AWS patterns, DMS Endpoint discovery]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # AWS DMS Endpoints pattern-based discovery

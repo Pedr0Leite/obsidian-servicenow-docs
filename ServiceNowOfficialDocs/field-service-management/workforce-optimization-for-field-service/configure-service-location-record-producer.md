@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Service locations]
 breadcrumb: [Service Locations, Set up workforce, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - workforce-optimization
+  - shifts
+  - scheduling
+  - fsm
+  - type-task
 ---
 
 # Add Service Locations functionality to a work order catalog item in the Customer Service Portal

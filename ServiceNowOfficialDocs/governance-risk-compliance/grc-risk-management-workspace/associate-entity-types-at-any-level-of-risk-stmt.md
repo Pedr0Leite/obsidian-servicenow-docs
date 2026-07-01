@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Risk hierarchy and scoring, Manage risks, risk statements, and risk frameworks, Explore, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Association of entities at any level of a risk statement

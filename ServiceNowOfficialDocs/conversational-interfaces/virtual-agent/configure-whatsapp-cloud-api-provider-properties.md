@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-18"
 reading_time_minutes: 1
 breadcrumb: [Configure, Conversational Integration with WhatsApp \(WhatsApp Cloud API\), Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Configure WhatsApp Cloud API provider properties

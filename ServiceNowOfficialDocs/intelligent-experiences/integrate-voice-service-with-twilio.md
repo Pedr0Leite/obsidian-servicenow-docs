@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Integrating voice assistant with CCaaS provider, Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Integrate ServiceNow voice assistant with Twilio voice service

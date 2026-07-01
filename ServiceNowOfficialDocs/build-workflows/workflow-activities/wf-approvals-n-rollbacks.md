@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Workflow activities, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - workflow-activities
+  - actions
+  - activities
+  - automation
+  - type-concept
 ---
 
 # Using workflow approval activities and rolling back workflows

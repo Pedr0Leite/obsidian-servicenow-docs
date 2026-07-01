@@ -11,6 +11,13 @@ last_updated: "2026-02-19"
 reading_time_minutes: 1
 keywords: [configure onboarding modals, Create onboarding modal, Launch onboarding modal]
 breadcrumb: [Onboarding modals, Adoption services, Configure user experiences]
+tags:
+  - platform-user-interface
+  - adoption
+  - onboarding
+  - guided-setup
+  - ui
+  - type-concept
 ---
 
 # Configure

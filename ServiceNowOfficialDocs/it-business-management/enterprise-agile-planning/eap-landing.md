@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-reference
 ---
 
 # Enterprise Agile Planning in Strategic Planning

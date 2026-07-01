@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [explore]
 breadcrumb: [Now Assist for Care Team Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Exploring Now Assist for Care Team Operations

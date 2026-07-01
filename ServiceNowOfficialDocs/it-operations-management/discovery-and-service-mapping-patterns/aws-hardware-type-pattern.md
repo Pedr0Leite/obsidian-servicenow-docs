@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Amazon AWS - Hardware Type, Amazon AWS - Cloud Hardware Type, AWS instance type, AWS EC2, AWS discovery, AWS patterns]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # AWS hardware type pattern-based discovery

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data export reference, Exporting data, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-concept
 ---
 
 # System properties for display value and header

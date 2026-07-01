@@ -7,6 +7,9 @@ release: australia
 topic_type: reference
 last_updated: "2026-04-22"
 reading_time_minutes: 9
+tags:
+  - it-service-management
+  - type-reference
 ---
 
 # IT Service Management

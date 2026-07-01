@@ -9,6 +9,9 @@ last_updated: "2026-04-29"
 reading_time_minutes: 1
 keywords: [skill archival, Skill restore]
 breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Archive a Now Assist skill

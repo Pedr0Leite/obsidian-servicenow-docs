@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Applying CSDM guidelines to Problem Management, Configuring Problem Management, Problem Management, IT Service Management]
+tags:
+  - it-service-management
+  - problems
+  - root-cause
+  - known-errors
+  - itsm
+  - type-reference
 ---
 
 # Problem Management and CSDM tables

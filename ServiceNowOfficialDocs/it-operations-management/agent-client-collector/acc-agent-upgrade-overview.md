@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 3
 keywords: [ACC agent upgrade, auto-upgrade, agent upgrade overview]
 breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-concept
 ---
 
 # Agent Client Collector upgrade overview

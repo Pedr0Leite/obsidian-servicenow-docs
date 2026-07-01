@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, Now Assist Skill Kit, UI Builder]
 breadcrumb: [Dynamically expose data in UI Builder pages \(advanced feature\), Advanced UI Builder, UI Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - ui-builder
+  - uib
+  - portals
+  - workspaces
+  - type-task
 ---
 
 # Add Now Assist skills to your page

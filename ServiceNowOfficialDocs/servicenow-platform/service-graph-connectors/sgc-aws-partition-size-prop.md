@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-AWS, SGC AWS, SGC for AWS, AWS SGC, Service Graph Connector for AWS, AWS data sources, SG-AWS data sources, SG-AWS, AWS parallel loading, AWS partition size, aws\_account\_partition\_size]
 breadcrumb: [Additional features, AWS, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-task
 ---
 
 # Set partition size for parallel loading-enabled AWS accounts

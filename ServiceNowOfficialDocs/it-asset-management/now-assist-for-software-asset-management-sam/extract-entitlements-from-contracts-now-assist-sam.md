@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-10-24"
 reading_time_minutes: 3
 breadcrumb: [Use generative AI skills, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-task
 ---
 
 # Extract entitlements from software contracts using Now Assist for SAM

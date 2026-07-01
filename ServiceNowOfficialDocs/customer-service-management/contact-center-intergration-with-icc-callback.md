@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Interaction Controls Component ICC integration with CCaaS callback, CCaaS callback, Interaction Controls Component \(ICC\) callback interaction features, Callback interaction features]
 breadcrumb: [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks, Integrating with contact centers, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Callback interaction features

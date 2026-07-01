@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using Test generation, Test generation, Use generative AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - test-generation
+  - atf
+  - ai
+  - automation
+  - type-task
 ---
 
 # Generate a test using Test generation

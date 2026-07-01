@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 97
 breadcrumb: [Prepare your upgrade, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Pre- and post-upgrade tasks for various products

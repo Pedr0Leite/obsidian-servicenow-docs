@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, Access your ServiceNow data using SQL API, Additional integration resources, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-task
 ---
 
 # Configure ServiceNow SQL API JDBC driver on client machine

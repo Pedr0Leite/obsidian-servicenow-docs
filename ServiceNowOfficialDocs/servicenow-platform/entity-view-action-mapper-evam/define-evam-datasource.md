@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring entity view action mapper, Entity view action mapper, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - evam
+  - entity
+  - actions
+  - workspace
+  - type-task
 ---
 
 # Define a data source

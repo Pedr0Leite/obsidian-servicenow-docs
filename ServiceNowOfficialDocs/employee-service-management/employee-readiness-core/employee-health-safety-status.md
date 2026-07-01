@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Employee Readiness Core, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - readiness
+  - assessment
+  - compliance
+  - training
+  - type-concept
 ---
 
 # Employee Health and Safety Status

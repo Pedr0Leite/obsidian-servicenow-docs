@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [Create heatmap report, Create heatmap visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a heatmap data visualization

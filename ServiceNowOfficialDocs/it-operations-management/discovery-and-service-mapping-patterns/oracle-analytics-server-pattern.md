@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Oracle Analytics Server, Oracle BI Server, Oracle BI Presentation Service, Oracle BI Scheduler, Oracle Analytics Server discovery, Oracle Analytics Server patterns, Oracle Business Intelligence Enterprise Edition]
 breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Oracle Analytics Server pattern-based discovery

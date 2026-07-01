@@ -9,6 +9,9 @@ last_updated: "2026-06-07"
 reading_time_minutes: 7
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist agentic workflows

@@ -11,6 +11,13 @@ last_updated: "2026-02-03"
 reading_time_minutes: 6
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Analyze hardware assets using the Generate hardware asset insights generative AI skill

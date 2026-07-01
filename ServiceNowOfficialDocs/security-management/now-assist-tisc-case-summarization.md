@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-12"
 reading_time_minutes: 1
 breadcrumb: [Use generative AI skills, Now Assist for Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Summarize a Case with Now Assist for Threat Intelligence Security Center

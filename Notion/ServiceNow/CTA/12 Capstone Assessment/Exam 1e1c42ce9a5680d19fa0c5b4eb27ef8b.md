@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Exam"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - capstone
@@ -214,6 +216,9 @@ Correct Answer: B
 [TO REVIEW FOR EXAM](Exam/TO%20REVIEW%20FOR%20EXAM%20206c42ce9a5680b7807dd0dd07988d96.md)
 
 ## Related
+- [[Real questions]]
+- [[ChatGPT Sample Questions]]
+- [[CTA Exam Scope]]
 - [[12 Capstone Assessment]]
 - [[CMDB and CSDM]]
 - [[Exam questions - per topics]]

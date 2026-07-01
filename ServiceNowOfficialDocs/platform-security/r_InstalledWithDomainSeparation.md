@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Exploring domain separation, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Installed with domain separation

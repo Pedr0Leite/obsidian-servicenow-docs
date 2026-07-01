@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [license types, reconciliation, impact on reconciliation, entitlement, SAM reconciliation, software management]
 breadcrumb: [Software Asset Management references, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-reference
 ---
 
 # Impact of different license types on software reconciliation

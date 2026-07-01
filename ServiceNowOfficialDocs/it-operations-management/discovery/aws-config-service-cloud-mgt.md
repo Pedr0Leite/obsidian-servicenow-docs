@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 3
 breadcrumb: [AWS events-driven discovery, Discovery for AWS, Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Configure AWS Config event notifications

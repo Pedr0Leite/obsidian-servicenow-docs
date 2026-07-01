@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Notification agent, Now Assist in Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Edit an email notification using the Notification agent

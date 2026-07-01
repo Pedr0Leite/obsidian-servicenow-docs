@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [SOW integration, Statement of Work, change request integration, workspace integration, interoperable routes]
 breadcrumb: [Explore, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-concept
 ---
 
 # Associating change requests with releases in Service Operations Workspace

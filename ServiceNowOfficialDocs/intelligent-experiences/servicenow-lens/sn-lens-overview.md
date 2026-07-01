@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [ServiceNow Lens home page, home page of ServiceNow Lens]
 breadcrumb: [Explore, ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-concept
 ---
 
 # ServiceNow AI Lens desktop app landing page overview

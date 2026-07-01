@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Working with themes, Configure, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-concept
 ---
 
 # Working with theme-able empty state images

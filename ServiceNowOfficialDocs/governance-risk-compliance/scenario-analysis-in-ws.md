@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 2
 keywords: [Scenario Analysis, Operational Resilience, Playbook, Statistical Model Profile]
 breadcrumb: [Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Scenario analysis using simulation

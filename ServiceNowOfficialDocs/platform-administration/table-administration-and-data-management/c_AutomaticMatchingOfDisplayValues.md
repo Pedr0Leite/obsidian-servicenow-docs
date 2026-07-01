@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exporting and importing data via XML, Exporting data, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-concept
 ---
 
 # Automatic matching of display values

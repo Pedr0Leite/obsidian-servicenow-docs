@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Badge Reader Integration for Walk-up Experience, Configure, Walk-up Experience, IT Service Management]
+tags:
+  - it-service-management
+  - walk-up
+  - kiosk
+  - support
+  - itsm
+  - type-concept
 ---
 
 # Walk-up Experience Badge Reader Integration setup and configuration

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI for financial services operations now assist panel, generative AI for FSO now assist panel]
 breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Request generative AI capabilities in Financial Services Operations with Now Assist panel

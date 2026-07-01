@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Enterprise graph schema, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-task
 ---
 
 # View and manage Enterprise Graph schema

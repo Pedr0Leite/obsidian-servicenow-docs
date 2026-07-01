@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using customer-supplied keys with Field Encryption Enterprise, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Wrap your customer-supplied key

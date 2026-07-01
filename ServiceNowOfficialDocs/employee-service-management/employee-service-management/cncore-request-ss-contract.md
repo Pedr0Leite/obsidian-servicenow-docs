@@ -6,6 +6,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 4
+tags:
+  - employee-service-management
+  - esm
+  - hr
+  - service-delivery
+  - platform
+  - type-concept
 ---
 
 # Use self-served contract request

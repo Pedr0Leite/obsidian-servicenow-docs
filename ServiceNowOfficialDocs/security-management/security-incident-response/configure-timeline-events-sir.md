@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 2
 keywords: [configure timeline events, timeline popover fields]
 breadcrumb: [Timeline in Security Incident Response Workspace, Configure, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-task
 ---
 
 # Configure timeline event configurations

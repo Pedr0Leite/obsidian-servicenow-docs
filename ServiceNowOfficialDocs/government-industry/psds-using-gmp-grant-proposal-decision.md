@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Grants Management Proposal Playbook, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Propose a Decision for a grant proposal application in the Grants Management Grant Proposal Playbook

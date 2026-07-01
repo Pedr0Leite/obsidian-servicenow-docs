@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [ICC for voice calls, Integrating with Computer Telephony Integration \(CTI\), Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Interaction Controls Component \(ICC\) call features

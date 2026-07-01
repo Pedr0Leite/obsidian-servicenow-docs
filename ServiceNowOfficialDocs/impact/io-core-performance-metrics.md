@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-13"
 reading_time_minutes: 6
 breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference, Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Transaction or response metrics

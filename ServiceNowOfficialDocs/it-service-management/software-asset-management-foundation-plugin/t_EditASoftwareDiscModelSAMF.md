@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring the classic Software Asset Management Foundation plugin, Software Asset Management Foundation plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - foundation
+  - plugin
+  - itsm
+  - type-task
 ---
 
 # Manually normalize a SAM Foundation software discovery model

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-27"
 reading_time_minutes: 6
 breadcrumb: [MID Server upgrades, MID Server reference, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-reference
 ---
 
 # MID Server pre-upgrade check

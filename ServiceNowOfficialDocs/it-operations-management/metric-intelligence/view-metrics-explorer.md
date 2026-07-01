@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 9
 breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations Management]
+tags:
+  - it-operations-management
+  - metrics
+  - anomaly
+  - aiops
+  - monitoring
+  - type-task
 ---
 
 # View metric values in the Insights Explorer

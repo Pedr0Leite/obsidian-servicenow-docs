@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Proactive Triggers reference, Proactive Triggers, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - product-support
+  - it-support
+  - type-concept
 ---
 
 # Domain separation and Proactive Triggers

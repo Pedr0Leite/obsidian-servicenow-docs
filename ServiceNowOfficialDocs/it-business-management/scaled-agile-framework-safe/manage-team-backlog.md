@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [SAFe Board — Team level, Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-task
 ---
 
 # Manage your team backlog

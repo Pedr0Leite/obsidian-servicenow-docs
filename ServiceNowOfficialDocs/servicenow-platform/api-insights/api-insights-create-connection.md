@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Monitor connections, Manage API data connections, API Insights, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - api-insights
+  - governance
+  - usage
+  - analytics
+  - type-task
 ---
 
 # Create an API data connection for a Service Graph Connector within API Insights

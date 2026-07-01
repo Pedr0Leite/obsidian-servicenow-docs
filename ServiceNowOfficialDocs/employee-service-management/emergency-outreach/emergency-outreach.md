@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - outreach
+  - notifications
+  - mass-comms
+  - type-concept
 ---
 
 # Emergency Outreach

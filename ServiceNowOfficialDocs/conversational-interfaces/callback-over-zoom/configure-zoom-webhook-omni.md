@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Zoom extension for Omnichannel Callback, Zoom extension for Omnichannel Callback, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - callback
+  - zoom
+  - scheduling
+  - telephony
+  - type-task
 ---
 
 # Configure a Zoom webhook for Zoom extension for Omnichannel Callback

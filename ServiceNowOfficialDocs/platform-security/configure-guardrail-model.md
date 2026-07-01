@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-02-02"
 reading_time_minutes: 1
 breadcrumb: [Configuring a Guardrail Service Provider, Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Setup a Guardrail Service Provider

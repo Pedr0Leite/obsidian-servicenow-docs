@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 2
 keywords: [template versioning, publish template, smart assessment, Smart Assessment Engine, retire template]
 breadcrumb: [Configure, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Create a version of a privacy assessment template

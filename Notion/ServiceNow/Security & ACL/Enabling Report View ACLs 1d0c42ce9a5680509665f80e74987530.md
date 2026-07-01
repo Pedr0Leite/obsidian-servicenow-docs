@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Enabling Report View ACLs"
+area: "Security & ACL"
+source: notion-export
 tags:
   - acl
   - report-view-acl
@@ -363,6 +365,7 @@ The suggested approach is to run the assessment scan without considering dot-wal
 - Using the remediation scenarios provided above, determine how best to remediate for your instance.
 
 ## Related
+- [[VA - Basic Arch and ACLs]]
 
 - [[Security & ACL]]
 - [[Alternative Encryption Products to GlideEncrypter]]

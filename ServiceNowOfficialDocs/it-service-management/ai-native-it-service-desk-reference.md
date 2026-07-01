@@ -9,6 +9,9 @@ last_updated: "2026-04-01"
 reading_time_minutes: 1
 keywords: [reference]
 breadcrumb: [Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Simplified IT Service Management reference

@@ -9,6 +9,12 @@ last_updated: "2026-06-01"
 reading_time_minutes: 2
 keywords: [Workplace Services analytics, CBS Analytics, Core Business Suite dashboard, workplace cases, performance trends]
 breadcrumb: [CBS Analytics overview, View Core Business Suite Analytics, Use, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Workplace Services analytics on the CBS dashboard

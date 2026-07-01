@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-concept
 ---
 
 # Associating an AI-recommended citation to an open regulatory alert

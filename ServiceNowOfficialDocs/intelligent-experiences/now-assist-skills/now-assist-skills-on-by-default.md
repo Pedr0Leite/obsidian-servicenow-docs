@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 9
 keywords: [Now Assist, Now Assist skills, Generative AI, Gen AI]
 breadcrumb: [Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Now Assist skills, agents, and agentic workflows on by default

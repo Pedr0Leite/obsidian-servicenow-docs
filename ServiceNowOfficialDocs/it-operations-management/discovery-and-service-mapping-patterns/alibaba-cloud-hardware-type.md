@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Alibaba, Cloud Hardware Type, Alibaba Cloud discovery, Alibaba Cloud patterns, Alibaba Cloud Cloud Hardware Type discovery]
 breadcrumb: [Alibaba Cloud discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Alibaba Cloud cloud hardware type pattern-based discovery

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Cloud Cost Management for Microsoft Azure, Configuring Cloud Cost Management, Cloud Cost Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - cloud-cost
+  - finops
+  - optimization
+  - itam
+  - type-reference
 ---
 
 # Configuring access to CI data on your Microsoft Azure account

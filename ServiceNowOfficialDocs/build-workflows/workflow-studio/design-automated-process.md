@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-12"
 reading_time_minutes: 6
 breadcrumb: [Building your first playbook, Build Playbooks, Playbooks, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Create a sample playbook

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [SPM Benchmarks reference, SPM Benchmarks, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - benchmarks
+  - spm
+  - metrics
+  - kpis
+  - type-reference
 ---
 
 # Components installed with SPM Benchmarking

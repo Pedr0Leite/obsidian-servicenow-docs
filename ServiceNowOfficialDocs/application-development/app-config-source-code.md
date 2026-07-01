@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-20"
 reading_time_minutes: 5
 breadcrumb: [Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Custom application configuration in source code

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 6
 breadcrumb: [Integrating with Adobe Experience Manager, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Display ServiceNow cases on an Adobe Experience Manager page

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-24"
 reading_time_minutes: 1
 breadcrumb: [CI class recommendations, Use Data Foundations advisor, CMDB success advisor, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Create the principal class recommendation criteria property

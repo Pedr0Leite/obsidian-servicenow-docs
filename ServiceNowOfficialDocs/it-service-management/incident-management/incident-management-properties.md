@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Configuring Incident Management, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-reference
 ---
 
 # Incident Management properties

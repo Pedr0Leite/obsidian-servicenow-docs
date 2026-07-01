@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-05"
 reading_time_minutes: 8
 breadcrumb: [Reference, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-reference
 ---
 
 # Components installed with Threat Intelligence Security Center

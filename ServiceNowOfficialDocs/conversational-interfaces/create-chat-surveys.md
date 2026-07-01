@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Survey Designer, Virtual Agent, Agent Chat, surveys, questionnaires, pre-chat, post-chat]
 breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Create chat surveys

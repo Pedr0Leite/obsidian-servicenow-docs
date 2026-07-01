@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [APO, Accounts Payable Operations, invoice management, supplier, Advanced Work Assignment, AWA]
 breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Using Advanced Work Assignment for Accounts Payable Operations

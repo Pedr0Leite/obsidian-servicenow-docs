@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Unified Map, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - unified-map
+  - maps
+  - geographic
+  - cmdb
+  - type-concept
 ---
 
 # Configuring Unified Map — admin settings

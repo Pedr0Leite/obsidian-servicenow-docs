@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Plan implementation, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-concept
 ---
 
 # Domain separation and Field Service Management

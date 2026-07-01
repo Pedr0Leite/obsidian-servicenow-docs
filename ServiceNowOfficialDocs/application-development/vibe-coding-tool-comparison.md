@@ -10,6 +10,9 @@ reading_time_minutes: 3
 keywords: [agentic development, tool comparison, development tools, artificial intelligence, application development, workflow comparison, development workflow, AI agents, code generation]
 audience: developer
 breadcrumb: [Explore, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Tool comparison for agentic development

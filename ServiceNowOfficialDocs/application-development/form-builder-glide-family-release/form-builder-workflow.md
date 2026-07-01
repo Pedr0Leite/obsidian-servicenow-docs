@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Exploring Table Builder, Table Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - form-builder
+  - ui-forms
+  - fields
+  - layout
+  - type-concept
 ---
 
 # Table Builder workflow and navigation

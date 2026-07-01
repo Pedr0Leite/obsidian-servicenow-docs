@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Lead Management reference, Lead and opportunity management, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Components installed with Lead Management

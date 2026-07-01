@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Additional info - Veracode, Veracode, Integrate, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-reference
 ---
 
 # Security scan results

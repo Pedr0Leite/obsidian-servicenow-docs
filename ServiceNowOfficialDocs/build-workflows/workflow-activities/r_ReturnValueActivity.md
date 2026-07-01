@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Utility workflow activities, Workflow activities reference, Workflow activities, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - workflow-activities
+  - actions
+  - activities
+  - automation
+  - type-reference
 ---
 
 # Return Value workflow activity

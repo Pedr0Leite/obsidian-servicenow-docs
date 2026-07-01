@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Customer Service Management"
+area: "Roles per module or topic"
+source: notion-export
 tags:
   - roles
   - csm

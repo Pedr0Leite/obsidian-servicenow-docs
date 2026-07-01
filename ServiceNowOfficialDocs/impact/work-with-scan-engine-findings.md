@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Resolve technical debt, Diagnose technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Work with Scan Engine findings

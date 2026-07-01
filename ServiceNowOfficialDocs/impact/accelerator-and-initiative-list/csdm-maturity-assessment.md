@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [CSDM, Common Service Data Model, Maturity Assessment, Data Model, CMDB]
 breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # CSDM Maturity Assessment

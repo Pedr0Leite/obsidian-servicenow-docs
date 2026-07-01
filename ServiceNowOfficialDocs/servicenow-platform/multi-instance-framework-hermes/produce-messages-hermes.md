@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Produce and consume messages, Hermes Messaging Service, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - multi-instance
+  - hermes
+  - scaling
+  - enterprise
+  - type-task
 ---
 
 # Produce test messages to a Hermes topic using the Kafka client

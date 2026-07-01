@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [GCP AlloyDB for PostgreSQL, AlloyDB for PostgreSQL, Google Cloud Platform \(GCP\) AlloyDB for PostgreSQL, AlloyDB]
 breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Google Cloud Platform \(GCP\) AlloyDB for PostgreSQL discovery using patterns

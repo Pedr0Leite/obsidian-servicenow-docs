@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Expense lines and expense allocations, Expense Line, IT Service Management]
+tags:
+  - it-service-management
+  - expenses
+  - costs
+  - itsm
+  - finance
+  - type-task
 ---
 
 # Use a scripted allocation

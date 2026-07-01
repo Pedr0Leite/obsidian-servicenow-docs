@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 6
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Configure, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-concept
 ---
 
 # Configure observability agents for Now Assist

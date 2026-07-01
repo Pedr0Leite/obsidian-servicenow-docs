@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Configure patterns, Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Discovery, Platform Privacy]
+tags:
+  - platform-security
+  - data-discovery
+  - pii
+  - scanning
+  - compliance
+  - type-reference
 ---
 
 # Default NER data patterns

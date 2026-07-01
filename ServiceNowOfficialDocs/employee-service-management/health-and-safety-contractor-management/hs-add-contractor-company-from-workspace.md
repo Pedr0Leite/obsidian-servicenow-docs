@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage contractors, Health and Safety Contractor Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - contractor
+  - compliance
+  - permits
+  - type-task
 ---
 
 # Add a contractor company from Health and Safety Workspace

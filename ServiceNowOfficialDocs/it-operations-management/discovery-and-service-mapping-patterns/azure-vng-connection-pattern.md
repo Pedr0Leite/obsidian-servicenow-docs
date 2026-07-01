@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Azure - Virtual Network Gateway Connection \(LP\), Azure Virtual Network Gateway Connections, Azure VPN Connections, Azure discovery, Azure patterns]
 breadcrumb: [Microsoft Azure discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Azure Virtual Network Gateway Connection pattern-based discovery

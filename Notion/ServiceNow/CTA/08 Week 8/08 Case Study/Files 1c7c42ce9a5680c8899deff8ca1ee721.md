@@ -1,6 +1,8 @@
 ---
 aliases:
   - "08 Case Study – Files"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - week-8
@@ -22,5 +24,7 @@ tags:
 [Week 8 presentation - NowArchitect_Draft.pptx](Files/Week_8_presentation_-_NowArchitect_Draft.pptx)
 
 ## Related
+- [[08 Week 8]]
+- [[Theming for Now Assist in Virtual Agent enhanced c]]
 - [[08 Case Study]]
 - [[08 Case Study – For PPT]]

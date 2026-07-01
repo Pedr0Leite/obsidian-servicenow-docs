@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workplace Services Kiosk, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - kiosk
+  - self-service
+  - visitor
+  - workplace
+  - type-concept
 ---
 
 # Integrating Workplace Services Kiosk

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, ITSM Success Dashboard indicators, IT Service Management]
+tags:
+  - it-service-management
+  - dashboard
+  - success
+  - indicators
+  - itsm
+  - type-reference
 ---
 
 # Success Dashboard indicators user roles and responsibilities

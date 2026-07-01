@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Microsoft Exchange Online - Calendar synchronization, Setup Workplace Calendar Synchronization, Configure, Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-task
 ---
 
 # Create single or multiple calendar providers with Microsoft Exchange Online

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure or update an On-Call schedule, Managing schedules and shifts, On-Call Scheduling, IT Service Management]
+tags:
+  - it-service-management
+  - on-call
+  - rotations
+  - escalation
+  - itsm
+  - type-concept
 ---
 
 # Updating an On-Call schedule

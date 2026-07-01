@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrating with Adobe Experience Manager, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Integrate Customer Service Management with Adobe Experience Manager

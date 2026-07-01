@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Validating and correcting configuration data, Using DevOps Config, DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-reference
 ---
 
 # Adding warning and failure messages to validation results — CdmPolicyUtil

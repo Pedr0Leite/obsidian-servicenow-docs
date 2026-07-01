@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [IBM Watson Assistant, Virtual Agent, API]
 breadcrumb: [Integrating IBM Watson Assistant conversations, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Integrating Virtual Agent with IBM Watson Assistant for Assistant V2 API

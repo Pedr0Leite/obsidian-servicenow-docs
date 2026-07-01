@@ -1,6 +1,8 @@
 ---
 aliases:
   - "07 Case Study – For PPT"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - week-7
@@ -79,6 +81,9 @@ tags:
 By implementing these strategies, Sovereign Bank can create a seamless, **user-friendly** ServiceNow experience while ensuring **scalability and efficiency**. 🚀
 
 ## Related
+- [[07 Week 7]]
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
 - [[07 Case Study]]
 - [[07 Case Study – Files]]
 - [[CMDB]]

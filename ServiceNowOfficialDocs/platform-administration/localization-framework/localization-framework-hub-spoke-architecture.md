@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-10"
 reading_time_minutes: 2
 breadcrumb: [Configure the Localization Framework, Localization Framework, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - l10n
+  - languages
+  - translation
+  - type-concept
 ---
 
 # Localization Framework Hub and Spoke architecture

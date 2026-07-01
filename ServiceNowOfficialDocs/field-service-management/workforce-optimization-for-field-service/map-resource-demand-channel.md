@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-23"
 reading_time_minutes: 2
 breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - workforce-optimization
+  - shifts
+  - scheduling
+  - fsm
+  - type-task
 ---
 
 # Associate technicians with demand channels

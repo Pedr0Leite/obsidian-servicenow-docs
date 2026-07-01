@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Points to prevent burnout"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -29,6 +31,9 @@ Avoiding a Burning Platform
 Visual Suggestion: A risk heatmap illustrating potential issues and mitigation strategies.
 
 ## Related
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[04 Week 4]]
 - [[How governance at Sovereign Bank would apply]]

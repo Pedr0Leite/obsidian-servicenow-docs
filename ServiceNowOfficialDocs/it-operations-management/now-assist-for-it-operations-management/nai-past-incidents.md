@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI, Now Assist, similar incidents, historical, resolution]
 breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-concept
 ---
 
 # Speed up alert resolution with a Now Assist analysis of past related incidents

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Add a drilldown event to a data visualization in UI Builder, Add a drilldown event to a report in UI Builder]
 breadcrumb: [Technical dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Add a drilldown event to a data visualization on a technical dashboard

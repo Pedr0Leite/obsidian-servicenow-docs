@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Designing an escalation process, Escalations in On-Call Scheduling, Defining On-Call Scheduling escalation process, On-Call Scheduling, IT Service Management]
+tags:
+  - it-service-management
+  - on-call
+  - rotations
+  - escalation
+  - itsm
+  - type-concept
 ---
 
 # Example escalation reports

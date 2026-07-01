@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 2
 keywords: [SBOM, Software Bill of Materials, activation, Third-Party Risk Management, TPRM, Smart Assessment Engine]
 breadcrumb: [Smart Assessment Engine assessments, Configure, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Activate SBOM support

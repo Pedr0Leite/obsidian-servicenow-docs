@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How does Task Intelligence Work"
+area: "AI & VA"
+source: notion-export
 tags:
   - task-intelligence
   - now-intelligence

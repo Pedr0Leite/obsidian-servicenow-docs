@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mini email composer, Emails, Use, Configurable Workspace UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-task
 ---
 
 # Add a file to an email from the mini email composer

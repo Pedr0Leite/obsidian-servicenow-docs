@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [HR Service Delivery Agent Workspace integration with Universal Request, Agent Workspace, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hr
+  - agent-workspace
+  - case-management
+  - type-task
 ---
 
 # Create an HR case from Universal Request in HR Service Delivery Agent Workspace

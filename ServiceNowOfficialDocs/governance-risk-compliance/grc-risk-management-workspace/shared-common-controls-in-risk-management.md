@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 2
 breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Common controls in Risk Management

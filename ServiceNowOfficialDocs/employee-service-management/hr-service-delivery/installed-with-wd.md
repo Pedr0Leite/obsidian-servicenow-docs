@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, HR Service Delivery Integration with Workday, Integration of HR Service Delivery with third-party systems, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - hr
+  - cases
+  - service-catalog
+  - type-reference
 ---
 
 # Components installed with HR Service Delivery Integration with Workday

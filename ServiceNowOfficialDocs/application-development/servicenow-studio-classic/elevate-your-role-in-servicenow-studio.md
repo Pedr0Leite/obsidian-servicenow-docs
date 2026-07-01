@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-06"
 reading_time_minutes: 1
 breadcrumb: [Managing access to ServiceNow Studio, Configure, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Elevate your role in ServiceNow Studio

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Bring your own license or subscription to the public cloud, Exploring Software Asset Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-reference
 ---
 
 # Microsoft Windows and SQL Server infrastructure details reports

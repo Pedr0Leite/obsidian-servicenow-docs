@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [ai-now-assist]
 breadcrumb: [Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # Now Assist for Public Sector Digital Services \(PSDS\)

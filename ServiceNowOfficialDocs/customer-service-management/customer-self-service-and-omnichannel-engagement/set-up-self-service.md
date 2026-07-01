@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-07"
 reading_time_minutes: 3
 breadcrumb: [Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - self-service
+  - omnichannel
+  - portal
+  - engagement
+  - type-reference
 ---
 
 # Set up self-service

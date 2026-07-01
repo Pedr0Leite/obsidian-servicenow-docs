@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-15"
 reading_time_minutes: 1
 breadcrumb: [Fix code in real-time with Now Assist, Prevent and resolve technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Submit exceptions for Scan Engine findings

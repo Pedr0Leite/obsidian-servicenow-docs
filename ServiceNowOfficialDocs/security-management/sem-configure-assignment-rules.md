@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [assign findings to remediation teams automatically, assign vulnerable items to remediation teams automatically, assign application vulnerable items to remediation teams automatically, assign container vulnerable items to remediation teams automatically, configuring assignment rules]
 breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Configuring assignment rules

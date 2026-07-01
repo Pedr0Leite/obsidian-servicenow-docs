@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure the Smart Documents Skill for Now Assist in Document Management, Configure, Now Assist in Document Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-reference
 ---
 
 # System property for Smart Documents skill

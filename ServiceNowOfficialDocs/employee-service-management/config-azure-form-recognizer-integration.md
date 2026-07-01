@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Automating vaccine response reviews with the Azure Form Recognizer service, Automating vaccine response reviews, Vaccination Status, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-task
 ---
 
 # Configure Azure Form Recognizer integration for automatic vaccine response reviews

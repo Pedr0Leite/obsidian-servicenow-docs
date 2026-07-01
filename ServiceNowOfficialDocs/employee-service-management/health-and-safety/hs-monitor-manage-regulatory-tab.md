@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-28"
 reading_time_minutes: 2
 breadcrumb: [Chemical management, Use, Health and Safety Environmental Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-task
 ---
 
 # Monitor and manage the Regulatory list for a chemical substance

@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2026-05-18"
 reading_time_minutes: 4
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Security Operations

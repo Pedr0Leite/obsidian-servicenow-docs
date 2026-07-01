@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Upgrading Edge Encryption, Edge Encryption, Encryption]
+tags:
+  - platform-security
+  - edge-encryption
+  - field-level
+  - proxy
+  - security
+  - type-task
 ---
 
 # Manually upgrade an Edge Encryption proxy server running on Linux

@@ -9,6 +9,9 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [components installed for agentic contact center for insurance, CSR insurance business agent, CSR insurance personal agent, sn\_ins\_csr.business\_agent, sn\_ins\_csr.personal\_agent, sn\_ins\_csr]
 breadcrumb: [Reference, Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Components installed with Agentic Contact Center for Insurance

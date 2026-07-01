@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring Data Discovery \(Classic\), Data Discovery, Platform Privacy]
+tags:
+  - platform-security
+  - data-discovery
+  - pii
+  - scanning
+  - compliance
+  - type-task
 ---
 
 # Classify data in Data Discovery Findings page

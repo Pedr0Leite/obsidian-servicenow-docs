@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [formula column, Now Assist, CWM, formula builder, List view, generate formula, formula syntax]
 breadcrumb: [Add a formula column, Manage work using Boards, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Generate a formula using Now Assist for CWM

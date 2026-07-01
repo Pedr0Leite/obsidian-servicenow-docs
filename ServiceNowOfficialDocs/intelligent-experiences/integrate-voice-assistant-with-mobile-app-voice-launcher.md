@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-01-20"
 reading_time_minutes: 1
 breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Integrate voice assistant with mobile app launcher

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-10-24"
 reading_time_minutes: 1
 breadcrumb: [Manage AI models, Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Manage Integration

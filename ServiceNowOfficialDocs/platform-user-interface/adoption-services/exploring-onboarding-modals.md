@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 2
 keywords: [Explore experiences with onboarding modals, Overview, Trigger modals]
 breadcrumb: [Onboarding modals, Adoption services, Configure user experiences]
+tags:
+  - platform-user-interface
+  - adoption
+  - onboarding
+  - guided-setup
+  - ui
+  - type-concept
 ---
 
 # Exploring new experiences

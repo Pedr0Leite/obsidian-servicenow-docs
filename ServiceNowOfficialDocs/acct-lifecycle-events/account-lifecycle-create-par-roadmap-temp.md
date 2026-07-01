@@ -8,6 +8,14 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Product capabilities, Customer success, Configure, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-task
 ---
 
 # Define a product adoption roadmap template

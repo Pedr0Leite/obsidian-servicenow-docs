@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Roles per module or topic"
+area: "Vault Root"
+source: notion-export
 tags:
   - roles
   - service-catalog

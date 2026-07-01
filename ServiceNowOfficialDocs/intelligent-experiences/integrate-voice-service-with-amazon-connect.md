@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 6
 keywords: [Amazon Connect, voice assistant, voice integration, CCaaS, telephony provider, AI voice agent, PSTN, Lambda]
 breadcrumb: [Integrating voice assistant with CCaaS provider, Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Integrate ServiceNow voice assistant with Amazon Connect

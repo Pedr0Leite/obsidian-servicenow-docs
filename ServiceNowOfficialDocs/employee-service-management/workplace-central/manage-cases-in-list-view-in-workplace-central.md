@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 3
 breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-concept
 ---
 
 # Manage workplace cases in List view in Workplace Central

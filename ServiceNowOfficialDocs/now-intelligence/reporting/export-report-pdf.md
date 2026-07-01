@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Distribute reports, Core UI Reporting, Reporting, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - reports
+  - builder
+  - scheduling
+  - analytics
+  - type-task
 ---
 
 # Export a report to PDF

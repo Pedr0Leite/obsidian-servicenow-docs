@@ -8,6 +8,14 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Account onboarding, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-concept
 ---
 
 # Manage account onboarding cases

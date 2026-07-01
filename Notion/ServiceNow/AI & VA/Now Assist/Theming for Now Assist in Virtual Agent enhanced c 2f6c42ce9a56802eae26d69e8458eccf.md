@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Theming for Now Assist in Virtual Agent enhanced c"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - virtual-agent
@@ -76,6 +78,9 @@ For more information about enhanced chat, see [Enhanced chat](https://www.servi
 | $now-sp-nass-FAB-gradient-active-color-2 | Second color of background gradient for chat floating action button icon in active state. | $brand-info |
 
 ## Related
+- [[Knowledge graph enhancing Virtual Agent search]]
+- [[Now Assist in AI Search]]
+- [[Now Assist Q&A using Dynamic Translation]]
 
 - [[Now Assist]]
 - [[VA - Basic Arch and ACLs]]

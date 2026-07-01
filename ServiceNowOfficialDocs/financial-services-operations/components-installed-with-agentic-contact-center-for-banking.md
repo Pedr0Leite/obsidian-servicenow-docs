@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [agentic contact center for banking installed components, agentic contact center for banking roles, csr banking business agent, csr banking personal agent, sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent, app\_fso\_csr]
 breadcrumb: [Reference, Agentic Contact Center for Banking, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Components installed with Agentic Contact Center for Banking

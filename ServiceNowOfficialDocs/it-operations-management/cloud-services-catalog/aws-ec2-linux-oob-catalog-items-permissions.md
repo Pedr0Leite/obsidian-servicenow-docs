@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Amazon Web Services EC2 Linux Out Of Box Catalog items, Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-catalog
+  - services
+  - provisioning
+  - itom
+  - type-reference
 ---
 
 # Amazon Web Services EC2 Linux Out Of Box permissions

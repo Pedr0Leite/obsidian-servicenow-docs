@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-10-06"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for Workplace Service Delivery \(WSD\), Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - workplace
+  - generative
+  - type-task
 ---
 
 # Enable Now Assist panel

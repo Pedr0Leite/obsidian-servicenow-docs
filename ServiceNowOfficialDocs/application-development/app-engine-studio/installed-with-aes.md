@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-28"
 reading_time_minutes: 4
 breadcrumb: [Installing, Configure, App Engine Studio, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - aes
+  - low-code
+  - app-builder
+  - drag-and-drop
+  - type-reference
 ---
 
 # Components installed with AES

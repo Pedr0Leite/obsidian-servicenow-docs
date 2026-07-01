@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [create new connection card data security, add tokenized connection, third-party system integration, tokenizer service configuration, card data security routes, workflow studio subflow, decision table entry, rest message function, tokenizer resource configuration entry, enable card data security subflow]
 breadcrumb: [Administer, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Create new connections in Card Data Security

@@ -11,6 +11,13 @@ last_updated: "2026-03-27"
 reading_time_minutes: 2
 keywords: [Generative AI, generative AI for Field Service Management, AI agent, Parts Manager]
 breadcrumb: [Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-concept
 ---
 
 # Using agentic AI in Now Assist for Field Service Management \(FSM\)

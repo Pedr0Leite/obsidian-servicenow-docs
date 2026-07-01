@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 3
 breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service

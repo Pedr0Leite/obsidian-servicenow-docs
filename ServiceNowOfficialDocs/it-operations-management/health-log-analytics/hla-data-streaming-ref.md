@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [ServiceNow, Health Log Analytics, HLA, data, streaming, data types, guidelines, data input]
 breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-reference
 ---
 
 # General guidelines for streaming data to Health Log Analytics

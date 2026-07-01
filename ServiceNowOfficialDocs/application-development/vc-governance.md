@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 6
 keywords: [governance, agentic development, security, compliance, access control, testing, validation, approval, oversight, release management, audit trails]
 breadcrumb: [Explore, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Governance for agentic development

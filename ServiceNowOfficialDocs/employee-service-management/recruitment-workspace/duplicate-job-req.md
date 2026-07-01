@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage the job requisitions as a recruiter, Use, Recruitment Workspace, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - recruitment
+  - workspace
+  - candidates
+  - hiring
+  - type-task
 ---
 
 # Duplicate a job requisition

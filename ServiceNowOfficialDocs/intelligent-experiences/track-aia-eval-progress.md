@@ -9,6 +9,9 @@ last_updated: "2026-03-18"
 reading_time_minutes: 2
 keywords: [agentic evaluation, AI agent monitoring, evaluation progress, execution logs]
 breadcrumb: [Evaluate, Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Track and monitor agentic evaluation progress

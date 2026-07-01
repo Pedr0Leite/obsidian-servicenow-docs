@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [transform framework, data transformation, remote task data, inbound outbound transform]
 breadcrumb: [Remote tasks, Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Transform data with the Service Exchange transform framework

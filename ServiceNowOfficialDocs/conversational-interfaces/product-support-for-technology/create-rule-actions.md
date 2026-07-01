@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - product-support
+  - it-support
+  - type-task
 ---
 
 # Create rules and actions for Proactive Triggers

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 7
 breadcrumb: [Customize Scan Engine definitions, Diagnose technical debt, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Create custom Scan Engine definitions

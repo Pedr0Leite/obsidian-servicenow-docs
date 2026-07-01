@@ -1,6 +1,8 @@
 ---
 aliases:
   - "AI Search Synonyms"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-search
   - synonyms

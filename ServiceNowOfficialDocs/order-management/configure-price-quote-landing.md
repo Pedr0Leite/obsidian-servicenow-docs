@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-05-08"
 reading_time_minutes: 1
 breadcrumb: [Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Configure, price, quote

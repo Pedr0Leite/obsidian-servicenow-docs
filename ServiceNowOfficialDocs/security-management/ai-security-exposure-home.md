@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-04"
 reading_time_minutes: 3
 breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Viewing AI Exposures

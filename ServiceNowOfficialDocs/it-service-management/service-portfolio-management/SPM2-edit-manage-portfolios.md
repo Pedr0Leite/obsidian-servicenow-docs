@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-concept
 ---
 
 # Edit and manage service portfolios in Service Portfolio Management

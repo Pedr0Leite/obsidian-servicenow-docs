@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Custom licensing for ISV applications, Application sharing, Administer your apps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Create a definition for your store application

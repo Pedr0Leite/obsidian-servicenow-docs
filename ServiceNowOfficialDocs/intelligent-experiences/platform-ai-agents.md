@@ -9,6 +9,9 @@ last_updated: "2026-04-06"
 reading_time_minutes: 1
 keywords: [AI agents]
 breadcrumb: [Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Platform AI agents

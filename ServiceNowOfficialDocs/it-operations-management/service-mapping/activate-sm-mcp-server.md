@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 3
 keywords: [MCP Server, Service Mapping, activate, OAuth, MCP Server Console, Machine Identity Console]
 breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-task
 ---
 
 # Activate the Now Assist CMDB MCP Server for Service Mapping tools

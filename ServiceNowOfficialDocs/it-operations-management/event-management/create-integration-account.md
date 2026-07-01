@@ -11,6 +11,13 @@ last_updated: "2024-12-19"
 reading_time_minutes: 1
 keywords: [integration account, Event Management, evt\_mgmt\_integration, third-party monitoring, ITOM, AIOps, user account, authentication]
 breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-task
 ---
 
 # Create integration account

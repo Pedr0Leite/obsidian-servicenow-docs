@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Soft PIN Authentication, ServiceNow, low-risk scenarios, self-service features, security risks]
 breadcrumb: [Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # Soft PIN authentication

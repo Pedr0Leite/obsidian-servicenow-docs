@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ServiceNow – Service Portal"
+area: "Vault Root"
+source: notion-export
 tags:
   - service-portal
   - widgets
@@ -60,6 +62,9 @@ https://serviceportal.io/communicating-between-the-client-script-and-the-server-
 [Search Sources](Service%20Portal/Search%20Sources%2031bc42ce9a56803f8627fe7dae5ed7f6.md)
 
 ## Related
+- [[$uibModal's open function]]
+- [[Broadcast && emit && on]]
+- [[Using the Link Function in Service Portal Widgets]]
 
 - [[Angular provider]]
 - [[Portal Methods]]

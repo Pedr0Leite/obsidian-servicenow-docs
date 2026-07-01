@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Achievements and Credentials in Talent Development Core, Administer and maintain the Talent Development Core app, Talent Development Core, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - talent
+  - skills
+  - development
+  - hr
+  - type-task
 ---
 
 # View achievement credential templates

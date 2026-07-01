@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage Impact Delivery Instance users, Configure the Impact Delivery Instance, Impact Delivery Instance reference, Impact reference, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Edit a role for an Impact user in the Impact Delivery Instance

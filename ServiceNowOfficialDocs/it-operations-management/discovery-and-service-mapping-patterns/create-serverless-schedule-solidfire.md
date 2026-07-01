@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-31"
 reading_time_minutes: 2
 breadcrumb: [NetApp SolidFire storage system, Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Create a serverless discovery schedule for NetApp SolidFire discovery

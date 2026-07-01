@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 5
 breadcrumb: [Find ServiceNow developer products quickly, Learning about developing on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # What ServiceNow product solves your problem

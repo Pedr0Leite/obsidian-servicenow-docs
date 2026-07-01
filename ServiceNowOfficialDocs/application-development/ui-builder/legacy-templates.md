@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Create a page in UI Builder, Manage UI Builder pages and page variants, Working in UI Builder, UI Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - ui-builder
+  - uib
+  - portals
+  - workspaces
+  - type-task
 ---
 
 # Create a page from a legacy template

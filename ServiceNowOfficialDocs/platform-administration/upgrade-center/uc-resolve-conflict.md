@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Scheduling and monitoring an upgrade, Using Upgrade Center, Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - upgrades
+  - upgrade-center
+  - versions
+  - type-task
 ---
 
 # Resolve conflicts for an individual record

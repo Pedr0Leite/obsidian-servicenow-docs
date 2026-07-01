@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Incremental offline caching, Configure offline cache to devices, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # General guidelines for incremental ofﬂine caching

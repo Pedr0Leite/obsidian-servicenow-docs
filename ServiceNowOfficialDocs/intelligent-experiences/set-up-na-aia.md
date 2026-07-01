@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-02-06"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Set up Now Assist AI agents

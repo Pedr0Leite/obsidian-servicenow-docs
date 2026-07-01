@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [Enterprise Asset Management data model, Explore, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Model types in Enterprise Asset Management

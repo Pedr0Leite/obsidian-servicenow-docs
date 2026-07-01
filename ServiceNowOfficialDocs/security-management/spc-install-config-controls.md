@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Policies for Exploit Protection \(EDR\), Use mitigation controls, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Install and configure the CrowdStrike integrations for mitigation controls monitoring

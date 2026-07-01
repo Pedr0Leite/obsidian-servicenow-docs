@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Getting started: Create your first application in the ServiceNow IDE, Explore, ServiceNow IDE, Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - ide
+  - vs-code
+  - plugin
+  - developer-tools
+  - type-reference
 ---
 
 # Tutorial part 6: Learn more about the ServiceNow IDE

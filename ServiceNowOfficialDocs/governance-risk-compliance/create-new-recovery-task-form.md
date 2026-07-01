@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-29"
 reading_time_minutes: 7
 breadcrumb: [Add recovery tasks, Structured workflows for BCPs, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Create New Recovery task form

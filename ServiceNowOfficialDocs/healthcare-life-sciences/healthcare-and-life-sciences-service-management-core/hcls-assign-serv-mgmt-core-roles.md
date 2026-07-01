@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 3
 breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-task
 ---
 
 # Assign roles for Healthcare and Life Sciences Service Management Core users

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a workflow stage field, Workflow stages, Workflow management, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - legacy-workflow
+  - classic
+  - deprecated
+  - type-task
 ---
 
 # Select a stage field

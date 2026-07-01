@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 3
 keywords: [SB 53, Transparency in Frontier Artificial Intelligence Act, California AI Act, activate framework, citations, control objectives, risk statements]
 breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Activate or update the Transparency in Frontier Artificial Intelligence Act \(SB 53\)

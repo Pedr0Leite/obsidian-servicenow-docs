@@ -11,6 +11,13 @@ last_updated: "2026-05-19"
 reading_time_minutes: 4
 keywords: [Own paper amendment request, third-party amendment request, Amendment request]
 breadcrumb: [Contract amendments, Use, Contract Management Pro for Legal Service Delivery, Integration with ServiceNow applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - lsd
+  - legal
+  - service-delivery
+  - cases
+  - type-task
 ---
 
 # Submit amendment request

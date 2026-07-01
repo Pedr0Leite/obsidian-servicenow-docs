@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Gen AI, Generative AI, Virtual Agent, AI Search, Configuring Now Assist, Now LLM, large language model, Knowledge content recommendation, Context menu]
 breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Knowledge content recommendation

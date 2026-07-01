@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Release notes for upgrading from Zurich, Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-concept
 ---
 
 # Release notes summaries for Australia features

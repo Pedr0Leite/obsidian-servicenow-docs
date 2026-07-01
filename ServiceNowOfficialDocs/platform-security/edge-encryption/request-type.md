@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Define a custom encryption rule, Configuring Edge Encryption, Edge Encryption, Encryption]
+tags:
+  - platform-security
+  - edge-encryption
+  - field-level
+  - proxy
+  - security
+  - type-task
 ---
 
 # Inspect the client request

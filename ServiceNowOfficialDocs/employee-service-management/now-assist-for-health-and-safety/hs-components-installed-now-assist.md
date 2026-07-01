@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Reference, Now Assist for Health and Safety, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - health-safety
+  - generative
+  - type-reference
 ---
 
 # Components installed with Now Assist for Health and Safety

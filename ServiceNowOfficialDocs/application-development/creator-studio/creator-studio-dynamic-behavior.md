@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Forms in apps, Build apps, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-task
 ---
 
 # Make a form change based on responses in Creator Studio

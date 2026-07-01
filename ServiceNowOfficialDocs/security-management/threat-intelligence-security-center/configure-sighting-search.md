@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-22"
 reading_time_minutes: 2
 breadcrumb: [TISC Enrichment integrations, TISC Integrations, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Configure Sighting Search

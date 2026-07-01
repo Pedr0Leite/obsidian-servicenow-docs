@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Purchasing and sourcing workflows, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # End-to-end sourcing workflow in Source-to-Pay Operations

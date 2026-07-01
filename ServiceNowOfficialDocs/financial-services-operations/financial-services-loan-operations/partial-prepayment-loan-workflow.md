@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Partial loan prepayment]
 breadcrumb: [Loan Operations workflows, Use, Loan Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - loans
+  - servicing
+  - fso
+  - banking
+  - type-concept
 ---
 
 # Partial Prepayment loan workflow

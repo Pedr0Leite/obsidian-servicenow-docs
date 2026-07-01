@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Domain separation, Configure advanced features, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-concept
 ---
 
 # Approaches to Performance Analytics with domain separation

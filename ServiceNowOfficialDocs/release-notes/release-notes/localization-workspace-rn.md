@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-05-18"
 reading_time_minutes: 3
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Localization Workspace release notes

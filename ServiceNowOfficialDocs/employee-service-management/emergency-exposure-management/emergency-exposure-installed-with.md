@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Install Emergency Exposure Management, Emergency Exposure Management, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - exposure
+  - health-safety
+  - tracking
+  - type-reference
 ---
 
 # Components installed with Emergency Exposure Management

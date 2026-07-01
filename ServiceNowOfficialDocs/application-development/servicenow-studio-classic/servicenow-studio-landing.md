@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-reference
 ---
 
 # ServiceNow Studio

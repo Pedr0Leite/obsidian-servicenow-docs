@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Service account, private key, Google Dialogflow ES, NLU, Virtual Agent]
 breadcrumb: [Configure Google Dialogflow ES as the NLU provider for Virtual Agent, Configure NLU in Virtual Agent, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Create a service account and private key in Google Dialogflow ES

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [High-level planning configuration in Strategic Planning, Configure, Portfolio Planning in Strategic Planning Workspace, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - scenario-planning
+  - spw
+  - strategy
+  - itbm
+  - type-task
 ---
 
 # Create rank configuration for high-level planning

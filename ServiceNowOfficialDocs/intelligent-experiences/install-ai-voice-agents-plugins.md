@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-12-05"
 reading_time_minutes: 1
 breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Install Now Assist AI voice agents

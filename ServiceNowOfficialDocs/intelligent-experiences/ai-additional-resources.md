@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Additional resources, AI features, AI products, resource type, solutions, Now Assist, GenAI, Generative AI]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Additional resources for AI products and solutions

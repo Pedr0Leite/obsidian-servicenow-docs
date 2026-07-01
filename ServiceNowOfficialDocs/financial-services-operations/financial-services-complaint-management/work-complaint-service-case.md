@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Complaint Management, Common applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - complaints
+  - fso
+  - regulatory
+  - banking
+  - type-task
 ---
 
 # Work on a complaint case

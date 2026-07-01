@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-27"
 reading_time_minutes: 10
 breadcrumb: [Design defined-path desktop actions, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Extend a desktop action by manually capturing steps in AI Desktop Actions

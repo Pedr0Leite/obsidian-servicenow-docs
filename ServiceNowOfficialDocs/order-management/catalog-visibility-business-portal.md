@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Business Portal, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Configuring product catalog visibility on the Business Portal

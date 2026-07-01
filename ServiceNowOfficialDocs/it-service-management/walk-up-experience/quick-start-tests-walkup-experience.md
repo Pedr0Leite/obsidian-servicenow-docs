@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Walk-up Experience reference, Walk-up Experience, IT Service Management]
+tags:
+  - it-service-management
+  - walk-up
+  - kiosk
+  - support
+  - itsm
+  - type-reference
 ---
 
 # Quick start tests for Walk-up Experience

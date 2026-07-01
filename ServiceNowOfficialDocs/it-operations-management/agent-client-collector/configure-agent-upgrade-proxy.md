@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 2
 keywords: [ACC upgrade proxy, Package Download Proxies, CDN proxy]
 breadcrumb: [Agent Client Collector upgrade overview, ACC deployment - servers, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Configure a download proxy for Agent Client Collector upgrades

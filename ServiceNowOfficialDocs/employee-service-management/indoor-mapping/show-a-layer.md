@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure CAD objects using the CAD Editor tab, Autocad import tool, Manage CAD source files, Indoor Mapping, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - indoor-mapping
+  - workplace
+  - floor-plans
+  - space
+  - type-task
 ---
 
 # Hide or show a layer in the CAD editor

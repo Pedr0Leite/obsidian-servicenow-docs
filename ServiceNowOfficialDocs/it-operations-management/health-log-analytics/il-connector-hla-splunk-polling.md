@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [Splunk Polling, data input, integration, configuration, ServiceNow, Health Log Analytics, HLA]
 breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Set up a Splunk Poller integration for Health Log Analytics

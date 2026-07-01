@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Legacy Application Manager, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # Accessing unpurchased recommended apps on ServiceNow Store

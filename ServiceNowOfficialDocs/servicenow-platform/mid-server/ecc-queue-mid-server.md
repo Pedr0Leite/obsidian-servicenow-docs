@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 11
 keywords: [ECC queue, MID Server security, security considerations]
 breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-concept
 ---
 
 # MID Server ECC Queue

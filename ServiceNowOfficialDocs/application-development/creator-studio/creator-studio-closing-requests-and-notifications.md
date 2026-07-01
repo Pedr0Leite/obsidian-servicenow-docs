@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [What happens after I build an app?, Build apps, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-concept
 ---
 
 # Closing requests and app notifications in Creator Studio

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 5
 breadcrumb: [Work on a legal matter, Use, Legal Matter Management, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - matters
+  - budget
+  - management
+  - type-task
 ---
 
 # Initiate an ad hoc approval for a legal matter or its artifact

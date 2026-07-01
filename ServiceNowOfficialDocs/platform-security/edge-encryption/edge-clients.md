@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
+tags:
+  - platform-security
+  - edge-encryption
+  - field-level
+  - proxy
+  - security
+  - type-reference
 ---
 
 # Edge Encryption clients

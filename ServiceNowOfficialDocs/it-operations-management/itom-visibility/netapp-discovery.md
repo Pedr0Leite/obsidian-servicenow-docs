@@ -11,6 +11,13 @@ last_updated: "2026-03-24"
 reading_time_minutes: 13
 keywords: [NetApp, Server, Cluster, Patterns]
 breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-concept
 ---
 
 # NetApp Server and Cluster discovery

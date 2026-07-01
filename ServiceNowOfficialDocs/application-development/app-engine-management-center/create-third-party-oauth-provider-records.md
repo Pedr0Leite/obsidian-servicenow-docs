@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure OAuth credentials, Configure environment credentials, Configuration tasks, Configure Pipelines and Deployments, Configure, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-task
 ---
 
 # Create third-party OAuth provider records

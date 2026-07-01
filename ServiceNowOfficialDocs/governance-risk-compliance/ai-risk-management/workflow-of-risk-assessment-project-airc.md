@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [risk assessment project workflow, define risk scoping, approve bulk assessment]
 breadcrumb: [Risk assessment project, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # Workflow of risk assessment project in AI Risk and Compliance

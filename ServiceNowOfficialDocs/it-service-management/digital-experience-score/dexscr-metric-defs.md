@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - des
+  - digital-experience
+  - score
+  - itsm
+  - type-reference
 ---
 
 # DEX Score metric definitions

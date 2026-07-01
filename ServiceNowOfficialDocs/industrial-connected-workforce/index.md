@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: icw
 doc_type: toc
+tags:
+  - industrial-connected-workforce
 ---
 
 # Australia Industrial Connected Workforce

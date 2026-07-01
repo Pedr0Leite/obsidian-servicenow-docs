@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Using the business \(agency\) location service portal, Use the business location service portal]
 breadcrumb: [Portals, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Using the Business Location Service Portal in Public Sector Digital Services

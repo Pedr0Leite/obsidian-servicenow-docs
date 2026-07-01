@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Virtual Agent, Slack, Conversational Integration, bot, configure, promoted, topics, Conversational Interfaces, Custom greetings]
 breadcrumb: [Configure VA settings for Slack, Conversational Integration with Slack, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Configure promoted topics for Conversational Integration with Slack

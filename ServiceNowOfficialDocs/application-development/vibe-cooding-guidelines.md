@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [agentic development, prompt writing, context management, compliance validation, development environment, build agent, developer sandboxes, iterative development, vault console]
 breadcrumb: [Explore, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # General guidelines for agentic development

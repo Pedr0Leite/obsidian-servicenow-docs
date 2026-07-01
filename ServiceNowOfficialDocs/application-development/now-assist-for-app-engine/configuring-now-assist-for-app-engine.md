@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for App Engine, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - code-generation
+  - app-engine
+  - type-concept
 ---
 
 # Configuring Now Assist for App Engine

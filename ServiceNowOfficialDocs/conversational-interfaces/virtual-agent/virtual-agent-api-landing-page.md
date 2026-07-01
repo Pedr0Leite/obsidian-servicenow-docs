@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-12-16"
 reading_time_minutes: 1
 breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Virtual Agent API

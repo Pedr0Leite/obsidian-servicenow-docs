@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure the appearance of map n Dispatcher Workspace, Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-task
 ---
 
 # Change the assigned graphics of map pins on the map in Dispatcher Workspace

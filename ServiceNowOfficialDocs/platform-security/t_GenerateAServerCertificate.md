@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Generating an LDAP client certificate, Certificates, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Generating a server certificate

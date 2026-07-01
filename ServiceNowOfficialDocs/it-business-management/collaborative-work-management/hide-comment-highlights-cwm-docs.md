@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 1
 keywords: [CWM, collaborative work management, docs, comments, hide, highlights, view]
 breadcrumb: [Collaborate with Docs, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Hide or show comment highlights in Docs

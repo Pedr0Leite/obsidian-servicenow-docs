@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Remote Hands Request, Use, Telecommunications Network Inventory]
+tags:
+  - telecom-network-inventory
+  - network-inventory
+  - telecom
+  - resources
+  - tni
+  - type-task
 ---
 
 # Update a Remote Hands Request

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Defaults required for FX Currency use, Configure, Currency administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - currency
+  - exchange-rates
+  - localization
+  - type-task
 ---
 
 # Add conversion rates using a custom rate table

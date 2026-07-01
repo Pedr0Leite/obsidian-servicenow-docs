@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [VMware virtualization, VMware infrastructure, VMware Discovery]
 breadcrumb: [Discovery for data-center virtualization, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Discovery for VMware virtualization

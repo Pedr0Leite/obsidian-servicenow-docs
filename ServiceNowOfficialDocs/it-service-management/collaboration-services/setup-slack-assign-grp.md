@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up slack for a user or group, Slack integration - Incident Management, Collaboration services, IT Service Management]
+tags:
+  - it-service-management
+  - collaboration
+  - messaging
+  - itsm
+  - type-task
 ---
 
 # Associate existing slack channel with a group

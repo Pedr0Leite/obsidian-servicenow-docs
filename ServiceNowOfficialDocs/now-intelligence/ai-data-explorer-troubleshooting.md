@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 2
 keywords: [troubleshooting, Query Generation logs, AI Data Explorer, semantic layer]
 breadcrumb: [Configure, AI Data Explorer, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Common AI Data Explorer issues and fixes

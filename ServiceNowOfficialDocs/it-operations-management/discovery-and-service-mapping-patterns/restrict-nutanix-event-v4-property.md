@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-18"
 reading_time_minutes: 2
 breadcrumb: [Nutanix Acropolis, Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Restrict Nutanix v4 event discovery to specific Prism Centrals

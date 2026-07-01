@@ -11,6 +11,13 @@ last_updated: "2026-05-19"
 reading_time_minutes: 1
 keywords: [functional location, vertical navigation, worker profile, entitlement]
 breadcrumb: [Functional location vertical navigation, Operational Equipment Model, Industrial Data Models, Use, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-task
 ---
 
 # Open a different functional location

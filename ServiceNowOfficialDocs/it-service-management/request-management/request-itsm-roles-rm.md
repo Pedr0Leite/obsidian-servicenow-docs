@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, Request Management, IT Service Management]
+tags:
+  - it-service-management
+  - requests
+  - catalog
+  - fulfillment
+  - itsm
+  - type-task
 ---
 
 # Request ITSM Roles - Request Management

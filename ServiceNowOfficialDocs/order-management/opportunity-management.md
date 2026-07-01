@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-10"
 reading_time_minutes: 4
 breadcrumb: [Lead and opportunity management, Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Opportunity Management

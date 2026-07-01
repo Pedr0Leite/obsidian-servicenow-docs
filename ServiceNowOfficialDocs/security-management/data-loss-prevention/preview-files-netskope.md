@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Netskope Analyst Workspace]
 breadcrumb: [Data Loss Prevention Incident Response Integration with Netskope, Integrate, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-task
 ---
 
 # Preview evidence files

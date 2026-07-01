@@ -7,6 +7,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-concept
 ---
 
 # Operational Sustainability Management \(formerly Environmental, Social, and Governance\)

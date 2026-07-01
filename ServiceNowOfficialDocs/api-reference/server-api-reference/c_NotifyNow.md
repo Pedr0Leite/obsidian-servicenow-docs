@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 13
 breadcrumb: [Server API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - glidesystem
+  - gliderecord
+  - server-side
+  - glide
+  - type-concept
 ---
 
 # NotifyNow \(Legacy\)- Global

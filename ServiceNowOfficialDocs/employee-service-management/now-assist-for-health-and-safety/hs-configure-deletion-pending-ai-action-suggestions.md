@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-02"
 reading_time_minutes: 2
 breadcrumb: [Configure, Now Assist for Health and Safety, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - health-safety
+  - generative
+  - type-task
 ---
 
 # Configure retention period and cleanup of pending AI action suggestions

@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 3
 keywords: [DORA, supply chain, ICT services, digital resilience, LEI, Register of Information]
 breadcrumb: [Use digital resilience third-party registers, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Create a supply chain and enhance digital resilience data

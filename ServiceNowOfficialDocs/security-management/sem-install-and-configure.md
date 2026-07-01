@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-28"
 reading_time_minutes: 3
 breadcrumb: [Installing Security Exposure Management Workspace applications, Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Install Unified Security Exposure Management

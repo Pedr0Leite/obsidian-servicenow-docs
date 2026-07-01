@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Reviewer Service Portal, Portals, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Review and score a grant proposal using the Reviewer Service Portal

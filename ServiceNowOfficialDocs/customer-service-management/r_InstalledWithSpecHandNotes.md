@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Components installed with additional plugins for Customer Service Management, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Components installed with Special Handling Notes

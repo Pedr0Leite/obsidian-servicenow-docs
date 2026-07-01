@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Exploring Innovation Management, Innovation Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - innovation
+  - ideas
+  - evaluation
+  - itbm
+  - type-concept
 ---
 
 # Predictive Intelligence for Innovation Management

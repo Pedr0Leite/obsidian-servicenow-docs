@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Impact reference, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Proactive Code Check for the Impact Store Application

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 2
 breadcrumb: [Risk Management implementation, Configure, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Setup checklist for GRC Advanced Risk

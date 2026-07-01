@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 7
 breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-concept
 ---
 
 # Oracle GoldenGate discovery

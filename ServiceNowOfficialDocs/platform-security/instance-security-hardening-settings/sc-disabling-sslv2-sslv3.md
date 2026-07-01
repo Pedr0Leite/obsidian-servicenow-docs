@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-13"
 reading_time_minutes: 1
 breadcrumb: [Communications, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Disable outbound SSLv2/SSLv3 connections

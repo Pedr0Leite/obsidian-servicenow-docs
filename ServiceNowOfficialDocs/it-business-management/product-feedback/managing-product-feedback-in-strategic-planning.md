@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Feedback application in Strategic Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - feedback
+  - product
+  - management
+  - itbm
+  - type-concept
 ---
 
 # Managing Feedback application in Strategic Planning

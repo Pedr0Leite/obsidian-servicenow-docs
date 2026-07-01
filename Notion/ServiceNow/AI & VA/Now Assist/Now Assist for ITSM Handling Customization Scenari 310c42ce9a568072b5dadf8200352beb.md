@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist for ITSM Handling Customization Scenari"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - genai
@@ -178,6 +180,9 @@ Now Assist Resolve UI Action should now be separate between the roles in SO
     - Known Error with Workaround: [KB1642531](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1642531)
 
 ## Related
+- [[Introducing Custom Record Summarization Now Assist]]
+- [[GenAI]]
+- [[Now Assist in AI Search]]
 
 - [[Now Assist]]
 - [[Now Assist for CSM - Resolution Notes Generation]]

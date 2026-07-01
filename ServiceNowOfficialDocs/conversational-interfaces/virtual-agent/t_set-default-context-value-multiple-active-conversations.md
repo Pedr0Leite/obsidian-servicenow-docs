@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Default, context, Multiple active conversations, Virtual Agent, Agent Chat, portal]
 breadcrumb: [Using multiple active conversations in Virtual Agent, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Set a default NLU context value for multiple active conversations

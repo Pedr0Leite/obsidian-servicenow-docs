@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - proactive
+  - engagement
+  - alerts
+  - itsm
+  - type-reference
 ---
 
 # Proactive Engagement use cases

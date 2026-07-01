@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-01-06"
 reading_time_minutes: 1
 breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure bot ID and AI assistant

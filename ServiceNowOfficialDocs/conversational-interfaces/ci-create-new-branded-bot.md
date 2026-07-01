@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Virtual Agent, branded, bot, avatar, Live Profile, live\_profile]
 breadcrumb: [Branding your chat client, General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Create a new user for a branded bot

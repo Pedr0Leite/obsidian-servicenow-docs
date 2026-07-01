@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage GRC tasks from Employee Center, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-concept
 ---
 
 # Policy knowledge base and quick links in the Employee Center portal

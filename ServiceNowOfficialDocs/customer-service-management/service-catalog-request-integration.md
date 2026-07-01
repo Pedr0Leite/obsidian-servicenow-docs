@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Integrate with Request Management, Overview, Integrate with IT Service Management, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Service catalog integration with the Customer and Consumer Service Portals

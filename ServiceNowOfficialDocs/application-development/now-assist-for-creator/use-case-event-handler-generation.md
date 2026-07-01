@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Use case, Use, UI generation, Use generative AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-concept
 ---
 
 # Use case: Configure an event handler with Now Assist

@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, generative AI, Virtual Agent]
 breadcrumb: [Now Assist in Virtual Agent, Exploring Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Mobile Now Assist display experience for Virtual Agent

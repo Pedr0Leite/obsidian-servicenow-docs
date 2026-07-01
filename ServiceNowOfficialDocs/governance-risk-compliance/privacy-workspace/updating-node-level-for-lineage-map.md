@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-24"
 reading_time_minutes: 1
 breadcrumb: [Create a lineage for a processing activity, Use, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Update the maximum node level for the lineage map

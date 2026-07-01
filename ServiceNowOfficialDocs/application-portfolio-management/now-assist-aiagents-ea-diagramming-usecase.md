@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Using AI agent agentic workflow in Now Assist for Enterprise Architecture \(EA\), Now Assist for Enterprise Architecture \(EA\), Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow

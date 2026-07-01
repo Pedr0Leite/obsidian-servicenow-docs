@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-01-30"
 reading_time_minutes: 1
 breadcrumb: [Configure trigger conditions for an assessment, Assessment administrator tasks, Using assessments, Assessments, Assessments and Surveys, Exploring Service Administration, Service Administration, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-reference
 ---
 
 # Assessment trigger conditions

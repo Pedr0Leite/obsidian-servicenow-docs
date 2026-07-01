@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Administer Customer Contracts and Entitlements, Administer, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Add related lists to sold products and install base items

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-03"
 reading_time_minutes: 1
 breadcrumb: [VMware NSX-T cluster, Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Create an applicative credential alias for NSX-T cluster discovery

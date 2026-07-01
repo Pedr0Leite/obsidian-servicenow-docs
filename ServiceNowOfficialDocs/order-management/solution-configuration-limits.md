@@ -9,6 +9,12 @@ last_updated: "2026-03-26"
 reading_time_minutes: 1
 keywords: [solution configuration limits, hierarchy depth, maximum configurations, field mapping constraints]
 breadcrumb: [CPQ, Configure, price, quote, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Solution configuration limits

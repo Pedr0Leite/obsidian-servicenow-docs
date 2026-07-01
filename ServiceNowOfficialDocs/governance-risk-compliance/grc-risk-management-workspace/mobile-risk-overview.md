@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-30"
 reading_time_minutes: 3
 breadcrumb: [Use, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # Mobile experience for GRC Risk Management

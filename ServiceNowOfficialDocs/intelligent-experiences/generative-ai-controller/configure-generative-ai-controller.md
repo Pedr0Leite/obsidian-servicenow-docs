@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Generative AI Controller, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - generative-ai
+  - controller
+  - llm
+  - prompts
+  - type-concept
 ---
 
 # Configuring Generative AI Controller

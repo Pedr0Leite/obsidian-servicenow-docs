@@ -11,6 +11,13 @@ last_updated: "2025-01-30"
 reading_time_minutes: 1
 keywords: [ringtone]
 breadcrumb: [Enable Override do not disturb to receive critical alerts, Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-task
 ---
 
 # Configure a ringtone for critical alerts

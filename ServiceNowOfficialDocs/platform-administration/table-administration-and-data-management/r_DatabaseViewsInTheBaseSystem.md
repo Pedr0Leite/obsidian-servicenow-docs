@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work with database views, Table admin, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-reference
 ---
 
 # Database views in the base system

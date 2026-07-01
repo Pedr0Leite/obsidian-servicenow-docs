@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [create boxplot visualization, create box report]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a box plot data visualization

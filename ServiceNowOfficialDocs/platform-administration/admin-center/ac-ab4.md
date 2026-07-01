@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Select your adoption blueprint, Adoption blueprints, Discovering adoption blueprints, Admin Center, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - admin-center
+  - instance-health
+  - administration
+  - type-reference
 ---
 
 # Reduce incidents and keep services flowing with AI based automation blueprint

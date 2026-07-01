@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI, gen AI, genai, artificial intelligence]
 breadcrumb: [Explore, Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-concept
 ---
 
 # Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)

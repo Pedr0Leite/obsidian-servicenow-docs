@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ChatGPT Sample Questions"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -323,6 +325,9 @@ For brevity, I’ll summarize the other sections:
     - What’s the role of CI/CD pipelines in ServiceNow deployments?
 
 ## Related
+- [[Real questions]]
+- [[TO REVIEW FOR EXAM]]
+- [[Exam]]
 - [[CTA Exam Scope]]
 - [[Sample questions]]
 - [[CMDB and CSDM]]

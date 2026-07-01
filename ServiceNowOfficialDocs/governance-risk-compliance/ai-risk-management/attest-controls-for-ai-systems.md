@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 1
 keywords: [control attestation, AI asset, attest controls, governance controls, AI Risk and Compliance, build and test, control compliance]
 breadcrumb: [Manage controls, Use, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Create control attestations for an AI asset

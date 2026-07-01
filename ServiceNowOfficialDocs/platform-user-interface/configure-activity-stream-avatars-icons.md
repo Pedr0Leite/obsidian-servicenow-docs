@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-task
 ---
 
 # Configure avatars for Activity stream tiles

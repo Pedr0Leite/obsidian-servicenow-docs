@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 3
 breadcrumb: [Work on an invoice exception, Invoice exceptions, Using Accounts Payable Invoice Processing, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Resolve unverified sender source exception

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-concept
 ---
 
 # SPM custom tables

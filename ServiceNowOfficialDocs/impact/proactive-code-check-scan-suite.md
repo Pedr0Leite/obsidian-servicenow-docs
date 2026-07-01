@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 15
 breadcrumb: [Proactive Code Check, Impact reference, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Proactive Code Check scan suite matrix for the Impact Store Application

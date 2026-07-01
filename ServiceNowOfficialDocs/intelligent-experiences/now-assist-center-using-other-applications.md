@@ -9,6 +9,9 @@ last_updated: "2026-03-13"
 reading_time_minutes: 4
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Use, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Using other Now Assist applications and features from Now Assist Center

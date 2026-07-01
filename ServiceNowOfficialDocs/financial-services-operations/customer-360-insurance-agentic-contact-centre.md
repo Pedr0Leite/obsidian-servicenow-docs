@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 3
 keywords: [customer 360, customer profile, insurance summary, policy details, insurance transaction history, insurance policies, ai-generated customer summary, total policies, total cover, view all insurance, view customer cases]
 breadcrumb: [Exploring Agentic Contact Center for Insurance, Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Customer 360 page for Agentic Contact Center for Insurance

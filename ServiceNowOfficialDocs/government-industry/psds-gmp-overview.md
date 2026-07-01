@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Portals, Explore, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Grants Management Portal

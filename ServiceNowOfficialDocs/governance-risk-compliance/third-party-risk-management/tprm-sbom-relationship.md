@@ -11,6 +11,13 @@ last_updated: "2026-05-01"
 reading_time_minutes: 4
 keywords: [SBOM, software bill of materials, BOM entity, BOM components, data model]
 breadcrumb: [Third-party risk management data model, Reference, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-reference
 ---
 
 # SBOM records and relationships in Third-party Risk Management

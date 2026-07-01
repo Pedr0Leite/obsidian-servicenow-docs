@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up Virtual Agent conversations, Setting up Field Service Mobile Agent, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - mobile
+  - technicians
+  - fsm
+  - offline
+  - type-task
 ---
 
 # Activate required Virtual Agent conversation topics for Field Service Management

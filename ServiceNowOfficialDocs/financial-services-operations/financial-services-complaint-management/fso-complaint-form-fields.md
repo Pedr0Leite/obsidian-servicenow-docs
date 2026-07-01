@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work on a complaint case, Use, Complaint Management, Common applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - complaints
+  - fso
+  - regulatory
+  - banking
+  - type-reference
 ---
 
 # Field descriptions for a complaint case

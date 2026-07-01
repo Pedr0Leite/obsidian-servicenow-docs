@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using External Legal Service Center, External Legal Service Center, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - portal
+  - external
+  - counsel
+  - type-task
 ---
 
 # Register with External Legal Service Center

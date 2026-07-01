@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Extend SLA condition rules, Configuring Service Level Management, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-task
 ---
 
 # Invoke SLA condition rules on a specific SLA definition

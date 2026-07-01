@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Topics for Pre-study"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -110,6 +112,9 @@ A type of question might be “Ok, we don’t have money for the Module X (or fo
 [Data Structures](Topics%20for%20Pre-study/Data%20Structures%20197c42ce9a5680c6a8c9f9d7cf91f688.md)
 
 ## Related
+- [[Example 1]]
+- [[Real questions]]
+- [[TO REVIEW FOR EXAM]]
 - [[Scoped Applications]]
 - [[Customer Service Management (CSM)]]
 - [[Field Service Management]]

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Creating models, Model management, Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-task
 ---
 
 # Create an NLU model using a pre-built model

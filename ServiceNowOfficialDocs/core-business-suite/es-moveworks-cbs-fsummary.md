@@ -9,6 +9,12 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [Employee Slate, Moveworks, Configuration Summary, navigation, branding, conversational assistant, canvas, Core Business Suite]
 breadcrumb: [Reference, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-reference
 ---
 
 # Employee Slate for Moveworks configuration menu

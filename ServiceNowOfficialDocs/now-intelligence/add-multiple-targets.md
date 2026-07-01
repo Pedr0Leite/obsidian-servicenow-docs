@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 5
 breadcrumb: [Targets and thresholds, KPI Details, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Add a target to multiple breakdown elements in KPI Details

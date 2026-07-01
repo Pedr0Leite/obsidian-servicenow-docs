@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-12"
 reading_time_minutes: 55
 breadcrumb: [Release notes summaries for Australia features, Release notes for upgrading from Zurich, Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Activation information for all Australia features and products

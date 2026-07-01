@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Performance Analytics widgets, add Performance Analytics widgets, reports, add reports to dashboard, add a report to dashboard, add CMDB widgets to dashboards, CMDB widgets, risk assessment heatmaps, add risk assessment heatmaps to dashboards, Top Searches widgets, text search widgets, add Top Searches, delete a widget personal dashboard, edit a dashboard, add an interactive filter to a dashboard, remove a widget from a dashboard]
 breadcrumb: [Create and use dashboards, Responsive dashboards in the Core UI, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Edit a responsive dashboard

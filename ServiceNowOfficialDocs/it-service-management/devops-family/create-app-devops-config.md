@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-task
 ---
 
 # Create an application in DevOps Config

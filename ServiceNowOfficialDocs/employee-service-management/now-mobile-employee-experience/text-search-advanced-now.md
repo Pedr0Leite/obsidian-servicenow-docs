@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring Now Mobile, Now Mobile app, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - mobile
+  - employee-experience
+  - now-mobile
+  - self-service
+  - type-concept
 ---
 
 # AI Search in mobile

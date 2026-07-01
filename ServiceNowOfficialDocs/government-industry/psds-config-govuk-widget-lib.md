@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 7
 breadcrumb: [GOV.UK Developer Toolkit reference, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # GOV.UK Developer Toolkit GDS Service Portal Widget Library

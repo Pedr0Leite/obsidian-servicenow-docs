@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Download an application from the ServiceNow Store for the first time, Security Operations and the ServiceNow Store, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Get entitlement for a Security Operations product or application

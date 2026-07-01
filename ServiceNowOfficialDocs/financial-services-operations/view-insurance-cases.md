@@ -9,6 +9,9 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [view insurance cases, insurance customer 360 claims tab, insurance customer 360 servicing tab, insurance customer 360 filter cases, insurance customer 360 sort cases, insurance customer 360 open case record, insurance customer 360 case number, insurance customer 360 account activity, customer 360 page]
 breadcrumb: [Using Agentic Contact Center for Insurance, Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # View insurance cases in Agentic Contact Center for Insurance

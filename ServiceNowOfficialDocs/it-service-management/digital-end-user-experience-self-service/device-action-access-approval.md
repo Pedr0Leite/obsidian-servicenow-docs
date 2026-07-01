@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [Device actions, Configure, Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-concept
 ---
 
 # Device action access and approval control

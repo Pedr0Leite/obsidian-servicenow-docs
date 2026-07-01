@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Troubleshooting issues of Jira integration with Agile Development 2.0, Atlassian Jira Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - jira
+  - integration
+  - atlassian
+  - itbm
+  - type-task
 ---
 
 # Define batch size for Jira project metadata

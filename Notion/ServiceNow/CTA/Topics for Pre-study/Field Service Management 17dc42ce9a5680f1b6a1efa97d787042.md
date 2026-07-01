@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Field Service Management"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -189,6 +191,9 @@ tags:
 •	Test
 
 ## Related
+- [[Roles and FAQ]]
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
 - [[Topics for Pre-study]]
 - [[Customer Service Management (CSM)]]
 - [[ITSM]]

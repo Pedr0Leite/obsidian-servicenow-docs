@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Configure, Case, incident, record, summarization, Now Assist, guided setup, admin console, gen AI, generative AI]
 breadcrumb: [Make a copy of a Now Assist skill, Using Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Configure case or incident summarization in the Now Assist Admin console

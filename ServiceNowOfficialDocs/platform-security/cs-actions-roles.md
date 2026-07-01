@@ -9,6 +9,9 @@ last_updated: "2026-05-19"
 reading_time_minutes: 3
 keywords: [code signing, roles, permissions, actions, reference]
 breadcrumb: [Administer and Troubleshoot, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Code Signing actions and required roles

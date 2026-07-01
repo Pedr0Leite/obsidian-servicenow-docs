@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [ACL debugging tools, Advanced ACL configuration, Access Control List Rules, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-reference
 ---
 
 # ACL troubleshooting reference

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - awa
+  - routing
+  - queues
+  - agents
+  - type-task
 ---
 
 # Configure External Routing events and payload

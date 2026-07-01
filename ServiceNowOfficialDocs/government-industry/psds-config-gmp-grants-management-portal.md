@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Set up self-service, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure the Grants Management Portal

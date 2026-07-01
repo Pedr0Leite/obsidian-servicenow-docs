@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Journey designer dashboards and reports, Use, Journey designer, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-designer
+  - custom
+  - milestones
+  - workflow
+  - type-task
 ---
 
 # Create and manage Journey designer dashboards

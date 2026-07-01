@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using, Proactive Engagement, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - proactive
+  - engagement
+  - alerts
+  - itsm
+  - type-concept
 ---
 
 # Metric rule triggering Proactive Engagement through alerts

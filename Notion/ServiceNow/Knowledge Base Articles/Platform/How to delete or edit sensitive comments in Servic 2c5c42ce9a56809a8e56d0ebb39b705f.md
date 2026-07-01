@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to delete or edit sensitive comments in Servic"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - platform
@@ -112,6 +114,9 @@ If you've added a comment in error, contact your ServiceNow administrator with:
 **Related Links**
 
 ## Related
+- [[Guarded Scripts]]
+- [[Knowledge Base Articles – Metrics]]
+- [[Integration Design - How to choose the best patter]]
 
 - [[Platform]]
 - [[Knowledge Base Articles]]

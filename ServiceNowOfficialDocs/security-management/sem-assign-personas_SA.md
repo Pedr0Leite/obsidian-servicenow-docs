@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Security Exposure Management Workspace personas and granular roles, Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Assign the Vulnerability Response persona roles using Setup Assistant

@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 1
 keywords: [ACC upgrade properties, sn\_agent auto\_upgrade, upgrade configuration]
 breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Agent Client Collector upgrade properties

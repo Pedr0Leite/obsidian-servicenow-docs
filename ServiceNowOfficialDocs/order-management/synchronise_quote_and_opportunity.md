@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Opportunity Management, Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Sync quote and opportunity

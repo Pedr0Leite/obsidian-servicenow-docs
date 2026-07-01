@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 keywords: [Reverse Tunnel, private connectivity, private relay, Zero Copy Connectors, Workflow Data Fabric]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Reverse Tunnel release notes

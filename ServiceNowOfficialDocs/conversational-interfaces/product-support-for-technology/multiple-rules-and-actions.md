@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - product-support
+  - it-support
+  - type-concept
 ---
 
 # Multiple Proactive Triggers rules and actions

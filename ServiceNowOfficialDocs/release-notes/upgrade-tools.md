@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-07"
 reading_time_minutes: 2
 breadcrumb: [Prepare your upgrade, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Upgrade tools and resources

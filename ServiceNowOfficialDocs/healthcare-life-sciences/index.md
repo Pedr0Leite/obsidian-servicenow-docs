@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: hcls
 doc_type: toc
+tags:
+  - healthcare-life-sciences
 ---
 
 # Australia Healthcare and Life Sciences

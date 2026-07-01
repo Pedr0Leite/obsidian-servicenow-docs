@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 2
 keywords: [Savings Opportunities, Dismiss, Dismissed reason, sn\_spend\_gen\_ai\_savings\_opportunities]
 breadcrumb: [Action or dismiss an opportunity, Using Spend and Savings Management, Use, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Dismiss a savings opportunity

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Performance Analyzer, Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - performance
+  - profiling
+  - diagnostics
+  - optimization
+  - type-concept
 ---
 
 # Exploring Performance Analyzer

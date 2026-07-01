@@ -9,6 +9,9 @@ last_updated: "2026-04-01"
 reading_time_minutes: 3
 keywords: [explore]
 breadcrumb: [Verifi, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Exploring Financial Services Operations Integration with Verifi application

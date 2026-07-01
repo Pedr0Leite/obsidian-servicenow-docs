@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Dashboards"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - dashboards

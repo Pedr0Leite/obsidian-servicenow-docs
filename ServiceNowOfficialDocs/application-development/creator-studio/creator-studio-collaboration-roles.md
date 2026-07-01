@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [app collaboration, collaboration, delegated development]
 breadcrumb: [Build apps, Creator Studio, Building no-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - creator-studio
+  - ai-generated
+  - low-code
+  - type-reference
 ---
 
 # Collaborating with others to build apps in Creator Studio

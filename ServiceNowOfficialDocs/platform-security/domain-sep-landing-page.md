@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Access Management]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Domain separation for service providers

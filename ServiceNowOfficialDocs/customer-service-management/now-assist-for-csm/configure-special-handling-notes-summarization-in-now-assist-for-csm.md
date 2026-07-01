@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 2
 keywords: [generative AI, generative AI for Customer Service Management, generative AI for customer service agents]
 breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Configure special handling notes summarization in Now Assist for Customer Service Management \(CSM\)

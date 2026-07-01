@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Universal Request for Health and Safety cases, Health and Safety Case Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - cases
+  - investigation
+  - type-concept
 ---
 
 # Manage a Universal Request from the Health and Safety Workspace

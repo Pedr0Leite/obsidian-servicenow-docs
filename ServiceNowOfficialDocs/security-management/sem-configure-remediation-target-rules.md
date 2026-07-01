@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [Remediation target, Recalculate remediation target date]
 breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Configuring remediation target rules

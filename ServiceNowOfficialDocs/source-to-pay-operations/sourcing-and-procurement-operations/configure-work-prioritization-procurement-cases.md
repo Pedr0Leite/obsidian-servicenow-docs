@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 3
 keywords: [configure procurement case priority, priority defaulting for procurement cases, decision table, psd\_admin, procurement case line, modification type, work prioritization, SPO, Procurement Case Management]
 breadcrumb: [Configuring work prioritization, Configure, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Configure work prioritization for procurement cases

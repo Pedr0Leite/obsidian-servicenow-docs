@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 12
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Configure, Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-reference
 ---
 
 # Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Using Predictive Intelligence, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-task
 ---
 
 # Use Predictive Intelligence in Workflow Studio with ML actions

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Available search options, Zing text indexing and search engine, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-concept
 ---
 
 # Wildcard characters allow searching for patterns and variations

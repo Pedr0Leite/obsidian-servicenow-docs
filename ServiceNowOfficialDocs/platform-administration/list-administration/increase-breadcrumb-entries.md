@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Restrict filters and breadcrumbs with fixed queries, Administer, List administration, Forms, fields, and lists, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - lists
+  - columns
+  - views
+  - administration
+  - type-task
 ---
 
 # Increase the allowed number of breadcrumb entries

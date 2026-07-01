@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-05-13"
 reading_time_minutes: 6
 breadcrumb: [Explore, Now Assist for Enterprise Architecture \(EA\), Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Business process map diagrams from images

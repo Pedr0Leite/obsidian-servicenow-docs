@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Reserve workplace items, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-task
 ---
 
 # Reserve a space near your colleague

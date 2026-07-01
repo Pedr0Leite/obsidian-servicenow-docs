@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Virtual, Theme, Builder, Agent, catalogs, branding, web, client]
 breadcrumb: [Using catalogs and autopilot in Virtual Agent, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Set up catalog branding

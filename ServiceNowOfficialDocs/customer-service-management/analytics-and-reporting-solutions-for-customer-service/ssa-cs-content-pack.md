@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Analytics and reporting, Customer Service Management]
+tags:
+  - customer-service-management
+  - csm
+  - analytics
+  - reporting
+  - kpis
+  - type-concept
 ---
 
 # Platform Analytics Solutions for Self-Service Analytics for Customer Service

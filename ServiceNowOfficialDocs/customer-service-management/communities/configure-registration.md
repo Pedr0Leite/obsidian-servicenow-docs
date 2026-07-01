@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring communities, Communities, Customer Service Management]
+tags:
+  - customer-service-management
+  - communities
+  - portal
+  - self-service
+  - forums
+  - type-concept
 ---
 
 # Enable users to self-register to a community

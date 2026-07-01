@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [journal field framework, JFF, journal synchronization, comments work notes, remote task definition]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Journal field frameworks

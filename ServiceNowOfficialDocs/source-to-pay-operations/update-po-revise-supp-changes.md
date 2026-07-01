@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Address exception, Resolve purchase order exception, Update purchase order, Edit order]
 breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-task
 ---
 
 # Update a purchase order to revise supplier suggested changes

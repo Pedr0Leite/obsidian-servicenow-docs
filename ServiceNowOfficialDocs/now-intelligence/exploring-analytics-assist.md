@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Platform Analytics in the Now Assist panel, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Explore generating or exporting dashboards and visualizations in the Now Assist panel

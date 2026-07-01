@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [JSONv2 web service, Inbound, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-concept
 ---
 
 # Requiring basic authentication for incoming JSONv2 requests

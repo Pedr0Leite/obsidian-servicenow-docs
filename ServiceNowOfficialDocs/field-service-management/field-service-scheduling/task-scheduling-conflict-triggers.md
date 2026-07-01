@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-03"
 reading_time_minutes: 1
 breadcrumb: [Task scheduling conflicts, Setting up a Field Service scheduling method, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-task
 ---
 
 # Configure task scheduling conflict triggers

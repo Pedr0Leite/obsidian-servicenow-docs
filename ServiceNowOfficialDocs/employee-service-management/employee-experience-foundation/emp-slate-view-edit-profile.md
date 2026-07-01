@@ -11,6 +11,13 @@ last_updated: "2026-04-02"
 reading_time_minutes: 1
 keywords: [employee profile, edit profile, personal information]
 breadcrumb: [Employee profile, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # View and edit employee profiles

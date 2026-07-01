@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-04-29"
 reading_time_minutes: 1
 breadcrumb: [Project Workspace reference, Project Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-reference
 ---
 
 # Supported columns for project and task generation

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-reference
 ---
 
 # Now Assist for Field Service Management \(FSM\)

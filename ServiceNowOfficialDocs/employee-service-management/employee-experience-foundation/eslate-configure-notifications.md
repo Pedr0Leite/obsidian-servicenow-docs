@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [notifications, notification content, trigger conditions, recipients, Employee Slate, Now Assist]
 breadcrumb: [Notifications, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure notifications for Employee Slate

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Configure Emergency Outreach notifications, Emergency Outreach, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - outreach
+  - notifications
+  - mass-comms
+  - type-task
 ---
 
 # Create an Emergency Outreach notification channel

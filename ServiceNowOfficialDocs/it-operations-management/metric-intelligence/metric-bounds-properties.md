@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Metric Intelligence reference, Metric Intelligence, IT Operations Management]
+tags:
+  - it-operations-management
+  - metrics
+  - anomaly
+  - aiops
+  - monitoring
+  - type-reference
 ---
 
 # Sensitivity bounds properties for Insights Explorer metrics

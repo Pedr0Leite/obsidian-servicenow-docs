@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to configure LDAP"
+area: "Install Stuff"
+source: notion-export
 tags:
   - ldap
   - sso

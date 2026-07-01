@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 2
 keywords: [task plan template, task dependencies, template items, predecessor successor]
 breadcrumb: [Task dependencies for task plan templates, Task Plan Templates, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Add task dependencies between template items

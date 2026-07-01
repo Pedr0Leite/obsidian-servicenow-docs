@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [magic links, authentication, consumer instance, single sign-on]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Magic links

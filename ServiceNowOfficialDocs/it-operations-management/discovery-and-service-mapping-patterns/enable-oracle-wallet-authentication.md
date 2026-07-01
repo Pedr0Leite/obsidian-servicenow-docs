@@ -12,6 +12,13 @@ reading_time_minutes: 2
 keywords: [Oracle Wallet, Oracle discovery, system property, wallet authentication]
 audience: administrator
 breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Enable Oracle Wallet authentication for discovery

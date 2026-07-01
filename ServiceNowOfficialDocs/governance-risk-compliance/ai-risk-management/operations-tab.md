@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 2
 keywords: [Operations tab, AI risk and compliance workspace, dashboard widgets, AI systems by state, risk assessments, control assurance, AI cases]
 breadcrumb: [AI Risk and Compliance workspace, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # Operations tab

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [batch-signature-generator, utility, code-signing]
 breadcrumb: [Utilities Dashboard, Health and Status Dashboard, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Generate batch signatures

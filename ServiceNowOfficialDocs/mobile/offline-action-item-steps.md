@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-01"
 reading_time_minutes: 3
 breadcrumb: [Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Using action items and action item steps in ofﬂine mode

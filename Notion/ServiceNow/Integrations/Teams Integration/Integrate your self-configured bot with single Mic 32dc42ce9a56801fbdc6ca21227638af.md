@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Integrate your self-configured bot with single Mic"
+area: "Integrations"
+source: notion-export
 tags:
   - teams-integration
   - virtual-agent
@@ -83,6 +85,8 @@ D. Demo step-by-step Integration video
 E. Deployment recommendations on Teams App side
 
 ## Related
+- [[UI macro to add “Start Conversation” to field]]
+- [[ServiceNow – Integrations]]
 
 - [[Teams Integration]]
 - [[Conversational integration with Microsoft Teams -]]

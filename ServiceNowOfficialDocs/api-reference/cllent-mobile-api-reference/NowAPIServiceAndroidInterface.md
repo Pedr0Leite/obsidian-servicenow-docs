@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - client-scripts
+  - mobile
+  - glideform
+  - glideuser
+  - type-concept
 ---
 
 # NowAPIService interface- Android

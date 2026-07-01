@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 5
 breadcrumb: [Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Building applications in source code

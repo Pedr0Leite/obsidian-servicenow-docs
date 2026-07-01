@@ -11,6 +11,13 @@ last_updated: "2026-05-29"
 reading_time_minutes: 3
 keywords: [Import tasks, Now Assist, CWM, bulk import]
 breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-concept
 ---
 
 # Task import into CWM Boards using Now Assist

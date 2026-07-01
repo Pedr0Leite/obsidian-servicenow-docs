@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ServiceNow – Service Catalog"
+area: "Vault Root"
+source: notion-export
 tags:
   - service-catalog
   - catalog-client-script

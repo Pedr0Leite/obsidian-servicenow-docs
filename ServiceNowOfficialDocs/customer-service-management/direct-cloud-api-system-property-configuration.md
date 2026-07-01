@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrating WhatsApp with Customer Service Management using the WhatsApp Cloud API, Integrating with consumer messaging apps, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # System properties for configuring WhatsApp \(WhatsApp Cloud API\)

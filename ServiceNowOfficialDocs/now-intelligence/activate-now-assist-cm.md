@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 1
 breadcrumb: [Configure, Dashboard Summary, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Configure Now Assist skill

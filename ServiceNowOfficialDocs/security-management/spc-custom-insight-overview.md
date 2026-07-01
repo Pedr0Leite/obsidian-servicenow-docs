@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Explore, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Key insights and configured insights for Security Posture Control

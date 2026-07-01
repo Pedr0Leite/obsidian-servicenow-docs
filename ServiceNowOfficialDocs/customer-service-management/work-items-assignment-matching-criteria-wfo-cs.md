@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Create a criteria for a matching rule in Work scheduler, Assigning work using Work Scheduler, Workforce Optimization for Customer Service, Agent management, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Matching criteria for work items in Work scheduler

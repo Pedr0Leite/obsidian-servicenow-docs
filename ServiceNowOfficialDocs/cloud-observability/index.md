@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: cldobs
 doc_type: toc
+tags:
+  - cloud-observability
+  - monitoring
+  - alerting
+  - visibility
 ---
 
 # Australia Cloud Observability

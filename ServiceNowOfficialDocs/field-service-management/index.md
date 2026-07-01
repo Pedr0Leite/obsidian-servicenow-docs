@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: fsm
 doc_type: toc
+tags:
+  - field-service-management
 ---
 
 # Australia Field Service Management

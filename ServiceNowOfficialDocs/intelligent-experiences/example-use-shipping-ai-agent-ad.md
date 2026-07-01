@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-25"
 reading_time_minutes: 5
 breadcrumb: [Execute desktop actions, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Example: Use AI agents to automatically enter data into the shipping management app

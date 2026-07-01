@@ -9,6 +9,12 @@ last_updated: "2024-12-19"
 reading_time_minutes: 1
 keywords: [Now Assist configuration requesters CBS conversational interface search business units Employee Center]
 breadcrumb: [Use, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Now Assist requester experience

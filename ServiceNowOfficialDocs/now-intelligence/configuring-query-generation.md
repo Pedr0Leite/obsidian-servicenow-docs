@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Configuring Query Generation

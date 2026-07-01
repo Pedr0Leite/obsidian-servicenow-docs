@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-22"
 reading_time_minutes: 5
 breadcrumb: [Design defined-path desktop actions, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Test and activate a desktop action in AI Desktop Actions

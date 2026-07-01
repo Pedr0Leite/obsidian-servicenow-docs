@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Use cases for Domain Separation"
+area: "CIWF"
+source: notion-export
 tags:
   - domain-separation
   - ciwf

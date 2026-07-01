@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable automatic action plan creation, Creating and managing audience-specific Journey Accelerator templates, Configure, Journey Accelerator, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-accelerator
+  - templates
+  - onboarding
+  - type-task
 ---
 
 # Activate the Create a new action plan for your employee activity

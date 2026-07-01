@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using playbooks, Automate and optimize, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Viewing ribbon information in the contextual side panel

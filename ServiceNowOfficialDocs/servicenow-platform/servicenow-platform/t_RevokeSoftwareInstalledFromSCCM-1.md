@@ -6,6 +6,13 @@ release: australia
 topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
+tags:
+  - servicenow-platform
+  - platform
+  - architecture
+  - tables
+  - glide
+  - type-task
 ---
 
 # Revoke software deployed through the service catalog

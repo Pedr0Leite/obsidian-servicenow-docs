@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [New inbound integration experience, Machine Identity Console]
 breadcrumb: [OAuth Inbound, OAuth authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # New Inbound integrations experience

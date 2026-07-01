@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 2
 breadcrumb: [Working with Event planner, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Edit a reservation using the event planner

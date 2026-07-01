@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Using the Mobile Agent to perform agent tasks, perform agent tasks by using the mobile agent]
 breadcrumb: [Mobile Agent, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Using the Mobile Agent to perform agent tasks

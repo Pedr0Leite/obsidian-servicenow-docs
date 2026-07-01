@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Security Operations Integration- Enrich Observable capability, Integration capabilities, Security Operations Integration Reference, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Security Operations Integration - Enrich Observable flow

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [DLP Incidents Archival, Administer, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-task
 ---
 
 # Archive DLP related records

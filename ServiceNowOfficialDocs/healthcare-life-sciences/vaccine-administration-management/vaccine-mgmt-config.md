@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Vaccine Administration Management, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - vaccines
+  - administration
+  - scheduling
+  - healthcare
+  - type-concept
 ---
 
 # Configuring Vaccine Administration Management

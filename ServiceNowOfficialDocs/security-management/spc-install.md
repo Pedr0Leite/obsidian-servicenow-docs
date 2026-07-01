@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Explore, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Install the supported applications for Security Posture Control

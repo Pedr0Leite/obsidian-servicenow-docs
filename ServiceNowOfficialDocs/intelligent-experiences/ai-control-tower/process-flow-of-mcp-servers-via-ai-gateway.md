@@ -11,6 +11,13 @@ last_updated: "2025-11-23"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [AI Gateway, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # Process flow of MCP servers Via AI Gateway

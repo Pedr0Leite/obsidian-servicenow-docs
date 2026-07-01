@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-26"
 reading_time_minutes: 1
 breadcrumb: [Solution configurations, CPQ, Configure, price, quote, Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Bill of Materials in solution configuration

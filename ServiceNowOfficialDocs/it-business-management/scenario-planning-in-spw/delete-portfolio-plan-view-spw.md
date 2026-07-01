@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Manage portfolio plan views, Portfolio Planning in Strategic Planning Workspace, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - scenario-planning
+  - spw
+  - strategy
+  - itbm
+  - type-task
 ---
 
 # Delete a portfolio plan view

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Diagrams Examples - Integrations and Structures"
+area: "Vault Root"
+source: notion-export
 tags:
   - integrations
   - diagrams

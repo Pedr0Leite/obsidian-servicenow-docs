@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Managing equipment models, Use, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-concept
 ---
 
 # Automated Mapping Across Zone-based IP Network Groups

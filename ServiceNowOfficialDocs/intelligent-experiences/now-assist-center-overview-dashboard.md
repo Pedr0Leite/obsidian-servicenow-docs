@@ -9,6 +9,9 @@ last_updated: "2026-04-17"
 reading_time_minutes: 4
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [View AI assets usage and performance, Monitor, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist Center Overview dashboard

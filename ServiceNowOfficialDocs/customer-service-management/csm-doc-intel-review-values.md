@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use Task Intelligence, Automate and optimize, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Review and submit values predicted by Document Intelligence

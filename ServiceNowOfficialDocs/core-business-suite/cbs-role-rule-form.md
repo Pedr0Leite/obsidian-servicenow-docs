@@ -9,6 +9,12 @@ last_updated: "2026-06-08"
 reading_time_minutes: 1
 keywords: [CBS Client Role Rule, role rule form, requester role, Core Business Suite]
 breadcrumb: [Reference, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-reference
 ---
 
 # CBS Client Role Rule form

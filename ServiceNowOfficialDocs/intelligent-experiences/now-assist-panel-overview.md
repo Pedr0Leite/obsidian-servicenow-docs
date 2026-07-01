@@ -9,6 +9,9 @@ last_updated: "2025-01-30"
 reading_time_minutes: 3
 keywords: [Now Assist panel, Gen AI, Generative AI, Next Experience, chat summarization, Incident summarization]
 breadcrumb: [Now Assist Experiences, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist panel

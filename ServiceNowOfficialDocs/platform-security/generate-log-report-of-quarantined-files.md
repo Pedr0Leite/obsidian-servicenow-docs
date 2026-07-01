@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reviewing quarantined files, Antivirus Scanning]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Review antivirus activity

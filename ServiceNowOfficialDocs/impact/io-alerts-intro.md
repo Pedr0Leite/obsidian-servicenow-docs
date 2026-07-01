@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Alerts in Instance Observer]
 breadcrumb: [Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Alerts in Instance Observer

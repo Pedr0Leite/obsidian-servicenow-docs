@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-28"
 reading_time_minutes: 6
 breadcrumb: [Digital Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - digital-portfolio
+  - products
+  - itsm
+  - type-concept
 ---
 
 # Exploring Digital Portfolio Management

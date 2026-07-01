@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Technical Governance"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -265,6 +267,9 @@ By adhering to these best practices, your organization can establish a robust te
 [Governance Basics Policies - Customer Success - ServiceNow](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/success/workbook/governance-basics-3b-policies.pdf)
 
 ## Related
+- [[Exam questions - per topics]]
+- [[Real questions]]
+- [[TO REVIEW FOR EXAM]]
 - [[Topics for Pre-study]]
 - [[Scoped Applications]]
 - [[Domain Separation]]

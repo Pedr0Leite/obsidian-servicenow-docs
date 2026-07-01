@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [unavailable dependencies, dependency unavailable, dependency needs to be procured from store, inactive plugin dependency]
 breadcrumb: [Installing apps, plugins, and products, Application Manager, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - app-manager
+  - plugins
+  - activation
+  - governance
+  - type-concept
 ---
 
 # Installation details

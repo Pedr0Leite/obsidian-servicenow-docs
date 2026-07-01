@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [How to Register for the Government Service Portal, Register for the Government Service Portal]
 breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Register for the Government Service Portal as a constituent, business contact, or user

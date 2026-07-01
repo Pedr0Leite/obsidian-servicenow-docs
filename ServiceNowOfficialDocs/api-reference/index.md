@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: crapiref
 doc_type: toc
+tags:
+  - api-reference
 ---
 
 # Australia API Reference

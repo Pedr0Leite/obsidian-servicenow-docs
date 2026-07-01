@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-11"
 reading_time_minutes: 4
 breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller experience in Simplified IT Service Management, Configure integrations and ITSM experiences in Simplified IT Service Management, Configure and integrate, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-task
 ---
 
 # Configure notifications for Simplified Change Management

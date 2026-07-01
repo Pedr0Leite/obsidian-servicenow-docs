@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Okta verify, push notification, MFA, multi-factor authentication, user experience, security, network dependency, device compatibility, ServiceNow]
 breadcrumb: [Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # Push notification - Okta Verify

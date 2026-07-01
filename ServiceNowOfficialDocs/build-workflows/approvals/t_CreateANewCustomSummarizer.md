@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Summarizers, Approval summarizer formatter, Classic approvals, Build workflows]
+tags:
+  - build-workflows
+  - approvals
+  - workflow
+  - authorization
+  - sign-off
+  - type-task
 ---
 
 # Create a new custom approval summarizer

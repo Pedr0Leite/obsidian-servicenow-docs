@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 2
 keywords: [Advanced Risk Assessments, migrate to advanced risk, risk score roll-up, AI Risk and Compliance]
 breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Set up Advanced Risk assessments properties

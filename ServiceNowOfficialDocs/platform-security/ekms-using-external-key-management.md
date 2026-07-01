@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-14"
 reading_time_minutes: 2
 breadcrumb: [External Key Management Service, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Using External Key Management Service

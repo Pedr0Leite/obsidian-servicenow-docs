@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-06"
 reading_time_minutes: 1
 breadcrumb: [Reference, Verifi, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # API Subflows and Endpoints

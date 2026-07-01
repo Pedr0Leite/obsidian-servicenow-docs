@@ -1,6 +1,8 @@
 ---
 aliases:
   - "TO REVIEW FOR EXAM"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - capstone
@@ -115,6 +117,9 @@ tags:
     CLE for a sensitive field in user table
 
 ## Related
+- [[ChatGPT Sample Questions]]
+- [[CTA Exam Scope]]
+- [[How to access a Technical Challenge]]
 - [[Exam]]
 - [[Real questions]]
 - [[Exam questions - per topics]]

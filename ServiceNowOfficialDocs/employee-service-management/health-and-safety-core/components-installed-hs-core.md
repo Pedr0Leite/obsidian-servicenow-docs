@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-01"
 reading_time_minutes: 10
 breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - core
+  - ehs
+  - data-model
+  - type-reference
 ---
 
 # Components installed with Health and Safety Core

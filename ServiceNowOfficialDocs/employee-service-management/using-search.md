@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-reference
 ---
 
 # SharePoint Online Search Connector search results

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Task Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - task-mining
+  - desktop
+  - process-capture
+  - analytics
+  - type-concept
 ---
 
 # Exploring Task Mining

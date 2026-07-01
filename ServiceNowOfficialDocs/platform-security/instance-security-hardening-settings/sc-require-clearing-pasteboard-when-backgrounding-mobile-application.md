@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-13"
 reading_time_minutes: 1
 breadcrumb: [Data protection, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Require clearing pasteboard when backgrounding mobile application

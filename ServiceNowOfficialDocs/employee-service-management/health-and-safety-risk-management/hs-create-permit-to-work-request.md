@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Permit-to-work system, Use, Health and Safety Risk Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - risk
+  - assessment
+  - mitigation
+  - ehs
+  - type-task
 ---
 
 # Create a permit-to-work request

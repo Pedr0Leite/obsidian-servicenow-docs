@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Logics and Creations"
+area: "Vault Root"
+source: notion-export
 tags:
   - custom-logic
   - sso

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-06"
 reading_time_minutes: 1
 breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-concept
 ---
 
 # Reviewing prediction errors with the Observability Dashboard

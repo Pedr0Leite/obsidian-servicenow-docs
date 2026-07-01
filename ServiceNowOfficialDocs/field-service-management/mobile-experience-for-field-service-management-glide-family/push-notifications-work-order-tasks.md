@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure push notifications in the Now Mobile Agent app, Configure the Now Mobile Agent application, Setting up Field Service Mobile Agent, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - mobile
+  - technicians
+  - fsm
+  - offline
+  - type-concept
 ---
 
 # Push notifications, actions, and messages

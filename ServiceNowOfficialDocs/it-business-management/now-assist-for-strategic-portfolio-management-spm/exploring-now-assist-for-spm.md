@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 11
 keywords: [Explore Now Assist for SPM, Now Assist for SPM overview, Now Assist for SPM skills, Feedback summarization, Multi feedback summarization, Project Doc Summarization and Actions, Planning Item Doc Summarization and Actions, or EAP Doc Summarization and Actions]
 breadcrumb: [Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-concept
 ---
 
 # Exploring Now Assist for Strategic Portfolio Management \(SPM\)

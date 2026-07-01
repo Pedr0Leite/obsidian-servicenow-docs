@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [AI widget builder, widget configuration, widget scope, chat compatibility, role access, Employee Slate]
 breadcrumb: [AI-powered Widget Builder, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure the AI widget builder for Employee Slate

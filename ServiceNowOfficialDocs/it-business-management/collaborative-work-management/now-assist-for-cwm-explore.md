@@ -11,6 +11,13 @@ last_updated: "2026-06-08"
 reading_time_minutes: 7
 keywords: [explore]
 breadcrumb: [Explore, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-concept
 ---
 
 # Now Assist skills for Collaborative Work Management \(CWM\)

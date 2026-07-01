@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-request
+  - routing
+  - hr
+  - cross-department
+  - type-reference
 ---
 
 # Guided setup for Universal Request

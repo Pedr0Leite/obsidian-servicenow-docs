@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Edit in-line editor dashboards, In-line editor dashboard options, reports, add reports to dashboard]
 breadcrumb: [Monitor data using dashboards, Monitor third-party risk, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Edit TPRM dashboards

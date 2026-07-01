@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [License calculations with the legacy Software Asset Management plugin, Legacy Software Asset Management plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - software
+  - itsm
+  - licenses
+  - type-reference
 ---
 
 # Calculate software licenses using the legacy Software Asset Management plugin

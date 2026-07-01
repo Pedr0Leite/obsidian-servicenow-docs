@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 10
 breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Security Exposure Management Workspace List view

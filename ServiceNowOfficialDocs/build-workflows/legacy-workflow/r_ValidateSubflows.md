@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Workflow validator, Workflow validation, Workflow management, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - legacy-workflow
+  - classic
+  - deprecated
+  - type-reference
 ---
 
 # ValidateSubflows

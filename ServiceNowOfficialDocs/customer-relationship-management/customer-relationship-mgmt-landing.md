@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 2
+tags:
+  - customer-relationship-management
+  - type-concept
 ---
 
 # Customer Relationship Management

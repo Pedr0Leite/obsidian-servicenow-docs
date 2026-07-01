@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 10
 breadcrumb: [Now Assist for TMT, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - now-assist
+  - ai
+  - tmt
+  - generative
+  - type-concept
 ---
 
 # Exploring Now Assist for Telecommunications, Media and Technology \(TMT\)

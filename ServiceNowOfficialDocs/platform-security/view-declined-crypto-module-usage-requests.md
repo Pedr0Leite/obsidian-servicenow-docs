@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure script access to encrypted data, Script access for cryptographic modules, Encrypting fields and attachments, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # View declined cryptographic module usage requests

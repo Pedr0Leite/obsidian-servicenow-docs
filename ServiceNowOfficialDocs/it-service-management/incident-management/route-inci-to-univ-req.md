@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Universal Request integration - Incident Management, Incident Management integrations, Reference, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-task
 ---
 
 # Transfer incident

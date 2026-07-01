@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [ServiceNow, Knowbe4 integration, phishing integrations, how to configure Knowbe4 inetgration, cybersecurity awareness training]
 breadcrumb: [Security Simulation and Training Integration for Security Operations, Cybersecurity Executive Dashboard, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Configure Knowbe4 integration

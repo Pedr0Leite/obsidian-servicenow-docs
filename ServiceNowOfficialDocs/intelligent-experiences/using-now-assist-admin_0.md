@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-11-06"
 reading_time_minutes: 1
 breadcrumb: [Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Using Now Assist Admin

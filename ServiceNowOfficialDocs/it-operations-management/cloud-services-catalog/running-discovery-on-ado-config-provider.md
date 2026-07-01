@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Integrating Azure DevOps and CI-CD tool, Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-catalog
+  - services
+  - provisioning
+  - itom
+  - type-task
 ---
 
 # Run Discovery on Azure DevOps config provider

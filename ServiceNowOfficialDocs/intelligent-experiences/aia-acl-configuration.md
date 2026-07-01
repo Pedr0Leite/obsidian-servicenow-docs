@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-26"
 reading_time_minutes: 5
 breadcrumb: [Security for AI agents, Explore, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Deny-by-default ACL configuration

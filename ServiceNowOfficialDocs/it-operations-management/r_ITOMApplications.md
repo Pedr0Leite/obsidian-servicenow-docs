@@ -7,6 +7,9 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
+tags:
+  - it-operations-management
+  - type-reference
 ---
 
 # IT Operations Management

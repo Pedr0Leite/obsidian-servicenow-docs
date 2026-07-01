@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-05-13"
 reading_time_minutes: 22
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Enterprise Architecture release notes

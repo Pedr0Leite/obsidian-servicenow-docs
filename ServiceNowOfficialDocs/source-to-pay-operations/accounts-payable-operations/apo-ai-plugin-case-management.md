@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-11"
 reading_time_minutes: 1
 breadcrumb: [Components installed with Accounts Payable Invoice Processing, Install Accounts Payable Invoice Processing, Configure, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-reference
 ---
 
 # Application plugin for AI capabilities in APO

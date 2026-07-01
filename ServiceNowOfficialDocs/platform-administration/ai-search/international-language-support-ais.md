@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-21"
 reading_time_minutes: 9
 breadcrumb: [Administer, AI Search, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ai-search
+  - indexing
+  - relevancy
+  - search
+  - type-concept
 ---
 
 # Internationalization support for AI Search

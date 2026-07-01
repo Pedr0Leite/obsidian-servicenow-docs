@@ -9,6 +9,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 2
 keywords: [connector, connector properties, relationship type, ArchiMate, line style]
 breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Set shape connector properties in Enterprise Modeling and Visualization

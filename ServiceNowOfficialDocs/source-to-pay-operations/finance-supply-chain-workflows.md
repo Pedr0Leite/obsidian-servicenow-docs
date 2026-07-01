@@ -9,6 +9,9 @@ last_updated: "2025-03-10"
 reading_time_minutes: 2
 keywords: [finance workflows, supply chain workflows, procurement, Source-to-Pay Operations, supplier management, accounts payable, purchase order management]
 breadcrumb: [Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # Finance and Supply Chain workflows

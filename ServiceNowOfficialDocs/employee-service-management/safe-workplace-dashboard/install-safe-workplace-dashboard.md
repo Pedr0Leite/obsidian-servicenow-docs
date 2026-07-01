@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Safe Workplace Dashboard, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - dashboard
+  - analytics
+  - occupancy
+  - type-task
 ---
 
 # Install the Safe Workplace Dashboard

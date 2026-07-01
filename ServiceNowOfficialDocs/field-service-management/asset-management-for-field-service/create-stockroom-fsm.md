@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Stockrooms, Inventory and asset management, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - assets
+  - parts
+  - field-service
+  - inventory
+  - type-task
 ---
 
 # Create stockroom for Field Service Management assets

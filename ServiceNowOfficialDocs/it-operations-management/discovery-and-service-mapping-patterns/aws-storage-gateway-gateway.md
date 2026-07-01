@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 4
 keywords: [AWS Storage Gateway Gateway, AWS Storage Gateway discovery, AWS patterns, Storage Gateway Extended Inventory]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # AWS Storage Gateway Gateway pattern-based discovery

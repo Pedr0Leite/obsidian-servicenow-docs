@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-07-31"
 reading_time_minutes: 5
 breadcrumb: [Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # MITRE-ATT&amp;CK framework overview

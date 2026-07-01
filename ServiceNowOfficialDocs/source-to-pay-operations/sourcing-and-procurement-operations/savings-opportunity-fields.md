@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [savings opportunity, data model, opportunity fields, field reference]
 breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-reference
 ---
 
 # Savings opportunity fields

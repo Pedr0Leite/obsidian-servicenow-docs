@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [WSUD, troubleshooting, customer signature, document verification, email, NACHA, ServiceNow]
 breadcrumb: [Reference, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-reference
 ---
 
 # Written Statement for Unauthorized Debit \(WSUD\) Troubleshooting

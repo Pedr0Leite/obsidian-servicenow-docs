@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 17
 breadcrumb: [ServiceNow CLI, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - cli
+  - command-line
+  - sn-cli
+  - developer-tools
+  - type-reference
 ---
 
 # Commands installed with CMDB Application CLI and API

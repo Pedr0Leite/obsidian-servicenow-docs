@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring Multi-day scheduling, Additional scheduling configuration options, Setting up a Field Service scheduling method, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-task
 ---
 
 # Activate Field Service Multi-Day Task Scheduling

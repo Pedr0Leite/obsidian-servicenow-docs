@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-07"
 reading_time_minutes: 1
 breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Configure the activity timer log

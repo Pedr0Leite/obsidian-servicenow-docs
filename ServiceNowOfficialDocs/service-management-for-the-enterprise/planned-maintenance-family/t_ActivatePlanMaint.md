@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Planned Maintenance, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - planned-maintenance
+  - scheduling
+  - downtime
+  - sme
+  - type-task
 ---
 
 # Activate Planned Maintenance

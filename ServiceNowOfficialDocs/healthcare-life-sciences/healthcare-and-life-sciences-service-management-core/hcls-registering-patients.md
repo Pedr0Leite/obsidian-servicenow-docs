@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring the Patient Portal, Configure, Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-concept
 ---
 
 # Set up the process for self-registration on the Patient Portal

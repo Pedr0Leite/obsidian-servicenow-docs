@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Explore, Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-concept
 ---
 
 # Operational Technology Hardware Vulnerability Assessment

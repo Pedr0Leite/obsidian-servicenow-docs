@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 5
 keywords: [Build Agent, ServiceNow Studio, ServiceNow IDE, access, development, AI agent, chat panel, Personal Development Instance, PDI, Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Accessing Build Agent in ServiceNow Studio and the ServiceNow IDE

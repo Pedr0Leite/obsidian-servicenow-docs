@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [workspace for fraud manager, fraud manager workspace, approve or reject fraud cases, fraud case review, fraud performance analytics, process optimization for fraud, fraud manager dashboard, pending approval tasks, team fraud cases, sla indicators]
 breadcrumb: [Use, Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-concept
 ---
 
 # Workspace for fraud manager

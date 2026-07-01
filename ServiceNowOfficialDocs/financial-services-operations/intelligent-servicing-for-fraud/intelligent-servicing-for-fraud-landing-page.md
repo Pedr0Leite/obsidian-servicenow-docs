@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [intelligent servicing for fraud, fraud case management, create fraud cases, fraud alerts, suspicious fraud alerts, alert detection system, fraud reported by customer, fraud analytics and reporting, fraud dashboard, process optimization for fraud]
 breadcrumb: [Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-concept
 ---
 
 # Intelligent Servicing for Fraud

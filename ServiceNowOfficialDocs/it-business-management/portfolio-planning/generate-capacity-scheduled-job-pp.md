@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [capacity planning scheduled job, generate capacity, generate resource]
 breadcrumb: [Configure capacity planning, Configure, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Activate a scheduled job to automatically generate resource capacity

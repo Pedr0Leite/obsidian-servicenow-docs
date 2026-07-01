@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 2
 breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Install Universal Request for Sourcing and Procurement Operations

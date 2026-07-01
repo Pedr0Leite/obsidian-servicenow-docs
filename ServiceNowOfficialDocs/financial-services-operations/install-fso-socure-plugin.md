@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up, Socure, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # Activate the Financial Services Operations Integration with Socure application

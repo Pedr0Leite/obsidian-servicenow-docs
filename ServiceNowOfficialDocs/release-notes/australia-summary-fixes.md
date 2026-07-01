@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-13"
 reading_time_minutes: 24
 breadcrumb: [Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Personalized PRB release notes for upgrades to Australia

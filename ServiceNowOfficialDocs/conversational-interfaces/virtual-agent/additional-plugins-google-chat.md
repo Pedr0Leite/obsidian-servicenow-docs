@@ -11,6 +11,13 @@ last_updated: "2026-04-10"
 reading_time_minutes: 1
 keywords: [Activate, Plugins, Conversational Integration, Google Chat, Virtual Agent]
 breadcrumb: [Install Conversational Integration with Google Chat, Conversational Integration with Google Chat, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Activate plugins for Conversational Integration with Google Chat

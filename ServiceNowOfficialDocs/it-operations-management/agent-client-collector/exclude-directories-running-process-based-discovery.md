@@ -11,6 +11,13 @@ last_updated: "2026-06-03"
 reading_time_minutes: 1
 keywords: [exclude directories, running process-based discovery, file-based discovery, FBD process path exclusions, process scan]
 breadcrumb: [Running process-based discovery, Agent Client Collector File-Based Discovery, ACC deployment - endpoints, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Exclude directories from running process-based discovery

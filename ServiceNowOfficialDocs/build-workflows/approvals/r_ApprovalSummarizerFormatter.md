@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Classic approvals, Build workflows]
+tags:
+  - build-workflows
+  - approvals
+  - workflow
+  - authorization
+  - sign-off
+  - type-reference
 ---
 
 # Approval summarizer formatter

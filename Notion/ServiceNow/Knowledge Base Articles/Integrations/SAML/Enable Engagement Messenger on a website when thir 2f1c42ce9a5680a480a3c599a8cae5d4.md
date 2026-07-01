@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Enable Engagement Messenger on a website when thir"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - saml
@@ -70,6 +72,9 @@ The following code includes a sample URL that contains support.acme.com as a c
 ![image.png](Enable%20Engagement%20Messenger%20on%20a%20website%20when%20thir/image.png)
 
 ## Related
+- [[Knowledge Base Articles – Integrations]]
+- [[Multi-provider SSO]]
+- [[Install Stuff]]
 
 - [[Integrations – SAML]]
 - [[SAML Errors and Fixes (Multiple Provider SSO)]]

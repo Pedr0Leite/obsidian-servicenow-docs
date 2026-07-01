@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 6
 keywords: [tisc, threat hunting, playbook, intake, triage, scoping, threat hunt, review outcomes, post hunt]
 breadcrumb: [Threat Hunting Playbook, Using playbooks, Threat Analyst Workbench, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Use the Threat Hunting Playbook

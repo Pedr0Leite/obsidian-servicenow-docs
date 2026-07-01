@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Application service health information, Create or delete user view, Application service details, Manage list, Unified map and impact paths, Alert metric trends, CI health in metric explorer]
 breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-concept
 ---
 
 # Service Operations Workspace

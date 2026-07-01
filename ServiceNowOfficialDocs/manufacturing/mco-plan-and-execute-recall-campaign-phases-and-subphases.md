@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use generative AI, Now Assist for MCO, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-task
 ---
 
 # Plan and execute recall campaign phases and sub-phases using Now Assist for Manufacturing Commercial Operations \(MCO\)

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Creating Custom MS Teams Cards"
+area: "Integrations"
+source: notion-export
 tags:
   - teams-integration
   - flow-designer
@@ -177,6 +179,8 @@ var response = outBoundMessage.sendDirectMessage(inputs.caller, MSTeamsConstants
 ```
 
 ## Related
+- [[Integrate your self-configured bot with single Mic]]
+- [[ServiceNow – Integrations]]
 
 - [[Teams Integration]]
 - [[Conversational integration with Microsoft Teams -]]

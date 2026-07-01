@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 12
 breadcrumb: [OAuth 2.0 authentication via MID Server using external credential storage, External credential storage, Get started with credentials, Connections and Credentials, Access Management]
+tags:
+  - platform-security
+  - credentials
+  - connections
+  - aliases
+  - integration
+  - type-task
 ---
 
 # Configure a connection to send OAuth request via the MID Server using external vault

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [install agentic contact center for banking, app\_fso\_csr]
 breadcrumb: [Configure, Agentic Contact Center for Banking, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # Install Agentic Contact Center for Banking

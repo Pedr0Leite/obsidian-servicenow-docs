@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 1
 keywords: [Build Agent, document application, README, ServiceNow IDE, Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Document an application using Build Agent

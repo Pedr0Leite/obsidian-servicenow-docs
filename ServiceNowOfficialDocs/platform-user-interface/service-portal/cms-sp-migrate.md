@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Content Management and Service Portal, Understanding Service Portal, Exploring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-concept
 ---
 
 # CMS to Service Portal transition

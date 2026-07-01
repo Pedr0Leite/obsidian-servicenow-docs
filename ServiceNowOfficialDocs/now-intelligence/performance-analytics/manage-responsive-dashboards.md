@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [dashboard, delete a dashboard, how to clone a dashboard, duplicate a dashboard, copy a dashboard, set a dashboard favorite, bookmark a dashboard, favorite a dashboard]
 breadcrumb: [Working with responsive dashboards, Create and use dashboards, Responsive dashboards in the Core UI, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-concept
 ---
 
 # Manage responsive dashboards

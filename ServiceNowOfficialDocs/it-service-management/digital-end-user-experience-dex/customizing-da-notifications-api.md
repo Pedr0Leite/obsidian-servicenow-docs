@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 3
 breadcrumb: [Set up Desktop Assistant, Configure, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-concept
 ---
 
 # Customizing Desktop Assistant notifications using API parameters

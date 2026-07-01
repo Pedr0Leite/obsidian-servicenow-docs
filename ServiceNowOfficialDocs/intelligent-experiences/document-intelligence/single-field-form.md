@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [DocIntel forms, Reference, Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - document-intelligence
+  - ocr
+  - extraction
+  - ai
+  - type-reference
 ---
 
 # Single field form

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [State Management, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - state-machine
+  - workflow
+  - states
+  - transitions
+  - type-task
 ---
 
 # Add a state model and transitions

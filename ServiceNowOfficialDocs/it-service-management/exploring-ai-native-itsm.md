@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [explore]
 breadcrumb: [Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Exploring Simplified IT Service Management

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "What is “Presumed Interrupted” state"
+area: "Flow Designer"
+source: notion-export
 tags:
   - flow-designer
   - sys-flow-context

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Health Log Analytics, alert rules, custom alert rules, log analytics alerts, anomaly detection, alert thresholds, alert conditions, log data, metric alerts, alert configuration, alert management]
 breadcrumb: [Controlling alert generation, prioritization, and anomaly detection, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Using alert rules to control when Health Log Analytics generates alerts

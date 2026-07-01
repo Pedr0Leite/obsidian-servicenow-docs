@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [reference, prompts, vibe coding, AI-assisted development, Build Agent, app development, business rules, security, user interface, governance, ATF, testing]
 breadcrumb: [Reference, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Example prompts for vibe coding and AI-assisted development

@@ -9,6 +9,9 @@ last_updated: "2026-06-25"
 reading_time_minutes: 4
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Explore Now Assist AI agents

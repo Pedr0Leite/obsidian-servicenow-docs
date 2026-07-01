@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [Health Log Analytics, HLA, all metrics, log anomaly metrics, anomaly detection, log source, integration, source type, pattern metrics, custom metrics, raw metrics]
 breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # View log anomaly metrics in Health Log Analytics

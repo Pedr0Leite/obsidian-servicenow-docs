@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Setting and tracking arrivals at the workplace, Manage workplace safety activities, Workplace Core, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-core
+  - data-model
+  - foundation
+  - type-task
 ---
 
 # Define arrival schedules at the workplace for employees

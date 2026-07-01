@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-23"
 reading_time_minutes: 4
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-reference
 ---
 
 # Natural Language Understanding

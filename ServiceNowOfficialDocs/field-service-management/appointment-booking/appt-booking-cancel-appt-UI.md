@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing appointments as a customer, Managing appointments, Use, Field Service Management]
+tags:
+  - field-service-management
+  - appointment-booking
+  - scheduling
+  - customer
+  - type-task
 ---
 
 # Cancel an appointment as a customer

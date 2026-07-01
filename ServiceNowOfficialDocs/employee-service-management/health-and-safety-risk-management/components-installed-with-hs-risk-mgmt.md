@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-01"
 reading_time_minutes: 8
 breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - risk
+  - assessment
+  - mitigation
+  - ehs
+  - type-reference
 ---
 
 # Components installed with Health and Safety Risk Management

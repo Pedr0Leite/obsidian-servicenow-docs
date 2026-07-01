@@ -10,6 +10,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data management in Conversational Interfaces, Conversational Interfaces reference, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Activate table cleaning for Virtual Agent tables

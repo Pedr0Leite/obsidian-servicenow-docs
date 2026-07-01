@@ -11,6 +11,13 @@ last_updated: "2026-03-24"
 reading_time_minutes: 16
 keywords: [virtual agent, designer, topic, controls]
 breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Getting started with Virtual Agent Designer

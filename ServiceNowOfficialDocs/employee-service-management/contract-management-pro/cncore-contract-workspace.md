@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Contracts workspace, Fulfiller workspace, Work on contract request, Contract requests, Contract filters]
 breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Contract Workspace

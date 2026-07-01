@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Employee Center for OT, Operational Technology]
+tags:
+  - operational-technology
+  - type-task
 ---
 
 # Report an OT incident in the Employee Center for OT

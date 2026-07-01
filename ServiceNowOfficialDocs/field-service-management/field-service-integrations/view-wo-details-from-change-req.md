@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integration with Change Management, Integrating Field Service Management with other applications, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - integrations
+  - mapping
+  - fsm
+  - connectors
+  - type-task
 ---
 
 # View work order details from a change request using the CSM Configurable Workspace

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [User access to Playbooks in Workflow Studio, Administering Playbooks, Configure, Playbooks, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Configure content filtering definitions for Playbook

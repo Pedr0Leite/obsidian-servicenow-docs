@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 1
 breadcrumb: [Installing, Configure, App Engine Studio, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - aes
+  - low-code
+  - app-builder
+  - drag-and-drop
+  - type-concept
 ---
 
 # AES and the ServiceNow Store

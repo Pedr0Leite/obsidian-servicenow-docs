@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 4
 breadcrumb: [Branded landing page, Mobile instances, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Create a branded landing page for single instances

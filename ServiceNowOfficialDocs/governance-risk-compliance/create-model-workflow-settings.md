@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [model workflow settings, assessments, validations, model risk management]
 breadcrumb: [Configure, Model Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Configure Model Workflow Settings

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Safety exposure management, Use, Health and Safety Risk Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - risk
+  - assessment
+  - mitigation
+  - ehs
+  - type-task
 ---
 
 # Perform an exposure assessment for a location

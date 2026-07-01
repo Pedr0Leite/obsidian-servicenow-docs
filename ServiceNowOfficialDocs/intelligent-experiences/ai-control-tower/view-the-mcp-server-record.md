@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-11-23"
 reading_time_minutes: 3
 breadcrumb: [AI Gateway, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # MCP server record

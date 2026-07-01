@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 11
 breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create an AI voice assistant

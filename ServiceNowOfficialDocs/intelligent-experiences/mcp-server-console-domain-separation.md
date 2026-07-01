@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-11-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Domain separation and MCP Server Console

@@ -11,6 +11,13 @@ last_updated: "2026-04-26"
 reading_time_minutes: 1
 keywords: [policy search, conversational knowledge, citations, knowledge articles]
 breadcrumb: [Chat assistance for catalog and knowledge, Employee Slate home, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Find policy information using chat

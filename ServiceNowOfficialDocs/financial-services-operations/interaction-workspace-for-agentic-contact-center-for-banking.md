@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [interaction page, interaction workspace, live call transcript, ai-driven assistance, customer context summary, interaction form, wrap-up, handle customer calls, active customer interaction, csr interaction, call transcript analysis]
 breadcrumb: [Explore, Agentic Contact Center for Banking, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Interaction page for Agentic Contact Center for Banking

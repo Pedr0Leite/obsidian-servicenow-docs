@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [AI Agents, agentic AI]
 breadcrumb: [Close security incidents, Use agentic workflows, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-task
 ---
 
 # Close a security incident

@@ -11,6 +11,13 @@ last_updated: "2026-06-11"
 reading_time_minutes: 8
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Microsoft SharePoint Online external content connector, Configure, External Content Connectors, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-task
 ---
 
 # Configure site and site collection access for the Microsoft SharePoint Online external content connector

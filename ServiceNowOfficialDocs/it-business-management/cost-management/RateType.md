@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Manage a labor rate card, Task and labor rate cards, Cost Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cost-management
+  - budgeting
+  - chargeback
+  - itbm
+  - type-concept
 ---
 
 # Rate type in labor rate card

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage Zoom conference calls in Service Operations Workspace, Use Zoom to make conference calls in Service Operations Workspace, Notify in Service Operations Workspace, Collaboration in Service Operations Workspace, Managing IT services in your organization, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Add participants to an existing Zoom call in Service Operations Workspace

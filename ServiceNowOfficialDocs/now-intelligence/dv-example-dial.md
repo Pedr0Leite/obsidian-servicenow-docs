@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 6
 breadcrumb: [Dial visualizations, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Dial visualization example

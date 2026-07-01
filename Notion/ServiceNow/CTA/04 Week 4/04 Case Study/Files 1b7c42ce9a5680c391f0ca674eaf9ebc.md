@@ -1,6 +1,8 @@
 ---
 aliases:
   - "04 Case Study – Files"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -24,6 +26,9 @@ tags:
 [https://app.notion.com](https://app.notion.com)
 
 ## Related
+- [[Help with ppt]]
+- [[04 Case Study – For PPT]]
+- [[Describe the types of challenges you anticipate So]]
 
 - [[04 Case Study]]
 - [[04 Week 4]]

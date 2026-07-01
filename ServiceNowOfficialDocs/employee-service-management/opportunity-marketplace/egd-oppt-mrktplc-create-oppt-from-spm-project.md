@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use Opportunity Marketplace, Opportunity Marketplace, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - opportunity
+  - internal-mobility
+  - career
+  - hr
+  - type-task
 ---
 
 # Create opportunities in Opportunity Marketplace by importing projects from Project Workspace

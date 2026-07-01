@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Knowledge graph enhancing Virtual Agent search"
+area: "AI & VA"
+source: notion-export
 tags:
   - virtual-agent
   - knowledge-graph
@@ -93,6 +95,9 @@ This feature uses the *Now_user_graph_nlq* Graph by default as seen in the scr
 
 All three capabilities are great ways to enhance the responses to employees through the virtual agent. There is a clear benefit in simplified administration and faster time to value by using knowledge graphs as a source of information to employees. I would encourage customers to combine these features with other capabilities such as result improvement rules for the optimal outcome.
 ## Related
+- [[Now Assist Q&A using Dynamic Translation]]
+- [[Now Assist]]
+- [[Introducing AI Agents and Quick Start Guide]]
 
 - [[AI Search]]
 - [[Now Assist in AI Search]]

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-03"
 reading_time_minutes: 1
 breadcrumb: [ServiceNow Studio quick start, Explore, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Create a collection of files in ServiceNow Studio

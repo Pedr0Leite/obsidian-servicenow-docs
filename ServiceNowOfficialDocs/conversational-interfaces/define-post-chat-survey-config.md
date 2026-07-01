@@ -10,6 +10,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Define post-chat survey configurations

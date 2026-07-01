@@ -11,6 +11,13 @@ last_updated: "2026-05-26"
 reading_time_minutes: 7
 keywords: [embedded assessments, compact mode, assessment responder, Smart Assessment Engine]
 breadcrumb: [Use template designer, Manage, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-concept
 ---
 
 # Embedded assessments

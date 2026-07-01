@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-30"
 reading_time_minutes: 1
 breadcrumb: [Advanced configuration, Configure, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-concept
 ---
 
 # Sudo banner validation

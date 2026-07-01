@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Prepare your upgrade, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Upgrade planning checklist

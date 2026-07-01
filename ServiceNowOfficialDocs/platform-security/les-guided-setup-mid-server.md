@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [MID server consumer, Configure, Log Export Service \(LES\), Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Guided setup for MID Server consumers

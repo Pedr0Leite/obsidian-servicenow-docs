@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 3
 keywords: [Employee Slate for Moveworks, Moveworks AI assistant, AI front door]
 breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Employee Slate for Moveworks

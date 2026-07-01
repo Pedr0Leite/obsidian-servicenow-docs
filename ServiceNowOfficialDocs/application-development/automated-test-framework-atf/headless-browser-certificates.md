@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Headless Browser setup for Linux, Headless Browser for Automated Test Framework, Automated Test Framework \(ATF\), Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - atf
+  - testing
+  - automated-tests
+  - test-suites
+  - type-task
 ---
 
 # Generate certificates for Headless Browser setup for Linux

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Getting started mobile application, Mobile experience for CSM, Schedules and sites, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Use mobile application to perform agent and manager tasks

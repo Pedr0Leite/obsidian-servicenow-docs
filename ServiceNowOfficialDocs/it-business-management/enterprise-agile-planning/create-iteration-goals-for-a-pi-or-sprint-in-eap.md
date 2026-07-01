@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Iteration goals and work item goals in EAP, Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-task
 ---
 
 # Create iteration goals for a PI or sprint in EAP

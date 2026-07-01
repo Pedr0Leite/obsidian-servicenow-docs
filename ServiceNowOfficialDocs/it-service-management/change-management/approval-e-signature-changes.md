@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 1
 keywords: [e-signature, change approval, change request]
 breadcrumb: [Explore, Change Management, IT Service Management]
+tags:
+  - it-service-management
+  - change-management
+  - cab
+  - risk
+  - itsm
+  - type-concept
 ---
 
 # Approval with e-Signature for change requests

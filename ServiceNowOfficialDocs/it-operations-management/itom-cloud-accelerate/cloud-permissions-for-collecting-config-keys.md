@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accelerate
+  - itom
+  - setup
+  - rapid
+  - type-reference
 ---
 
 # Cloud permissions required to collect the base system Cloud Configuration Governance configuration keys

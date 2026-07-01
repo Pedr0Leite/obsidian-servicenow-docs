@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - self-service
+  - troubleshooting
+  - type-reference
 ---
 
 # Device action execution states and offline behavior

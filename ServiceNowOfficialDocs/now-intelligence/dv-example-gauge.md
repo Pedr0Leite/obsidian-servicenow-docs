@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-24"
 reading_time_minutes: 5
 breadcrumb: [Gauge visualizations, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Gauge visualization example

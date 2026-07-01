@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-concept
 ---
 
 # API Notification Management

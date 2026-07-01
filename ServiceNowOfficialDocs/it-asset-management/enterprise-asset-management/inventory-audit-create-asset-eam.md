@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [create an asset, create new asset inventory audit screen]
 breadcrumb: [Manage enterprise asset inventory audit using the ServiceNow Agent app, Managing enterprise assets and tasks using the Mobile Agent application, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-task
 ---
 
 # Create an enterprise asset from the inventory audit screen

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [activate now assist in contract management, activate now assist in contract management pro, now assist in contract management pro, now assist for contract management pro, Now Assist in contract management pro, Now Assist for contract management pro, AI for contract management pro, AI in contract management pro]
 breadcrumb: [Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Configure Now Assist in Contract Management

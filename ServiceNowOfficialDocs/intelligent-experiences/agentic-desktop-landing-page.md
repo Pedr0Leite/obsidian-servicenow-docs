@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-10-12"
 reading_time_minutes: 5
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # AI Desktop Actions

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-08"
 reading_time_minutes: 1
 breadcrumb: [Collecting indicator scores, Configure advanced features, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Cancel a data collection job

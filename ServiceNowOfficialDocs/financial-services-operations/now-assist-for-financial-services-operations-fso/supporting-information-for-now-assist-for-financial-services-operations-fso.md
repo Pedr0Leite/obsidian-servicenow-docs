@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [generative AI for financial services operations versions, generative AI for financial services operations licensing, generative AI for financial services operations dependencies, generative AI for financial services operations activation]
 breadcrumb: [Reference, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Supporting information for Now Assist for Financial Services Operations \(FSO\)

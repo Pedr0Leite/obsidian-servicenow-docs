@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2020-06-26"
 reading_time_minutes: 9
 breadcrumb: [Release notes for upgrading from Xanadu, Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Combined product release notes for upgrades from Xanadu to Australia

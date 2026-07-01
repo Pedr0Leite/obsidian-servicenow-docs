@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-20"
 reading_time_minutes: 4
 breadcrumb: [Localization Framework reference, Localization Framework, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - l10n
+  - languages
+  - translation
+  - type-concept
 ---
 
 # Translation modes

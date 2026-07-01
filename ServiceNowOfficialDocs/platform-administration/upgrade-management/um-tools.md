@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Upgrade Console, Upgrade, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - upgrade-management
+  - skipped-fixes
+  - patching
+  - type-reference
 ---
 
 # Upgrade Console tools

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-09"
 reading_time_minutes: 2
 breadcrumb: [Configure, SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Assign partition role for access to the partition

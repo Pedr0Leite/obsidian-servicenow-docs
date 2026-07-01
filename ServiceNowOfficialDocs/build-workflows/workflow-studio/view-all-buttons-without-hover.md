@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [accessibility, accessibility settings in playbook]
 breadcrumb: [Configure, Playbooks, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Configure accessibility preferences

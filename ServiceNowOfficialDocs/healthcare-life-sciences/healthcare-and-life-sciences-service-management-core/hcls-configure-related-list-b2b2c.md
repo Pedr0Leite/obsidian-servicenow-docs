@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up B2B2C, Configure, Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-task
 ---
 
 # Configure the account consumer related list to add account consumers for B2B2C in Healthcare and Life Sciences Service Management Core

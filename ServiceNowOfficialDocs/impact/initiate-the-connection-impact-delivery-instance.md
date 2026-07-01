@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Use manual registration to configure the Impact Store Application, Impact reference, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Initiate the connection to Impact data with manual registration

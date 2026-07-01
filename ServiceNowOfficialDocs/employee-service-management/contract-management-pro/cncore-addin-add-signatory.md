@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-03"
 reading_time_minutes: 5
 breadcrumb: [Configure signatories, Add content controls, Create templates in Microsoft Word, Configure contract templates, Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Add and configure participants for a contract using the Microsoft Word add-in for ServiceNow Contracts

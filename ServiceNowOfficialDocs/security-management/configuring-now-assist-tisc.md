@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-12"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Configuring Now Assist for Threat Intelligence Security Center

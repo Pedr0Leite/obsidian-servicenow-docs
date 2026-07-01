@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Workplace Service Delivery for Mobile, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - mobile
+  - app
+  - workplace
+  - type-concept
 ---
 
 # Using Workplace Service Delivery for Mobile

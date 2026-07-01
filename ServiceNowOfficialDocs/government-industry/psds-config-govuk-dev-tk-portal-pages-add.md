@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-12"
 reading_time_minutes: 1
 breadcrumb: [Configure pages, Configure UK GDS Service Portal, GOV.UK Developer Toolkit, Set up self-service, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Add a page to the GOV.UK Design System Service Portal

@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 5
 keywords: [Moveworks, AI assistant, reasoning engine, specialized assistants, interactive split view, Enterprise Search, World Knowledge]
 breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Moveworks AI assistant capabilities

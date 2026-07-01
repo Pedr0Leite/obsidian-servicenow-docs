@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Low-code and no-code tools: What you can do to build apps, Finding ServiceNow developer products, Find ServiceNow developer products quickly, Learning about developing on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Reporting on data from low-code apps

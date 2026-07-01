@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-01-14"
 reading_time_minutes: 2
 breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-designer
+  - custom
+  - milestones
+  - workflow
+  - type-task
 ---
 
 # Add tasks to an activity set using Journey designer

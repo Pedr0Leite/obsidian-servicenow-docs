@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Risk and compliance dashboard for GRC: Metrics, Cybersecurity Executive Dashboard, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Risk and Compliance Dashboard reports and solutions

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Auditing]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Configuring auditing for a table

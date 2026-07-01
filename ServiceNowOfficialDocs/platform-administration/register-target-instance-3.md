@@ -8,6 +8,9 @@ topic_type: topic
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Troubleshooting for registering target instance, Reference, Instance Clone, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-topic
 ---
 
 # IP authentication error

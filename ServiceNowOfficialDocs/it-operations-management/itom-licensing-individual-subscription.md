@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [ITOM/OT SU Licensing subscription types, Exploring ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # ITOM/OT SU Licensing Individual \(ala carte\) subscription

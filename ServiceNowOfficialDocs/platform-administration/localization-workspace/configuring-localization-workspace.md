@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 6
 breadcrumb: [Localization Workspace, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - workspace
+  - translations
+  - content
+  - type-concept
 ---
 
 # Configuring Localization Workspace

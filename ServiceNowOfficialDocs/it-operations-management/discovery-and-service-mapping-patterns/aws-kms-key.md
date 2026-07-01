@@ -11,6 +11,13 @@ last_updated: "2026-04-29"
 reading_time_minutes: 4
 keywords: [AWS KMS Key, AWS KMS Key discovery, AWS patterns, KMS Key pattern]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # AWS KMS Key pattern-based discovery

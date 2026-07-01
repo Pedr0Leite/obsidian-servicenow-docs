@@ -4,6 +4,12 @@ locale: en-US
 release: australia
 bundle: esgv
 doc_type: toc
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
 ---
 
 # Australia Operational Sustainability Management (formerly Environmental, Social, and Governance)

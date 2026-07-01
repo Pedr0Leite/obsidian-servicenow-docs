@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [TPRM, Issue Summarization, Generative AI, Now Assist]
 breadcrumb: [Now Assist, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-concept
 ---
 
 # Exploring Now Assist for Third-party Risk Management \(TPRM\)

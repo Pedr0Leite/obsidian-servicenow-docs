@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Explore, Goal Framework and Goal Framework for SPM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - goals
+  - okr
+  - alignment
+  - itbm
+  - type-concept
 ---
 
 # Better together with other ServiceNow applications

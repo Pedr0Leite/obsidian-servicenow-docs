@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-12"
 reading_time_minutes: 1
 breadcrumb: [Data snapshots and multiple breakdowns, Configure fundamentals, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-reference
 ---
 
 # Data snapshots jobs and tables

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - agile
+  - sprints
+  - stories
+  - backlog
+  - type-concept
 ---
 
 # Scrum Programs for Agile Development 2.0

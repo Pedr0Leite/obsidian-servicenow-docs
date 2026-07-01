@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Links to check later"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-search
   - now-assist
@@ -27,6 +29,9 @@ https://www.servicenow.com/community/csm-articles/servicenow-otto-for-csm-gettin
 https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2931703
 
 ## Related
+- [[Introducing AI Agents and Quick Start Guide]]
+- [[Get Familiar with Agentic Workflows & AI Agent]]
+- [[AI Agent tools – Getting the most out of your agen]]
 
 - [[AI Search]]
 - [[Now Assist]]

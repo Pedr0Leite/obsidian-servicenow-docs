@@ -11,6 +11,13 @@ last_updated: "2026-04-29"
 reading_time_minutes: 2
 keywords: [epic status assessment, epic health, Now Assist, Enterprise Agile Planning]
 breadcrumb: [Manage team backlog, Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-task
 ---
 
 # Assess the status of an epic using Now Assist for Strategic Portfolio Management \(SPM\)

@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-29"
 reading_time_minutes: 1
 breadcrumb: [Install Health and Safety, Install Core Business Suite applications, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Health and Safety default configurations

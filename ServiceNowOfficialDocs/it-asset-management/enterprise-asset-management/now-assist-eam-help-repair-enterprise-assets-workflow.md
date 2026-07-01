@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Fulfilling repair orders in the Enterprise Asset Workspace, Manage repair of defective assets in your stockroom in the Enterprise Asset Workspace, Create and manage enterprise asset inventory, Managing enterprise asset inventory and contracts, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Fulfill repair orders by using the help repair enterprise assets agentic workflow

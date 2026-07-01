@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [ServiceNow Fluent API reference, Reference, ServiceNow SDK, Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - sdk
+  - local-dev
+  - developer-tools
+  - typescript
+  - type-reference
 ---
 
 # Access Control List API - ServiceNow Fluent

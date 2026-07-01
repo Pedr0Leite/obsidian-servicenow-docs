@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [NLU vocabulary, Build and train your model, Model management, Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-concept
 ---
 
 # Pre-built vocabulary

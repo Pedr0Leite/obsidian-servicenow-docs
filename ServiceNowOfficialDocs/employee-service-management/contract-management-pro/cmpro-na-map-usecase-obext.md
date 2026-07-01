@@ -11,6 +11,13 @@ last_updated: "2025-10-28"
 reading_time_minutes: 2
 keywords: [Obligation extraction use case mapping]
 breadcrumb: [Configure obligation extraction, Configure, Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Map a use case for contract obligation extraction

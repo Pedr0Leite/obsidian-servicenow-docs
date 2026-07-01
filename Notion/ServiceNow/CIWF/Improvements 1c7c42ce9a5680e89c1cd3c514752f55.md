@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Improvements"
+area: "CIWF"
+source: notion-export
 tags:
   - ciwf
   - case-study

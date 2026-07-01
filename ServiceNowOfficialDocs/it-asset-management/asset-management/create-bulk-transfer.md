@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Transfer order tasks, Manage transfer order, Use, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-task
 ---
 
 # Perform bulk updates for transfer order lines

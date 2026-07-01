@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Explore Cloud Workspace, Explore CW, What is Cloud Workspace, Benefits of Cloud Workspace, Subscription accounts in Cloud Workspace, personas in Cloud Workspace]
 breadcrumb: [Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-concept
 ---
 
 # Exploring Cloud Account Management

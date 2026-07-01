@@ -11,6 +11,13 @@ last_updated: "2025-03-17"
 reading_time_minutes: 9
 keywords: [Create record using ServiceNow lens, Scan document using ServiceNow lens, Scan image using ServiceNow lens, Scan scanned document using ServiceNow lens, Scan email using ServiceNow lens]
 breadcrumb: [Use, ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-task
 ---
 
 # Create a record in an instance by using ServiceNow AI Lens

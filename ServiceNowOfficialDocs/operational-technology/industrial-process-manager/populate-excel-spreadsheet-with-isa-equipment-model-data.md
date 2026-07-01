@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Importing equipment model data, Configure, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-concept
 ---
 
 # Populating your Microsoft Excel spreadsheet with equipment model data

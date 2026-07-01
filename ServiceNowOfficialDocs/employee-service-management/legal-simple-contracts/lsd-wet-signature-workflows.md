@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Signature process for a legal request, Non-disclosure agreement requests in Legal Simple Contracts, Requests, Legal Simple Contracts, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - contracts
+  - simplified
+  - clm
+  - type-concept
 ---
 
 # Wet Signature workflow

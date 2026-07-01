@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request Management integration with Universal Request, Configure, Request Management, IT Service Management]
+tags:
+  - it-service-management
+  - requests
+  - catalog
+  - fulfillment
+  - itsm
+  - type-task
 ---
 
 # Requested item state mapping

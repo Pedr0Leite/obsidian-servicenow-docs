@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 1
 breadcrumb: [Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Industry-specific Enterprise Asset Management solutions

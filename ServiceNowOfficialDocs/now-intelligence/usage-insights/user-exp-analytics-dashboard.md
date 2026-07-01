@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Exploring Usage Insights, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-concept
 ---
 
 # Navigating the Usage Insights application

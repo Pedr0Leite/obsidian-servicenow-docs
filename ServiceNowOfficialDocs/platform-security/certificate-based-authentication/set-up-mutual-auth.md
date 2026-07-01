@@ -12,6 +12,13 @@ reading_time_minutes: 5
 keywords: [certificate-based authentication, mutual authentication, PIV, CAC, PEM certificate, inbound web services, REST, SOAP, sso\_config\_admin, ADCv2]
 audience: administrator
 breadcrumb: [Certificate-based authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - certificates
+  - mtls
+  - pki
+  - authentication
+  - type-task
 ---
 
 # Set up Certificate-based authentication

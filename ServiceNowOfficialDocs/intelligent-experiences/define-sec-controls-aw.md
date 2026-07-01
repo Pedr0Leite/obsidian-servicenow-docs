@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-23"
 reading_time_minutes: 3
 breadcrumb: [Create an agentic workflow, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Define security controls for an agentic workflow

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-13"
 reading_time_minutes: 8
 breadcrumb: [Components installed with Smart Assessment Engine, Reference, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-reference
 ---
 
 # Tables installed in Smart Assessment Engine

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Health Log Analytics, HLA, HLA alerts, alert generation, alert metrics, anomaly, anomalies, anomalous, pattern, keywords, correlator, correlation]
 breadcrumb: [Exploring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # How Health Log Analytics generates alerts

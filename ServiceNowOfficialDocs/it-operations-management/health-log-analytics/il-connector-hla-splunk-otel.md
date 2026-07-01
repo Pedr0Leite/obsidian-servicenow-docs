@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 5
 keywords: [Health Log Analytics, HLA, Splunk, OpenTelemetry, OTel, integration, data input, MID-less log streaming, ITOM Gateway, JSON Web Token \(JWT\)]
 breadcrumb: [MID-less integrations, Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Set up a Splunk OpenTelemetry Collector \(MID-less\) integration for Health Log Analytics

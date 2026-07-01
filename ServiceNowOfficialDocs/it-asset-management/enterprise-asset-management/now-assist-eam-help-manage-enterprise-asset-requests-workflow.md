@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Fulfilling enterprise asset requests, Using Service Catalog for Enterprise Asset Management requests and flows, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Fulfill enterprise asset requests by using the help manage enterprise asset requests agentic workflow

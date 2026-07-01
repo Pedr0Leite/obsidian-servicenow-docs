@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Configuring, Now Assist Admin, console, ServiceNow AI Platform, GenAI, Generative AI]
 breadcrumb: [Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Overview tab in Now Assist Admin

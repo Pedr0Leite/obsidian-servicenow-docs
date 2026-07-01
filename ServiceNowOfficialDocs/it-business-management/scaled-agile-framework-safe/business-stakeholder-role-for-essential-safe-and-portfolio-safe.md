@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-reference
 ---
 
 # Business stakeholder role for Essential SAFe and Portfolio SAFe

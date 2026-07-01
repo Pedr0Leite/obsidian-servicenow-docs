@@ -9,6 +9,9 @@ last_updated: "2026-05-07"
 reading_time_minutes: 5
 keywords: [troubleshooting, build failures, empty UI pages, context limits, rate limit errors, deployment issues, debugging, error messages, Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Common issues and solutions in Build Agent

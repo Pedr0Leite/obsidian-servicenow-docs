@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-27"
 reading_time_minutes: 1
 breadcrumb: [Configure, Anonymous Report Center \(ARC\), Employee Relations, Case and Knowledge Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - hr
+  - cases
+  - service-catalog
+  - type-task
 ---
 
 # Add ARC catalog items to the Employee Center

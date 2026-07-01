@@ -11,6 +11,13 @@ last_updated: "2025-11-10"
 reading_time_minutes: 6
 keywords: [Now Assist, regulatory analysis, agentic workflow, Integrated Risk Management]
 breadcrumb: [Explore, Now Assist, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # Get regulatory analysis agentic workflow

@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Recall a campaign phase, Create a campaign, Recall management, Agent management, Use, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-task
 ---
 
 # Create a phase and sub-phase in a recall campaign

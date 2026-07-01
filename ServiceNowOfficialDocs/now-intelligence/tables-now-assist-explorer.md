@@ -10,6 +10,9 @@ reading_time_minutes: 2
 keywords: [roles, tables, permissions, explorations, AI canvas, notebook, now assist explorer, semantic data layer, workspaces, metadata]
 audience: administrator
 breadcrumb: [Reference, AI Data Explorer, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Roles and tables installed with AI Data Explorer

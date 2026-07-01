@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-03"
 reading_time_minutes: 96
 breadcrumb: [Available patches and hotfixes, Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Australia Patch 1

@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Components installed with Contract Management, Contract Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - contracts
+  - renewals
+  - itsm
+  - type-reference
 ---
 
 # Business rules installed with Contract Management

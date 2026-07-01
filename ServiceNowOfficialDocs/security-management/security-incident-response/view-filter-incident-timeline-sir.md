@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 2
 keywords: [view incident timeline, filter timeline events]
 breadcrumb: [Working with Security Incident Records, Use, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-task
 ---
 
 # View and filter the incident timeline

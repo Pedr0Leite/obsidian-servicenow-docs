@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - generative-ai
+  - controller
+  - llm
+  - prompts
+  - type-task
 ---
 
 # Set a provider for a generative AI capability

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Impact Foundations, Impact operating model, Exploring Impact, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Customer Impact Plan

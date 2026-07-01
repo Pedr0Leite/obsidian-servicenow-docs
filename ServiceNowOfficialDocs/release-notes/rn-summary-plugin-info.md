@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-12"
 reading_time_minutes: 21
 breadcrumb: [Release notes summaries for Australia features, Release notes for upgrading from Zurich, Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-reference
 ---
 
 # Plugin information for all Australia features and products

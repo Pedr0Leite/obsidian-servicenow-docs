@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Track Platform Health trends, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Scan Engine Developer dashboard

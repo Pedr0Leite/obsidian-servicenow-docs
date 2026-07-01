@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Discovery, Admin, Workspace]
 breadcrumb: [Discover applications based on fingerprints, Running discoveries in your network, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Discover applications using application fingerprints or ITOM Content Service

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Components installed with plugins, Reference, Retail]
+tags:
+  - retail-industry
+  - type-reference
 ---
 
 # Components installed with Smart Assessments for CSM

@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-04-06"
 reading_time_minutes: 4
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Generative AI Controller release notes

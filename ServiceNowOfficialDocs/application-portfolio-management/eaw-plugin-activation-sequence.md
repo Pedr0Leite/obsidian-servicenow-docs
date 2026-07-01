@@ -8,6 +8,13 @@ topic_type: reference
 last_updated: "2026-05-18"
 reading_time_minutes: 4
 breadcrumb: [Install Enterprise Architecture Workspace, Configuring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-reference
 ---
 
 # Application plugin installation sequence for Enterprise Architecture Workspace

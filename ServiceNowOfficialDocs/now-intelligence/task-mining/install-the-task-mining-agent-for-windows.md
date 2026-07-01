@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-27"
 reading_time_minutes: 3
 breadcrumb: [Install the Task Mining agent, Configure, Task Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - task-mining
+  - desktop
+  - process-capture
+  - analytics
+  - type-task
 ---
 
 # Install the Task Mining agent for Windows

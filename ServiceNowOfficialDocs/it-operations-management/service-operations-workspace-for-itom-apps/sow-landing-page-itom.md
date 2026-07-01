@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Service Operations Workspace ITOM subscriptions]
 breadcrumb: [ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-reference
 ---
 
 # Service Operations Workspace for ITOM

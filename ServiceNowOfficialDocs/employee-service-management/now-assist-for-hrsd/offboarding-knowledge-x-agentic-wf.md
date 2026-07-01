@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-02-04"
 reading_time_minutes: 4
 breadcrumb: [Use agentic workflows, Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - hrsd
+  - generative
+  - type-concept
 ---
 
 # Offboarding knowledge transfer plan generation agentic workflow

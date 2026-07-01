@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Enterprise Architecture Resource Library"
+area: "Vault Root"
+source: notion-export
 tags:
   - enterprise-architecture
   - csdm

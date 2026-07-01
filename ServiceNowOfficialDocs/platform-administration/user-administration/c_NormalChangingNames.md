@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Normalization data services, Creating users, companies, departments, User administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - users
+  - groups
+  - roles
+  - access
+  - type-concept
 ---
 
 # Changing normalized company names

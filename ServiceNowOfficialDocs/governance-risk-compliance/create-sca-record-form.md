@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-31"
 reading_time_minutes: 1
 breadcrumb: [Create a scenario analysis record using simulation, Building a scenario analysis using simulation, Scenario analysis using simulation, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Create Scenario Analysis form

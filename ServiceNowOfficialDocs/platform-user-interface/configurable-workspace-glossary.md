@@ -9,6 +9,9 @@ last_updated: "2026-06-25"
 reading_time_minutes: 4
 keywords: [dashboard]
 breadcrumb: [Reference, Configurable Workspace UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-concept
 ---
 
 # Configurable Workspace glossary

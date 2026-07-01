@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Word add-in, Microsoft Word add-in, Add-ins for ServiceNow contracts, Add-ins for Contract Management]
 breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Configure the Microsoft Word add-in for ServiceNow Contracts

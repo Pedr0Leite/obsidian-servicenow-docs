@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up the integration between Jira and Agile Development 2.0, Atlassian Jira Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - jira
+  - integration
+  - atlassian
+  - itbm
+  - type-task
 ---
 
 # Reset mapping configuration of Jira projects

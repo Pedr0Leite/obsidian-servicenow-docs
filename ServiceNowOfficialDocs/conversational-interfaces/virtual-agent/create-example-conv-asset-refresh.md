@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [Asset, Refresh, Topic, Virtual Agent, Designer, ITSM, Conversations, plugin, com.glide.cs.chatbot, NLU, Natural Language Undersatnding]
 breadcrumb: [Example Asset Refresh Virtual Agent conversation with notifications, Virtual Agent chat widget interface for NLU, Explore, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Create the Asset Refresh topic in Virtual Agent Designer

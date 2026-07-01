@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Enable on-call scheduling in SOW ITOM]
 breadcrumb: [On-call scheduling in SOW for ITOM, Configuring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-task
 ---
 
 # Add alert table to enable on-call scheduling for Service Operations Workspace for ITOM

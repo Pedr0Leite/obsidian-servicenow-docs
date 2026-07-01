@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up Work scheduler, Optimize workforce operations, Extend capabilities, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Customize a Work Scheduler card using the Next Experience UI Builder

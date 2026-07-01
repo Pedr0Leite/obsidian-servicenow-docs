@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-20"
 reading_time_minutes: 3
 breadcrumb: [Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Data protection

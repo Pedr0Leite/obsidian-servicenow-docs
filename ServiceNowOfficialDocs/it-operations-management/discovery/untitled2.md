@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 1
 keywords: [Agent Client Collector, Kubernetes, Visibility, advanced configuration, settings, Cloud Native Operations for Visibility, CNO for Visibility]
 breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using Kubernetes Visibility Agent, Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # Install Kubernetes Visibility Agent \(KVA\) using the Terraform Helm provider

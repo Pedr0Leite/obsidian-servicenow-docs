@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Master data tables for Purchase Order Management, Reference, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-reference
 ---
 
 # Purchase Order Exception

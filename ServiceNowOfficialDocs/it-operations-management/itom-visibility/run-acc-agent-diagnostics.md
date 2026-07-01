@@ -11,6 +11,13 @@ last_updated: "2026-05-18"
 reading_time_minutes: 1
 keywords: [ACC, agent diagnostics, agent client collector, diagnostic tests, Infra Services Workspace]
 breadcrumb: [Use the Agent Client Collector \(ACC\) admin workspace, Use ITOM Infra Services Workspace, ITOM Infra Services Workspace, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-task
 ---
 
 # Run diagnostics on an Agent Client Collector agent

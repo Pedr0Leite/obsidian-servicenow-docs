@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-02"
 reading_time_minutes: 2
 breadcrumb: [Reference, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-reference
 ---
 
 # Components installed with Collaborative Work Management

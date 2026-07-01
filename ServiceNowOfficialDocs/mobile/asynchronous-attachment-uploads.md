@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Mobile properties, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Asynchronous attachment uploads

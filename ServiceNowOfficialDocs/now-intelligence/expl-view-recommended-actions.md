@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, AI Data Explorer, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # View recommended actions in AI Data Explorer

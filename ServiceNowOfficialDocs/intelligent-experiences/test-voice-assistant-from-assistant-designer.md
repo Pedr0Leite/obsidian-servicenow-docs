@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Test AI voice agents, Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Test a voice assistant from Assistant Designer

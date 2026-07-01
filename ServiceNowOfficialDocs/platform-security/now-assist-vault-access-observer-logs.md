@@ -9,6 +9,9 @@ last_updated: "2026-03-23"
 reading_time_minutes: 1
 keywords: [Now Assist, agentic AI]
 breadcrumb: [Use agentic AI, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Summarize Access Observer logs agentic workflow

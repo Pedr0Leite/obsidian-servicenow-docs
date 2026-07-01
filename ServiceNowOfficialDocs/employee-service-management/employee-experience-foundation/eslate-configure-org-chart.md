@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 1
 keywords: [organization chart, org chart configuration, eligible users, employee card fields, Employee Slate]
 breadcrumb: [Employee Org chart, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure the organization chart for Employee Slate

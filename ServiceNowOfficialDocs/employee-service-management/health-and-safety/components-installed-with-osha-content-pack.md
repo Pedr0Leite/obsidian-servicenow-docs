@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Health and Safety Incident Management OSHA Content Pack, Health and Safety injury and illness reports, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-reference
 ---
 
 # Components installed with Health and Safety Incident Management OSHA Content Pack

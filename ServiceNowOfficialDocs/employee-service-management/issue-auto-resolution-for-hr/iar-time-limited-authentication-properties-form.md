@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Simplifying authentication experience, Use, Issue Auto Resolution for HR, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - auto-resolution
+  - ai
+  - hr
+  - deflection
+  - type-reference
 ---
 
 # Time Limited Authentication Properties form

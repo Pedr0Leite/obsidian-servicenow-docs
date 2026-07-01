@@ -11,6 +11,13 @@ last_updated: "2026-02-02"
 reading_time_minutes: 3
 keywords: [Generative AI, generative AI for Customer Service Management, generative AI for customer service agents]
 breadcrumb: [Use agentic AI in CSM, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-concept
 ---
 
 # AI voice agent in CSM

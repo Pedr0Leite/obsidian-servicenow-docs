@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Assess a trainee, Coaching your trainee, Training agents using Coaching with Learning, Coaching, IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Assign skills after completing an assessment

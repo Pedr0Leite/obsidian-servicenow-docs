@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Set up an external knowledge base search source"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - search-sources
@@ -129,6 +131,9 @@ Each search result opens in the external site defined in the search page templat
 [Tutorial: set up an external knowledge base search source • Washington DC ServiceNow AI Platform user interface • Docs | ServiceNow](https://www.servicenow.com/docs/r/washingtondc/platform-user-interface/service-portal/search-sp-advanced-ext-kb.html)
 
 ## Related
+- [[DevOps]]
+- [[REST]]
+- [[Integrations – Service Portal]]
 
 - [[Search Sources]]
 - [[ServiceNow – Service Portal]]

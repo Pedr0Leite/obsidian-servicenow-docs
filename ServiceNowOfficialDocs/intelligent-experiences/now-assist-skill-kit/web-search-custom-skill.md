@@ -11,6 +11,13 @@ last_updated: "2025-04-18"
 reading_time_minutes: 2
 keywords: [Now Assist, Virtual Agent, Web Search, custom skill, AI Search, LLM]
 breadcrumb: [Now Assist Skill Kit reference, Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-reference
 ---
 
 # Web search custom skill

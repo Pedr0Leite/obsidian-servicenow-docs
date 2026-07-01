@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-02"
 reading_time_minutes: 2
 breadcrumb: [Configuring External Key Management Service, External Key Management Service, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Set up Module Access Policies

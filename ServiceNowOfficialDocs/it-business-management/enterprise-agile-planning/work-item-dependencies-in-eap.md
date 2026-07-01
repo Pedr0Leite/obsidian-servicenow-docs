@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Perform PI planning, Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-concept
 ---
 
 # Work item dependencies in EAP

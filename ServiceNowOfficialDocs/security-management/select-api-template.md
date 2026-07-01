@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 4
 breadcrumb: [Creating an API connector with a generative AI skill, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create an API connector with generative AI

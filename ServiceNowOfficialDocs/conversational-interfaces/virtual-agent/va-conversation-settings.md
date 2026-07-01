@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Chat, experiences, Virtual Agent, context, AI Search, Lite, custom, Conversational Interfaces, custom greetings and setup]
 breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Customizing a Virtual Agent chat experience

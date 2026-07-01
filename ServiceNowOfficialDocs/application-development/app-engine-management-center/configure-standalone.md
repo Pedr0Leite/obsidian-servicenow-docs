@@ -11,6 +11,13 @@ last_updated: "2026-06-03"
 reading_time_minutes: 2
 keywords: [standalone, environment setup, without pipeline]
 breadcrumb: [Configure, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-task
 ---
 
 # Configure a standalone environment

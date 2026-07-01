@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [explore]
 breadcrumb: [Request Management, IT Service Management]
+tags:
+  - it-service-management
+  - requests
+  - catalog
+  - fulfillment
+  - itsm
+  - type-concept
 ---
 
 # Exploring Request Management

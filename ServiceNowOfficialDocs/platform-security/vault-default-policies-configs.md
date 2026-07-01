@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 1
 keywords: [vault default policies configurations anonymization log export service]
 breadcrumb: [ServiceNow Vault console dashboard, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Default policies and configurations in ServiceNow Vault

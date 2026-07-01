@@ -10,6 +10,13 @@ topic_type: topic
 last_updated: "2022-08-11"
 reading_time_minutes: 1
 breadcrumb: [Troubleshooting, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-topic
 ---
 
 # Duplicate cost allocation for same invoice line

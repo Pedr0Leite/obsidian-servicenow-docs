@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [ServiceNow, Health Log Analytics, HLA, logs, tagging, mapping, auto-map, data input, source type, binding log data, CMDB]
 breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Log data auto-mapping and mapping in Health Log Analytics

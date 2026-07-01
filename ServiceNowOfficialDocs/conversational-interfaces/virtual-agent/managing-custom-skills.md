@@ -11,6 +11,13 @@ last_updated: "2026-03-24"
 reading_time_minutes: 2
 keywords: [Conversational, Action, Virtual Agent, Designer, GenAI]
 breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Managing custom skills in Assistant Designer Asset library

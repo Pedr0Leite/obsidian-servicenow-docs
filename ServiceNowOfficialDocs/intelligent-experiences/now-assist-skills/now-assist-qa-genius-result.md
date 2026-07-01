@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-07"
 reading_time_minutes: 1
 breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Now Assist Q&amp;A Genius Results

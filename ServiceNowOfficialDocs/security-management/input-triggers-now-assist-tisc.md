@@ -9,6 +9,9 @@ last_updated: "2026-05-18"
 reading_time_minutes: 1
 keywords: [Now Assist TISC, Threat Intelligence Security Center]
 breadcrumb: [Configure, Now Assist for Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Inputs and triggers for Now Assist for Threat Intelligence Security Center

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Now Assist for Platform Health

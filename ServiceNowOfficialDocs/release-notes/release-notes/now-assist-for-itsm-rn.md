@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-06-06"
 reading_time_minutes: 9
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Now Assist for IT Service Management \(ITSM\) release notes

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Task Intelligence – Considerations for Designing, Maintaining, and Sca"
+area: "AI & VA"
+source: notion-export
 tags:
   - task-intelligence
   - now-intelligence

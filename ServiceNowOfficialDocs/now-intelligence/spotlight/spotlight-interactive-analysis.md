@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Ranking records with Spotlight, Configure advanced features, Performance Analytics \(Indicator data sources\), Platform Analytics]
+tags:
+  - now-intelligence
+  - spotlight
+  - anomaly
+  - root-cause
+  - analytics
+  - type-concept
 ---
 
 # Spotlight interactive analysis

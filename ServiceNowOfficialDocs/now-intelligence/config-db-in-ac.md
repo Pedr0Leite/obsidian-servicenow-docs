@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [How to change dashboard visibility, How to add dashboard description, How to certify a dashboard, How to set dashboard owner, How to see dashboard creator, How to see whom the dashboard has been shared with, How to make a dashboard available on a workspace]
 breadcrumb: [Configure, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Configure Platform Analytics dashboard details

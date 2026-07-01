@@ -6,6 +6,13 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
+tags:
+  - employee-service-management
+  - esm
+  - hr
+  - service-delivery
+  - platform
+  - type-reference
 ---
 
 # Components installed with Content Analytics

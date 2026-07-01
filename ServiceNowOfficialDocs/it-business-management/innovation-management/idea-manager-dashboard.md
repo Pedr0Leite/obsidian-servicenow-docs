@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Innovation Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - innovation
+  - ideas
+  - evaluation
+  - itbm
+  - type-concept
 ---
 
 # Analyzing idea metrics using Idea Manager dashboard

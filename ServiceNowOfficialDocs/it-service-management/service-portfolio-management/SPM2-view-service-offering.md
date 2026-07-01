@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Service offerings in Service Portfolio Management, Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-task
 ---
 
 # View a service offering in Service Portfolio Management

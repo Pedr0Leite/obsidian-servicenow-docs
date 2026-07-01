@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [configure]
 breadcrumb: [Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Configuring Impact

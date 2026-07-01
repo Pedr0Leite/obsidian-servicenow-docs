@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Configuring, smart links, Microsoft Teams, MSTeams, Virtual Agent, Task module]
 breadcrumb: [Configure link authentication and opening experience in Microsoft Teams, Configure VA for Teams, Conversational Integration with Microsoft Teams, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Configuring smart links in Microsoft Teams

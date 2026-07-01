@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [GCP Virtual Server, GCP VM instance, Google Cloud virtual machine, GCP discovery, GCP patterns, Compute Engine, Google Cloud Platform Virtual Server discovery]
 breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # GCP virtual server pattern-based discovery

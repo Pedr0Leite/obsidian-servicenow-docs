@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Synthetic monitoring reference, Synthetic monitoring, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-reference
 ---
 
 # Components installed with synthetic monitoring

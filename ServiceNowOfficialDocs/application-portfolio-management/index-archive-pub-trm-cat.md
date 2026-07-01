@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-04-17"
 reading_time_minutes: 1
 breadcrumb: [AI Search on the TRM catalog, Working with the publishing center, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Index previously published TRM catalog records for AI Search

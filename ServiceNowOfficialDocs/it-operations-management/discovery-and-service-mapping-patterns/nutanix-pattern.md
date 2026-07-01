@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-03"
 reading_time_minutes: 11
 breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Nutanix Acropolis discovery

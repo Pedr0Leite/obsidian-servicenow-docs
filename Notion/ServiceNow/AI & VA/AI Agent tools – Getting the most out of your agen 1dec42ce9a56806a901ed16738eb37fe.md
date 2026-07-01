@@ -1,6 +1,8 @@
 ---
 aliases:
   - "AI Agent tools – Getting the most out of your agen"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -84,6 +86,9 @@ There are two ways to perform a Web Search - “Search and scrape” or “AI An
 [](https://www.servicenow.com/community/image/serverpage/image-id/432278i5672AE288B2DA2F0/image-size/medium?v=v2&px=400)
 
 ## Related
+- [[Introducing AI Agents and Quick Start Guide]]
+- [[AI & VA]]
+- [[Agentic Workflow & AI Agents – Tips]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Best Practices for Creating AI Agent Workflows]]

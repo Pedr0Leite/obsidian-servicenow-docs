@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overview, Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Review threat group and MITRE-ATT&amp;CK techniques mapping

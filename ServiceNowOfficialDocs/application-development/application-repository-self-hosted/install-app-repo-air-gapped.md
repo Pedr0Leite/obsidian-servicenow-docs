@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Application Repository for self-hosted, air-gapped customers, ServiceNow application repository, Application sharing, Administer your apps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - repository
+  - self-hosted
+  - app-management
+  - versioning
+  - type-task
 ---
 
 # Installing the Application Repository store app on an air-gapped instance

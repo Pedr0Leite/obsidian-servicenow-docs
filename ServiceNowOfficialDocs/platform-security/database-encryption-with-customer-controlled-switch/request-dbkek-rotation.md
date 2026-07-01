@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Database Encryption, Encryption]
+tags:
+  - platform-security
+  - db-encryption
+  - customer-key
+  - cmk
+  - security
+  - type-task
 ---
 
 # Requesting database key rotation

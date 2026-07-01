@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-06-01"
 reading_time_minutes: 5
 keywords: [AI Risk and Compliance, AIRC release notes, AI governance, SB 53, Colorado AI Act, impact assessment auto-population, template versioning, multi-framework citations]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # AI Risk and Compliance release notes

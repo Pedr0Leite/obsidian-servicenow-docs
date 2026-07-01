@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-concept
 ---
 
 # Use the Patient Portal for Healthcare and Life Sciences Service Management

@@ -11,6 +11,13 @@ last_updated: "2026-04-21"
 reading_time_minutes: 3
 keywords: [publish, finalize, Now Assist Skill Kit]
 breadcrumb: [Using Now Assist Skill Kit, Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-task
 ---
 
 # Finalize and publish a skill

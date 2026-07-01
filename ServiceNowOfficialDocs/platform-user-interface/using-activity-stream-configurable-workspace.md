@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-concept
 ---
 
 # Using the Activity stream in Configurable Workspace

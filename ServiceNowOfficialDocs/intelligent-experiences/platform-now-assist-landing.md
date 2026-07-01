@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [generative AI, Gen AI, Now Assist, Artificial intelligence, Virtual Agent, LLM]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Now Assist

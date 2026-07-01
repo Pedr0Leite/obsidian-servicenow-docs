@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [workspace for fraud agent, fraud agent workspace, fraud case management workspace, process fraud cases and tasks, fraud workload monitoring, high priority fraud cases, workspace landing page, open fraud cases, sla at risk]
 breadcrumb: [Use, Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-concept
 ---
 
 # Workspace for fraud agent

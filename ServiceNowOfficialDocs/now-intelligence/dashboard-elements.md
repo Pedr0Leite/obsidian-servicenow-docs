@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-22"
 reading_time_minutes: 4
 breadcrumb: [Explore, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Dashboard elements

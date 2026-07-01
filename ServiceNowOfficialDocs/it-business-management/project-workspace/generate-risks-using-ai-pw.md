@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-04-20"
 reading_time_minutes: 1
 breadcrumb: [Managing projects with Project Workspace, Project Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-task
 ---
 
 # Generate, accept, and reject risks using risk generation skill

@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 3
 keywords: [needs-attention alerts, alert triage, recruiter workspace, interview alerts, availability request alerts]
 breadcrumb: [Use, Interview Management, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - interviews
+  - scheduling
+  - hiring
+  - hr
+  - type-concept
 ---
 
 # Tracking interview health

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Access to cloud environments for ITOM products, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # Set up a cloud service account

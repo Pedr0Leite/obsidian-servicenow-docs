@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [out-of-sync principal class]
 breadcrumb: [Manage advisor scope, Advisor setup, Use Data Foundations advisor, CMDB success advisor, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Resolve an out-of-sync principal class state in the Data Foundations advisor

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-03"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for CSM Major Issue Management, Manage cases, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Review a proposed major case

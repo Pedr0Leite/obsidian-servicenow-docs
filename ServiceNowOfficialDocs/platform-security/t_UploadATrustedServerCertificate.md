@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Uploading a certificate to an instance, Certificates, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Uploading a trusted server certificate

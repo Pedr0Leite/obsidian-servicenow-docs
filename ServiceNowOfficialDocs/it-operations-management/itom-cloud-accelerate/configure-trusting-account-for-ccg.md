@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Set up Cloud Configuration Governance for AWS, Exploring Cloud Configuration Governance, Cloud Configuration Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accelerate
+  - itom
+  - setup
+  - rapid
+  - type-task
 ---
 
 # Configure the trusting account for Cloud Configuration Governance and Cloud Action Library

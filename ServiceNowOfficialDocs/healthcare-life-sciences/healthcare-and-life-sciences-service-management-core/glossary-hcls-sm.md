@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 14
 keywords: [glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms]
 breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-reference
 ---
 
 # Healthcare and Life Sciences Service Management glossary

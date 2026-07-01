@@ -11,6 +11,13 @@ last_updated: "2026-06-02"
 reading_time_minutes: 1
 keywords: [AEMC]
 breadcrumb: [Explore, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-concept
 ---
 
 # App Readiness and Compliance Report

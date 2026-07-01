@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [sys\_channel, conversational custom chat integration, Messaging Channels, Virtual Agent, Agent chat, com.glide.cs.custom.adapter, CCCIF, Integration Hub]
 breadcrumb: [Create conversational custom chat integration, Conversational custom chat integrations, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Create a new channel for your custom chat integration

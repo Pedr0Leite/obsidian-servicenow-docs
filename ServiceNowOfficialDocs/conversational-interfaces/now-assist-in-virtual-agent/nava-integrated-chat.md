@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-01-23"
 reading_time_minutes: 17
 breadcrumb: [Using Now Assist in Virtual Agent, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-concept
 ---
 
 # Premium chat

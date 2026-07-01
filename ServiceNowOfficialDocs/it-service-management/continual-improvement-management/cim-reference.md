@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Continual Improvement Management, IT Service Management]
+tags:
+  - it-service-management
+  - cim
+  - improvements
+  - itsm
+  - metrics
+  - type-reference
 ---
 
 # Continual Improvement Management reference

@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-05-14"
 reading_time_minutes: 1
 breadcrumb: [Install Quote Management for Channel Partners, Configure Partner Relationship Management, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Quote creation via Self-Service for Channel Partners

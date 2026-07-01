@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Collaboration with major incidents, Managing major incidents using Major Incident applet, ITSM Mobile Agent, IT Service Management]
+tags:
+  - it-service-management
+  - mobile
+  - agents
+  - itsm
+  - ios-android
+  - type-task
 ---
 
 # Initiate a chat with the assignment group from a major incident

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Moving Cloud Provisioning and Governance content across environments, Cloud Provisioning and Governance administration guide, Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-config
+  - drift
+  - compliance
+  - itom
+  - type-task
 ---
 
 # Move a resource block from one environment to the other

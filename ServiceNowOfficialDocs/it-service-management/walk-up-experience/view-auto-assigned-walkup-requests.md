@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience, IT Service Management]
+tags:
+  - it-service-management
+  - walk-up
+  - kiosk
+  - support
+  - itsm
+  - type-task
 ---
 
 # Manage automatically assigned Walk-up Experience interactions

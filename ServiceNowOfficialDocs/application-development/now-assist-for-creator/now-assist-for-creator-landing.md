@@ -11,6 +11,13 @@ last_updated: "2026-04-22"
 reading_time_minutes: 5
 keywords: [Now Assist, Now Assist for Creator, create with Now Assist, Install Now Assist for Creator, Creator Workflow, Creator Pro Plus, Build Agent, Flow generation, App generation]
 breadcrumb: [Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-concept
 ---
 
 # Now Assist for Creator

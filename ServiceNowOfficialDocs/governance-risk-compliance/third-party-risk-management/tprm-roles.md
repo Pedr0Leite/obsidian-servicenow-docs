@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-05"
 reading_time_minutes: 5
 breadcrumb: [Reference, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-reference
 ---
 
 # Roles in Third-party Risk Management

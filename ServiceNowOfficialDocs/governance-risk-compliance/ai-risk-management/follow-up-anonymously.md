@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [follow up anonymous report, anonymous report center, track AI case anonymously, report key]
 breadcrumb: [Report an AI case anonymously, Use, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Follow up on a report from the Anonymous Reporting Center

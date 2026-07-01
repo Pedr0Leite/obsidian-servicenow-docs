@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 2
 keywords: [substitute interviewer, interview substitution, replace interviewer, interview invitation, recruiting coordinator]
 breadcrumb: [Managing interviews as an interviewer, Use, Interview Management, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - interviews
+  - scheduling
+  - hiring
+  - hr
+  - type-task
 ---
 
 # Substitute yourself as an interviewer

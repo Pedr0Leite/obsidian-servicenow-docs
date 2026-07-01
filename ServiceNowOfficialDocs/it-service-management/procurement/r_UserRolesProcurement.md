@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Components installed with Procurement, Activate Procurement, Procurement, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - procurement
+  - orders
+  - catalog
+  - itsm
+  - type-reference
 ---
 
 # User roles installed with Procurement

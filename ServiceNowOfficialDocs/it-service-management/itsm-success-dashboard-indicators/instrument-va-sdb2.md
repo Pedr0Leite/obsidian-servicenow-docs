@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Virtual Agent topics for ITSM Success Dashboard, ITSM Success Dashboard Admin console, Configure, ITSM Success Dashboard indicators, IT Service Management]
+tags:
+  - it-service-management
+  - dashboard
+  - success
+  - indicators
+  - itsm
+  - type-task
 ---
 
 # Configure Virtual Agent topics for ITSM Success Dashboard using self-service analytics

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Schedule actions, Use, Health and Safety Core, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - core
+  - ehs
+  - data-model
+  - type-task
 ---
 
 # Create a Health and Safety action schedule

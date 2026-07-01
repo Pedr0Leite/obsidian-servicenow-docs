@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-11"
 reading_time_minutes: 1
 breadcrumb: [Explore, Workplace Visitor Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - visitor-management
+  - check-in
+  - badging
+  - security
+  - type-concept
 ---
 
 # Visitor portal

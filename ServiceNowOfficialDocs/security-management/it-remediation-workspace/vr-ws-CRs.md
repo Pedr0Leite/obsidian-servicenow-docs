@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - remediation
+  - workspace
+  - security
+  - it
+  - type-task
 ---
 
 # Create a change request in the IT Remediation Workspace

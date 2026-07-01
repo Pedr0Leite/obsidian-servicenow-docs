@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - mobile
+  - technicians
+  - fsm
+  - offline
+  - type-task
 ---
 
 # Change Field Service Manager Mobile to use assignment groups or territories

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Skipped Records visual task board \(VTB\), Reviewing upgrade history, Upgrade History tool in Upgrade Console, Upgrade Console tools, Use, Upgrade Console, Upgrade, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - upgrade-management
+  - skipped-fixes
+  - patching
+  - type-task
 ---
 
 # Update default labels in VTB view

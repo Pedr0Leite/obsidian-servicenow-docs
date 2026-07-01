@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 3
 keywords: [Nokia MPN, connector instance, Elastic, fault management, alarm collection]
 breadcrumb: [Configure Telecom Assurance, Configure, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-task
 ---
 
 # Configure elastic connectors for MPN alarm collection

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 29
 breadcrumb: [Server-side scripting, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - business-rules
+  - server-side
+  - scripting
+  - gliderecord
+  - type-concept
 ---
 
 # Classic Business rules

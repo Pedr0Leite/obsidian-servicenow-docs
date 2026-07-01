@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Learning in Workforce Optimization for HR, Coaching in Workforce Optimization for HR, Using Workforce Optimization for HR, Workforce Optimization overview, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workforce-optimization
+  - scheduling
+  - hr
+  - capacity
+  - type-task
 ---
 
 # Create internal learning in Workforce Optimization for HR

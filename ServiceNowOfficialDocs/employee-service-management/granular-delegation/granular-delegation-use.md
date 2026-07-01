@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Granular Delegation, Employee Service Management]
+tags:
+  - employee-service-management
+  - delegation
+  - proxy
+  - roles
+  - hr
+  - type-concept
 ---
 
 # Using Granular Delegation

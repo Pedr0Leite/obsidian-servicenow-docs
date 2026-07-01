@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Types of tracking consent policies, User privacy, tracking, and consent, Configuring Usage Insights, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-task
 ---
 
 # Define how to detect your user's location

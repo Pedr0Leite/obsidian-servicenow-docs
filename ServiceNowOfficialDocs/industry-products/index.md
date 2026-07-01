@@ -4,6 +4,12 @@ locale: en-US
 release: australia
 bundle: indp
 doc_type: toc
+tags:
+  - industry-products
+  - industry
+  - products
+  - verticals
+  - bundles
 ---
 
 # Australia CRM and Industry Products

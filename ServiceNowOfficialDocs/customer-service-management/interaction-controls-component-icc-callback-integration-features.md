@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Callback, CCaaS callback, ICC Callback, Callback requests]
 breadcrumb: [Integrating with contact centers, Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks

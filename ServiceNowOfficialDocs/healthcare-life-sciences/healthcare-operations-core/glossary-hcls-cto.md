@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 31
 keywords: [glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms]
 breadcrumb: [Reference, Healthcare Operations Core, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - healthcare-ops
+  - core
+  - operations
+  - facilities
+  - type-reference
 ---
 
 # Healthcare and Life Sciences Operations glossary

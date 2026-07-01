@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Submitting a deposit service request, Use, Deposit Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - deposits
+  - accounts
+  - fso
+  - banking
+  - type-task
 ---
 
 # Create a deposit service case as a contributor or agent connector

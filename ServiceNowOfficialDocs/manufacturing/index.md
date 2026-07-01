@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: mftg
 doc_type: toc
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
 ---
 
 # Australia Manufacturing

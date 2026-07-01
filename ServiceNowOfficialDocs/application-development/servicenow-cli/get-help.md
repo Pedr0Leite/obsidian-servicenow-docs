@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [ServiceNow CLI, Building low-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - cli
+  - command-line
+  - sn-cli
+  - developer-tools
+  - type-task
 ---
 
 # Get help with ServiceNow CLI

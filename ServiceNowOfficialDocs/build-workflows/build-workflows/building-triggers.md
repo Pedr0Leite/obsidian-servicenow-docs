@@ -6,6 +6,13 @@ release: australia
 topic_type: concept
 last_updated: "2025-06-19"
 reading_time_minutes: 1
+tags:
+  - build-workflows
+  - workflow
+  - flow-designer
+  - automation
+  - orchestration
+  - type-concept
 ---
 
 # Building triggers

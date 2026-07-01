@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Administer PaCE policies, Policy as Code Engine \(PaCE\), Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - pace
+  - policy-as-code
+  - compliance
+  - automation
+  - type-concept
 ---
 
 # Manage PaCE policy categories and tags

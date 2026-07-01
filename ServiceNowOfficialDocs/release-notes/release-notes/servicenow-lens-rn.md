@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2025-08-19"
 reading_time_minutes: 3
 keywords: [ai-now-assist]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # ServiceNow AI Lens release notes

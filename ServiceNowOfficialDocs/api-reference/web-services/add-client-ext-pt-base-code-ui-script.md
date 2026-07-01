@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Creating and adding a client extension point, Using client extension points in client-side UI scripting, Using extension points to extend application functionality, Additional integration resources, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-task
 ---
 
 # Add a client extension point in the base application code

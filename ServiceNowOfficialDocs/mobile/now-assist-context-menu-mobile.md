@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [Exploring Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Write with Now Assist

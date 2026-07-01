@@ -11,6 +11,13 @@ last_updated: "2026-04-30"
 reading_time_minutes: 1
 keywords: [Now, Assist, Microsoft, Teams, Virtual, Agent, Integration, MS, MSTeams]
 breadcrumb: [Install, Conversational Integration with Microsoft Teams, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Activate Now Assist in Virtual Agent for Microsoft Teams

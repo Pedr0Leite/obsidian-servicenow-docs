@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-22"
 reading_time_minutes: 2
 breadcrumb: [Manage and configure reservation waitlist, Manage employee reservations, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-task
 ---
 
 # Purge a waitlist

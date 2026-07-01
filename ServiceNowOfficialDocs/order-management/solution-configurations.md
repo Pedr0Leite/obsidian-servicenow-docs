@@ -9,6 +9,12 @@ last_updated: "2026-03-26"
 reading_time_minutes: 2
 keywords: [solution configuration, CPQ, blueprints, solution root]
 breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Solution configurations

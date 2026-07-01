@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Information Request, Data Model, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # Tables and Flows installed with Information Request Playbook

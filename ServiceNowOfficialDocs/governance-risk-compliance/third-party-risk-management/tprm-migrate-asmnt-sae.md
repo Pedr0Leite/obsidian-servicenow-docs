@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 8
 breadcrumb: [Smart Assessment Engine assessments, Configure, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-concept
 ---
 
 # Migrating from Classic Assessment Engine to Smart Assessment Engine

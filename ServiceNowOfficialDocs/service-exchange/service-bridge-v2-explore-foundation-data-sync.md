@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [foundation data sync, FDS, data sharing, CMDB, provider consumer data]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Foundation data sync

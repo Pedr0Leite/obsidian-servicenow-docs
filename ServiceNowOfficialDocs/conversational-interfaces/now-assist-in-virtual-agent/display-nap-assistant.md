@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-06-24"
 reading_time_minutes: 2
 breadcrumb: [Select a display experience, Create a chat assistant, View assistants, Configuring assistants overview, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-task
 ---
 
 # Display your assistant on Platform or ServiceNow Studio

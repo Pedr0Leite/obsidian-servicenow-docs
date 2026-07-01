@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Work Configurations, Set up work orders and tasks, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - work-orders
+  - fsm
+  - tasks
+  - management
+  - type-concept
 ---
 
 # Setting up dynamic scheduling configuration with work configurations

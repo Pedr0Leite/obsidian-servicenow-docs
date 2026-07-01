@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Plataform Analytics – Metrics"
+area: "Plataform Analytics"
+source: notion-export
 tags:
   - performance-analytics
   - metrics

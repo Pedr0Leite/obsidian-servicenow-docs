@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-12"
 reading_time_minutes: 3
 breadcrumb: [Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Now Assist for Threat Intelligence Security Center

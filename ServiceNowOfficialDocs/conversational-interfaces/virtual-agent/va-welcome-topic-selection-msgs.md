@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [getgreetingmessage, define greeting, live chat automated greetings, greeting message for customers, live chat greetings, greeting words, servicenow virtual agent greeting message, facebook messenger greeting examples, custom greetings and setup servicenow]
 breadcrumb: [Working with setup topics, Customizing a chat experience, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Change the Virtual Agent greeting messages in the Greeting setup topic

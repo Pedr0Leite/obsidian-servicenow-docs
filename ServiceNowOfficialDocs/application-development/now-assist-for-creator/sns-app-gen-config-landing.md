@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 1
 keywords: [agentic ai, app gen, app generation, now assist, application generation, app creation, application creation, servicenow studio, generative ai]
 breadcrumb: [App generation, Use generative AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-concept
 ---
 
 # Configuring app generation

@@ -10,6 +10,14 @@ reading_time_minutes: 2
 keywords: [success blueprint, success objectives, success outcomes, success initiatives, blueprint template, customer success manager, engagement, value realization]
 audience: user
 breadcrumb: [Customer success, Explore, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-concept
 ---
 
 # Success blueprint

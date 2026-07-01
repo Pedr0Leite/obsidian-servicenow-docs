@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 1
 breadcrumb: [AWS, Service Graph Connectors for AI Control Tower, AI connections, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # AWS APIs used for Amazon

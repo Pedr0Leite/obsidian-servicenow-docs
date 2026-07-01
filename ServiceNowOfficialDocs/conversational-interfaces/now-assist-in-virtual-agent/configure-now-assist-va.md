@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-04-21"
 reading_time_minutes: 3
 breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-task
 ---
 
 # Configuring assistants overview

@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [developer sandbox, sandbox developer, servicenow sandbox enabled, development sandbox, dev sandbox, sandbox management, sandbox enabled servicenow, sandbox crm]
 breadcrumb: [Developing your application, Building applications]
+tags:
+  - application-development
+  - sandbox
+  - developer-environment
+  - isolation
+  - type-reference
 ---
 
 # Developer Sandboxes

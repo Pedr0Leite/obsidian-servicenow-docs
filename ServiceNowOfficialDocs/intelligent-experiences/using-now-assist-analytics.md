@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Analytics, dashboard, GenAI, GenerativeAI, sn\_na\_analytics\_admin, sn\_na\_analytics\_viewer]
 breadcrumb: [Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Using Now Assist Analytics

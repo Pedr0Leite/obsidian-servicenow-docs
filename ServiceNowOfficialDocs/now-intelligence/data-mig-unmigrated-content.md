@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-15"
 reading_time_minutes: 2
 breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Content not migrated or migrated in compatibility mode

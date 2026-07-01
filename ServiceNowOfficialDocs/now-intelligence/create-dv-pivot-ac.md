@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 11
 keywords: [Create pivot table report, Create pivot table visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a pivot table data visualization in the Visualization Designer

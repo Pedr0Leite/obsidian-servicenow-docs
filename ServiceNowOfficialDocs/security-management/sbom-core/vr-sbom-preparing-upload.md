@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Use, Software Bill of Materials, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - sbom
+  - bill-of-materials
+  - software
+  - security
+  - type-concept
 ---
 
 # Uploading Software Bill of Materials files using a REST API

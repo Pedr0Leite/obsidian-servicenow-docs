@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up skill prediction, Configure coaching, Configure, Workforce Optimization overview, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workforce-optimization
+  - scheduling
+  - hr
+  - capacity
+  - type-task
 ---
 
 # Use extension points for skill prediction in Workforce Optimization for HR

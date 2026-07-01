@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-AppDynamics, SGC AppDynamics, SGC for AppDynamics, AppDynamics SGC, Service Graph Connector for AppDynamics, Service Graph Connector for Observability - AppDynamics, AppDynamics connection details, AppDynamics connection, common connection framework, CCF, SGC-AppDynamics, SGC AppDynamics, SGC for AppDynamics, AppDynamics SGC, Service Graph Connector for AppDynamics, Service Graph Connector for Observability - AppDynamics, AppDynamics connection details, AppDynamics connection, common connection framework, CCF]
 breadcrumb: [Observability-AppDynamics, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details for Service Graph Connector for Observability - AppDynamics

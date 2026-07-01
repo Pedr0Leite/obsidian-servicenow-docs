@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-01"
 reading_time_minutes: 5
 breadcrumb: [Filter data visualizations with the condition builder, Configure, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Add a dynamic JavaScript filter

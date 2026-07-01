@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 3
 breadcrumb: [Requests, Legal Investigations, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - investigations
+  - cases
+  - compliance
+  - type-task
 ---
 
 # Submit a complaint through Employee Center

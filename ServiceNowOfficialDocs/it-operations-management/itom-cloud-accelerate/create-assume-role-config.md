@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Set up Cloud Configuration Governance for AWS, Exploring Cloud Configuration Governance, Cloud Configuration Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accelerate
+  - itom
+  - setup
+  - rapid
+  - type-task
 ---
 
 # Create an assume role configuration

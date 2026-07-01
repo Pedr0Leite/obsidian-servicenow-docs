@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using Evidence Management, Using HR Service Delivery Employee Relations, Employee Relations, Case and Knowledge Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hrsd
+  - hr
+  - cases
+  - service-catalog
+  - type-task
 ---
 
 # Add case evidence in Agent Workspace for HR Case Management

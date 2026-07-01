@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Chief Procurement Officer \(CPRO\) Dashboard, Executive dashboard overview, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Install the Chief Procurement Officer Dashboard

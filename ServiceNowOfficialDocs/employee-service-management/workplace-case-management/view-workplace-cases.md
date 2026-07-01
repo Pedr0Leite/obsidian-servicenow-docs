@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 5
 breadcrumb: [Manage, Workplace Case Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace
+  - cases
+  - facilities
+  - management
+  - type-task
 ---
 
 # View and track workplace cases

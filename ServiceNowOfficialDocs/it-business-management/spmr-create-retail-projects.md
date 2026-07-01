@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 1
 keywords: [SPM Retail]
 breadcrumb: [Use, Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Create a retail project

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Configure SMTP and IMAP email accounts with Micros"
+area: "Email"
+source: notion-export
 tags:
   - email
   - smtp

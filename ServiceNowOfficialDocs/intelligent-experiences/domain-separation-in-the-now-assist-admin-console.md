@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Domain Separation, Now Assist Admin, console, Generative AI, Gen AI]
 breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Domain separation in the Now Assist Admin console

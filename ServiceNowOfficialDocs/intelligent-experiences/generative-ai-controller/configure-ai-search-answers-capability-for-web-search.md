@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [AI Search answers, Websearch, Web search]
 breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - generative-ai
+  - controller
+  - llm
+  - prompts
+  - type-task
 ---
 
 # Configure AI search answers capability for web search

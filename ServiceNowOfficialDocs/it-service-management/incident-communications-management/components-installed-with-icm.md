@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Incident Communications Management reference, Incident Communications Management, IT Service Management]
+tags:
+  - it-service-management
+  - incident-comms
+  - major-incident
+  - notifications
+  - type-reference
 ---
 
 # Components installed with Incident Communications Management

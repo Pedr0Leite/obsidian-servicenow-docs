@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Compliance Case Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - cases
+  - grc
+  - remediation
+  - type-reference
 ---
 
 # Tables installed with Compliance Case Management

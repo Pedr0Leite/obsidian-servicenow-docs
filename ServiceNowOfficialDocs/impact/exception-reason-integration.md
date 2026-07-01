@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-05"
 reading_time_minutes: 1
 breadcrumb: [Scan Engine integrations, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Exception reason integration

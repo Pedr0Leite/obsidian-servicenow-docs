@@ -11,6 +11,13 @@ last_updated: "2026-04-27"
 reading_time_minutes: 1
 keywords: [goal insights, scheduled job, filter criteria, goals, Strategy and Goals, Now Assist for SPM]
 breadcrumb: [Goal insights generation job, Configure, Strategy and Goals, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-task
 ---
 
 # Configure the goals set for goal insights generation

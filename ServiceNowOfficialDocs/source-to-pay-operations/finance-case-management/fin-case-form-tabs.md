@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a finance case form, Reference, Finance Case Management, Finance and Supply Chain applications, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - finance
+  - cases
+  - fsc
+  - management
+  - type-reference
 ---
 
 # Finance Case form tabs

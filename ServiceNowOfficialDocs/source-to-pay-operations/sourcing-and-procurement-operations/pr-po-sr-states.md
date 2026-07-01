@@ -11,6 +11,13 @@ last_updated: "2026-04-14"
 reading_time_minutes: 11
 keywords: [purchase requisition states, purchase order states, sourcing request states, state transitions, procurement lifecycle, Sourcing and Procurement Operations]
 breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-reference
 ---
 
 # Purchase requisition, purchase order, and sourcing request states

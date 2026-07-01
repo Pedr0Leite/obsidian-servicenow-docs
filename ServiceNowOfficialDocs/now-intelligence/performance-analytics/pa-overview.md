@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2023-02-02"
 reading_time_minutes: 1
 breadcrumb: [Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-concept
 ---
 
 # Performance Analytics \(Indicator data sources\)

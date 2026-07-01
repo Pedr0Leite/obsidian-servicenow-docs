@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create a scheduled job, Scheduled jobs, System scheduler, Explore, Time configuration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - timezone
+  - business-hours
+  - schedules
+  - sla
+  - type-task
 ---
 
 # Enable run types for scheduled job child tables

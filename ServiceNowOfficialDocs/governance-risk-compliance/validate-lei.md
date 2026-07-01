@@ -9,6 +9,9 @@ last_updated: "2026-05-15"
 reading_time_minutes: 5
 keywords: [LEI validation, GLEIF, DORA, Register of Information, Level 4]
 breadcrumb: [Using Digital resilience third-party registers, Maintaining Digital resilience third-party registers, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Validate Legal Entity Identifier codes for DORA reporting

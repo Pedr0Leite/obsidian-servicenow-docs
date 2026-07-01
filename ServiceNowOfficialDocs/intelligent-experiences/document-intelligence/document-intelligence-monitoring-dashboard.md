@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Monitor, Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - document-intelligence
+  - ocr
+  - extraction
+  - ai
+  - type-concept
 ---
 
 # Document Intelligence monitoring dashboard

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Amendment request, View amendment details, Track amendment requests]
 breadcrumb: [Contract amendments, Use, Contract Management Pro for Legal Service Delivery, Integration with ServiceNow applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - lsd
+  - legal
+  - service-delivery
+  - cases
+  - type-task
 ---
 
 # View and track amendment requests as a legal user

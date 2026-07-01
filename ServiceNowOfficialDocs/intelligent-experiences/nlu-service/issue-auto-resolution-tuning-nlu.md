@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-17"
 reading_time_minutes: 1
 breadcrumb: [NLU Workbench - Advanced Features, Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-concept
 ---
 
 # Issue Auto Resolution Tuning in NLU

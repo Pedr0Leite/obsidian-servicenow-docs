@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Public Services Performance Overview dashboard, Public Services Performance metrics, Assess Public Services Performance]
 breadcrumb: [Analytics and Reporting, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Public Services Performance Overview dashboard

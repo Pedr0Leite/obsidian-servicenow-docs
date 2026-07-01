@@ -9,6 +9,9 @@ last_updated: "2026-05-25"
 reading_time_minutes: 1
 keywords: [vault suite, vault, plugins, installation]
 breadcrumb: [Exploring ServiceNow Vault, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Vault Suite

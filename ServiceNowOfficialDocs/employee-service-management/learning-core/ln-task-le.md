@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing course and catalog content, Learning Core, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - learning
+  - lms
+  - courses
+  - training
+  - type-task
 ---
 
 # Create a learning task

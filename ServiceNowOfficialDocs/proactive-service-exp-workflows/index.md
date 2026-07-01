@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: psew
 doc_type: toc
+tags:
+  - proactive-service-exp-workflows
 ---
 
 # Australia Proactive Service Experience Workflows

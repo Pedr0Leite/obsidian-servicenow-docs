@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-04-06"
 reading_time_minutes: 5
 breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Notifications in Advanced Approval Management

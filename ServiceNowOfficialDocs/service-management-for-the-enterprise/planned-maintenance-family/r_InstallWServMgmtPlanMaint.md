@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Activate Planned Maintenance, Planned Maintenance, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - planned-maintenance
+  - scheduling
+  - downtime
+  - sme
+  - type-reference
 ---
 
 # Installed with SM Planned Maintenance

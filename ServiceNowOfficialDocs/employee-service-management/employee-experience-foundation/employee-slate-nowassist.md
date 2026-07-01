@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 3
 keywords: [Employee Slate for Now Assist, Now Assist, conversational catalog, AI widget builder, conversational announcements, notifications]
 breadcrumb: [Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Employee Slate for Now Assist

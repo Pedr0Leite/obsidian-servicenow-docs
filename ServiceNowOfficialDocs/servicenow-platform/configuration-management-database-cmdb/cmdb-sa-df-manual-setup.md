@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Get started with dashboard setup, Advisor setup, Use Data Foundations advisor, CMDB success advisor, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Set up the Data Foundations advisor dashboard manually

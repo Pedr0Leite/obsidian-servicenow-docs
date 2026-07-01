@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Using Chat Zoom Connector, Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # View details for Zoom meetings initiated from chats

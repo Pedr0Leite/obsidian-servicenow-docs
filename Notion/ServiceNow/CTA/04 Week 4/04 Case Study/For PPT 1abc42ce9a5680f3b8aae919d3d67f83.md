@@ -1,6 +1,8 @@
 ---
 aliases:
   - "04 Case Study – For PPT"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -132,6 +134,9 @@ Other options:
 [Help with ppt](For%20PPT/Help%20with%20ppt%201abc42ce9a5680408fabef37fc4d37c8.md)
 
 ## Related
+- [[04 Case Study – Files]]
+- [[04 Week 4]]
+- [[Describe the types of challenges you anticipate So]]
 
 - [[04 Case Study]]
 - [[Help with ppt]]

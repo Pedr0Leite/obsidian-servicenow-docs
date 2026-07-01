@@ -9,6 +9,9 @@ last_updated: "2026-06-09"
 reading_time_minutes: 3
 keywords: [reviewer service portal, rsp, review grant proposals, grant reviewer]
 breadcrumb: [Portals, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Using the Reviewer Service Portal

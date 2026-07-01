@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Generate AI-powered release notes for a release, Digital Product Release AI release notes generator, AI release notes generator, Now Assist, Now Assist skill, Now Assist for ITSM]
 breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(ITSM\), IT Service Management]
+tags:
+  - it-service-management
+  - now-assist
+  - ai
+  - itsm
+  - generative
+  - type-task
 ---
 
 # Generate release notes for a release

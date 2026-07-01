@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Industrial Knowledge Management, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - knowledge
+  - industrial
+  - procedures
+  - manufacturing
+  - type-reference
 ---
 
 # Industrial Knowledge Management roles

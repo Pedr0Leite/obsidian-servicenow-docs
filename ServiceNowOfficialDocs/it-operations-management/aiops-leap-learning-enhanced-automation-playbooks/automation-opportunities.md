@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 1
 keywords: [automation opportunities, LEAP, incident resolution]
 breadcrumb: [Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - aiops
+  - leap
+  - playbooks
+  - remediation
+  - type-concept
 ---
 
 # Automation opportunities

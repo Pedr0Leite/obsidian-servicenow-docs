@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [insurance interaction context summary, summarize insurance customer interaction, relevant details for this call, insurance interaction page ai summary, now assist insurance interaction skill, insurance csr interaction summary, agentic contact center insurance context summary]
 breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Summarize an insurance customer interaction in Agentic Contact Center for Insurance

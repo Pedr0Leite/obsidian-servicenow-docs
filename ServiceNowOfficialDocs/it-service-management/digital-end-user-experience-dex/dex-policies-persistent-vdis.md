@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-02"
 reading_time_minutes: 2
 breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-reference
 ---
 
 # DEX policies for persistent VDIs

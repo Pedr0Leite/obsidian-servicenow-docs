@@ -9,6 +9,12 @@ last_updated: "2026-03-23"
 reading_time_minutes: 2
 keywords: [configure]
 breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Configuring Advanced Approval Management

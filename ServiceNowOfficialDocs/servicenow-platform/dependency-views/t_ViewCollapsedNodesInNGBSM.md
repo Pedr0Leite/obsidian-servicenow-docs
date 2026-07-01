@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - dependency-views
+  - cmdb
+  - topology
+  - relationships
+  - type-task
 ---
 
 # View collapsed nodes in a Dependency Views map

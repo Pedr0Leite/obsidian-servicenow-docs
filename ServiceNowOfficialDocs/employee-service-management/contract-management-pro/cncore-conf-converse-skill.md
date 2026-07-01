@@ -11,6 +11,13 @@ last_updated: "2025-10-25"
 reading_time_minutes: 2
 keywords: [Obligation extraction, Configure obligation extraction]
 breadcrumb: [Configure agentic workflows, Configure, Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Configure Conversational contract search and insights

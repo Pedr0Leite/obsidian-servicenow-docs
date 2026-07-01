@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-10-27"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Add recipients to usage spike, execution failure, and latency error email notifications

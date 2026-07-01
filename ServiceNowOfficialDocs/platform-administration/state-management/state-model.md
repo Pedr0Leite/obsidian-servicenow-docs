@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - state-machine
+  - workflow
+  - states
+  - transitions
+  - type-concept
 ---
 
 # State Management

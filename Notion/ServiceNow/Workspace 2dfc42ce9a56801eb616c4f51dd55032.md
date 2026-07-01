@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Workspace"
+area: "Vault Root"
+source: notion-export
 tags:
   - workspace
   - ui-actions

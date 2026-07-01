@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Understanding Threat Intelligence

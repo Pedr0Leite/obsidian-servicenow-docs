@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-01-30"
 reading_time_minutes: 3
 breadcrumb: [Major incident workbench UI elements, Major incident workbench, Managing major incidents, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-concept
 ---
 
 # Major Incident workbench — the Collaborate tab

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Knowledge Graph roles, Reference for Knowledge Graph, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-reference
 ---
 
 # Knowledge Graph Admin \[kg\_admin\]

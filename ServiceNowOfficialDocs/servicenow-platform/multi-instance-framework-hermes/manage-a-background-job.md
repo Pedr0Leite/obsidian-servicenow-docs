@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 1
 keywords: [Hermes, Hermes settings, Hermes configuration, background jobs, hermes\_admin, maint, scheduled jobs]
 breadcrumb: [Managing Hermes settings, Administer, Hermes Messaging Service, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - multi-instance
+  - hermes
+  - scaling
+  - enterprise
+  - type-task
 ---
 
 # Manage a background job in Hermes Messaging Service

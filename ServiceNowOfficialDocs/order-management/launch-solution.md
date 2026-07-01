@@ -9,6 +9,12 @@ last_updated: "2026-03-26"
 reading_time_minutes: 1
 keywords: [launch solution, solution root, buyer, quoting application]
 breadcrumb: [Using CPQ, Configure, price, quote apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Launch a solution

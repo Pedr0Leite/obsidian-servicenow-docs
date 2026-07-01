@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [Edit inline editor dashboards, inline editor dashboard options, reports, add reports to dashboard]
 breadcrumb: [Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Edit Platform Analytics dashboards

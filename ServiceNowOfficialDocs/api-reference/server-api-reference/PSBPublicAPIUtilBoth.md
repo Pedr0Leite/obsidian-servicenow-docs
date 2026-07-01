@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [Service Bridge, ServiceBridge, PSBPublicAPIUtil, Service Bridge API]
 breadcrumb: [Server API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - glidesystem
+  - gliderecord
+  - server-side
+  - glide
+  - type-concept
 ---
 
 # sb - Scoped, Global

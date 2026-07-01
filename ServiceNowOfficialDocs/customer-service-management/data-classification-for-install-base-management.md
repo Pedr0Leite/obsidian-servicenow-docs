@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Data classification for Install Base Management

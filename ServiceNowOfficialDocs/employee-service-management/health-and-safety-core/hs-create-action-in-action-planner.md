@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 2
 breadcrumb: [Manage actions in Action planner, Use, Health and Safety Core, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - core
+  - ehs
+  - data-model
+  - type-task
 ---
 
 # Create and manage a safety action in the Action planner

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Integration Design - How to choose the best patter"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - platform
@@ -297,6 +299,9 @@ Version 2.0: January 2025
 [ServiceNow Integration Pattern Decision Tree - 3.1 - Jochen Geist.pdf](Integration%20Design%20-%20How%20to%20choose%20the%20best%20patter/ServiceNow_Integration_Pattern_Decision_Tree_-_3.1_-_Jochen_Geist.pdf)
 
 ## Related
+- [[Knowledge Base Articles]]
+- [[Enable Engagement Messenger on a website when thir]]
+- [[SAML Errors and Fixes (Multiple Provider SSO)]]
 
 - [[Platform]]
 - [[Knowledge Base Articles – Integrations]]

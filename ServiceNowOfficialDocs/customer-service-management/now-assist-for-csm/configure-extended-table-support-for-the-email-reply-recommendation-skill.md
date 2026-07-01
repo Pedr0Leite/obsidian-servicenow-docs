@@ -11,6 +11,13 @@ last_updated: "2026-04-17"
 reading_time_minutes: 2
 keywords: [Generative AI, generative AI for Customer Service Management, generative AI for customer service agents, Email Reply Recommendation, extended table, child skill, Now Assist, Now Assist Skill Kit, NASK, CSM]
 breadcrumb: [Email recommendation, Activate Now Assist Skills, Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Configure extended table support for the email reply recommendation skill

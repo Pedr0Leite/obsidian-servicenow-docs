@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-06-04"
 reading_time_minutes: 2
 breadcrumb: [Exploring Portfolio list view, Exploring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # Exploring the AI Portfolio tab on the Enterprise Architecture Workspace dashboard

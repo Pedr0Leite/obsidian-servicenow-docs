@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Supplier questions, APO, Accounts Payable Operations, invoice processing, invoice management, AI agent, Now Assist, AI automation, email ingestion, virtual agent]
 breadcrumb: [Using AI agents in Now Assist for Accounts Payable Operations, Now Assist for APO, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Inquiry resolution provider AI agent

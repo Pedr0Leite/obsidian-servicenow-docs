@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Explore, ServiceNow IDE, Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - ide
+  - vs-code
+  - plugin
+  - developer-tools
+  - type-concept
 ---
 
 # ServiceNow IDE user interface

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-18"
 reading_time_minutes: 3
 breadcrumb: [Review results, Evaluate, Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Apply optimizations to agentic AI assets and reevaluate

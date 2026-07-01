@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring Skills Foundation, Skills Foundation, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - talent
+  - skills
+  - development
+  - hr
+  - type-concept
 ---
 
 # About Job Architecture

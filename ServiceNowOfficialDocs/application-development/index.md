@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: cadev
 doc_type: toc
+tags:
+  - application-development
 ---
 
 # Australia Build or modify applications

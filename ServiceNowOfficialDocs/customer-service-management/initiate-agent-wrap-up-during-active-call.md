@@ -9,6 +9,9 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [agent-initiated wrap-up, wrap-up, call wrap-up, Interaction Controls Component, ICC, CCaaS, active call, wrap-up codes, summary notes]
 breadcrumb: [ICC for voice calls, Integrating with Computer Telephony Integration \(CTI\), Integrate, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Call Wrap-Up

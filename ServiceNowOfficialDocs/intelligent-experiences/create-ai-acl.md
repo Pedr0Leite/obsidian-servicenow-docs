@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Reference, MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create AI ACL

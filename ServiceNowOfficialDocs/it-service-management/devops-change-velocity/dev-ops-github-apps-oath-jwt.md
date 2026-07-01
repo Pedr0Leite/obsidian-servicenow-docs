@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Setting up GitHub OAuth 2.0 credentials for DevOps Change Velocity, GitHub, Integrate, DevOps Change Velocity, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - change-velocity
+  - itsm
+  - ci-cd
+  - type-concept
 ---
 
 # OAuth 2.0 credentials for GitHub Apps - JWT

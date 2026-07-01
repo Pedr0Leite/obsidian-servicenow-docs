@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work on a safety incident, Manage incidents and observations, Manage incidents, observations, and anonymous safety concerns, Health and Safety Incident Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - incidents
+  - investigation
+  - reporting
+  - ehs
+  - type-task
 ---
 
 # Log an injury and illness

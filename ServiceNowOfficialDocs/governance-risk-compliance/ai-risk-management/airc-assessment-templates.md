@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 15
 keywords: [assessment templates, smart assessment engine, post assessment actions, AI Risk and Compliance]
 breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # Assessment templates

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Compliance Case Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - cases
+  - grc
+  - remediation
+  - type-concept
 ---
 
 # Reporting a compliance case in GRC: Compliance Case Management

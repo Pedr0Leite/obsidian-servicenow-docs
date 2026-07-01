@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Entity Management forms, Investigative Case Management case forms, Investigative Case Management reference, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # ICM Entity Management Events form

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-28"
 reading_time_minutes: 3
 breadcrumb: [Use, Telecommunications Customer 360, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-concept
 ---
 
 # Recommendations panel

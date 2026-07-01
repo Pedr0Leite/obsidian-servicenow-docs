@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Administer, Instance Data Replication, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - idr
+  - replication
+  - instances
+  - data-sync
+  - type-reference
 ---
 
 # Resolving data replication errors in Instance Data Replication

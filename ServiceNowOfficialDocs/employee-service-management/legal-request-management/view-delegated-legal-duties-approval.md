@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Delegation of legal duties and approvals, Configure, Legal Request Management, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - requests
+  - intake
+  - routing
+  - type-task
 ---
 
 # View and work on delegated legal duties

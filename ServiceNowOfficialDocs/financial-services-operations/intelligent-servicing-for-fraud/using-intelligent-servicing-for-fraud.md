@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [use intelligent servicing for fraud, fraud case workflow, initiate a fraud case, investigate fraud cases, resolve fraud cases, fraud alert case, card fraud by alert, card fraud, fraud case playbook, fraud agent workspace, fraud case lifecycle, service definitions for fraud, external fraud detection system]
 breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-concept
 ---
 
 # Using Intelligent Servicing for Fraud

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-01"
 reading_time_minutes: 2
 breadcrumb: [Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Financial Services Operations Integration with Verifi

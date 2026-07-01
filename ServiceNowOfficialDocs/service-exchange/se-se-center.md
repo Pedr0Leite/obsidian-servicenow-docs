@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 4
 keywords: [Service Exchange Center, connection health, health dashboard, scan checks, resolution center]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Service Exchange Center

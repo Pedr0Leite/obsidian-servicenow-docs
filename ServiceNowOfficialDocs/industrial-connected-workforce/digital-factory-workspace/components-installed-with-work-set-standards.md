@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 1
 keywords: [components installed, work set roles]
 breadcrumb: [Industrial Standards, Reference, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-reference
 ---
 
 # Components installed with work set standards

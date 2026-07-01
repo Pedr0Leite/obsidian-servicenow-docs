@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Applications"
+area: "Vault Root"
+source: notion-export
 tags:
   - applications
   - update-sets
@@ -19,6 +21,7 @@ tags:
 [Update sets - Full Applications](Applications/Update%20sets%20-%20Full%20Applications%201d8c42ce9a568030a8bbca9f6a85e74b.md)
 
 ## Related
+- [[Ideas]]
 
 - [[Anonymize data]]
 - [[Update Set Mover]]

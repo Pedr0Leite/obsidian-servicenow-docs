@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-04-24"
 reading_time_minutes: 1
 breadcrumb: [Now Assist in Conversational Catalog Request, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-concept
 ---
 
 # Prefill in conversational catalog request

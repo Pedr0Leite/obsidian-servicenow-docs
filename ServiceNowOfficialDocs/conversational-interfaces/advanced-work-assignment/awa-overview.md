@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Advanced Work Assignment, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - awa
+  - routing
+  - queues
+  - agents
+  - type-concept
 ---
 
 # Exploring Advanced Work Assignment

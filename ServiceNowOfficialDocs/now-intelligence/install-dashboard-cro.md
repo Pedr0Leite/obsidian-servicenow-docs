@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Chief Risk Officer \(CRO\) Dashboard, Executive dashboard overview, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Install the Chief Risk Officer Dashboard

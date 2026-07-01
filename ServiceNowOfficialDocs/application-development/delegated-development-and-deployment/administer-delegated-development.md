@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Delegated Development, Planning your application, Building applications]
+tags:
+  - application-development
+  - delegated-dev
+  - deployment
+  - pipeline
+  - governance
+  - type-concept
 ---
 
 # Administer Delegated Development Delegated Development

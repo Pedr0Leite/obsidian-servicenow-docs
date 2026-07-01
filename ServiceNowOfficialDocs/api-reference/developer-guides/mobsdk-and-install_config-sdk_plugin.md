@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Get started with Mobile SDK - Android, Mobile SDK Developer Guide - Android, Developer guides, API implementation and reference]
+tags:
+  - api-reference
+  - developer
+  - guides
+  - patterns
+  - best-practices
+  - type-task
 ---
 
 # Install and configure the Mobile SDK scoped application

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [WhoisXML API integration setup, WhoisXML API integration, Threat Intelligence integrations, Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Update your X.509 certificate

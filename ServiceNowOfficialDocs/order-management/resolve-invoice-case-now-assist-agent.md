@@ -9,6 +9,12 @@ last_updated: "2026-05-18"
 reading_time_minutes: 4
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Use, Now Assist for Order Management, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Resolve invoice disputes using agentic workflow

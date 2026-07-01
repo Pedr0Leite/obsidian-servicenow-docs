@@ -9,6 +9,9 @@ last_updated: "2026-04-22"
 reading_time_minutes: 1
 keywords: [ITOM AIOps, plugin installation, Now Assist, IT Operations Management, apps]
 breadcrumb: [ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-task
 ---
 
 # Install ITOM AIOps apps using Setup Hub

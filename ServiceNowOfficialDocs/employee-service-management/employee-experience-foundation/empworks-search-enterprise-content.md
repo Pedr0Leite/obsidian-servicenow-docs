@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 1
 keywords: [Enterprise Search, Dive Deeper, AI summary, source filters]
 breadcrumb: [Working with Moveworks capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Search enterprise content with Enterprise Search

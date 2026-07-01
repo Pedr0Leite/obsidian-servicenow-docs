@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Configure document templates using Document Designer, Microsoft Word based audit report templates using Document designer, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-task
 ---
 
 # Configure templates for Document Designer

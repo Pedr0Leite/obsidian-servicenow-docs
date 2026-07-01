@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Spokes, Flow integrations, Flows, subflows, and actions reference, Flows, subflows, and actions, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-reference
 ---
 
 # Robotic Process Automation \(RPA\) Spoke

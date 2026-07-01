@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [delivery dates, checkout, purchase line, blanket order, service delivery, multiple deliveries]
 breadcrumb: [Select a delivery date, Complete your checkout, Using Shopping Hub, Use, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Delivery date options

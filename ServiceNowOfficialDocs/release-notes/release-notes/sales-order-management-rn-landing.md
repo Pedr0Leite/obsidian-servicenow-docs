@@ -6,6 +6,12 @@ release: australia
 topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-concept
 ---
 
 # Sales Customer Relationship Management release notes

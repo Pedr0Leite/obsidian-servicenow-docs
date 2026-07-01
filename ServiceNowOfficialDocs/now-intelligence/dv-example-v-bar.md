@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 7
 breadcrumb: [Bar visualization examples, Horizontal and vertical bar visualizations, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Vertical bar visualization example

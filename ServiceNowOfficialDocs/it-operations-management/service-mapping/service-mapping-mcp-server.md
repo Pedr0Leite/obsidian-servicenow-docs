@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 6
 keywords: [MCP Server, Service Mapping, Claude, Model Context Protocol, AI assistant, application service topology, MCP Server Console, CMDB MCP Server]
 breadcrumb: [AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-concept
 ---
 
 # Service Mapping MCP tools

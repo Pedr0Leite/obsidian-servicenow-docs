@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [Asynchronous Chat, messaging, channels, agents, Twilio, SMS]
 breadcrumb: [Channels in Conversational Interfaces, Exploring Conversational Interfaces Console, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-concept
 ---
 
 # Using Asynchronous Chat in messaging channels

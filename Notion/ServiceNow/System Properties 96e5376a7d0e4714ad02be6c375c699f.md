@@ -1,6 +1,8 @@
 ---
 aliases:
   - "System Properties"
+area: "Vault Root"
+source: notion-export
 tags:
   - system-properties
   - platform-administration

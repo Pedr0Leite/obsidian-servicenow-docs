@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure settings for estimated time to resolve values, Estimated time to resolve a case, Machine learning solutions, Implement Intelligence, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Configure the default estimated resolution time

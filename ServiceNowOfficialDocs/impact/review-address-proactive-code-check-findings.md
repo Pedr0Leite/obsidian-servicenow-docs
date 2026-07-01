@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Proactive Code Check, Impact reference, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Proactive Code Check analytics for the Impact Store Application

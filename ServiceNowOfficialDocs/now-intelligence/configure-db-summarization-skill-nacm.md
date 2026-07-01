@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-02"
 reading_time_minutes: 1
 breadcrumb: [Add Now Assist context menu to an in-line dashboard, Add elements, Edit a dashboard, Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Configure the Now Assist context menu in Now Assist Experiences

@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 2
 breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Quote creation via Self-Service fields

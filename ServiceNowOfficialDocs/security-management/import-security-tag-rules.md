@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Set up security tag groups and tags, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Import security tag rules

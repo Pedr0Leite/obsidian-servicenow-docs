@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use agentic AI for OTSM, Now Assist for OTSM, Operational Technology]
+tags:
+  - operational-technology
+  - type-task
 ---
 
 # Activate an agentic workflow for Now Assist for Operational Technology Service Management \(OTSM\)

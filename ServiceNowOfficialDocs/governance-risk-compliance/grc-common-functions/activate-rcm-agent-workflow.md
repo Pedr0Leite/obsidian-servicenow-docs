@@ -11,6 +11,13 @@ last_updated: "2025-11-10"
 reading_time_minutes: 4
 keywords: [Regulatory alerts, Agentic workflow, Security controls, Triggers, Channels]
 breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-task
 ---
 
 # Activate the get regulatory analysis agentic workflow

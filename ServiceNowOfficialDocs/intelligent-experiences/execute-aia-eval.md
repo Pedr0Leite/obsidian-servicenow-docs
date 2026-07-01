@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-13"
 reading_time_minutes: 6
 breadcrumb: [Evaluate, Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Execute an agentic evaluation run

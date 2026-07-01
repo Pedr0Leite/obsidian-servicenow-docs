@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 6
 keywords: [model card, Now LLM Service, LLM, Large language model, Generative AI, Gen AI, Now Assist]
 breadcrumb: [Large language models on the ServiceNow AI Platform, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-llm
+  - large-language-model
+  - ai
+  - fine-tuning
+  - type-concept
 ---
 
 # Now LLM Service updates

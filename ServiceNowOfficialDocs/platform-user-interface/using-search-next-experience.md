@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [global search, next experience global search]
 breadcrumb: [Using the Unified Navigation, Explore, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-concept
 ---
 
 # Using search in Next Experience

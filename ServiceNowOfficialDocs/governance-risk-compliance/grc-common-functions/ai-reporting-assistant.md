@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 1
 keywords: [AI Reporting Assistant, Document Designer, natural language]
 breadcrumb: [Microsoft Word based audit report templates using Document designer, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-concept
 ---
 
 # AI reporting assistant

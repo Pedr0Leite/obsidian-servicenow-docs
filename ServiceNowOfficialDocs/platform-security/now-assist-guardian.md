@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 10
 keywords: [Now Assist Guardian, Llama, Generative AI, GenAI, SLM, Large language model, Guardrails, Safety categories]
 breadcrumb: [Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Now Assist Guardian

@@ -11,6 +11,13 @@ last_updated: "2026-03-16"
 reading_time_minutes: 1
 keywords: [Gunicorn, WSGI, Gunicorn discovery, Gunicorn patterns, Green Unicorn]
 breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Gunicorn pattern-based discovery

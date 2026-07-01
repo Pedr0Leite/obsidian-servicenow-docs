@@ -9,6 +9,9 @@ last_updated: "2026-05-10"
 reading_time_minutes: 1
 keywords: [CI consumption, prediction, 2026 Container Packaging, 2026 Container Packaging SKU migration]
 breadcrumb: [Using ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-task
 ---
 
 # Generate CI consumption predictions for 2026 Container Packaging SKU migration

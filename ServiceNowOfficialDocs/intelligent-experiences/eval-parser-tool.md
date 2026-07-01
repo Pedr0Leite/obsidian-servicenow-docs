@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-08-19"
 reading_time_minutes: 3
 breadcrumb: [Reference, Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Agentic evaluation parser tool

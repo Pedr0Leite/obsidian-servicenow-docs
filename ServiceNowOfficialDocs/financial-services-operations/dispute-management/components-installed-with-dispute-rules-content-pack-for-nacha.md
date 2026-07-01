@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Dispute Rules Content Pack for Nacha reference, Dispute Rules Content Pack for Nacha, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-reference
 ---
 
 # Components installed with Dispute Rules Content Pack for Nacha

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - genai
@@ -32,6 +34,9 @@ tags:
 [Now Assist case Summaization in custom tables](Now%20Assist/Now%20Assist%20case%20Summaization%20in%20custom%20tables%20310c42ce9a568049a538d24e79247cec.md)
 
 ## Related
+- [[Now Assist in AI Search]]
+- [[Now Assist Q&A using Dynamic Translation]]
+- [[Knowledge graph enhancing Virtual Agent search]]
 
 - [[AI Search]]
 - [[GenAI]]

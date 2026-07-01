@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up Microsoft Office 365 integration for Walk-up Experience, Integrate Microsoft Office 365 calendar with Walk-up Experience, Configure, Walk-up Experience, IT Service Management]
+tags:
+  - it-service-management
+  - walk-up
+  - kiosk
+  - support
+  - itsm
+  - type-task
 ---
 
 # Register an application using the Microsoft Azure portal

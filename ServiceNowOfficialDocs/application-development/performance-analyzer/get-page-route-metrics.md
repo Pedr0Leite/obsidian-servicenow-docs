@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Test applications, Performance Analyzer, Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - performance
+  - profiling
+  - diagnostics
+  - optimization
+  - type-task
 ---
 
 # Get page route metrics

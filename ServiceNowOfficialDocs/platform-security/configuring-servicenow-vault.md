@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-31"
 reading_time_minutes: 1
 breadcrumb: [ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Configuring ServiceNow Vault

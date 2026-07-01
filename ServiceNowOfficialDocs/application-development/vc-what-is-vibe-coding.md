@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [vibe coding, AI-assisted development, artificial intelligence, application development, natural language, prompts, autonomous app development, code generation, development tools]
 breadcrumb: [Explore, Agentic development, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # What is agentic development

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [generative AI, gen AI, genai, artificial intelligence]
 breadcrumb: [Use, Now Assist for SPO, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Build workflows]
+tags:
+  - build-workflows
+  - system-events
+  - event-queue
+  - scripting
+  - triggers
+  - type-reference
 ---
 
 # System Events

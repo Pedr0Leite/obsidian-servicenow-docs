@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-04-30"
 reading_time_minutes: 3
 breadcrumb: [Multiple users on a shared device, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # General Guidelines for multiple users using a shared device

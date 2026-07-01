@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Questions and responses in an exploration, Use, AI Data Explorer, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Duplicate, delete, copy to another exploration, or move an answer in an exploration

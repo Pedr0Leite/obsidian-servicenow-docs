@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install the ADAM configuration file, Use ADAMSync to populate ADAM, Active Directory Application Mode \(ADAM\), LDAP integration, Authentication, Access Management]
+tags:
+  - platform-security
+  - ldap
+  - active-directory
+  - sync
+  - authentication
+  - type-concept
 ---
 
 # Example ADAM configuration files

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-13"
 reading_time_minutes: 6
 breadcrumb: [Explore, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Defined desktop actions for desktop and web-based tasks

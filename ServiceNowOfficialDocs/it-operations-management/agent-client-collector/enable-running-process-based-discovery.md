@@ -11,6 +11,13 @@ last_updated: "2026-06-03"
 reading_time_minutes: 1
 keywords: [enable running process-based discovery, file-based discovery, FBD, process scan, system property]
 breadcrumb: [Running process-based discovery, Agent Client Collector File-Based Discovery, ACC deployment - endpoints, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Enable running process-based discovery

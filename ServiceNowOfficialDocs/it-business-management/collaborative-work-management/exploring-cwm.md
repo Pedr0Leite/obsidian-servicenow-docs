@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-02"
 reading_time_minutes: 8
 breadcrumb: [Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-concept
 ---
 
 # Exploring Collaborative Work Management

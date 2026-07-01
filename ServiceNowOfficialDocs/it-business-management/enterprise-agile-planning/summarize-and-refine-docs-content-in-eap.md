@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Refine records, Now Assist skill, Now Assist, Gen AI, Generative AI, Strategic Portfolio Management, SPM]
 breadcrumb: [Collaborate using Docs, Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-task
 ---
 
 # Summarize and refine Docs content in EAP using Now Assist for SPM

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Associate a schedule with an equipment model entity, Managing an equipment model entity schedule, Configure, Industrial Process Manager, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - process-manager
+  - industrial
+  - control
+  - type-task
 ---
 
 # View a schedule for the equipment model entity

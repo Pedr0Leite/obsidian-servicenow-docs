@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [surrounding logs, anomaly analysis, log timeline analysis, root cause analysis, health log analytics, log anomaly investigation, log viewer, anomaly timeline, log investigation, alert investigation, log data analysis, anomaly root cause, troubleshooting logs, system fault diagnosis]
 breadcrumb: [Review logs that surround the anomaly, Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Analyze log lines that surround an anomaly in Health Log Analytics

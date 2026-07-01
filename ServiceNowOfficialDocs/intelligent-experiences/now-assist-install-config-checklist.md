@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [installing Now Assist, AI features, AI products, updating Now Assist, solutions, Now Assist, GenAI, generative AI, configure Now Assist]
 breadcrumb: [ServiceNow AI implementation, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Solving installation and configuration issues with Now Assist

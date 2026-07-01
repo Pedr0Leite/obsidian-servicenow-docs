@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-09-17"
 reading_time_minutes: 2
 breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Add a script to an AI agent

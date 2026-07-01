@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: optm
 doc_type: toc
+tags:
+  - operational-technology
 ---
 
 # Australia Operational Technology Management

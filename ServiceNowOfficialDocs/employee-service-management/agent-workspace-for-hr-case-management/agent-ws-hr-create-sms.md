@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [SMS conversations in HR Service Delivery Agent Workspace, Using Agent Workspace for HR Case Management, Agent Workspace, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hr
+  - agent-workspace
+  - case-management
+  - type-task
 ---
 
 # Compose an SMS message from a chat in HR Service Delivery Agent Workspace

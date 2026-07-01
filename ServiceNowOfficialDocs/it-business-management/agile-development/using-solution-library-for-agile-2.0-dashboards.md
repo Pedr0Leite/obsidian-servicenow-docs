@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Performance Analytics Content Pack for Agile 2.0, Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - agile
+  - sprints
+  - stories
+  - backlog
+  - type-reference
 ---
 
 # Upgrading the layout of Agile 2.0 dashboards

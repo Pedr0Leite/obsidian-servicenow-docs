@@ -1,6 +1,8 @@
 ---
 aliases:
   - "CTA Exam Scope"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -65,6 +67,9 @@ Release and Instance Strategy
 [ChatGPT Sample Questions](CTA%20Exam%20Scope/ChatGPT%20Sample%20Questions%20184c42ce9a5680d2a578c4f43785eb05.md)
 
 ## Related
+- [[Real questions]]
+- [[TO REVIEW FOR EXAM]]
+- [[Exam]]
 - [[Study for AI questions]]
 - [[Sample questions]]
 - [[ChatGPT Sample Questions]]

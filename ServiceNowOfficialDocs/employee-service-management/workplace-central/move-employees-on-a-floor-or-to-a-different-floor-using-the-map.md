@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 7
 breadcrumb: [Map based space administration, Working with Space Optimization, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Move employees on a floor or to a different floor using the map

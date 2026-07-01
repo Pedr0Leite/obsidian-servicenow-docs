@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 5
 breadcrumb: [Configure a push connector, Configure Event Management connectors, Event Management Integrations, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-task
 ---
 
 # Configure the MID WebService Event Collector Context

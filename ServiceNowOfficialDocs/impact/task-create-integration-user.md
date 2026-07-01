@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 1
 breadcrumb: [Scan Engine integrations, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Create an integration user account

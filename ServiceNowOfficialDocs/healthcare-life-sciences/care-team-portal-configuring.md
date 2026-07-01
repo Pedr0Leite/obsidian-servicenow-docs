@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Care Team Portal, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Configure Care Team Portal

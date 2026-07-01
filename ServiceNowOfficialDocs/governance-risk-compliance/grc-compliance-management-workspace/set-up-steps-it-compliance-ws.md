@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configure, GRC Compliance workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - workspace
+  - grc
+  - oversight
+  - type-reference
 ---
 
 # Configure IT Compliance Manager data filter

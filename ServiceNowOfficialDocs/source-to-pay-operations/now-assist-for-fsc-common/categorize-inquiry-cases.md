@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice management, invoice inquiry case]
 breadcrumb: [Use, Features, Now Assist Finance Supply Chain, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - now-assist
+  - ai
+  - fsc
+  - generative
+  - type-task
 ---
 
 # Categorize inquiry cases

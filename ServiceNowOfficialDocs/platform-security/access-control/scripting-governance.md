@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Scripting Governance Tool, SGT, scripting, Conditional Script Writer]
 breadcrumb: [Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-concept
 ---
 
 # Scripting Governance Tool

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2023-11-09"
 reading_time_minutes: 1
 breadcrumb: [Edit a dashboard, Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Add images to Platform Analytics dashboard cards

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Manage Cloud Cost Management subscriptions, Using Cloud Cost Management, Cloud Cost Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - cloud-cost
+  - finops
+  - optimization
+  - itam
+  - type-task
 ---
 
 # View the license report for the Cloud Cost Management application

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [APO, Accounts Payable Operations, invoice capture, invoice processing, invoice ingestion, DocIntel, Document Intelligence, AP case, integration, email ingestion]
 breadcrumb: [Install Accounts Payable Operations integration with Document Intelligence, Configure, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence

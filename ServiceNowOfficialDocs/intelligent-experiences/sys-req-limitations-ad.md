@@ -9,6 +9,9 @@ last_updated: "2025-11-18"
 reading_time_minutes: 3
 keywords: [reference]
 breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # System requirements and limitations in AI Desktop Actions

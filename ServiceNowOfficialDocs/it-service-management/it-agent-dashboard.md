@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics ITSM Dashboards, IT Service Management]
+tags:
+  - it-service-management
+  - type-concept
 ---
 
 # Legacy: IT Agent dashboard

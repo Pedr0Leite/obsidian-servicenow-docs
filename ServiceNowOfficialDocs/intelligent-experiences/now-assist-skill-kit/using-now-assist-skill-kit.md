@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 4
 breadcrumb: [Now Assist Skill Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skill-kit
+  - custom-skills
+  - ai
+  - type-concept
 ---
 
 # Using Now Assist Skill Kit

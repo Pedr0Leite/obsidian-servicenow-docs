@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2019-10-16"
 reading_time_minutes: 1
 breadcrumb: [Sales CRM Pricing API, REST API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - table-api
+  - json
+  - http
+  - type-reference
 ---
 
 # Sales CRM Pricing - DELETE - /api/sn\_csm\_pricing/v1/pricingengine/pricing\_context/\{pricing\_context\_id\}

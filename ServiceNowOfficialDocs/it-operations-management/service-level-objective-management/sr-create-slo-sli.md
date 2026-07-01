@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Using SLO Management, Service Level Objective Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - slo
+  - sli
+  - reliability
+  - monitoring
+  - type-task
 ---
 
 # Create SLOs, SLIs, and error budget policies

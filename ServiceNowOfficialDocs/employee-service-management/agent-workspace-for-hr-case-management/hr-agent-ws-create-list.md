@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Lists in Agent Workspace for HR Case Management, Using Agent Workspace for HR Case Management, Agent Workspace, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hr
+  - agent-workspace
+  - case-management
+  - type-task
 ---
 
 # Create My Lists

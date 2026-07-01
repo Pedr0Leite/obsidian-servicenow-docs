@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - gac
+  - scaffolding
+  - wizard
+  - templates
+  - type-concept
 ---
 
 # Guided Application Creator

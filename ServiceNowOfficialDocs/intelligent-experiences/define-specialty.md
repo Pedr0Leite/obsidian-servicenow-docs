@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-23"
 reading_time_minutes: 4
 breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Define the specialty of an AI agent

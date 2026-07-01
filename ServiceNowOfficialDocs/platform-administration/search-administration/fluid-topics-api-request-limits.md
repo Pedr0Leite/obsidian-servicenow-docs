@@ -11,6 +11,13 @@ last_updated: "2026-05-20"
 reading_time_minutes: 2
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Fluid Topics external content connector, Configure, External Content Connectors, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-concept
 ---
 
 # Request limits in Fluid Topics Knowledge Hub web services

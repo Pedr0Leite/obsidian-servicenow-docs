@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 1
 breadcrumb: [Manage advisor scope, Advisor setup, Use Data Foundations advisor, CMDB success advisor, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-concept
 ---
 
 # Principal class sync in Data Foundations advisor

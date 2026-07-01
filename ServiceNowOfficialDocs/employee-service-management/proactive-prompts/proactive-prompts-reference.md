@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - proactive-prompts
+  - nudges
+  - engagement
+  - hr
+  - type-reference
 ---
 
 # Reference for Proactive Prompts

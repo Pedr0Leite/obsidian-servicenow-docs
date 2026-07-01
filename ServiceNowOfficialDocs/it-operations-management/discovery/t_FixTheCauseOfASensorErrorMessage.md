@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-28"
 reading_time_minutes: 2
 breadcrumb: [Discovery error messages, Discovery monitoring and issue resolution, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Fix the cause of a sensor error message

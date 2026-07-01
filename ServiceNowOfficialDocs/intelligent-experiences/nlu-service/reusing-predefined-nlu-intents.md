@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-16"
 reading_time_minutes: 2
 breadcrumb: [NLU intents, Build and train your model, Model management, Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-concept
 ---
 
 # Reusing intents from prebuilt NLU models

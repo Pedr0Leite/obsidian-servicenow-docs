@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 3
 breadcrumb: [Configure, SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-task
 ---
 
 # Create and configure a partition

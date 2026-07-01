@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-04-13"
 reading_time_minutes: 2
 breadcrumb: [Product Catalog Management reference, Lead-to-cash foundation, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Components installed with Product Catalog Management

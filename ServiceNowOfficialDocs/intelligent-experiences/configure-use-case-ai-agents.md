@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-23"
 reading_time_minutes: 1
 breadcrumb: [Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create an agentic workflow

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Exploring SLO Management, Service Level Objective Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - slo
+  - sli
+  - reliability
+  - monitoring
+  - type-concept
 ---
 
 # SLO creator agent

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [APO, Accounts Payable Operations, upgrade, migration, invoice automation, APO, Accounts Payable Operations, DocIntel, Document Intelligence, AP case, integration, upgrade, migration, APO, Accounts Payable Operations, invoice management, invoice automation, AP automation, APO, Accounts Payable Operations, invoice management, upgrade, migration, APO, Accounts Payable Operations, invoice management, purchase order, PO, cost allocation, GL coding, admin]
 breadcrumb: [Upgrade Accounts Payable Operations, Components installed with Accounts Payable Invoice Processing, Install Accounts Payable Invoice Processing, Configure, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Post upgrade tasks for APO

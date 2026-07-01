@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Loan Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - loans
+  - servicing
+  - fso
+  - banking
+  - type-task
 ---
 
 # Work on a credit task for a loan service case

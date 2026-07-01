@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Generate and view a claim's fraud score, Use, Commercial Lines Claims, Exploring insurance claims applications, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - insurance
+  - claims
+  - fso
+  - processing
+  - type-task
 ---
 
 # Configure the fraud score ranges with UI Builder

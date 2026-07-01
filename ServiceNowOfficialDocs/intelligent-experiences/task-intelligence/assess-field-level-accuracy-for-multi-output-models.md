@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Assess a Task Intelligence model, Manage machine learning models with Task Intelligence, Task Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - task-intelligence
+  - routing
+  - ml
+  - prediction
+  - type-task
 ---
 
 # Assess field-level accuracy for multi-output models

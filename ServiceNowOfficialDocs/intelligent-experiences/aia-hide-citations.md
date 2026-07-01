@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Citations in Now Assist AI agents, Configure, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Disable citations in AI Agent Studio

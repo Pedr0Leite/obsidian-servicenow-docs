@@ -8,6 +8,13 @@ topic_type: reference
 last_updated: "2026-05-20"
 reading_time_minutes: 6
 breadcrumb: [Rationalization of business applications, Exploring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-reference
 ---
 
 # Technology lifecycle risk score in Enterprise Architecture Workspace

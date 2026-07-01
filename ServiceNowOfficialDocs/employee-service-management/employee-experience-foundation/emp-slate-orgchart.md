@@ -11,6 +11,13 @@ last_updated: "2025-01-27"
 reading_time_minutes: 2
 keywords: [org chart, organizational chart, reporting structure, employee directory, Employee Slate]
 breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Employee Org chart

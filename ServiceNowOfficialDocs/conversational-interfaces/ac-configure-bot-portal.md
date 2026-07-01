@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Virtual Agent, Service Portal, Agent Chat, bot, portal, com.glide.cs.chatbot, com.glide.interaction.awa]
 breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Add your bot to a portal

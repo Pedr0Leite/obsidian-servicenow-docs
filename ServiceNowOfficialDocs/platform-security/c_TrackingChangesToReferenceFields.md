@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Knowing about History sets, Auditing]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Tracking changes to reference fields

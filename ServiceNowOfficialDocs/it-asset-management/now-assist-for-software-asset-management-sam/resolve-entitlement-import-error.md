@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 3
 keywords: [Software Normalization skill, Product Match Reviewer skill, resolve entitlement import errors,]
 breadcrumb: [Use generative AI skills, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-task
 ---
 
 # Resolve entitlement import errors by using Now Assist for SAM

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-concept
 ---
 
 # Project Portfolio Management

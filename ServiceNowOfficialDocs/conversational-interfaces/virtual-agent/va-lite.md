@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Virtual Agent, Lite, ITSM, IT Service Management, pre-built, conversations, slack, Microsoft, teams, msteams, workplace, messenger]
 breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Virtual Agent Lite

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-Intune, SGC-Microsoft Intune, SGC Intune, SGC Microsoft Intune, SGC for Intune, SGC for Microsoft Intune, Intune SGC, Microsoft Intune SGC, Service Graph Connector for Intune, Service Graph Connector for Microsoft Intune, Intune connection details, Intune connection, common connection framework, CCF, SGC-Intune, SGC-Microsoft Intune, SGC Intune, SGC Microsoft Intune, SGC for Intune, SGC for Microsoft Intune, Intune SGC, Microsoft Intune SGC, Service Graph Connector for Intune, Service Graph Connector for Microsoft Intune, Intune connection details, Intune connection, common connection framework, CCF]
 breadcrumb: [Microsoft Intune, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for Microsoft Intune

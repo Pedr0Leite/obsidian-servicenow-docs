@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 12
 keywords: [Virtual Agent, pre-built, topic, blocks, AI Search, Agent Availability]
 breadcrumb: [Maximizing code reuse with topic blocks, Exploring other Virtual Agent features, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Virtual Agent pre-built topic blocks for NLU

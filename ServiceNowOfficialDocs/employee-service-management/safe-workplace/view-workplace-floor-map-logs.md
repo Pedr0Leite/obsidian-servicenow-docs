@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Update a workplace floor plan, Providing your workplace data, Workplace Core, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - return-to-office
+  - covid
+  - facility
+  - type-task
 ---
 
 # View your workplace floor plan update logs

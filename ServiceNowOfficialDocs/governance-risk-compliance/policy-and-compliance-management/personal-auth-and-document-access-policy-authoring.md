@@ -11,6 +11,13 @@ last_updated: "2026-06-05"
 reading_time_minutes: 4
 keywords: [personal authentication, policy authoring, document access permissions, system account, SharePoint, Google Drive, hybrid authentication, policy redlining]
 breadcrumb: [Creating and associating policy texts from Cloud documents, Policy authoring and redlining in Compliance Workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-concept
 ---
 
 # Authentication and document access in policy authoring

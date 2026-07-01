@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Amazon AWS - Executable Template, Amazon AWS - Owned Template, Amazon AWS - Executable Cloud OS Image, Amazon AWS - Owned Cloud OS Image, AWS OS image, AWS AMI, AWS discovery, AWS patterns]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # AWS OS image pattern-based discovery

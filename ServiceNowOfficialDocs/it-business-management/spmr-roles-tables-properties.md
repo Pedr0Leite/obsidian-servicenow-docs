@@ -9,6 +9,9 @@ last_updated: "2026-05-14"
 reading_time_minutes: 1
 keywords: [roles, permissions, SPM Retail]
 breadcrumb: [Reference, Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-reference
 ---
 
 # Roles, tables, and properties

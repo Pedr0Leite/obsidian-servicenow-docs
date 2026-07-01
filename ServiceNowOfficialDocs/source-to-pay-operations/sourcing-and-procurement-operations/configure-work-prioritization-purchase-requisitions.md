@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 3
 keywords: [configure purchase requisition priority, priority defaulting for purchase requisitions, decision table, line total amount, purchase line, financial threshold, procurement administrator, demo rules, business rules, work prioritization, SPO]
 breadcrumb: [Configuring work prioritization, Configure, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Configure work prioritization for purchase requisitions

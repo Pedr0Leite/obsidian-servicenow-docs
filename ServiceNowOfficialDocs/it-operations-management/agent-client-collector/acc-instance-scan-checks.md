@@ -11,6 +11,13 @@ last_updated: "2026-05-07"
 reading_time_minutes: 1
 keywords: [ACC health instance scan, agent client collector scan checks, ACC instance scan suite]
 breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Agent Client Collector health instance scan checks

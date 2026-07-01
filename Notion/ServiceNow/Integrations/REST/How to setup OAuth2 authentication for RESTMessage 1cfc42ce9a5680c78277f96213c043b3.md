@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to setup OAuth2 authentication for RESTMessage"
+area: "Integrations"
+source: notion-export
 tags:
   - rest-api
   - oauth2
@@ -202,6 +204,7 @@ gs.log(responseBody);
 This document was generated from the following discussion: [How to Setup OAuth2 authentication for outbound RESTMessageV2 integrations](https://www.servicenow.com/community?id=community_question&sys_id=75f74f2ddb1cdbc01dcaf3231f961944)
 
 ## Related
+- [[Set up an external knowledge base search source]]
 
 - [[REST]]
 - [[ServiceNow – Integrations]]

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Monitoring operations, Analytics and reporting, Field Service Management]
+tags:
+  - field-service-management
+  - type-task
 ---
 
 # Use the Field Service Management dashboard

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Portfolio SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-concept
 ---
 
 # SAFe Board—Portfolio level

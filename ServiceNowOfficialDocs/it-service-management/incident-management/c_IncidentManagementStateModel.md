@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-01-30"
 reading_time_minutes: 1
 breadcrumb: [Explore, Incident Management, IT Service Management]
+tags:
+  - it-service-management
+  - incidents
+  - sla
+  - priority
+  - itsm
+  - type-concept
 ---
 
 # Life cycle of an Incident

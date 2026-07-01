@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Activate SLA Breakdown definitions, Service Level Management plugins, Configuring Service Level Management, Service Level Management, IT Service Management]
+tags:
+  - it-service-management
+  - sla
+  - ola
+  - agreements
+  - itsm
+  - type-reference
 ---
 
 # Installed with SLA breakdown definitions

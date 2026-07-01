@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 4
 breadcrumb: [Segments, Tuning the semantic layer, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Guidelines for segments

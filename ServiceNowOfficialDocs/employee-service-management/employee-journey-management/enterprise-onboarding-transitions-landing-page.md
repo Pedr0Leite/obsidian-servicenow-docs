@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journeys
+  - milestones
+  - onboarding
+  - offboarding
+  - type-reference
 ---
 
 # Lifecyle events for enterprise

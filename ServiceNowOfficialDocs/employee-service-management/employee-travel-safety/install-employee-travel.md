@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Employee Travel Safety, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - travel
+  - risk
+  - safety
+  - hr
+  - type-task
 ---
 
 # Install Employee Travel Safety

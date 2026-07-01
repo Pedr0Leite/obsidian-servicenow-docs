@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 1
 keywords: [edit actual hours, actual efforts, resource assignment actuals, task effort, resource management workspace]
 breadcrumb: [Using Resource Management Workspace, Use, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-task
 ---
 
 # Edit allocated efforts for tasks with actual hours

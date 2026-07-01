@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 28
 breadcrumb: [Build workflows]
+tags:
+  - build-workflows
+  - business-rules
+  - automation
+  - triggers
+  - type-concept
 ---
 
 # Classic Business rules

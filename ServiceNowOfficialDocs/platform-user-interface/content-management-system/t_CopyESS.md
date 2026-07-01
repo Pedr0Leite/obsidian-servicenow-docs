@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Content Management templates, Configure Content Management sites, Content Management System, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - cms
+  - content
+  - portal
+  - pages
+  - type-task
 ---
 
 # Customize a copy of a page template

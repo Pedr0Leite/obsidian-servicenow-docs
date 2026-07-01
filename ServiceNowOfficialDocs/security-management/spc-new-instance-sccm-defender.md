@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Install Microsoft integrations, Policies for Exploit Protection \(EDR\), Use mitigation controls, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create multiple instances for the Microsoft Defender Mitigation Control Integration

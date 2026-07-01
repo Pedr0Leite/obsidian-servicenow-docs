@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytics &amp; Reporting Solutions, Reference, Advanced Work Assignment, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - awa
+  - routing
+  - queues
+  - agents
+  - type-concept
 ---
 
 # Advanced Work Assignment dashboard for tasks

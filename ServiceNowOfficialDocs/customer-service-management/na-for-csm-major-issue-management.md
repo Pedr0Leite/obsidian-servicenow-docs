@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 2
 breadcrumb: [Manage cases, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Now Assist for CSM Major Issue Management

@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-05-21"
 reading_time_minutes: 6
 breadcrumb: [Quote Management reference, Configure, price, quote, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Quote details forms

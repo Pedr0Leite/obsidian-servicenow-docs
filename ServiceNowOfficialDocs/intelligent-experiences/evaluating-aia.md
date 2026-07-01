@@ -9,6 +9,9 @@ last_updated: "2026-03-18"
 reading_time_minutes: 1
 keywords: [use]
 breadcrumb: [Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Evaluating agentic AI assets

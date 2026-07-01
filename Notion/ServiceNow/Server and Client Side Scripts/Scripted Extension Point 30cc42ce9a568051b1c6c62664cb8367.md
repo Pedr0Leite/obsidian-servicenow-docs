@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Scripted Extension Point"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - scripted-extension-point
   - script-include
@@ -78,6 +80,9 @@ Additionally, I also reviewed content previously shared by [Maria Gabriela Ocho
 [Links](Scripted%20Extension%20Point/Links%20319c42ce9a5680e6ba01c7c715665ea1.md)
 
 ## Related
+- [[Calculate Distance Between Two Locations in Servic]]
+- [[CMDB - Change Parent Table]]
+- [[Impersonate a user via script]]
 
 - [[Server and Client Side Scripts]]
 - [[Script include Advance structure - Inheritance]]

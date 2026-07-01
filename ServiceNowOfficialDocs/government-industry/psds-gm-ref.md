@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-18"
 reading_time_minutes: 1
 breadcrumb: [Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Public Sector Grants Management reference

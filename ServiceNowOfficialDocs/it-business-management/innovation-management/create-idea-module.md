@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Idea Portal administration, Manage Idea Portal, Innovation Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - innovation
+  - ideas
+  - evaluation
+  - itbm
+  - type-task
 ---
 
 # Create an Idea module

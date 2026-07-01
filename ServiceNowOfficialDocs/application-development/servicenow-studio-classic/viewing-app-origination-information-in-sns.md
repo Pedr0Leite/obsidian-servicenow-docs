@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-27"
 reading_time_minutes: 2
 breadcrumb: [Change your development experience, Use, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-concept
 ---
 
 # Viewing app origination information in ServiceNow Studio

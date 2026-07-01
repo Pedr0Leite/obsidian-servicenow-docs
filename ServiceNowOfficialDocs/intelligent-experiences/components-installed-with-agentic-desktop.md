@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-11-13"
 reading_time_minutes: 2
 breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Components installed with AI Desktop Actions

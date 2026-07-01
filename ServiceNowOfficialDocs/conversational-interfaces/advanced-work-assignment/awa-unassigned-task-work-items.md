@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - awa
+  - routing
+  - queues
+  - agents
+  - type-task
 ---
 
 # Check unassigned task work items

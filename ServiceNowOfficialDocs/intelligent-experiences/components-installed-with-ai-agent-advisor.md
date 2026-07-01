@@ -9,6 +9,9 @@ last_updated: "2026-04-16"
 reading_time_minutes: 1
 keywords: [AI Agent Advisor, AI agents, Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Components installed with AI Agent Advisor

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-24"
 reading_time_minutes: 1
 breadcrumb: [Form features, CSM Configurable Workspace features, CSM Configurable Workspace, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # CSM Configurable Workspace form headers

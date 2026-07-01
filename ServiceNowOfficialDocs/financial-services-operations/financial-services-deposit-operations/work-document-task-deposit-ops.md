@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Deposit Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - deposits
+  - accounts
+  - fso
+  - banking
+  - type-task
 ---
 
 # Work on a document task to verify documents for a deposit case

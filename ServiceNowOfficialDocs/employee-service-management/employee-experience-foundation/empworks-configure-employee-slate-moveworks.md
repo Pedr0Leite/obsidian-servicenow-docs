@@ -11,6 +11,13 @@ last_updated: "2026-04-28"
 reading_time_minutes: 3
 keywords: [Employee Slate for Moveworks, Product Configuration console, Conversational Assistant, Canvas configuration, update set package]
 breadcrumb: [Employee Slate for Moveworks, Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure Employee Slate for Moveworks

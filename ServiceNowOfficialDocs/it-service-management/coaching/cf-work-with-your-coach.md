@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing your coaching assessments, Training agents using Coaching with Learning, Coaching, IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-task
 ---
 
 # Work with your coach

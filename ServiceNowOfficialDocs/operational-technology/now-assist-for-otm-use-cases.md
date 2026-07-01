@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [OT Manager Foundation, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Use agentic AI for the OT Manager Foundation

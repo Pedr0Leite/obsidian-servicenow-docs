@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - emr
+  - ehr
+  - healthcare-it
+  - integration
+  - type-task
 ---
 
 # Customize the URL and REST API task parameters for EMR systems

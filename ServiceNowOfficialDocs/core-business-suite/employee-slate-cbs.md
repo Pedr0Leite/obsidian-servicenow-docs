@@ -9,6 +9,12 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [Employee Slate, CBS portal, employee support portal, Core Business Suite]
 breadcrumb: [Exploring employee support, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Employee Slate for Core Business Suite

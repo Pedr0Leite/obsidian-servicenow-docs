@@ -7,6 +7,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-reference
 ---
 
 # Service Exchange

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-19"
 reading_time_minutes: 2
 breadcrumb: [REST API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - table-api
+  - json
+  - http
+  - type-concept
 ---
 
 # Copy Assessments API

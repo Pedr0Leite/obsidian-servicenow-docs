@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Configuring Agentic Contact Center for Insurance, Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # Install Agentic Contact Center for Insurance

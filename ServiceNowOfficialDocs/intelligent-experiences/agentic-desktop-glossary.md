@@ -9,6 +9,9 @@ last_updated: "2025-07-31"
 reading_time_minutes: 7
 keywords: [glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, glossary terms, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions, Agentic Desktop, AI Desktop Agents, AI Desktop Actions]
 breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # AI Desktop Actions glossary

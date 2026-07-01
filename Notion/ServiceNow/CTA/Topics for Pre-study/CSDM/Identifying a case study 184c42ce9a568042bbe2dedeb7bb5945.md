@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Identifying a case study"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -216,6 +218,9 @@ To determine if a case study is focused on CSDM, look for the following indicato
 By mastering these insights and systematically applying them, you will be well-prepared to analyze and address CSDM-focused case studies in the ServiceNow CTA course.
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[02 Case study – Files]]
+- [[Tips for presentation]]
 - [[CSDM]]
 - [[CMDB]]
 - [[CMDB and CSDM]]

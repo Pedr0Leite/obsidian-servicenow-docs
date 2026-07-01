@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Explore, Agent Chat, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - agent-chat
+  - live-chat
+  - messaging
+  - support
+  - type-concept
 ---
 
 # Profanity Filter for Agent Chat overview

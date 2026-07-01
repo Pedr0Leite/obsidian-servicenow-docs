@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 10
 breadcrumb: [Structured workflows for BCPs, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Add recovery tasks

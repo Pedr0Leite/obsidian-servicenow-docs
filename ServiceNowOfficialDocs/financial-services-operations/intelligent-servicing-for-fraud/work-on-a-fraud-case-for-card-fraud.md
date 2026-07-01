@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [work on a fraud case, card fraud case, investigate fraud cases, resolve fraud cases, fraud case playbook, initiate fraud case, fraud investigation stage, case disposition, fraud write-off, manager approval for fraud, verify fraud transactions, collect fraud documents, sn\_bom\_fraud.agent]
 breadcrumb: [Use, Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-task
 ---
 
 # Work on a fraud case for card fraud

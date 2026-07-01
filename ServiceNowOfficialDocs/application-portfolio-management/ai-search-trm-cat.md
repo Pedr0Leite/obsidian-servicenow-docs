@@ -8,6 +8,13 @@ topic_type: concept
 last_updated: "2026-04-17"
 reading_time_minutes: 3
 breadcrumb: [Working with the publishing center, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # AI Search on the TRM catalog

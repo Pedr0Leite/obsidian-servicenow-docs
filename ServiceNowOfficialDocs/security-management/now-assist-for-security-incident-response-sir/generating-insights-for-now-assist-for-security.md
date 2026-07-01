@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-concept
 ---
 
 # Exploring correlation insights with Now Assist for Security Incident Response

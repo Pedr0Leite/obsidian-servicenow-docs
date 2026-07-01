@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install Strategic Spend Tracking for PPM, Strategic Spend Tracking for PPM, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-reference
 ---
 
 # Components installed with Strategic Spend Tracking for PPM

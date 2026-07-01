@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Managing maintenance plans, Planned Maintenance, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - planned-maintenance
+  - scheduling
+  - downtime
+  - sme
+  - type-task
 ---
 
 # Configure a maintenance schedule

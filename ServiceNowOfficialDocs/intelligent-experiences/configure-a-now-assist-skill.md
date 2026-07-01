@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Activate, Now Assist, skill, panel, ServiceNow AI Platform, admin, features]
 breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Activate a Now Assist skill

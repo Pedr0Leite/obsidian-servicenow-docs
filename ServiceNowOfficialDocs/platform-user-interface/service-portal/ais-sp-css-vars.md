@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-17"
 reading_time_minutes: 3
 breadcrumb: [Override AI Search theming, AI Search in Service Portal, Configuring search in a portal, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-reference
 ---
 
 # Theming for AI Search in Service Portal

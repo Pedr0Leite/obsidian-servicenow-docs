@@ -9,6 +9,9 @@ last_updated: "2026-05-18"
 reading_time_minutes: 12
 keywords: [Semaphores, performance metrics]
 breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference, Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Semaphores performance metrics

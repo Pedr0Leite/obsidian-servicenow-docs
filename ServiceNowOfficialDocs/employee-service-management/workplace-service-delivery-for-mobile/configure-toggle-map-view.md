@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - mobile
+  - app
+  - workplace
+  - type-task
 ---
 
 # Configure the Toggle map view property

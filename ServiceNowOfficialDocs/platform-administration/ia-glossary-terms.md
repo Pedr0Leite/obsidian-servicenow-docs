@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Reference, Setup Hub, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # Setup Hub terminology

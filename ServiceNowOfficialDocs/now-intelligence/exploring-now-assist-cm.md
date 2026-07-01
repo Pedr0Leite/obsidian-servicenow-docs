@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-29"
 reading_time_minutes: 2
 breadcrumb: [Dashboard Summary, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # About Dashboard Summarization

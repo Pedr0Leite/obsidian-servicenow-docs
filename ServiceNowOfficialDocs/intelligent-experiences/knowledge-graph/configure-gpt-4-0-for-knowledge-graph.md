@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [generative AI, Now Assist]
 breadcrumb: [Configuring Knowledge Graph, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-task
 ---
 
 # Configure LLM for Knowledge Graph

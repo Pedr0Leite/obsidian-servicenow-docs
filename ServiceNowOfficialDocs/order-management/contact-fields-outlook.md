@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [contact fields, ServiceNow CRM for Outlook]
 breadcrumb: [Activity Management reference, Lead and opportunity management, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Contact form in the ServiceNow CRM for Outlook add-in

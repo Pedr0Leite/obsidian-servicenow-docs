@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage user appointments as a clinician or a vaccine agent, Use Vaccine Administration Management, Vaccine Administration Management, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - vaccines
+  - administration
+  - scheduling
+  - healthcare
+  - type-task
 ---
 
 # Create consumer users

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 4
 breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-concept
 ---
 
 # Monitoring CMDB data quality using dashboard metrics in CMDB success advisor for Data Foundations

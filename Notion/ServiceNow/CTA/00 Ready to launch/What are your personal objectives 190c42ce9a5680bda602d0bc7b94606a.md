@@ -1,6 +1,8 @@
 ---
 aliases:
   - "What are your personal objectives"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - onboarding
@@ -23,6 +25,9 @@ I tend to always do prof of concepts while I want to also know how to better adv
 I also want to be able to structure all the phases correctly in order to know which products might come first depending on the client requirements
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Describe the types of challenges you anticipate So]]
 
 - [[00 Ready to launch]]
 - [[Meet the team at Sovereign Bank]]

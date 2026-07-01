@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-09-19"
 reading_time_minutes: 6
 breadcrumb: [AI agents best practices, Explore, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # General guidelines for creating AI agents and agentic workflows

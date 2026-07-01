@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Generative AI, Generative AI for Customer Service Management, Generative AI for customer service agents]
 breadcrumb: [Sentiment analysis case, Activate Now Assist Skills, Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Change an insight to use a different field for sentiment analysis

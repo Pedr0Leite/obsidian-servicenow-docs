@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-27"
 reading_time_minutes: 2
 breadcrumb: [Configure the OT Discovery Collector, Operational Technology Discovery Collector, Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-task
 ---
 
 # Install the OT Discovery Collector on a Windows system

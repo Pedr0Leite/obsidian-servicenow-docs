@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [formula column, CWM, formula builder, List view, add column, formula syntax, Math, Date and Time]
 breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Add a formula column in CWM Boards

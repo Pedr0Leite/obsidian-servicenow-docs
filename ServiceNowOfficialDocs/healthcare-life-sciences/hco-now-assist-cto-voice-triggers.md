@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # Configure Care Team Operations Case Creation Voice AI agent triggers

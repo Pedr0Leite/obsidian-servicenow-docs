@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Microsoft Entra ID integration for new hire onboarding, Lifecyle events for enterprise integrations, Lifecyle events for enterprise, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journeys
+  - milestones
+  - onboarding
+  - offboarding
+  - type-task
 ---
 
 # Set up the Microsoft Entra ID integration for new hire onboarding

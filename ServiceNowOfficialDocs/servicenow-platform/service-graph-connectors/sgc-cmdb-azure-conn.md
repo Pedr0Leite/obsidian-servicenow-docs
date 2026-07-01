@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SGC-Azure, SGC-Microsoft Azure, SGC Azure, SGC Microsoft Azure, SGC for Azure, SGC for Microsoft Azure, Azure SGC, Microsoft Azure SGC, Service Graph Connector for Microsoft Azure, Service Graph Connector for Azure, Azure connection details, Azure connection, common connection framework, CCF, SGC-Azure, SGC-Microsoft Azure, SGC Azure, SGC Microsoft Azure, SGC for Azure, SGC for Microsoft Azure, Azure SGC, Microsoft Azure SGC, Service Graph Connector for Microsoft Azure, Service Graph Connector for Azure, Azure connection details, Azure connection, common connection framework, CCF]
 breadcrumb: [Microsoft Azure, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for Microsoft Azure

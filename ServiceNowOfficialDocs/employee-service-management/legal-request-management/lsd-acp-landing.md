@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [ACP, Attorney client privilege, Privileged and confidential]
 breadcrumb: [Explore, Legal Request Management, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - requests
+  - intake
+  - routing
+  - type-concept
 ---
 
 # Attorney-Client Privilege

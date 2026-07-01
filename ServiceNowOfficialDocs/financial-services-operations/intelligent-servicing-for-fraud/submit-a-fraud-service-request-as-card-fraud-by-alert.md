@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [submit a fraud case request, create a fraud case, card fraud by alert, fraud case fulfillment, collect customer documents, document verification tasks, fraud case workflow, fraud types, sn\_bom\_fraud.agent]
 breadcrumb: [Use, Intelligent Servicing for Fraud, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - fraud
+  - ai
+  - detection
+  - fso
+  - type-task
 ---
 
 # Submit a fraud case request

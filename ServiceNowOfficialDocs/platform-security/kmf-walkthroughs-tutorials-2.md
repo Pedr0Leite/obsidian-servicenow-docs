@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Column Level Encryption, Column Level Encryption, Encryption]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Column Level Encryption Enterprise examples

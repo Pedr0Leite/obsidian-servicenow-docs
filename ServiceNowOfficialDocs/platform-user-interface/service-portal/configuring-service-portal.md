@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-27"
 reading_time_minutes: 5
 breadcrumb: [Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-concept
 ---
 
 # Configuring Service Portal

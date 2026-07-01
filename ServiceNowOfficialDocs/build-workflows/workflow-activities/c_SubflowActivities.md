@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workflow activities reference, Workflow activities, Classic Workflow, Build workflows]
+tags:
+  - build-workflows
+  - workflow-activities
+  - actions
+  - activities
+  - automation
+  - type-concept
 ---
 
 # Subflow activities in workflow

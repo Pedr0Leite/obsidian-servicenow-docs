@@ -11,6 +11,13 @@ last_updated: "2026-03-23"
 reading_time_minutes: 26
 keywords: [azure kubernetes, kubernetes cluster, get kubernetes config file, kubernetes mid server]
 breadcrumb: [Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Kubernetes discovery using patterns

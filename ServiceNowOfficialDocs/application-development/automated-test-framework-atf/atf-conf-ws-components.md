@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 22
 breadcrumb: [Automated Test Framework \(ATF\) reference, Automated Test Framework \(ATF\), Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - atf
+  - testing
+  - automated-tests
+  - test-suites
+  - type-reference
 ---
 
 # Testable Configurable Workspace components

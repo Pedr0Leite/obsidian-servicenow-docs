@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-16"
 reading_time_minutes: 1
 breadcrumb: [TISC integration within SIR Workspace, Working with Security Incident Records, Use, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Working with TISC Context

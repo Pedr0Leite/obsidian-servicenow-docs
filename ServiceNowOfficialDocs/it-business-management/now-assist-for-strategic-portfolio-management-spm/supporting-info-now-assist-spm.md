@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist for SPM supported versions, Now Assist for SPM licensing requirements, Now Assist for SPM application information]
 breadcrumb: [Explore, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-concept
 ---
 
 # Supporting information for Now Assist for Strategic Portfolio Management \(SPM\)

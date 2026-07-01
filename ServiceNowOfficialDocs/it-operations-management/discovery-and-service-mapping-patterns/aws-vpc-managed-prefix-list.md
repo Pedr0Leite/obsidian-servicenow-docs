@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [Amazon VPC Managed Prefix List, AWS VPC discovery, AWS patterns, VPC Managed Prefix List Extended Inventory]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Amazon Amazon VPC Managed Prefix List pattern-based discovery

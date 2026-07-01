@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Modify greeting text, Modify cards, Create a copy of the landing page, Configure your workspace using UI Builder]
 breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-ops-workspace
+  - itom
+  - monitoring
+  - type-concept
 ---
 
 # Customize the Service Operations Workspace for ITOM home page

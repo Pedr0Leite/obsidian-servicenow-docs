@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project, Using Project Management, Project Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - projects
+  - planning
+  - tasks
+  - pm
+  - type-task
 ---
 
 # Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Data anonymization, Data privacy, Data Privacy, Platform Privacy]
+tags:
+  - platform-security
+  - data-privacy
+  - consent
+  - gdpr
+  - classic
+  - type-concept
 ---
 
 # Anonymization of encrypted columns

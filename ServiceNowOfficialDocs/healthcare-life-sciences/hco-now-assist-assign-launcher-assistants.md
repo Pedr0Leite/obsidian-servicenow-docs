@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Configure Care Team Mobile, Care Team Mobile, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # Assign the launcher to your voice and chat assistants in Care Team Mobile

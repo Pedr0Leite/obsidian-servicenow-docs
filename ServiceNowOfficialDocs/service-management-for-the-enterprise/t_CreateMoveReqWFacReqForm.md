@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Facilities move requests, Facilities move management, Facilities Service Management overview, Facilities Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # Create a move request with the move request form

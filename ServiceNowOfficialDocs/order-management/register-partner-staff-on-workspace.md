@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Create Channel Partner record, Partner Workspace, Configure Partner Relationship Management, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Register Partner Staff on workspace

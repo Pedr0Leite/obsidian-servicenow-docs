@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 6
 breadcrumb: [Approve or reject a customer order, Customer orders, Use, Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-concept
 ---
 
 # Order decomposition

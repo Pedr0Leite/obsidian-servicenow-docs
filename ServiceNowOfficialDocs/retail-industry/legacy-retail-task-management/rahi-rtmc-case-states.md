@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create multi-store cases, Retail Task Management, Retail]
+tags:
+  - retail-industry
+  - retail
+  - task-management
+  - stores
+  - legacy
+  - type-reference
 ---
 
 # Retail multi-store case states

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [scan assets, scan multiple assets, multi scan inventory audit]
 breadcrumb: [Manage enterprise asset inventory audit using the ServiceNow Agent app, Managing enterprise assets and tasks using the Mobile Agent application, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-task
 ---
 
 # Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app

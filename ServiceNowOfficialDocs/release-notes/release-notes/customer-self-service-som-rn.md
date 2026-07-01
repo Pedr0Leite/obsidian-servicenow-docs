@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-05-21"
 reading_time_minutes: 8
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Customer self-service for Sales Customer Relationship Management release notes

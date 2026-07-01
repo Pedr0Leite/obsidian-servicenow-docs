@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Task Intelligence for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - task-intelligence
+  - routing
+  - ai
+  - itsm
+  - type-concept
 ---
 
 # Monitoring and Analytics for Task Intelligence for ITSM

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How governance at Sovereign Bank would apply"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - governance
@@ -84,6 +86,9 @@ Absolutely! Here’s how governance at Sovereign Bank would apply to each princi
 This approach ensures Sovereign Bank’s **ServiceNow governance remains structured, scalable, and aligned with business goals.** Would you like to integrate this into your slides? 🚀
 
 ## Related
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[04 Week 4]]
 - [[04 Case Study]]

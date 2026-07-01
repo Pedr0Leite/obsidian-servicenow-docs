@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [set up oauth card data security, oauth authentication, jwt authentication, json web token, context-aware token, service token, client token, data token signer, carddatasecurity servicetoken, carddatasecurity clienttoken, carddatasecurity datatokensigner, tokenizer service authentication]
 breadcrumb: [Configure, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Set up OAuth for Card Data Security

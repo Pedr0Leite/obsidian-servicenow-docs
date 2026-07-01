@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [MID server consumer, Configure, Log Export Service \(LES\), Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Multi-consumer support using unique mid servers

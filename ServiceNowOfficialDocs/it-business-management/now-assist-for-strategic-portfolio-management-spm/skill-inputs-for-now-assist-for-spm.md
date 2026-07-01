@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Inputs for Now Assist for SPM, Inputs for the feedback summarization skill]
 breadcrumb: [Configure, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-reference
 ---
 
 # Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)

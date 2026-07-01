@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-02"
 reading_time_minutes: 2
 breadcrumb: [Configure Now Assist for CSM Major Issue Management, Configure case management, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Now Assist for CSM Major Issue Management Properties

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Running on-demand scans, Run your first scan, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Initiate update set scans

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Benchmarks, IT Service Management]
+tags:
+  - it-service-management
+  - benchmarks
+  - itsm
+  - kpis
+  - industry
+  - type-task
 ---
 
 # Configure resolved incident Benchmarks KPIs

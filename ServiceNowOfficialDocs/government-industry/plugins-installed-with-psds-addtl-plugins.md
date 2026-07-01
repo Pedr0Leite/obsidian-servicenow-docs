@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 11
 breadcrumb: [Components and roles installed, Reference, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-reference
 ---
 
 # Plugins installed with Public Sector Digital Services Applications

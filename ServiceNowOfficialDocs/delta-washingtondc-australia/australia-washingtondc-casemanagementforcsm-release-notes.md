@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 17
 breadcrumb: [Products combined by family]
+tags:
+  - delta-washingtondc-australia
+  - type-reference
 ---
 
 # Combined Case management for CSM release notes for upgrades from Washington DC to Australia

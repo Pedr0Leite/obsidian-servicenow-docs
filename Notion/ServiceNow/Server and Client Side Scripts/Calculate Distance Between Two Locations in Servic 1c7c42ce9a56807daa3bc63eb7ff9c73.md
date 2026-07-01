@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Calculate Distance Between Two Locations in Servic"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - script-include
   - glide-record
@@ -426,6 +428,8 @@ type : 'DistanceCalculator'
 };
 
 ## Related
+- [[Impersonate a user via script]]
+- [[CMDB - Change Parent Table]]
 
 - [[Server and Client Side Scripts]]
 - [[Script include Advance structure - Inheritance]]

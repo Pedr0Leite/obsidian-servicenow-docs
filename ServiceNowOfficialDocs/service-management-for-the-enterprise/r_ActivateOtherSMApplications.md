@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Activate Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-reference
 ---
 
 # Activate other Service Management applications

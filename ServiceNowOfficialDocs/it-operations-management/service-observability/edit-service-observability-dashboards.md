@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Customize dashboard templates, Configuring Service Observability, Service Observability, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - observability
+  - slo
+  - health
+  - itom
+  - type-task
 ---
 
 # Edit observability data charts on Service Observability dashboard templates

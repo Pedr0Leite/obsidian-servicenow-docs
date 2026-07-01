@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Use, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-concept
 ---
 
 # Manage various assets through asset classes

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-06"
 reading_time_minutes: 2
 breadcrumb: [Customizing Desktop Assistant notifications using API parameters, Set up Desktop Assistant, Configure, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - dex
+  - digital-experience
+  - monitoring
+  - endpoints
+  - type-task
 ---
 
 # Troubleshoot Desktop Assistant notification delivery

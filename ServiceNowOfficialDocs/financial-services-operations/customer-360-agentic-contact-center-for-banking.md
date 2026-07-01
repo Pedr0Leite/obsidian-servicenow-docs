@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [customer 360, customer profile, financial overview, account details, transaction history, service cases, ai-generated customer summary, total deposit, total available credit, total money owed, view customer accounts, view customer cases, customer 360 page, b2c customer, b2b account]
 breadcrumb: [Explore, Agentic Contact Center for Banking, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Customer 360 page for Agentic Contact Center for Banking

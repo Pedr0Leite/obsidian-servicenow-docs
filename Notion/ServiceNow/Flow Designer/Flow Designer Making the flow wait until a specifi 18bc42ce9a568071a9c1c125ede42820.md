@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Flow Designer Making the flow wait until a specifi"
+area: "Flow Designer"
+source: notion-export
 tags:
   - flow-designer
   - wait-condition

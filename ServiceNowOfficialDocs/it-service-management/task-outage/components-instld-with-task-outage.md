@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate Task-Outage Relationship, Task Outage, IT Service Management]
+tags:
+  - it-service-management
+  - outage
+  - tasks
+  - itsm
+  - coordination
+  - type-reference
 ---
 
 # Components installed with Task-Outage Relationship

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-22"
 reading_time_minutes: 2
 breadcrumb: [Reference, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-reference
 ---
 
 # Properties installed with Enterprise Agile Planning

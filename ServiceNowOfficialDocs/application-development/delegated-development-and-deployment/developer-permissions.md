@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Delegate permissions, Administer, Delegated Development, Planning your application, Building applications]
+tags:
+  - application-development
+  - delegated-dev
+  - deployment
+  - pipeline
+  - governance
+  - type-reference
 ---
 
 # Developer and deployment permissions

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Migrating Virtual Agent and NLU between instances"
+area: "AI & VA"
+source: notion-export
 tags:
   - virtual-agent
   - nlu

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [ReleaseOps, deploy changes, update sets, pipeline, ATF, schedule a release, deployment request, deployment analyzer]
 breadcrumb: [Configure, ReleaseOps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - release-management
+  - pipeline
+  - ci-cd
+  - devops
+  - type-task
 ---
 
 # Install ReleaseOps

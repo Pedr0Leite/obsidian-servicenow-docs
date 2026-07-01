@@ -1,6 +1,8 @@
 ---
 aliases:
   - "SAML Errors and Fixes (Multiple Provider SSO)"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - saml
@@ -58,6 +60,9 @@ Instance is configured with the Multiple Provider SSO plugin
 | urn:oasis:names:tc:SAML:2.0:status:Responder |  | Check the IdP logs during the respective login attempt. | Instance is expecting to see urn:oasis:names:tc:SAML:2.0:status:Success before any attempt to process the SAMLResponse. Please work with IdP admin to provide related logs so Support can determine what configuration on the instance/IdP needs to be updated. |
 
 ## Related
+- [[Knowledge Base Articles – Integrations]]
+- [[Conversational integration with Microsoft Teams -]]
+- [[Integration Design - How to choose the best patter]]
 
 - [[Integrations – SAML]]
 - [[Enable Engagement Messenger on a website when thir]]

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Understanding PaCE, Policy as Code Engine \(PaCE\), Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - pace
+  - policy-as-code
+  - compliance
+  - automation
+  - type-reference
 ---
 
 # Key user personas and roles

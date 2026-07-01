@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request creation using inbound email actions, Request creation, Request Management in a Service Management application, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # Create a request from an inbound email

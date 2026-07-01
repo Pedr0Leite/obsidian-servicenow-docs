@@ -9,6 +9,12 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [Employee Slate, Employee Experience, Core Business Suite, Moveworks, Now Assist, employee portal, configure]
 breadcrumb: [Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Employee Slate configuration for CBS

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Provider connector configuration, Setup Workplace Connectors for badging data, Configure, Workplace Connectors, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - connectors
+  - integration
+  - workplace
+  - facilities
+  - type-task
 ---
 
 # Configure badging table data

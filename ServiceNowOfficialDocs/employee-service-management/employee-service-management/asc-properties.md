@@ -6,6 +6,13 @@ release: australia
 topic_type: task
 last_updated: "2026-04-01"
 reading_time_minutes: 1
+tags:
+  - employee-service-management
+  - esm
+  - hr
+  - service-delivery
+  - platform
+  - type-task
 ---
 
 # Properties for Alumni Center

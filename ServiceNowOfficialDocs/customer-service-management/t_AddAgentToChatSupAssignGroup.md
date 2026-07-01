@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Agent management, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Add an agent to the chat support assignment group

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Issue Auto Resolution for HR, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - auto-resolution
+  - ai
+  - hr
+  - deflection
+  - type-concept
 ---
 
 # Using Issue Auto Resolution for HR to handle cases

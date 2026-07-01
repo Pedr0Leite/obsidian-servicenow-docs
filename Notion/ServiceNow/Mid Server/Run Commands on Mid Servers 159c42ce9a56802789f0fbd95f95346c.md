@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Run Commands on Mid Servers"
+area: "Mid Server"
+source: notion-export
 tags:
   - mid-server
   - ecc-queue

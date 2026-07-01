@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Generating expense lines based on assets or users, Create a contract rate card, Contracts, Contract Management use, Contract Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - contracts
+  - renewals
+  - entitlements
+  - itam
+  - type-task
 ---
 
 # Add a user or asset to a contract

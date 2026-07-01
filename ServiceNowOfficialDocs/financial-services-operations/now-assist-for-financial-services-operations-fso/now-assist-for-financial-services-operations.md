@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [generative AI for FSO, generative AI for financial service operations, generative AI for insurance, generative AI for card disputes]
 breadcrumb: [Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-reference
 ---
 
 # Now Assist for Financial Services Operations \(FSO\)

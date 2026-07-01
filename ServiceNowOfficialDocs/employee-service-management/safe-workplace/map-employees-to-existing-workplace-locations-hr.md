@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mapping employees to their designated workspaces, Workplace Core, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - return-to-office
+  - covid
+  - facility
+  - type-task
 ---
 
 # Map designated workspaces to user profiles

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Prompt Guideance"
+area: "Knowledge Base Articles"
+source: notion-export
 tags:
   - knowledge-base
   - ai

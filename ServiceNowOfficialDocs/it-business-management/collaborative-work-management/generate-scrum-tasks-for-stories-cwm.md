@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [scrum tasks, Now Assist, AI generation, CWM, story, agile, sprint, generate]
 breadcrumb: [Scrum tasks for stories, Agile in CWM, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-task
 ---
 
 # Generate scrum tasks for a story with Now Assist for CWM

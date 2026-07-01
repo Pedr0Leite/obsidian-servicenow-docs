@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Critical Event Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - critical-events
+  - emergency
+  - response
+  - safety
+  - type-concept
 ---
 
 # Managing impacted people

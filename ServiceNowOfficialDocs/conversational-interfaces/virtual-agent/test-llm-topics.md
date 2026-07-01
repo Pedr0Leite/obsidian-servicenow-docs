@@ -11,6 +11,13 @@ last_updated: "2026-04-06"
 reading_time_minutes: 3
 keywords: [LLM, Topic, Testing, Virtual Agent, Large Language Model]
 breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Testing LLM topics

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Agent Client Collector, Kubernetes, Visibility, Informer, status, fields, reference, Cloud Native Operations for Visibility, CNO for Visibility]
 breadcrumb: [Kubernetes Visibility Agent Reference, Kubernetes discovery using Kubernetes Visibility Agent, Discovery for containerized resources, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # Kubernetes Visibility Agent Informer status fields

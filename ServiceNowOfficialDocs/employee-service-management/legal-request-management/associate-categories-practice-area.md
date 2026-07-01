@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Create or modify a practice area, Configure, Legal Request Management, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - requests
+  - intake
+  - routing
+  - type-task
 ---
 
 # Add an intake form to a practice area

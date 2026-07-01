@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-05-07"
 reading_time_minutes: 2
 breadcrumb: [Working with Technology Reference Model \(TRM\) in EA Workspace, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Run a job to sync TRM product names in EA Workspace

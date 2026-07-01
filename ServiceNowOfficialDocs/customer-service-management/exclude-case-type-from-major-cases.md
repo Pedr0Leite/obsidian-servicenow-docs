@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Configure major issue management, Configure case management, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Exclude a case type from major cases

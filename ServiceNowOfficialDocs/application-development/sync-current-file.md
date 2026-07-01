@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Synchronization between Visual Studio Code and a ServiceNow instance, ServiceNow Extensions for Visual Studio Code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Sync the current file between a Visual Studio Code workspace and a ServiceNow instance

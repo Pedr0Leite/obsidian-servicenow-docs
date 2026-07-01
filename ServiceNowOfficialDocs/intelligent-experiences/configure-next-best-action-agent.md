@@ -9,6 +9,9 @@ last_updated: "2025-11-23"
 reading_time_minutes: 3
 keywords: [Agentic AI, ACLs in AI agents]
 breadcrumb: [Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create an AI agent

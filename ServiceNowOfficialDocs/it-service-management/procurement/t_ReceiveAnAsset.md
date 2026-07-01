@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Receive assets, Procurement, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - procurement
+  - orders
+  - catalog
+  - itsm
+  - type-task
 ---
 
 # Receive an asset

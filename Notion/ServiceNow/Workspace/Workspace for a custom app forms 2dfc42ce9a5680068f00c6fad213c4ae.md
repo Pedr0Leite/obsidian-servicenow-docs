@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Workspace for a custom app forms"
+area: "Workspace"
+source: notion-export
 tags:
   - workspace
   - forms
@@ -80,6 +82,7 @@ In the [next part](https://www.servicenow.com/community/next-experience-blog/wo
 - [**Workspace : Next Experience**](https://www.servicenow.com/community/next-experience-blog/bg-p/next-experience-blog/label-name/workspace%20%3A%20next%20experience)
 
 ## Related
+- [[Using Applicability in Next Experience Themes to s]]
 
 - [[Workspace]]
 - [[Workspace App Shell UX Page Properties]]

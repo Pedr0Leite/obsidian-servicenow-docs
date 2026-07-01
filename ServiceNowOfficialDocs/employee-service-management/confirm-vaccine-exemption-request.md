@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Vaccination Status, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-task
 ---
 
 # Confirm a vaccine exemption request for a user

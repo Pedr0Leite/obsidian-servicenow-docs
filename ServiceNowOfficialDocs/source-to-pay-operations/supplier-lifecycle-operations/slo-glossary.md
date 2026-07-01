@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 8
 keywords: [glossary terms, action plan, KPI, supplier lifecycle operations, activity stream, supplier case, supplier lifecycle operations, glossary terms, case playbook, supplier case, supplier lifecycle operations, collection task, KPI, supplier lifecycle operations, comments, supplier case, supplier lifecycle operations, contextual side panel, Source-to-Pay Workspace, supplier lifecycle operations, Craft.co Integration, supplier intelligence, supplier lifecycle operations, glossary terms, decision builder, playbook, supplier lifecycle operations, document configuration, supplier documents, supplier lifecycle operations, DUNS number, supplier, supplier lifecycle operations, glossary terms, Emails view, supplier case, supplier lifecycle operations, glossary terms, Interaction Management, supplier lifecycle operations, internal stakeholder, supplier, supplier lifecycle operations, glossary terms, KPI performance domain, KPI, supplier lifecycle operations, KPI template, KPI, supplier lifecycle operations, KPI threshold, KPI, supplier lifecycle operations, KPI unit, KPI, supplier lifecycle operations, milestone, action plan, supplier lifecycle operations, glossary terms, glossary terms, glossary terms, performance indicator, KPI, supplier lifecycle operations, playbook, supplier lifecycle operations, primary contact, supplier contact, supplier lifecycle operations, glossary terms, Relish, supplier intelligence, supplier lifecycle operations, glossary terms, saving estimator, supplier payment, supplier lifecycle operations, Supplier Case Management, supplier lifecycle operations, supplier case type, supplier case, supplier lifecycle operations, supplier contact self-registration, supplier contact, supplier lifecycle operations, supplier document strategy generator, AI agent, supplier lifecycle operations, supplier onboarding playbook, supplier onboarding, supplier lifecycle operations, glossary terms, Universal Request, supplier case, supplier lifecycle operations, glossary terms, work notes, supplier case, supplier lifecycle operations]
 breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-concept
 ---
 
 # Supplier Lifecycle Operations glossary

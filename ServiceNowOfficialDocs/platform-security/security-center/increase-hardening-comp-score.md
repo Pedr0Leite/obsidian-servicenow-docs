@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Hardening compliance score trend, Security hardening, Security configuration console, Security Center, Platform Security]
+tags:
+  - platform-security
+  - security-center
+  - posture
+  - compliance
+  - risks
+  - type-task
 ---
 
 # Increase hardening compliance score

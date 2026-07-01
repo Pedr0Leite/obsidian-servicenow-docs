@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-11-04"
 reading_time_minutes: 4
 breadcrumb: [Now Assist agentic workflows, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # In-product experience for agentic workflows

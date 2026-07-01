@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Embed Care Team Portal in Epic, Configure, Care Team Portal, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-task
 ---
 
 # In Epic: Configure Epic Hyperspace Integration

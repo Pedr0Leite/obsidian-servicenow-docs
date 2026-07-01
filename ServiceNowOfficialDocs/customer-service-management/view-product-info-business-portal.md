@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Business Portal, Customer communication, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # View product information from Business Portal

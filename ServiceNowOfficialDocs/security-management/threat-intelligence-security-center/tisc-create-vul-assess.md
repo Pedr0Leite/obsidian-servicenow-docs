@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-01"
 reading_time_minutes: 1
 breadcrumb: [Working with automated flows, Administer, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Create vulnerability assessment for zero day

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Issue Auto Resolution – Considerations for Designing, Maintaining, and Sca"
+area: "AI & VA"
+source: notion-export
 tags:
   - issue-auto-resolution
   - virtual-agent
@@ -39,6 +41,8 @@ processes, especially around tuning and monitoring Issue Auto Resolution
  performance, to take advantage of the latest features.
 
 ## Related
+- [[Automation Discovery – Considerations for Designing, Maintaining, and Sca]]
+- [[Now Assist]]
 
 - [[Issue Auto Resolution]]
 - [[VA - Basic Arch and ACLs]]

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Training agents using Coaching with Learning, Coaching, IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-concept
 ---
 
 # Coaching your trainee

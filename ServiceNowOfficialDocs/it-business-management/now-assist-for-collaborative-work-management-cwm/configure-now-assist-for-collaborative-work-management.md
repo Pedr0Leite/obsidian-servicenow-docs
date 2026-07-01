@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Now Assist for CWM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - cwm
+  - generative
+  - type-task
 ---
 
 # Configure Now Assist for Collaborative Work Management \(CWM\)

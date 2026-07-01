@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Tips for presentation"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - cmdb
@@ -75,6 +77,9 @@ This presentation must **convince resistant stakeholders** (Li Na & the Configur
 - **Plan a phased rollout** → Ensure adoption before expanding across Sovereign Bank Group.
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[02 Case study – Files]]
+- [[02 Week 2]]
 
 - [[02 Case study]]
 - [[CMDB & CSDM]]

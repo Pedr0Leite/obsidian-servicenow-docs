@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Developing your application

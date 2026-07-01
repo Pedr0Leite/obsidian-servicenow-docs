@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2025-07-31"
 reading_time_minutes: 9
 breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Work on a workplace case using Case management

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "getSimilarRecords Script"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-search
   - vector-search
@@ -118,6 +120,7 @@ After applying the fixes:
 7. Combine good query design with proper indexing — both are required for optimal results.
 
 ## Related
+- [[GAF]]
 
 - [[AI Search]]
 - [[AI Search – Considerations for Designing, Maintaining, and Sca]]

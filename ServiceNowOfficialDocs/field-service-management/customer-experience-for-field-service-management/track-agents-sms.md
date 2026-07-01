@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Customer self service, Use, Field Service Management]
+tags:
+  - field-service-management
+  - customer-experience
+  - portal
+  - notifications
+  - fsm
+  - type-task
 ---
 
 # Track the current location of agents from email or SMS notifications

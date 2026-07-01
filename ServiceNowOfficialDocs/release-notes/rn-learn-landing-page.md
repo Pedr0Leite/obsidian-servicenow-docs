@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-05"
 reading_time_minutes: 1
 breadcrumb: [Australia release notes]
+tags:
+  - release-notes
+  - type-concept
 ---
 
 # Learn about the Australia release

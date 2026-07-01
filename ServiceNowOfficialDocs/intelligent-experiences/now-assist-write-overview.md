@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Now Assist, Now Assist context menu, Generative AI, Gen AI, Streamline]
 breadcrumb: [Now Assist Experiences, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist context menu

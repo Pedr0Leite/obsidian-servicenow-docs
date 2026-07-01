@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-20"
 reading_time_minutes: 4
 breadcrumb: [Key Management Framework Reference, Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-reference
 ---
 
 # Roles installed with Key Management Framework

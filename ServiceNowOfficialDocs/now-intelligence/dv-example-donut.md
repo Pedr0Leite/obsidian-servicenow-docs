@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 6
 breadcrumb: [Pie and donut visualizations, Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Donut visualization example

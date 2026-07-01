@@ -1,6 +1,8 @@
 ---
 aliases:
   - "ReactJS in SN"
+area: "Frameworks Libraries"
+source: notion-export
 tags:
   - reactjs
   - frameworks

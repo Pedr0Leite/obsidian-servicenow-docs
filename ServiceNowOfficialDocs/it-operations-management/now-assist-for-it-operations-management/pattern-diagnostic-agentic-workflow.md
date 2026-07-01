@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 2
 keywords: [Discovery, agentic workflow, Now Assist, pattern diagnostic, missing attribute, CMDB, data quality]
 breadcrumb: [Use agentic AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-concept
 ---
 
 # Pattern diagnostic agentic workflow

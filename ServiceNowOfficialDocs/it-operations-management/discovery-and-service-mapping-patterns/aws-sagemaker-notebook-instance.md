@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [Amazon SageMaker Notebook Instance, AWS SageMaker discovery, AWS patterns, SageMaker Extended Inventory]
 breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Amazon SageMaker Notebook Instance pattern-based discovery

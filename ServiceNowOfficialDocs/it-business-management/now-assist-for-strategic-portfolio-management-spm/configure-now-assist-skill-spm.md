@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-14"
 reading_time_minutes: 2
 breadcrumb: [Use Now Assist Admin, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Activate a Now Assist skill

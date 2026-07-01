@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-13"
 reading_time_minutes: 3
 breadcrumb: [Importing and exporting event tasks in Microsoft Excel, Structured workflows for Exercises, Manage, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Import data from Microsoft Excel

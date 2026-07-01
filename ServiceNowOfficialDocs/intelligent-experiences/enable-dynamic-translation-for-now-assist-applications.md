@@ -9,6 +9,9 @@ last_updated: "2026-06-01"
 reading_time_minutes: 2
 keywords: [Now Assist, application, translation, dynamic, language]
 breadcrumb: [Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Configure multilingual service for Now Assist applications

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Health Log Analytics, log analytics alert rule, delete alert rule, remove alert rule, defined alerts, Log viewer, Defined alerts table, alert rule management, alert configuration, custom alert rules, alert rule deletion, alert cleanup, unnecessary alerts]
 breadcrumb: [Use custom alert rules, Controlling alert generation, prioritization, and anomaly detection, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Delete a custom Log Analytics alert rule in Health Log Analytics

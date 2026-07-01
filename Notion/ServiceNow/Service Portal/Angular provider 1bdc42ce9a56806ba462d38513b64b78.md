@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Angular provider"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - angularjs
@@ -58,6 +60,9 @@ In the example, the directive has several properties:
 Any valid [directive syntax](https://docs.angularjs.org/guide/directive) can be used in an Angular Provider.
 
 ## Related
+- [[$uibModal's open function]]
+- [[Broadcast && emit && on]]
+- [[Portals Events]]
 
 - [[ServiceNow – Service Portal]]
 - [[Using the Link Function in Service Portal Widgets]]

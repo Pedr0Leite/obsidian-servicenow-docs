@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Job safety analysis, Use, Health and Safety Risk Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - risk
+  - assessment
+  - mitigation
+  - ehs
+  - type-task
 ---
 
 # View submitted JSAs in the workspace

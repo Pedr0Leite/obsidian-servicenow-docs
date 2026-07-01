@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 1
 keywords: [cloud discovery, Server CI, Windows Server, Linux Server, system property, pattern extension]
 breadcrumb: [Server CI population during cloud discovery, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Configure Server CI creation during cloud discovery

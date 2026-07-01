@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Platform performance, Maintain and monitor, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - performance
+  - diagnostics
+  - tuning
+  - queries
+  - type-reference
 ---
 
 # Methods to add variable information to the cancellation message

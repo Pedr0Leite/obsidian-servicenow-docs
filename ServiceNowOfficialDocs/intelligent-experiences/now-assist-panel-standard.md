@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-07-16"
 reading_time_minutes: 5
 breadcrumb: [Now Assist panel, Now Assist Experiences, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Standard chat

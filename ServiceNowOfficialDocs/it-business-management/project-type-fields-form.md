@@ -9,6 +9,9 @@ last_updated: "2026-04-29"
 reading_time_minutes: 2
 keywords: [project type fields, retail project dates, store go-live date, IT installation date, SPM Retail]
 breadcrumb: [Reference, Retail Strategic Portfolio Management Suite, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-reference
 ---
 
 # Project Type Fields form

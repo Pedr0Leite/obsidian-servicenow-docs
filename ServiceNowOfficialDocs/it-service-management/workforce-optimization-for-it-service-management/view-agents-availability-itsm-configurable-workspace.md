@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [Routing work items, Channels, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Track and analyze agent's performance

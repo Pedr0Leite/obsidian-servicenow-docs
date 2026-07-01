@@ -9,6 +9,9 @@ last_updated: "2026-04-01"
 reading_time_minutes: 3
 keywords: [AIOps, NOC operator, ITOM Health, use case, Service Operations Workspace]
 breadcrumb: [Explore, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-concept
 ---
 
 # NOC operator use case for AIOps

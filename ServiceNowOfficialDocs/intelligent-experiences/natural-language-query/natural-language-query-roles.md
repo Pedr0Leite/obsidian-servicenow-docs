@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Natural Language Query References, Natural Language Query, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlq
+  - natural-language
+  - query
+  - ai
+  - type-reference
 ---
 
 # Natural Language Query roles

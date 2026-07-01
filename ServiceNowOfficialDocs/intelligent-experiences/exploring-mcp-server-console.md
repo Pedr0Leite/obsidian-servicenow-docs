@@ -9,6 +9,9 @@ last_updated: "2025-08-08"
 reading_time_minutes: 4
 keywords: [explore]
 breadcrumb: [MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Exploring MCP Server Console

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Comparing various things"
+area: "CIS"
+source: notion-export
 tags:
   - cis-certification
   - cmdb
@@ -441,6 +443,9 @@ If the question mentions “incoming data” + “decides create vs update” �
 No exception. Ever.
 
 ## Related
+- [[CIS]]
+- [[How to access a Technical Challenge]]
+- [[Architectural Principles]]
 
 - [[Study material]]
 - [[Exam questions]]

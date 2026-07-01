@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: emplsm
 doc_type: toc
+tags:
+  - employee-service-management
 ---
 
 # Australia Employee Service Management

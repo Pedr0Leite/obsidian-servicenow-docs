@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-reference
 ---
 
 # DLP SLA Definition form

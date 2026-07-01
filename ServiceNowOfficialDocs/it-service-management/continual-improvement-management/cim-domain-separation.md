@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Overview, Continual Improvement Management, IT Service Management]
+tags:
+  - it-service-management
+  - cim
+  - improvements
+  - itsm
+  - metrics
+  - type-concept
 ---
 
 # Domain separation and Continual Improvement Management

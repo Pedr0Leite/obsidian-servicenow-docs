@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-05-15"
 reading_time_minutes: 1
 breadcrumb: [Partner Relationship Management, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create a Quote via Self-Service for Channel Partners

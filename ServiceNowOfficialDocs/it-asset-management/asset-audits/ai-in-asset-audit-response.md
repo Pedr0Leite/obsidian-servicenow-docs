@@ -11,6 +11,13 @@ last_updated: "2026-03-18"
 reading_time_minutes: 3
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [Explore, Asset Audit Response, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-audit
+  - reconciliation
+  - hardware
+  - itam
+  - type-concept
 ---
 
 # AI in Asset Audit Response

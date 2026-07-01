@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: cbs
 doc_type: toc
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
 ---
 
 # Australia Core Business Suite

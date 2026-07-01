@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 6
 breadcrumb: [Products combined by family]
+tags:
+  - delta-zurich-australia
+  - type-reference
 ---
 
 # Combined Now Assist for Sales CRM for Telecommunications release notes for upgrades from Zurich to Australia

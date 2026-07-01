@@ -11,6 +11,13 @@ last_updated: "2024-03-12"
 reading_time_minutes: 2
 keywords: [calendar management, scheduling, holiday widget, time management, Employee Slate]
 breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Calendar and schedule management

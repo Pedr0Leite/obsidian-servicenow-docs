@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring and viewing findings, Use the workspace, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Test result and remediation task state transitions in the Security Posture Control application

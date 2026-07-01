@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - data-kit
+  - rag
+  - retrieval
+  - type-reference
 ---
 
 # Now Assist Data Kit

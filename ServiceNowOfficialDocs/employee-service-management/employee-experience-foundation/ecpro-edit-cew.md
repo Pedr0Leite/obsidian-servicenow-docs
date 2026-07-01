@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-18"
 reading_time_minutes: 2
 breadcrumb: [Configure employee communications widgets, Setup employee communications, Configuring Employee Center Pro, Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Modify the Content Experiences widget

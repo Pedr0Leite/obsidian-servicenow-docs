@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Interview Management, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - interviews
+  - scheduling
+  - hiring
+  - hr
+  - type-task
 ---
 
 # Remove interview phase

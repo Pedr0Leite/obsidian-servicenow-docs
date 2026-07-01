@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-18"
 reading_time_minutes: 1
 breadcrumb: [Screen a grant application, Grants Management Proposal Playbook, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Check eligibility of an applicant

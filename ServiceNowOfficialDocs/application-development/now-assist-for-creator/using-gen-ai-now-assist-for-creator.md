@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, Now Assist for Creator, Install Now Assist for Creator, Use generative AI, gen AI, Skills in Now Assist for Creator]
 breadcrumb: [Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-concept
 ---
 
 # Using generative AI with Now Assist for Creator

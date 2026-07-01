@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 12
 breadcrumb: [Desktop action examples, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Example: Automate badge request management using AI Desktop Actions

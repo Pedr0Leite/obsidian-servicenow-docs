@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-23"
 reading_time_minutes: 13
 breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Discovery Configuration Console

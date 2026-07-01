@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, Gen AI, Generative AI, AI Search, multi-language support, Now LLM, aticle language, large language model]
 breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Management, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - now-assist
+  - ai
+  - knowledge
+  - generative
+  - type-task
 ---
 
 # Generate a Knowledge article using multi-language support

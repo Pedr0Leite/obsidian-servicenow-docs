@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 3
 breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Using premium chat

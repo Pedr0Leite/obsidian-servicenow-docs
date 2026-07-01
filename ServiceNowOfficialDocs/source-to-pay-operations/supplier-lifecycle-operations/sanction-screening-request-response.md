@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-06"
 reading_time_minutes: 1
 breadcrumb: [Conduct sanction screening, Review supplier information using Relish, Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-reference
 ---
 
 # Sanction screening parameters

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-14"
 reading_time_minutes: 3
 breadcrumb: [Email metrics, Monitor instance metrics, Instance Security Center, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Designate email domains as untrusted or trusted

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Integrations – Service Portal"
+area: "Integrations"
+source: notion-export
 tags:
   - service-portal
   - integrations
@@ -17,6 +19,9 @@ tags:
 [What is the best way to findout the Share Point Site ID and the Resource ID? - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/5323431/what-is-the-best-way-to-findout-the-share-point-si)
 
 ## Related
+- [[Angular provider]]
+- [[$uibModal's open function]]
+- [[Broadcast && emit && on]]
 
 - [[ServiceNow – Integrations]]
 - [[Sharepoint integration]]

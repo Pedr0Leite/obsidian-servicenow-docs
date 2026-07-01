@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Value Reports in Impact Delivery Instance, Value management, Using Impact, Impact]
+tags:
+  - impact
+  - value
+  - roi
+  - metrics
+  - type-concept
 ---
 
 # Value calculation for Impact Value Reports

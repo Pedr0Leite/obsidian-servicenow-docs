@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Service Portfolio Management"
+area: "Vault Root"
+source: notion-export
 tags:
   - spm
   - service-portfolio-management

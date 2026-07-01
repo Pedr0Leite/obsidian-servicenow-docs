@@ -11,6 +11,13 @@ last_updated: "2024-12-19"
 reading_time_minutes: 1
 keywords: [Event Management, alert grouping, noise reduction]
 breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Management, Event Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - event-management
+  - alerts
+  - correlation
+  - aiops
+  - type-task
 ---
 
 # Alert group automations

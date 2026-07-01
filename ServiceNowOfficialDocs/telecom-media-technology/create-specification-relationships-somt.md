@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-06"
 reading_time_minutes: 3
 breadcrumb: [Defining attribute mapping, Product offerings and catalogs, Configure, Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications

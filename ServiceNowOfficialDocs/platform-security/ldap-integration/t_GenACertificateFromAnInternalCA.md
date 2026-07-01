@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Microsoft AD for secure LDAPS communication, LDAP integration, Authentication, Access Management]
+tags:
+  - platform-security
+  - ldap
+  - active-directory
+  - sync
+  - authentication
+  - type-task
 ---
 
 # Generate a certificate from an internal certificate authority

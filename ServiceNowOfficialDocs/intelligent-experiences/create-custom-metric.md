@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-08-12"
 reading_time_minutes: 4
 breadcrumb: [Evaluate, Evaluate agentic AI assets, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create a custom metric for evaluating agentic workflows

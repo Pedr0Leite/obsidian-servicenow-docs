@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Study material"
+area: "CIS"
+source: notion-export
 tags:
   - cis-certification
   - cmdb
@@ -64,6 +66,9 @@ By treating the CMDB as a 𝗰𝗲𝗻𝘁𝗿𝗮𝗹 𝘀𝘆𝘀𝘁𝗲𝗺 
 [Comparing various things](Study%20material/Comparing%20various%20things%202f3c42ce9a56809180a2c25e0ac60009.md)
 
 ## Related
+- [[CIS]]
+- [[How to access a Technical Challenge]]
+- [[Architectural Principles]]
 
 - [[Certified Implementation Specialist in Data Founda]]
 - [[Comparing various things]]

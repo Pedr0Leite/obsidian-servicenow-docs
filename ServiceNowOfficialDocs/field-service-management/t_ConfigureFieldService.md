@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 11
 breadcrumb: [Plan implementation, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-task
 ---
 
 # Global domain configurations

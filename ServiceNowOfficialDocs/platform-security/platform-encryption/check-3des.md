@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-task
 ---
 
 # Prepare your instance for GlideEncrypter deprecation

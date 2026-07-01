@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Case study – Files"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - togaf
@@ -20,6 +22,9 @@ tags:
 [QRG_Introduction to Architecture Standards.pdf](Files/QRG_Introduction_to_Architecture_Standards.pdf)
 
 ## Related
+- [[ServiceNow TOGAF vs ITIL 4]]
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
 
 - [[03 Week 3 – Case study]]
 - [[03 Week 3]]

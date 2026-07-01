@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Using the Link Function in Service Portal Widgets"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - widgets
@@ -271,6 +273,9 @@ function(scope, element) {
 ```
 
 ## Related
+- [[$uibModal's open function]]
+- [[Broadcast && emit && on]]
+- [[Portals Events]]
 
 - [[ServiceNow – Service Portal]]
 - [[Angular provider]]

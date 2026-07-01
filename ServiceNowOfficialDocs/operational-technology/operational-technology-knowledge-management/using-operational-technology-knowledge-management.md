@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Operational Technology Knowledge Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - knowledge
+  - runbooks
+  - procedures
+  - type-concept
 ---
 
 # Using Operational Technology Knowledge Management

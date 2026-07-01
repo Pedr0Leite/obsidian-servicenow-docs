@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-08-13"
 reading_time_minutes: 1
 breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # AI voice agent analytics

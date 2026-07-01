@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Incident Communications Management and Contacts, Managing Incident Communications, Incident Communications Management, IT Service Management]
+tags:
+  - it-service-management
+  - incident-comms
+  - major-incident
+  - notifications
+  - type-reference
 ---
 
 # Responsibilities for Incident Communication Plan

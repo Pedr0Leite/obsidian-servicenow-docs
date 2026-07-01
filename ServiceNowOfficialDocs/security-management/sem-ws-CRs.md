@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-20"
 reading_time_minutes: 2
 breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create a change request in the Remediation view

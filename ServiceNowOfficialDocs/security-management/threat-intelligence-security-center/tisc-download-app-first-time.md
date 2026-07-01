@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-28"
 reading_time_minutes: 1
 breadcrumb: [Configure, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Download TISC application from ServiceNow Store

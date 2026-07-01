@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [List context menus, Administer, List administration, Forms, fields, and lists, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - lists
+  - columns
+  - views
+  - administration
+  - type-reference
 ---
 
 # Action script for list context menus

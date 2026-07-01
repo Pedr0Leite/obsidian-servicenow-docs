@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 4
 keywords: [work prioritization example, priority defaulting, decision table rules, purchase requisition priority, sourcing request priority, procurement case priority, line item priority, business owner job code, line total amount, modification type, Planning priority fallback, SPO configuration example]
 breadcrumb: [Work prioritization, Procurement Case Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Work prioritization example

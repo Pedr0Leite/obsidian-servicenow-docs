@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Identify potentially exposed users, Emergency Exposure Management, Emergency Response Management, Employee Service Management]
+tags:
+  - employee-service-management
+  - emergency
+  - exposure
+  - health-safety
+  - tracking
+  - type-task
 ---
 
 # Fetch potentially exposed user data from a data source

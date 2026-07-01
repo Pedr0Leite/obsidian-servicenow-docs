@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-10-23"
 reading_time_minutes: 1
 breadcrumb: [Migration tasks, Configure Pipelines and Deployments, Configure, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-task
 ---
 
 # Map deployment request states

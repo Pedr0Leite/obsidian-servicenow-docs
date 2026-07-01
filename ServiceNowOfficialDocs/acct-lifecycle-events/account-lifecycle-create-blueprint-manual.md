@@ -8,6 +8,14 @@ topic_type: concept
 last_updated: "2026-05-19"
 reading_time_minutes: 1
 breadcrumb: [Create a success blueprint, Manage engagements, Customer success, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-concept
 ---
 
 # Create a success blueprint manually

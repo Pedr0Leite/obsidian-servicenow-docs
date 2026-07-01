@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Authentication, Access Management]
+tags:
+  - platform-security
+  - ldap
+  - active-directory
+  - sync
+  - authentication
+  - type-concept
 ---
 
 # Lightweight Directory Access Protocol integration

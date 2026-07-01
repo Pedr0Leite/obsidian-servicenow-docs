@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [progressive disclosure, resource board performance, resource management workspace, system property, user loading limit]
 breadcrumb: [Configure, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-task
 ---
 
 # Configure progressive disclosure for the resource board

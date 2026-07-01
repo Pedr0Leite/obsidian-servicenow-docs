@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Upgrading legacy Investment Funding to Store application, Investment Funding, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - investment
+  - funding
+  - portfolio
+  - itbm
+  - type-task
 ---
 
 # Update references from legacy Investment Funding tables to Store tables

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Connect Workplace Reservation Management with Microsoft Teams, Configure, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-task
 ---
 
 # Setup OAuth connectivity with Microsoft Teams Connections spoke for virtual meeting

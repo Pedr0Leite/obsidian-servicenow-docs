@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Creating and managing audience-specific Journey Accelerator templates, Configure, Journey Accelerator, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-accelerator
+  - templates
+  - onboarding
+  - type-task
 ---
 
 # Create and manage Journey Accelerator plan configurations

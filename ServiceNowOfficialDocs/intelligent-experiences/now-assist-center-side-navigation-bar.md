@@ -9,6 +9,9 @@ last_updated: "2026-03-25"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Now Assist Center workspace, Explore, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Side navigation bar

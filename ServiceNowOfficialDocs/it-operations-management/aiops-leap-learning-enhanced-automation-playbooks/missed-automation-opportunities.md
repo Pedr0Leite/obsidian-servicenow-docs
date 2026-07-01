@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 1
 keywords: [missed opportunities, LEAP, automation tracking, resolution steps, playbooks, knowledge base]
 breadcrumb: [Automation opportunities, Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - aiops
+  - leap
+  - playbooks
+  - remediation
+  - type-concept
 ---
 
 # Missed automation opportunities

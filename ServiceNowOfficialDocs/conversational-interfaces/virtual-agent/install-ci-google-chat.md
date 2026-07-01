@@ -11,6 +11,13 @@ last_updated: "2026-04-30"
 reading_time_minutes: 1
 keywords: [Conversational Integration, Google Chat, Virtual Agent, Now Assist, Plugins]
 breadcrumb: [Conversational Integration with Google Chat, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Install Conversational Integration with Google Chat

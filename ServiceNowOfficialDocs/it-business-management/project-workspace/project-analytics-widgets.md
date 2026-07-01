@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [View project analytics in classic Project Workspace, Project workspace classic - Legacy, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-reference
 ---
 
 # Project analytics widgets and reports

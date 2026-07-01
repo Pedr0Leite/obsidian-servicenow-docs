@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Configuring, Virtual Agent, notifications, SMS, Twilio, Messenger, MSTeams, Microsoft Teams]
 breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Configuring Virtual Agent notifications

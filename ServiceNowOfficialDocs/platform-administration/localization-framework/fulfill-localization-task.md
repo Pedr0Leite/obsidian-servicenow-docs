@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create translation projects, Localization Framework, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - l10n
+  - languages
+  - translation
+  - type-task
 ---
 
 # Fulfill a localization task

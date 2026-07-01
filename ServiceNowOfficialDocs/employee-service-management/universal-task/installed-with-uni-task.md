@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install Universal Task, Setting up and configuring Universal Task, Universal Task, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-task
+  - tasks
+  - workflow
+  - coordination
+  - type-reference
 ---
 
 # Components installed with Universal Task

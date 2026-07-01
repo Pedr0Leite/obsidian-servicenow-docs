@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 25
 breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Components installed with Workforce Optimization for Customer Service

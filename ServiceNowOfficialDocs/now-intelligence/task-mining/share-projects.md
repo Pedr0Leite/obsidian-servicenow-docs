@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Generating project analysis, Use, Task Mining, Platform Analytics]
+tags:
+  - now-intelligence
+  - task-mining
+  - desktop
+  - process-capture
+  - analytics
+  - type-task
 ---
 
 # Share a Task Mining analysis

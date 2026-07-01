@@ -11,6 +11,13 @@ last_updated: "2026-04-28"
 reading_time_minutes: 1
 keywords: [ITOM, user roles, Now Assist]
 breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Assign Discovery admins

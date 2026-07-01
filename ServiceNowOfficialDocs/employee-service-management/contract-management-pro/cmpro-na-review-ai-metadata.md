@@ -11,6 +11,13 @@ last_updated: "2025-08-10"
 reading_time_minutes: 3
 keywords: [Manage contract repository, Agentic workflow in Contract Management Pro, Review AI extracted information, Playbook in Contract Management Pro, Review AI results in Contract Management Pro]
 breadcrumb: [Review AI results, Use agentic workflows, Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Review AI-extracted metadata and contract reminder date

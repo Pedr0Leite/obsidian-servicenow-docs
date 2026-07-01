@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-25"
 reading_time_minutes: 2
 breadcrumb: [ACME reference, Automated Certificate Management Environment, Certificate Inventory and Management, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # Certificate routing policy form table

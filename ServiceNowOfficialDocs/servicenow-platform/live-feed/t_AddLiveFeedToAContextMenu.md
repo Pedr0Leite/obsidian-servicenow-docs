@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure record feeds, Record feeds, Administering Live Feed, Live Feed Core UI, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - live-feed
+  - social
+  - collaboration
+  - activity
+  - type-task
 ---
 
 # Add Live Feed to a context menu

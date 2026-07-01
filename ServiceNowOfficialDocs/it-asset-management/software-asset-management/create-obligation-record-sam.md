@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [obligation in software asset workspace, obligation record]
 breadcrumb: [Manage obligation tasks in the Software Asset Workspace, Using Software Asset Workspace, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - sam
+  - software-licenses
+  - compliance
+  - optimization
+  - type-task
 ---
 
 # Create an obligation record in the Software Asset Workspace

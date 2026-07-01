@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-04"
 reading_time_minutes: 1
 breadcrumb: [Scripting for email notifications, Create an email notification, Email and SMS notifications, System notifications, Notifications, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Use mail scripts in email notifications

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-18"
 reading_time_minutes: 2
 breadcrumb: [Sales Customer Relationship Management for Telecommunications, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-concept
 ---
 
 # Using Sales CRM for Telecommunications applications

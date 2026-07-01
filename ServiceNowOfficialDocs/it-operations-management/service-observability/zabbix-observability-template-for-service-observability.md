@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Zabbix templates, Service Observability templates, Service Observability reference, Service Observability, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - observability
+  - slo
+  - health
+  - itom
+  - type-reference
 ---
 
 # Zabbix Observability template for Service Observability

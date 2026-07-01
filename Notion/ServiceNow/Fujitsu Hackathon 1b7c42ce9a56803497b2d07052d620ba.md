@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Fujitsu Hackathon"
+area: "Vault Root"
+source: notion-export
 tags:
   - hackathon
   - agentic-ai

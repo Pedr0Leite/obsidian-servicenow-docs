@@ -9,6 +9,9 @@ last_updated: "2026-04-29"
 reading_time_minutes: 1
 keywords: [configure]
 breadcrumb: [Dashboard Summary, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Configure Now Assist context menu

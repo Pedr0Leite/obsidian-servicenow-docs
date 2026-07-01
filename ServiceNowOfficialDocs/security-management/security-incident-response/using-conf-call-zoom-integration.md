@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Integrate MSIM Conference Calls with Zoom, Major Security Incident Management Conference Call Integration, Integrate, Major Security Incident Management, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-task
 ---
 
 # Use the MSIM Conference Call Zoom integration

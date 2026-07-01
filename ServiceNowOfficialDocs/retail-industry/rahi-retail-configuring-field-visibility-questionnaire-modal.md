@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Configure, Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Configuring field visibility in the Create questionnaire modal

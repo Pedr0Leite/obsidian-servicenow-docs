@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create an investment entity, Investment Funding administration, Investment Funding, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - investment
+  - funding
+  - portfolio
+  - itbm
+  - type-task
 ---
 
 # Enable synchronization of investment and investment entity owners

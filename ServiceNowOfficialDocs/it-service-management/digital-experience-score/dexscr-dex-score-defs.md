@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Explore, Digital Experience Score, Digital End-User Experience, IT Service Management]
+tags:
+  - it-service-management
+  - des
+  - digital-experience
+  - score
+  - itsm
+  - type-concept
 ---
 
 # Metric scores in Digital Experience Score​

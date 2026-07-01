@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure iFrames, Types of content blocks, Content blocks, Configure Content Management sites, Content Management System, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - cms
+  - content
+  - portal
+  - pages
+  - type-task
 ---
 
 # Integrate Live Feed with CMS

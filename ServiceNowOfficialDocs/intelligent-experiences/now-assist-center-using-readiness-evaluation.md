@@ -9,6 +9,9 @@ last_updated: "2026-04-18"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI, Now Assist Readiness Evaluation]
 breadcrumb: [Use, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Using Now Assist Readiness Evaluation in Now Assist Center

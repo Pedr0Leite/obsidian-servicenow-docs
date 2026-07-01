@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Security exposure management, workspace, Finding, Remediation, Watch topic]
 breadcrumb: [Explore, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Security Exposure Management Workspace

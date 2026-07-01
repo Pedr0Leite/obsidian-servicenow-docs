@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Manage touchpoints, Opportunity Management, Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create a touchpoint from an opportunity

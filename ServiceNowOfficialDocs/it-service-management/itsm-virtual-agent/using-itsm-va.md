@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [ITSM Virtual Agent, IT Service Management]
+tags:
+  - it-service-management
+  - virtual-agent
+  - itsm
+  - chatbot
+  - deflection
+  - type-concept
 ---
 
 # Using ITSM Virtual Agent pre-built topics

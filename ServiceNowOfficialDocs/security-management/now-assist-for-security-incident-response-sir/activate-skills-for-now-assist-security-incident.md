@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Security Operations, skill configuration]
 breadcrumb: [Configure, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-task
 ---
 
 # Configure a skill for Now Assist for Security Incident Response

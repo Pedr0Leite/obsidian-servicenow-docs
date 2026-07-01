@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Contract Template, Agreement Template, Contract Draft Template, Predefined Contract, Standard Contract Format, Legal Contract Template, Reusable Contract Template, Master Contract Template, Document templates, word content controls, ms word document templates, clause management, Word document templates, contract metadata extraction]
 breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Exploring Contract Management Pro

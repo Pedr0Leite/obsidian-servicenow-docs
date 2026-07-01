@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [agentic contact center for banking, banking contact center, customer service representative workspace, csr workspace, ai-powered workspace, handle customer calls, customer profile review, banking csr, financial services contact center]
 breadcrumb: [Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Agentic Contact Center for Banking

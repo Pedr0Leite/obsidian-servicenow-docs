@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-15"
 reading_time_minutes: 1
 breadcrumb: [Assets page, Use the Console pages, Discovery Console for Operational Technology \(OT\), Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-task
 ---
 
 # Import &amp; export assets

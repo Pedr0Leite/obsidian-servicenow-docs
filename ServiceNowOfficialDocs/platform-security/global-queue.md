@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Concepts for service providers, Exploring domain separation, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Global queue v.2

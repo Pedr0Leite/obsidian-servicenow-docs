@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Sprint testing, Test Management 2.0, Test Management applications, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - test-management
+  - qa
+  - defects
+  - itbm
+  - type-task
 ---
 
 # Run your tests from the List view

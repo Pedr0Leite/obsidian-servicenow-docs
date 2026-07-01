@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Impersonate a user via script"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - script-include
   - glide-record
@@ -27,6 +29,9 @@ session.onlineUnimpersonate();
 ```
 
 ## Related
+- [[Calculate Distance Between Two Locations in Servic]]
+- [[CMDB - Change Parent Table]]
+- [[Scripted Extension Point]]
 
 - [[Server and Client Side Scripts]]
 - [[Script include Advance structure - Inheritance]]

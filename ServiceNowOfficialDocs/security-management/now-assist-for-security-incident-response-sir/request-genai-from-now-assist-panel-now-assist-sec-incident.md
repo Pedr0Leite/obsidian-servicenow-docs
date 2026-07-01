@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist Security Operations]
 breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-task
 ---
 
 # Request generative AI skills in the Now Assist panel for Now Assist for Security Incident Response

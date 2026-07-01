@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Industrial Connected Workforce Core, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - type-concept
 ---
 
 # Archive rules in the Industrial Connected Workforce

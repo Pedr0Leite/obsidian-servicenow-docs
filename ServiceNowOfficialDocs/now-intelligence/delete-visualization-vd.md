@@ -9,6 +9,9 @@ last_updated: "2026-04-17"
 reading_time_minutes: 1
 keywords: [Delete a visualization, Delete a report, How to delete a visualization in the Visualization Designer, How to delete a visualization in Platform Analytics experience]
 breadcrumb: [Share, edit, or delete, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Delete a visualization in the Visualization Designer

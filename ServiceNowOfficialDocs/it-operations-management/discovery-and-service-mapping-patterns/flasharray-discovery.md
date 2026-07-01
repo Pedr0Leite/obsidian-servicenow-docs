@@ -11,6 +11,13 @@ last_updated: "2026-03-25"
 reading_time_minutes: 6
 keywords: [Patterns]
 breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-concept
 ---
 
 # Pure Storage FlashArray discovery

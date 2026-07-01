@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions, IT Operations Management]
+tags:
+  - it-operations-management
+  - type-task
 ---
 
 # Update ServiceNow ITOM/OT SU Licensing

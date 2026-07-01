@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Tracking employee contacts using daily logs, Contact Tracing, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contact-tracing
+  - health-safety
+  - covid
+  - type-task
 ---
 
 # Send an Outreach notification for the daily contact log

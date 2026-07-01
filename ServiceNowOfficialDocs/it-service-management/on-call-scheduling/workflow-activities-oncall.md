@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [On-Call Scheduling workflows, Reference for on-call scheduling, On-Call Scheduling, IT Service Management]
+tags:
+  - it-service-management
+  - on-call
+  - rotations
+  - escalation
+  - itsm
+  - type-reference
 ---
 
 # Workflow Activities for On-Call Scheduling

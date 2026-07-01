@@ -9,6 +9,9 @@ last_updated: "2026-03-30"
 reading_time_minutes: 2
 keywords: [AI Data Explorer, Query Generation, ACL, protected scope]
 breadcrumb: [Enabling access to protected scope apps, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create ACLs for AI Data Explorer and Query Generation protected scope access

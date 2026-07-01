@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-21"
 reading_time_minutes: 2
 breadcrumb: [AI Search in Service Portal, Configuring search in a portal, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Enable and configure AI Search in Service Portal

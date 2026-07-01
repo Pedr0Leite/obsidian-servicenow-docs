@@ -9,6 +9,12 @@ last_updated: "2026-05-24"
 reading_time_minutes: 1
 keywords: [self-service quote, Partner Portal, quote management]
 breadcrumb: [Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Quote creation via Self-Service

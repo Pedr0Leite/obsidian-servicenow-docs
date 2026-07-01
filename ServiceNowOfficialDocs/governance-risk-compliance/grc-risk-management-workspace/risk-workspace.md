@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-28"
 reading_time_minutes: 4
 breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-concept
 ---
 
 # GRC Risk Workspace

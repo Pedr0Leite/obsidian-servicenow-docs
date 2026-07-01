@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Channels, Conversational Interfaces, Chat, Messaging, Live Agent]
 breadcrumb: [Exploring Conversational Interfaces Console, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-concept
 ---
 
 # Channels in Conversational Interfaces

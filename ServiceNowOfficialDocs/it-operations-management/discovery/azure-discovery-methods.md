@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Patterns, Azure, Cloud, Discovery, Visibility, CMDB, Service Graph Connector, Configuration item]
 breadcrumb: [Cloud discovery solutions comparison, Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-reference
 ---
 
 # Microsoft Azure discovery solutions comparison

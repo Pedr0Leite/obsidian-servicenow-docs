@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Integration with Event Management, Proactive Customer Service Operations, Configure Proactive Customer Service, Extend capabilities, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Service health status for install base

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 12
 keywords: [Discovery, Admin, Workspace, Discovery, Admin, Workspace, Discovery, Admin, Workspace]
 breadcrumb: [Discovery Admin Workspace, Exploring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Discovery Admin Workspace Schedules

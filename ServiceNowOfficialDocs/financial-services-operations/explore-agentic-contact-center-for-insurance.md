@@ -9,6 +9,9 @@ last_updated: "2026-05-20"
 reading_time_minutes: 5
 keywords: [explore]
 breadcrumb: [Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Exploring Agentic Contact Center for Insurance

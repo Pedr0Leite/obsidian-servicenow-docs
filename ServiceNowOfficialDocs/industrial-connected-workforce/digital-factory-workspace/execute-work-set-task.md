@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 1
 keywords: [execute work set, run work set task]
 breadcrumb: [Standard and task life cycles, Industrial Standards, Use, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-task
 ---
 
 # Execute a work set task

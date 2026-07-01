@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Set up a document template for signing documents, Digital signature for PDF documents using CAC or PIV smart cards, Use, Document Management, Document Services, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - documents
+  - storage
+  - dms
+  - attachments
+  - type-task
 ---
 
 # Assign a custom signing domain for CAC/PIV digital signatures

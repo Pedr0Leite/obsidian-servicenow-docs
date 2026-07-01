@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Impact reference, Tables in Impact application, Roles in Impact application]
 breadcrumb: [Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Impact reference

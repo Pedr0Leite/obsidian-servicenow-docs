@@ -11,6 +11,13 @@ last_updated: "2025-03-31"
 reading_time_minutes: 3
 keywords: [planned savings, targeted savings, pipeline projects, analytics dashboard, savings by type, proration]
 breadcrumb: [Pipeline management tab, Sourcing Pipeline Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Planned Savings \(Current Year\) metric calculation

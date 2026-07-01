@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Product Catalog Management reference, Lead-to-cash foundation, Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Multilingual product catalog entities

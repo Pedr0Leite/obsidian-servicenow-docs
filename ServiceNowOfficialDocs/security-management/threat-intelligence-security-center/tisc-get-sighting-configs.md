@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-27"
 reading_time_minutes: 1
 breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integrations, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-concept
 ---
 
 # Get started with Sighting Search Configurations

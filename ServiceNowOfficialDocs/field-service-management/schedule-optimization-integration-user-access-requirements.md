@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-25"
 reading_time_minutes: 1
 breadcrumb: [Schedule Optimization components, Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Schedule Optimization integration user access requirements

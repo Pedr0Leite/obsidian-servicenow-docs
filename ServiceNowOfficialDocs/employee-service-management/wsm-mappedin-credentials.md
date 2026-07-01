@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Workplace Space Mapping, Configure, Workplace Space Mapping, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-task
 ---
 
 # Maintain Workplace Service Delivery Mappedin credentials

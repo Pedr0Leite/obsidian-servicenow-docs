@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Lifecycle Event Script Includes, APIs]
 breadcrumb: [Activate Lifecycle Events, Configuring Lifecycle Events, Lifecycle Events, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lifecycle-events
+  - onboarding
+  - offboarding
+  - transitions
+  - type-concept
 ---
 
 # Lifecycle event script includes and APIs

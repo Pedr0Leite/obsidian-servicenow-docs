@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-05-06"
 reading_time_minutes: 3
 breadcrumb: [Configure, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Value formatting in data visualizations

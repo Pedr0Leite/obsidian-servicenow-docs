@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Installation"
+area: "Mid Server"
+source: notion-export
 tags:
   - mid-server
   - installation

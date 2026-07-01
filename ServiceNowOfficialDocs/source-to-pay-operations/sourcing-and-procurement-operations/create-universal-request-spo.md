@@ -11,6 +11,13 @@ last_updated: "2026-06-03"
 reading_time_minutes: 2
 keywords: [Universal Request, universal request, ur]
 breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Create a Universal Request

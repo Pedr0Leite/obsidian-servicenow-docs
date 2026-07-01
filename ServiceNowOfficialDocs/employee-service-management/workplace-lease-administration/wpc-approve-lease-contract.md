@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Working with Workplace Lease Administration from the Workplace Central, Use, Workplace Lease Administration, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lease
+  - real-estate
+  - administration
+  - facilities
+  - type-task
 ---
 
 # Approve or reject workplace contract in Workplace Central

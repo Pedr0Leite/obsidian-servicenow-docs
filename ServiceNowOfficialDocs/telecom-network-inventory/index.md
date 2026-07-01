@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: telninv
 doc_type: toc
+tags:
+  - telecom-network-inventory
 ---
 
 # Australia Telecommunications Network Inventory

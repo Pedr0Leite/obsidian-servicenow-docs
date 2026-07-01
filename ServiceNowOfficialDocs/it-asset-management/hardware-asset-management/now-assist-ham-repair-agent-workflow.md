@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 7
 keywords: [AI Agents, agentic AI]
 breadcrumb: [Repair order fulfillment in the Hardware Asset Workspace, Manage asset repair in stockrooms, Use, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Now Assist for Hardware Asset Management \(HAM\) AI agent collection Help repair hardware assets agentic workflow

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Customer Actions, Security configuration console, Security Center, Platform Security]
+tags:
+  - platform-security
+  - security-center
+  - posture
+  - compliance
+  - risks
+  - type-task
 ---
 
 # Implement Customer Actions

@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [configuration revisions, remote record producer, remote task definition, foundation data sync]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Configuring revisions

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-11"
 reading_time_minutes: 1
 breadcrumb: [Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-reference
 ---
 
 # Next Experience for Demand Management in Strategic Planning

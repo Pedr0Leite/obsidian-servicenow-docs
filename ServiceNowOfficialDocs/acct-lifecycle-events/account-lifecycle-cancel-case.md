@@ -8,6 +8,14 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage account onboarding cases, Account onboarding, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-task
 ---
 
 # Close or cancel an account onboarding case

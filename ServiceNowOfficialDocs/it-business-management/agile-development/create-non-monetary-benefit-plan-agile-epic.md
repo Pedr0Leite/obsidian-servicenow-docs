@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Create an epic in Agile Development 2.0, Managing your product development using Agile Development 2.0, Agile Development 2.0, Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - agile
+  - sprints
+  - stories
+  - backlog
+  - type-task
 ---
 
 # Create a non-monetary benefit plan for an epic

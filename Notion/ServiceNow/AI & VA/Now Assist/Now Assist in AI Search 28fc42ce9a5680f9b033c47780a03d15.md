@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist in AI Search"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - ai-search
@@ -124,6 +126,9 @@ tags:
 [VictorChen_1-1723661036027.jpg](https://www.servicenow.com/community/image/serverpage/image-id/379380i3F99EF5ACBC22EF4/image-size/large?v=v2&px=999)
 
 ## Related
+- [[Now Assist Q&A using Dynamic Translation]]
+- [[Knowledge graph enhancing Virtual Agent search]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
 
 - [[Now Assist]]
 - [[AI Search]]

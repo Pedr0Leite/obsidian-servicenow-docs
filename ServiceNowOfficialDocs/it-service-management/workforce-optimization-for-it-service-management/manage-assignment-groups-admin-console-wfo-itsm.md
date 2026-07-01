@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Admin Console, Getting started, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Define groups as WFO assignment groups in the Admin Console in Workforce Optimization for ITSM

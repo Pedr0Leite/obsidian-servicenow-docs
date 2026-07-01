@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up Granular Delegation, Granular Delegation, Employee Service Management]
+tags:
+  - employee-service-management
+  - delegation
+  - proxy
+  - roles
+  - hr
+  - type-task
 ---
 
 # Add delegation rule tables

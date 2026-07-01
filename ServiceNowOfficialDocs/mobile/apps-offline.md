@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-05-31"
 reading_time_minutes: 1
 breadcrumb: [Align apps, screens, and functions, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # ServiceNow mobile applications for offline mode

@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 4
 keywords: [configure sourcing request priority, priority defaulting for sourcing requests, decision table, business owner, job code, organizational hierarchy, procurement administrator, demo rules, work prioritization, SPO]
 breadcrumb: [Configuring work prioritization, Configure, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Configure work prioritization for sourcing requests

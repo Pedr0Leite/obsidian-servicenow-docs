@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Employee Slate, Moveworks, Now Assist, conversation-first]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Employee Slate release notes

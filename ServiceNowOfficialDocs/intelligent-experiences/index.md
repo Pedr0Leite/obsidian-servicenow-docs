@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: platai
 doc_type: toc
+tags:
+  - intelligent-experiences
 ---
 
 # Australia Enable AI

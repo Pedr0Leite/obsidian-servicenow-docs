@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Input forms in offline, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Configure reference inputs for input form screens in offline mode

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [System properties, Zero Trust Access, Access Management]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Session Access Audits

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Health and Safety Contractor Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - contractor
+  - compliance
+  - permits
+  - type-concept
 ---
 
 # Exploring Health and Safety Contractor Management

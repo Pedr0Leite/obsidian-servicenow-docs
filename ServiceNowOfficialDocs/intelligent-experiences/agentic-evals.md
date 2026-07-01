@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-18"
 reading_time_minutes: 1
 breadcrumb: [Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Evaluate agentic AI assets

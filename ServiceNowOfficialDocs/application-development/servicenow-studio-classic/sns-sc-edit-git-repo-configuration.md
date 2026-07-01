@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-07"
 reading_time_minutes: 1
 breadcrumb: [Source control integration, Configure, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Edit a Git repository configuration in ServiceNow Studio

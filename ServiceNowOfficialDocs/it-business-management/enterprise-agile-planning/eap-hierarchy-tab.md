@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 6
 breadcrumb: [Use, Enterprise Agile Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - enterprise-agile
+  - safe
+  - pi-planning
+  - agile
+  - type-concept
 ---
 
 # Work item hierarchy for EAP teams

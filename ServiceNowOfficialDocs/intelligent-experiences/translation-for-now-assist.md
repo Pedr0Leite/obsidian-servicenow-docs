@@ -9,6 +9,9 @@ last_updated: "2025-01-30"
 reading_time_minutes: 6
 keywords: [Translation, Now Assist, Generative AI, GenAI, Native translation]
 breadcrumb: [Configure multilingual service for Now Assist applications, Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Multilingual service for Now Assist

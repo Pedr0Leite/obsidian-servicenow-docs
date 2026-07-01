@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [360° Relationship Visualization, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - relationships
+  - visualization
+  - 360
+  - type-concept
 ---
 
 # Setting up the 360º views

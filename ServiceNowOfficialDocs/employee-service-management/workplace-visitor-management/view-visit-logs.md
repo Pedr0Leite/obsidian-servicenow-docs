@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Analytics and Reporting, Workplace Visitor Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - visitor-management
+  - check-in
+  - badging
+  - security
+  - type-task
 ---
 
 # View visit logs

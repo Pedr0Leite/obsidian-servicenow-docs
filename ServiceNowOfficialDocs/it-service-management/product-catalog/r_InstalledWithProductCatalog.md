@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Product Catalog, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - catalog
+  - products
+  - itsm
+  - models
+  - type-reference
 ---
 
 # Components installed with Product Catalog

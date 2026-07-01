@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-task
 ---
 
 # Generate a post-incident analysis for a security incident with Now Assist for Security Incident Response

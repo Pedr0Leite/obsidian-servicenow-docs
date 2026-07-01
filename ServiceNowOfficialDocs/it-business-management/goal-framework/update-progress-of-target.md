@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create targets for a goal, Manage goals, Goal Framework and Goal Framework for SPM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - goals
+  - okr
+  - alignment
+  - itbm
+  - type-task
 ---
 
 # Update the progress of a manual target

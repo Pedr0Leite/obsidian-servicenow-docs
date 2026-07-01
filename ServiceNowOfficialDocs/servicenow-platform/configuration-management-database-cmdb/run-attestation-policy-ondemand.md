@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-14"
 reading_time_minutes: 1
 breadcrumb: [CIs attestation, CMDB data management, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Run an attestation policy on-demand

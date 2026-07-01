@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 5
 breadcrumb: [OAuth Code Grant, Inbound integrations, OAuth Inbound, OAuth authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Authorization code grant workflow

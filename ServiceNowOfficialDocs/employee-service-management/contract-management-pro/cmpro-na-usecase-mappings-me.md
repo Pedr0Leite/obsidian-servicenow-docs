@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Contract metadata extraction, Contract use case mapping, Metadata extraction use case mapping, Now Assist use case mapping, Now Assist in contract management pro, Now Assist for contract management pro, AI for contract management pro]
 breadcrumb: [Configure metadata extraction, Configure, Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-task
 ---
 
 # Map a use case for contract metadata extraction

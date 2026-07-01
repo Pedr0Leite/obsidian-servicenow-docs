@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [export, schedule, schedule export, Now Assist, Now Assist Panel, Platform Analytics AI]
 breadcrumb: [Platform Analytics in the Now Assist panel, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Export dashboards and data visualizations from the Now Assist panel

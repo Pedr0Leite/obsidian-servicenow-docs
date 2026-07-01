@@ -9,6 +9,9 @@ last_updated: "2024-01-01"
 reading_time_minutes: 1
 keywords: [encryption, email attachments, module access policies]
 breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Module access policies for inbound email attachment encryption

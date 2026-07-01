@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Testing common control and implementing results on multiple reliant entities, Manage controls using the Compliance Workspace, Use, GRC Compliance workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - compliance
+  - workspace
+  - grc
+  - oversight
+  - type-task
 ---
 
 # Convert standard control to common control and add reliant entities

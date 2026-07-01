@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Custom metrics in Agentic Evaluation"
+area: "AI & VA"
+source: notion-export
 tags:
   - agentic-workflow
   - ai-agents
@@ -32,6 +34,9 @@ An example of a script:
 ![image.png](Custom%20metrics%20in%20Agentic%20Evaluation/image%207.png)
 
 ## Related
+- [[Get Familiar with Agentic Workflows & AI Agent]]
+- [[Agentic Workflow & AI Agents – Tips]]
+- [[AI Agent tools – Getting the most out of your agen]]
 
 - [[Test & Evaluation]]
 - [[Agentic Workflow & AI Agents]]

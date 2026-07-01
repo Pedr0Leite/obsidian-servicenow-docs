@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 2
 keywords: [filter, filtering, question filter, assessment]
 breadcrumb: [Respond to assessments, Manage, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-concept
 ---
 
 # Filtering questions in an assessment

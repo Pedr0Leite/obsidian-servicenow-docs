@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-catalog
+  - services
+  - provisioning
+  - itom
+  - type-reference
 ---
 
 # Google Cloud Platform Windows Out Of Box Catalog items

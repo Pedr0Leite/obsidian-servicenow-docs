@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Treasury Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - treasury
+  - fso
+  - finance
+  - banking
+  - type-concept
 ---
 
 # Analytics and reporting for Financial Services Treasury Operations

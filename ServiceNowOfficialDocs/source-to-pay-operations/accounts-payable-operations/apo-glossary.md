@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 15
 keywords: [APO, Accounts Payable Operations, glossary, terminology, definitions, glossary terms, Account Number, Invoice Stage Field, Agent, Accounts Payable Invoice Processing, Accounts Payable Operations \(APO\), Accounts Payable Operations Integration with Document Intelligence, Accounts Payable Specialist, ACH Routing Number, Invoice Stage Field, AR Invoice, Business Object, AR Invoice Line, Business Object, Awaiting Internal Info, Invoice Case State, Awaiting Requester Info, Invoice Case State, glossary terms, Business Owner, glossary terms, Credit Memo, Cost Allocation, Cost Center, cXML, glossary terms, Distribution Lines, Distribution Set, Duplicate Invoice Detection, glossary terms, ERP, ERP Integration Framework, ERP Source, Exception Engine, Exception Monitoring Job, Exception Task, Extraction Confidence, glossary terms, GL, glossary terms, Inbound Staging Tables, Inquiry Case, Integration Error, Interaction Record, Invoice approval, Invoice Automation, Invoice Case, Invoice Ingestion API, Invoice Line, Invoice Line Mapping, Invoice Processing Case, Invoice Table Restructuring, ITAM, ITAM Integration, glossary terms, Ledger Account \(General Ledger Account/GL Account\), Legal Entity, glossary terms, Natural Language Understanding \(NLU\), NLU, Non-PO Invoice, glossary terms, Outbound Staging Table, glossary terms, Playbook, PO Invoice, PO Matching, PSM, glossary terms, Receipt Task, Receiving Slip, Rules-Based Engine, glossary terms, Staging Tables, Supplier, Supplier Collaboration Portal, Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\), Supplier Tax, Source-to-Pay Workspace, System Tax, glossary terms, Tax Calculation, Tax Line, Tax Type, Tolerance Type, Transformation Process, glossary terms, Universal Request \(UR\), UR, glossary terms, Virtual Agent Flows, glossary terms, Workflow, Work Item]
 breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Accounts Payable Operations glossary

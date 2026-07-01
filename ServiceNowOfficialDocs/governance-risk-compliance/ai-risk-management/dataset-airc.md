@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 2
 keywords: [dataset, AI governance, aggregated risk score, AI Risk and Compliance, data lineage]
 breadcrumb: [AI assets, Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # Datasets

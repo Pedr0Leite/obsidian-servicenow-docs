@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-reference
 ---
 
 # Setup Hub \(SPM\)

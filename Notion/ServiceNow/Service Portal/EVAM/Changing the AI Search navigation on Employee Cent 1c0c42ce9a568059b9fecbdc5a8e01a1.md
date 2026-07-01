@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Changing the AI Search navigation on Employee Cent"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - evam
@@ -163,6 +165,8 @@ Open Employee Center and start a new search, open a KB result and notice that th
 [Untitled](Changing%20the%20AI%20Search%20navigation%20on%20Employee%20Cent/Untitled%201c0c42ce9a5680b7a2e0d7e7afd690a3.csv)
 
 ## Related
+- [[Sharepoint integration]]
+- [[Search Sources]]
 
 - [[EVAM]]
 - [[EVAM Navigation – Untitled]]

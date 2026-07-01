@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Domain separation and Customer Service Management, Administer, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Domain separation and entity relationships

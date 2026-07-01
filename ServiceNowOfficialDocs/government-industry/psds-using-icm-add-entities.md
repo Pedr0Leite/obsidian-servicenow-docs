@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-09"
 reading_time_minutes: 13
 breadcrumb: [Using Entity Management, Investigative Case Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Add entities to an investigative case using Investigative Case Management Entity Management

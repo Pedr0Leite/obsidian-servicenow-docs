@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Getting started with the Automated Test Framework, Exploring Automated Test Framework, Automated Test Framework \(ATF\), Testing and debugging applications, Building applications]
+tags:
+  - application-development
+  - atf
+  - testing
+  - automated-tests
+  - test-suites
+  - type-concept
 ---
 
 # Next steps with the Automated Test Framework

@@ -11,6 +11,13 @@ last_updated: "2026-05-11"
 reading_time_minutes: 6
 keywords: [Azure, CMDB, ITOM]
 breadcrumb: [Discovery for Microsoft Azure, Discovery for cloud environment, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Azure change processing

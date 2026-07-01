@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference Opportunity Marketplace roles and tables, Opportunity Marketplace, Hiring Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - opportunity
+  - internal-mobility
+  - career
+  - hr
+  - type-reference
 ---
 
 # Opportunity Type Configuration for Opportunity Marketplace

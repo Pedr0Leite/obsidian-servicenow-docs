@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [SAML 2.0 configuration using Multi-Provider SSO, SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # X.509 certificates for SAML

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Script access for cryptographic modules

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [SGC-VMware Workspace ONE UEM, SGC-Workspace ONE UEM, SGC VMware Workspace ONE UEM, SGC Workspace ONE UEM, SGC for VMware Workspace ONE UEM, SGC for Workspace ONE UEM, VMware Workspace ONE UEM SGC, Workspace ONE UEM SGC, Service Graph Connector for VMware Workspace ONE UEM, Service Graph Connector for Workspace ONE UEM, VMware Workspace ONE UEM connection details, Workspace ONE UEM connection details, VMware Workspace ONE UEM connection, Workspace ONE UEM connection, common connection framework, CCF, SGC-VMware Workspace ONE UEM, SGC-Workspace ONE UEM, SGC VMware Workspace ONE UEM, SGC Workspace ONE UEM, SGC for VMware Workspace ONE UEM, SGC for Workspace ONE UEM, VMware Workspace ONE UEM SGC, Workspace ONE UEM SGC, Service Graph Connector for VMware Workspace ONE UEM, Service Graph Connector for Workspace ONE UEM, VMware Workspace ONE UEM connection details, Workspace ONE UEM connection details, VMware Workspace ONE UEM connection, Workspace ONE UEM connection, common connection framework, CCF]
 breadcrumb: [VMware Workspace ONE UEM, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for VMware Workspace ONE UEM

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [How to filter all visualizations on a dashboard by selected value, How to configure URL navigation in data visualization, drilldown]
 breadcrumb: [Configure, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Chart interactions in a data visualization

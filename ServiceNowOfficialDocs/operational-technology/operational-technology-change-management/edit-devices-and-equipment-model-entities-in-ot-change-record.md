@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Operational Technology Change Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - change-management
+  - ics
+  - scada
+  - type-task
 ---
 
 # Edit the related devices and equipment model entities in a change record

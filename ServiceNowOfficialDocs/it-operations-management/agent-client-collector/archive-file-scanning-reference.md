@@ -11,6 +11,13 @@ last_updated: "2026-06-08"
 reading_time_minutes: 1
 keywords: [archive file scanning, File-Based Discovery, ZIP, JAR, agent client collector, ACC-VC]
 breadcrumb: [ACC-VC reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Archive file scanning filtering rules and limits

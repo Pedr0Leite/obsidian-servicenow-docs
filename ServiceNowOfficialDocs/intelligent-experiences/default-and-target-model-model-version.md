@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-01-28"
 reading_time_minutes: 1
 breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Default and target model version

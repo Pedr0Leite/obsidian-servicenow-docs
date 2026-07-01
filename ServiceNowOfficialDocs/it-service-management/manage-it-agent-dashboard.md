@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [IT Agent dashboard for Service Operations Workspace, Platform Analytics ITSM Dashboards, IT Service Management]
+tags:
+  - it-service-management
+  - type-task
 ---
 
 # Manage the dashboard in Service Operations Workspace

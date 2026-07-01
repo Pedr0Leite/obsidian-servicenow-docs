@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-27"
 reading_time_minutes: 1
 breadcrumb: [Create and manage resource assignments, Manage demands, Use, Next Experience for Demand Management in Strategic Planning, Strategic Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - strategic-planning
+  - initiatives
+  - alignment
+  - itbm
+  - type-task
 ---
 
 # Realign resource assignments for demands

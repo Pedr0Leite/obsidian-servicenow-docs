@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data Discovery Store, Data Discovery, Platform Privacy]
+tags:
+  - platform-security
+  - data-discovery
+  - pii
+  - scanning
+  - compliance
+  - type-concept
 ---
 
 # Data Discovery policy

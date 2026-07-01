@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Learn about FSC common applications, Common applications, Finance and Supply Chain applications, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - s2p
+  - shared-services
+  - delivery
+  - fsc
+  - type-reference
 ---
 
 # Components installed with Finance Common Architecture

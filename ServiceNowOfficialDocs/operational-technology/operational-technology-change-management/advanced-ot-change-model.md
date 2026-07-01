@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Select a change model to fulfill change requests, Configure, Operational Technology Change Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - change-management
+  - ics
+  - scada
+  - type-concept
 ---
 
 # Advanced OT Change Model playbook

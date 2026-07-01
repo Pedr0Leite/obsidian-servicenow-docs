@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-28"
 reading_time_minutes: 5
 breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # AI cases tab in AI Control Tower

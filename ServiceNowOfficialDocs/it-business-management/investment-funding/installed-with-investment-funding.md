@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install Investment Funding, Investment Funding, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - investment
+  - funding
+  - portfolio
+  - itbm
+  - type-reference
 ---
 
 # Components installed with Investment Funding

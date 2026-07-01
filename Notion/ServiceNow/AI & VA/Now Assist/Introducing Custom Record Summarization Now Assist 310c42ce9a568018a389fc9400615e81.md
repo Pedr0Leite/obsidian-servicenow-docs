@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Introducing Custom Record Summarization Now Assist"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - genai
@@ -39,6 +41,9 @@ Important note: If you're including attachments in your summaries, this will con
 Overall, Custom Record Summarization represents a significant step forward in making custom applications more intuitive and efficient, and it's just the beginning of what Now Assist for App Engine can do.
 
 ## Related
+- [[Now Assist for ITSM Handling Customization Scenari]]
+- [[Now Assist in AI Search]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
 
 - [[Now Assist]]
 - [[Now Assist case Summaization in custom tables]]

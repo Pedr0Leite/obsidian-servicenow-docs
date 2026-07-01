@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-15"
 reading_time_minutes: 1
 breadcrumb: [Retail store plans tracking, Retail store plans, Explore, Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Stages of store plan tracking and monitoring

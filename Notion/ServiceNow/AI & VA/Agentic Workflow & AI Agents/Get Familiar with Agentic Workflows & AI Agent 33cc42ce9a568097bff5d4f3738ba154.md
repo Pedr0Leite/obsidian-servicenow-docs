@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Get Familiar with Agentic Workflows & AI Agent"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -568,6 +570,9 @@ In this lab, we covered the basics of AI Agent configuration on the ServiceNow p
 Ref: [Getting Started with ServiceNow Agentinc Workflow & AI Agents](https://www.servicenow.com/community/developer-articles/get-familiar-with-agentic-workflows-amp-ai-agent/ta-p/3326559)
 
 ## Related
+- [[AI & VA]]
+- [[Links to check later]]
+- [[Custom metrics in Agentic Evaluation]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Agentic Workflow & AI Agents – Tips]]

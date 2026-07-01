@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage applications, ServiceNow application repository, Application sharing, Administer your apps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - repository
+  - self-hosted
+  - app-management
+  - versioning
+  - type-task
 ---
 
 # Publish an application to the application repository

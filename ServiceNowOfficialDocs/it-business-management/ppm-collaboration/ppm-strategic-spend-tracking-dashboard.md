@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Strategic Spend Tracking for PPM, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - ppm
+  - collaboration
+  - itbm
+  - type-concept
 ---
 
 # Strategic Spend Tracking for PPM dashboard

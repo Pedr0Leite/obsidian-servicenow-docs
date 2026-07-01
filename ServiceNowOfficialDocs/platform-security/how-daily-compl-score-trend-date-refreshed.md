@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Check the daily compliance score and configure security property settings, Instance Security Center, Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # How Daily Compliance score, trend, and graph data is refreshed

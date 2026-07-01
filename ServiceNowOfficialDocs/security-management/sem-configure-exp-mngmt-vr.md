@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 3
 breadcrumb: [Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Configure Exception Management for Security Exposure Management

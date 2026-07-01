@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Goal Framework and Goal Framework for SPM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - goals
+  - okr
+  - alignment
+  - itbm
+  - type-reference
 ---
 
 # Goal Assigned Entity Configuration form

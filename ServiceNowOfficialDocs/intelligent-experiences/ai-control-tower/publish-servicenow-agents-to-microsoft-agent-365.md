@@ -11,6 +11,13 @@ last_updated: "2026-05-19"
 reading_time_minutes: 1
 keywords: [generative AI]
 breadcrumb: [AI asset inventory, AI assets, AI Control Tower dashboard, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # Publish ServiceNow agents to Microsoft Agent 365

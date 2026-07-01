@@ -11,6 +11,13 @@ last_updated: "2026-04-13"
 reading_time_minutes: 1
 keywords: [Configure, Conversational Integration, Now, Virtual agent, Google chat]
 breadcrumb: [Conversational Integration with Google Chat, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Configuring your Conversational Integration with Google Chat

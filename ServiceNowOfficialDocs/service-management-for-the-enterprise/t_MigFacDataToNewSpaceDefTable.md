@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Activate Facilities Visualization Workbench, Facilities Service Management overview, Facilities Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-task
 ---
 
 # Migrate facilities data to new space definition tables

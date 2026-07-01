@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [conversational search, Now Assist, technician support, SN Agent, knowledge base]
 breadcrumb: [Use generative AI skills, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-task
 ---
 
 # Use conversational search for technician support

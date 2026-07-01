@@ -9,6 +9,9 @@ last_updated: "2026-06-04"
 reading_time_minutes: 4
 keywords: [vibe coding, AI-assisted development, agentic development, application development, natural language, full-stack applications, workflows, integrations, governance, security, autonomous development]
 breadcrumb: [Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-reference
 ---
 
 # Agentic development on the ServiceNow AI Platform

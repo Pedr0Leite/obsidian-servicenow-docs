@@ -9,6 +9,12 @@ last_updated: "2026-03-30"
 reading_time_minutes: 4
 keywords: [employee service management, ESM foundation, Core Business Suite, AI-native IT Service Management, HR service delivery, legal service delivery, workplace services, finance services, procurement services, unified service portal]
 breadcrumb: [Solutions]
+tags:
+  - better-together
+  - integration
+  - cross-product
+  - combined-solutions
+  - type-concept
 ---
 
 # Enterprise Service Management Foundation

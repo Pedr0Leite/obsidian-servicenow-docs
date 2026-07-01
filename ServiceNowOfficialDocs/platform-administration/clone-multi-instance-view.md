@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-08"
 reading_time_minutes: 1
 breadcrumb: [Explore, Instance Clone, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-concept
 ---
 
 # Multi-Instance View Overview

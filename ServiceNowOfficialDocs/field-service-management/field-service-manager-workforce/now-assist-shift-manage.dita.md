@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-06"
 reading_time_minutes: 1
 breadcrumb: [Agent availability and calendars, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-task
 ---
 
 # Use Now Assist for FSM to manage shifts

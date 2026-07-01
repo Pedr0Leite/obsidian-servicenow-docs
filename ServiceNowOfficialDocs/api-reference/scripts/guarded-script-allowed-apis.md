@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-05"
 reading_time_minutes: 3
 breadcrumb: [Guarded script evaluator, Sandbox environment, Server-side scripting, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-reference
 ---
 
 # JavaScript APIs supported by guarded script

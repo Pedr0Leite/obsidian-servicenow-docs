@@ -11,6 +11,13 @@ last_updated: "2026-06-12"
 reading_time_minutes: 3
 keywords: [Universal Request, universal request, ur, Universal Request in SPO, Universal Request in Sourcing and Procurement Operations]
 breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Universal Request in Sourcing and Procurement Operations

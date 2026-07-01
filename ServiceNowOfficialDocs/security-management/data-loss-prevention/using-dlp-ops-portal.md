@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 15
 keywords: [Preview Evidence Files, DLP analyst workspace, Data Loss Prevention Incident Response, add a new DLP Playbook]
 breadcrumb: [Manage incidents, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-concept
 ---
 
 # Data Loss Prevention Incident Response Analyst Workspace

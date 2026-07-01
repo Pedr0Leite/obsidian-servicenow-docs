@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist for Virtual Agent, Create a New Demand]
 breadcrumb: [Enable conversational demand creation using Now Assist in Virtual Agent, Configure, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-task
 ---
 
 # Configure the questions for demand creation in Now Assist for Strategic Portfolio Management \(SPM\)

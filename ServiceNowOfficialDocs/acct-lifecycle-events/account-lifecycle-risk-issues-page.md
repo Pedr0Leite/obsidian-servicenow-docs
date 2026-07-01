@@ -8,6 +8,14 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Risk portfolio dashboard, Dashboards, Customer success, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-concept
 ---
 
 # Risk and issues page

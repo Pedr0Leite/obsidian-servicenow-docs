@@ -11,6 +11,12 @@ last_updated: "2026-05-06"
 reading_time_minutes: 2
 keywords: [Staffing, Roles, On Demand, Platform Team, Capability Gaps, Action Plan, Operational Maturity]
 breadcrumb: [Staffing and Roles Review, Strategy Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Staffing and Roles Review-On Demand

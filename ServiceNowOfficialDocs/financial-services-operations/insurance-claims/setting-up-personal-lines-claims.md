@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Personal Lines Claims, Exploring insurance claims applications, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - insurance
+  - claims
+  - fso
+  - processing
+  - type-concept
 ---
 
 # Setting up Personal Lines Claims

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Admin, roles, Generative AI, Gen AI, Now Assist Admin, edit, configure, skills, roles, groups, special considerations, ace\_user, sn\_nowassist\_admin.nsa\_admin, Now Assist, panel, user, access, roles, groups, special, considerations, Generative AI, Gen AI, sn\_nowassist\_admin.user, Now Assist, panel, user, access, roles, groups, special, considerations, Generative AI, Gen AI]
 breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Now Assist Admin roles

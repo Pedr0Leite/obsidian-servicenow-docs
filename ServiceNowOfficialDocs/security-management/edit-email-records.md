@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-20"
 reading_time_minutes: 1
 breadcrumb: [Security Operations email parsing, Security Operations email processing, Security Operations common functionality, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Edit email records in Security Operations

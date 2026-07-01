@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Virtual Agent, conversational integration, Workplace, Facebook, conversational interfaces, chat settings]
 breadcrumb: [Configure, Conversational Integration with Workplace from Facebook, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Manage Conversational Integration with Workplace from Facebook

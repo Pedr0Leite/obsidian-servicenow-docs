@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Workflows"
+area: "Vault Root"
+source: notion-export
 tags:
   - workflows
   - sla

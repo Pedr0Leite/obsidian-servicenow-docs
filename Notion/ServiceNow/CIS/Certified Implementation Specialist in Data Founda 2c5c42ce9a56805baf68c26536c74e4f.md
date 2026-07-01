@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Certified Implementation Specialist in Data Founda"
+area: "CIS"
+source: notion-export
 tags:
   - cis-certification
   - cmdb
@@ -30,6 +32,9 @@ The exam consists of 75 questions.
 [Study material](Certified%20Implementation%20Specialist%20in%20Data%20Founda/Study%20material%202e1c42ce9a568045b187f21656be3c5f.md)
 
 ## Related
+- [[Comparing various things]]
+- [[How to access a Technical Challenge]]
+- [[Architectural Principles]]
 
 - [[CIS]]
 - [[Exam questions]]

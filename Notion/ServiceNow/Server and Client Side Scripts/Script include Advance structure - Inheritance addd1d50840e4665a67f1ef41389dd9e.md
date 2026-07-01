@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Script include Advance structure - Inheritance"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - script-include
   - inheritance
@@ -285,6 +287,8 @@ DebugHelper.prototype = {
 ```
 
 ## Related
+- [[Calculate Distance Between Two Locations in Servic]]
+- [[CMDB - Change Parent Table]]
 
 - [[Server and Client Side Scripts]]
 - [[Scripted Extension Point]]

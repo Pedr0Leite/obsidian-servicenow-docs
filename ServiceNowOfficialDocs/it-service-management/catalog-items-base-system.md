@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Reference, Simplified IT Service Management, IT Service Management]
+tags:
+  - it-service-management
+  - type-reference
 ---
 
 # Catalog items installed with Simplified IT Service Management

@@ -9,6 +9,13 @@ last_updated: "2026-03-30"
 reading_time_minutes: 1
 keywords: [ad hoc, metric data task, limitations]
 breadcrumb: [Create ad hoc metric data tasks, Using GRC: Metrics to provide data, GRC: Metrics, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-reference
 ---
 
 # Ad hoc metric data task limitations

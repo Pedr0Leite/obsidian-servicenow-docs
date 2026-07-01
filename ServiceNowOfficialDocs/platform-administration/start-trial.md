@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [servicenow store, store, app store, application store, app store user documentation, servicenow app store, app trial, free trial, get a free trial, try app]
 breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Start an application trial from the ServiceNow Store

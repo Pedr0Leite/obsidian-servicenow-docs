@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Engagement Messenger"
+area: "Install Stuff"
+source: notion-export
 tags:
   - engagement-messenger
   - csm
@@ -45,6 +47,8 @@ console.error('PL - Error loading script:', error);
 </script>
 
 ## Related
+- [[OnClick, Scroll up]]
+- [[Codes]]
 
 - [[Install Stuff]]
 - [[Enable Engagement Messenger on a website when thir]]

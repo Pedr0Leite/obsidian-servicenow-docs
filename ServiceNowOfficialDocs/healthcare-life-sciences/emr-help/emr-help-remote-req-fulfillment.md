@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - emr
+  - ehr
+  - healthcare-it
+  - integration
+  - type-concept
 ---
 
 # Setting up the ServiceNow IT service request fulfillment process for EMR systems

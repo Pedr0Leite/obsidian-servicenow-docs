@@ -9,6 +9,13 @@ last_updated: "2026-04-14"
 reading_time_minutes: 8
 keywords: [AI governance, business applications, enterprise architecture, AI systems, portfolio management, AI steward, risk classification, lifecycle management, enterprise architecture workspace]
 breadcrumb: [Exploring the application portfolio, Exploring Portfolio list view, Exploring Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-concept
 ---
 
 # AI Control Tower integration with Enterprise Architecture

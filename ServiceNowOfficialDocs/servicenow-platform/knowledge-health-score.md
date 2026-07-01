@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-29"
 reading_time_minutes: 3
 breadcrumb: [Exploring Knowledge Center, Knowledge Center, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-concept
 ---
 
 # Knowledge Health score

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configure, Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-task
 ---
 
 # Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup

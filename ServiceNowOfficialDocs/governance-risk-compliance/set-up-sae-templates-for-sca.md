@@ -9,6 +9,9 @@ last_updated: "2026-05-28"
 reading_time_minutes: 3
 keywords: [Scenario Analysis, Operational Resilience, Smart Assessment Engine, SAE template, statistical modelling profile]
 breadcrumb: [Building a scenario analysis using simulation, Scenario analysis using simulation, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Verify the Smart Assessment templates setup

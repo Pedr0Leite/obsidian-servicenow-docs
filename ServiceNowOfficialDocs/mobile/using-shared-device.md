@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-04-29"
 reading_time_minutes: 3
 breadcrumb: [Using the mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Using a shared device with multiple users

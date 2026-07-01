@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-18"
 reading_time_minutes: 5
 breadcrumb: [View Custom Feed, View Threat Intel Feeds, Threat Intelligence Feeds, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # View Premium Threat Feed for CrowdStrike

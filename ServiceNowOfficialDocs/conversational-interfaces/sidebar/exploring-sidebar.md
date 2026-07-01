@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Virtual Agent, sidebar, workspace, discussion panel, activity stream]
 breadcrumb: [Sidebar, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - sidebar
+  - ai-assistant
+  - contextual-help
+  - type-concept
 ---
 
 # Exploring Sidebar

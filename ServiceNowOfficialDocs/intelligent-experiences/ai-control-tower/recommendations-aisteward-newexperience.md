@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-16"
 reading_time_minutes: 1
 breadcrumb: [Use, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # Recommendations for your AI assets

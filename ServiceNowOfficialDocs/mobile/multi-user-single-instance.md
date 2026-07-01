@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-04-26"
 reading_time_minutes: 2
 breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Enable multiple users to work on a shared device

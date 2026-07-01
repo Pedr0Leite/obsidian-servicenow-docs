@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 3
 keywords: [Microsoft Azure OEM, Dynamic Translation, Now Assist, multi-language input, generative AI controller, translator configurations]
 breadcrumb: [Configure multilingual service for Now Assist applications, Now Assist Admin Settings, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Microsoft Azure OEM for Dynamic Translation in Now Assist

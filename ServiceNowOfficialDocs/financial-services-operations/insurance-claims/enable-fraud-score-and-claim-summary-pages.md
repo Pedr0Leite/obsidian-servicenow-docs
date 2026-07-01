@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Commercial Lines Claims, Exploring insurance claims applications, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - insurance
+  - claims
+  - fso
+  - processing
+  - type-task
 ---
 
 # Enable Claim workspace, Fraud score, and Claim summary pages

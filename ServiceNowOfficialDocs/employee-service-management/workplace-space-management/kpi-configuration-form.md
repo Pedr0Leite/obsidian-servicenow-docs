@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-18"
 reading_time_minutes: 2
 breadcrumb: [Reference, Workplace Space Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - space-management
+  - floor-plans
+  - utilization
+  - facilities
+  - type-reference
 ---
 
 # KPI Configuration form

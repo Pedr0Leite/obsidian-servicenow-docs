@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-08"
 reading_time_minutes: 7
 breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-reference
 ---
 
 # Components installed with Enterprise Asset Management

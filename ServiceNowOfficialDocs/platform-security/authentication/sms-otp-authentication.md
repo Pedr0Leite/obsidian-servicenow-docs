@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [SMS One-time Passcode, OTP, authentication, ServiceNow, secondary factor, identity verification, medium-risk scenarios, SIM-swapping, interception, delays, mobile network availability]
 breadcrumb: [Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # SMS One-time passcode \(OTP\) authentication

@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Sales promotion, Agent management, Use, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-task
 ---
 
 # Create a sales promotion claim using playbook

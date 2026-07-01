@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [remote choice fields, catalog reference field, provider data, foundation data]
 breadcrumb: [Remote catalogs, Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Using remote choice fields to directly access provider data

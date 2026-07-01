@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-04-07"
 reading_time_minutes: 1
 breadcrumb: [Create a demand, Manage demands, Next Experience for Demand Management in Portfolio Planning, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Customize the demand record form

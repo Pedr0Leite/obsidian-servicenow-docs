@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Virtual Agent, Bot interconnect, Google Dialogflow, Microsoft, Power, Pro, unified, chat, experience, multiple, channels]
 breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Using Virtual Agent Bot Interconnect in your configuration

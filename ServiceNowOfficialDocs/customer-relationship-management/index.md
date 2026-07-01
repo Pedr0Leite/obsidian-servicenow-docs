@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: crm
 doc_type: toc
+tags:
+  - customer-relationship-management
 ---
 
 # Australia Customer Relationship Management

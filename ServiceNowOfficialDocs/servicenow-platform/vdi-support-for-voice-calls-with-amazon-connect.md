@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Integrate ServiceNow Voice with Amazon Connect, Integrating Voice with other applications, ServiceNow Voice, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-concept
 ---
 
 # Configure a Virtual Desktop Infrastructure \(VDI\) for voice calls with Amazon Connect

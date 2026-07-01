@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Add a space using Workplace Space Management, Manage, Workplace Space Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - space-management
+  - floor-plans
+  - utilization
+  - facilities
+  - type-task
 ---
 
 # Configure a space type as usable with Workplace Space Management

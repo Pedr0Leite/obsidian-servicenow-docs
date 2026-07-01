@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Pattern, Discovery, SSIS, SQL, Server, Integration, Services]
 breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Microsoft SQL Server Integration Services \(SSIS\) discovery

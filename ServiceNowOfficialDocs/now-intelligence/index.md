@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: par
 doc_type: toc
+tags:
+  - now-intelligence
 ---
 
 # Australia Platform Analytics

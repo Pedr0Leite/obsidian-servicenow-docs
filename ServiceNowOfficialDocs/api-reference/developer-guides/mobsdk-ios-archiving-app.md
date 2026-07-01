@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile SDK Developer Guide - iOS, Developer guides, API implementation and reference]
+tags:
+  - api-reference
+  - developer
+  - guides
+  - patterns
+  - best-practices
+  - type-reference
 ---
 
 # Archive your application for publishing

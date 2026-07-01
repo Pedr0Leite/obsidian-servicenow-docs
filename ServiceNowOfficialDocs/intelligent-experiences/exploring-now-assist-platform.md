@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Exploring, Now Assist, ServiceNow AI Platform, Generative AI, GenAI, framework]
 breadcrumb: [Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Exploring Now Assist Admin

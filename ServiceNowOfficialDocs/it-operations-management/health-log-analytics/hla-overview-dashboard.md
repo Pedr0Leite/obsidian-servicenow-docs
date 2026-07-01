@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Health Log Analytics Operational dashboard, HLA Operational dashboard, log data monitoring dashboard, alert monitoring dashboard, error rate dashboard]
 breadcrumb: [Platform Analytics Solutions for Health Log Analytics, Analytics and Reporting in Health Log Analytics, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Health Log Analytics Operational dashboard

@@ -9,6 +9,9 @@ last_updated: "2026-04-07"
 reading_time_minutes: 2
 keywords: [Hybrid search, Hybrid search in Recommended Actions, Semantic search, Hybrid search in AI search]
 breadcrumb: [AI search, Recommended Actions configuration, Implement Intelligence, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Hybrid search in Recommended Actions

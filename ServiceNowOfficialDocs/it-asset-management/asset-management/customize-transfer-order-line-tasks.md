@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-20"
 reading_time_minutes: 1
 breadcrumb: [Manage transfer order, Use, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-concept
 ---
 
 # Customize transfer order line tasks

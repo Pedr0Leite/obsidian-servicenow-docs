@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Exam questions - per topics"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - capstone
@@ -23,6 +25,9 @@ tags:
 [Delivery Managers Weekly Summary.pdf](Exam%20questions%20-%20per%20topics/Delivery_Managers_Weekly_Summary.pdf)
 
 ## Related
+- [[Real questions]]
+- [[ChatGPT Sample Questions]]
+- [[CTA Exam Scope]]
 - [[Exam]]
 - [[TO REVIEW FOR EXAM]]
 - [[Sample questions]]

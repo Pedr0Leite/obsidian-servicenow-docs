@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-25"
 reading_time_minutes: 2
 breadcrumb: [Defined desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Download and install .Net Desktop Runtime for AI Desktop Actions

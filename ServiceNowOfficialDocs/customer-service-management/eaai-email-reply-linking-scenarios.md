@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 1
 keywords: [email reply linking, closed interactions, routing scenarios]
 breadcrumb: [Email Interaction for CSM reference, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Email reply linking scenarios for closed interactions

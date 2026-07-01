@@ -9,6 +9,9 @@ last_updated: "2026-02-12"
 reading_time_minutes: 2
 keywords: [Instance Observer, compare datasets, analytics, performance metrics, observability, server response time]
 breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platform Health, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Compare datasets in Instance Observer

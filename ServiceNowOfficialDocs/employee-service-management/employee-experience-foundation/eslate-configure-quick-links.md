@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 2
 keywords: [quick links, homepage widget, canvas widget, sys\_id, background script, Employee Slate]
 breadcrumb: [Quick Links widgets, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure Quick Links widgets

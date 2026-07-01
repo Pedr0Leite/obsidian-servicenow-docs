@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Automating and optimizing your services and operations using Service Operations Workspace, Solutions]
+tags:
+  - better-together
+  - integration
+  - cross-product
+  - combined-solutions
+  - type-concept
 ---
 
 # Case Study: Enhancing Risk, Compliance, and Audit Management with ITOM

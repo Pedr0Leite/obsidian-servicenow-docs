@@ -1,6 +1,8 @@
 ---
 aliases:
   - "AI & VA"
+area: "Vault Root"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -64,6 +66,9 @@ tags:
 [Links to check later](AI%20&%20VA/Links%20to%20check%20later%20376c42ce9a5680abbc5fd1aa3f878ffa.md)
 
 ## Related
+- [[AI Agents & Agentic Workflows — Reference Compilat]]
+- [[Get Familiar with Agentic Workflows & AI Agent]]
+- [[AI Agent tools – Getting the most out of your agen]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Now Assist]]

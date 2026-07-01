@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Digital Product Release \(DPR\), Digital Product Release Data Collectors, DevOps data collectors, Data Collectors, Digital Product Release Policy Content Pack]
 breadcrumb: [Digital Product Release Policy Content Pack, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-reference
 ---
 
 # Digital Product Release data collectors

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [ATF Test Generator and Cloud Runner, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - atf
+  - cloud-runner
+  - test-generation
+  - ai
+  - type-concept
 ---
 
 # Exploring ATF Test Generator and Cloud Runner

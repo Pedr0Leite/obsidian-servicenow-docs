@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Operational Technology Management licensing and subscriptions, Operational Technology]
+tags:
+  - operational-technology
+  - type-reference
 ---
 
 # OTM SU Licensing References

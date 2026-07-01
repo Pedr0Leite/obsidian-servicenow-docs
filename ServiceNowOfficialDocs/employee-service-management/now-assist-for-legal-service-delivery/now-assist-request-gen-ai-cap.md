@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [Summarize request and matters, Use, Now Assist for Legal Service Delivery \(LSD\), Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - legal
+  - generative
+  - type-task
 ---
 
 # Use the Now Assist for Legal Service Delivery \(LSD\) capabilities from the Now Assist panel

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Contractor Service Center, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contractor
+  - onboarding
+  - service-center
+  - type-task
 ---
 
 # Log in to the Contractor Service Center for the first time as a contractor

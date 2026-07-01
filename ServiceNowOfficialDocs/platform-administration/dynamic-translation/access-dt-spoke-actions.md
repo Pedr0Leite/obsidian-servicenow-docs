@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Dynamic Translation spoke, Translating with Dynamic Translation, Dynamic Translation, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - translation
+  - localization
+  - dynamic
+  - languages
+  - type-task
 ---
 
 # Access Dynamic Translation spoke actions from Workflow Studio

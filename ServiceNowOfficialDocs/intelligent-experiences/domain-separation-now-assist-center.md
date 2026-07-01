@@ -9,6 +9,9 @@ last_updated: "2026-04-09"
 reading_time_minutes: 1
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
 breadcrumb: [Reference, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Domain separation and Now Assist Center

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Process flow for Slack communication, Collaboration services, IT Service Management]
+tags:
+  - it-service-management
+  - collaboration
+  - messaging
+  - itsm
+  - type-task
 ---
 
 # Add a collaborative communication task

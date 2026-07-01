@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [mismatched version, version compatibility, provider upgrade, consumer upgrade]
 breadcrumb: [Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Mismatched version support

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Field Service Management]
+tags:
+  - field-service-management
+  - appointment-booking
+  - scheduling
+  - customer
+  - type-concept
 ---
 
 # Managing appointments

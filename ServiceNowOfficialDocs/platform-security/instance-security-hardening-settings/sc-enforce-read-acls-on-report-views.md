@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-13"
 reading_time_minutes: 1
 breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Enforce read ACLs on report views

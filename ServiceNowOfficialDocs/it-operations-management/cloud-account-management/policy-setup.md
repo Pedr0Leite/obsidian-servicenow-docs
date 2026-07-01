@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Certification in Cloud Workspace, Certification in CW]
 breadcrumb: [Setting up Cloud Account Management in Cloud Workspace, Configuring Cloud Account Management, Cloud Account Management, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accounts
+  - governance
+  - spend
+  - itom
+  - type-task
 ---
 
 # Review default Cloud Account Management certification policy

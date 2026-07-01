@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, Analytics, Generative AI, Gen AI, usage, performance]
 breadcrumb: [Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Analyzing Now Assist performance

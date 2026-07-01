@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-29"
 reading_time_minutes: 10
 breadcrumb: [Developer guides, API implementation and reference]
+tags:
+  - api-reference
+  - developer
+  - guides
+  - patterns
+  - best-practices
+  - type-concept
 ---
 
 # Synthetic Monitoring Developer Guide

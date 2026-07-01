@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Ler anexos excel via BG"
+area: "Random Scripts"
+source: notion-export
 tags:
   - background-scripts
   - attachments

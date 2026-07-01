@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-28"
 reading_time_minutes: 1
 breadcrumb: [Module access policies for inbound email attachment encryption, Encrypting fields and attachments, Using Field Encryption, Field Encryption, Encryption]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Create a user module access policy

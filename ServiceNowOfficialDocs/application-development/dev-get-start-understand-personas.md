@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [User interface and experiences, Getting Started guide for developers, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Learn about personas when creating applications

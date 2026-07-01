@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Transfer, chat, conversation, Live Agent, AWA, Advanced Work Assignment, Facebook, Messenger, Conversational Integration]
 breadcrumb: [Use, Conversational Integration with Facebook Messenger, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Transfer Facebook Messenger chat conversations to live agents

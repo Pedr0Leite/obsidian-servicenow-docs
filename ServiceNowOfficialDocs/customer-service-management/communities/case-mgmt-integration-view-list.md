@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Using communities, Communities, Customer Service Management]
+tags:
+  - customer-service-management
+  - communities
+  - portal
+  - self-service
+  - forums
+  - type-task
 ---
 
 # View a list of questions and create a case

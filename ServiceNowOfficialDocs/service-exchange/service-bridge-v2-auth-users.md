@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [authorized users, user personas, catalog item access, consumer admin]
 breadcrumb: [Remote catalogs, Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Service Exchange authorized users and personas

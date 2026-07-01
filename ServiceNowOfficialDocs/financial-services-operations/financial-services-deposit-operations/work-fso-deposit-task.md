@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use, Deposit Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - deposits
+  - accounts
+  - fso
+  - banking
+  - type-task
 ---
 
 # Work on a deposit task for fulfillment

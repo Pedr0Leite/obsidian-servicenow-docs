@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [use]
 breadcrumb: [Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Using Activity Management

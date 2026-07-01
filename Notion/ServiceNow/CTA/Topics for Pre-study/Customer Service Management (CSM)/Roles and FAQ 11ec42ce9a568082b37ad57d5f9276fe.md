@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Roles and FAQ"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -287,5 +289,8 @@ For more information about the CSM product, see the [Customer Service Management
 For information about role definitions and functionalities, see the [Roles installed with Customer Service Management](https://docs.servicenow.com/csh?topicname=r_RolesInstalledWithCustomerService.html&version=latest) topic.
 
 ## Related
+- [[Field Service Management]]
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
 - [[Customer Service Management (CSM)]]
 - [[Customer Service Management]]

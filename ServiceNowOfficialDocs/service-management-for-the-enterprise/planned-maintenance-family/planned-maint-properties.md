@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing maintenance plans, Planned Maintenance, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - planned-maintenance
+  - scheduling
+  - downtime
+  - sme
+  - type-reference
 ---
 
 # Property settings for Planned Maintenance

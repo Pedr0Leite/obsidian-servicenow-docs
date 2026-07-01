@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Patterns, Discovery, Linux]
 breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Linux discovery

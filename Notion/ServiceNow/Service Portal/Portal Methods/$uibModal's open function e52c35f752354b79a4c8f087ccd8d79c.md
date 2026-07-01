@@ -1,6 +1,8 @@
 ---
 aliases:
   - "$uibModal's open function"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - angularjs
@@ -67,6 +69,9 @@ Refer to the below link for all the methods that sp Modal provides and how you c
 [https://developer.servicenow.com/print_page.do?release=quebec&category=null&identifier=SPModal-API&m...](https://developer.servicenow.com/print_page.do?release=quebec&category=null&identifier=SPModal-API&module=api)
 
 ## Related
+- [[Angular provider]]
+- [[Portals Events]]
+- [[Using the Link Function in Service Portal Widgets]]
 
 - [[Portal Methods]]
 - [[Broadcast && emit && on]]

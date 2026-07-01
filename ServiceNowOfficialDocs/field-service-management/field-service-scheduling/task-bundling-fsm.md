@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Assigning tasks from Dispatcher Workspace, Scheduling and dispatching, Use, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-concept
 ---
 
 # Bundling work order tasks

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Integration with Thomson Reuters Regulatory Intelligence \(TRRI\), GRC integrations, Common GRC features, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - grc
+  - attestation
+  - evidence
+  - scoping
+  - type-reference
 ---
 
 # Modules in the GRC integration with Thomson Reuters Regulatory Intelligence application

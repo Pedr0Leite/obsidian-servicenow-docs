@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Air-gapped networks and OT Discovery installation, Configure the Discovery Console for OT, Discovery Console for Operational Technology \(OT\), Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-task
 ---
 
 # Install containerized OT Discovery packages

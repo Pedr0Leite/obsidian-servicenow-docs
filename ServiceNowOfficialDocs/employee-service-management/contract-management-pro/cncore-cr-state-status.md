@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Contract status, State, Contract Management Pro, Contract lifecycle management workflow]
 breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-reference
 ---
 
 # Contract request State and Contract document status in Contract Management Pro

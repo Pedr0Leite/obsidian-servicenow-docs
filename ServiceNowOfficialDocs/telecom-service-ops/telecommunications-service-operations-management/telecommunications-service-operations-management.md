@@ -9,6 +9,13 @@ classification: telecommunications-service-operations-management
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-reference
 ---
 
 # Telecommunications Service Operations Management

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Impact reference, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Table and field level mapping

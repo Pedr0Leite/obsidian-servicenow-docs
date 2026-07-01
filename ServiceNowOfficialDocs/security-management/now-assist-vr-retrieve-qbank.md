@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [References for generative AI, Reference, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Sample queries for the Retrieve Vulnerability Response data agentic workflow

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request ITSM Roles - Request Management, Reference, Request Management, IT Service Management]
+tags:
+  - it-service-management
+  - requests
+  - catalog
+  - fulfillment
+  - itsm
+  - type-reference
 ---
 
 # Components installed with ITSM Roles — Request Management

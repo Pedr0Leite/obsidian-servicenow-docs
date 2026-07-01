@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 2
 keywords: [configure AI preferences, usage limits, insights, summaries]
 breadcrumb: [Employee Slate for Now Assist, Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure tasks and requests

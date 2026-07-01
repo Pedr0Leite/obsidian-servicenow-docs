@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-04-10"
 reading_time_minutes: 1
 breadcrumb: [Business Portal, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # View invoice case details in the Business Portal

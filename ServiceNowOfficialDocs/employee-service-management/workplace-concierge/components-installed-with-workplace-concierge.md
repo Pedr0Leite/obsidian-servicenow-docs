@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workplace Concierge - Components, Workplace Concierge, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - concierge
+  - workplace
+  - requests
+  - services
+  - type-reference
 ---
 
 # Components installed with Workplace Concierge

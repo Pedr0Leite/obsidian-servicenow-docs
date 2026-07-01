@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for Retail Service Management \(RSM\), Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Configure Now Assist for Retail Service Management \(RSM\)

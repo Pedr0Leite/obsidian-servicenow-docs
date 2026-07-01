@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-11"
 reading_time_minutes: 1
 breadcrumb: [REST APIs, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - api-explorer
+  - testing
+  - endpoints
+  - type-task
 ---
 
 # Enable OAuth with inbound REST

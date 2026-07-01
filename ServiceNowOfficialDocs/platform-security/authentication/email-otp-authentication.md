@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Email One-time Passcode, OTP, authentication, ServiceNow, secondary factor, identity verification, medium-risk scenarios, phishing, email account compromise, delivery delays, email service availability]
 breadcrumb: [Configure authentication factors for AI voice agents, Authentication factors, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # Email One-time passwords \(OTP\) authentication

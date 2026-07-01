@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Cloud License Estimator, Cloud License Estimator, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-licensing
+  - cost
+  - estimation
+  - finops
+  - type-task
 ---
 
 # Configure Azure Credentials for Cloud License Estimator

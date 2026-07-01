@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring Cloud Action Library, Cloud Action Library, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-accelerate
+  - itom
+  - setup
+  - rapid
+  - type-task
 ---
 
 # Set up Cloud Action Library for Microsoft Azure

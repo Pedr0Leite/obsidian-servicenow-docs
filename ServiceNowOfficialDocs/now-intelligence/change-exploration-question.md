@@ -9,6 +9,9 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [exploration, edit question, change question]
 breadcrumb: [Questions and responses in an exploration, Use, AI Data Explorer, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Change the question in an exploration

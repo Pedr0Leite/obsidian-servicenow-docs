@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [generative AI, gen AI, genai, artificial intelligence]
 breadcrumb: [Configure, Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Customize Now Assist for Supplier Lifecycle Operations \(SLO\) to use the Virtual Agent chat

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [resolve purchase order exceptions, Resolve PO exceptions, PO exceptions resolution]
 breadcrumb: [Use, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # Resolving purchase order exceptions

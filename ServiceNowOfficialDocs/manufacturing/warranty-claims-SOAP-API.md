@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 10
 breadcrumb: [MCO Integration APIs, Reference, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-reference
 ---
 
 # Warranty Claims SOAP API

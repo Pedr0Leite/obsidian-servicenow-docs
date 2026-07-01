@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 91
 keywords: [Service Test Management Open API, Customer Service Problem Management]
 breadcrumb: [REST API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - table-api
+  - json
+  - http
+  - type-concept
 ---
 
 # Service Test Management Open API

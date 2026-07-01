@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-01"
 reading_time_minutes: 8
 breadcrumb: [Platform agentic workflows, Now Assist agentic workflows, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Platform Generate resolution plan agentic workflow

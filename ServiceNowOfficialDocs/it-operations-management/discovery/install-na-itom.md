@@ -11,6 +11,13 @@ last_updated: "2026-04-22"
 reading_time_minutes: 1
 keywords: [ITOM AIOps, plugin installation, Now Assist, IT Operations Management, apps]
 breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery, Discovery, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Install Now Assist for IT Operations Management

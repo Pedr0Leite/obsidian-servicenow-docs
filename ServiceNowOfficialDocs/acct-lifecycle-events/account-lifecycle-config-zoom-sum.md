@@ -8,6 +8,14 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Zoom and touchpoint integration, Customer success, Configure, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-task
 ---
 
 # Configure Zoom to create a touchpoint meeting summary

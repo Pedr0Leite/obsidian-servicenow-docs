@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Create an incident prediction model, Manage, Task Intelligence for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - task-intelligence
+  - routing
+  - ai
+  - itsm
+  - type-task
 ---
 
 # Set up your incident prediction model

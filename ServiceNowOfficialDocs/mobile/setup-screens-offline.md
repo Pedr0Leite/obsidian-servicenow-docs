@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Supported screens, Align apps, screens, and functions, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Setup screens for offline mode

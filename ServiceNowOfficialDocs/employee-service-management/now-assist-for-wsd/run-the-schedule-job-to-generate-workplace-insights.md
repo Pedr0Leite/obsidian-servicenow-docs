@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-10-27"
 reading_time_minutes: 1
 breadcrumb: [Insight cards on the Workplace Central dashboard, Workplace Advisor Overview, Using AI agent workflows in Now Assist for WSD, Now Assist for Workplace Service Delivery \(WSD\), Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - workplace
+  - generative
+  - type-task
 ---
 
 # Run the scheduled job to generate workplace insights

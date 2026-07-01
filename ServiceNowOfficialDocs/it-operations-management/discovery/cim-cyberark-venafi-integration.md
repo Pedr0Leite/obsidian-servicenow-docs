@@ -11,6 +11,13 @@ last_updated: "2024-12-19"
 reading_time_minutes: 2
 keywords: [CyberArk Certificate Manager SaaS integration]
 breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-concept
 ---
 
 # Certificate management with CyberArk Certificate Manager SaaS

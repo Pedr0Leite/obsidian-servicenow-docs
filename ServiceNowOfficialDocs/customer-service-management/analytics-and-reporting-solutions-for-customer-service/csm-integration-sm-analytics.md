@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and reporting, Customer Service Management]
+tags:
+  - customer-service-management
+  - csm
+  - analytics
+  - reporting
+  - kpis
+  - type-reference
 ---
 
 # Customer Service Management integration with Service Management analytics

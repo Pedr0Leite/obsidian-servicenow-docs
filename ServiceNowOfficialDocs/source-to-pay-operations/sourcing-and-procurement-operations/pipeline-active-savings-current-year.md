@@ -11,6 +11,13 @@ last_updated: "2025-03-31"
 reading_time_minutes: 3
 keywords: [active savings, targeted savings, pipeline projects, work in progress, proration, savings metrics, analytics dashboard]
 breadcrumb: [Pipeline management tab, Sourcing Pipeline Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Active Savings \(Current Year\) metric calculation

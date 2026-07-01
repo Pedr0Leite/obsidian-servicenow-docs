@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Access guided upgrade on a non-production instance, Configure, Upgrade Console, Upgrade, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - upgrade-management
+  - skipped-fixes
+  - patching
+  - type-task
 ---
 
 # Implement post-upgrade activities on a non-prod instance

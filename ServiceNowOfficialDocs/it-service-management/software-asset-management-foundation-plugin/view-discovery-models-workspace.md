@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [License Operation view for Software Asset Management Foundation plugin, Using Software Asset Management Foundation plugin workspace, Software Asset Management Foundation plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - foundation
+  - plugin
+  - itsm
+  - type-task
 ---
 
 # View discovery models in workspace

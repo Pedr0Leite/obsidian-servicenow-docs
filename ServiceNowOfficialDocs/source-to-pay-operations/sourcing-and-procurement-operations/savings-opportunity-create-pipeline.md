@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 4
 keywords: [Savings Opportunities, pipeline project, Now Assist Panel, savings opportunity details]
 breadcrumb: [Action or dismiss an opportunity, Using Spend and Savings Management, Use, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-task
 ---
 
 # Review a savings opportunity and create a pipeline project

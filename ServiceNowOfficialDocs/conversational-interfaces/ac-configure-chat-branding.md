@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 13
 keywords: [Virtual, Agent, branding]
 breadcrumb: [Branding your chat client, General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Set up your Virtual Agent bot's branding

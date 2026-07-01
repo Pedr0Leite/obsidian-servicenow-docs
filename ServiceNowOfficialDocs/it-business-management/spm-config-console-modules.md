@@ -10,6 +10,9 @@ reading_time_minutes: 7
 keywords: [Now Assist Setup, Strategic Portfolio Management, SPM, configuration console, setup modules, common setup, financials, fiscal calendar, demand management, project management, resource management, strategic planning, portfolio planning, enterprise-wide deployment, performance analytics, business units, departments, cost types, project templates, partitions]
 audience: administrator
 breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-reference
 ---
 
 # Modules in Setup Hub \(SPM\)

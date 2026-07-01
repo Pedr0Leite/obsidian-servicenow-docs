@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: delta3az
 doc_type: toc
+tags:
+  - delta-zurich-australia
 ---
 
 # australia Combined Product Files

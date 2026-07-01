@@ -10,6 +10,13 @@ topic_type: topic
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, External Content Connectors, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-topic
 ---
 
 # Reassign the External Content Connectors Service Account user to the global domain

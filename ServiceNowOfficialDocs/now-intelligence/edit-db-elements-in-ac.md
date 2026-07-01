@@ -9,6 +9,9 @@ last_updated: "2026-04-22"
 reading_time_minutes: 5
 keywords: [Performance Analytics widgets, add Performance Analytics widgets, reports, add reports to dashboard]
 breadcrumb: [Edit a dashboard, Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Edit in-line Platform Analytics dashboard elements

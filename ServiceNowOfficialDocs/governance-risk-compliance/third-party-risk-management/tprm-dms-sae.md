@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 4
 keywords: [document management, smart assessment engine, vendor risk, third-party risk assessments, AI-assisted questionnaire pre-fill, draft responses]
 breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-concept
 ---
 
 # AI-assisted questionnaire pre-fill using the Document Management System

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-09"
 reading_time_minutes: 1
 breadcrumb: [Implement, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Configure advanced Settings in Security Exposure Management Workspace

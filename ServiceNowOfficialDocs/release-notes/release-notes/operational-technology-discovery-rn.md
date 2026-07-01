@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-06-10"
 reading_time_minutes: 2
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Operational Technology Discovery release notes

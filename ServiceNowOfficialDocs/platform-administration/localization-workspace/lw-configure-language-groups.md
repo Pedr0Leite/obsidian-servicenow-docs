@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-11"
 reading_time_minutes: 3
 breadcrumb: [Language setup in Localization Workspace, Configuring Localization Workspace, Localization Workspace, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - workspace
+  - translations
+  - content
+  - type-task
 ---
 
 # Configure language groups

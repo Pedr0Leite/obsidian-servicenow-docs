@@ -7,6 +7,13 @@ release: australia
 topic_type: concept
 last_updated: "2026-04-30"
 reading_time_minutes: 1
+tags:
+  - industry-products
+  - industry
+  - products
+  - verticals
+  - bundles
+  - type-concept
 ---
 
 # Industry Products

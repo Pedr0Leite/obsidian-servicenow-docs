@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-05-20"
 reading_time_minutes: 10
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Third-party Risk Management release notes

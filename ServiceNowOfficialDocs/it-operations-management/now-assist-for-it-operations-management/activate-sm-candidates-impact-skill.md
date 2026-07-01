@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Generate description, Find processes, Classify application service candidates, Now Assist skill, Now Assist, generative AI, generative AI, ITOM, IT Operations management]
 breadcrumb: [Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\), Configure, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Activate the Service Mapping Candidates Impact skill

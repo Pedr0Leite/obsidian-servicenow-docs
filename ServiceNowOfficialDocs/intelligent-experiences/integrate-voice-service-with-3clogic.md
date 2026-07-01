@@ -9,6 +9,9 @@ last_updated: "2026-05-22"
 reading_time_minutes: 1
 keywords: [3CLogic, voice assistant, voice integration, CCaaS, telephony provider, AI voice agent]
 breadcrumb: [Integrating voice assistant with CCaaS provider, Deploy AI voice agents, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Integrate ServiceNow voice assistant with 3CLogic

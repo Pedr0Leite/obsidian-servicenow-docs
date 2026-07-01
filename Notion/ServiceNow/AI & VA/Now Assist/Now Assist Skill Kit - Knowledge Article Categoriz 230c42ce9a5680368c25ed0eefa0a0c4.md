@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist Skill Kit - Knowledge Article Categoriz"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - skill-kit
@@ -554,6 +556,9 @@ Building on this demonstration and generalizing the LLM categorization use case 
 - Assignment of HR case to correct team.
 
 ## Related
+- [[Now Assist case Summaization in custom tables]]
+- [[Now Assist for CSM - Resolution Notes Generation]]
+- [[Now Assist for ITSM Handling Customization Scenari]]
 
 - [[Now Assist]]
 - [[Build Custom AI Skills with Now Assist Skill Kit S]]

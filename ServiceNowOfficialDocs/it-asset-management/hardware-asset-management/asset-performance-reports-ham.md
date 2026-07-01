@@ -11,6 +11,13 @@ last_updated: "2026-04-20"
 reading_time_minutes: 7
 keywords: [asset performance reports, hardware assets efficiency]
 breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Asset performance reports in the Hardware Asset Workspace

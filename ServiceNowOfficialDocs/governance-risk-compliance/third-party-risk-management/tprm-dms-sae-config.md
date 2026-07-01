@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [Now Assist, Third-party Risk Management, Smart Assessment Engine, DMS, document-assisted drafting, AI-assisted questionnaire pre-fill]
 breadcrumb: [Smart Assessment Engine assessments, Configure, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Configure AI-assisted questionnaire pre-fill for TPRM

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: itbm
 doc_type: toc
+tags:
+  - it-business-management
 ---
 
 # Australia Strategic Portfolio Management

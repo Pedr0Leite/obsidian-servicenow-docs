@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 7
 breadcrumb: [Safe Workplace Dashboard, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - dashboard
+  - analytics
+  - occupancy
+  - type-concept
 ---
 
 # Using the Safe Workplace Dashboard

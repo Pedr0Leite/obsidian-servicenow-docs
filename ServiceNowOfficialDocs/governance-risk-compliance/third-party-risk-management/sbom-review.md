@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 4
 keywords: [SBOM, software bill of materials, due diligence, vendor risk assessment, processing]
 breadcrumb: [Collecting software bill of materials, Assess third-party risk, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Review a software bill of materials submission from an engagement

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Portal Methods"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - angularjs
@@ -15,6 +17,9 @@ tags:
 [Broadcast && emit && on](Portal%20Methods/Broadcast%20&&%20emit%20&&%20on%205a3ed664cb1645f298542fee0d8b0577.md)
 
 ## Related
+- [[Angular provider]]
+- [[Using the Link Function in Service Portal Widgets]]
+- [[AngularJS in SN]]
 
 - [[ServiceNow – Service Portal]]
 - [[$uibModal's open function]]

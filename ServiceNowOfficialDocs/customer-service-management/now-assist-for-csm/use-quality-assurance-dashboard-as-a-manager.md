@@ -11,6 +11,13 @@ last_updated: "2026-02-04"
 reading_time_minutes: 3
 keywords: [generative AI, generative AI for Customer Service Management, generative AI for customer service agents]
 breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Use automated quality assurance dashboard as a manager

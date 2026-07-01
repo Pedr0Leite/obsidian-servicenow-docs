@@ -11,6 +11,13 @@ last_updated: "2026-06-04"
 reading_time_minutes: 1
 keywords: [copy resource assignment, duplicate resource assignment, resource assignment, resource management workspace]
 breadcrumb: [Using Resource Management Workspace, Use, Resource Management Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - resources
+  - capacity
+  - allocation
+  - itbm
+  - type-task
 ---
 
 # Copy a resource assignment

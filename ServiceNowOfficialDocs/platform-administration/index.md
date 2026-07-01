@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: platadm
 doc_type: toc
+tags:
+  - platform-administration
 ---
 
 # Australia ServiceNow AI Platform Administration

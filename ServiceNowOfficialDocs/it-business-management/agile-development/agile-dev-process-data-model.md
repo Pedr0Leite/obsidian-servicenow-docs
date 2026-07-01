@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - agile
+  - sprints
+  - stories
+  - backlog
+  - type-reference
 ---
 
 # Agile Development process data model

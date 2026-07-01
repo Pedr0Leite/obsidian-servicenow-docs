@@ -11,6 +11,13 @@ last_updated: "2026-04-21"
 reading_time_minutes: 1
 keywords: [team member, permissions, collaborative work management]
 breadcrumb: [Manage SPM work from CWM, Use, Collaborative Work Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cwm
+  - tasks
+  - collaboration
+  - project
+  - type-reference
 ---
 
 # Team member role access permissions in CWM

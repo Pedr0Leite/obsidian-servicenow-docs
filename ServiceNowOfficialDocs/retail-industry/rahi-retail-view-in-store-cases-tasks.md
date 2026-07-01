@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Fulfill In-store operations cases and tasks in Retail Mobile, Manage store plans, Retail]
+tags:
+  - retail-industry
+  - type-task
 ---
 
 # View your assigned In-store operations cases and tasks in Retail Mobile

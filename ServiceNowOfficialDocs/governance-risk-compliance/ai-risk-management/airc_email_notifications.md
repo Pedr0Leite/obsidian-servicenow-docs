@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-31"
 reading_time_minutes: 5
 breadcrumb: [Reference, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-reference
 ---
 
 # AI governance email notifications

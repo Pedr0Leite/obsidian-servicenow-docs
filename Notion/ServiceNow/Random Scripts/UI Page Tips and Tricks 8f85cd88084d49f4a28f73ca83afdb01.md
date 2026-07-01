@@ -1,6 +1,8 @@
 ---
 aliases:
   - "UI Page Tips and Tricks"
+area: "Random Scripts"
+source: notion-export
 tags:
   - ui-page
   - jelly

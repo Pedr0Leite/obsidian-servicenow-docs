@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-22"
 reading_time_minutes: 8
 breadcrumb: [Creating portal pages, Configuring Service Portal, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Create and edit a page using the Service Portal Designer

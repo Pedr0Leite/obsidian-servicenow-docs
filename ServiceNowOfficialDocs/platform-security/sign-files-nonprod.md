@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Sign Records and Files, Using Code Signing, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Create a job to sign specific records or attachments on a trusted instance

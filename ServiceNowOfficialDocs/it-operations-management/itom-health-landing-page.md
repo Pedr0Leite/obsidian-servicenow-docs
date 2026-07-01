@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-21"
 reading_time_minutes: 1
 breadcrumb: [IT Operations Management]
+tags:
+  - it-operations-management
+  - type-reference
 ---
 
 # ITOM AIOps

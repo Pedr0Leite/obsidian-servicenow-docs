@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-02-02"
 reading_time_minutes: 3
 breadcrumb: [Virtual Agent API reference, Virtual Agent API, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-reference
 ---
 
 # Common errors in Virtual Agent API

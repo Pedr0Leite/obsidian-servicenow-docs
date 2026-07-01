@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Scheduled offline caching, Configure offline cache to devices, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Configure scheduled offline caching

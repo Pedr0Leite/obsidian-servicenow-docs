@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Enable logging and debug messages, Setup and administration, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Troubleshoot domain separation errors

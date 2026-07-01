@@ -1,6 +1,8 @@
 ---
 aliases:
   - "06 Case Study – For PPT"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - encryption
@@ -237,6 +239,9 @@ tags:
 Would you like any **refinements or deeper explanations** on any of these points? 🚀
 
 ## Related
+- [[Introducing Sovereign Bank]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[06 Case Study]]
 - [[06 Week 6]]

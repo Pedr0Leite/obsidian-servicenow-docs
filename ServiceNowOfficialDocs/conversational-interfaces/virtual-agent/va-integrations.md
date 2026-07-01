@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Virtual Agent, Designer, topic, block, channel, Slack, Workplace, Microsoft, Teams, MSTeams, channel, chat, custom]
 breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Deploying Virtual Agent topics in other channels

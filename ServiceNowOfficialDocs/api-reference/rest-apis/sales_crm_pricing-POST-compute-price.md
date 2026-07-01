@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2019-10-16"
 reading_time_minutes: 47
 breadcrumb: [Sales CRM Pricing API, REST API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - table-api
+  - json
+  - http
+  - type-reference
 ---
 
 # Sales CRM Pricing - POST /api/sn\_csm\_pricing/\{api\_version\}/pricingengine/computePrice

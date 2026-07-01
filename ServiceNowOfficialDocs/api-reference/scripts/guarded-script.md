@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-05"
 reading_time_minutes: 8
 breadcrumb: [Sandbox environment, Server-side scripting, Scripting, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - script-includes
+  - server-side
+  - glideajax
+  - library
+  - type-concept
 ---
 
 # Guarded script evaluator

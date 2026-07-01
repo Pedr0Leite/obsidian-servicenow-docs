@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Exploring Admin Center, Admin Center, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - admin-center
+  - instance-health
+  - administration
+  - type-concept
 ---
 
 # Admin Center summary

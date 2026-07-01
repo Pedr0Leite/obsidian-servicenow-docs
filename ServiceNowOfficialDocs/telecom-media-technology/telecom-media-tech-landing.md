@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
+tags:
+  - telecom-media-technology
+  - type-concept
 ---
 
 # Telecommunications, Media, and Technology \(TMT\)

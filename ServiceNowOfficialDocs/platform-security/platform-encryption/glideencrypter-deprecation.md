@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Prepare your instance for GlideEncrypter deprecation, Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-reference
 ---
 
 # GlideEncrypter deprecation

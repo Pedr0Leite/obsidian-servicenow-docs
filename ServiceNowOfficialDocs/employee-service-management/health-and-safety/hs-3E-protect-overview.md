@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-11-28"
 reading_time_minutes: 1
 breadcrumb: [3E Protect, 3E, Integration with third-party services, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-concept
 ---
 
 # 3E service provider overview

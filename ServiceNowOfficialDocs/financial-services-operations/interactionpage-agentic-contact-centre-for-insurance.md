@@ -9,6 +9,9 @@ last_updated: "2026-05-25"
 reading_time_minutes: 4
 keywords: [insurance contact center, interaction page, interaction workspace, live call transcript, ai-driven assistance, customer context summary, interaction form, wrap-up, handle customer calls, active customer interaction, csr interaction, call transcript analysis]
 breadcrumb: [Exploring Agentic Contact Center for Insurance, Agentic Contact Center for Insurance, Insurance applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-concept
 ---
 
 # Interaction page for Agentic Contact Center for Insurance

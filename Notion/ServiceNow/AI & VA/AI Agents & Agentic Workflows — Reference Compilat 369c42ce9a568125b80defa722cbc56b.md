@@ -1,6 +1,8 @@
 ---
 aliases:
   - "AI Agents & Agentic Workflows — Reference Compilat"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - agentic-workflow
@@ -170,6 +172,9 @@ The workflow auto-gathers ACH transaction, authorization, and customer account d
 - [Now Assist for FSO — Store App](https://store.servicenow.com/store/app/191caf2e1b246a50a85b16db234bcbeb)
 
 ## Related
+- [[AI & VA]]
+- [[Agentic Workflow & AI Agents – Tips]]
+- [[AI Agent tools – Getting the most out of your agen]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Get Familiar with Agentic Workflows & AI Agent]]

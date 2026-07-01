@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 2
 breadcrumb: [Mobile instances, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Branded landing page for a single instance

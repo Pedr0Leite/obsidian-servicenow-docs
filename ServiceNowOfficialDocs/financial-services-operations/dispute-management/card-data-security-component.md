@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [card data security container, pci card data, tokenizer service integration, card number reveal, reveal pan, mask pan, primary account number, pan, dispute workspace, ui builder component, payment card information, fso card number reveal viewport pages]
 breadcrumb: [Configure, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Card Data Security container

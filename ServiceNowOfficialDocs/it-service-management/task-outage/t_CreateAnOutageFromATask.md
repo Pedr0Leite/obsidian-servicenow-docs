@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Task Outage, IT Service Management]
+tags:
+  - it-service-management
+  - outage
+  - tasks
+  - itsm
+  - coordination
+  - type-task
 ---
 
 # Create an outage from a task

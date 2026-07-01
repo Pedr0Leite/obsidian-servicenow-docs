@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [configure]
 breadcrumb: [Employee Center for OT, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Configuring the Employee Center for OT

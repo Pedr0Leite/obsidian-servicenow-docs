@@ -11,6 +11,13 @@ last_updated: "2026-04-11"
 reading_time_minutes: 5
 keywords: [savings metrics, LEAP, automation]
 breadcrumb: [Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - aiops
+  - leap
+  - playbooks
+  - remediation
+  - type-concept
 ---
 
 # LEAP savings metrics

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 2
 breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Generate vulnerability insights with generative AI

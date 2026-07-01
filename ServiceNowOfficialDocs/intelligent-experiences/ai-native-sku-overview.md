@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [AI native, Foundation, Advanced, Prime, AI tiers, ITSM, CSM, HRSD, Industry]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # ServiceNow product tiers

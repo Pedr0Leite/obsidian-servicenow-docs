@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile experience for Emergency Response Management, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - mobile
+  - app
+  - type-task
 ---
 
 # Reassign tasks to your team members in Now Mobile

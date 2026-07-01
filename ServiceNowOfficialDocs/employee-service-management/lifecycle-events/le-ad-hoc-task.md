@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Create an HR case for a lifecycle event, Using Lifecycle Events, Lifecycle Events, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lifecycle-events
+  - onboarding
+  - offboarding
+  - transitions
+  - type-concept
 ---
 
 # Ad hoc cases and tasks for lifecycle event cases

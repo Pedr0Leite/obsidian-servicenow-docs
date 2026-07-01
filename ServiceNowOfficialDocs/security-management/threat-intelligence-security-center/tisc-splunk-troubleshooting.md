@@ -11,6 +11,13 @@ last_updated: "2026-05-26"
 reading_time_minutes: 2
 keywords: [tisc, splunk, troubleshoot, debug, logging, input metadata lookup]
 breadcrumb: [TISC add-on for Splunk overview, TISC Security Tools integrations, TISC Integrations, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Troubleshoot the TISC add-on in Splunk

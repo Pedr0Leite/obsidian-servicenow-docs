@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-10"
 reading_time_minutes: 4
 breadcrumb: [Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Export a Platform Analytics dashboard

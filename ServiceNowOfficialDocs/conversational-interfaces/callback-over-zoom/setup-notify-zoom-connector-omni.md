@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up Zoom extension for Omnichannel Callback, Zoom extension for Omnichannel Callback, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - callback
+  - zoom
+  - scheduling
+  - telephony
+  - type-concept
 ---
 
 # Setting up Notify Zoom connector for Zoom extension for Omnichannel Callback

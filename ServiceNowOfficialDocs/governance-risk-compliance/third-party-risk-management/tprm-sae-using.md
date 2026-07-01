@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-02"
 reading_time_minutes: 7
 breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-concept
 ---
 
 # Smart assessments with Third-party Risk Management

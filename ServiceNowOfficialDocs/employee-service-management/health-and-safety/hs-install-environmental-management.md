@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-11-27"
 reading_time_minutes: 2
 breadcrumb: [Configure, Health and Safety Environmental Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-task
 ---
 
 # Install Health and Safety Environmental Management

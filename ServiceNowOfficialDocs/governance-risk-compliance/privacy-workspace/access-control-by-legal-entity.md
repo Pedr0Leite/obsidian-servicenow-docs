@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-11-27"
 reading_time_minutes: 1
 breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-concept
 ---
 
 # Accessing control through organizational structure

@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [quick links, widget configuration, homepage, canvas, Employee Slate]
 breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Quick links

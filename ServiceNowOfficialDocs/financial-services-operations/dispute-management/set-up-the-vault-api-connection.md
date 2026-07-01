@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [set up vault api connection, connection credential records, carddatasecurity servicetoken, carddatasecurity clienttoken, carddatasecurity datatokensigner, vault id, connection url, tokenuri, integration hub connections, credential aliases]
 breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-task
 ---
 
 # Set up the Connection &amp; Credential records

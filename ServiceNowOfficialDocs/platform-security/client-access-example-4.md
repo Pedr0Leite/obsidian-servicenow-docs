@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Create credentials and test credential encryption

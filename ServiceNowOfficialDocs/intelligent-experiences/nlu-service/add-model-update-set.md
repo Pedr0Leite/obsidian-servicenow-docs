@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-17"
 reading_time_minutes: 4
 breadcrumb: [Creating models, Model management, Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-task
 ---
 
 # Add an NLU model to an update set

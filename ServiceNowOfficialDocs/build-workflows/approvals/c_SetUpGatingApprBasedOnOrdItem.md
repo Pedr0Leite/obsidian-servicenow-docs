@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Gating approvals, Approval rules, Classic approvals, Build workflows]
+tags:
+  - build-workflows
+  - approvals
+  - workflow
+  - authorization
+  - sign-off
+  - type-concept
 ---
 
 # Set up a gating approval based on the item being ordered

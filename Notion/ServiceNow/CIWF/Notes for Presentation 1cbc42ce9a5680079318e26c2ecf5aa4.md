@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Notes for Presentation"
+area: "CIWF"
+source: notion-export
 tags:
   - ciwf
   - csdm
@@ -527,6 +529,7 @@ By avoiding domain separation and utilizing the following alternatives, Boxeo ca
 - **Post Sales Engagement Core** Manages the customer relationship after the initial sale by coordinating product support, entitlements, and ongoing engagement activities.
 
 ## Related
+- [[Topics for Pre-study]]
 
 - [[CIWF]]
 - [[Use cases for Domain Separation]]

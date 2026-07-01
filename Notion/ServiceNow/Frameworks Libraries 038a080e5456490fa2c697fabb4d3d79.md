@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Frameworks Libraries"
+area: "Vault Root"
+source: notion-export
 tags:
   - frameworks
   - angularjs

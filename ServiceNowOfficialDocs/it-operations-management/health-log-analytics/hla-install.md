@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [activate content pack, install application, ServiceNow Store, sn.occ, Analytics and Reporting Solutions, entitlements verification, HI account, Performance Analytics Premium, com.snc.pa.premium, application installation, store application, content pack activation, admin role required, system applications, additional fee, plugin activation]
 breadcrumb: [Platform Analytics Solutions for Health Log Analytics, Analytics and Reporting in Health Log Analytics, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Activate the Platform Analytics Solution for Health Log Analytics

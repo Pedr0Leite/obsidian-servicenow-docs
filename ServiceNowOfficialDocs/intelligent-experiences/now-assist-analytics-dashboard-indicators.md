@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 10
 keywords: [Now Assist Analytics, indicators, Platform Analytics Administration, GenAI, Generative AI]
 breadcrumb: [Now Assist Analytics reference, Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Now Assist Analytics dashboard indicator details

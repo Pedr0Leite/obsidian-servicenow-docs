@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-22"
 reading_time_minutes: 1
 breadcrumb: [Use, Telecommunications Customer 360, Telecommunications, Media, and Technology \(TMT\)]
+tags:
+  - telecom-media-technology
+  - type-task
 ---
 
 # View interaction record

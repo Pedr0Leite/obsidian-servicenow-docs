@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Reference, Payment Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - payments
+  - fso
+  - processing
+  - disputes
+  - type-reference
 ---
 
 # Field descriptions for a claim case

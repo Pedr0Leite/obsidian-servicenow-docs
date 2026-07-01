@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 3
 breadcrumb: [Explore, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-concept
 ---
 
 # Indoor maps in Enterprise Asset Management

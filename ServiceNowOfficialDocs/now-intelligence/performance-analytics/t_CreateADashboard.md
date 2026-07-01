@@ -11,6 +11,13 @@ last_updated: "2026-04-17"
 reading_time_minutes: 4
 keywords: [configure a dashboard, create a dashboard, create a new dashboard, create dashboards, make a dashboard, set up a dashboard, what role do I need to create dashboards, what role do I need to make a dashboard, what role do I need to make a responsive dashboard]
 breadcrumb: [Working with responsive dashboards, Create and use dashboards, Responsive dashboards in the Core UI, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Create or configure a responsive dashboard in Core UI

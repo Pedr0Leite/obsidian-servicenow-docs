@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-03"
 reading_time_minutes: 3
 breadcrumb: [Configuring System Localization, System Localization, Translation and localization, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - localization
+  - translation
+  - i18n
+  - administration
+  - type-concept
 ---
 
 # Sorting according to the session language

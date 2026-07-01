@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Live Feed security and table access, Administering Live Feed, Live Feed Core UI, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - live-feed
+  - social
+  - collaboration
+  - activity
+  - type-reference
 ---
 
 # Restrict hashtag renaming

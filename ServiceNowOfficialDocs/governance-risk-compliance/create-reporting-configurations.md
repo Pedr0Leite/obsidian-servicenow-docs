@@ -9,6 +9,9 @@ last_updated: "2026-06-05"
 reading_time_minutes: 2
 keywords: [reporting configuration, DRI reporting, Digital Resilience Incident Reporting, create reporting configuration, Source type, DRIR Case]
 breadcrumb: [Generating Microsoft Word reports using Document designer, Manage, Using Digital resilience incident reporting, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Create reporting configurations

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-27"
 reading_time_minutes: 1
 breadcrumb: [TISC VirusTotal integration, Threat Lookup, TISC Enrichment integrations, TISC Integrations, Integrate, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Configure and enable VirusTotal Integration

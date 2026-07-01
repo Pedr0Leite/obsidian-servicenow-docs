@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [PO exception details, purchase order exception information, purchase order exception details]
 breadcrumb: [Source-to-Pay Workspace, Explore, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # Purchase order exception Details page

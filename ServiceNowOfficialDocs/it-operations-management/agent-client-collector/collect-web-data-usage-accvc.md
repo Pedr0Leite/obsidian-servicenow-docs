@@ -11,6 +11,13 @@ last_updated: "2026-03-25"
 reading_time_minutes: 2
 keywords: [ACC-V, web usage, monitoring, visibility content]
 breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Collect web usage data using Agent Client Collector for Visibility - Content

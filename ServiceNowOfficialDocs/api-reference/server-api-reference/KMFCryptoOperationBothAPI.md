@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-06"
 reading_time_minutes: 13
 breadcrumb: [Server API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - glidesystem
+  - gliderecord
+  - server-side
+  - glide
+  - type-concept
 ---
 
 # KMFCryptoOperation - Scoped, Global

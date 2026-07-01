@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Task Intelligence"
+area: "AI & VA"
+source: notion-export
 tags:
   - task-intelligence
   - now-intelligence

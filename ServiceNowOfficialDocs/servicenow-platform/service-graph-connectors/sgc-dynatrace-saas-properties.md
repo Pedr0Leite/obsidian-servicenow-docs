@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-03"
 reading_time_minutes: 1
 breadcrumb: [Observability - Dynatrace SaaS, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-reference
 ---
 
 # Service Graph Connector for Observability - Dynatrace SaaS properties

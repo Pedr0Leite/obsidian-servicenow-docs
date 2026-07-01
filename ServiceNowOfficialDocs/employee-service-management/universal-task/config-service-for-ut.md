@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Setting up and configuring Universal Task, Universal Task, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-task
+  - tasks
+  - workflow
+  - coordination
+  - type-concept
 ---
 
 # Configuring your service for Universal Task

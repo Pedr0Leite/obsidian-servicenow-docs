@@ -11,6 +11,13 @@ last_updated: "2026-05-29"
 reading_time_minutes: 2
 keywords: [audit entry, third line, second line, audit workspace]
 breadcrumb: [Exploring Audit Management, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-concept
 ---
 
 # Audit entry

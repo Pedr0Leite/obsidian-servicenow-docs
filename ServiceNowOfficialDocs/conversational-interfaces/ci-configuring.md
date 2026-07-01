@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Configuring, Conversational Interfaces, Chat Settings, Virtual Agent, Agent Chat, Now Assist]
 breadcrumb: [Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-concept
 ---
 
 # Configuring Conversational Interfaces

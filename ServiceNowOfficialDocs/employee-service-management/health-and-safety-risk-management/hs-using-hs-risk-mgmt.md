@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Health and Safety Risk Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - risk
+  - assessment
+  - mitigation
+  - ehs
+  - type-concept
 ---
 
 # Using Health and Safety Risk Management

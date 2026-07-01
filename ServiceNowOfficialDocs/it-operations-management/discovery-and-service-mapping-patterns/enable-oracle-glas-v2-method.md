@@ -12,6 +12,13 @@ reading_time_minutes: 1
 keywords: [Oracle GLAS, Oracle GLAS V2, Oracle GLAS data collection]
 audience: administrator
 breadcrumb: [Oracle GLAS data collection, Available on-premise discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-task
 ---
 
 # Enable the Oracle GLAS V2 data collection method

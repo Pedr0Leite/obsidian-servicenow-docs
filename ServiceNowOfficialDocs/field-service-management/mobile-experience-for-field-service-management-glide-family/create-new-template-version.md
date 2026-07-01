@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-18"
 reading_time_minutes: 1
 breadcrumb: [Author and publish a Smart Assessment template, Configuring Smart Assessment from new templates, Set up Smart Assessment questionnaires, Setting up Field Service Mobile Agent, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - mobile
+  - technicians
+  - fsm
+  - offline
+  - type-task
 ---
 
 # Create a Smart Assessment template version

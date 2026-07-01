@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Security Operations and the ServiceNow Store, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Update an application previously downloaded from the ServiceNow Store

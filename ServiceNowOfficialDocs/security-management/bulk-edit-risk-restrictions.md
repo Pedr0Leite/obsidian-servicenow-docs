@@ -9,6 +9,9 @@ last_updated: "2026-06-04"
 reading_time_minutes: 1
 keywords: [bulk edit, risk reduction, restrictions, Security Exposure Management]
 breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk edit in the Security Exposure Management Workspace, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Bulk edit risk reduction restrictions

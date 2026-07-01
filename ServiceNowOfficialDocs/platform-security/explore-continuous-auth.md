@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [CA, Continuous authentication, continuous auth, zero trust access, ZTA]
 breadcrumb: [Continuous Authentication \(CA\), Zero Trust Access, Access Management]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Exploring Continuous Authentication

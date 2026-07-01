@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [use]
 breadcrumb: [Configure, price, quote apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Using the CPQ Configurator

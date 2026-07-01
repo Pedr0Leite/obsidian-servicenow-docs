@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workday approvals in Now Mobile, Configuring Employee Center for mobile, Now Mobile experience for Employee Center, Employee Center Integrations, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure Workday approval functions for Now Mobile

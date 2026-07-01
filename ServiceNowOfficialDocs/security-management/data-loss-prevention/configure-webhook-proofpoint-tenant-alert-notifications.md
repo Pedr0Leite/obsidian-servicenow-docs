@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install and configure the Proofpoint integration for Data Loss Prevention, Data Loss Prevention Incident Response Integration with Proofpoint, Integrate, Data Loss Prevention Incident Response, Security Operations]
+tags:
+  - security-management
+  - dlp
+  - data-loss
+  - incidents
+  - policy
+  - type-task
 ---
 
 # Configure the Webhook on the Proofpoint DLP tenant for alert notifications to ServiceNow

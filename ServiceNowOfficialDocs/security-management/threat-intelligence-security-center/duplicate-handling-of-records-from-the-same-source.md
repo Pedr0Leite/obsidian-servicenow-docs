@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [tisc, dupilcate records, observable, indicator, deduplication, object]
 breadcrumb: [TISC Data archival and cleanup, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-concept
 ---
 
 # Automated cleanup of duplicate records from same source

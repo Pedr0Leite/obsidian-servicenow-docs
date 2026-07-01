@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Learn about the Australia release, Australia release notes]
+tags:
+  - release-notes
+  - type-concept
 ---
 
 # Release notes for upgrading from Yokohama

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Component properties for the Case view

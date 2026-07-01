@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Attributes for SAML, Identity Provider Attributes Filter, Filter criteria, Adaptive authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Use Identity Provider Attribute as Filter Criteria for SAML

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: cloudwsp
 doc_type: toc
+tags:
+  - cloud-governance-suite
 ---
 
 # Australia Cloud Governance Suite

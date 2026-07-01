@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 2
 breadcrumb: [Action items/action steps, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Offline record reconciliation

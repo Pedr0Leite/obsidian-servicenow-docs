@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data privacy \(Classic\), Data Privacy, Platform Privacy]
+tags:
+  - platform-security
+  - data-privacy
+  - consent
+  - gdpr
+  - classic
+  - type-concept
 ---
 
 # Data privacy clone

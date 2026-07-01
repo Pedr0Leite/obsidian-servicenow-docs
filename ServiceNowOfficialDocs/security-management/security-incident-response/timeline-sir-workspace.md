@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 2
 keywords: [security incident timeline, timeline events]
 breadcrumb: [Configure, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - sir
+  - security-incidents
+  - investigation
+  - soar
+  - type-concept
 ---
 
 # Timeline in Security Incident Response Workspace

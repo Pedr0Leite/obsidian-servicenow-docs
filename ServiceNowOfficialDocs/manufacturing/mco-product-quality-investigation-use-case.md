@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-18"
 reading_time_minutes: 2
 breadcrumb: [Quality issue management, Explore, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-concept
 ---
 
 # Product quality investigation use case

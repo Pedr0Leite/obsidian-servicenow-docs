@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [use]
 breadcrumb: [AI Enhanced Recommended Actions for OTSM, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)

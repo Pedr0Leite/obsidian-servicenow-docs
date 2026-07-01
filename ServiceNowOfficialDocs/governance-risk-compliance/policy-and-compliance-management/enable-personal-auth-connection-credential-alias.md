@@ -11,6 +11,13 @@ last_updated: "2026-06-05"
 reading_time_minutes: 3
 keywords: [personal authentication, policy authoring, connection credential alias, integration type, OneDrive Spoke, SharePoint, Google Drive]
 breadcrumb: [Authentication and document access in policy authoring, Creating and associating policy texts from Cloud documents, Policy authoring and redlining in Compliance Workspace, Policy and Compliance Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - policy
+  - attestation
+  - compliance
+  - controls
+  - type-task
 ---
 
 # Enable personal authentication for policy authoring

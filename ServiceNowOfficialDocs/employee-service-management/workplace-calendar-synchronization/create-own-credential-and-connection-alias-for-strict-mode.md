@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-23"
 reading_time_minutes: 3
 breadcrumb: [Create a strict mode connection with Microsoft Exchange Online, Microsoft Exchange Online - Calendar synchronization, Setup Workplace Calendar Synchronization, Configure, Workplace Calendar Synchronization, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - calendar
+  - sync
+  - bookings
+  - office365
+  - type-task
 ---
 
 # Create your own credential and connection alias for strict mode

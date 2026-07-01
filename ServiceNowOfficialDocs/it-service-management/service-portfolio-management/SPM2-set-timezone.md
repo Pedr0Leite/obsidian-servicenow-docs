@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-17"
 reading_time_minutes: 3
 breadcrumb: [Use, Service Portfolio Management, IT Service Management]
+tags:
+  - it-service-management
+  - service-portfolio
+  - catalog
+  - governance
+  - itsm
+  - type-task
 ---
 
 # Set the time zone for availability results in Service Portfolio Management

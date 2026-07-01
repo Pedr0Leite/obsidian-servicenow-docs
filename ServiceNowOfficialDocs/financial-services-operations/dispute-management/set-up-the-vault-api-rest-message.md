@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [set up oauth vault api rest message, data security vault api, rest message oauth, tokenuri endpoint, oauth 2.0 authentication, oauth profile, data security rest message, vault api rest message configuration]
 breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-task
 ---
 
 # Set up the OAuth Vault API REST message

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: delta3ay
 doc_type: toc
+tags:
+  - delta-yokohama-australia
 ---
 
 # australia Combined Product Files

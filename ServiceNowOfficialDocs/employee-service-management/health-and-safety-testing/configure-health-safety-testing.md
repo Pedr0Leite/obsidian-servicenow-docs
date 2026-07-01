@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 8
 breadcrumb: [Health and Safety Testing, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - testing
+  - certification
+  - training
+  - ehs
+  - type-task
 ---
 
 # Configure Health and Safety Testing

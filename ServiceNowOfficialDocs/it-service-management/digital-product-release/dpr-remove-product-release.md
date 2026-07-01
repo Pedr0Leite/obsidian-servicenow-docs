@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [remove product from release, remove included product, cancel child release]
 breadcrumb: [Manage releases for digital products and services, Use, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-task
 ---
 
 # Remove a product from a multi-product release

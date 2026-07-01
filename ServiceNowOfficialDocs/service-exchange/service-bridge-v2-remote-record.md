@@ -11,6 +11,12 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [remote record producer, service catalog, provider task, consumer request]
 breadcrumb: [Remote catalogs, Explore, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-concept
 ---
 
 # Remote record producers in Service Exchange

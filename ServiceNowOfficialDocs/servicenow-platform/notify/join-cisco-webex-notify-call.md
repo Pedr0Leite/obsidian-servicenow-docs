@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using the Notify Cisco Webex Connector with a major incident, Using Notify, Notify, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - notify
+  - sms
+  - voice
+  - notifications
+  - type-task
 ---
 
 # Join a conference call

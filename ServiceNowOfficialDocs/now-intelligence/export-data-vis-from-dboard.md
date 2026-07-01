@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-26"
 reading_time_minutes: 1
 breadcrumb: [View, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Download a data visualization from a dashboard

@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Digital Product Release flow actions, Workflow Studio flow actions for Digital Product Release]
 breadcrumb: [Explore, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-concept
 ---
 
 # Digital Product Release flow actions

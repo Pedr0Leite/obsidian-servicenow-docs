@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 3
 breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Install AI Risk and Compliance

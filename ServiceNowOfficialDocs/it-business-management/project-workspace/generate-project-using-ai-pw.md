@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-04-18"
 reading_time_minutes: 2
 breadcrumb: [Managing projects with Project Workspace, Project Workspace, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - project-workspace
+  - coordination
+  - pm
+  - type-task
 ---
 
 # Generate a project plan using project plan generation skill

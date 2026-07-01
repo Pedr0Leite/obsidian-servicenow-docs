@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-22"
 reading_time_minutes: 4
 breadcrumb: [Configure Core Business Suite using Now Assist, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Now Assist for Core Business Suite

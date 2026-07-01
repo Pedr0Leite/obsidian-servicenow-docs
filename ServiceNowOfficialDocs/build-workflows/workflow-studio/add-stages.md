@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-26"
 reading_time_minutes: 4
 breadcrumb: [Flow and subflow stages, Build flows, Flows, subflows, and actions, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Configure stages and add them to a flow

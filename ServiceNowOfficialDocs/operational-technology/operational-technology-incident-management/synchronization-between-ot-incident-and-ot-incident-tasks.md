@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Operational Technology Incident Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - incidents
+  - ics
+  - response
+  - type-reference
 ---
 
 # Synchronization between an incident and its incident tasks

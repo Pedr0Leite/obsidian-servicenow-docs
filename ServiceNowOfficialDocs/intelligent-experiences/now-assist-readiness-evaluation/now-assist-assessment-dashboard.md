@@ -11,6 +11,13 @@ last_updated: "2025-09-18"
 reading_time_minutes: 1
 keywords: [Now Assist Readiness Evaluation, Now Assist Readiness Evaluation app, Now Assist Readiness, Now Assist assessment, GenAI assessment, AI assessment, agentic AI assessment]
 breadcrumb: [Using Now Assist Readiness Evaluation dashboard, Use, Now Assist Readiness Evaluation, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - readiness
+  - evaluation
+  - deployment
+  - type-concept
 ---
 
 # Now Assist assessment dashboard tab

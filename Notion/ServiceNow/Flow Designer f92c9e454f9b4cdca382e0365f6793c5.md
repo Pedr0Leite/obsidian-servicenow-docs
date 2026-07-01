@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Flow Designer"
+area: "Vault Root"
+source: notion-export
 tags:
   - flow-designer
   - subflows

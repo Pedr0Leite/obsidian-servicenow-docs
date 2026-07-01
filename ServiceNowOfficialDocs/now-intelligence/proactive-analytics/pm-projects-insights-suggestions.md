@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Insights on dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - proactive-analytics
+  - alerts
+  - trends
+  - ai
+  - type-concept
 ---
 
 # Creating Process Mining projects from Proactive Analytics suggestions

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-05"
 reading_time_minutes: 1
 breadcrumb: [Add elements, Edit a dashboard, Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Add the Now Assist context menu

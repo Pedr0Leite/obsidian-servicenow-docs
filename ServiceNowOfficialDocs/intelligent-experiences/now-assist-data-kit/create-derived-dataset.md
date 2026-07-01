@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-07"
 reading_time_minutes: 1
 breadcrumb: [Using Now Assist Data Kit, Now Assist Data Kit, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - data-kit
+  - rag
+  - retrieval
+  - type-task
 ---
 
 # Create a derived dataset

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Possible Ways for Making an Attachment Mandatory S"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - client-script
   - service-portal

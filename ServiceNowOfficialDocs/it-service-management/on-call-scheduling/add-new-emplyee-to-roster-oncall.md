@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing roster members, Configure or update an On-Call shift, Managing schedules and shifts, On-Call Scheduling, IT Service Management]
+tags:
+  - it-service-management
+  - on-call
+  - rotations
+  - escalation
+  - itsm
+  - type-task
 ---
 
 # Add a new or returning employee to a roster

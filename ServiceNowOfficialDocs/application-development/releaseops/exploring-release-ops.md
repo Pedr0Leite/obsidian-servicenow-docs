@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 6
 keywords: [ReleaseOps, deploy changes, update sets, pipeline, ATF, schedule a release, deployment request, deployment analyzer, ServiceNow large scale deployments]
 breadcrumb: [ReleaseOps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - release-management
+  - pipeline
+  - ci-cd
+  - devops
+  - type-concept
 ---
 
 # Exploring ReleaseOps

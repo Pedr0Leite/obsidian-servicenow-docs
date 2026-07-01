@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Introducing Sovereign Bank"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -53,6 +55,9 @@ Goals:
 ![image.png](Introducing%20Sovereign%20Bank/image%201.png)
 
 ## Related
+- [[Describe the types of challenges you anticipate So]]
+- [[Text for slides]]
+- [[01 Case study – For PPT]]
 
 - [[00 Ready to launch]]
 - [[Meet the team at Sovereign Bank]]

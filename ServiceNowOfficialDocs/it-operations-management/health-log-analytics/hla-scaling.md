@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [HLA scaling, log ingestion, events per second, EPS, subscription units, SU, AI engine, queuing technology, log streaming, advanced infrastructure]
 breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # Scaling Health Log Analytics to stream logs at a higher rate

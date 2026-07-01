@@ -9,6 +9,12 @@ last_updated: "2025-12-04"
 reading_time_minutes: 6
 keywords: [explore]
 breadcrumb: [Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Order management

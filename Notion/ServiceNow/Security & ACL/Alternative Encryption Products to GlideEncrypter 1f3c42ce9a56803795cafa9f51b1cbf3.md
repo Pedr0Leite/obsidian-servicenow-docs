@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Alternative Encryption Products to GlideEncrypter"
+area: "Security & ACL"
+source: notion-export
 tags:
   - encryption
   - glide-encrypter

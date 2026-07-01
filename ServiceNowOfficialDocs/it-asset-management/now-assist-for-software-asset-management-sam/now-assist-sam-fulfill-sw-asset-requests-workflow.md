@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Use agentic workflows, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-concept
 ---
 
 # Now Assist for Software Asset Management \(SAM\) AI agent collection to help manage software asset request agentic workflow

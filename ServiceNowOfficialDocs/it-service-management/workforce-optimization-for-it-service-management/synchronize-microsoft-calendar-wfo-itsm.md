@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Synchronize agent calendar with the Microsoft Outlook calendar, Setting up, Scheduling, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Set up the Workforce Optimization for ITSM agent calendar integration with their Microsoft Outlook calendar

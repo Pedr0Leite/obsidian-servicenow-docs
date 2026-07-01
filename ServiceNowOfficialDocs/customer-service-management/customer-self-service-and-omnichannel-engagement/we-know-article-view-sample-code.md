@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Knowledge article view component, Configure web components, Web Embeddables, Set up self-service, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - self-service
+  - omnichannel
+  - portal
+  - engagement
+  - type-reference
 ---
 
 # Sample code for the Knowledge article view component

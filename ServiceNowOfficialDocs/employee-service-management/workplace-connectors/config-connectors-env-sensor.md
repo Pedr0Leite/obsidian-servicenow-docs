@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setup Workplace Connectors for environmental data, Configure, Workplace Connectors, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - connectors
+  - integration
+  - workplace
+  - facilities
+  - type-task
 ---
 
 # Configure environmental sensor data for a workplace location

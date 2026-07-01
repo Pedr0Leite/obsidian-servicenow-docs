@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [General, chat, settings, Conversational Interfaces, console, Virtual Agent, Agent Chat]
 breadcrumb: [Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-concept
 ---
 
 # General chat settings

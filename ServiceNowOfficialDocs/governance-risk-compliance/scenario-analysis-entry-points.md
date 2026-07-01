@@ -9,6 +9,9 @@ last_updated: "2026-05-14"
 reading_time_minutes: 4
 keywords: [Scenario Analysis, Operational Resilience, entry points, legacy flow, advanced flow, sn\_oper\_res\_scenario\_analysis\_advance, sn\_oper\_res\_scenario\_analysis]
 breadcrumb: [Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Scenario analysis entry points and flow configuration

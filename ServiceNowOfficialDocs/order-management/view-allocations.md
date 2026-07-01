@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 1
 breadcrumb: [Manage allocations, Opportunity Management, Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # View allocations for an opportunity

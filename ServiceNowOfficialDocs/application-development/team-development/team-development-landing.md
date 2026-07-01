@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Planning your application, Building applications]
+tags:
+  - application-development
+  - team-dev
+  - collaboration
+  - branching
+  - source-control
+  - type-reference
 ---
 
 # Team Development

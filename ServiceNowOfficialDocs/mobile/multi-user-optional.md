@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 2
 breadcrumb: [Multiple users on a shared device, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-task
 ---
 
 # Optional settings for multi-user configuration

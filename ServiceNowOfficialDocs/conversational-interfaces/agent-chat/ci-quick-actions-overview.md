@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Configuring, quick actions, Agent Chat, Virtual Agent]
 breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - agent-chat
+  - live-chat
+  - messaging
+  - support
+  - type-concept
 ---
 
 # Configuring quick actions

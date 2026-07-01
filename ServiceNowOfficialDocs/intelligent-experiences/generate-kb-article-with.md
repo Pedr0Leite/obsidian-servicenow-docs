@@ -9,6 +9,9 @@ last_updated: "2025-12-05"
 reading_time_minutes: 1
 keywords: [now assist]
 breadcrumb: [Now Assist context menu, Now Assist Experiences, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Generate KB article with Now Assist context menu

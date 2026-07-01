@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - healthcare-ops
+  - core
+  - operations
+  - facilities
+  - type-reference
 ---
 
 # Healthcare Operations Core

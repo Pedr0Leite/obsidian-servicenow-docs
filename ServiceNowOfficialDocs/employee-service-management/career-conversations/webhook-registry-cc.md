@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-12-02"
 reading_time_minutes: 1
 breadcrumb: [Set up Microsoft Outlook integration in Career Conversations, Install and configure Career Conversations, Career Conversations, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - career
+  - development
+  - conversations
+  - hrsd
+  - type-task
 ---
 
 # Configure the webhook registry of Microsoft Exchange Online spoke in Career Conversations

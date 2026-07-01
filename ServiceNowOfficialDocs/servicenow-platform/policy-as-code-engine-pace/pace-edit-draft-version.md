@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage PaCE policy versions, Administer PaCE policies, Policy as Code Engine \(PaCE\), Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - pace
+  - policy-as-code
+  - compliance
+  - automation
+  - type-task
 ---
 
 # Edit a draft PaCE policy version

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Requests, Legal Stock Preclearance, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - stock
+  - insider-trading
+  - compliance
+  - type-task
 ---
 
 # Approve or reject a stock preclearance approval

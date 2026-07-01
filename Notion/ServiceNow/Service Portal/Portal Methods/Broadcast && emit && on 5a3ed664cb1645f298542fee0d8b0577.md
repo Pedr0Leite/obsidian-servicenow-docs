@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Broadcast && emit && on"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - angularjs
@@ -33,6 +35,9 @@ for the $scope itself and its children. This is a child whispering to its
 stuffed animals so their parents can't hear.
 
 ## Related
+- [[Angular provider]]
+- [[Using the Link Function in Service Portal Widgets]]
+- [[ServiceNow – Service Portal]]
 
 - [[Portal Methods]]
 - [[$uibModal's open function]]

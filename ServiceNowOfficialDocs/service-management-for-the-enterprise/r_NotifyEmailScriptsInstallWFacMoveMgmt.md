@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move Management, Facilities Service Management overview, Facilities Service Management, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-reference
 ---
 
 # Notification email scripts installed with Facilities Move Management

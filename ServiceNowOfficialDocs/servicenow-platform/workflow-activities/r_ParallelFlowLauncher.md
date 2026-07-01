@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Subflow activities in workflow, Workflow activities reference, Workflow activities, Classic Workflow, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - workflow-activities
+  - activities
+  - library
+  - platform
+  - type-reference
 ---
 
 # Parallel Flow Launcher workflow activity

@@ -11,6 +11,13 @@ last_updated: "2026-04-08"
 reading_time_minutes: 1
 keywords: [AI Lens, instance URL, auto-login, app-config.json, lens\_enable\_auto\_login]
 breadcrumb: [Configure, ServiceNow AI Lens, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - lens
+  - visualization
+  - ar
+  - digital-twin
+  - type-task
 ---
 
 # Set up auto-login for ServiceNow AI Lens

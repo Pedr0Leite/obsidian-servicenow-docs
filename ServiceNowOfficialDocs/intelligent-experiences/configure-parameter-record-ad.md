@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 4
 breadcrumb: [Defined desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Enable AI agents to securely access parameters in AI Desktop Actions

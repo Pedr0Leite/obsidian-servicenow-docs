@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-10-15"
 reading_time_minutes: 2
 breadcrumb: [Explore, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-concept
 ---
 
 # Migrating App Engine pipelines to ReleaseOps

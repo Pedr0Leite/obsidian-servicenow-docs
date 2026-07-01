@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring the My Stacks tab, Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-catalog
+  - services
+  - provisioning
+  - itom
+  - type-task
 ---
 
 # Manage My Stacks

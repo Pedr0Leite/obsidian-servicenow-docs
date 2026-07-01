@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-10"
 reading_time_minutes: 4
 breadcrumb: [Explore, Access your ServiceNow data using SQL API, Additional integration resources, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - soap
+  - web-services
+  - wsdl
+  - integration
+  - type-reference
 ---
 
 # Supported SQL functions

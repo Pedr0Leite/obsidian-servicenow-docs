@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Prepare your instance for GlideEncrypter deprecation, Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-concept
 ---
 
 # Deprecate GlideEncrypter usage of 3DES for password2 fields

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-21"
 reading_time_minutes: 2
 breadcrumb: [Configure AI skills, Configure, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Configure insurance customer profile summarization in Now Assist for FSO

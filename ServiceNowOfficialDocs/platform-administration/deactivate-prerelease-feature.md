@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-14"
 reading_time_minutes: 1
 breadcrumb: [Feature Preview Program, Basic system configuration, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Deactivate a pre-release feature

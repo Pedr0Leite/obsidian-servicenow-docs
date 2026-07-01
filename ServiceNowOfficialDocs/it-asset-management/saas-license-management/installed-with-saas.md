@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request SaaS License Management, SaaS License Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - saas
+  - license-management
+  - discovery
+  - optimization
+  - type-reference
 ---
 
 # Installed with SaaS License Management

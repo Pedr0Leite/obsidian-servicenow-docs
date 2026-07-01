@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Read-only fields in Asset Management, Client script modifiable fields in Asset Management, Asset Management, Asset Management tables]
 breadcrumb: [Reference, Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - asset-management
+  - lifecycle
+  - itam
+  - ci
+  - type-reference
 ---
 
 # Read-only and client script modifiable fields in Asset Management tables

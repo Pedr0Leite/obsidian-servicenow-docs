@@ -11,6 +11,13 @@ last_updated: "2026-03-26"
 reading_time_minutes: 1
 keywords: [regulatory change management, RCM, GRC, roles, reference, configuration, application roles]
 breadcrumb: [Regulatory Change Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - regulatory-change
+  - grc
+  - impact
+  - tracking
+  - type-reference
 ---
 
 # Regulatory Change Management reference

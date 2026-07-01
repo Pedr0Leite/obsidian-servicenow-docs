@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Certificate-based authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - certificates
+  - mtls
+  - pki
+  - authentication
+  - type-task
 ---
 
 # Log in using Certificate-based authentication

@@ -9,6 +9,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 1
 keywords: [connector, connector label, label]
 breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterprise Architecture Workspace, Enterprise Architecture Workspace, Enterprise Architecture]
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
+  - type-task
 ---
 
 # Add labels to connector lines between shapes in a diagram

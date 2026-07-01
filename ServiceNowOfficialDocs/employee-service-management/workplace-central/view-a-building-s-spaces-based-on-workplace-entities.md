@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-25"
 reading_time_minutes: 5
 breadcrumb: [View or edit space allocations of a building, Working with Space Optimization, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-task
 ---
 
 # Edit or view a building's spaces based on workplace entities

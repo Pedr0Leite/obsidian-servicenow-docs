@@ -10,6 +10,9 @@ reading_time_minutes: 7
 keywords: [AI agent, application development, natural language, full-stack applications, conversational interface, autonomous AI, code generation, Now Assist, AI Agents, generative AI, agentic AI]
 audience: developer
 breadcrumb: [Build Agent, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-concept
 ---
 
 # Exploring Build Agent

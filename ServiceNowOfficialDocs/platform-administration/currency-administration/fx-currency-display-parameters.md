@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [FX Currency field behavior, Defaults required for FX Currency use, Configure, Currency administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - currency
+  - exchange-rates
+  - localization
+  - type-task
 ---
 
 # Identify the FX Currency field and its display parameters

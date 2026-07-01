@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, prompt injection attck prevention, Generative AI, GenAI, Guardian, Admin, Detection impact]
 breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Configure prompt injection attack protection

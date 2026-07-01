@@ -11,6 +11,13 @@ last_updated: "2026-05-19"
 reading_time_minutes: 3
 keywords: [AI Risk and Compliance content pack, EU AI Act, NIST AI RMF, SB 53, Colorado AI Act, regulatory framework, control objectives, risk statements]
 breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-concept
 ---
 
 # AI Risk and Compliance Content Pack

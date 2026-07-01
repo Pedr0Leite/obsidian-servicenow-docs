@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Currency administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - currency
+  - exchange-rates
+  - localization
+  - type-reference
 ---
 
 # Life cycle of records containing FX Currency fields

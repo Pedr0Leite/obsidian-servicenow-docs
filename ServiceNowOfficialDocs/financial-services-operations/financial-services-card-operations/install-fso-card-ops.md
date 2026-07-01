@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Card Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - card-ops
+  - fso
+  - cases
+  - banking
+  - type-task
 ---
 
 # Install Financial Services Card Operations

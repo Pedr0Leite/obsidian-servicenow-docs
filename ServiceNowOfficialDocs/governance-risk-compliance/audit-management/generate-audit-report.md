@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Generate audit report in audit Word template, Audit report template, Word report template for audit, Generate audit report, Audit report in Word template for an engagement record]
 breadcrumb: [Audit Workspace Overview, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Generate an audit report for an engagement using Microsoft Word template

@@ -9,6 +9,12 @@ last_updated: "2026-05-27"
 reading_time_minutes: 3
 keywords: [opportunity summarization, Now Assist for SFA, generative AI skill, customize skill]
 breadcrumb: [Configure, Now Assist for SFA, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Customize the opportunity summarization skill in Now Assist for SFA

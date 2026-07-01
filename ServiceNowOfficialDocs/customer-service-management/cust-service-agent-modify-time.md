@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Time recording for Customer Service Management, Agent management, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Modify or delete time worked entries for cases or activities

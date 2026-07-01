@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-20"
 reading_time_minutes: 2
 breadcrumb: [Configure case management, Case management, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Configure Now Assist for CSM Major Issue Management

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Retail Task Management, Retail]
+tags:
+  - retail-industry
+  - retail
+  - task-management
+  - stores
+  - legacy
+  - type-concept
 ---
 
 # Create multi-store cases in Retail Task Management Core

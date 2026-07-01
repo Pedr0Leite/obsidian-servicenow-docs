@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-24"
 reading_time_minutes: 1
 breadcrumb: [Configure Predictive Intelligence, Predictive Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - predictive-intelligence
+  - ml
+  - classification
+  - similarity
+  - type-task
 ---
 
 # Activate a solution version

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Product Adoption Roadmaps, Product Adoption, Using Impact, Impact]
+tags:
+  - impact
+  - adoption
+  - roadmap
+  - milestones
+  - type-task
 ---
 
 # Manage product adoption roadmaps for Impact Delivery Instance

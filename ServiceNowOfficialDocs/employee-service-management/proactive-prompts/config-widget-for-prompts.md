@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Proactive Prompts, Proactive Prompts, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - proactive-prompts
+  - nudges
+  - engagement
+  - hr
+  - type-task
 ---
 
 # Add and configure the prompt widget

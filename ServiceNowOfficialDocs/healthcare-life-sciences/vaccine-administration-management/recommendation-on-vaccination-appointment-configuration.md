@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure advanced appointment scheduling for a center, Configure, Vaccine Administration Management, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - vaccines
+  - administration
+  - scheduling
+  - healthcare
+  - type-reference
 ---
 
 # Guidance for configuring advanced appointment scheduling for a vaccination center

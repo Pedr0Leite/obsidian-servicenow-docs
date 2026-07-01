@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-20"
 reading_time_minutes: 1
 breadcrumb: [Password Reset, Local authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-task
 ---
 
 # Modify the Password Reset notification email text

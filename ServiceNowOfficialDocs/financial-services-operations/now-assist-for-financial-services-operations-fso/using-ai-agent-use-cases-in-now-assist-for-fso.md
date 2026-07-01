@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [friendly fraud AI agent, friendly fraud agentic AI, friendly fraud agentic workflow]
 breadcrumb: [Use agentic AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)

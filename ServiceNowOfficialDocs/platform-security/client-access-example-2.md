@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Add your certificate to the ServiceNow Trusted Key Store

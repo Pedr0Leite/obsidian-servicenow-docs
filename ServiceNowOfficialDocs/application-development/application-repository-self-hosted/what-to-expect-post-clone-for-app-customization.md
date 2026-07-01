@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Preserve applications and customizations in development during a system clone, Manage customizations to applications, ServiceNow application repository, Application sharing, Administer your apps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - repository
+  - self-hosted
+  - app-management
+  - versioning
+  - type-reference
 ---
 
 # Results post cloning for application customizations

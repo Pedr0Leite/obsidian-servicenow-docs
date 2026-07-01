@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [ITSM Success Dashboard Admin console, Configure, ITSM Success Dashboard indicators, IT Service Management]
+tags:
+  - it-service-management
+  - dashboard
+  - success
+  - indicators
+  - itsm
+  - type-concept
 ---
 
 # Configure Virtual Agent topics for ITSM Success Dashboard

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Creating Visual Task Boards, Using Visual Task Boards, Visual Task Boards, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - vtb
+  - kanban
+  - boards
+  - task-management
+  - type-concept
 ---
 
 # Data driven Visual Task Boards

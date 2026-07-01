@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 3
 keywords: [How to schedule dashboard refresh interval, How to change dashboard background colors, Where to set up dashboard insights]
 breadcrumb: [Configure, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Configure Platform Analytics dashboard settings

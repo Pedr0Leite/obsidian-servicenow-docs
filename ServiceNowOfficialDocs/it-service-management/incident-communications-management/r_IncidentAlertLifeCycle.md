@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Incident communication plan state model, Exploring Incident Communications Management, Incident Communications Management, IT Service Management]
+tags:
+  - it-service-management
+  - incident-comms
+  - major-incident
+  - notifications
+  - type-reference
 ---
 
 # Incident communication plan state model \(old\)

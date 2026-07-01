@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 2
 keywords: [automation opportunities, LEAP, sub-groups]
 breadcrumb: [Automation opportunities, Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - aiops
+  - leap
+  - playbooks
+  - remediation
+  - type-concept
 ---
 
 # Automation opportunity sub-groups

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-25"
 reading_time_minutes: 1
 breadcrumb: [Create form configuration record, Configure external-facing PDR form, Configure, Personal Data Rights \(PDR\), Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-reference
 ---
 
 # External-facing form configuration fields

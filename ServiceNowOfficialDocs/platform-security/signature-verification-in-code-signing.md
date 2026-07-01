@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [signature verification, multiple signatures]
 breadcrumb: [Using Code Signing, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Signature Verification in Code Signing

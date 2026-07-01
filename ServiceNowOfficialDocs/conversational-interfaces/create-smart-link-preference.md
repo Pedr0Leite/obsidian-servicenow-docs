@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Create, smart, link, preference, chat widget, URL Navigation]
 breadcrumb: [URL navigation in Conversational Interfaces, General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-task
 ---
 
 # Create a smart link preference

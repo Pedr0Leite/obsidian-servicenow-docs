@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 23
 keywords: [BCM, import, export, Excel, integration, extension point, Record Transform Engine]
 breadcrumb: [Reference, Business Continuity Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Components installed with Business Continuity Management

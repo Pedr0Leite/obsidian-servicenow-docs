@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Service Builder, IT Service Management]
+tags:
+  - it-service-management
+  - service-builder
+  - configuration
+  - itsm
+  - type-task
 ---
 
 # Create a service offering in Service Builder

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Capacity, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-concept
 ---
 
 # Using the Capacity Console

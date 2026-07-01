@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 2
 keywords: [widget creation, AI-powered Widget Builder, natural-language prompt, widget library]
 breadcrumb: [AI-powered Widget Builder, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Create a widget with the AI-powered Widget Builder

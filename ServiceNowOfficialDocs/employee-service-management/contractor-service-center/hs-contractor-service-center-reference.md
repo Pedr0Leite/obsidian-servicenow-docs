@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Contractor Service Center, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contractor
+  - onboarding
+  - service-center
+  - type-concept
 ---
 
 # Contractor Service Center reference

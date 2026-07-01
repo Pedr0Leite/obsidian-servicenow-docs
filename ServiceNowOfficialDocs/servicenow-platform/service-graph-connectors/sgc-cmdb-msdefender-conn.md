@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [SGC-Defender, SGC-Microsoft Defender, SGC-Microsoft Defender for Endpoint, SGC Defender, SGC Microsoft Defender, SGC Microsoft Defender for Endpoint, SGC for Defender, SGC for Microsoft Defender, SGC for Microsoft Defender for Endpoint, Defender SGC, Microsoft Defender SGC, Microsoft Defender for Endpoint SGC, Service Graph Connector for Defender, Service Graph Connector for Microsoft Defender, Service Graph Connector for Microsoft Defender for Endpoint, Defender connection details, Defender for Endpoint connection details, Defender connection, Defender for Endpoint connection, common connection framework, CCF, SGC-Defender, SGC-Microsoft Defender, SGC-Microsoft Defender for Endpoint, SGC Defender, SGC Microsoft Defender, SGC Microsoft Defender for Endpoint, SGC for Defender, SGC for Microsoft Defender, SGC for Microsoft Defender for Endpoint, Defender SGC, Microsoft Defender SGC, Microsoft Defender for Endpoint SGC, Service Graph Connector for Defender, Service Graph Connector for Microsoft Defender, Service Graph Connector for Microsoft Defender for Endpoint, Defender connection details, Defender for Endpoint connection details, Defender connection, Defender for Endpoint connection, common connection framework, CCF]
 breadcrumb: [Microsoft Defender for Endpoint, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-concept
 ---
 
 # Accessing the connection details of Service Graph Connector for Microsoft Defender Endpoint

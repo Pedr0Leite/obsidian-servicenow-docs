@@ -9,6 +9,9 @@ last_updated: "2025-09-06"
 reading_time_minutes: 5
 keywords: [AI Agents, Agentic AI]
 breadcrumb: [Execute desktop actions, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Trigger an AI agent to execute adaptive path desktop actions

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Card Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - card-ops
+  - fso
+  - cases
+  - banking
+  - type-reference
 ---
 
 # Properties installed with Financial Services Card Operations

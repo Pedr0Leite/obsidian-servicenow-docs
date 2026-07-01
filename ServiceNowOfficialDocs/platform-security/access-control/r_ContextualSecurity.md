@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-03"
 reading_time_minutes: 3
 breadcrumb: [Access Control List Rules, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-reference
 ---
 
 # Contextual Security Manager

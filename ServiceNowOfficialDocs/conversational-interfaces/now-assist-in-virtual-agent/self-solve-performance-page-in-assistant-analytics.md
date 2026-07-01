@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-01-06"
 reading_time_minutes: 5
 breadcrumb: [Analyzing assistants, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-concept
 ---
 
 # Self-Solve Performance page in Assistant analytics

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [activate AI skill, activate custom app record summarization]
 breadcrumb: [Configure, Now Assist for App Engine, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - code-generation
+  - app-engine
+  - type-task
 ---
 
 # Activate the custom app record summarization skill

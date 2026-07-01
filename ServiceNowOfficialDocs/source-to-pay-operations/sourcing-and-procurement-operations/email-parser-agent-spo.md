@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 2
 keywords: [Email parser for SPO, Email parser for Sourcing and Procurement Operations, Intent to action]
 breadcrumb: [Use agentic workflows, Now Assist for SPO, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Email parser agent for Sourcing and Procurement Operations

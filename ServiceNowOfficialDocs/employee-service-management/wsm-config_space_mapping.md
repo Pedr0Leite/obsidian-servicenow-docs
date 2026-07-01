@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workplace Space Mapping, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-concept
 ---
 
 # Configuring Workplace Space Mapping

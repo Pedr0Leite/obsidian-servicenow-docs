@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-27"
 reading_time_minutes: 1
 breadcrumb: [Controls, Configurations, AI Control Tower dashboard, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-concept
 ---
 
 # Automation rules

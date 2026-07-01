@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 66
 keywords: [fso tables, financial services operations tables, fso base tables, fso common tables]
 breadcrumb: [Developer resources, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # FSO table definitions

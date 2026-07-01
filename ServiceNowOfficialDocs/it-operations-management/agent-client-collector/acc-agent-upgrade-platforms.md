@@ -11,6 +11,13 @@ last_updated: "2026-05-28"
 reading_time_minutes: 2
 keywords: [ACC upgrade supported platforms, ACC upgrade operating systems, MSI RPM DEB PKG upgrade]
 breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-reference
 ---
 
 # Supported platforms for Agent Client Collector auto-upgrade

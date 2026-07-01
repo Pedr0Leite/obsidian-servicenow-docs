@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [CSM/FSM Configurable Workspace, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-concept
 ---
 
 # Configuring Field Service Territory Planning Console

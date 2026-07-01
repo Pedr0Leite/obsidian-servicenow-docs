@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create an asset profile, Use the workspace, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Delete an asset profile in Security Posture Control

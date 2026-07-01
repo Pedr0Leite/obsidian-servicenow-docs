@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [what are requirements for integration, how to configure microsoft defender for office 365 integration, how to set up phishing simulation]
 breadcrumb: [Security Simulation and Training Integration for Security Operations, Cybersecurity Executive Dashboard, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Configure Microsoft Defender for Office 365 integration

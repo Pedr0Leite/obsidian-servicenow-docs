@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Microsoft Azure DevOps Integration for Agile Development, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - azure-devops
+  - integration
+  - microsoft
+  - itbm
+  - type-reference
 ---
 
 # Importing and exporting work items between Agile Development and Azure DevOps

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - learning
+  - lms
+  - courses
+  - training
+  - type-reference
 ---
 
 # Learning internal content form

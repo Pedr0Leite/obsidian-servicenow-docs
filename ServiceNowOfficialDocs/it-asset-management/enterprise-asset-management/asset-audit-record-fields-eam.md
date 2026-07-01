@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [asset audit, inventory audit, audit record fields]
 breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - enterprise-assets
+  - eam
+  - facilities
+  - equipment
+  - type-reference
 ---
 
 # Asset audit fields for enterprise assets

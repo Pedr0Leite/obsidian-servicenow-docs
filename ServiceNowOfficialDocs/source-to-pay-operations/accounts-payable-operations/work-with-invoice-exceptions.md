@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 15
 keywords: [APO, Accounts Payable Operations, invoice exception, invoice processing, invoice automation]
 breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Invoice exceptions

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "CMDB - Change Parent Table"
+area: "Server and Client Side Scripts"
+source: notion-export
 tags:
   - cmdb
   - script-include
@@ -57,6 +59,9 @@ You can also try
 [https://developer.servicenow.com/dev.do#!/reference/api/quebec/server_legacy/c_CMDBUtilAPI#r_CMDBU-reParentTable_S_S_S](https://developer.servicenow.com/dev.do#!/reference/api/quebec/server_legacy/c_CMDBUtilAPI#r_CMDBU-reParentTable_S_S_S)
 
 ## Related
+- [[Calculate Distance Between Two Locations in Servic]]
+- [[Impersonate a user via script]]
+- [[Script include Advance structure - Inheritance]]
 
 - [[Server and Client Side Scripts]]
 - [[CMDB]]

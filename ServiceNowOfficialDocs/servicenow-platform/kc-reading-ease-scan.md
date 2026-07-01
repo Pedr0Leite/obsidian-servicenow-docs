@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-14"
 reading_time_minutes: 2
 breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-task
 ---
 
 # Article Optimization with Reading Ease scan

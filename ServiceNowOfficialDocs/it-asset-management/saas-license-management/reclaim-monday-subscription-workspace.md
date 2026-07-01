@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Reclaim user subscriptions in the Software Asset Workspace, Reclaiming user subscriptions, SaaS License Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - saas
+  - license-management
+  - discovery
+  - optimization
+  - type-task
 ---
 
 # Reclaim monday.com user subscriptions in the Software Asset Workspace

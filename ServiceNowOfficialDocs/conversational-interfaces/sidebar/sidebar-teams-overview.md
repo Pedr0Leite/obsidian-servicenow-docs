@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Virtual Agent, Microsoft Teams, MSTeams, Sidebar, integration, monetization]
 breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - sidebar
+  - ai-assistant
+  - contextual-help
+  - type-concept
 ---
 
 # Sidebar and Microsoft Teams

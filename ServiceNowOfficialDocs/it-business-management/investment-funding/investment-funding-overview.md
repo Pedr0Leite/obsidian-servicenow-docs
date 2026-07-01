@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [Investment funding, Investments, Funds, Top-down funding, Bottom-up funding, Funding process]
 breadcrumb: [Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - investment
+  - funding
+  - portfolio
+  - itbm
+  - type-concept
 ---
 
 # Investment Funding

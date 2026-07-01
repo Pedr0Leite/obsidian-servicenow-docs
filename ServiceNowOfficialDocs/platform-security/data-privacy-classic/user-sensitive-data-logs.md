@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Real time protection, Data privacy, Data Privacy, Platform Privacy]
+tags:
+  - platform-security
+  - data-privacy
+  - consent
+  - gdpr
+  - classic
+  - type-task
 ---
 
 # User sensitive data logs

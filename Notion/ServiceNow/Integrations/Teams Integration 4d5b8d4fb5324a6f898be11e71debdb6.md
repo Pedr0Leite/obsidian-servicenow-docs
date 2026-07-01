@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Teams Integration"
+area: "Integrations"
+source: notion-export
 tags:
   - teams-integration
   - integrations

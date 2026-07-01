@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-30"
 reading_time_minutes: 2
 breadcrumb: [Mobile experience for GRC Risk Management, Use, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Reassign overdue Risk Management assessments with the GRC Mobile application

@@ -11,6 +11,13 @@ last_updated: "2026-02-04"
 reading_time_minutes: 1
 keywords: [Generative AI, generative AI for Customer Service Management, generative AI for customer service agents]
 breadcrumb: [Automated quality assurance, Activate Now Assist Skills, Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-task
 ---
 
 # Edit Automated quality assurance skill

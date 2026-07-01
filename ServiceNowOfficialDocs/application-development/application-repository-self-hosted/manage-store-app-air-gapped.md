@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [ServiceNow application repository, Application sharing, Administer your apps, Deploying applications, Building applications]
+tags:
+  - application-development
+  - repository
+  - self-hosted
+  - app-management
+  - versioning
+  - type-concept
 ---
 
 # Application Repository for self-hosted, air-gapped customers

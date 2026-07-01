@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Verify Impact data connection

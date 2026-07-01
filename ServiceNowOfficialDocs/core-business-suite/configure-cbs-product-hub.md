@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [CBS on Product Hub, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-task
 ---
 
 # Configure CBS on Product Hub

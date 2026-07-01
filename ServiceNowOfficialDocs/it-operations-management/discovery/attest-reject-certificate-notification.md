@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "0256-02-22"
 reading_time_minutes: 1
 breadcrumb: [Certificate attestation for certificate owners, Certificate Inventory and Management, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - discovery
+  - cmdb
+  - patterns
+  - ci
+  - type-task
 ---
 
 # Attest or Reject Certificate Ownership by Email

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Use agent calendar, Agent calendar, Schedules and sites, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Add an event to the agent calendar

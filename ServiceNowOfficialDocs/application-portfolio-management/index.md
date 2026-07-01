@@ -4,6 +4,12 @@ locale: en-US
 release: australia
 bundle: appportman
 doc_type: toc
+tags:
+  - application-portfolio-management
+  - apm
+  - portfolio
+  - rationalization
+  - lifecycle
 ---
 
 # Australia Enterprise Architecture

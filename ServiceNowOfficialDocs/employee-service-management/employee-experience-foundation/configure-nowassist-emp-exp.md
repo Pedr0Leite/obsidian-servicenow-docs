@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [NowAssist for Employee Exmperience, Configure NowAssist for Employee Exmperience]
 breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure Now Assist for Employee Experience

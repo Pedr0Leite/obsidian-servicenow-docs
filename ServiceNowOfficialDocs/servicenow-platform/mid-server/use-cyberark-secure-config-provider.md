@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 1
 breadcrumb: [MID Server configuration file security, Securing and encrypting MID Server data, MID Server, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - mid-server
+  - on-premise
+  - proxy
+  - connectivity
+  - type-task
 ---
 
 # Use CyberArk as a secure configuration provider

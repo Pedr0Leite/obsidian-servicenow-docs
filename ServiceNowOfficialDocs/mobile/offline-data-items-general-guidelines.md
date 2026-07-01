@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-01"
 reading_time_minutes: 1
 breadcrumb: [Configure data items, Supported screens, Align apps, screens, and functions, Offline mode setup options, Offline mode, Before implementation, Configuration detail, Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # General guidelines for working with data items in offline mode

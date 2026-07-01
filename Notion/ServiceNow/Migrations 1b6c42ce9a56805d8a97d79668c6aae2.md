@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Migrations"
+area: "Vault Root"
+source: notion-export
 tags:
   - migrations
   - update-sets

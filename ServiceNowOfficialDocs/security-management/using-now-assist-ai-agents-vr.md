@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 3
 keywords: [AI agents, agentic AI]
 breadcrumb: [Now Assist in Unified Security Exposure Management, Explore, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Using agentic workflows

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "EVAM"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - evam
@@ -16,6 +18,9 @@ tags:
 [EVAM View Template - JSON Configuration](EVAM/EVAM%20View%20Template%20-%20JSON%20Configuration%201c0c42ce9a5680c6b69ec43ab7bf4117.md)
 
 ## Related
+- [[EVAM Navigation – Untitled]]
+- [[Sharepoint integration]]
+- [[Search Sources]]
 
 - [[ServiceNow – Service Portal]]
 - [[Changing the AI Search navigation on Employee Cent]]

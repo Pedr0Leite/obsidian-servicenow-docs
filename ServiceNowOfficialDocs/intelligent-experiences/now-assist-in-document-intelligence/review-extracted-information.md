@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, Gen AI, Generative AI, Document Intelligence, Extract information from documents]
 breadcrumb: [Use, Now Assist in Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - document-intelligence
+  - ai
+  - type-task
 ---
 
 # Review extracted information in the Document Intelligence workspace

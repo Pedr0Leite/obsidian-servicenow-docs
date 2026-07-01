@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-04-27"
 reading_time_minutes: 3
 breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # External ID support in Sales CRM Pricing API

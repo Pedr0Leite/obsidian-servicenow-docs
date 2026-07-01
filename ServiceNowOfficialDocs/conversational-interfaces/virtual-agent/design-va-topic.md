@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 13
 keywords: [Virtual Agent, designer, design, topic, control, node, Now Assist, NLU, LLM, conversation]
 breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-concept
 ---
 
 # Designing a Virtual Agent topic

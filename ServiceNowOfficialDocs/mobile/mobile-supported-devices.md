@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-26"
 reading_time_minutes: 2
 breadcrumb: [Configuring the Mobile Platform, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-reference
 ---
 
 # Tested devices and supported versions for ServiceNow mobile apps

@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: itsm
 doc_type: toc
+tags:
+  - it-service-management
 ---
 
 # Australia IT Service Management

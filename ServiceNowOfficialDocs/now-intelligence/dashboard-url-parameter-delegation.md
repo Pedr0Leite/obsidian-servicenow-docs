@@ -9,6 +9,9 @@ last_updated: "2026-03-31"
 reading_time_minutes: 4
 keywords: [dashboard, URL parameters, UIB, delegation, dashboard, URL parameters, UIB, configuration]
 breadcrumb: [Creating Platform Analytics pages, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-concept
 ---
 
 # Dashboard URL parameter delegation

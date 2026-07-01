@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 3
 keywords: [CI relationships, Rel CI, Knowledge Graph, CMDB, configuration items, CI relationship]
 breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-concept
 ---
 
 # Configuration item relationships and Knowledge Graph

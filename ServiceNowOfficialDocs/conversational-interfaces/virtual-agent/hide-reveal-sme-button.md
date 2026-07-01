@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 2
 keywords: [Show me everything button, Virtual Agent, LLM, Large Language Model, Now Assist, greeting Setup topic, Asset]
 breadcrumb: [Working with setup topics, Customizing a chat experience, Configure, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Hide or reveal the Show me everything button

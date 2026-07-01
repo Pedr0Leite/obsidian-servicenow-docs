@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Duplicate, copy, publish, Virtual Agent, Lite, topic, ITSM, IT Service Management]
 breadcrumb: [Virtual Agent Lite, Explore, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Duplicate and publish Virtual Agent Lite topics

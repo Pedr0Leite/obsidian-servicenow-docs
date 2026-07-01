@@ -11,6 +11,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Live Agent, chat, context, variables, Virtual Agent, Interaction, Connect Support]
 breadcrumb: [Configure variables that store chat information, General chat settings, Configuring Conversational Interfaces, Conversational Interfaces Console, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - type-reference
 ---
 
 # Live agent chat context variables

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-08-08"
 reading_time_minutes: 1
 breadcrumb: [Reference, MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Model Context Protocol Server Console tools

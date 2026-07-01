@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use Microsoft Outlook with CSM, Schedules and sites, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Create a new case from an email message in Microsoft Outlook

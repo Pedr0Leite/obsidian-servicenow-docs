@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Planning your application, Building applications]
+tags:
+  - application-development
+  - intake
+  - request-management
+  - triage
+  - type-task
 ---
 
 # Submit your idea for app development

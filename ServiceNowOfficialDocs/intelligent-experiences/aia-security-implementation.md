@@ -9,6 +9,9 @@ last_updated: "2025-09-11"
 reading_time_minutes: 4
 keywords: [agentic AI Security, ACLs in AI agents]
 breadcrumb: [Explore, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Implement access control in Now Assist AI agents

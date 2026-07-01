@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Request Management Platform Analytics Solutions, Request Management in a Service Management application, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-concept
 ---
 
 # Open Requested Item Age Monitor dashboard

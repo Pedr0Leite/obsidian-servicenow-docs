@@ -11,6 +11,13 @@ last_updated: "2026-04-28"
 reading_time_minutes: 4
 keywords: [Azure Key Vault Key, Azure Key Vault Key discovery, Azure patterns, Key Vault pattern]
 breadcrumb: [Microsoft Azure discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # Azure Key Vault Key pattern-based discovery

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-11-24"
 reading_time_minutes: 1
 breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI Control Tower, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - ai-control-tower
+  - governance
+  - llm
+  - monitoring
+  - type-task
 ---
 
 # Set up the AI Gateway and Client registration

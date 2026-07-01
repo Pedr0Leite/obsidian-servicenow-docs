@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-01"
 reading_time_minutes: 1
 breadcrumb: [Use, CMDB Coverage, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Set up or review IPAM connectors

@@ -11,6 +11,13 @@ last_updated: "2026-06-01"
 reading_time_minutes: 3
 keywords: [embedded assessments, UI Builder, compact mode]
 breadcrumb: [Embedded assessments, Use template designer, Manage, Smart Assessment Engine, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - assessment
+  - questionnaire
+  - grc
+  - engine
+  - type-task
 ---
 
 # Embed an assessment in a record page

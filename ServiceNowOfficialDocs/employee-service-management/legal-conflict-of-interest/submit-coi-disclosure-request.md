@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-19"
 reading_time_minutes: 2
 breadcrumb: [Use, Legal Conflict of Interest, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - conflict-of-interest
+  - compliance
+  - disclosure
+  - type-task
 ---
 
 # Submit COI request form Employee Center

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Using Business Location 360, Manage cases, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Access Business Location 360 as a location service agent

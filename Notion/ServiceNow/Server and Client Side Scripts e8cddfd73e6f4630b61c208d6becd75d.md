@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Server and Client Side Scripts"
+area: "Vault Root"
+source: notion-export
 tags:
   - script-include
   - client-script
@@ -65,6 +67,7 @@ ga.getXML(function() {
 [The Secrets of GlideDateTime](Server%20and%20Client%20Side%20Scripts/The%20Secrets%20of%20GlideDateTime%20357c42ce9a5680cfa38af0eb8bda8159.md)
 
 ## Related
+- [[Calculate Distance Between Two Locations in Servic]]
 
 - [[Script include Advance structure - Inheritance]]
 - [[CMDB - Change Parent Table]]

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [GCP Load Balancer, Google Cloud Platform Load Balancer, GCP discovery, GCP patterns, HTTP load balancer, HTTPS load balancer, TCP load balancer, UDP load balancer]
 breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - patterns
+  - discovery
+  - service-mapping
+  - ci
+  - type-reference
 ---
 
 # GCP Load Balancer pattern-based discovery

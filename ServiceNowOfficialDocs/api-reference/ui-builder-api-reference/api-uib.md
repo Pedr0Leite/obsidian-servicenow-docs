@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [API reference, API implementation and reference]
+tags:
+  - api-reference
+  - ui-builder
+  - components
+  - data-resources
+  - uib
+  - type-concept
 ---
 
 # UIB API reference

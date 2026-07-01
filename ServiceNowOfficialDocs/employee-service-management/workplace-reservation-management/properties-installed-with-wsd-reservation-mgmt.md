@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-12"
 reading_time_minutes: 6
 breadcrumb: [Reference, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-reference
 ---
 
 # Properties installed with Workplace Reservation Management

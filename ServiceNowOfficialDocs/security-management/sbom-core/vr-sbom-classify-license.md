@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Classifying licenses and resolving component licenses in the Software Bill of Materials workspace, Use, Software Bill of Materials, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - sbom
+  - bill-of-materials
+  - software
+  - security
+  - type-task
 ---
 
 # Classify imported licenses in the Software Bill of Materials Workspace

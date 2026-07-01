@@ -9,6 +9,9 @@ last_updated: "2026-06-03"
 reading_time_minutes: 2
 keywords: [buy app, servicenow store, store, app store, application store, app store user documentation, servicenow app store, buy app with credit card, purchase app]
 breadcrumb: [Getting apps, ServiceNow Store, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-task
 ---
 
 # Buy a partner application

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-29"
 reading_time_minutes: 2
 breadcrumb: [Microsites, Creating employee communications, Authoring and managing employee communications, Employee Center Pro, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Create rich content

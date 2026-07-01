@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-23"
 reading_time_minutes: 31
 breadcrumb: [Cloud resource discovery references, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Data collected for VMware Cloud Discovery

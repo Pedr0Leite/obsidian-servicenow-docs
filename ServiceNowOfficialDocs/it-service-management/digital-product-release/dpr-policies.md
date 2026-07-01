@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [PaCE content, PaCE policies, PaCE content policies, DevOps Config policies, DevOps Config policies, PaCE policies, DevOps Config Policy content pack]
 breadcrumb: [Digital Product Release Policy Content Pack, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-reference
 ---
 
 # Digital Product Release policies

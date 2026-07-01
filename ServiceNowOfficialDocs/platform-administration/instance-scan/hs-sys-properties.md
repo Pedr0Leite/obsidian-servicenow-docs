@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Instance Scan references, Instance Scan, Maintain and monitor, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - instance-scan
+  - health-check
+  - best-practices
+  - type-reference
 ---
 
 # Instance Scan properties

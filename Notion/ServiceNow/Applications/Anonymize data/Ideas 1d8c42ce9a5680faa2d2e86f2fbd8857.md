@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Ideas"
+area: "Applications"
+source: notion-export
 tags:
   - anonymize-data
   - pii

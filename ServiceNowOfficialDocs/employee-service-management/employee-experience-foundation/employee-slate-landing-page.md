@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-24"
 reading_time_minutes: 1
 breadcrumb: [Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-reference
 ---
 
 # Employee Slate

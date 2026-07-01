@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 1
 keywords: [Vault Suite, install vault, vault plugins]
 breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Install Vault Suite

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2025-01-30"
 reading_time_minutes: 3
 breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-reference
 ---
 
 # Theming for Now Assist in Virtual Agent enhanced chat

@@ -11,6 +11,12 @@ last_updated: "2026-03-31"
 reading_time_minutes: 2
 keywords: [product-level settings, release settings, configure product]
 breadcrumb: [Use, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-task
 ---
 
 # Configure product-level release settings

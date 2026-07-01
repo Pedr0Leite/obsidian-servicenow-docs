@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [how to opt-in for benchmark scores]
 breadcrumb: [Cybersecurity Executive Dashboard, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Opt-in for benchmark scores

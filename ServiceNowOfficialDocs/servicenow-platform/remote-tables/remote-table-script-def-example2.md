@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Create script definitions, Remote tables, Manage instance data sources, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - remote-tables
+  - external-data
+  - integration
+  - type-reference
 ---
 
 # Example 2: Retrieving specific records from a third-party source

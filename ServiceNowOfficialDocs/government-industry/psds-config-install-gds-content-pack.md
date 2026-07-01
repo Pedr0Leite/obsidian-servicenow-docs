@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-01"
 reading_time_minutes: 2
 breadcrumb: [GOV.UK Developer Toolkit, Set up self-service, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Install the GOV.UK Developer Toolkit

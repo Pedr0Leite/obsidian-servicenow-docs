@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to import a CSV file from a Mid Server"
+area: "Mid Server"
+source: notion-export
 tags:
   - mid-server
   - ecc-queue

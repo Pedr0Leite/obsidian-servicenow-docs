@@ -4,6 +4,11 @@ locale: en-US
 release: australia
 bundle: platform
 doc_type: toc
+tags:
+  - now-platform
+  - architecture
+  - concepts
+  - overview
 ---
 
 # Australia ServiceNow AI Platform

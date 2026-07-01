@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-07-31"
 reading_time_minutes: 1
 breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administration guide, Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operations Management]
+tags:
+  - it-operations-management
+  - cloud-config
+  - drift
+  - compliance
+  - itom
+  - type-concept
 ---
 
 # Day 2 operations using Workflow Studio subflow

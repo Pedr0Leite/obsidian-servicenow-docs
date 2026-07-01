@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, Guardian, Sensitive, topic, filters, Admin, GenAI, Generative AI]
 breadcrumb: [Now Assist Guardian, Agentic AI security and governance]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Configure sensitive topic filters

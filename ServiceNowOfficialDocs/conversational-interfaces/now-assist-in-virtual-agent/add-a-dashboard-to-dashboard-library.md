@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-02-17"
 reading_time_minutes: 1
 breadcrumb: [Related dashboards page, Analyzing assistants, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-task
 ---
 
 # Add a dashboard to dashboard library

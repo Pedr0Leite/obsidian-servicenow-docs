@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-09"
 reading_time_minutes: 2
 breadcrumb: [Set up advisor, Use HAM advisor, Asset and CI management, Explore, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-task
 ---
 
 # Get started with CMDB success advisor setup for HAM

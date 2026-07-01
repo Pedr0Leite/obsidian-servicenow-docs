@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Generative AI for IT Operations Management, Generative AI for ITOM, alert analysis, Now Assist panel]
 breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
+tags:
+  - it-operations-management
+  - now-assist
+  - ai
+  - itom
+  - generative
+  - type-task
 ---
 
 # Launch an alert analysis from the Now Assist panel

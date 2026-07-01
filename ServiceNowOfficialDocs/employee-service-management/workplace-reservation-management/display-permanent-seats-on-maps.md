@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-06"
 reading_time_minutes: 8
 breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - reservations
+  - rooms
+  - desks
+  - booking
+  - type-task
 ---
 
 # Display permanent seat assignments on floor maps

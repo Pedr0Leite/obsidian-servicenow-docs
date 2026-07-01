@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-04"
 reading_time_minutes: 1
 breadcrumb: [IT Service Management]
+tags:
+  - it-service-management
+  - coaching
+  - performance
+  - agents
+  - itsm
+  - type-reference
 ---
 
 # Coaching

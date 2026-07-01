@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [generative AI, chat skills]
 breadcrumb: [Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-reference
 ---
 
 # Generate or export dashboards and data visualizations in the Now Assist panel

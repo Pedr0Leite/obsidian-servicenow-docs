@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 13
 keywords: [Using, Now Assist, Virtual Agent, AI Search, enhanced chat, dynamic window, full-page experience, full page experience, standard chat, genius results, generative AI]
 breadcrumb: [Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-concept
 ---
 
 # Using Now Assist in Virtual Agent

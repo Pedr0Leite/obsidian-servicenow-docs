@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Updating Store Apps Sucks"
+area: "Install Stuff"
+source: notion-export
 tags:
   - store-apps
   - upgrade

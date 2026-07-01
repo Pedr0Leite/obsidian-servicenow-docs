@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-11-28"
 reading_time_minutes: 1
 breadcrumb: [Configure, Health and Safety Environmental Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-task
 ---
 
 # Migrate SDS from chemical safety register to chemical item

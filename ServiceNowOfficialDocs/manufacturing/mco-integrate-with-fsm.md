@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-04-22"
 reading_time_minutes: 1
 breadcrumb: [FSM integration, Integrate, Manufacturing Commercial Operations]
+tags:
+  - manufacturing
+  - industry
+  - solutions
+  - ot
+  - type-task
 ---
 
 # Integrate with Field Service Management

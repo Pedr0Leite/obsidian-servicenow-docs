@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-28"
 reading_time_minutes: 1
 breadcrumb: [Install Core Business Suite Foundation, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Core Business Suite Foundation default configurations

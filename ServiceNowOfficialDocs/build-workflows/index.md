@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: crworkflow
 doc_type: toc
+tags:
+  - build-workflows
 ---
 
 # Australia Build workflows

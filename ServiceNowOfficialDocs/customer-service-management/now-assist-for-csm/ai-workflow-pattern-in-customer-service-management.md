@@ -11,6 +11,13 @@ last_updated: "2026-02-06"
 reading_time_minutes: 4
 keywords: [Generative AI, generative AI for Customer Service Management, generative AI for customer service agents]
 breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
+tags:
+  - customer-service-management
+  - now-assist
+  - ai
+  - csm
+  - generative
+  - type-concept
 ---
 
 # In-product trigger for agentic AI in Customer Service Management

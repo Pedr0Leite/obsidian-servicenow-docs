@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Use, ITOM Mobile Agent, Service Reliability Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - reliability
+  - sre
+  - srm
+  - itom
+  - type-concept
 ---
 
 # Work with alerts in ITOM mobile

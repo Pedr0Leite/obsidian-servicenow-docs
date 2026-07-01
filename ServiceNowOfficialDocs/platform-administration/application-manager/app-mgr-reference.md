@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [reference]
 breadcrumb: [Application Manager, Administering applications, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - app-manager
+  - plugins
+  - activation
+  - governance
+  - type-concept
 ---
 
 # Application Manager reference

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Setup and administration, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # View upgraded processes or records in the global domain

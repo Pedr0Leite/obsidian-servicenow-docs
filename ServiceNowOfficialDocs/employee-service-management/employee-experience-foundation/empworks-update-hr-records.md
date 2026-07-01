@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 1
 keywords: [update HR records, change address, emergency contact, SAP SuccessFactors]
 breadcrumb: [Working with Moveworks capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Update personal records with the AI assistant

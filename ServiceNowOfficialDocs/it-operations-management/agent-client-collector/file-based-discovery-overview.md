@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 3
 keywords: [file-based discovery, FBD, agent client collector, software discovery, file inventory]
 breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-concept
 ---
 
 # Agent Client Collector File-Based Discovery

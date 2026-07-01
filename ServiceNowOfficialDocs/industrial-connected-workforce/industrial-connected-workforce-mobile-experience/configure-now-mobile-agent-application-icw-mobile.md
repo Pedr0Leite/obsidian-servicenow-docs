@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Set up the Industrial Connected Workforce Mobile Agent, Configure, Industrial Connected Workforce Mobile Experience, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - mobile
+  - factory
+  - workers
+  - industrial
+  - type-task
 ---
 
 # Configure the Now Mobile Agent application

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Submit, Health and Safety Incident Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - incidents
+  - investigation
+  - reporting
+  - ehs
+  - type-task
 ---
 
 # Create a safety incident or observation as a safety agent or supervisor

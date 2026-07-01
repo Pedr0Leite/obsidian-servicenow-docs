@@ -11,6 +11,13 @@ last_updated: "2026-05-14"
 reading_time_minutes: 3
 keywords: [EU AI Act, EU Artificial Intelligence Act, content accelerator, activate framework, citations]
 breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - ai-risk
+  - governance
+  - grc
+  - model-risk
+  - type-task
 ---
 
 # Activate or update EU Artificial Intelligence Act

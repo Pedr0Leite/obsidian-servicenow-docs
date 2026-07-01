@@ -11,6 +11,13 @@ last_updated: "2025-07-04"
 reading_time_minutes: 1
 keywords: [create skill, create conversational skill]
 breadcrumb: [Build subflows, Flows, subflows, and actions, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Create conversational subflow skill

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Legacy IBM PVU Process Pack, Legacy Software Asset Management plugin, ITSM Software Asset Management, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - sam
+  - software
+  - itsm
+  - licenses
+  - type-task
 ---
 
 # Validate legacy IBM PVU Process Pack requirements for associating software installations with PVU mappings

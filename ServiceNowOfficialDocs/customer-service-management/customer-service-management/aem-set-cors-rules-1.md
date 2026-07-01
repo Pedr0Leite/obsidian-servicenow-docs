@@ -6,6 +6,13 @@ release: australia
 topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
+tags:
+  - customer-service-management
+  - csm
+  - cases
+  - accounts
+  - agents
+  - type-task
 ---
 
 # Define a cross-origin resource sharing rule \(CORS\) to access ServiceNow API endpoints from AEM

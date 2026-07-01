@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Limitations, Email project summary skill limitations, Column restriction, Date selection criteria]
 breadcrumb: [Reference, Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-reference
 ---
 
 # Additional information on Project insights generation skill

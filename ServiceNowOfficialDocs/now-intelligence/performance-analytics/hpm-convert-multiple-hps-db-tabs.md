@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 1
 breadcrumb: [Convert homepages to individual dashboards, Homepage deprecation, Administering dashboards, Responsive dashboards in the Core UI, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - pa
+  - scorecards
+  - indicators
+  - analytics
+  - type-task
 ---
 
 # Convert homepages to dashboard tabs

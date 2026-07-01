@@ -11,6 +11,13 @@ last_updated: "2026-06-01"
 reading_time_minutes: 2
 keywords: [Now Assist, application, translation, dynamic, language]
 breadcrumb: [Localization options for Virtual Agent, Build and deploy, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Configure multilingual service for Now Assist applications

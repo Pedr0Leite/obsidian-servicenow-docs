@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [foundation data sync, FDS subscription, accept subscription, provider inbound, activate sync]
 breadcrumb: [Configure inbound FDS as providers, Configure for providers, Service Exchange for Providers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-task
 ---
 
 # Accept a foundation data sync subscription as a provider

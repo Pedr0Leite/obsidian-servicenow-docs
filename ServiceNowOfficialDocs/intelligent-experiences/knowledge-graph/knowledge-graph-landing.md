@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Knowledge Graphs, Llama 3.1, schemas, generative AI, Gen AI]
 breadcrumb: [Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-reference
 ---
 
 # Knowledge Graph

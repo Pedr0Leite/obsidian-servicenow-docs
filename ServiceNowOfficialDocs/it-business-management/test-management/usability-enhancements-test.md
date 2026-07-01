@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Appendix — Test Management 2.0, Migration from Test Management 1.0 to Test Management 2.0, Test Management applications, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - test-management
+  - qa
+  - defects
+  - itbm
+  - type-reference
 ---
 
 # Usability enhancements in Test Management 2.0

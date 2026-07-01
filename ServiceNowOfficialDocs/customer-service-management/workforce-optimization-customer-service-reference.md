@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-18"
 reading_time_minutes: 1
 breadcrumb: [Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Workforce Optimization for Customer Service reference

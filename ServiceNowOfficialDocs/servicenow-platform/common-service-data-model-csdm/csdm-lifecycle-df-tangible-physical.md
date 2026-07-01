@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Tangible/physical life cycle, Reference, CSDM, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - csdm
+  - business-services
+  - technical-services
+  - cmdb
+  - type-reference
 ---
 
 # Definitions of life-cycle values for tangible/physical CIs

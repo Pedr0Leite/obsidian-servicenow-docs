@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 5
 keywords: [Risk score calculation for a release, Risk score formula for a release, Risk score for a release, Risk score for a timeline-oriented release, Risk score for a stage-oriented release, risk score timeline release, timeline-oriented risk score, release risk calculation, risk score stage release, stage-oriented risk score, release risk calculation, risk score readiness]
 breadcrumb: [Reference, Digital Product Release, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - digital-product
+  - itsm
+  - type-concept
 ---
 
 # Risk score for a release

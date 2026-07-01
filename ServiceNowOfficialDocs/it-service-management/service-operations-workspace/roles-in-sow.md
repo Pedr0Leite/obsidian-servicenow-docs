@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2025-01-30"
 reading_time_minutes: 3
 breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configuring Service Operations Workspace for ITSM, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-reference
 ---
 
 # Roles in Service Operations Workspace for ITSM

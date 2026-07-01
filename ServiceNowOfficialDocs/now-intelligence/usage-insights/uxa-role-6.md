@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Roles installed with Usage Insights, Usage Insights reference, Usage Insights, Platform Analytics]
+tags:
+  - now-intelligence
+  - usage
+  - adoption
+  - insights
+  - analytics
+  - type-reference
 ---
 
 # Web analytics viewer \[web\_analytics\_viewer\]

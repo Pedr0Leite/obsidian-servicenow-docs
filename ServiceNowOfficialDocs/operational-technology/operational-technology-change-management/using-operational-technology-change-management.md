@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Operational Technology Change Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - change-management
+  - ics
+  - scada
+  - type-concept
 ---
 
 # Using Operational Technology Change Management

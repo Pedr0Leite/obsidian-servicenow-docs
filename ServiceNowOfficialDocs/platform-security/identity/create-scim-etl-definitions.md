@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [SCIM customization, SCIM Provider, System for Cross-domain Identity Management \(SCIM\), Identity]
+tags:
+  - platform-security
+  - identity
+  - idp
+  - federation
+  - sso
+  - type-task
 ---
 
 # Create a SCIM ETL definition

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Operational Technology Incident Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - incidents
+  - ics
+  - response
+  - type-concept
 ---
 
 # Exploring Operational Technology Incident Management

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Test Board in Test Management 2.0, Testing using Test Management 2.0, Test Management 2.0, Test Management applications, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - test-management
+  - qa
+  - defects
+  - itbm
+  - type-task
 ---
 
 # Define a custom column in the Planning tab of Test Board in Test Management 2.0

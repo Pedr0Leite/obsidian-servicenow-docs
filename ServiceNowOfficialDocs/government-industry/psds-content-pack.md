@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Analytics and reporting for public sector digital services, PSDS Analytics and reporting]
 breadcrumb: [Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Analytics and Reporting Solutions for Public Sector Digital Services

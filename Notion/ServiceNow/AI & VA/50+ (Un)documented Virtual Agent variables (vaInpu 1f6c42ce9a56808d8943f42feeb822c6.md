@@ -1,6 +1,8 @@
 ---
 aliases:
   - "50+ (Un)documented Virtual Agent variables (vaInpu"
+area: "AI & VA"
+source: notion-export
 tags:
   - virtual-agent
   - vaInputs

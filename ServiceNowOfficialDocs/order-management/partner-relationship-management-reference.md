@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 2
 breadcrumb: [Reference, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-reference
 ---
 
 # Partner Relationship Management reference

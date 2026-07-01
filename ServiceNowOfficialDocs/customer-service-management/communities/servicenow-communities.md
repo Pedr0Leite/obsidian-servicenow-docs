@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Customer Service Management]
+tags:
+  - customer-service-management
+  - communities
+  - portal
+  - self-service
+  - forums
+  - type-reference
 ---
 
 # Communities

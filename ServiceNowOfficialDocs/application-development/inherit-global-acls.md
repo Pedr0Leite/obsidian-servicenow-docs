@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Access control rules in application administration apps, Application administration, Contextual development environment, Learning about developing on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - type-task
 ---
 
 # Configure a table in an application administration app to inherit global ACL rules

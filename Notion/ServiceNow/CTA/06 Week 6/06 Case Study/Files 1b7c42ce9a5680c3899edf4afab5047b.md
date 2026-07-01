@@ -1,6 +1,8 @@
 ---
 aliases:
   - "06 Case Study – Files"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - encryption
@@ -36,6 +38,9 @@ tags:
 [wp-data-encryption-with-servicenow.pdf](Files/wp-data-encryption-with-servicenow.pdf)
 
 ## Related
+- [[06 Case Study – For PPT]]
+- [[Introducing Sovereign Bank]]
+- [[Text for slides]]
 
 - [[06 Case Study]]
 - [[06 Week 6]]

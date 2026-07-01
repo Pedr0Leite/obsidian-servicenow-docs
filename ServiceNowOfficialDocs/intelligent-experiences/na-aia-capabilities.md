@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-02-08"
 reading_time_minutes: 2
 breadcrumb: [AI agents best practices, Explore, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-reference
 ---
 
 # Now Assist AI agents capabilities

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "11 Week 11 – For PPT"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - week-11
@@ -134,6 +136,9 @@ Use **Automated Test Framework (ATF)** and integrate testing into **Agile Develo
 **With these steps, Sovereign Bank can confidently move to production with reduced risk and improved business engagement.**
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Meet the team at Sovereign Bank]]
 - [[11 Week 11]]
 - [[11 Week 11 – Files]]
 - [[Other relevant information]]

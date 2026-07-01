@@ -9,6 +9,12 @@ last_updated: "2026-06-05"
 reading_time_minutes: 1
 keywords: [Employee Slate, Now Assist, configuration, Configuration Summary, conversational assistant, data sources, Core Business Suite]
 breadcrumb: [Employee Slate configuration, Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-task
 ---
 
 # Configure Employee Slate for Now Assist

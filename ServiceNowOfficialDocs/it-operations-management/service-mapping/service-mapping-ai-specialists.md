@@ -11,6 +11,13 @@ last_updated: "2026-04-16"
 reading_time_minutes: 6
 keywords: [AI Agent, Service Mapping, agentic AI, service map, CMDB, Business App Mapping, ML candidate]
 breadcrumb: [AI capabilities in Service Mapping, Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-concept
 ---
 
 # AI Agents for Service Mapping

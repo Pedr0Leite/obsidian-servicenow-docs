@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-29"
 reading_time_minutes: 3
 breadcrumb: [Explore, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-concept
 ---
 
 # Integrated development tools for ServiceNow Studio

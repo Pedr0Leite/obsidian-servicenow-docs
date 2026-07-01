@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-17"
 reading_time_minutes: 5
 breadcrumb: [Tagging in Knowledge Graph Designer, Using Enterprise graph schema, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-concept
 ---
 
 # Improving Natural Language Queries with Tag configuration

@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 2
 keywords: [Moveworks chatbot, Moveworks Setup, trusted issuer, chatbot configuration]
 breadcrumb: [Employee Slate for Moveworks, Configuration flow, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Configure the Moveworks chatbot for Employee Slate

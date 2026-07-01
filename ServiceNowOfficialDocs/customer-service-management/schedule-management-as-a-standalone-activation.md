@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-09"
 reading_time_minutes: 1
 breadcrumb: [Schedule Management in CSM Configurable Workspace Workforce Optimization for Customer Service, Optimize workforce operations, Extend capabilities, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Schedule Management standalone activation

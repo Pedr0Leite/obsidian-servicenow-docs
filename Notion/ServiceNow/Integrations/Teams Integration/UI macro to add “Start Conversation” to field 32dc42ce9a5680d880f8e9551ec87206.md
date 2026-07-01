@@ -1,6 +1,8 @@
 ---
 aliases:
   - "UI macro to add “Start Conversation” to field"
+area: "Integrations"
+source: notion-export
 tags:
   - teams-integration
   - ui-macro
@@ -52,6 +54,8 @@ w.open(url);
 - [ ]  Add the UI macro to the attributes of the requested field
 
 ## Related
+- [[Integrate your self-configured bot with single Mic]]
+- [[ServiceNow – Integrations]]
 
 - [[Teams Integration]]
 - [[Creating Custom MS Teams Cards]]

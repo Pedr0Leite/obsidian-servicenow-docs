@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [AI agents in CM Pro, AI agents in contracts, AI agents in contract management pro, agentic workflows in contract management pro, agentic workflows in contracts, agentic workflows in CM Pro]
 breadcrumb: [Now Assist in CM Pro, Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Using agentic workflows in Now Assist in Contract Management

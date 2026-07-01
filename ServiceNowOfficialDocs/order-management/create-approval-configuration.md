@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-20"
 reading_time_minutes: 1
 breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create an approval configuration

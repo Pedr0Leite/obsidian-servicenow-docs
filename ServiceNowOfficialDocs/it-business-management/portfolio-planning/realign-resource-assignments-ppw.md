@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-04-27"
 reading_time_minutes: 1
 breadcrumb: [Create and manage resource assignments, Manage demands, Next Experience for Demand Management in Portfolio Planning, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-task
 ---
 
 # Realign resource assignments for demands

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-18"
 reading_time_minutes: 1
 breadcrumb: [Grants Management Proposal Playbook, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Screen a grant proposal application in the Grants Management Grants Proposal Playbook

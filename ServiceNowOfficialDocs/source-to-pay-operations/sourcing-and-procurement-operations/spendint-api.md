@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [SpendInt API, inbound REST API, procurement integration, Source-to-Pay Integration Framework, catalog ingestion, price updates, order acknowledgements, shipment updates, invoice ingestion, sn\_spend\_intg]
 breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # SpendInt APIs

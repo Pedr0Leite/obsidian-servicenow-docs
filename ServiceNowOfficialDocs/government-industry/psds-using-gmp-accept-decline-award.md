@@ -9,6 +9,9 @@ last_updated: "2025-07-31"
 reading_time_minutes: 1
 keywords: [Accept a grant award, Decline a grant award, Accept an award, Decline an award]
 breadcrumb: [Grants Management Portal, Portals, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Accept or decline a grant award

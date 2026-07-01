@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 4
 keywords: [Now Assist, AI Agents, generative AI, agentic AI]
 breadcrumb: [GitHub Enterprise Cloud external content connector, Configure, External Content Connectors, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search
+  - index
+  - administration
+  - solr
+  - type-task
 ---
 
 # Configure crawl settings for a GitHub Enterprise Cloud external content connector

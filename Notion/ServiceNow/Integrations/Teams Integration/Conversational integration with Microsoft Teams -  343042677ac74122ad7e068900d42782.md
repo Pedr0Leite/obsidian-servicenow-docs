@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Conversational integration with Microsoft Teams -"
+area: "Integrations"
+source: notion-export
 tags:
   - teams-integration
   - virtual-agent
@@ -529,6 +531,9 @@ condition that requires the interaction to come from ‘sp’.
 [KB repository on Microsoft Teams (KB0998903)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998903)
 
 ## Related
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
+- [[ServiceNow – Integrations]]
+- [[SAML Errors and Fixes (Multiple Provider SSO)]]
 
 - [[Teams Integration]]
 - [[Integrate your self-configured bot with single Mic]]

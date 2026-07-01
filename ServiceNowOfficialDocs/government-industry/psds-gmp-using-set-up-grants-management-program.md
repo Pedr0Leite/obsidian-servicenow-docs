@@ -9,6 +9,9 @@ last_updated: "2025-07-31"
 reading_time_minutes: 1
 keywords: [Create a grant program, How to set up a grant program]
 breadcrumb: [Set up a grant program, Grants Management Program Setup, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Create a grant program using Grants Management program setup for Public Sector Digital Services

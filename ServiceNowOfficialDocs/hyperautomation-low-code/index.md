@@ -4,6 +4,12 @@ locale: en-US
 release: australia
 bundle: creator
 doc_type: toc
+tags:
+  - hyperautomation-low-code
+  - hyperautomation
+  - low-code
+  - automation
+  - platform
 ---
 
 # Australia App development and low-code

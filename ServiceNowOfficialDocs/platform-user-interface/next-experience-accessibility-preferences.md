@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [accessibility preferences, next experience accessibility]
 breadcrumb: [Preferences, Use, Next Experience UI, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - type-task
 ---
 
 # Configure Next Experience accessibility preferences

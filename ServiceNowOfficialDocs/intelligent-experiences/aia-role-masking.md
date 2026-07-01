@@ -9,6 +9,9 @@ last_updated: "2025-11-04"
 reading_time_minutes: 3
 keywords: [Agent Role Masking, Agent Security]
 breadcrumb: [Security for AI agents, Explore, Now Assist AI agents, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Role masking in Now Assist AI agents

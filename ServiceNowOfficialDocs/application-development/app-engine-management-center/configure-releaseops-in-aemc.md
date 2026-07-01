@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-28"
 reading_time_minutes: 1
 breadcrumb: [Configure, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-task
 ---
 
 # Configure ReleaseOps in AEMC

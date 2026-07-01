@@ -11,6 +11,13 @@ last_updated: "2026-05-26"
 reading_time_minutes: 2
 keywords: [agent onboarding, installation plan, agent configuration]
 breadcrumb: [Use the Agent Client Collector \(ACC\) admin workspace, Use ITOM Infra Services Workspace, ITOM Infra Services Workspace, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-task
 ---
 
 # Generate an Agent Client Collector installation plan

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-08"
 reading_time_minutes: 1
 breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Field Service Management]
+tags:
+  - field-service-management
+  - type-task
 ---
 
 # Configure popover fields

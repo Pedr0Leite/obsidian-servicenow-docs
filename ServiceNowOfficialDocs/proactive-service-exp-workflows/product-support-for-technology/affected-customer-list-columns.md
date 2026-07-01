@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-30"
 reading_time_minutes: 1
 breadcrumb: [Reference, Proactive Service Experience Workflows, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-reference
 ---
 
 # Affected customers list columns

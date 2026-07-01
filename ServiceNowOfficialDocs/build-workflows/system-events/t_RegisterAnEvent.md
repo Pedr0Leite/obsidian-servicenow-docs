@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing system events, System Events, Build workflows]
+tags:
+  - build-workflows
+  - system-events
+  - event-queue
+  - scripting
+  - triggers
+  - type-task
 ---
 
 # Register an event

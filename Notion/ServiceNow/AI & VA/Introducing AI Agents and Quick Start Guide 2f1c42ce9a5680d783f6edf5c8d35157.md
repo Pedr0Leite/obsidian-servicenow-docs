@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Introducing AI Agents and Quick Start Guide"
+area: "AI & VA"
+source: notion-export
 tags:
   - ai-agents
   - ai-agent-studio
@@ -68,6 +70,9 @@ See our AI Academy on AI Agents:
 [https://youtu.be/6CMo3I8uDXE](https://youtu.be/6CMo3I8uDXE)
 
 ## Related
+- [[AI Agent tools – Getting the most out of your agen]]
+- [[Links to check later]]
+- [[AI & VA]]
 
 - [[Agentic Workflow & AI Agents]]
 - [[Get Familiar with Agentic Workflows & AI Agent]]

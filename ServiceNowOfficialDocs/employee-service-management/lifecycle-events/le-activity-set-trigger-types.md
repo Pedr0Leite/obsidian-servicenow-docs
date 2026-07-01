@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure a Lifecycle Events trigger for activity sets, Lifecycle Events evaluation interval, Configure a lifecycle event, Building a lifecycle event, Using Lifecycle Events, Lifecycle Events, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - lifecycle-events
+  - onboarding
+  - offboarding
+  - transitions
+  - type-reference
 ---
 
 # Lifecycle Events activity set trigger types

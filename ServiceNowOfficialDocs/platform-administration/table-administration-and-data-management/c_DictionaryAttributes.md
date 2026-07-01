@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-30"
 reading_time_minutes: 27
 breadcrumb: [Managing tables and indexes, Table admin, Tables and data, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - tables
+  - schema
+  - data-management
+  - archiving
+  - type-concept
 ---
 
 # Altering tables and fields using dictionary attributes

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [HealthScan, Impact Delivery Instance reference, Impact reference, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Diagnose with tech KPIs

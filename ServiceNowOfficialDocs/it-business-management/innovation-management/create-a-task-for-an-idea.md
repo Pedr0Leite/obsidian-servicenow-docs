@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing ideas using Innovation Management, Innovation Management, Project Portfolio Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - innovation
+  - ideas
+  - evaluation
+  - itbm
+  - type-task
 ---
 
 # Create a task for an idea

@@ -11,6 +11,13 @@ last_updated: "2026-04-27"
 reading_time_minutes: 2
 keywords: [role-based productivity, productivity tiers, specialized assistants, role-based canvas, manager productivity]
 breadcrumb: [Employee Slate introduction, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Key user roles and personas

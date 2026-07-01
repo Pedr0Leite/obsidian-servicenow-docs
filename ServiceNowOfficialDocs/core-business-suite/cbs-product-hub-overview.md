@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-08"
 reading_time_minutes: 1
 breadcrumb: [Configure, Core Business Suite]
+tags:
+  - core-business-suite
+  - suite
+  - bundled
+  - activation
+  - type-concept
 ---
 
 # Core Business Suite setup on Product Hub

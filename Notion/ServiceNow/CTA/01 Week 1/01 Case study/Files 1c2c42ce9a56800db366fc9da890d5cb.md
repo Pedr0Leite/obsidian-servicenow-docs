@@ -1,6 +1,8 @@
 ---
 aliases:
   - "01 Case study – Files"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -25,6 +27,9 @@ tags:
 [week 1 presentation.pptx](Files/week_1_presentation.pptx)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Meet the team at Sovereign Bank]]
 
 - [[01 Case study]]
 - [[01 Week 1]]

@@ -9,6 +9,12 @@ last_updated: "2026-06-08"
 reading_time_minutes: 2
 keywords: [ServiceNow CRM for Outlook, create lead, create contact, create and associate]
 breadcrumb: [Activity Management, Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Create a CRM record from Microsoft Outlook

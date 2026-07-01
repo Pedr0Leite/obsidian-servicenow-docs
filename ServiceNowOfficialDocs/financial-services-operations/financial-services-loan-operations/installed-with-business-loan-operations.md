@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Reference, Loan Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - loans
+  - servicing
+  - fso
+  - banking
+  - type-reference
 ---
 
 # Components installed with Financial Services Business Loan Operations

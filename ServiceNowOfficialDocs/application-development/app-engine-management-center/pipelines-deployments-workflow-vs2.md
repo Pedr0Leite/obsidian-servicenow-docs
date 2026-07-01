@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-07"
 reading_time_minutes: 4
 breadcrumb: [Deployment process, Explore, App Engine Management Center, Governing app development, Building applications]
+tags:
+  - application-development
+  - aemc
+  - app-engine
+  - governance
+  - deployment
+  - type-concept
 ---
 
 # Pipelines and Deployments workflow

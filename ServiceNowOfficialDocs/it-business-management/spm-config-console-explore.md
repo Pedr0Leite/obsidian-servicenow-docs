@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-25"
 reading_time_minutes: 2
 breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - type-concept
 ---
 
 # Exploring Setup Hub \(SPM\)

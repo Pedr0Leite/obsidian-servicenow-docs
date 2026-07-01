@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-20"
 reading_time_minutes: 1
 breadcrumb: [Dynamic Guidance, Adoption services, Configure user experiences]
+tags:
+  - platform-user-interface
+  - adoption
+  - onboarding
+  - guided-setup
+  - ui
+  - type-task
 ---
 
 # Configure

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Platform performance, Maintain and monitor, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - performance
+  - diagnostics
+  - tuning
+  - queries
+  - type-concept
 ---
 
 # Browser settings and performance

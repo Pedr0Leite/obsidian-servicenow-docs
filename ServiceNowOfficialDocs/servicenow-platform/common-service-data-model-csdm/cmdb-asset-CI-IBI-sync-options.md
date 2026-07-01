@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-05-11"
 reading_time_minutes: 5
 breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - csdm
+  - business-services
+  - technical-services
+  - cmdb
+  - type-reference
 ---
 
 # How life-cycle values for Asset, CI, and IBI are synchronized

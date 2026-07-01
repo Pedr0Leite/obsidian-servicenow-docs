@@ -11,6 +11,13 @@ last_updated: "2026-04-09"
 reading_time_minutes: 1
 keywords: [Now Assist, Otto, Service Mapping, AI]
 breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - service-mapping
+  - dependencies
+  - topology
+  - itom
+  - type-concept
 ---
 
 # AI capabilities in Service Mapping

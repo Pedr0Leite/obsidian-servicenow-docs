@@ -11,6 +11,13 @@ last_updated: "2026-04-13"
 reading_time_minutes: 4
 keywords: [procurement case types, procurement case management, PCM, sourcing and procurement operations, SPO]
 breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Procurement case types

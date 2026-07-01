@@ -11,6 +11,12 @@ last_updated: "2026-04-27"
 reading_time_minutes: 3
 keywords: [Optimization, Capability Design, Platform Health, User Stories, ServiceNow Adoption]
 breadcrumb: [Optimization Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Optimization Capability Design

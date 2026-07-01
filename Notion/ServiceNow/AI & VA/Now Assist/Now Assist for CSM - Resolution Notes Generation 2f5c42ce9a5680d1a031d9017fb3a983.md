@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Now Assist for CSM - Resolution Notes Generation"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - genai
@@ -116,6 +118,9 @@ Agents can use NACM (Now Assist Context Menu) to iterate and fine tune such as t
 No. The skill is designed to assist, not override. It provides a starting point to help agents document clearly and consistently, saving time while keeping their final approval.
 
 ## Related
+- [[GenAI]]
+- [[Now Assist in AI Search]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
 
 - [[Now Assist]]
 - [[Now Assist for ITSM Handling Customization Scenari]]

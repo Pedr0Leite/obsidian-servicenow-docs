@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Impact Value Management Data Collection for APM, Enable data collection for Value Management, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Activate Data Collection for APM

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "CMDB CSDM"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -229,6 +231,9 @@ ACME is the first customer that bought the credit check service from Suzi's cust
 ![image.png](CMDB%20CSDM/image%209.png)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Architectural Principles]]
+- [[02 Case study – Files]]
 - [[Study for AI questions]]
 - [[CSDM]]
 - [[CMDB and CSDM]]

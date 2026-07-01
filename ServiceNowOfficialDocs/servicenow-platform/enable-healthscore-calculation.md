@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 1
 keywords: [article health score, knowledge management properties, knowledge center properties, health score calculation]
 breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-task
 ---
 
 # Enable article health score calculation

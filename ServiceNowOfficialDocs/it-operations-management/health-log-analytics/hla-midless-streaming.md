@@ -11,6 +11,13 @@ last_updated: "2026-05-04"
 reading_time_minutes: 3
 keywords: [MID-less log streaming, configuration, ITOM Gateway, gRPC, Hermes Messaging Service, log source streaming, HLA infrastructure scaling, AI Engine, JWT provider token]
 breadcrumb: [MID-less integrations, Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-concept
 ---
 
 # MID-less log streaming via ITOM Gateway in Health Log Analytics

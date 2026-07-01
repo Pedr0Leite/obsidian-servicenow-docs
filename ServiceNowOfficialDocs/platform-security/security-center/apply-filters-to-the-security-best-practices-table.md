@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Security Best Practices, Security posture console, Security Center, Platform Security]
+tags:
+  - platform-security
+  - security-center
+  - posture
+  - compliance
+  - risks
+  - type-task
 ---
 
 # Filters the security best practices table

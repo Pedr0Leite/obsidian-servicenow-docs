@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2025-01-30"
 reading_time_minutes: 1
 breadcrumb: [Setting up Investigation Framework in Service Operations Workspace, Setting up integrations in Service Operations Workspace for ITSM, Configuring Service Operations Workspace for ITSM, Service Operations Workspace for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - sow
+  - workspace
+  - agents
+  - itsm
+  - type-concept
 ---
 
 # Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation

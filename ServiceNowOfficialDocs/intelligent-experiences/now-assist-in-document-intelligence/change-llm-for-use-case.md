@@ -11,6 +11,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Now Assist, Gen AI, Generative AI, Document Intelligence]
 breadcrumb: [Configure, Now Assist in Document Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - document-intelligence
+  - ai
+  - type-task
 ---
 
 # Change the language modelsfor a use case

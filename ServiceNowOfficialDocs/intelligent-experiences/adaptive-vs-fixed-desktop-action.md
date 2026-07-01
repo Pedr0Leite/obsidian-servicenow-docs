@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-27"
 reading_time_minutes: 3
 breadcrumb: [Explore, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # When to use adaptive vs. defined path desktop actions

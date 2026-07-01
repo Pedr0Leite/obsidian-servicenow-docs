@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-17"
 reading_time_minutes: 2
 breadcrumb: [Grants Management Program Setup, Grants Management, Solutions, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Set up a Grant Program in Grants Management

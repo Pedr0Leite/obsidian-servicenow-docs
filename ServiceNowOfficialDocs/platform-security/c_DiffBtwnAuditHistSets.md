@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-03"
 reading_time_minutes: 2
 breadcrumb: [Knowing about History sets, Auditing]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Differences Between Audit and History Sets

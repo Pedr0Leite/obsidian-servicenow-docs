@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Approval recommendations using generative AI, Use, Unified Security Exposure Management, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Generate approval recommendations with generative AI

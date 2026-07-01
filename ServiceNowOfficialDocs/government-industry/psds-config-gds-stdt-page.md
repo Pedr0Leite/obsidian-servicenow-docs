@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-01"
 reading_time_minutes: 2
 breadcrumb: [Configure pages, Configure UK GDS Service Portal, GOV.UK Developer Toolkit, Set up self-service, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Configure the Case Details \(standard ticket\) page for GOV.UK Developer Toolkit GDS Service Portal

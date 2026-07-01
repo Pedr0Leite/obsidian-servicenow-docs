@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Convert Mappedin data to Workplace Space Mapping data, Configure Mappedin, Configure, Workplace Space Mapping, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - type-task
 ---
 
 # Import a new building - Mappedin

@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Track In-store operations cases and tasks, Manage store plans, Retail]
+tags:
+  - retail-industry
+  - type-task
 ---
 
 # Track an In-store operations task created from a store plan

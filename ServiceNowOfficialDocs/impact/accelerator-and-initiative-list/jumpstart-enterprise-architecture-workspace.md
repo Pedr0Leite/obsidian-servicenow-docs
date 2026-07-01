@@ -11,6 +11,12 @@ last_updated: "2026-05-06"
 reading_time_minutes: 2
 keywords: [Enterprise Architecture, EA Workspace, Application Portfolio Management, CSDM, Digital Portfolio Management, Service Portfolio Management]
 breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # Jumpstart Your Enterprise Architecture Workspace

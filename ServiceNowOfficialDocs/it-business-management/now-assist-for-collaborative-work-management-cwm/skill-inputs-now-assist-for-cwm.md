@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for CWM, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - cwm
+  - generative
+  - type-reference
 ---
 
 # Skill inputs for Now Assist for Collaborative Work Management \(CWM\)

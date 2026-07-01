@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-23"
 reading_time_minutes: 2
 breadcrumb: [Explore, Workplace Case Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace
+  - cases
+  - facilities
+  - management
+  - type-concept
 ---
 
 # Workplace Services

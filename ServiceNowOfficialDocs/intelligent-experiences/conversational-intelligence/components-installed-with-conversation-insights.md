@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Conversation Insights reference, Conversation Insights, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - conversational-intelligence
+  - analytics
+  - coaching
+  - type-reference
 ---
 
 # Components installed with Conversation Insights

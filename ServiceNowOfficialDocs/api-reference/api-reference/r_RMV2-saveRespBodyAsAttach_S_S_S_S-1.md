@@ -6,6 +6,13 @@ release: australia
 topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
+tags:
+  - api-reference
+  - api
+  - reference
+  - platform
+  - scripting
+  - type-reference
 ---
 
 # RESTMessageV2 - saveResponseBodyAsAttachment\(String tableName, String recordSysId, String fileName, String encryptContext\)

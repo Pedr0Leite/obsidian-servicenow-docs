@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-25"
 reading_time_minutes: 2
 breadcrumb: [Capacity and Reservations components, Components installed with additional plugins, Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Capacity and Reservations Management components

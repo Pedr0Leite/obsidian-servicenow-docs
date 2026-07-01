@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Agent auto assignment using time-based criteria, Agent auto assignment, Agent assignment methods, Request Management in a Service Management application, Service Management]
+tags:
+  - service-management-for-the-enterprise
+  - type-concept
 ---
 
 # Agent auto assignment using schedules

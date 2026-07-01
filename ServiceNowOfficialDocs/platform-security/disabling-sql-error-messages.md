@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Logging, auditing, and errors, Logs, Platform Security]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Disabling SQL error messages \(instance security hardening\)

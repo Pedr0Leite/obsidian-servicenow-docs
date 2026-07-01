@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Authenticate, ServiceNow SDK, Building applications in source code, Building pro-code applications, Developing your application, Building applications]
+tags:
+  - application-development
+  - sdk
+  - local-dev
+  - developer-tools
+  - typescript
+  - type-task
 ---
 
 # Authenticate to a ServiceNow instance using OAuth 2.0 with the ServiceNow SDK

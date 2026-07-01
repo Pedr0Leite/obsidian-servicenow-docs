@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Customer Service Management (CSM)"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - exam-prep
@@ -215,6 +217,9 @@ When preparing your CTA case study for CSM, consider:
 [Roles and FAQ](Customer%20Service%20Management%20(CSM)/Roles%20and%20FAQ%2011ec42ce9a568082b37ad57d5f9276fe.md)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[Introducing Sovereign Bank]]
+- [[Meet the team at Sovereign Bank]]
 - [[Topics for Pre-study]]
 - [[Roles and FAQ]]
 - [[Field Service Management]]

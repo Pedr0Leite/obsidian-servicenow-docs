@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to Backup All Development Work in 1 Click"
+area: "Logics and Creations"
+source: notion-export
 tags:
   - backup
   - update-sets

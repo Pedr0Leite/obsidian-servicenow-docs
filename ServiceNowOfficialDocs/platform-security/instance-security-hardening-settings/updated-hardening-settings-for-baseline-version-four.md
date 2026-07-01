@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 24
 breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-concept
 ---
 
 # Updated hardening settings for baseline version 4.0

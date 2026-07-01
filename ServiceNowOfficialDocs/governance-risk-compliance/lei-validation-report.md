@@ -9,6 +9,9 @@ last_updated: "2026-05-15"
 reading_time_minutes: 4
 keywords: [LEI validation, GLEIF, DORA, Level 4 LEI Validation Report]
 breadcrumb: [Validate LEI codes, Using Digital resilience third-party registers, Maintaining Digital resilience third-party registers, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Level 4 LEI Validation Report columns

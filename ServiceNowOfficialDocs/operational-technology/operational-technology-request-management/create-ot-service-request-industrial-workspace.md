@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Operational Technology Request Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - requests
+  - work-orders
+  - management
+  - type-task
 ---
 
 # Create an Operational Technology request on the Industrial Workspace

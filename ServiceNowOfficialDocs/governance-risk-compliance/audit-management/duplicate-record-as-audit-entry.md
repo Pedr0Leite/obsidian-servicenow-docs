@@ -11,6 +11,13 @@ last_updated: "2026-05-29"
 reading_time_minutes: 1
 keywords: [duplicate, audit entry, audit entry source]
 breadcrumb: [Audit entry for GRC objects, Exploring Audit Management, Audit Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - audit
+  - findings
+  - grc
+  - compliance
+  - type-task
 ---
 
 # Duplicate a second-line record as an audit entry

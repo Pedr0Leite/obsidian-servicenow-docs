@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [tokenizer resource configurations, tokenizer resource configuration table, rest message function, api endpoint mapping, http method configuration, target system, sn\_data\_sec\_resource\_config, manage tokenizer endpoints, card data security endpoints]
 breadcrumb: [Administer, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Manage Tokenizer Resource Configurations

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [ActivityLogger, ActivityLogger.info, ActivityLogger.debug, ActivityLogger.warn, ActivityLogger.error, activity logger, activity logging]
 breadcrumb: [Create custom activities using custom activity designer templates, Orchestration activity designer, Classic Orchestration, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - orchestration
+  - itpa
+  - automation
+  - runbooks
+  - type-reference
 ---
 
 # Activity designer template pre-processing fields

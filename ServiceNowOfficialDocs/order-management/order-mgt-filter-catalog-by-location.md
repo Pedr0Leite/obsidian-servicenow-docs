@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-04-13"
 reading_time_minutes: 1
 breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Filter product catalog by location

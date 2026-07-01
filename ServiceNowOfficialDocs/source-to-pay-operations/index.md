@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: stpop
 doc_type: toc
+tags:
+  - source-to-pay-operations
 ---
 
 # Australia Finance and Supply Chain

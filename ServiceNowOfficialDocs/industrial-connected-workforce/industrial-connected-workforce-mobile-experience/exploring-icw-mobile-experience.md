@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Industrial Connected Workforce Mobile Experience, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - mobile
+  - factory
+  - workers
+  - industrial
+  - type-concept
 ---
 
 # Exploring Industrial Connected Workforce Mobile Experience

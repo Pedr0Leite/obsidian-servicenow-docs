@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-27"
 reading_time_minutes: 3
 breadcrumb: [Explore, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Omnichannel

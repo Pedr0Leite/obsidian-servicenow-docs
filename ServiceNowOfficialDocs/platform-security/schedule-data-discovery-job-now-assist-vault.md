@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use generative AI skills, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Schedule a Data Discovery job with Now Assist for Vault

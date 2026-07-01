@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage machine learning models with Task Intelligence, Task Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - task-intelligence
+  - routing
+  - ml
+  - prediction
+  - type-concept
 ---
 
 # Edit a Task Intelligence model

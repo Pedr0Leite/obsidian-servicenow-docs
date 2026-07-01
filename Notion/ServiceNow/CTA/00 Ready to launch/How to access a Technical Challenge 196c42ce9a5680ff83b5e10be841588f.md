@@ -1,6 +1,8 @@
 ---
 aliases:
   - "How to access a Technical Challenge"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - case-study
@@ -145,6 +147,9 @@ By **systematically assessing** technical areas like **CMDB, security, ITOM, int
 5. **Assess risks & dependencies**, ensuring feasibility.
 
 ## Related
+- [[02 Case study – Files]]
+- [[Tips for presentation]]
+- [[02 Case study]]
 
 - [[00 Ready to launch]]
 - [[Introducing Sovereign Bank]]

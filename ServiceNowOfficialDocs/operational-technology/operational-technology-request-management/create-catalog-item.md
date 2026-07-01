@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [OT service catalog]
 breadcrumb: [Configure, Operational Technology Request Management, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - requests
+  - work-orders
+  - management
+  - type-task
 ---
 
 # Create a catalog item for your Operational Technology Service Catalog

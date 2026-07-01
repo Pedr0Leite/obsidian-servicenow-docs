@@ -11,6 +11,13 @@ last_updated: "2026-05-27"
 reading_time_minutes: 2
 keywords: [hardware model lifecycle form,consumable model lifecycle form]
 breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-reference
 ---
 
 # Model lifecycle form

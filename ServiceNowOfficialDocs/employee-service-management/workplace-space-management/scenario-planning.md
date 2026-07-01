@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Explore, Workplace Space Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - space-management
+  - floor-plans
+  - utilization
+  - facilities
+  - type-concept
 ---
 
 # Scenario Planning

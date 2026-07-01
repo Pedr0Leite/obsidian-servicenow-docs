@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Health Log Analytics, log analytics alert rule, custom alert rules, define alert rule, Log viewer, search queries, alert thresholds, hit count, time period, persistence, alert conditions, log data, automatic alerts, metric alerts, alert properties, query filters, component selection, mathematical operators, time units, alert configuration]
 breadcrumb: [Use custom alert rules, Controlling alert generation, prioritization, and anomaly detection, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Define a custom Log Analytics alert rule in Health Log Analytics

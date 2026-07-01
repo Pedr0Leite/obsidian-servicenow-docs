@@ -11,6 +11,13 @@ last_updated: "2026-05-12"
 reading_time_minutes: 4
 keywords: [AI-assisted questionnaire pre-fill, draft responses, smart assessment, DMS, third-party risk]
 breadcrumb: [Assess third-party risk, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Generate AI-assisted draft responses in a TPRM assessment

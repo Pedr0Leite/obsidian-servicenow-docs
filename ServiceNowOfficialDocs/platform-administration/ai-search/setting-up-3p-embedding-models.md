@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-05-29"
 reading_time_minutes: 1
 breadcrumb: [Semantic index configuration for indexed sources, Indexed sources, Configuring AI Search, AI Search, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - ai-search
+  - indexing
+  - relevancy
+  - search
+  - type-concept
 ---
 
 # Configuring an external or custom embedding model

@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Configuring Incident Communications Management, Incident Communications Management, IT Service Management]
+tags:
+  - it-service-management
+  - incident-comms
+  - major-incident
+  - notifications
+  - type-task
 ---
 
 # Install and activate Incident Communications Management

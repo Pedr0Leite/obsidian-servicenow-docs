@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Workspace App Shell UX Page Properties"
+area: "Workspace"
+source: notion-export
 tags:
   - workspace
   - app-shell

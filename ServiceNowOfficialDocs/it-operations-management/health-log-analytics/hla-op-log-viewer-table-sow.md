@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [customize table, Log Viewer table, add columns, remove columns, Selected fields, Available fields, table columns, field display, column customization, table configuration, character limit, max characters, system properties]
 breadcrumb: [Review alert-related logs on the Log Viewer, Analyzing and resolving alerts, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Customize the Log Viewer table in Health Log Analytics

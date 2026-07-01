@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-12-02"
 reading_time_minutes: 2
 breadcrumb: [Configure Eligibility Rules Engine Policies, Configure PaCE Eligibility Framework Engine, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Create a case data collector for a PaCE policy in Grants Management

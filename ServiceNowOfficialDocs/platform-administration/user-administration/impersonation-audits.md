@@ -12,6 +12,13 @@ reading_time_minutes: 1
 keywords: [user impersonation, auditing, audit trail, security, administrator, session lifecycle, system logs, impersonation session, audit records, transaction logs]
 audience: administrator
 breadcrumb: [Impersonating users, Monitoring user activity, User administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - users
+  - groups
+  - roles
+  - access
+  - type-concept
 ---
 
 # User impersonation auditing

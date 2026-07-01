@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Running workshops"
+area: "CTA"
+source: notion-export
 tags:
   - cta-program
   - cmdb
@@ -16,6 +18,9 @@ tags:
 [ITSM - Customer Workshop Preparation Guide.docx](Running%20workshops/ITSM_-_Customer_Workshop_Preparation_Guide.docx)
 
 ## Related
+- [[How to access a Technical Challenge]]
+- [[02 Case study – Files]]
+- [[Identifying a case study]]
 
 - [[02 Week 2]]
 - [[02 Case study]]

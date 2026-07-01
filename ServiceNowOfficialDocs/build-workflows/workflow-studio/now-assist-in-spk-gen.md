@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 3
 breadcrumb: [Building spokes using Spoke Generator, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-concept
 ---
 
 # Use Now Assist to create spokes and build actions

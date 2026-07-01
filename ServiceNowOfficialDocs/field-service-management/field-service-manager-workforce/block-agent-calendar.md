@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use Emergency Exposure Management, Agent availability and calendars, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-task
 ---
 
 # Block the calendar of a field agent based on an Emergency Exposure Management diagnostic report

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "VA - Basic Arch and ACLs"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - virtual-agent
@@ -76,6 +78,9 @@ However, if the OOB system topics have been customized, and the VA plugin is not
 7. Complete the update set
 
 ## Related
+- [[Knowledge graph enhancing Virtual Agent search]]
+- [[Now Assist in AI Search]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
 
 - [[Now Assist]]
 - [[VA - Basic Arch and ACLs – Untitled]]

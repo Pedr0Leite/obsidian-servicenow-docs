@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-17"
 reading_time_minutes: 1
 breadcrumb: [Configure, Setup Hub, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # Platform module configuration in Setup Hub

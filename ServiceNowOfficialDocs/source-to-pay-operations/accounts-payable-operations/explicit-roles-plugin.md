@@ -11,6 +11,13 @@ last_updated: "2026-06-09"
 reading_time_minutes: 1
 keywords: [Accounts Payable Operations, APO, invoice automation, AP automation, finance automation]
 breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Explicit roles plugin

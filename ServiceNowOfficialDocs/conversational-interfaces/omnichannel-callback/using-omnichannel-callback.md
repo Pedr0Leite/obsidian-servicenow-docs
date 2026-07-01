@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Omnichannel Callback, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - omnichannel
+  - callback
+  - telephony
+  - routing
+  - type-concept
 ---
 
 # Working on callback records

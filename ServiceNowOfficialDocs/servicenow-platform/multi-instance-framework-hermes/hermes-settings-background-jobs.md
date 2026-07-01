@@ -11,6 +11,13 @@ last_updated: "2026-05-21"
 reading_time_minutes: 2
 keywords: [Hermes, Hermes background jobs, scheduled jobs, hermes\_admin, maint]
 breadcrumb: [Reference, Hermes Messaging Service, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - multi-instance
+  - hermes
+  - scaling
+  - enterprise
+  - type-reference
 ---
 
 # Hermes background jobs

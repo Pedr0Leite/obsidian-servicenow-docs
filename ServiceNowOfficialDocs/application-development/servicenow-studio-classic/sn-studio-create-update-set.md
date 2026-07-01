@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-28"
 reading_time_minutes: 1
 breadcrumb: [Update sets, App deployment in ServiceNow Studio, Use, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Create an update set in ServiceNow Studio

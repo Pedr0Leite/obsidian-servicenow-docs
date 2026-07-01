@@ -11,6 +11,13 @@ last_updated: "2025-03-31"
 reading_time_minutes: 4
 keywords: [hard savings, year-to-date, pipeline projects, procurement, savings proration, closed complete, annual savings]
 breadcrumb: [Pipeline management tab, Sourcing Pipeline Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Hard Savings YTD metric calculation

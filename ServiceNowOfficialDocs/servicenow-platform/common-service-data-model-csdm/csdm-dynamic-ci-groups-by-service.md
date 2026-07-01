@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Implement, CSDM, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - csdm
+  - business-services
+  - technical-services
+  - cmdb
+  - type-concept
 ---
 
 # Matching the usage of dynamic CI groups to service type

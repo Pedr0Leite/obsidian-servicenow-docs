@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [AI agents, agentic AI, agentic workflow]
 breadcrumb: [Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-concept
 ---
 
 # Using agentic AI workflows in Now Assist for Security Incident Response

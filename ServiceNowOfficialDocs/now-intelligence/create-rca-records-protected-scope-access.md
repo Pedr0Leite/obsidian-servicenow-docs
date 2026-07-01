@@ -9,6 +9,9 @@ last_updated: "2026-03-30"
 reading_time_minutes: 3
 keywords: [AI Data Explorer, Query Generation, RCA, Restricted Caller Access, protected scope]
 breadcrumb: [Enabling access to protected scope apps, Configure, Query Generation, Now Assist in Platform Analytics, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Approve RCA records for AI Data Explorer and Query Generation protected scope access

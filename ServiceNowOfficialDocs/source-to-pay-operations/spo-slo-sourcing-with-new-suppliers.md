@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [sourcing request, supplier onboarding, sourcing workflow, procurement operations, supplier lifecycle, product sourcing, supplier management, onboarding suppliers, sourcing and procurement operations, supplier lifecycle operations]
 breadcrumb: [Purchasing and sourcing workflows, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-concept
 ---
 
 # End-to-end sourcing and supplier onboarding workflow in Source-to-Pay Operations

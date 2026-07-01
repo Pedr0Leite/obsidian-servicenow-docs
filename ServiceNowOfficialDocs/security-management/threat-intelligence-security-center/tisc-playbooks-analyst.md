@@ -11,6 +11,13 @@ last_updated: "2026-06-05"
 reading_time_minutes: 4
 keywords: [tisc, playbook, analyst, threat investigation, case, stages]
 breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-concept
 ---
 
 # Using playbooks

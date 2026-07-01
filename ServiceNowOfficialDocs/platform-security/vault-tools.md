@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-26"
 reading_time_minutes: 8
 breadcrumb: [ServiceNow Vault console dashboard, ServiceNow Vault]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Vault tools and metrics

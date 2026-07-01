@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 1
 keywords: [DORA validation, RoI package, third-party risk, compliance]
 breadcrumb: [Validation framework for RoI, Use digital resilience third-party registers, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Validate Register of Information packages

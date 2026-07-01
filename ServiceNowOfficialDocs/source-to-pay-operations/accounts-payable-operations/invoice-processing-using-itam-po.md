@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice exception, invoice processing, purchase order, ITAM, asset management, AP specialist]
 breadcrumb: [IT Asset Management purchase order invoice processing, Integrate, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-task
 ---
 
 # Invoice processing using IT Asset Management purchase order

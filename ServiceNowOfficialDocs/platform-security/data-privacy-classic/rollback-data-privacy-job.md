@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data privacy job rollback, Data privacy \(Classic\) configuration, Data privacy \(Classic\), Data Privacy, Platform Privacy]
+tags:
+  - platform-security
+  - data-privacy
+  - consent
+  - gdpr
+  - classic
+  - type-task
 ---
 
 # Roll back a data privacy job

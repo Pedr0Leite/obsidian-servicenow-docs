@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 6
 breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - vaccines
+  - administration
+  - scheduling
+  - healthcare
+  - type-reference
 ---
 
 # Vaccine Administration Management system properties

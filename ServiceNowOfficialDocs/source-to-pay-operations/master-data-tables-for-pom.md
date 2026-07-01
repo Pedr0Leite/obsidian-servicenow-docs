@@ -9,6 +9,9 @@ last_updated: "2026-06-03"
 reading_time_minutes: 1
 keywords: [data tables]
 breadcrumb: [Reference, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-reference
 ---
 
 # Master data tables for Purchase Order Management

@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Portals Events"
+area: "Service Portal"
+source: notion-export
 tags:
   - service-portal
   - angularjs
@@ -25,6 +27,9 @@ https://www.servicenow.com/community/spm-blog/using-servicenow-data-table-widget
 [https://www.servicenow.com/community/developer-forum/service-portal-data-table-widget-customization/m-p/1755147](https://www.servicenow.com/community/developer-forum/service-portal-data-table-widget-customization/m-p/1755147)
 
 ## Related
+- [[Angular provider]]
+- [[$uibModal's open function]]
+- [[Using the Link Function in Service Portal Widgets]]
 
 - [[ServiceNow – Service Portal]]
 - [[Broadcast && emit && on]]

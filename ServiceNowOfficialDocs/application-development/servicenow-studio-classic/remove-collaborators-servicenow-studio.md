@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-11"
 reading_time_minutes: 1
 breadcrumb: [Collaborating on apps, Configure, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Remove collaborators from an app in ServiceNow Studio

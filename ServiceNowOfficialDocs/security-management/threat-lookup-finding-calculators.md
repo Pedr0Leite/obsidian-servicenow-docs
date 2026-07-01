@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-03"
 reading_time_minutes: 2
 breadcrumb: [Threat Intelligence administration, Threat Intelligence, Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Threat Lookup Finding Calculators

@@ -10,6 +10,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 9
 breadcrumb: [Client API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - type-concept
 ---
 
 # GlideList2 \(g\_list\)- Client

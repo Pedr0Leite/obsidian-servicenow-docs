@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 13
 keywords: [Create horizontal bar report, Create horizontal bar visualization, Create vertical bar report, Create vertical bar visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a horizontal or vertical bar data visualization

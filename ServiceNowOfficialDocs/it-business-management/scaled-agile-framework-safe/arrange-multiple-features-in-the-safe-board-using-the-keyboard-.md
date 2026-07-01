@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage your ART backlog from the SAFe Board, SAFe Board — ART level, Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - safe
+  - agile
+  - pi-planning
+  - enterprise
+  - type-task
 ---
 
 # Arrange multiple features in the SAFe Board using the keyboard

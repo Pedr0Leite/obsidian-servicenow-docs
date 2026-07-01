@@ -11,6 +11,13 @@ last_updated: "2026-05-15"
 reading_time_minutes: 3
 keywords: [RoI, CSV report, DORA, TPRM]
 breadcrumb: [Register of information regulatory packages, Use digital resilience third-party registers, Third-party Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - vendor-risk
+  - tprm
+  - grc
+  - third-party
+  - type-task
 ---
 
 # Generate a register of information package

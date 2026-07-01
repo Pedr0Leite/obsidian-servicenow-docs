@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-03"
 reading_time_minutes: 4
 breadcrumb: [Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-concept
 ---
 
 # Exploring Security Posture Control

@@ -11,6 +11,13 @@ last_updated: "2026-04-09"
 reading_time_minutes: 1
 keywords: [APO, Accounts Payable Operations, invoice management, Accounts Payable Workspace, invoice case management]
 breadcrumb: [Explore, Accounts Payable Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - ap
+  - invoices
+  - payables
+  - fsc
+  - type-concept
 ---
 
 # Invoice Case Management

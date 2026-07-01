@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 6
 breadcrumb: [Working with Workplace Analytics, Use, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-concept
 ---
 
 # View Maintenance Management metrics

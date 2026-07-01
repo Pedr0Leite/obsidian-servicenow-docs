@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-05-15"
 reading_time_minutes: 6
 breadcrumb: [Virtual Private Network \(VPN\)]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Exploring Virtual Private Network \(VPN\)

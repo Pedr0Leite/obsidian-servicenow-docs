@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - assets
+  - itsm
+  - fulfillment
+  - requests
+  - type-concept
 ---
 
 # ITSM Software Asset Management

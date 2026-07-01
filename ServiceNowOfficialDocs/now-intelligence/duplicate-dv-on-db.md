@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Copy a data visualization, Copy a report]
 breadcrumb: [Duplicate a visualization in the Visualization Designer, Share, edit, or delete, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Duplicate a visualization on an inline dashboard

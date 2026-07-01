@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Administering, Developer Sandboxes, Developing your application, Building applications]
+tags:
+  - application-development
+  - sandbox
+  - developer-environment
+  - isolation
+  - type-concept
 ---
 
 # Using sandbox templates

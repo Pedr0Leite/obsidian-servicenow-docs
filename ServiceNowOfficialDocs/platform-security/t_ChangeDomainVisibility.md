@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [View domain relationships, Setup and administration, Domain separation for service providers, Access Management]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Expand domain scope

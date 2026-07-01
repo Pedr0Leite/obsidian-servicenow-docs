@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2025-11-04"
 reading_time_minutes: 2
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # MCP Server Console release notes

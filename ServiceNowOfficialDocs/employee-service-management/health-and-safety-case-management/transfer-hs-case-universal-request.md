@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage a Universal Request from the Health and Safety Workspace, Universal Request for Health and Safety cases, Health and Safety Case Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - cases
+  - investigation
+  - type-task
 ---
 
 # Transfer a Universal Request from the Health and Safety Workspace

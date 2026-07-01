@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-21"
 reading_time_minutes: 8
 breadcrumb: [Configure, Threat Intelligence Security Center, Security Operations]
+tags:
+  - security-management
+  - threat-intelligence
+  - stix
+  - taxii
+  - iocs
+  - type-task
 ---
 
 # Set Threat Intelligence Security Center properties

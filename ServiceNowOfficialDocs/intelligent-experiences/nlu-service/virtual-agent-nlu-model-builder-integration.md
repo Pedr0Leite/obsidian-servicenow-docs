@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-16"
 reading_time_minutes: 2
 breadcrumb: [Natural Language Understanding, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - nlu
+  - intents
+  - entities
+  - model-training
+  - type-concept
 ---
 
 # Virtual Agent and NLU Workbench integration

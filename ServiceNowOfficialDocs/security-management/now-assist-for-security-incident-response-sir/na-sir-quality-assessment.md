@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Generative AI, Gen AI, Now Assist, Security Operations, quality assessment, security incident response]
 breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response, Security Operations]
+tags:
+  - security-management
+  - now-assist
+  - ai
+  - sir
+  - security
+  - type-concept
 ---
 
 # Exploring Security incident quality assessment with Now Assist for Security Incident Response

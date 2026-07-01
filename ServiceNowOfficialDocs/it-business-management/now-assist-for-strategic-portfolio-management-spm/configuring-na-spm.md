@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-15"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for Strategic Portfolio Management \(SPM\), Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - now-assist
+  - ai
+  - spm
+  - generative
+  - type-concept
 ---
 
 # Configure Now Assist Admin features

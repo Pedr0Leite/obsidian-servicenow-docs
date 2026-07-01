@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Employee Travel Safety, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - travel
+  - risk
+  - safety
+  - hr
+  - type-concept
 ---
 
 # Request permission to travel

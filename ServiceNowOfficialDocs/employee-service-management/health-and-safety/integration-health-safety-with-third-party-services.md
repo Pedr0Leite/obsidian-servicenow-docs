@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2025-12-05"
 reading_time_minutes: 1
 breadcrumb: [Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - health-safety
+  - ehs
+  - compliance
+  - incidents
+  - type-reference
 ---
 
 # Integration of Health and Safety applications with third-party services

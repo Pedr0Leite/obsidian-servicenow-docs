@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 1
 keywords: [Calendar Management, specialized assistant, block time, reschedule meeting]
 breadcrumb: [Calendar and schedule management, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Manage your calendar with the Calendar Management assistant

@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Contractor Service Center, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - contractor
+  - onboarding
+  - service-center
+  - type-reference
 ---
 
 # Components installed with Contractor Service Center

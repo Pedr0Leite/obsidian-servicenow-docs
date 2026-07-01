@@ -9,6 +9,12 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [configurable product, headless environment, blueprint, CPQ]
 breadcrumb: [Setting up configurable products, CPQ app, Configure, price, quote apps, Configure, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Set up a configurable product in a headless environment

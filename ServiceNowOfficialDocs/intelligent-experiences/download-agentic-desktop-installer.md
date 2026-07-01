@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-11-02"
 reading_time_minutes: 2
 breadcrumb: [Defined desktop actions, Configure, AI Desktop Actions, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Download AI Desktop Actions installer

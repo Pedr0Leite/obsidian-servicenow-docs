@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-06-07"
 reading_time_minutes: 11
 breadcrumb: [Database discovery, Data collected by ITOM Visibility, ITOM Visibility reference, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-concept
 ---
 
 # Oracle database discovery

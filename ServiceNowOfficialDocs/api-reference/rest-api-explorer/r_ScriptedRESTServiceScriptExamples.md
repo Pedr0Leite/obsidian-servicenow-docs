@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Scripted REST API examples, Scripted REST APIs, REST APIs, Web services, API implementation, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - api-explorer
+  - testing
+  - endpoints
+  - type-reference
 ---
 
 # Scripted REST API example - script samples

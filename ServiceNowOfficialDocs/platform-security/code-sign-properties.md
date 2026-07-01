@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Administer and Troubleshoot, Code Signing, Platform Security]
+tags:
+  - platform-security
+  - type-reference
 ---
 
 # Properties installed with Code Signing

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-07"
 reading_time_minutes: 1
 breadcrumb: [Retail]
+tags:
+  - retail-industry
+  - type-concept
 ---
 
 # Track and monitor store plans

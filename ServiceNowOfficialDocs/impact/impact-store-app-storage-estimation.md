@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Impact, Impact Store App, IIP, storage estimation, storage footprint, Impact Delivery Instance, IDI, Product Adoption Roadmap, PAR, data retention, Platform Health]
 breadcrumb: [Impact reference, Impact]
+tags:
+  - impact
+  - type-reference
 ---
 
 # Impact Store Application storage estimation

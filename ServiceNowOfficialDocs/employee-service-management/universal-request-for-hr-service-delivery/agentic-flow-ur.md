@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Using agentic flows in Universal Request AI agent collection, Universal Request, Employee Service Management]
+tags:
+  - employee-service-management
+  - universal-request
+  - routing
+  - hr
+  - cross-department
+  - type-concept
 ---
 
 # Universal Request Router agentic workflow

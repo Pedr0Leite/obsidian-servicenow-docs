@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Manage a service, Service Creator, Build workflows]
+tags:
+  - build-workflows
+  - service-creator
+  - catalog-workflow
+  - automation
+  - type-concept
 ---
 
 # Designing services

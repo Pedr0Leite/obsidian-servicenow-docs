@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Configuring Now Mobile, Now Mobile app, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - mobile
+  - employee-experience
+  - now-mobile
+  - self-service
+  - type-task
 ---
 
 # Add a quick action in your mobile applications

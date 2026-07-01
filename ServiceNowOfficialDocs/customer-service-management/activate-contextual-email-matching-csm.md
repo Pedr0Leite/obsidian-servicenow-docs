@@ -9,6 +9,9 @@ last_updated: "2026-06-25"
 reading_time_minutes: 1
 keywords: [contextual email matching, Now Assist Skill Kit, CSM, Customer Service Management, email interaction, case matching, generative AI]
 breadcrumb: [Email Interaction, Email channel, Enable communication channels, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Activate contextual email matching for CSM

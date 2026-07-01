@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-22"
 reading_time_minutes: 1
 breadcrumb: [Workplace Concierge agentic workflow, Using AI agent workflows in Now Assist for WSD, Now Assist for Workplace Service Delivery \(WSD\), Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - now-assist
+  - ai
+  - workplace
+  - generative
+  - type-task
 ---
 
 # Use Workplace Concierge with Now Assist in Virtual Agent

@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [Now Assist, user, data, usage, policy, mask sensitive data, data sharing]
 breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # User data usage policy for Now Assist

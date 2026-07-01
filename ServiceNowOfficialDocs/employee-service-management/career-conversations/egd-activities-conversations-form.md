@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Career Conversations reference, Career Conversations, Growth Experiences, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - career
+  - development
+  - conversations
+  - hrsd
+  - type-reference
 ---
 
 # Career Conversations Conversations reference

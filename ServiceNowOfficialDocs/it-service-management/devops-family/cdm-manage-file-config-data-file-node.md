@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [File nodes in CDM, File attachments in config data, Attach files in CDM application, collection, deployable]
 breadcrumb: [Viewing and editing config data, Using DevOps Config, DevOps Config, IT Service Management]
+tags:
+  - it-service-management
+  - devops
+  - itsm
+  - pipeline
+  - change
+  - type-task
 ---
 
 # Manage files in the config data model using file nodes

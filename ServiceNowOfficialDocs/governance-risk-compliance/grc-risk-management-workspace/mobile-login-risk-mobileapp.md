@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-30"
 reading_time_minutes: 3
 breadcrumb: [Mobile experience for GRC Risk Management, Use, Risk Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - risk
+  - workspace
+  - grc
+  - register
+  - type-task
 ---
 
 # Log in to the GRC Mobile application

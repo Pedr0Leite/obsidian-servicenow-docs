@@ -10,6 +10,13 @@ topic_type: topic
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [WSUD Troubleshooting, Reference, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-topic
 ---
 
 # Customer Signature Required activity not displaying or WSUD verification task not getting generated

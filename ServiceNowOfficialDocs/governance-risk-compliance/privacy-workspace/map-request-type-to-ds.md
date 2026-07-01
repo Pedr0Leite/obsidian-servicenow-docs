@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 3
 breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights \(PDR\), Privacy Management, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - privacy
+  - dsar
+  - gdpr
+  - workspace
+  - type-task
 ---
 
 # Map request types to configured data subjects for a jurisdiction

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Procurement purchase order management for assets, Procurement, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - procurement
+  - orders
+  - catalog
+  - itsm
+  - type-task
 ---
 
 # View and edit a catalog task

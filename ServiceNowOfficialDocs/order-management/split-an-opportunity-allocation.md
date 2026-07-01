@@ -8,6 +8,12 @@ topic_type: task
 last_updated: "2026-03-30"
 reading_time_minutes: 1
 breadcrumb: [Manage allocations, Opportunity Management, Lead and opportunity apps, Use, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-task
 ---
 
 # Split opportunity allocation

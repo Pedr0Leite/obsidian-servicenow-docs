@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-04"
 reading_time_minutes: 1
 breadcrumb: [File and resources, Hardening settings, Platform Security]
+tags:
+  - platform-security
+  - hardening
+  - security
+  - checklist
+  - settings
+  - type-reference
 ---
 
 # Maximum allowed attachment size

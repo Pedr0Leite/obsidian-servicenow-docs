@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2025-12-05"
 reading_time_minutes: 2
 breadcrumb: [Platform module configuration, Configure, Setup Hub, Get started, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - type-reference
 ---
 
 # Outbound email

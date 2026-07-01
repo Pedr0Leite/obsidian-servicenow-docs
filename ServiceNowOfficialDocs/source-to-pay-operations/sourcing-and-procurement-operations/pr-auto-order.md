@@ -11,6 +11,13 @@ last_updated: "2026-04-21"
 reading_time_minutes: 2
 keywords: [auto-order, purchase requisition, purchase order, automatic PO creation, requisition auto-order]
 breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-concept
 ---
 
 # Purchase requisition auto-order

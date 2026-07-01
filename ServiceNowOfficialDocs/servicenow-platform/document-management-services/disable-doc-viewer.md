@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2023-08-03"
 reading_time_minutes: 1
 breadcrumb: [Document Viewer, Document Services, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - documents
+  - storage
+  - dms
+  - attachments
+  - type-task
 ---
 
 # Disable Document Viewer

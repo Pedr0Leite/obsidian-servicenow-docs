@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Lifecycle event cases in Agent Workspace for HR Case Management, Using Agent Workspace for HR Case Management, Agent Workspace, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - hr
+  - agent-workspace
+  - case-management
+  - type-task
 ---
 
 # Create a lifecycle event case using Agent Workspace for HR Case Management

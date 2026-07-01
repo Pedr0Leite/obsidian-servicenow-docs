@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-06-03"
 reading_time_minutes: 1
 breadcrumb: [Configure, Now Assist for Software Asset Management \(SAM\), Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - now-assist
+  - ai
+  - sam
+  - software
+  - type-task
 ---
 
 # Install Now Assist for Software Asset Management \(SAM\)

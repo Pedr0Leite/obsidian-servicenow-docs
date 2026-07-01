@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2025-08-08"
 reading_time_minutes: 1
 breadcrumb: [Configure, MCP Server Console, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Create a Model Context Protocol server

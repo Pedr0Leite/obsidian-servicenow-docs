@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-05-30"
 reading_time_minutes: 5
 breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-reference
 ---
 
 # Roles installed with Operational Resilience

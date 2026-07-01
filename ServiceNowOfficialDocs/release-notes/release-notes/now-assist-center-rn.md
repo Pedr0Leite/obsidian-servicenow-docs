@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-06-06"
 reading_time_minutes: 6
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Now Assist Center release notes

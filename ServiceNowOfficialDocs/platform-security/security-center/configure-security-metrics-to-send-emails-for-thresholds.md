@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Security metrics, Security monitoring console, Security Center, Platform Security]
+tags:
+  - platform-security
+  - security-center
+  - posture
+  - compliance
+  - risks
+  - type-task
 ---
 
 # Configure Security Metrics to send email when thresholds are triggered

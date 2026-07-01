@@ -11,6 +11,13 @@ last_updated: "2026-04-09"
 reading_time_minutes: 2
 keywords: [scripting governance tool, conditional script writer group, manage scripting access, schedule removal, remove scripting access]
 breadcrumb: [Use Scripting Governance Tool, Scripting Governance Tool, Access Management]
+tags:
+  - platform-security
+  - acl
+  - roles
+  - access-control
+  - security
+  - type-task
 ---
 
 # Remove users from the Conditional Script Writer group

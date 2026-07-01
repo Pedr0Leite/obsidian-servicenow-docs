@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-27"
 reading_time_minutes: 2
 breadcrumb: [Applications in ServiceNow Studio, Use, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Find an app or app file using code search

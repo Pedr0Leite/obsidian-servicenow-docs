@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Skills Management, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-concept
 ---
 
 # Routing work based on skills in Workforce Optimization for ITSM

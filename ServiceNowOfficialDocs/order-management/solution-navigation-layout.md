@@ -9,6 +9,12 @@ last_updated: "2026-03-26"
 reading_time_minutes: 1
 keywords: [solution navigation, solution navigation sidebar, layout, solution configuration]
 breadcrumb: [Solution configurations, CPQ, Configure, price, quote, Explore, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Solution navigation and layout

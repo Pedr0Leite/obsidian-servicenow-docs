@@ -11,6 +11,13 @@ last_updated: "2025-09-10"
 reading_time_minutes: 7
 keywords: [Now Assist, Virtual Agent, LLM, Large language model]
 breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - now-assist
+  - virtual-agent
+  - ai
+  - generative
+  - type-task
 ---
 
 # View assistants

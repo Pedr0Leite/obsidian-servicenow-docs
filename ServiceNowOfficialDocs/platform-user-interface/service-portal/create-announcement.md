@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-22"
 reading_time_minutes: 3
 breadcrumb: [Posting announcements to portal users, Service Portal, Configure UIs and portals, Configure user experiences]
+tags:
+  - platform-user-interface
+  - service-portal
+  - widgets
+  - themes
+  - self-service
+  - type-task
 ---
 
 # Create an announcement

@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Operational Technology Hardware Vulnerability Assessment, Explore, Industrial Workspace, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - workspace
+  - engineers
+  - industrial
+  - type-reference
 ---
 
 # Confidence score calculation for hardware vulnerability assessment

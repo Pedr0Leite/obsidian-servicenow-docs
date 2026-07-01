@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 11
 breadcrumb: [Data in Table Builder, Using Table Builder, Table Builder, Builder library, Developing your application, Building applications]
+tags:
+  - application-development
+  - form-builder
+  - ui-forms
+  - fields
+  - layout
+  - type-task
 ---
 
 # Fields view in Table Builder

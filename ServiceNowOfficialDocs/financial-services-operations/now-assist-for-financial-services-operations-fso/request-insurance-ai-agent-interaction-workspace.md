@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 3
 keywords: [insurance csr support ai agent, request insurance ai agent interaction page, insurance interaction page now assist, insurance csr live call assistance, get customer request insurance, insurance ai agent transcript, agentic contact center insurance ai support]
 breadcrumb: [Agentic Contact Center for Insurance AI agents overview, AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Request AI agent support in the Interaction page for Agentic Contact Center for Insurance

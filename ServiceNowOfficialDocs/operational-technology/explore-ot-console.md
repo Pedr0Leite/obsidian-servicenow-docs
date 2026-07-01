@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-27"
 reading_time_minutes: 1
 breadcrumb: [Discovery Console for Operational Technology \(OT\), Operational Technology Native Discovery components, Operational Technology Discovery, Operational Technology]
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Explore the Discovery Console for Operational Technology \(OT\)

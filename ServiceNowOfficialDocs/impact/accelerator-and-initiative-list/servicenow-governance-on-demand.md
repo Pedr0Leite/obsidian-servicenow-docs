@@ -11,6 +11,12 @@ last_updated: "2026-05-18"
 reading_time_minutes: 2
 keywords: [AI governance, on demand, governance assessment, 90-day action plan]
 breadcrumb: [ServiceNow Governance, Strategy Accelerators, Accelerator catalog, View the Initiatives and Accelerators catalog, Initiatives and Accelerators, Using Impact, Impact]
+tags:
+  - impact
+  - accelerators
+  - initiatives
+  - adoption
+  - type-reference
 ---
 
 # ServiceNow Governance – On Demand

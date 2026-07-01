@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Configuring Proactive Prompts, Proactive Prompts, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - proactive-prompts
+  - nudges
+  - engagement
+  - hr
+  - type-task
 ---
 
 # Create a signal in Proactive Prompts

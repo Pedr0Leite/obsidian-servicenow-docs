@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Task Intelligence references, Task Intelligence, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - task-intelligence
+  - routing
+  - ml
+  - prediction
+  - type-reference
 ---
 
 # Languages supported by Task Intelligence

@@ -11,6 +11,13 @@ last_updated: "2026-04-29"
 reading_time_minutes: 2
 keywords: [conversation-first, conversation-everywhere, interactive split view, full-page search, persistent side navigation, follow-up chat]
 breadcrumb: [Employee Slate introduction, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Conversation-first experience

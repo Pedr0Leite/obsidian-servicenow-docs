@@ -11,6 +11,13 @@ last_updated: "2026-04-02"
 reading_time_minutes: 1
 keywords: [AI assistant, conversational search, employee search, organizational questions]
 breadcrumb: [Employee Org chart, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Work with org chart and profiles

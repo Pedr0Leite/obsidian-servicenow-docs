@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Install Zoom extension for Omnichannel Callback, Zoom extension for Omnichannel Callback, Manage people and work, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - callback
+  - zoom
+  - scheduling
+  - telephony
+  - type-reference
 ---
 
 # Components installed with Zoom extension for Omnichannel Callback

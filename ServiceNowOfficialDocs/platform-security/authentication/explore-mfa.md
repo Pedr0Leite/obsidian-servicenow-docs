@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [MFA, multi-factor authentication, multi-factor auth, multi-factor]
 breadcrumb: [Multi-factor authentication, Authentication, Access Management]
+tags:
+  - platform-security
+  - sso
+  - oauth
+  - saml
+  - mfa
+  - type-concept
 ---
 
 # Exploring Multi-factor Authentication

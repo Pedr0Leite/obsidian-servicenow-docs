@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Creating your own API connector, Use the workspace, Security Posture Control, Security Operations]
+tags:
+  - security-management
+  - type-task
 ---
 
 # Create an instance and set the import schedule

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [High Assurance, Continuous Authentication \(CA\), Zero Trust Access, Access Management]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # High Assurance for SSO login

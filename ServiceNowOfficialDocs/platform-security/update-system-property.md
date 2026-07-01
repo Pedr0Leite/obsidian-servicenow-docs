@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Administer, Log Export Service \(LES\), Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Update system property

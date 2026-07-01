@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-07"
 reading_time_minutes: 1
 breadcrumb: [Configure the Authentication Profile, Configure, Verifi, Integrate, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-reference
 ---
 
 # Storing credentials for Verifi CDRN

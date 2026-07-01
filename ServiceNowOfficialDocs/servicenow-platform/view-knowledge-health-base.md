@@ -9,6 +9,9 @@ last_updated: "2026-05-26"
 reading_time_minutes: 3
 keywords: [knowledge health score, knowledge management dashboard, knowledge base health, health score gauge]
 breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - type-task
 ---
 
 # View the Knowledge Health Score dashboard

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-13"
 reading_time_minutes: 5
 breadcrumb: [Applications in ServiceNow Studio, Use, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-task
 ---
 
 # Create an application in ServiceNow Studio

@@ -11,6 +11,13 @@ last_updated: "2026-05-11"
 reading_time_minutes: 8
 keywords: [ServiceNow Lens, Form Auto-Filler, Lens Launcher, AI image recognition, Smart Assessment, Now Assist for FSM, mobile, ServiceNow Lens, Lens Launcher, auto-fill, Form Auto-Filler, Smart Assessment, Input Form, mobile, ServiceNow Lens, Now Assist Virtual Agent, NAVA, image analysis, mobile, Now Assist for FSM]
 breadcrumb: [Use generative AI skills, Now Assist for FSM]
+tags:
+  - field-service-management
+  - now-assist
+  - ai
+  - fsm
+  - generative
+  - type-concept
 ---
 
 # ServiceNow AI Lens form auto-filler

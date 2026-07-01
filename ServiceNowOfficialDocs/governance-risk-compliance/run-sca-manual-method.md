@@ -9,6 +9,9 @@ last_updated: "2026-05-31"
 reading_time_minutes: 4
 keywords: [Scenario Analysis, Operational Resilience, manual method, SME assessment, Scenario analysis manual template]
 breadcrumb: [Building a scenario analysis using simulation, Scenario analysis using simulation, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Run a scenario analysis using the manual method

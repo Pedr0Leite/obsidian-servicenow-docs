@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-04-01"
 reading_time_minutes: 6
 breadcrumb: [Platform agentic workflows, Now Assist agentic workflows, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Platform Process images for new tasks agentic workflow

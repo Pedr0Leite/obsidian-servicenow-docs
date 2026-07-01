@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Task and labor rate cards, Cost Management, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - cost-management
+  - budgeting
+  - chargeback
+  - itbm
+  - type-task
 ---
 
 # Manage a labor rate card

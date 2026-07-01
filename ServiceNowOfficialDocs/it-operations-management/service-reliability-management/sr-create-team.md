@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Working with SRM teams, Using Service Reliability Management, Service Reliability Management, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - reliability
+  - sre
+  - srm
+  - itom
+  - type-task
 ---
 
 # Add an SRM team

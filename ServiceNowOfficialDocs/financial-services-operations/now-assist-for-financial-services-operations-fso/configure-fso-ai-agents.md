@@ -12,6 +12,13 @@ reading_time_minutes: 2
 keywords: [Financial Services Operations, AI agents, AI Agent Studio, Knowledge Graph, agentic AI, ACH dispute, banking CSR, insurance CSR, agent configuration, triggers, access controls]
 audience: administrator
 breadcrumb: [Configure, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-concept
 ---
 
 # Configure Financial Services Operations AI agents

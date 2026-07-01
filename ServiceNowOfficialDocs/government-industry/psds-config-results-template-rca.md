@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-04-02"
 reading_time_minutes: 1
 breadcrumb: [Create a results letter template, Set up a grant program, Grants Management, Playbooks and Solutions, Configure agent workspaces, Configure, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-task
 ---
 
 # Configure Restricted Caller Access for a results letter

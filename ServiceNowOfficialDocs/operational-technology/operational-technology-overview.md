@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2026-05-12"
 reading_time_minutes: 7
+tags:
+  - operational-technology
+  - type-concept
 ---
 
 # Operational Technology

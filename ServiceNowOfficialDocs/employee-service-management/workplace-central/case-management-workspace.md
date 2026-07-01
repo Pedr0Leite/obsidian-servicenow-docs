@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-25"
 reading_time_minutes: 3
 breadcrumb: [Explore, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-concept
 ---
 
 # Case management

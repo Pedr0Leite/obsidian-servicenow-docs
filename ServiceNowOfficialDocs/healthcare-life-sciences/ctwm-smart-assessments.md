@@ -9,6 +9,9 @@ last_updated: "2026-05-12"
 reading_time_minutes: 1
 keywords: [smart assessments, assessments, care team tasks, checklists]
 breadcrumb: [Explore, Care Team Work Management, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-concept
 ---
 
 # Smart assessments in Care Team Work Management

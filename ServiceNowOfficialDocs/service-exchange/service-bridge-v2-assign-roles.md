@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [User roles for providers, Configure for providers, Service Exchange for Providers, Service Exchange]
+tags:
+  - service-exchange
+  - marketplace
+  - spokes
+  - apps
+  - type-task
 ---
 
 # Assign roles to groups for Service Exchange

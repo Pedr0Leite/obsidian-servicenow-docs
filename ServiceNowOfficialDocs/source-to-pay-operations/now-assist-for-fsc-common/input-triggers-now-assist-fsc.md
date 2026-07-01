@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Security Operations]
 breadcrumb: [Customize a Now Assist for Common FSC features skill, Configure, Features, Now Assist Finance Supply Chain, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - now-assist
+  - ai
+  - fsc
+  - generative
+  - type-reference
 ---
 
 # Skill inputs for Now Assist for Common Finance and Supply Chain features

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Skills Management, Manage people and work capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - skills
+  - routing
+  - agents
+  - awa
+  - type-concept
 ---
 
 # Reference for Skills Management

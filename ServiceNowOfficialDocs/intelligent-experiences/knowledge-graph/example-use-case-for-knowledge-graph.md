@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - knowledge-graph
+  - graph
+  - entities
+  - relationships
+  - type-concept
 ---
 
 # Leverage Knowledge Graph prebuilt integration with Now Assist Virtual Agent and Now Assist Panel

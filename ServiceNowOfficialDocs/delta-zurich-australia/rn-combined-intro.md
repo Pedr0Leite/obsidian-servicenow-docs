@@ -7,6 +7,9 @@ release: australia
 topic_type: concept
 last_updated: "2025-06-02"
 reading_time_minutes: 53
+tags:
+  - delta-zurich-australia
+  - type-concept
 ---
 
 # Products combined by family

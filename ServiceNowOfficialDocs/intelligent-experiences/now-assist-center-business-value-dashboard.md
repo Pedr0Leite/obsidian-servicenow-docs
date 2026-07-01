@@ -9,6 +9,9 @@ last_updated: "2026-06-01"
 reading_time_minutes: 6
 keywords: [Now Assist, Now Assist Center, Gen AI, Generative AI, business value]
 breadcrumb: [View AI assets usage and performance, Monitor, Now Assist Center, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist Center Business Value dashboard

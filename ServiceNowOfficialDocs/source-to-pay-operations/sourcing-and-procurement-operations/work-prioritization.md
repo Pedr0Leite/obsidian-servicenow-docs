@@ -11,6 +11,13 @@ last_updated: "2026-04-01"
 reading_time_minutes: 4
 keywords: [work prioritization, priority levels, decision table, procurement specialist, work queue, automatic priority assignment, priority scale, line item evaluation, Planning priority, purchase requisition, sourcing request, procurement case, sourcing and procurement operations, SPO]
 breadcrumb: [Procurement Case Management, Explore, Sourcing and Procurement Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - sourcing
+  - procurement
+  - rfx
+  - s2p
+  - type-reference
 ---
 
 # Work prioritization

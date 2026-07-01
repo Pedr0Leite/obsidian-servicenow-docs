@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-13"
 reading_time_minutes: 6
 breadcrumb: [Design Playbook Experience, Playbooks, Workflow Studio, Build workflows]
+tags:
+  - build-workflows
+  - workflow-studio
+  - visual
+  - process-design
+  - flow-designer
+  - type-task
 ---
 
 # Configure a Guided Decision Playbook

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-04-21"
 reading_time_minutes: 1
 breadcrumb: [Reference, Care Team Operations for Environmental Services, Healthcare Operations, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - type-reference
 ---
 
 # Components installed with Care Team Operations for Environmental Services

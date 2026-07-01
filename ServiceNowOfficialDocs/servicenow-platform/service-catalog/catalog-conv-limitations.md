@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-04-30"
 reading_time_minutes: 2
 breadcrumb: [Conversational catalog request reference, Now Assist in Conversational Catalog Request, Service Catalog, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - service-catalog
+  - request-items
+  - variables
+  - type-reference
 ---
 
 # What makes catalog items non-conversational in premium chat

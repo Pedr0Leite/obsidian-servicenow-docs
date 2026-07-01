@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2025-07-31"
 reading_time_minutes: 2
 breadcrumb: [CSM Configurable Workspace, Use, Public Sector Digital Services \(PSDS\)]
+tags:
+  - government-industry
+  - type-concept
 ---
 
 # Creating and resolving case tasks as a government service agent in CSM Configurable Workspace

@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 10
 breadcrumb: [Security Roles, Access Management]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Explicit Roles

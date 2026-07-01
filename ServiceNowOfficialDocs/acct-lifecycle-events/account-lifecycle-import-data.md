@@ -8,6 +8,14 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Data capture and validation, Account onboarding playbook, Manage account onboarding cases, Account onboarding, Use, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-task
 ---
 
 # Import data into the account onboarding playbook

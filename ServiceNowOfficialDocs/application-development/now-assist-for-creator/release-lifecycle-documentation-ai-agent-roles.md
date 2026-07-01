@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-04-01"
 reading_time_minutes: 1
 breadcrumb: [Configure, Release lifecycle documentation AI agent, Use agentic AI, Now Assist for Creator, Agentic development on the ServiceNow AI Platform, Building applications]
+tags:
+  - application-development
+  - now-assist
+  - ai
+  - creator-studio
+  - generative-ai
+  - type-reference
 ---
 
 # Roles required for using the release lifecycle documentation AI agent

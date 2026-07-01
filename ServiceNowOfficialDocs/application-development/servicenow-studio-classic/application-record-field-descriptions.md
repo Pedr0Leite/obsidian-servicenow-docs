@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-06-03"
 reading_time_minutes: 4
 breadcrumb: [Reference, ServiceNow Studio, Developing your application, Building applications]
+tags:
+  - application-development
+  - studio
+  - classic
+  - scoped-apps
+  - ide
+  - type-reference
 ---
 
 # Custom Application record form

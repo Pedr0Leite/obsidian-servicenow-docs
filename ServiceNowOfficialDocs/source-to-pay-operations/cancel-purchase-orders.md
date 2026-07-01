@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Cancel PO exceptions, Address exception]
 breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management, Source-to-Pay Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - type-task
 ---
 
 # Cancel a purchase order exception

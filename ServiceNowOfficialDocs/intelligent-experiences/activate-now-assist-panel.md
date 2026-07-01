@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Activate, Now Assist, panel, skills, admin, experiences]
 breadcrumb: [Configuring Now Assist Admin features, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-task
 ---
 
 # Activate the Now Assist panel standard chat

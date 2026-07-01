@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-26"
 reading_time_minutes: 3
 breadcrumb: [Key Management Framework Resource Exchange, Key Management Framework, Encryption]
+tags:
+  - platform-security
+  - encryption
+  - columns
+  - attachments
+  - security
+  - type-task
 ---
 
 # Configure Key Exchange

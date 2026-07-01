@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [manage tokenizer service connections, vault schema management, tokenizer connection properties, manage vault columns, outbound connection configuration, third-party connection settings, modify routes and fields, card data security vault management]
 breadcrumb: [Administer, Card Data Security, Dispute Management, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - disputes
+  - fso
+  - investigation
+  - resolution
+  - type-concept
 ---
 
 # Manage the schema and connections in the tokenizer service

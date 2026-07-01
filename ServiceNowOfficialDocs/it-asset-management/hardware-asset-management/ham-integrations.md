@@ -11,6 +11,13 @@ last_updated: "2026-04-06"
 reading_time_minutes: 1
 keywords: [HAM integrations, HAM advisor, CMDB success advisor for HAM, HAM with Zero Touch Mobility \(ZTM\)]
 breadcrumb: [Hardware Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - ham
+  - hardware
+  - procurement
+  - disposal
+  - type-concept
 ---
 
 # Hardware Asset Management integrations

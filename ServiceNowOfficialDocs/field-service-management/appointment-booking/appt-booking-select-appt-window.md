@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Managing appointments from a work order or work order task, Managing appointments on behalf of a customer, Managing appointments, Use, Field Service Management]
+tags:
+  - field-service-management
+  - appointment-booking
+  - scheduling
+  - customer
+  - type-reference
 ---
 
 # Select an Appointment window

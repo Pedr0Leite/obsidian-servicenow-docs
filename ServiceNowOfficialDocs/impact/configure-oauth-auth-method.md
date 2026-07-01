@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-05-28"
 reading_time_minutes: 3
 breadcrumb: [Register your instance, Scan Engine integrations, Configure the Impact Store Application, Configuring Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Configure the OAuth authentication method development instance

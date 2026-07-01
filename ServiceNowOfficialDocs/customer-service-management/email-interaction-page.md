@@ -9,6 +9,9 @@ last_updated: "2026-05-11"
 reading_time_minutes: 7
 keywords: [Email Interaction for CSM]
 breadcrumb: [Email Interaction for CSM reference, Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-reference
 ---
 
 # Email interaction sections

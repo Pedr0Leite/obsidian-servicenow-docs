@@ -11,6 +11,13 @@ last_updated: "2026-05-13"
 reading_time_minutes: 2
 keywords: [insurance customer profile summarization, summarize insurance customer profile, insurance customer 360 customer summary, insurance customer profile and status, now assist insurance customer summary, insurance csr ai summary, agentic contact center insurance profile summary]
 breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - now-assist
+  - ai
+  - fso
+  - generative
+  - type-task
 ---
 
 # Summarize an insurance customer profile in Agentic Contact Center for Insurance

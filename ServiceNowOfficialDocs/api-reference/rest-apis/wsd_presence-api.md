@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-04-27"
 reading_time_minutes: 38
 breadcrumb: [REST API reference, API reference, API implementation and reference]
+tags:
+  - api-reference
+  - rest
+  - table-api
+  - json
+  - http
+  - type-concept
 ---
 
 # WSD Presence API

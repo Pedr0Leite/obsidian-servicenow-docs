@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 4
 keywords: [log data, streaming, sources, status, overview, integration, ServiceNow, Health Log Analytics, HLA]
 breadcrumb: [Log data flow monitoring and configuration optimization, Set up integrations from Integrations Launchpad, Set up HLA on your instance, Configuring, Health Log Analytics, ITOM AIOps, IT Operations Management]
+tags:
+  - it-operations-management
+  - log-analytics
+  - hla
+  - anomaly
+  - aiops
+  - type-task
 ---
 
 # Review log streaming data and adjust integration settings in Health Log Analytics

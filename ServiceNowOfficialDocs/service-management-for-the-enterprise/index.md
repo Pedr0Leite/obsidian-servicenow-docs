@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: sm4e
 doc_type: toc
+tags:
+  - service-management-for-the-enterprise
 ---
 
 # Australia Service Management

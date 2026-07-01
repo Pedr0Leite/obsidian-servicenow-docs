@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Prevent the creation of suggestions in special cases, Configuring Search Suggestions, Search Suggestions, Search administration, Configure core features, Administer the ServiceNow AI Platform]
+tags:
+  - platform-administration
+  - search-suggestions
+  - autocomplete
+  - ux
+  - type-task
 ---
 
 # Test regular expression patterns in Search Suggestion Exclusion List Rule entries

@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Manage, Workplace Maintenance Management, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - maintenance
+  - work-orders
+  - assets
+  - facilities
+  - type-concept
 ---
 
 # Workplace Maintenance Management dashboard and analytics

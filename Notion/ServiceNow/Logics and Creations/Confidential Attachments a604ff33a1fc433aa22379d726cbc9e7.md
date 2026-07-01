@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Confidential Attachments"
+area: "Logics and Creations"
+source: notion-export
 tags:
   - attachments
   - acl

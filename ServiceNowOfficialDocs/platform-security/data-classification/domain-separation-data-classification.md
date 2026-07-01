@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Data Classification, Platform Privacy]
+tags:
+  - platform-security
+  - data-classification
+  - labels
+  - pii
+  - policy
+  - type-concept
 ---
 
 # Domain separation and Data Classification

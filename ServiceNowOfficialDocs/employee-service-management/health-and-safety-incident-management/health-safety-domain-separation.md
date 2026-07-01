@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Reference, Health and Safety Incident Management, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - incidents
+  - investigation
+  - reporting
+  - ehs
+  - type-concept
 ---
 
 # Domain separation and Health and Safety Incident Management

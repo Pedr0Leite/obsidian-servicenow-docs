@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 2
 keywords: [work on a banking interaction, manage banking customer interactions, customer context summarization, verify banking customer identity, agentic contact center ai-generated insights, agentic contact center wrap-up summary, agentic contact center interaction page, agentic contact center csr interaction workflow, agentic contact center create interaction record]
 breadcrumb: [Use, Agentic Contact Center for Banking, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - type-task
 ---
 
 # Work on an interaction in Agentic Contact Center for Banking

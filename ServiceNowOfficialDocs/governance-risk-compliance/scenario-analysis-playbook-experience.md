@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 10
 keywords: [Scenario Analysis, Operational Resilience, Playbook, statistical modelling, Annual Loss Model, Statistical Model Profile, simulation, treatment decision, lifecycle event]
 breadcrumb: [Scenario analysis using simulation, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-concept
 ---
 
 # Building a scenario analysis using simulation

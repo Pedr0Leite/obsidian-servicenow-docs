@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Create a vendor catalog item, Vendor catalog items, Product Catalog, IT Asset Management]
+tags:
+  - it-asset-management
+  - product-catalog
+  - models
+  - catalog
+  - itam
+  - type-task
 ---
 
 # Link an item to the hardware catalog

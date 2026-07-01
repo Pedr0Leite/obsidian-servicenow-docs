@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-13"
 reading_time_minutes: 1
 breadcrumb: [Data Certification, CMDB data management, Configuration Management Database \(CMDB\), Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - cmdb
+  - cis
+  - relationships
+  - health
+  - type-task
 ---
 
 # Run a certification policy on-demand

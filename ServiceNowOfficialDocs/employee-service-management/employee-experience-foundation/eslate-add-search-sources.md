@@ -11,6 +11,13 @@ last_updated: "2026-04-24"
 reading_time_minutes: 2
 keywords: [search sources, Now Assist, Employee Slate, AI Search, conversational search]
 breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Search sources for Employee Slate

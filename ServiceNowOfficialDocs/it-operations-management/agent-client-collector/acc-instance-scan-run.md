@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-07"
 reading_time_minutes: 1
 breadcrumb: [ACC health instance scan suite, ACC deployment - shared between servers and endpoints, Configuring Agent Client Collector, Agent Client Collector, IT Operations Management]
+tags:
+  - it-operations-management
+  - acc
+  - agent
+  - endpoint
+  - monitoring
+  - type-task
 ---
 
 # Run the Agent Client Collector \(ACC\) health instance scan as a scheduled job

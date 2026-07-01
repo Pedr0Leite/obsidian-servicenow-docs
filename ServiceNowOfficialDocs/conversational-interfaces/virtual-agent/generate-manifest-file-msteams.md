@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Auto-generate, manifest, file, uploading, Microsoft, Teams, MSTeams, Virtual Agent, self-configured bot]
 breadcrumb: [Integrate VA with MS Teams using self-configured bot, Specialized VA integrations for Teams, Integrate VA with Teams, Conversational Integration with Microsoft Teams, Integrate VA with messaging apps, Integrate VA with other channels, Virtual Agent, Conversational Interfaces]
+tags:
+  - conversational-interfaces
+  - virtual-agent
+  - chatbot
+  - nlu
+  - topics
+  - type-task
 ---
 
 # Auto-generate the manifest file for uploading on Microsoft Teams

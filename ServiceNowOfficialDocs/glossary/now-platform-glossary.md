@@ -8,6 +8,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 100
 keywords: [glossary terms, ACL, glossary terms, glossary terms, glossary terms, glossary terms, dashboard, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms, glossary terms]
+tags:
+  - glossary
+  - terminology
+  - definitions
+  - acronyms
+  - type-reference
 ---
 
 # ServiceNow AI Platform glossary

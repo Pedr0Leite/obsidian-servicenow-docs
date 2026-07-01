@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Use, Recommended Actions for OTSM, Operational Technology]
+tags:
+  - operational-technology
+  - ot
+  - recommended-actions
+  - automation
+  - otsm
+  - type-task
 ---
 
 # Apply Recommended Actions to your Operational Technology incidents

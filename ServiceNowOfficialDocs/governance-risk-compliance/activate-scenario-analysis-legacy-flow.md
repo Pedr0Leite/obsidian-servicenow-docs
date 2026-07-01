@@ -9,6 +9,9 @@ last_updated: "2026-05-14"
 reading_time_minutes: 3
 keywords: [Scenario Analysis, Operational Resilience, legacy flow, activate, sn\_oper\_res\_scenario\_analysis, entry points]
 breadcrumb: [Legacy scenario analysis, Scenario analysis, Manage, Operational Resilience, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - type-task
 ---
 
 # Enable the legacy scenario analysis flow

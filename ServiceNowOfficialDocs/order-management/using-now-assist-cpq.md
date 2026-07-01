@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-05-27"
 reading_time_minutes: 1
 breadcrumb: [Now Assist for CPQ, Sales Customer Relationship Management]
+tags:
+  - order-management
+  - fulfillment
+  - catalog
+  - orchestration
+  - type-concept
 ---
 
 # Using Now Assist for Configure, Price, Quote \(CPQ\)

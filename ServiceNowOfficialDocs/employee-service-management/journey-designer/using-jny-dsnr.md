@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Journey designer, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-designer
+  - custom
+  - milestones
+  - workflow
+  - type-concept
 ---
 
 # Using Journey designer

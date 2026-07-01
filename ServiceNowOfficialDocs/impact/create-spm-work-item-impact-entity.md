@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Work items, Using Impact, Impact]
+tags:
+  - impact
+  - type-task
 ---
 
 # Manage work items from an initiative in the Impact Store Application

@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Configure Contract Management Pro, Own-paper template, Third-party paper, Electronic signature, Wet signature, Initiate contract, Contract workspace, Obligation management, Add=hoc approval, Link parent-child contracts, Self-served contract request, Non-self-served contract request]
 breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - contracts
+  - lifecycle
+  - legal
+  - management
+  - type-concept
 ---
 
 # Using Contract Management Pro

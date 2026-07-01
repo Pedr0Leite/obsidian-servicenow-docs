@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Mobile experience for CSM, Schedules and sites, Use, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Get started with the Customer Service mobile application

@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Create a free-form roadmap, Plan roadmaps, Portfolio Planning, Strategic Portfolio Management]
+tags:
+  - it-business-management
+  - portfolio-planning
+  - scenarios
+  - prioritization
+  - type-concept
 ---
 
 # Managing free-form roadmap views

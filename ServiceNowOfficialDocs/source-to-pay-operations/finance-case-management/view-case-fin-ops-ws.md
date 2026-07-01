@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Workspace list page, Overview of the Finance Operations Workspace, Explore, Finance Case Management, Finance and Supply Chain applications, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - finance
+  - cases
+  - fsc
+  - management
+  - type-task
 ---
 
 # View a case from Finance Operations Workspace

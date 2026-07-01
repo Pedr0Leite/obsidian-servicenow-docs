@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 16
 keywords: [Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Base roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Primary roles, Customer Service Management Base roles]
 breadcrumb: [Reference, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-concept
 ---
 
 # Customer Service Management roles

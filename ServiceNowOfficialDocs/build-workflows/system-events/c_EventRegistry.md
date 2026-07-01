@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Exploring system events, System Events, Build workflows]
+tags:
+  - build-workflows
+  - system-events
+  - event-queue
+  - scripting
+  - triggers
+  - type-concept
 ---
 
 # Event registry

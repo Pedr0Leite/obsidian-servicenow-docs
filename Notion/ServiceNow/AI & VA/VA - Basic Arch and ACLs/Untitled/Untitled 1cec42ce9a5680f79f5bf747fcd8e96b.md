@@ -1,6 +1,8 @@
 ---
 aliases:
   - "VA - Basic Arch and ACLs – Untitled"
+area: "AI & VA"
+source: notion-export
 tags:
   - now-assist
   - virtual-agent
@@ -14,6 +16,9 @@ Column 2: Warning: Please do not modify out-of-box system topics. If these are m
 Column 3: https://support.servicenow.com/Warning_25x.pngx
 
 ## Related
+- [[Knowledge graph enhancing Virtual Agent search]]
+- [[Now Assist in AI Search]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]
 
 - [[VA - Basic Arch and ACLs]]
 - [[Now Assist]]

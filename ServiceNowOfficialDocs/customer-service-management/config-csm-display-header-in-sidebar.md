@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-18"
 reading_time_minutes: 2
 breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Organize agent workspaces, Configure, Customer Service Management]
+tags:
+  - customer-service-management
+  - type-task
 ---
 
 # Display the form ribbon and form header secondary values in the Contextual side panel

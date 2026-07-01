@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist Analytics, roles, dashboard functionality, Generative AI, Gen AI, Now Assist Analytics, admin, roles, groups, special considerations, sn\_na\_analytics\_viewer, Now Assist Analytics, admin, roles, groups, special considerations, sn\_na\_analytics\_viewer]
 breadcrumb: [Now Assist Analytics reference, Analyzing Now Assist performance, Exploring Now Assist Admin, Now Assist, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - type-concept
 ---
 
 # Now Assist Analytics roles

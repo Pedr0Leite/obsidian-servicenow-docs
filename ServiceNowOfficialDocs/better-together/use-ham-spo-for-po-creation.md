@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Solutions]
+tags:
+  - better-together
+  - integration
+  - cross-product
+  - combined-solutions
+  - type-concept
 ---
 
 # Enhancing the asset procurement experience using IT Asset Management \(ITAM\) and Sourcing and Procurement Operations \(SPO\)

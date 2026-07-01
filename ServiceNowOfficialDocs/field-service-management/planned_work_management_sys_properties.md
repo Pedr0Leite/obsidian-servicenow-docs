@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Planned Work Management components, Components installed with additional plugins, Reference, Field Service Management]
+tags:
+  - field-service-management
+  - type-reference
 ---
 
 # Planned Work Management system properties

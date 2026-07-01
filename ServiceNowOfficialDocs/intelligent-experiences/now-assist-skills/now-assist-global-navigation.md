@@ -11,6 +11,13 @@ last_updated: "2026-05-18"
 reading_time_minutes: 1
 keywords: [now, assist, global, navigation, skills, LLM, Generative AI, Gen AI]
 breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI assets, Enable AI experiences]
+tags:
+  - intelligent-experiences
+  - now-assist
+  - skills
+  - catalog
+  - ai
+  - type-concept
 ---
 
 # Navigation

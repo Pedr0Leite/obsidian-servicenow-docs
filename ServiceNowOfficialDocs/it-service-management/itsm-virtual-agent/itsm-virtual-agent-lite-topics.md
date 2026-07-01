@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up ITSM Virtual Agent Lite, ITSM Virtual Agent Lite, IT Service Management]
+tags:
+  - it-service-management
+  - virtual-agent
+  - itsm
+  - chatbot
+  - deflection
+  - type-reference
 ---
 
 # ITSM Virtual Agent Lite pre-built topics

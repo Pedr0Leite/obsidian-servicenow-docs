@@ -11,6 +11,13 @@ last_updated: "2026-06-25"
 reading_time_minutes: 4
 keywords: [user resolution, map user data, user field empty, unresolved subscriptions]
 breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - saas
+  - license-management
+  - discovery
+  - optimization
+  - type-task
 ---
 
 # Associate a user with subscription records

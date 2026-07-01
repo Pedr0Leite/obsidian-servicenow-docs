@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2023-08-03"
 reading_time_minutes: 4
 breadcrumb: [Healthcare and Life Sciences Service Management Core, Healthcare and Life Sciences Service Management, Healthcare and Life Sciences]
+tags:
+  - healthcare-life-sciences
+  - hlsm
+  - core
+  - data-model
+  - healthcare
+  - type-concept
 ---
 
 # Configuring Healthcare and Life Sciences Service Management Core

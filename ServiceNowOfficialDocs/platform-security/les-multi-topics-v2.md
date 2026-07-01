@@ -8,6 +8,9 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Create a log source configuration, Administer, Log Export Service \(LES\), Platform Security]
+tags:
+  - platform-security
+  - type-task
 ---
 
 # Create source type and multi topics in the LES source table

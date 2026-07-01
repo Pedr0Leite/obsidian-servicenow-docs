@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Enterprise security case management applications, Security Operations]
+tags:
+  - security-management
+  - type-reference
 ---
 
 # Threat Intelligence

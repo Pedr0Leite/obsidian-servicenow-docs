@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Creating and managing audience-specific templates, Configure Journey designer features, Configure, Journey designer, Employee Journey Management, HR Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - journey-designer
+  - custom
+  - milestones
+  - workflow
+  - type-task
 ---
 
 # Create and manage action plan task templates

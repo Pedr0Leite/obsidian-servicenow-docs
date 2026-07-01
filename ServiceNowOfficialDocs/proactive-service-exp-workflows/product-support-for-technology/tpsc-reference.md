@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-05-26"
 reading_time_minutes: 1
 breadcrumb: [Technology Product Support Case, Product Support for Technology]
+tags:
+  - proactive-service-exp-workflows
+  - proactive
+  - product-support
+  - workflows
+  - type-reference
 ---
 
 # Technology Product Support Case reference

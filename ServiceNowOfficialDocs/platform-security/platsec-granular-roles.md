@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Granular admin roles, platform security admin roles, ServiceNow security admin roles, security admin, security roles, access management, security assigning roles, maintain security, enforce conformance]
 breadcrumb: [Granular admin roles]
+tags:
+  - platform-security
+  - type-concept
 ---
 
 # Platform security granular admin roles

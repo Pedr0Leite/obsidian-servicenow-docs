@@ -11,6 +11,13 @@ last_updated: "2026-05-03"
 reading_time_minutes: 11
 keywords: [Amazon Bedrock, AI Agent Topology Mapping, AWS Bedrock, AI discovery]
 breadcrumb: [Reference, AI Agent Topology Mapping, ITOM Visibility, IT Operations Management]
+tags:
+  - it-operations-management
+  - itom-visibility
+  - cmdb
+  - health
+  - relationships
+  - type-reference
 ---
 
 # Amazon Bedrock pattern-based discovery

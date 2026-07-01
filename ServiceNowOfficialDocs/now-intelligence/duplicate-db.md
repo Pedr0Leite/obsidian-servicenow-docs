@@ -9,6 +9,9 @@ last_updated: "2025-10-27"
 reading_time_minutes: 2
 keywords: [How to copy a dashboard, How to copy inline dashboards]
 breadcrumb: [Working with in-line dashboards, Dashboards, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Duplicate a Platform Analytics dashboard

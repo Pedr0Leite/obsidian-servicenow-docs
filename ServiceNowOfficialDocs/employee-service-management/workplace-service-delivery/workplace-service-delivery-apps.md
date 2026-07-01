@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 16
 breadcrumb: [Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - workplace
+  - service-delivery
+  - type-concept
 ---
 
 # Workplace Service Delivery applications

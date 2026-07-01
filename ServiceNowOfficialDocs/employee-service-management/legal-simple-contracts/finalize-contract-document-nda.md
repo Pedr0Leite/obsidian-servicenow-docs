@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Non-disclosure agreement requests in Legal Simple Contracts, Requests, Legal Simple Contracts, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - contracts
+  - simplified
+  - clm
+  - type-task
 ---
 
 # Review and finalize the contract document

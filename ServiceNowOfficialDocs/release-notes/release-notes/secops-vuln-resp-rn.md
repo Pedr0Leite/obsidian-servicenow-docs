@@ -6,6 +6,12 @@ release: australia
 topic_type: reference
 last_updated: "2026-06-05"
 reading_time_minutes: 6
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Vulnerability Response release notes

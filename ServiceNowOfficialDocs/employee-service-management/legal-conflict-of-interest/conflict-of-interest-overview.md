@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 6
 keywords: [Conflict of interest, Conversational intake for COI, COI employee center, legal requests]
 breadcrumb: [Legal Conflict of Interest, Legal Service Delivery Practice Applications, Legal Service Delivery, Legal and Contract Operations, Employee Service Management]
+tags:
+  - employee-service-management
+  - legal
+  - conflict-of-interest
+  - compliance
+  - disclosure
+  - type-concept
 ---
 
 # Exploring Legal Conflict of Interest

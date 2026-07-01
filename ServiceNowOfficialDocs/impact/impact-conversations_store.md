@@ -8,6 +8,9 @@ topic_type: concept
 last_updated: "2026-06-25"
 reading_time_minutes: 1
 breadcrumb: [Using Impact, Impact]
+tags:
+  - impact
+  - type-concept
 ---
 
 # Impact Conversations

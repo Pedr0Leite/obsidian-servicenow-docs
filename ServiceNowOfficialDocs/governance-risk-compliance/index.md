@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: grc
 doc_type: toc
+tags:
+  - governance-risk-compliance
 ---
 
 # Australia Workflow Data Fabric

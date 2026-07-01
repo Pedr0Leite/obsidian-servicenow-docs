@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Install Workplace Core, Workplace Core, Safe Workplace, Health and Safety, Employee Service Management]
+tags:
+  - employee-service-management
+  - safe-workplace
+  - return-to-office
+  - covid
+  - facility
+  - type-reference
 ---
 
 # Components installed with Workplace Core

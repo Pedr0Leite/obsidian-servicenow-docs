@@ -10,6 +10,12 @@ topic_type: task
 last_updated: "2026-06-02"
 reading_time_minutes: 1
 breadcrumb: [Advanced configurations, Workforce Optimization for ITSM, IT Service Management]
+tags:
+  - it-service-management
+  - workforce-optimization
+  - scheduling
+  - itsm
+  - type-task
 ---
 
 # Configure filters for ITSM Manager Workspace

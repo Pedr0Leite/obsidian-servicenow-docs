@@ -11,6 +11,13 @@ last_updated: "2026-05-25"
 reading_time_minutes: 1
 keywords: [publish work set standard, create work set]
 breadcrumb: [Standard and task life cycles, Industrial Standards, Use, Digital Factory Workspace, Industrial Connected Workforce]
+tags:
+  - industrial-connected-workforce
+  - factory
+  - digital-twin
+  - manufacturing
+  - workspace
+  - type-task
 ---
 
 # Publish a work set standard

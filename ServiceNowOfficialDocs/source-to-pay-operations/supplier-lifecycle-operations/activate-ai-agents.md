@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI, AI Agents, agentic ai, SLO AI Agent, SLO Agentic AI]
 breadcrumb: [AI driven supplier onboarding, Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - suppliers
+  - onboarding
+  - risk
+  - s2p
+  - type-task
 ---
 
 # Activate AI agents

@@ -10,6 +10,12 @@ topic_type: topic
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - workplace-central
+  - portal
+  - self-service
+  - type-topic
 ---
 
 # Workplace Central troubleshooting

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-04-06"
 reading_time_minutes: 1
 breadcrumb: [Implementing controls and assessment objectives in CAM, Using CAM, Continuous Authorization and Monitoring, Governance, Risk, and Compliance]
+tags:
+  - governance-risk-compliance
+  - continuous-monitoring
+  - controls
+  - grc
+  - risk
+  - type-task
 ---
 
 # View control tests in grid view

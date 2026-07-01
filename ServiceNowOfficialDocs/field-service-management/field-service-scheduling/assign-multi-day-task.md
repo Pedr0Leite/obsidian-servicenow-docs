@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Assigning multi-day tasks to agents, Scheduling and dispatching, Use, Field Service Management]
+tags:
+  - field-service-management
+  - scheduling
+  - territories
+  - optimization
+  - dispatch
+  - type-task
 ---
 
 # Assign multi-day tasks to agents

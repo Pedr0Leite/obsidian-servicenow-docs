@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 5
 breadcrumb: [Configure, Features, Now Assist Finance Supply Chain, Finance and Supply Chain]
+tags:
+  - source-to-pay-operations
+  - now-assist
+  - ai
+  - fsc
+  - generative
+  - type-task
 ---
 
 # Customize supplier summarization for fulfillers skill

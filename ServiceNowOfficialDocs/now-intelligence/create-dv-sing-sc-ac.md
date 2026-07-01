@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 10
 keywords: [Create single score report, Create single score visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a single score data visualization

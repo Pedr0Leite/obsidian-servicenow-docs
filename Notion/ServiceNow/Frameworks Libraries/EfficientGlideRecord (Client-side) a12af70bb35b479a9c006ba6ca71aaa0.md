@@ -1,6 +1,8 @@
 ---
 aliases:
   - "EfficientGlideRecord (Client-side)"
+area: "Frameworks Libraries"
+source: notion-export
 tags:
   - glide-record
   - client-scripting
@@ -666,6 +668,7 @@ You can simply copy-and-paste the code into a new Script Include and Global UI S
 Below, you can see the exact code in the Gist, which you can copy and paste into your environment if you prefer that over importing the XML for the Script Include using the above instructions.
 
 ## Related
+- [[Tips & tricks]]
 
 - [[Frameworks Libraries]]
 - [[AngularJS in SN]]

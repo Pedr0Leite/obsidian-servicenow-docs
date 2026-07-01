@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Components installed with Contract Management, Contract Management, IT Asset Management]
+tags:
+  - it-asset-management
+  - contracts
+  - renewals
+  - entitlements
+  - itam
+  - type-reference
 ---
 
 # Script includes installed with Contract Management

@@ -8,6 +8,9 @@ topic_type: reference
 last_updated: "2026-06-24"
 reading_time_minutes: 30
 breadcrumb: [Products combined by family]
+tags:
+  - delta-zurich-australia
+  - type-reference
 ---
 
 # Combined Enterprise Architecture release notes for upgrades from Zurich to Australia

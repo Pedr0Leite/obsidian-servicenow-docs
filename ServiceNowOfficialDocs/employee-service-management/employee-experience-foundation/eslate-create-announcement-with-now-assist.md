@@ -11,6 +11,13 @@ last_updated: "2026-04-02"
 reading_time_minutes: 2
 keywords: [conversational authoring, Now Assist Chat, AI announcements, Employee Slate]
 breadcrumb: [Conversational authoring for announcements, Employee communications, Working with Employee Slate capabilities, Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-task
 ---
 
 # Create an announcement using chat

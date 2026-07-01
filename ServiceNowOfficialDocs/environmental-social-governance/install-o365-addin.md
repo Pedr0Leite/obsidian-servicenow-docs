@@ -8,6 +8,13 @@ topic_type: task
 last_updated: "2026-06-05"
 reading_time_minutes: 1
 breadcrumb: [Integrating Microsoft 365 with ServiceNow reporting, Integrating Operational Sustainability Management \(formerly ESG\) with other applications, Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]
+tags:
+  - environmental-social-governance
+  - esg
+  - sustainability
+  - reporting
+  - carbon
+  - type-task
 ---
 
 # Install the ServiceNow Document designer add-in

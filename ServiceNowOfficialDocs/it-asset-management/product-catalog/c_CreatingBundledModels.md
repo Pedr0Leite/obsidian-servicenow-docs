@@ -10,6 +10,13 @@ topic_type: concept
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Models, Product Catalog, IT Asset Management]
+tags:
+  - it-asset-management
+  - product-catalog
+  - models
+  - catalog
+  - itam
+  - type-concept
 ---
 
 # Bundled models

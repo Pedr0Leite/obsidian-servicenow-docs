@@ -4,6 +4,8 @@ locale: en-US
 release: australia
 bundle: delta3aw
 doc_type: toc
+tags:
+  - delta-washingtondc-australia
 ---
 
 # australia Combined Product Files

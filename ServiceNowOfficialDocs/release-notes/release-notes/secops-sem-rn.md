@@ -7,6 +7,12 @@ topic_type: reference
 last_updated: "2026-06-11"
 reading_time_minutes: 12
 keywords: [usem release notes]
+tags:
+  - release-notes
+  - changelog
+  - versions
+  - updates
+  - type-reference
 ---
 
 # Unified Security Exposure Management \(USEM\) notes

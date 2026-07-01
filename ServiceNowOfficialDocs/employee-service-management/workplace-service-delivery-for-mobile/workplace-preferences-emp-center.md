@@ -11,6 +11,13 @@ last_updated: "2026-03-12"
 reading_time_minutes: 3
 keywords: [Workplace service delivery for mobile, employee workplace preferences]
 breadcrumb: [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile, Workplace Service Delivery for Mobile, Workplace Service Delivery, Employee Service Management]
+tags:
+  - employee-service-management
+  - wsd
+  - mobile
+  - app
+  - workplace
+  - type-task
 ---
 
 # Manage your in-office presence preferences

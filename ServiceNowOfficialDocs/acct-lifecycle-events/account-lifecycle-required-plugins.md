@@ -8,6 +8,14 @@ topic_type: reference
 last_updated: "2026-06-07"
 reading_time_minutes: 2
 breadcrumb: [Getting started, Configure, Customer Success Management]
+tags:
+  - acct-lifecycle-events
+  - account-lifecycle
+  - ale
+  - blueprint
+  - case-management
+  - sub-flows
+  - type-reference
 ---
 
 # Plugins activated with Customer Success Management

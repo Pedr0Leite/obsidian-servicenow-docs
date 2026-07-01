@@ -9,6 +9,12 @@ last_updated: "2026-06-03"
 reading_time_minutes: 1
 keywords: [Now Assist, generative AI]
 breadcrumb: [Exploring Now Assist, Now Assist for Mobile, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # ServiceNow AI Lens for mobile

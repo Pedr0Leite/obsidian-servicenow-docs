@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Release Management concepts, Release Management, IT Service Management]
+tags:
+  - it-service-management
+  - release
+  - deployment
+  - planning
+  - itsm
+  - type-reference
 ---
 
 # Default state categories for Release and Release task tables

@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 2
 breadcrumb: [View territory and demand channel summary, Using the Capacity Console, Capacity, Managing workforce, Use, Field Service Management]
+tags:
+  - field-service-management
+  - dispatch
+  - workforce
+  - management
+  - fsm
+  - type-task
 ---
 
 # Update capacity value and reservation for a territory in capacity console

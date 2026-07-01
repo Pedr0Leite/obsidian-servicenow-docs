@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-13"
 reading_time_minutes: 6
 breadcrumb: [List reports, Report types, Reporting, Reporting, dashboards, and Performance Analytics in the Core UI, Platform Analytics]
+tags:
+  - now-intelligence
+  - reports
+  - builder
+  - scheduling
+  - analytics
+  - type-task
 ---
 
 # Create a list report with question columns

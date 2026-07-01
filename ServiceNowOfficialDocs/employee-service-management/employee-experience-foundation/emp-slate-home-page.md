@@ -11,6 +11,13 @@ last_updated: "2025-01-27"
 reading_time_minutes: 2
 keywords: [Employee Slate home page, home experience, personalized home, widgets, Employee Slate]
 breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Management]
+tags:
+  - employee-service-management
+  - employee-experience
+  - foundation
+  - ex
+  - platform
+  - type-concept
 ---
 
 # Employee Slate home

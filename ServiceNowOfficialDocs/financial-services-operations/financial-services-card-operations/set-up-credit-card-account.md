@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [Setting up a new credit card account, Use, Card Operations, Banking applications, Financial Services Operations \(FSO\)]
+tags:
+  - financial-services-operations
+  - card-ops
+  - fso
+  - cases
+  - banking
+  - type-task
 ---
 
 # Set up a credit card account for a customer and close the case

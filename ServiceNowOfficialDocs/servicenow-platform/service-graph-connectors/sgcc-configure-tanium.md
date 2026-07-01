@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2025-12-09"
 reading_time_minutes: 4
 breadcrumb: [Tanium, Service Graph Connectors, Integrating third-party data into CMDB, Configuration Management, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - sgc
+  - service-graph
+  - cmdb
+  - connectors
+  - type-task
 ---
 
 # Configure Service Graph Connector for Tanium using SGC Central

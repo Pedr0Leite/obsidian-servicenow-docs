@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-05-12"
 reading_time_minutes: 1
 breadcrumb: [Configure Telecom Assurance, Configure, Telecommunications Service Operations Management]
+tags:
+  - telecom-service-ops
+  - telecom
+  - service-ops
+  - assurance
+  - incidents
+  - type-task
 ---
 
 # Configure elastic event pull connectors for MPN

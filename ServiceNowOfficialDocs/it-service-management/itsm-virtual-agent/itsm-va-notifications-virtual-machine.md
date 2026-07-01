@@ -10,6 +10,13 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 1
 breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual Agent, IT Service Management]
+tags:
+  - it-service-management
+  - virtual-agent
+  - itsm
+  - chatbot
+  - deflection
+  - type-reference
 ---
 
 # Actionable notifications for virtual machines in ITSM Virtual Agent

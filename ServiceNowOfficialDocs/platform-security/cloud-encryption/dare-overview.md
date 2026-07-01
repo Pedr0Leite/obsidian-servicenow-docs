@@ -10,6 +10,12 @@ topic_type: concept
 last_updated: "2026-05-21"
 reading_time_minutes: 3
 breadcrumb: [Encryption]
+tags:
+  - platform-security
+  - cloud-encryption
+  - kms
+  - keys
+  - type-concept
 ---
 
 # Cloud Encryption with Key Management

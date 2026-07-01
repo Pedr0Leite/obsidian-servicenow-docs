@@ -10,6 +10,12 @@ topic_type: reference
 last_updated: "2026-03-12"
 reading_time_minutes: 3
 breadcrumb: [Workflow editor keyboard navigation, Workflow editor, Classic Workflow, ServiceNow AI Platform Additional Capabilities, Extend ServiceNow AI Platform capabilities]
+tags:
+  - servicenow-platform
+  - legacy-workflow
+  - classic
+  - deprecated
+  - type-reference
 ---
 
 # Workflow drawing canvas keyboard commands

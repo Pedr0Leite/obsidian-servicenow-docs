@@ -10,6 +10,13 @@ topic_type: task
 last_updated: "2026-03-12"
 reading_time_minutes: 4
 breadcrumb: [Model categories, Product Catalog, Asset Management, IT Service Management]
+tags:
+  - it-service-management
+  - catalog
+  - products
+  - itsm
+  - models
+  - type-task
 ---
 
 # Create model categories

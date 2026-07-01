@@ -9,6 +9,9 @@ last_updated: "2026-03-12"
 reading_time_minutes: 9
 keywords: [Create gauge report, Create gauge visualization]
 breadcrumb: [Create, Data visualizations, Platform Analytics experience, Platform Analytics]
+tags:
+  - now-intelligence
+  - type-task
 ---
 
 # Create a gauge data visualization in the Visualization Designer

@@ -8,6 +8,12 @@ topic_type: concept
 last_updated: "2026-06-09"
 reading_time_minutes: 3
 breadcrumb: [Mobile app settings, Using the mobile apps, Mobile Platform]
+tags:
+  - mobile
+  - now-mobile
+  - apps
+  - platform
+  - type-concept
 ---
 
 # Offline mode for mobile
