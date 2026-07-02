@@ -5,33 +5,117 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
-    { "query": "tag:#employee-service-management", "color": { "a": 1, "rgb": 15087942 } },
-    { "query": "tag:#servicenow-platform", "color": { "a": 1, "rgb": 16032353 } },
-    { "query": "tag:#it-operations-management", "color": { "a": 1, "rgb": 2792847 } },
-    { "query": "tag:#security-management", "color": { "a": 1, "rgb": 2508371 } },
-    { "query": "tag:#it-service-management", "color": { "a": 1, "rgb": 15167313 } },
-    { "query": "tag:#governance-risk-compliance", "color": { "a": 1, "rgb": 10182117 } },
-    { "query": "tag:#platform-administration", "color": { "a": 1, "rgb": 46296 } },
-    { "query": "tag:#it-business-management", "color": { "a": 1, "rgb": 8435992 } },
-    { "query": "tag:#customer-service-management", "color": { "a": 1, "rgb": 16758531 } },
-    { "query": "tag:#platform-security", "color": { "a": 1, "rgb": 8599788 } },
-    { "query": "tag:#it-asset-management", "color": { "a": 1, "rgb": 16483584 } },
-    { "query": "tag:#application-development", "color": { "a": 1, "rgb": 448160 } },
-    { "query": "tag:#cmdb", "color": { "a": 1, "rgb": 15681391 } },
-    { "query": "tag:#now-intelligence", "color": { "a": 1, "rgb": 1149618 } }
+    {
+      "query": "tag:#employee-service-management",
+      "color": {
+        "a": 1,
+        "rgb": 15087942
+      }
+    },
+    {
+      "query": "tag:#servicenow-platform",
+      "color": {
+        "a": 1,
+        "rgb": 16032353
+      }
+    },
+    {
+      "query": "tag:#it-operations-management",
+      "color": {
+        "a": 1,
+        "rgb": 2792847
+      }
+    },
+    {
+      "query": "tag:#security-management",
+      "color": {
+        "a": 1,
+        "rgb": 2508371
+      }
+    },
+    {
+      "query": "tag:#it-service-management",
+      "color": {
+        "a": 1,
+        "rgb": 15167313
+      }
+    },
+    {
+      "query": "tag:#governance-risk-compliance",
+      "color": {
+        "a": 1,
+        "rgb": 10182117
+      }
+    },
+    {
+      "query": "tag:#platform-administration",
+      "color": {
+        "a": 1,
+        "rgb": 46296
+      }
+    },
+    {
+      "query": "tag:#it-business-management",
+      "color": {
+        "a": 1,
+        "rgb": 8435992
+      }
+    },
+    {
+      "query": "tag:#customer-service-management",
+      "color": {
+        "a": 1,
+        "rgb": 16758531
+      }
+    },
+    {
+      "query": "tag:#platform-security",
+      "color": {
+        "a": 1,
+        "rgb": 8599788
+      }
+    },
+    {
+      "query": "tag:#it-asset-management",
+      "color": {
+        "a": 1,
+        "rgb": 16483584
+      }
+    },
+    {
+      "query": "tag:#application-development",
+      "color": {
+        "a": 1,
+        "rgb": 448160
+      }
+    },
+    {
+      "query": "tag:#cmdb",
+      "color": {
+        "a": 1,
+        "rgb": 15681391
+      }
+    },
+    {
+      "query": "tag:#now-intelligence",
+      "color": {
+        "a": 1,
+        "rgb": 1149618
+      }
+    }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.12083333333333,
   "collapse-forces": true,
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.026012294873748912,
+  "close": true
 }
