@@ -1,6 +1,22 @@
 ---
 title: Capacity Management Overview (x_u4bsh_capmgmt)
-tags: [servicenow, fluent-sdk, capacity-planning, internal-tool]
+tags:
+  - servicenow
+  - fluent-sdk
+  - capacity-planning
+  - internal-tool
+  - scoped-app
+  - now-sdk
+  - business-rules
+  - access-control
+  - rest-api
+  - cross-scope
+  - update-sets
+  - byoui
+  - cmdb
+aliases:
+  - x_u4bsh_capmgmt
+  - Capacity Planner
 date: 2026-07-02
 ---
 
@@ -8,7 +24,7 @@ date: 2026-07-02
 
 ## 1. Overview
 
-**Capacity Management Overview** is a custom ServiceNow application, scoped as `x_u4bsh_capmgmt` (scope ID `0aaadae787e50b10d939a7573cbb353c`), built with the **Now SDK (Fluent)**, SDK version `@servicenow/sdk` 4.8.0. It lets planners and engineering leads plan projects, BAU work, and enhancements against team capacity (FTE — full-time equivalents) across the year.
+**Capacity Management Overview** is a custom ServiceNow application, scoped as `x_u4bsh_capmgmt` (scope ID `0aaadae787e50b10d939a7573cbb353c`), built with the [[servicenow-sdk|Now SDK (Fluent)]], SDK version `@servicenow/sdk` 4.8.0. It lets planners and engineering leads plan projects, BAU work, and enhancements against team capacity (FTE — full-time equivalents) across the year.
 
 It's aimed at people who need to answer "which teams are over- or under-allocated in a given month, and which projects are driving that" — engineering managers, resource planners, and leadership doing quarterly/annual planning.
 
@@ -26,7 +42,7 @@ This app replaces that spreadsheet with:
 
 ## 3. Data Model
 
-Five custom tables, all prefixed `x_u4bsh_capmgmt_`.
+Five custom tables, all prefixed `x_u4bsh_capmgmt_`, defined via the Fluent [[table-api-now-ts|Table API]] (see also [[fluent-constructs|Fluent constructs]] for the underlying metadata-as-code model).
 
 ### x_u4bsh_capmgmt_initiative ("Capacity Plan Item")
 
@@ -65,7 +81,7 @@ An engineering or business team that capacity is planned against.
 | `u_order` | integer | Display sequence in the UI. |
 | `u_active` | boolean | Default `true`. |
 | `u_is_role_team` | boolean | Default `false`. Marks "role" teams (e.g. BA, Architecture, PM) used for missing-role warnings in the UI. |
-| `u_business_app` | reference → `cmdb_ci_business_app` (global scope, cross-scope read) | Resolves a business application name for the team. |
+| `u_business_app` | reference → [[eaw-business-application-form\|cmdb_ci_business_app]] (global scope, cross-scope read) | Resolves a business application name for the team. |
 
 Unique index on `u_name`.
 
@@ -77,6 +93,7 @@ One row per calendar month (e.g. "Jan 2025"). Added later as **Phase 1 of an inc
 |---|---|---|
 | `u_label` | string, max 10 | Mandatory, e.g. `"Jan 2025"`. |
 | `u_start_date`, `u_end_date` | date | Mandatory. |
+| `u_month_sequence` | unique value | Added 2026-07 to fix chronological ordering. Sorting by this field ascending gives correct oldest→newest order across year boundaries — unlike `u_label`/`u_start_date`, which either aren't reliably sortable client-side or require dot-walking. Intended as the ordering key for period pickers and any month-range UI (allocation grid, plan item pickers). Directly addresses the "multi-year period migration incomplete" item in [[#10. Known Issues / Architectural Debt]]. |
 
 ### x_u4bsh_capmgmt_allocation ("Capacity Allocation")
 
@@ -130,7 +147,7 @@ gap = headcount.u_available_fte − SUM(allocation.u_fte)
 
 ## 4. Roles & Permissions
 
-Roles nest: `admin` ⊃ `planner` ⊃ `viewer`.
+Roles nest: `admin` ⊃ `planner` ⊃ `viewer`, defined via the Fluent [[role-api-now-ts|Role API]] and enforced with table- and field-level [[access-control-rules|ACLs]] ([[acl-api-now-ts|ACL API]] in Fluent).
 
 | Role | Full name | Grants |
 |---|---|---|
@@ -138,14 +155,14 @@ Roles nest: `admin` ⊃ `planner` ⊃ `viewer`.
 | Planner | `x_u4bsh_capmgmt.planner` | Contains viewer. Write + create on `initiative` and `allocation`. Delete on those two tables is **admin-only**. |
 | Admin | `x_u4bsh_capmgmt.admin` | Contains planner. `scopedAdmin: true`. Full write/create/delete on the config tables (`team`, `headcount`, `period`), plus delete on `initiative`/`allocation`. |
 
-### Field-level ACLs (finer-grained than table ACLs)
+### Field-level ACLs ([[acl-function-fields|finer-grained than table ACLs]])
 
 - `u_snow_ref`, `u_snow_status`, `u_area`, `u_priority`, `u_tshirt_size`, `u_ado_ref`, `u_ado_status` — writable by **planner only while `u_initiative` is empty** (ACL script: `current.u_initiative == ''`). Once a plan item is linked to a real initiative, the `sync-initiative-fields` Business Rule owns these fields, and direct user edits are blocked at the ACL layer.
 - `u_start`, `u_end` — hard deny-all-writes (`answer = true`), with `adminOverrides: false`. These are 100% system-derived and cannot be hand-edited by anyone, including admins.
 
 ## 5. Business Logic
 
-All Business Rules live in `src/fluent/business-rules/*.now.ts` with server logic in `src/server/business-rules/*.ts`.
+All [[business-rule-api-now-ts|Business Rules]] live in `src/fluent/business-rules/*.now.ts` with server logic in `src/server/business-rules/*.ts`.
 
 | Business Rule | Trigger | What it does |
 |---|---|---|
@@ -159,7 +176,7 @@ In short: **allocations drive dates, and the linked external initiative drives s
 
 ## 6. REST API Surface
 
-Defined in `src/fluent/restapi/capacity-api.now.ts`, implemented in `src/server/capacity-handler.ts`, service id `"capacity"`.
+Defined via the Fluent [[scripted-rest-api-api-now-ts|Scripted REST API]] in `src/fluent/restapi/capacity-api.now.ts`, implemented in `src/server/capacity-handler.ts`, service id `"capacity"`.
 
 | Endpoint | Method | Handler | Purpose |
 |---|---|---|---|
@@ -172,7 +189,7 @@ Defined in `src/fluent/restapi/capacity-api.now.ts`, implemented in `src/server/
 
 ## 7. Frontend / UX
 
-The frontend is a vanilla-JS SPA (`src/client/app.js`, ~2,260 lines, plus `index.html`), served as a BYOUI static page via a `UiPage` at `x_u4bsh_capmgmt_planner.do`. The built JS asset is registered as a `sys_ux_lib_asset` (`x_u4bsh_capmgmt/app` + `x_u4bsh_capmgmt/app.js.map`).
+The frontend is a vanilla-JS SPA (`src/client/app.js`, ~2,260 lines, plus `index.html`), served as a BYOUI static page via a [[fluent-ui-page-api|UiPage]] at `x_u4bsh_capmgmt_planner.do`. The built JS asset is registered as a `sys_ux_lib_asset` (`x_u4bsh_capmgmt/app` + `x_u4bsh_capmgmt/app.js.map`).
 
 ### Views
 
@@ -200,7 +217,7 @@ A `curView` state machine (`switchView()`) toggles between:
 
 ## 8. Cross-Scope Integration
 
-Two `CrossScopePrivilege` declarations (`src/fluent/acls/cross-scope.now.ts`) grant read-only access into tables owned by other scopes:
+Two `CrossScopePrivilege` declarations, defined via the Fluent [[cs-privileges-api-now-ts|Cross-Scope Privilege API]] (`src/fluent/acls/cross-scope.now.ts`), grant read-only access into tables owned by other scopes:
 
 - **`x_u4bsh_initiati_0_initiative`** (scope `x_u4bsh_initiati_0`, sys_id `c126b5741bb5a690f004dc6fe54bcb67`) — the external, authoritative initiative-intake table. This app overlays capacity/allocation data on top of records that live here; `u_initiative` on the local plan item links back to it.
 - **`cmdb_ci_business_app`** (global scope) — used to resolve business application display names for a team's `u_business_app` reference, and for the "available to add" initiative filter.
@@ -213,14 +230,14 @@ npm run build        # now-sdk build — compiles Fluent source into dist/
 npm run deploy       # now-sdk install — pushes dist/ to the authenticated instance
 ```
 
-`npm run build` must always precede `npm run deploy` — a failed build leaves the prior artifacts in `dist/` in place, so deploying without rebuilding first ships stale output.
+See [[build-deploy-application-now-sdk|Build and deploy an application with the Now SDK]] for the underlying CLI workflow. `npm run build` must always precede `npm run deploy` — a failed build leaves the prior artifacts in `dist/` in place, so deploying without rebuilding first ships stale output.
 
 Two manual steps are required after every deploy, neither of which is automated by the SDK:
 
-1. **Commit the Update Set.** In-browser, the Update Set for `x_u4bsh_capmgmt` must be manually taken through Complete → Preview → Commit before the change actually takes effect on the instance.
+1. **Commit the [[system-update-sets|Update Set]].** In-browser, the Update Set for `x_u4bsh_capmgmt` must be manually taken through Complete → Preview → [[t_CommitAnUpdateSet|Commit]] before the change actually takes effect on the instance.
 2. **Hard-refresh the browser** on `x_u4bsh_capmgmt_planner.do`. The BYOUI JS asset is cached aggressively, so a normal refresh can silently keep serving the previous build.
 
-Authentication against the instance is managed via the SDK CLI (`npx now-sdk auth ...`), not via `now.config.json`, which only holds app identity (`scope`, `scopeId`, `name`).
+Authentication against the instance is managed via the SDK CLI (`npx now-sdk auth ...`), not via `now.config.json`, which only holds app identity (`scope`, `scopeId`, `name`); see [[create-application-now-sdk|Create an application with the Now SDK]] for how that identity is established.
 
 ## 10. Known Issues / Architectural Debt
 
@@ -230,9 +247,28 @@ These are documented here as context for future work, not as an active bug list.
    - Server-side, `loadPeriodMaps()` keys its lookup maps by bare month abbreviation, so two `Period` records that fall in the same calendar month in different years can silently collide/overwrite each other.
    - Client-side, `activeMos()` is a plain slice of the 12-entry `MONTHS` array with no year concept, so a month range spanning a year boundary (e.g. Oct 2025 → Mar 2026) produces an empty slice and the grid silently renders nothing.
    Both are deferred pending a proper multi-year data migration rather than being quick fixes.
+   - **Update (2026-07):** `u_month_sequence` was added to `x_u4bsh_capmgmt_period` (unique, sorts A→Z chronologically across years) specifically to unblock this. It's the ordering key that lets period pickers and month-range UI work correctly across a year boundary without a full migration. See [[capacity-planner-set-start-and-end-date-to-plan-items|the date-backfill note]] for a related script that already leans on `u_period`/period dates instead of the legacy `u_month` field.
 
 2. **Save vs. Export are easy to conflate in the UI.** At one point the "export" button was accidentally wired to trigger a save-to-ServiceNow action instead of the XLSX export. This has been fixed, but it's a reminder that these are two genuinely distinct actions (`saveToServiceNow()` vs. `doExport()`/`buildXLSX()`) that look similar in the toolbar.
 
 3. **N+1 query patterns have needed batching more than once.** Both the `derive-initiative-dates` Business Rule and `getData()`'s linked-initiative resolution originally issued one GlideRecord query per row; both were later rewritten to use a single batched `IN`-query. Worth checking any new per-row logic against this pattern before it ships.
 
 4. **`u_steerco_status` no longer exists.** It was a legacy field, fully removed from the schema, server code, and client code. Noted here only so it isn't accidentally reintroduced out of habit when extending status-related fields.
+
+## 11. Related Documentation
+
+**Now SDK / Fluent (build tooling for this app):**
+- [[servicenow-sdk]] — landing page for the Now SDK used to build this app
+- [[fluent-constructs]] — the metadata-as-code model Fluent source files follow
+- [[create-application-now-sdk]] / [[build-deploy-application-now-sdk]] — app scaffolding and the build → deploy CLI flow
+- [[table-api-now-ts]] — Fluent API used to define the 5 custom tables
+- [[business-rule-api-now-ts]] — Fluent API backing the Business Rules in [[#5. Business Logic]]
+- [[scripted-rest-api-api-now-ts]] — Fluent API backing the [[#6. REST API Surface]]
+- [[fluent-ui-page-api]] — Fluent API behind the BYOUI `UiPage` serving the SPA
+- [[role-api-now-ts]] / [[acl-api-now-ts]] / [[cs-privileges-api-now-ts]] — Fluent APIs behind [[#4. Roles & Permissions]] and [[#8. Cross-Scope Integration]]
+
+**Platform concepts referenced above:**
+- [[access-control-rules]] — general ACL rule model underlying the viewer/planner/admin role design
+- [[acl-function-fields]] — field-level ACL mechanics used for `u_start`/`u_end` and the sync-owned fields
+- [[eaw-business-application-form]] — the `cmdb_ci_business_app` record type that `team.u_business_app` resolves against
+- [[system-update-sets]] / [[t_CommitAnUpdateSet]] — the manual Update Set commit step required after every deploy
