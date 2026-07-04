@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 1149618
       }
+    },
+    {
+      "query": "tag:#scripts OR tag:#scripting OR tag:#script-include OR tag:#client-script OR tag:#glide-record OR tag:#background-scripts OR tag:#javascript OR tag:#glide-ajax",
+      "color": {
+        "a": 1,
+        "rgb": 16736256
+      }
     }
   ],
   "collapse-display": false,

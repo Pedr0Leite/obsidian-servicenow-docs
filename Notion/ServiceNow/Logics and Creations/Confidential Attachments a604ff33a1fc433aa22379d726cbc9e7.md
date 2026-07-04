@@ -63,3 +63,4 @@ Don’t forget to create the custom table:
 - [[Security & ACL]]
 - [[Enabling Report View ACLs]]
 - [[Possible Ways for Making an Attachment Mandatory S]]
+- [[loop info from one table in another table]]

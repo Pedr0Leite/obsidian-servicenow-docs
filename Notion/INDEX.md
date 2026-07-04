@@ -2,7 +2,7 @@
 
 Navigation index for the personal Notion export (`Notion/ServiceNow/`). Every note below has YAML frontmatter with an `aliases` entry (its clean title) and `tags`, plus a `## Related` section of `[[wikilinks]]` to other notes — Obsidian resolves these links via the alias, so the graph view now connects across folders.
 
-Total notes indexed: 264.
+Total notes indexed: 285.
 
 ---
 
@@ -497,6 +497,36 @@ Total notes indexed: 264.
 | Note | Tags |
 |------|------|
 | [[Workflows]] | #workflows, #sla, #flow-designer |
+
+---
+
+## Scripts
+
+Personal script library (`Notion/ServiceNow/Scripts/`), converted from raw `.js` snippets into notes so they surface in search/graph alongside topic notes.
+
+| Note | Tags |
+|------|------|
+| [[amountToString]] | #javascript, #number-formatting, #localization, #scripting, #scripts |
+| [[Compare Instance Tickets Shared-PT]] | #rest-api, #table-api, #domain-separation, #glide-record, #integrations, #migrations, #scripts |
+| [[Compare subcat between Instance]] | #rest-api, #table-api, #glide-record, #integrations, #data-sync, #scripts |
+| [[create_translations]] | #translations, #localization, #glide-record, #i18n, #sys-choice, #scripts |
+| [[ExcelToJSON]] | #excel-parser, #nodejs, #data-import, #glide-record, #scripts |
+| [[generateCatalogItemFromUIAction]] | #ui-action, #script-include, #glide-ajax, #catalog-item, #cart-api, #scripts |
+| [[Loop a list of users over another table]] | #glide-record, #background-scripts, #sys-user-has-role, #scripting, #scripts |
+| [[loop info from one table in another table]] | #glide-record, #attachments, #knowledge-base, #background-scripts, #scripts |
+| [[portal_fields_to_back_fields]] | #catalog-item, #item-option-new, #sys-dictionary, #service-catalog, #glide-record, #scripts |
+| [[Remove duplicates_various ways]] | #javascript, #array-methods, #scripting, #scripts |
+| [[reprocess_email_ntimes]] | #email, #sysevent, #background-scripts, #testing, #scripts |
+| [[restore archive records]] | #archiving, #glide-record, #background-scripts, #data-management, #scripts |
+| [[re_run_flows]] | #flow-designer, #flow-api, #scripting, #scripts |
+| [[RunFlowsViaScript]] | #flow-designer, #flow-api, #sys-flow-context, #flow-trigger-api, #scripts |
+| [[save records in update sets that normaly wouldnt go there]] | #update-sets, #glide-update-manager2, #background-scripts, #scripts |
+| [[Search the system with a sys_id]] | #sys-metadata, #glide-record, #background-scripts, #troubleshooting, #scripts |
+| [[searchBySysId]] | #sys-metadata, #glide-record, #background-scripts, #troubleshooting, #scripts |
+| [[searchForUserInAllRecord]] | #sys-dictionary, #reference-field, #glide-record, #user-search, #scripts |
+| [[send_spec_email_to_users]] | #notifications, #event-queue, #interaction, #csm, #localization, #scripts |
+| [[Server and Client Script]] | #script-include, #client-script, #glide-ajax, #onchange, #server-client-communication, #scripts |
+| [[sortObjByMultipleValues]] | #javascript, #array-methods, #sorting, #scripting, #scripts |
 
 ---
 

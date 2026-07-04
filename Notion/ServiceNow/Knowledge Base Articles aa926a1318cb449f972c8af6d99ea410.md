@@ -39,3 +39,4 @@ tags:
 - [[Dashboards]]
 - [[Knowledge Base Articles – Integrations]]
 - [[Knowledge Base Articles – Metrics]]
+- [[loop info from one table in another table]]

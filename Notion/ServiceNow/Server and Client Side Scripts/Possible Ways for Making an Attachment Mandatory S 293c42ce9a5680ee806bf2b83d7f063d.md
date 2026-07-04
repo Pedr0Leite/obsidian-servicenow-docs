@@ -405,3 +405,5 @@ Using the same method for making attachments conditionally mandatory in Paris, f
 - [[Server and Client Side Scripts]]
 - [[ServiceNow – Service Portal]]
 - [[ServiceNow – Service Catalog]]
+- [[generateCatalogItemFromUIAction]]
+- [[portal_fields_to_back_fields]]

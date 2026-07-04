@@ -75,3 +75,4 @@ ga.getXML(function() {
 - [[Scripted Extension Point]]
 - [[The Secrets of GlideDateTime]]
 - [[Possible Ways for Making an Attachment Mandatory S]]
+- [[Server and Client Script]]

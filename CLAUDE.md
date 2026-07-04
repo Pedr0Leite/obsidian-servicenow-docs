@@ -83,3 +83,16 @@ Load this into your context — it prevents hallucination and reduces the need t
 1. Create note in `now-assist-ai/<topic>/`
 2. Add entry to `now-assist-ai/llms.txt` (pattern in `now-assist-ai/llms_template.txt`)
 3. Add row to relevant section in `INDEX.md` if it's a new area
+
+## Everything in this vault is Markdown
+
+This is an Obsidian vault — non-`.md` files (raw `.js` scripts, exports, etc.) don't get tags, frontmatter, or graph/backlink connections, so they're invisible to search and easy to lose track of. Convert them:
+
+1. Use the `obsidian-markdown` skill for syntax (frontmatter, wikilinks, callouts) and the `obsidian-cli` skill to verify the result is indexed (`obsidian search`, `obsidian read`).
+2. One `.md` note per source file, same base name, in the same folder. Delete the original non-md file — don't keep both.
+3. Frontmatter: `aliases` (clean title), `area`, `tags` (topical, matching the vault's existing tag vocabulary where possible).
+4. Body: a short description of what it does/is, then the original content — code goes in a fenced block (` ```javascript `), not an embed.
+5. A `## Related` section of `[[wikilinks]]` to topically-overlapping existing notes, and update those notes' own `## Related` sections to link back (bidirectional).
+6. Add a row to `INDEX.md` (new section if it's a new area, per the pattern above).
+
+This matches the convention already used across `Notion/ServiceNow/` — see any note there for a worked example.

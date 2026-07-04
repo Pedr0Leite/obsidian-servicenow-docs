@@ -177,6 +177,7 @@ This note documents a one-time Fix Script (`backfillPlanItemDates`) that replica
 ## Related documentation
 
 - [[capacity-planner]] — full app overview, data model, roles/ACLs, Business Rules
+- [[generate-capacity-plan-items]] — companion bulk-creation script; Plan Items it generates are exactly the ones this backfill later fixes dates for once allocations exist
 - [[access-control-rules]] — general ACL rule model, relevant to why this bypass works
 - [[acl-function-fields]] — field-level ACL mechanics for `u_start`/`u_end`
 - [[business-rule-api-now-ts]] — Fluent API backing `derive-initiative-dates`

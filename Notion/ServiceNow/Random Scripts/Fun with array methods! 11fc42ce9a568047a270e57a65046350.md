@@ -370,3 +370,6 @@ in mind that there some other options that might make your code a little
 - [[Create translation for an existing choice]]
 - [[Ler anexos excel via BG]]
 - [[EfficientGlideRecord (Client-side)]]
+- [[Remove duplicates_various ways]]
+- [[sortObjByMultipleValues]]
+- [[amountToString]]

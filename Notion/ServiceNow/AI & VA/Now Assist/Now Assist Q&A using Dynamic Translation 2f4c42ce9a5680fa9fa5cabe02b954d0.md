@@ -24,3 +24,5 @@ tags:
 - [[Now Assist in AI Search]]
 - [[VA - Basic Arch and ACLs]]
 - [[GenAI]]
+- [[create_translations]]
+- [[send_spec_email_to_users]]

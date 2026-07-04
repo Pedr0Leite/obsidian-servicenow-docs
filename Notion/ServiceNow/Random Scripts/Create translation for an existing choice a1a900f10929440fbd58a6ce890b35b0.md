@@ -50,3 +50,4 @@ while (choice.next()) {
 - [[Random Scripts]]
 - [[Fun with array methods!]]
 - [[Ler anexos excel via BG]]
+- [[create_translations]]

@@ -36,3 +36,4 @@ session.onlineUnimpersonate();
 - [[Server and Client Side Scripts]]
 - [[Script include Advance structure - Inheritance]]
 - [[Security & ACL]]
+- [[searchForUserInAllRecord]]
