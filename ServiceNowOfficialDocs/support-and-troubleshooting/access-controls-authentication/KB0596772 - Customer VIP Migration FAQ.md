@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - ip-address
+  - migration
+  - data-center
+  - faq
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0596772
 kb_number: KB0596772
 last_modified: 2025-04-10
@@ -69,3 +74,7 @@ No. We are unable to see what integrations you may have or use.
   
 
 ## Resolution
+
+## Related
+
+- [[KB0623078 - Data Center Migration | Customer FAQ]] - related IP/data-center migration FAQ

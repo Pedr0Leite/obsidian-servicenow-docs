@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - saml
+  - sso
+  - clone
+  - authentication
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0538768
 kb_number: KB0538768
 last_modified: 2025-10-21
@@ -31,3 +36,10 @@ To solve the issue:
 7.  Restore the target instance's properties value and certificate. Check with the IdP administrator to determine the correct values for the **IdP Authnrequest** URL, **IdP provider** URL, **SinglelogoutRequest** URL, and the **SAML signing certificate**.  
     
 8.  Once the properties and certificate are corrected, ask users to try to log in again.
+
+## Related
+
+- [[KB0539112 - Troubleshooting SAML or SSO issues in ServiceNow]] - master SAML/SSO troubleshooting checklist
+- [[KB0538763 - Determining if the SAML certificate is incorrect]]
+- [[KB0687531 - Authorship of application was lost after clone]] - another clone side-effect to check for
+- [[t_CloneAnInstanceWASAMLIntegration]] - official docs on cloning an instance with SAML configured

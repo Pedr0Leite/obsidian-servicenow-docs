@@ -1,0 +1,56 @@
+---
+title: "Localhost and loopback IPs are not allowed in SMTP accounts"
+aliases:
+  - KB0724199
+tags:
+  - servicenow
+  - support-kb
+  - smtp
+  - email
+  - on-premise
+area: application-development
+source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0724199
+kb_number: KB0724199
+last_modified: 2026-05-04
+---
+
+## Localhost and loopback IPs are not allowed in SMTP accounts
+
+  
+
+### Issue
+
+This article explains the additional check for localhost in SMTP accounts introduced in London and how to enable localhost for on-premise installations.
+
+### Release
+
+On-Premise instances, London or greater
+
+### Cause
+
+Some on-premise installations use "localhost" for their email servers. Postfix or a similar SMTP server may have been installed on the same server as the application servers for sending (or receiving with POP3) email.
+
+Due to PRB1251337, these installations will no longer be able to use "localhost" when they upgrade to London Patch 4 HF 2 and Patch 5 or higher.
+
+The connection test will produce the following error: "**Email sender connection invalid.: Mail server localhost is invalid. Localhost or loopback address is not allowed.**"
+
+The email accounts module will show "**Host name localhost is not allowed**" when updating the SMTP account.
+
+Please see the screenshots below.
+
+![](/sys_attachment.do?sys_id=c3522cb747b2e614c2488d01426d4390)
+
+![](/sys_attachment.do?sys_id=4b522cb747b2e614c2488d01426d438d)
+
+### Resolution
+
+Use the full address (FQDN) of the node (_node.customerdomain_) instead of localhost. This will force all nodes to route their traffic through that single node.
+
+OR
+
+Create glide.email.allow\_localhost\_account in sys\_properties, set it to TRUE. Create glide.installation.production, set it to FALSE. Please note hat glide.installation.production is checked in several places such as cloning and zbooting as well as in some update scripts. It is strongly recommended that you keep glide.installation.production = false on a production instance. It may be referenced and checked in the future for any new/additional features.
+
+## Related
+
+- [[KB0722504 - Using ServiceNow blackhole or dummy email addresses]]
+- [[KB0695182 - Using DKIM for Emails from the service-now.com Domain]]

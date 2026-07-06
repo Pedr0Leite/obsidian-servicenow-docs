@@ -53,3 +53,5 @@ Rules for [[sc-access-control|access control]] lists \(ACLs\) restrict access to
 - [[sc-access-control|Access control]]
 - [[users|Users]]
 - [[sc-configuration|Configuration]]
+- [[KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow]] - support KB on the ACL evaluation order (table vs field gates)
+- [[KB0685046 -  How the Admin overrides option works in an access control (ACL) rule]] - support KB on Admin overrides behavior

@@ -1,0 +1,44 @@
+---
+title: "Duplicate email notification were sent from the instance when it was not intended"
+aliases:
+  - KB0724449
+tags:
+  - servicenow
+  - support-kb
+  - notifications
+  - business-rules
+  - sys_email
+  - email-troubleshooting
+area: application-development
+source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0724449
+kb_number: KB0724449
+last_modified: 2025-11-06
+---
+
+## Duplicate email notification were sent from the instance when it was not intended
+
+  
+
+### Issue
+
+Duplicate emails sent to the same recipients for the same record. 
+
+### Release
+
+ALL
+
+### Cause
+
+An Out of Box (OOB) business rule 'Ignore duplicates' will prevent duplicate email notifications from going out when 2 emails have same set of recipients and are meant for same target record. It is possible that duplicate emails get sent out if this business rule is customized or there are other custom business rules on the sys\_email table that have a similar logic.
+
+### Resolution
+
+Restore out of box (OOB)  'Ignore duplicates' business rule and test the functionality.
+
+## Related
+
+- [[KB0817547 - Identify the cause of duplicate email notifications]] - deeper walkthrough of business-rule causes of duplicate notifications
+- [[KB0793953 - Targeted Communication not sending emails]] - notification delivery troubleshooting
+- [[KB0745172 - Identify the source of emails sent from ServiceNow]] - how to trace where a sent email originated
+- [[KB0812521 - How to troubleshoot the Update Approval Request inbound action]] - related inbound/notification troubleshooting
+- [[send-notification-action]] - Flow Designer notification action reference

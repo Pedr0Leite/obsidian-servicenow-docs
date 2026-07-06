@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - jdbc
+  - data-sources
+  - import-sets
+  - sql
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0596441
 kb_number: KB0596441
 last_modified: 2024-04-07
@@ -52,3 +57,9 @@ Add the following property to the JDBC connection URL to enforce the old behavio
 1\. Personalize the form and add the connection URL  
 2\. Open the data source  
 3\. Append the property to the end of the connection URL. I.e. jdbc:mysql://localhost/glide?useOldAliasMetadataBehavior=true
+
+## Related
+
+- [[KB0756496 - Unable to connect to JDBC data source]] — general JDBC data source connectivity troubleshooting
+- [[KB0635950 - On JDBC data sources, the fetch size is hard-coded and cannot be modified]] — another JDBC data source limitation
+- [[configure-jdbc-driver]] — official docs on configuring JDBC drivers for data sources

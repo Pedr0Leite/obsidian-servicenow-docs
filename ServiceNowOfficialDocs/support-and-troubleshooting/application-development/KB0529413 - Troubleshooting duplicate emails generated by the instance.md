@@ -5,6 +5,12 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - email
+  - email-notifications
+  - business-rules
+  - sys_email
+  - events
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0529413
 kb_number: KB0529413
 last_modified: 2025-12-12
@@ -67,3 +73,9 @@ Because there are really two actions here- the initial insert or update, and the
 You will need to modify this series of events so that the update to the current record occurs in a \*Before\* business rule (making the call to current.update unnecessary). One single event could also be causing two emails to be sent at the same time.
 
  **Note:** Duplicate emails may also be seen when using after business rules when there is an x.update() on the same table (and affected record) as the table in the notification.  To check if this resolves a duplication situation set the Order of the Business Rule to a high number, e.g. 99,000 to see if this resolves the issue.
+
+## Related
+
+- [[KB0688332 - Troubleshooting an Incident form showing the State being set to 'In Progress' twice]] — same current.update()-in-a-business-rule root cause, different symptom
+- [[KB0520595 - Inbound Email overview and troubleshooting]] — general inbound/outbound email troubleshooting overview
+- [[c_BusinessRules]] — official docs on business rule scripting and avoiding recursive current.update() calls

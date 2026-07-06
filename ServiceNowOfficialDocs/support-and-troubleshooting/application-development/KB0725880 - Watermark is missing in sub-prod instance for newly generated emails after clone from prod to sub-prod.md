@@ -1,0 +1,67 @@
+---
+title: "Watermark is missing in sub-prod instance for newly generated emails after clone from prod to sub-prod "
+aliases:
+  - KB0725880
+tags:
+  - servicenow
+  - support-kb
+  - cloning
+  - sys_watermark
+  - number-maintenance
+  - email
+area: application-development
+source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0725880
+kb_number: KB0725880
+last_modified: 2026-07-02
+---
+
+## Watermark is missing in sub-prod instance for newly generated emails after clone from prod to sub-prod
+
+  
+
+### Issue
+
+### Symptoms
+
+* * *
+
+Watermarks will be missing in newly generated emails and you can see unique key violation error in system logs.
+
+Example error:
+
+FAILED TRYING TO EXECUTE ON CONNECTION 10: INSERT INTO sys\_watermark (\`number\`,\`sys\_id\`,\`sys\_updated\_by\`,\`sys\_created\_on\`,\`sys\_mod\_count\`,\`source\_id\`,\`sys\_updated\_on\`,\`source\_table\`,\`email\`,\`sys\_created\_by\`) VALUES('MSG495258698','2435f2b8db272b00c70cfff31d9619d6','system','2019-02-08 15:23:01',0,'8dc3fa70db272b00c70cfff31d961916','2019-02-08 15:23:01','sys\_progress\_worker','ec35f2b8db272b00c70cfff31d9619d6','system') /\* <Instancename>019, gs:glide.scheduler.worker.4, tx:20353e78db272b00c70cfff31d9619c4 \*/   
+Unique Key violation detected by database (Duplicate entry 'MSG495258698' for key 'sys\_watermark\_index1')  
+: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'MSG495258698' for key 'sys\_watermark\_index1': org.mariadb.jdbc.internal.SQLExceptionMapper.get(SQLExceptionMapper.java:132)  
+org.mariadb.jdbc.internal.SQLExceptionMapper.throwException(SQLExceptionMapper.java:106)  
+org.mariadb.jdbc.MySQLStatement.executeQueryEpilog(MySQLStatement.java:274)  
+org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:302)  
+org.mariadb.jdbc.MySQLStatement.execute(MySQLStatement.java:393)
+
+### Release
+
+Applicable for all
+
+### Cause
+
+During clone, if the number maintenance table is not excluded, all the watermarks in Production instance will be carried out to sub-prod instance.
+
+OR
+
+If the sys\_number\_counter table is added in Preserve data, then number count will be out of sync between two instances, source and target.
+
+So in the sub-prod instance when an email is generated new watermark will be inserted into the sys\_watermark table, and at that point, if the newly generated watermark does exist in the sub-prod instance which is carried from prod we will see unique key violation error in system logs and email will be generated without watermarks.
+
+### Resolution
+
+-   Login the production instance from where you did the clone.
+-   Go to the sys\_number\_counter table and check for watermark under the table column.
+-   Check the current number for watermark table and add +10 to that number, for example, if the number is 564534 add 10 to this number which will be 564544.
+-   Login the sub-prod target instance.
+-   Go to Number maintenance table and check for MSG under Prefix column.
+-   Open that MSG record and update the Number field with 564544. So from now whatever the email generated it will be carried out with watermark from 564544+ which is randomized and incremental.
+
+## Related
+
+- [[KB0657249 - Non randomized watermarks are ignored when glide.email.watermark.parse_restrictive is true for incoming emails]] - related sys_watermark behavior
+- [[KB0754934 - Email Inbound action updated record without watermark and without number in the subject]] - watermark-related inbound email issue
+

@@ -5,6 +5,12 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - saml
+  - sso
+  - adfs
+  - authentication
+  - troubleshooting
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0539112
 kb_number: KB0539112
 last_modified: 2025-10-16
@@ -44,3 +50,17 @@ Determine whether any of the troubleshooting steps below are true for the enviro
 12.  Confirm the current version of SAML is being used. For more information, see [KB0538786: Determining if the user has an older version of SAML](/kb_view.do?sysparm_article=KB0538786 "KB0538786: Determining if you are using an older version of SAML.").
 
 <table class="noteTable" style="border: 1px solid #e0e0e0; width: 100%; border-spacing: 5px; background-color: #f5f5f5;"><tbody><tr><td style="text-align: center; padding: 5px;" width="25"><img title="Note" src="https://support.servicenow.com/Note_25x.pngx" alt="Note icon" align="bottom"></td><td style="text-align: left; padding: 5px;" width="100%"><strong>Note:</strong> If the problem still exists after trying the steps in this article, submit a case to Technical Support, and note this Knowledge Base article ID (KB0539112) in the problem description. For more information, see <a title="Submitting an Incident" href="https://support.servicenow.com/kb_view.do?sysparm_article=KB0547260" target="_blank" rel="noopener noreferrer">ServiceNow Technical Support</a>.</td></tr></tbody></table>
+
+## Related
+
+- [[KB0538787 - Determining if SAML or LDAP is being used in the instance]]
+- [[KB0538763 - Determining if the SAML certificate is incorrect]]
+- [[KB0538765 -  Determining if ADFS is receiving a signed request]]
+- [[KB0538768 - Determining if the properties from the source were copied over a target]]
+- [[KB0538769 - Determining if SAML issues are occurring due to customer scripts no longer working after upgrade]]
+- [[KB0538770 -  Determining if the SAML issue is the result of a user being locked out]]
+- [[KB0538780 - Determining if the SAML issue is the result of the user having a duplicate record]]
+- [[KB0538781 - Determining if an SAML issue is caused by leading or trailing spaces]]
+- [[KB0538782 - Determining if different time stamps are impacting SAML ]]
+- [[KB0538786 - Determining if the user has an older version of SAML]]
+- [[KB0690925 - Servicenow SAMLSSO integration with Miniorange Identity Provider (IdP)]]

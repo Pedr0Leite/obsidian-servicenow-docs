@@ -1,0 +1,69 @@
+---
+title: "Attachments in emails, filenames greater than 60 characters, are renamed to ATT*.dat in Lotus Notes"
+aliases:
+  - KB0696085
+tags:
+  - servicenow
+  - support-kb
+  - email
+  - attachments
+  - email-notifications
+area: application-development
+source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0696085
+kb_number: KB0696085
+last_modified: 2024-04-07
+---
+
+## Attachments in emails, filenames greater than 60 characters, are renamed to ATT\*.dat in Lotus Notes
+
+  
+
+### Issue
+
+# Symptoms
+
+* * *
+
+If an email sent from ServiceNow contains an attachment, and if the attachment's filename is greater than 50 characters, their attachment name is observed as
+
+ATT\*.dat
+
+in Lotus Notes email clients.
+
+# Release
+
+* * *
+
+All ServiceNow releases.
+
+# Environment
+
+* * *
+
+Lotus notes should be used by the end users.
+
+# Cause
+
+* * *
+
+An email that contains an attachment filename of **Report containing a very long filename with more than 60 characters.csv** would be composed like following example within the email headers:
+
+Content-Disposition: attachment;   
+    filename\*0="Report containing a very long filename with more than 60  
+ cha"; filename\*1=racters.csv
+
+This composition conforms RFC2231, and utilized for handling long and international filenames. The issue seems to stem from Lotus Notes not supporting [RFC2231: 3. Parameter Value Continuations](https://tools.ietf.org/html/rfc2231#section-3 "RFC2231: 3. Parameter Value Continuations") extensions.
+
+# Resolution
+
+* * *
+
+You can either:
+
+-   Ask Lotus Domino/Notes administrator to upgrade the clients to [IBM Notes Feature Pack 9](https://www.ibm.com/support/knowledgecenter/en/SSKTWP_9.0.1/fram_what_new_FP9_r.html "IBM Notes Feature Pack 9")
+-   Or if it's a scheduled report sending the attachment(s), change the report title to fewer characters, so an attachment with shorter names will be delivered to recipients.
+
+## Related
+
+- [[KB0717827 - Using a business rule to copy attachments from one record to another upon creation]]
+- [[KB0722504 - Using ServiceNow blackhole or dummy email addresses]]

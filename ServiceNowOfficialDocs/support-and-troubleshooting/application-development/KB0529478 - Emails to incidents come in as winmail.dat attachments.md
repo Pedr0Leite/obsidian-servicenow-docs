@@ -5,6 +5,12 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - inbound-email
+  - tnef
+  - winmail-dat
+  - attachments
+  - exchange
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0529478
 kb_number: KB0529478
 last_modified: 2026-05-28
@@ -84,3 +90,9 @@ Here are two current Microsoft documentation links about this topic that may be 
 10.  Click **OK**.
 
 ![Marketing Requests Properties](/sys_attachment.do?sys_id=103fb426db0ab450e515c22305961940 "Marketing Requests Properties")
+
+## Related
+
+- [[KB0528852 - Transport Neutral Encapsulation Format (TNEF-encoded, winmail.dat or win.dat) messages aren't processed by the instance]] — deeper dive into TNEF detection and handling
+- [[KB0520595 - Inbound Email overview and troubleshooting]] — general inbound email troubleshooting flow
+- [[KB0691482 - Inbound emails with attached icons logos signatures images add duplicate repeated attachments in Activity Stream of targ]] — another inbound email attachment artifact issue

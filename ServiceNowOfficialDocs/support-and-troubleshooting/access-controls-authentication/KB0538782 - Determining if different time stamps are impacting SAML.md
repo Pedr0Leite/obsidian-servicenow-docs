@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - saml
+  - sso
+  - clock-skew
+  - authentication
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0538782
 kb_number: KB0538782
 last_modified: 2024-05-19
@@ -50,3 +55,8 @@ To solve the issue:
 1.  Set a different value for **clock skew**.
 2.  Ask users to try to log in again. 
 3.  If users still cannot log in, check with the IdP administrator to determine if the IdP server clock is set correctly.
+
+## Related
+
+- [[KB0539112 - Troubleshooting SAML or SSO issues in ServiceNow]] - master SAML/SSO troubleshooting checklist
+- [[KB0538786 - Determining if the user has an older version of SAML]]

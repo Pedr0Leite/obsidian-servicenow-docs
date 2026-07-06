@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - ip-address
+  - migration
+  - data-center
+  - faq
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0623078
 kb_number: KB0623078
 last_modified: 2026-06-18
@@ -118,3 +123,7 @@ Your new IP addresses will be provided to you when the Change record is created 
 No. We are unable to see what integrations you may have or use.
 
 ## Resolution
+
+## Related
+
+- [[KB0596772 - Customer VIP Migration FAQ]] - related IP/VIP migration FAQ

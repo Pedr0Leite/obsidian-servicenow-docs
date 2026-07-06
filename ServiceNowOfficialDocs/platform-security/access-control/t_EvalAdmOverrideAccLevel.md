@@ -60,3 +60,4 @@ Evaluates the admin override condition at the access term level.-   Type: true \
 ## Related
 
 - [[ca-system-properties|System properties]]
+- [[KB0685046 -  How the Admin overrides option works in an access control (ACL) rule]] - support KB explaining why clearing Admin overrides alone doesn't block admins

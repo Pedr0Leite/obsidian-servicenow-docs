@@ -41,3 +41,7 @@ Following are additional troubleshooting steps that can be used when email notif
 4.  A sys\_email record should be created only if the event was tied to a notification.
 5.  The scheduled job named **SMTP Sender** should normally run every two minutes and send all email messages currently in the outbox.
 6.  The related email message should be placed in the **Sent** folder.
+
+## Related
+
+- [[KB0749452 - Incident Is updated by System]]

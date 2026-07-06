@@ -1,0 +1,53 @@
+---
+title: "SMTP email error string/code 550 response from customer SMTP server"
+aliases:
+  - KB0751573
+  - SMTP 550 error response from customer SMTP server
+area: application-development
+tags:
+  - servicenow
+  - support-kb
+  - smtp
+  - outbound-email
+  - sys_email
+  - send-ignored
+source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751573
+kb_number: KB0751573
+last_modified: 2023-11-10
+---
+
+## Issue
+
+# Symptoms
+
+-   Some outbound emails will not be sent and when looking at the emails on the sys\_email table it will be 'send-ignored' with an error string containing the 550 SMTP response.
+-   The customer is using their own SMTP server.
+
+The SMTP error code 550 can be written in different ways:
+
+-   Invalid Addresses 550 relay not permitted
+-   550 Invalid recipient
+-   550 5.7.1 Relaying denied
+-   550 5.4.1 : Recipient address rejected: Access denied
+-   550 Relaying denied
+-   550 5.1.1 User Unknown
+-   550 5.7.0 Local Policy Violation
+
+# Cause
+
+The 550 SMTP error code can be caused by different cases but it generally means that the SMTP server does not allow email to be sent to the recipient.
+
+For the 'Relaying denied' or 'relay not permitted' errors, this usually means that the SMTP server is not permitted to send to the specified recipient.
+
+'Invalid recipient', 'User Unknown' can mean that the recipient does not exist on the mail server.
+
+# Resolution
+
+As this error response is coming from the customer's SMTP server, the mail admin must address this issue and also identify the cause of the emails being rejected. Most of the time, this is a configuration issue for the SMTP server.
+
+## Related
+
+- [[KB0755061 - Your instance has generated a SMTP Sender Job Stuck alert]]
+- [[KB0524529 - How to resolve outbound emails not sending from a ServiceNow instance]]
+- [[KB0521382 - Troubleshooting Outbound Email]]
+- [[KB0790932 - How to resolve email notifications marked as send-ignored]]

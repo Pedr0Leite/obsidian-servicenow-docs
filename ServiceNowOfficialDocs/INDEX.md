@@ -827,6 +827,73 @@ All paths are relative to the vault root. All entries are directories containing
 
 ---
 
+## Support and Troubleshooting (KB Articles)
+
+| Path | Description | Keywords |
+|------|-------------|----------|
+| `support-and-troubleshooting/access-controls-authentication/` | KB troubleshooting articles for access controls authentication (78 docs) | support, troubleshooting, KB, access-controls-authentication |
+| `support-and-troubleshooting/application-development/` | KB troubleshooting articles for application development (350 docs) | support, troubleshooting, KB, application-development |
+| `support-and-troubleshooting/automation-configuration/` | KB troubleshooting articles for automation configuration (55 docs) | support, troubleshooting, KB, automation-configuration |
+| `support-and-troubleshooting/change-management/` | KB troubleshooting articles for change management (2 docs) | support, troubleshooting, KB, change-management |
+| `support-and-troubleshooting/cloud-management/` | KB troubleshooting articles for cloud management (91 docs) | support, troubleshooting, KB, cloud-management |
+| `support-and-troubleshooting/configuration-management-database-cmdb/` | KB troubleshooting articles for configuration management database cmdb (17 docs) | support, troubleshooting, KB, configuration-management-database-cmdb |
+| `support-and-troubleshooting/connect/` | KB troubleshooting articles for connect (10 docs) | support, troubleshooting, KB, connect |
+| `support-and-troubleshooting/customer-service-management/` | KB troubleshooting articles for customer service management (82 docs) | support, troubleshooting, KB, customer-service-management |
+| `support-and-troubleshooting/data-center-operations/` | KB troubleshooting articles for data center operations (1 doc) | support, troubleshooting, KB, data-center-operations |
+| `support-and-troubleshooting/demand-management/` | KB troubleshooting articles for demand management (1 doc) | support, troubleshooting, KB, demand-management |
+| `support-and-troubleshooting/design-and-experience-organization/` | KB troubleshooting articles for design and experience organization (1 doc) | support, troubleshooting, KB, design-and-experience-organization |
+| `support-and-troubleshooting/discovery/` | KB troubleshooting articles for discovery (345 docs) | support, troubleshooting, KB, discovery |
+| `support-and-troubleshooting/edge-encryption/` | KB troubleshooting articles for edge encryption (16 docs) | support, troubleshooting, KB, edge-encryption |
+| `support-and-troubleshooting/email/` | KB troubleshooting articles for email (1 doc) | support, troubleshooting, KB, email |
+| `support-and-troubleshooting/event-management/` | KB troubleshooting articles for event management (96 docs) | support, troubleshooting, KB, event-management |
+| `support-and-troubleshooting/facilities-service-management/` | KB troubleshooting articles for facilities service management (7 docs) | support, troubleshooting, KB, facilities-service-management |
+| `support-and-troubleshooting/field-service-management/` | KB troubleshooting articles for field service management (32 docs) | support, troubleshooting, KB, field-service-management |
+| `support-and-troubleshooting/global-support-and-troubleshooting/` | KB troubleshooting articles for global support and troubleshooting (5 docs) | support, troubleshooting, KB, global-support-and-troubleshooting |
+| `support-and-troubleshooting/hr-service-management/` | KB troubleshooting articles for hr service management (86 docs) | support, troubleshooting, KB, hr-service-management |
+| `support-and-troubleshooting/human-resources-service-delivery/` | KB troubleshooting articles for human resources service delivery (298 docs) | support, troubleshooting, KB, human-resources-service-delivery |
+| `support-and-troubleshooting/import/` | KB troubleshooting articles for import (5 docs) | support, troubleshooting, KB, import |
+| `support-and-troubleshooting/incident-management/` | KB troubleshooting articles for incident management (4 docs) | support, troubleshooting, KB, incident-management |
+| `support-and-troubleshooting/instance-administration/` | KB troubleshooting articles for instance administration (18 docs) | support, troubleshooting, KB, instance-administration |
+| `support-and-troubleshooting/integrations/` | KB troubleshooting articles for integrations (260 docs) | support, troubleshooting, KB, integrations |
+| `support-and-troubleshooting/it-asset-management/` | KB troubleshooting articles for it asset management (556 docs) | support, troubleshooting, KB, it-asset-management |
+| `support-and-troubleshooting/it-business-management/` | KB troubleshooting articles for it business management (1 doc) | support, troubleshooting, KB, it-business-management |
+| `support-and-troubleshooting/it-operations-management/` | KB troubleshooting articles for it operations management (239 docs) | support, troubleshooting, KB, it-operations-management |
+| `support-and-troubleshooting/it-service-management/` | KB troubleshooting articles for it service management (12 docs) | support, troubleshooting, KB, it-service-management |
+| `support-and-troubleshooting/knowledge-management/` | KB troubleshooting articles for knowledge management (13 docs) | support, troubleshooting, KB, knowledge-management |
+| `support-and-troubleshooting/legal-service-management/` | KB troubleshooting articles for legal service management (1 doc) | support, troubleshooting, KB, legal-service-management |
+| `support-and-troubleshooting/mobile/` | KB troubleshooting articles for mobile (7 docs) | support, troubleshooting, KB, mobile |
+| `support-and-troubleshooting/orchestration/` | KB troubleshooting articles for orchestration (50 docs) | support, troubleshooting, KB, orchestration |
+| `support-and-troubleshooting/password-reset-and-password-change/` | KB troubleshooting articles for password reset and password change (24 docs) | support, troubleshooting, KB, password-reset-and-password-change |
+| `support-and-troubleshooting/password-reset/` | KB troubleshooting articles for password reset (1 doc) | support, troubleshooting, KB, password-reset |
+| `support-and-troubleshooting/performance-analytics/` | KB troubleshooting articles for performance analytics (11 docs) | support, troubleshooting, KB, performance-analytics |
+| `support-and-troubleshooting/performance/` | KB troubleshooting articles for performance (61 docs) | support, troubleshooting, KB, performance |
+| `support-and-troubleshooting/platform/` | KB troubleshooting articles for platform (28 docs) | support, troubleshooting, KB, platform |
+| `support-and-troubleshooting/processes-policies-and-procedures/` | KB troubleshooting articles for processes policies and procedures (1 doc) | support, troubleshooting, KB, processes-policies-and-procedures |
+| `support-and-troubleshooting/project-management/` | KB troubleshooting articles for project management (3 docs) | support, troubleshooting, KB, project-management |
+| `support-and-troubleshooting/release-management/` | KB troubleshooting articles for release management (1 doc) | support, troubleshooting, KB, release-management |
+| `support-and-troubleshooting/reporting/` | KB troubleshooting articles for reporting (18 docs) | support, troubleshooting, KB, reporting |
+| `support-and-troubleshooting/scripting-and-coding/` | KB troubleshooting articles for scripting and coding (39 docs) | support, troubleshooting, KB, scripting-and-coding |
+| `support-and-troubleshooting/security-and-risk/` | KB troubleshooting articles for security and risk (16 docs) | support, troubleshooting, KB, security-and-risk |
+| `support-and-troubleshooting/security-operations/` | KB troubleshooting articles for security operations (9 docs) | support, troubleshooting, KB, security-operations |
+| `support-and-troubleshooting/service-catalog/` | KB troubleshooting articles for service catalog (21 docs) | support, troubleshooting, KB, service-catalog |
+| `support-and-troubleshooting/service-management/` | KB troubleshooting articles for service management (655 docs) | support, troubleshooting, KB, service-management |
+| `support-and-troubleshooting/service-mapping/` | KB troubleshooting articles for service mapping (89 docs) | support, troubleshooting, KB, service-mapping |
+| `support-and-troubleshooting/service-portal-designer/` | KB troubleshooting articles for service portal designer (2 docs) | support, troubleshooting, KB, service-portal-designer |
+| `support-and-troubleshooting/servicenow-createnow/` | KB troubleshooting articles for servicenow createnow (5 docs) | support, troubleshooting, KB, servicenow-createnow |
+| `support-and-troubleshooting/servicenow-performance-analytics/` | KB troubleshooting articles for servicenow performance analytics (1 doc) | support, troubleshooting, KB, servicenow-performance-analytics |
+| `support-and-troubleshooting/servicenow-store/` | KB troubleshooting articles for servicenow store (5 docs) | support, troubleshooting, KB, servicenow-store |
+| `support-and-troubleshooting/subscription-management/` | KB troubleshooting articles for subscription management (1 doc) | support, troubleshooting, KB, subscription-management |
+| `support-and-troubleshooting/system-error-codes/` | KB troubleshooting articles for system error codes (4 docs) | support, troubleshooting, KB, system-error-codes |
+| `support-and-troubleshooting/team-development/` | KB troubleshooting articles for team development (8 docs) | support, troubleshooting, KB, team-development |
+| `support-and-troubleshooting/technical-support/` | KB troubleshooting articles for technical support (3 docs) | support, troubleshooting, KB, technical-support |
+| `support-and-troubleshooting/test-category/` | KB troubleshooting articles for test category (1 doc) | support, troubleshooting, KB, test-category |
+| `support-and-troubleshooting/uncategorized/` | KB troubleshooting articles that didn't map to a specific product area (70 docs) | support, troubleshooting, KB, uncategorized |
+| `support-and-troubleshooting/user-interface-customization/` | KB troubleshooting articles for user interface customization (70 docs) | support, troubleshooting, KB, user-interface-customization |
+| `support-and-troubleshooting/web-services/` | KB troubleshooting articles for web services (3 docs) | support, troubleshooting, KB, web-services |
+| `support-and-troubleshooting/workflow/` | KB troubleshooting articles for workflow (32 docs) | support, troubleshooting, KB, workflow |
+
+---
+
 ## Root-Level Files
 
 | Path | Description | Keywords |

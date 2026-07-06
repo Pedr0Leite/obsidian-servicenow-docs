@@ -5,6 +5,12 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - saml
+  - sso
+  - upgrade
+  - customization
+  - authentication
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0538769
 kb_number: KB0538769
 last_modified: 2025-10-21
@@ -29,3 +35,9 @@ After a recent instance upgrade, users cannot log in.
 3.  If any scripts were not upgraded, check with the administrator to determine what changes have been made to the scripts. 
 4.  Revert to OOB scripts and apply the necessary changes or customizations, if needed.
 5.  Ask users to try to log in again.
+
+## Related
+
+- [[KB0539112 - Troubleshooting SAML or SSO issues in ServiceNow]] - master SAML/SSO troubleshooting checklist
+- [[KB0538786 - Determining if the user has an older version of SAML]]
+- [[t_TroubleshootScriptIssuesWithSAML]] - official docs on troubleshooting SAML script issues

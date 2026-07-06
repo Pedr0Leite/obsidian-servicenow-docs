@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - acl
+  - access-control
+  - roles
+  - security
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0541355
 kb_number: KB0541355
 last_modified: 2026-04-30
@@ -84,3 +89,15 @@ Field ACLs that reference other fields through dot-walking require the reference
 -   [ACL debugging tools](https://docs.servicenow.com/csh?topicname=c_AccessControlRulesDebug.html&version=latest)
 -   [Customization Considerations for Access Controls (ACLs)](https://support.servicenow.com/kb_view.do?sysparm_article=KB0749174 "KB0749174 - Customization Considerations for Access Controls (ACLs)")
 -   [Access control list rules](https://docs.servicenow.com/csh?version=latest&topicname=access-control-rules.html "Access control list rules")
+
+## Related
+
+- [[KB0749738 - SLA Definition field value is not displaying on task sla list or related lists for some users]] — real-world example of a table-level read ACL blocking a field
+- [[KB0753582 - The non-admin users are not able to access to a table]] — table ACL rule matching order (table, parent table, wildcard)
+- [[KB0816018 - Admin role does not pass an ACL when Admin Overrides is selected]] — Admin Overrides must be consistent across all ACLs in the chain
+- [[KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[KB0685046 -  How the Admin overrides option works in an access control (ACL) rule]]
+- [[KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.]]
+- [[KB0691989 - Ui ActionButton does not display for a user even when the ACLs and the UI action conditions grant the access to that use]]
+- [[access-control-rules]] - official docs on access control rules
+- [[permission-evaluation]] - official docs on permission evaluation order

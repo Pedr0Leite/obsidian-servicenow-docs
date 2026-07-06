@@ -5,6 +5,14 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - acl
+  - access-control
+  - business-rules
+  - GlideRecordSecure
+  - GlideRecord
+  - REST
+  - security
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0656366
 kb_number: KB0656366
 last_modified: 2026-06-27
@@ -152,3 +160,11 @@ Business rules apply consistently to records regardless of whether they are acce
 For Inbound SOAP Web Service Security, to enforce basic authentication for the user associated with the instance for each WSDL or SOAP message request, administrators can set the property glide.basicauth.required to true. When enabled, each WSDL and SOAP request must contain an Authorization header as specified in the [Basic Authentication](http://www.w3.org/Protocols/HTTP/1.0/draft-ietf-http-spec.html#BasicAA) protocol. Because web services requests are non-interactive, ServiceNow always requires the Authorization header during a request.
 
 For more information, see the product documentation topic [SOAP Web Service](https://docs.servicenow.com/csh?topicname=c_SOAPWebService.html&version=latest).
+
+## Related
+
+- [[KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[KB0685046 -  How the Admin overrides option works in an access control (ACL) rule]]
+- [[KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.]] - business rule/interactive-session ACL interaction
+- [[c_BusinessRules]] - official docs on business rules
+- [[access-control-rules]] - official docs on access control rules

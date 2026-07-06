@@ -5,6 +5,11 @@ aliases:
 tags:
   - servicenow
   - support-kb
+  - saml
+  - sso
+  - ldap
+  - authentication
+area: access-controls-authentication
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0538787
 kb_number: KB0538787
 last_modified: 2025-10-21
@@ -23,3 +28,9 @@ Users are unsure if they are using SAML SSO or LDAP.
 <table class="noteTable" style="border: 1px solid #e0e0e0; width: 100%; border-spacing: 5px; background-color: #f5f5f5;"><tbody><tr><td style="text-align: center; padding: 5px;" width="25"><img title="Note" src="https://support.servicenow.com/Note_25x.pngx" alt="Note icon" align="bottom"></td><td style="text-align: left; padding: 5px;" width="100%"><strong>Note:</strong> Configuring SAML requires special maintenance access. To request the <strong>SAML 2.0 Single Sign-On - Update 1: security enhancements&nbsp;</strong>plugin, please contact <a title="TEchnical Support" href="http://www.servicenow.com/support/contact-support.html" target="_blank" rel="noopener noreferrer">Customer Support</a>. The plugin applies updated versions of the <strong>SAML2SingleSignon</strong> installation exit (login script), <strong>SAML2Logout</strong> installation exit (logout script), and <strong>SAML2</strong> script include (script object).</td></tr></tbody></table>
 
 For information on upgrading your existing SAML 2.0 integration, see [SAML 2.0](https://docs.servicenow.com/csh?topicname=c_SAML2.0WebBrowserSSOProfile.html&version=latest "SAML 2.0").
+
+## Related
+
+- [[KB0539112 - Troubleshooting SAML or SSO issues in ServiceNow]] - master SAML/SSO troubleshooting checklist
+- [[c_LDAPIntegrationTroubleshooting]] - official docs on troubleshooting LDAP integration
+- [[t_ActivateMultipleProviderSSO]] - official docs on activating Multiple Provider SSO
