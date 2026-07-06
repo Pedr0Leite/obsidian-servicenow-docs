@@ -1,3 +1,14 @@
+---
+title: "UpdateFavouritedKnowledgeArticleWhenItIsUpgradedToNewVersion"
+aliases:
+  - UpdateFavouritedKnowledgeArticleWhenItIsUpgradedToNewVersion
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - updatefavouritedknowledgearticlewhenitisupgradedtonewversion
+  - business-rules
+---
+
 Problem Statement
 When a knowledge article saved in a user’s favorites is updated to a new version, the favorites section continues to display the older version, leading to potential misinformation and inefficiencies. To address this, a solution has been implemented that automatically updates the knowledge articles in users' favorites to the latest version whenever a new one is published. This removes the need for users to manually update their saved articles, ensuring they always have access to the most accurate and up-to-date information, thereby enhancing both user experience and operational efficiency.
 How It Works
@@ -59,3 +70,12 @@ Scalability:
 The solution is scalable, meaning it can be applied across all knowledge articles in the system, and can also be adapted to other record types or systems that rely on version control.
 Conclusion
 This solution ensures that knowledge articles saved as favorites by users in the Service Portal are always updated to reflect the most recent version. By implementing this automatic update process, the organization can improve the reliability of its knowledge base, enhance user satisfaction, and reduce errors stemming from outdated information.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

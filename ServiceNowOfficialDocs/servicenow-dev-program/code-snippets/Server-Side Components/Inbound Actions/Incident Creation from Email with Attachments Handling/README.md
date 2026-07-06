@@ -1,3 +1,14 @@
+---
+title: "Incident Creation from Email with Attachments Handling"
+aliases:
+  - Incident Creation from Email with Attachments Handling
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - incident-creation-from-email-with-attachments-handling
+  - inbound-actions
+---
+
 Description
 The Incident Creation from Email with Attachments Handling functionality in ServiceNow allows users to create incident records directly from incoming emails. 
 This automation streamlines the incident management process, enabling users to report issues efficiently without the need to log
@@ -23,3 +34,11 @@ Caller Identification: Automatically sets the email sender as the incident calle
 
 7) Tracking and Reporting: Allows tracking of incidents created via email for analysis of trends and response times.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Advanced Scripts/README|Advanced Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Incident Creation from Case Email/README|Auto Incident Creation from Case Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Reply Email/README|Auto Reply Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Automate creation of incidents through inbound actions/README|Automate creation of incidents through inbound actions]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Duplicate Incident Detection and Creation/README|Duplicate Incident Detection and Creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Email Text as Attachment/README|Email Text as Attachment]]

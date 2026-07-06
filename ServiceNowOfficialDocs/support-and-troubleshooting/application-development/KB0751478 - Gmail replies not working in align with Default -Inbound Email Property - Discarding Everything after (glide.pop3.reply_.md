@@ -3,7 +3,6 @@ title: "Gmail replies not working in align with Default -Inbound Email Property 
 aliases:
   - KB0751478
   - Gmail replies not truncated by glide.pop3.reply_separators
-area: application-development
 tags:
   - servicenow
   - support-kb
@@ -11,6 +10,7 @@ tags:
   - gmail
   - reply-separators
   - email-properties
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751478
 kb_number: KB0751478
 last_modified: 2026-05-05
@@ -66,3 +66,12 @@ glide.pop3.reply\_separators **\-\\n\\n-----Original Message-----,\\n\\n \_\_\_\
 - [[KB0520595 - Inbound Email overview and troubleshooting]]</td></tr></tbody></table>
 
 <table class="noteTable" align="left"><tbody><tr><td class="c3"><img class="c2" title="Warning" src="/Warning_25x.pngx" align="bottom" border="border" hspace="" vspace=""></td><td class="c4"><strong>Warning</strong>: A warning should be used when corruption, data loss, or downtime is possible if instructions are not obeyed.</td></tr></tbody></table>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0520595 - Inbound Email overview and troubleshooting|Inbound Email overview and troubleshooting]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0529478 - Emails to incidents come in as winmail.dat attachments|Emails to incidents come in as winmail.dat attachments]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0691482 - Inbound emails with attached icons logos signatures images add duplicate repeated attachments in Activity Stream of targ|Inbound emails with attached icons / logos / signatures images add duplicate repeated attachments in Activity Stream of target record]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0693349 - Inbound emails received and processed display broken attached images in preview HTML body and in target record activity |Inbound emails received and processed display broken attached images in preview HTML body and in target record activity stream notes]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749517 - Inbound email embedded images are being added as attachments to the target record|Inbound email embedded images are being added as attachments to the target record]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749826 - Unable To fetch Email Address of actual sender in the forwarded emails|Unable To fetch Email Address of actual sender in the forwarded emails]]

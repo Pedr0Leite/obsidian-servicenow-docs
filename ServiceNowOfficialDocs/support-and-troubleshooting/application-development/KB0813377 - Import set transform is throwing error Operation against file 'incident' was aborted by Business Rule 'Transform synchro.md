@@ -1,5 +1,5 @@
 ---
-title: "Import set transform is throwing error \"Operation against file 'incident' was aborted by Business Rule 'Transform synchronously^XXXXXXXX'. Business Rule Stack:Transform synchronously\""
+title: "Import set transform is throwing error \"Operation against file 'incident' was aborted by Business Rule 'Transform synchronously^XXXXXXXX'. Business Rule Stack:Transform synchronously\"
 aliases:
   - KB0813377
 tags:

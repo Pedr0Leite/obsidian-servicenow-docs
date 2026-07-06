@@ -46,3 +46,9 @@ Make sure the end point is in the correct format. It should be /table\_name.do?S
 
 - [[KB0748481 - How to use custom WSDL for Inbound SOAP requests to ServiceNow]]
 - [[c_SOAPWebService|SOAP web service]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748481 - How to use custom WSDL for Inbound SOAP requests to ServiceNow.|How to use custom WSDL for Inbound SOAP requests to ServiceNow.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.|The users with SOAP role not able to view the incident table data even though the ACLs return true.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748136 - Outbound REST or SOAP messages timeout after upgrade|Outbound REST or SOAP messages timeout after upgrade]]

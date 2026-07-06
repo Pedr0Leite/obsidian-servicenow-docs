@@ -1,3 +1,14 @@
+---
+title: "FormBackground"
+aliases:
+  - FormBackground
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - formbackground
+  - ui-macros
+---
+
 # ServiceNow Form Background Macro
 
 > A lightweight UI Macro to style ServiceNow forms with a custom background and simple element theming (labels, buttons, sections). 
@@ -53,3 +64,10 @@
 ## Result
 <img width="1838" height="922" alt="image" src="https://github.com/user-attachments/assets/14c29e0a-ad88-411e-b7ca-1c82eaeaf324" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Copy To Clipboard/README|Copy To Clipboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/JSON Formatter and Viewer/README|JSON Formatter and Viewer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Purchase Order Approval Summarizer/README|Purchase Order Approval Summarizer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Show Open Incident of Caller/Readme|Show Open Incident of Caller]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Variable Copy Context Options/README|Variable Copy Context Options]]

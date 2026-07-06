@@ -1,3 +1,13 @@
+---
+title: "Get Similar Records AIS Documentation"
+aliases:
+  - Get Similar Records AIS Documentation
+tags:
+  - ai-search
+  - semantic-search
+  - now-assist-ai
+---
+
 # Get Similar Records AIS Documentation
 
 ## Case Information
@@ -110,3 +120,8 @@ After applying the fixes:
 **Source:** Get Similar Records AIS Script Documentation
 
 Reference: turn2search3
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/now-assist-ai/ServiceNow_Local_Development_Guide|ServiceNow Local Development Guide]]
+- [[ServiceNowOfficialDocs/now-assist-ai/ai-agents/AI Agents Knowledge Base|AI Agents: Troubleshooting, Debugging & Best Practices]]

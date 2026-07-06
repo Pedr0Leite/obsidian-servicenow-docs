@@ -1,5 +1,5 @@
 ---
-title: "[Discovery-Shazzam] Warning \"The following protocols have been disabled via the Configuration Console and will not be scanned by Shazzam: XXXXX\""
+title: "[Discovery-Shazzam] Warning \"The following protocols have been disabled via the Configuration Console and will not be scanned by Shazzam: XXXXX\"
 aliases:
   - KB0722473
 tags:

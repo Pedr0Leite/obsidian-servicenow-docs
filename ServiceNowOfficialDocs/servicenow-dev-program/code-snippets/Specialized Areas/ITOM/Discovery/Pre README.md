@@ -1,3 +1,14 @@
+---
+title: "ServiceNow Discovery Pre Sensor Script: IP Router Association"
+aliases:
+  - ServiceNow Discovery Pre Sensor Script: IP Router Association
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - discovery
+  - itom
+---
+
 # ServiceNow Discovery Pre Sensor Script: IP Router Association
 
 This script is a **ServiceNow Discovery Pre Sensor Script** designed to enrich discovery payload data before it reaches the **Identification and Reconciliation Engine (IRE)**.  
@@ -67,3 +78,9 @@ This script ensures that:
   ]
 }
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Discovery/README|Discovery]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Bulk Location Update/README|Bulk Location Update]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Generate Discovery Schedule/README|Generate Discovery Schedule]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Track Discovery Status/readme|Track Discovery Status]]

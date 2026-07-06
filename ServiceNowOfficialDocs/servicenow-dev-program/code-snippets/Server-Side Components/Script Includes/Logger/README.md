@@ -1,3 +1,14 @@
+---
+title: "Logger"
+aliases:
+  - Logger
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - logger
+  - script-includes
+---
+
 This is the logger module which can be used to log Payloads easily in a more efficient way. This module can be controlled from properties.
 
 Here's an explanation of the key components and methods of this `Logger` Script Include:
@@ -51,3 +62,12 @@ myLogger.logPayload("API request payload: {...}");
 ```
 
 This code ensures that log messages are only recorded if logging or payload logging is explicitly enabled for the specified source.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

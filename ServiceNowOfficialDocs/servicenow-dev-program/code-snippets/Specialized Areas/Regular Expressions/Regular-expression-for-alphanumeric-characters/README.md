@@ -1,3 +1,14 @@
+---
+title: "Regular-expression-for-alphanumeric-characters"
+aliases:
+  - Regular-expression-for-alphanumeric-characters
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - regular-expression-for-alphanumeric-characters
+  - regular-expressions
+---
+
 # Alphanumeric String Validator
 
 This project provides a simple JavaScript function to validate whether a given string is alphanumeric (i.e., contains only letters and numbers).
@@ -96,3 +107,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 Feel free to modify this README to fit your project's style or requirements!
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Adhaar validation/README|Adhaar validation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Allow Characters + - ) ( for Phone numbers/README|Allow Characters + - ) ( for Phone numbers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/AllowAnyLanguage/README|AllowAnyLanguage]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check for special characters/readme|Check for special characters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check if number has 10 digits/README|Check if number has 10 digits]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Consecutive duplicate words/README|Consecutive duplicate words]]

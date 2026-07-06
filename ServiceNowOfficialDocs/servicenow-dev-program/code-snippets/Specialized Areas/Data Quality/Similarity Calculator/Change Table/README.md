@@ -1,3 +1,14 @@
+---
+title: "Change Table"
+aliases:
+  - Change Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - change-table
+  - similarity-calculator
+---
+
 # Similarity Calculator for ServiceNow Change Requests
 
 ## Overview
@@ -30,3 +41,8 @@ This utility provides manual similarity scoring between ServiceNow change reques
 - Adjust keyword extraction logic for your environment
 - Change scoring algorithm to use TF-IDF, cosine similarity, etc.
 - Filter by assignment group, category, or other fields
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Data Quality/Similarity Calculator/Incident Table/README|Incident Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Change Table/README|Change Table]]

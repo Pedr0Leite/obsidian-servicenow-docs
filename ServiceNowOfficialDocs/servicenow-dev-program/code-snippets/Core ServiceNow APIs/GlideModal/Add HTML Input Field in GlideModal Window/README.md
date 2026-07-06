@@ -1,3 +1,14 @@
+---
+title: "Add HTML Input Field in GlideModal Window"
+aliases:
+  - Add HTML Input Field in GlideModal Window
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - add-html-input-field-in-glidemodal-window
+  - glidemodal
+---
+
 # Add HTML Input Field in GlideModal Window - ServiceNow
 
 ## Use Case
@@ -24,3 +35,8 @@ This UI Page and UI Action is compatible with all standard ServiceNow instances 
 
 ## Files
 `UI Page` , `UI Action` - are the files implementing the logic.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideModal/Confirm Message/README|Confirm Message]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideModal/Information Message/README|Information Message]]

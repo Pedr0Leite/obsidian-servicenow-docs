@@ -1,3 +1,14 @@
+---
+title: "Field Review of User Record when on form using action button"
+aliases:
+  - Field Review of User Record when on form using action button
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - field-review-of-user-record-when-on-form-using-action-button
+  - ui-actions
+---
+
 ## Field Review of User Record when on form using action button
 
 Displays informational messages suggesting improvements to field formatting on the User Table (**sys_user**) form when the **Fields Check** button is clicked.
@@ -32,3 +43,12 @@ Displays informational messages suggesting improvements to field formatting on t
 ![Field Review on User Table_3](Field_Review_userTable_3.png)
 
 ---
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

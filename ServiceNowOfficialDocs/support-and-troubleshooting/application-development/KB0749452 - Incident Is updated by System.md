@@ -49,3 +49,10 @@ Check the documentation: [Set an inactivity monitor](https://www.servicenow.com/
 ## Related
 
 - [[KB0524319 - Inactivity Monitor not triggering events as expected for incident matching conditions]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688916 - When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form|When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.|The users with SOAP role not able to view the incident table data even though the ACLs return true.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0749738 - SLA Definition field value is not displaying on task sla list or related lists for some users|SLA Definition field value is not displaying on task sla list or related lists for some users]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0713125 - 'itil' roled users are not able to see the 'Closed' state on the choice list for incidents|itil' roled users are not able to see the 'Closed' state on the choice list for incidents]]

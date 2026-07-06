@@ -1,5 +1,5 @@
 ---
-title: "Slack Download Subscriptions job is returning 400 response code with error message : \"non_org_teams_only\""
+title: "Slack Download Subscriptions job is returning 400 response code with error message : \"non_org_teams_only\"
 aliases:
   - KB1710259
 tags:

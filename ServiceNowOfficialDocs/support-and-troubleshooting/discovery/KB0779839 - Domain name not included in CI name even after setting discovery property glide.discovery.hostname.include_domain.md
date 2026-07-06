@@ -1,5 +1,5 @@
 ---
-title: "Domain name not included in CI name even after setting discovery property \"glide.discovery.hostname.include_domain\""
+title: "Domain name not included in CI name even after setting discovery property \"glide.discovery.hostname.include_domain\"
 aliases:
   - KB0779839
 tags:

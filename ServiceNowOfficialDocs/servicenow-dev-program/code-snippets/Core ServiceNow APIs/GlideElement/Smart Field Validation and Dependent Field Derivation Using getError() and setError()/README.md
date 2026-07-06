@@ -1,3 +1,14 @@
+---
+title: "Smart Field Validation and Dependent Field Derivation Using getError() and setError()"
+aliases:
+  - Smart Field Validation and Dependent Field Derivation Using getError() and setError()
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - smart-field-validation-and-dependent-field-derivation-using-geterror-and-seterror
+  - glideelement
+---
+
 # Smart Field Validation and Dependent Field Derivation Using GlideElement.getError()
 
 This project demonstrates how to use `GlideElement.setError()` and `GlideElement.getError()` 
@@ -33,3 +44,9 @@ A later Business Rule (executing at a higher order) can then retrieve that messa
 - ✅ Improves rule execution efficiency
 - ✅ Keeps logic modular and maintainable
 - ✅ Provides better visibility and control in field validations
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/Display available choices/README|Display available choices]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/Display base table for each field/README|Display base table for each field]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/getDependent/README|getDependent]]

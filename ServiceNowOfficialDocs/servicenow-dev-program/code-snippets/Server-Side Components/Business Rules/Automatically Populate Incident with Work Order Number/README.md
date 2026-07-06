@@ -1,3 +1,14 @@
+---
+title: "Automatically Populate Incident with Work Order Number"
+aliases:
+  - Automatically Populate Incident with Work Order Number
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - automatically-populate-incident-with-work-order-number
+  - business-rules
+---
+
 # Automatically Populate Incident with Work Order Number, State , OnHold Reason using business rule
 
 This use case automates the linkage between **Work Orders** and **Incidents** in ServiceNow. When a **Work Order** is created from an **Incident**, the system automatically :
@@ -57,4 +68,11 @@ This behavior aligns with existing ITSM hold logic for Problem and Change proces
 ### Incident Updated with Work Order Reference, State On Hold, and Reason Awaiting Field Work Order
 ![Populate_WorkOrderNumber_State_onHoldReason](Populate_WorkOrder_Number_3.png)
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

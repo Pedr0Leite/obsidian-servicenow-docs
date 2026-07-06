@@ -1,5 +1,5 @@
 ---
-title: "HTTP(s) Connection run through MID server fails with \"Mutual authentication is not supported through MID Server\""
+title: "HTTP(s) Connection run through MID server fails with \"Mutual authentication is not supported through MID Server\"
 aliases:
   - KB0789257
 tags:

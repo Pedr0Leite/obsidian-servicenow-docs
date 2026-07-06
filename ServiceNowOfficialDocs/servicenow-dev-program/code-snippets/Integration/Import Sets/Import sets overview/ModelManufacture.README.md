@@ -1,3 +1,14 @@
+---
+title: "ModelManufacture.README"
+aliases:
+  - ModelManufacture.README
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - import-sets-overview
+  - import-sets
+---
+
 When importing or processing Configuration Items (CIs), especially hardware assets, missing model or manufacturer data can cause CI creation failures or incomplete relationships.
 This script handles that automatically by:
 * Checking if a manufacturer already exists in the core_company table.
@@ -14,3 +25,12 @@ How It Works
     * Searches the cmdb_model table (including child tables).
     * If no match exists, inserts a new record in cmdb_hardware_product_model.
 4. Logs each action (found, created, or failed) for debugging and auditing.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/README|Import sets overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/TriggerDataSource.README|TriggerDataSource.README]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/debug/README|debug]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0758037 - Azure AD Sync or an Import (e.g. LDAP Group Import) Being Interfered with by security_admin Role|Azure AD Sync or an Import (e.g. LDAP Group Import) Being Interfered with by \"security_admin\" Role]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0596441 - On JDBC data sources SQL with column aliases don't return any rows.|On JDBC data sources SQL with column aliases don't return any rows.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0747613 - When importing data, some staging table records are duplicating or an Import set row is duplicating|When importing data, some staging table records are duplicating or an Import set row is duplicating]]

@@ -1,3 +1,14 @@
+---
+title: "Auto close incident if all related changes are closed"
+aliases:
+  - Auto close incident if all related changes are closed
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-close-incident-if-all-related-changes-are-closed
+  - business-rules
+---
+
 Business Rule: Auto-Close Incident When All Related Changes Are Closed
 Table : change_request
 When to Run: After update
@@ -23,3 +34,12 @@ Sets:	state = 7 (Closed)
 	close_code = Auto Closed
 	close_notes = Auto closure as all changes are closed.
 Updates the record.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

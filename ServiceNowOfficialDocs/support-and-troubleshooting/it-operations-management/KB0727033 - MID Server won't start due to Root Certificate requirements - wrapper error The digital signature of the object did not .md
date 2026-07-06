@@ -1,5 +1,5 @@
 ---
-title: "MID Server won't start due to Root Certificate requirements - wrapper error \"The digital signature of the object did not verify\""
+title: "MID Server won't start due to Root Certificate requirements - wrapper error \"The digital signature of the object did not verify\"
 aliases:
   - KB0727033
 tags:

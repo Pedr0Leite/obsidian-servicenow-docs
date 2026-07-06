@@ -1,3 +1,14 @@
+---
+title: "My Reminders"
+aliases:
+  - My Reminders
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - my-reminders
+  - service-portal-widgets
+---
+
 # Service Portal Reminder Widget
 
 A simple custom ServiceNow Service Portal widget for viewing and creating personal reminders.
@@ -29,3 +40,11 @@ A simple custom ServiceNow Service Portal widget for viewing and creating person
 <img width="1831" height="396" alt="image" src="https://github.com/user-attachments/assets/bdb124a8-9634-4884-8d4b-cfb79225f07e" />
 <img width="1728" height="731" alt="image" src="https://github.com/user-attachments/assets/9bef4295-0321-4806-a4e5-465d80881bdc" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

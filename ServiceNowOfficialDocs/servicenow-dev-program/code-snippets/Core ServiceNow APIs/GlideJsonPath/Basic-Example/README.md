@@ -1,3 +1,14 @@
+---
+title: "Basic-Example"
+aliases:
+  - Basic-Example
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - basic-example
+  - glidejsonpath
+---
+
 # Querying JSON with JSONPath to extract values
 
 GlideJsonPath is a class which can be used to use JSONPath in ServiceNow. It can be useful when working with JSON Payloads, especially highly nested or in general complex structures.
@@ -7,3 +18,7 @@ References:
 - [Play with JSONPath outside of ServiceNow](https://jsonpath.com/)
 - [Good Examples to start with](https://restfulapi.net/json-jsonpath/)
 - [ServiceNow API Documentation](https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/GlideJsonPath/concept/GlideJsonPathAPI.html)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideJsonPath/Create Critical P1 Incident from Alert using GlideJsonPath/README|Create Critical P1 Incident from Alert using GlideJsonPath]]

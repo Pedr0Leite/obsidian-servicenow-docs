@@ -1,3 +1,14 @@
+---
+title: "Stepper"
+aliases:
+  - Stepper
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - stepper
+  - service-portal-widgets
+---
+
 # Stepper Widget
 
 This custom widget provides a visually appealing **stepper** (multi-step progress indicator) for ServiceNow Service Portal, allowing you to display progress through steps such as campaign creation or onboarding.
@@ -27,4 +38,11 @@ This custom widget provides a visually appealing **stepper** (multi-step progres
    - **currentStep** as the index of the current step (e.g., `1`)
 <img width="1119" height="358" alt="image" src="https://github.com/user-attachments/assets/a51d48e1-1881-4b8c-9b67-06e0a0165c4c" />
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

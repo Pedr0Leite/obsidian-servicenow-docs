@@ -1,3 +1,14 @@
+---
+title: "Extend Code Search Base"
+aliases:
+  - Extend Code Search Base
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - extend-code-search-base
+  - background-scripts
+---
+
 # Description
 Over time, your code spreads across dozens of artifact types and it becomes very difficult to keep track of it all. 
 
@@ -17,3 +28,11 @@ A search group has a certain name and covers all tables and fields which can be 
 
 Each record in that table represent a table and their fields which are searchable. These records are added or complemented by my script.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

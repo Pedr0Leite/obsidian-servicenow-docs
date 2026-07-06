@@ -1,3 +1,14 @@
+---
+title: "sn-avatar"
+aliases:
+  - sn-avatar
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sn-avatar
+  - service-portal
+---
+
 # sn-avatar
 `sn-avatar` directive is one of the many built-in directives that you can freely use in your widgets for displaying a user's profile picture.
 
@@ -44,3 +55,12 @@ To specify a size of the displayed avatar, you can use one of the predefined cla
 <sn-avatar class="avatar-extra-large" primary="user.sys_id" show-presence="true"></sn-avatar>
 ```
 ![different sizes](2021-10-15-23-25-15.png)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-record-picker/README|sn-record-picker]]

@@ -1,5 +1,5 @@
 ---
-title: "SAM : 'Validate Connection' in the subscription profile fails with 'Connection validation is not successfull. Requested resource does not exist.'"
+title: "SAM : 'Validate Connection' in the subscription profile fails with 'Connection validation is not successfull. Requested resource does not exist."
 aliases:
   - KB2520429
 tags:

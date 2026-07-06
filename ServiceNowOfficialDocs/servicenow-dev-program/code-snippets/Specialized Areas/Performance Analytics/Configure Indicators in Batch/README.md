@@ -1,3 +1,14 @@
+---
+title: "Configure Indicators in Batch"
+aliases:
+  - Configure Indicators in Batch
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - configure-indicators-in-batch
+  - performance-analytics
+---
+
 # Configure Performance Analytics in Batch
 
 ## Problem it solves
@@ -24,3 +35,8 @@ Extend this code snippet to:
 * Add breakdowns
 * Add indicator groups
 * Add/create data collection job
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0689652 - Troubleshooting users unable to access responsive dashboards|Troubleshooting users unable to access responsive dashboards]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715670 - Does not have access to performance_dashboards_main.do blank|Does not have access to performance_dashboards_main.do blank]]

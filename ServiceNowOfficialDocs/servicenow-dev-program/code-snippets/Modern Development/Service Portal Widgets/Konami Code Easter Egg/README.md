@@ -1,3 +1,14 @@
+---
+title: "Konami Code Easter Egg"
+aliases:
+  - Konami Code Easter Egg
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - konami-code-easter-egg
+  - service-portal-widgets
+---
+
 # Konami Code Easter Egg
 
 Put this code in the client controller of a widget to listen for the Konami Code. By default it just opens a modal notifying the user that the konami code as activated. Modify to do whatever fun things you want.
@@ -14,3 +25,12 @@ Put this code in the client controller of a widget to listen for the Konami Code
 6. Modern variable declarations for better scoping
 
 <img width="314" height="205" alt="image" src="https://github.com/user-attachments/assets/ea39dbdf-c252-4f7f-942d-8f26319ca6e2" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

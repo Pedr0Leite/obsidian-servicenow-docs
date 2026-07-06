@@ -1,3 +1,13 @@
+---
+title: "code-snippets"
+aliases:
+  - code-snippets
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - code-snippets
+---
+
 ![Code Snippets Banner](https://github.com/ServiceNowDevProgram/code-snippets/assets/31702109/f9fa072a-4c0c-426b-8eed-200c6616ff60)
 
 <div align="center">
@@ -143,3 +153,10 @@ That's it! **For detailed contribution instructions, please read our [CONTRIBUTI
 ## Leaderboard
 
 Looking for the old leaderboard? We've moved the leaderboard to the overarching [Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest#leaders) repository and have expanded its scope to all participating projects.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/.github/pull_request_template|PR Description:]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/AGENTS|AGENTS.md]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/CONTRIBUTING|How to Contribute]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/PAGES|GitHub Pages Site Documentation]]

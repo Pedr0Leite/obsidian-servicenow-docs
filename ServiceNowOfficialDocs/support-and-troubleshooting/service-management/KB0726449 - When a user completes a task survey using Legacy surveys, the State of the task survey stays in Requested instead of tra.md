@@ -1,5 +1,5 @@
 ---
-title: "When a user completes a task survey using Legacy surveys, the State of the task survey stays in \"Requested\" instead of transitioning to a State of \"Completed\""
+title: "When a user completes a task survey using Legacy surveys, the State of the task survey stays in \"Requested\" instead of transitioning to a State of \"Completed\"
 aliases:
   - KB0726449
 tags:

@@ -54,3 +54,12 @@ Need to create  "Client-callable script include ACL" for the script Include wit
 - [[KB0687687 - GlideAjax is working inconstantly]]
 - [[acl-rule-types|ACL rule types]]
 - [[sc-privacy-on-client-callable-script-includes|Security controls for client-callable script includes]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0750886 - ACL script is failing at script include function call|ACL script is failing at script include function call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0687687 - GlideAjax is working inconstantly|GlideAjax is working inconstantly]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/AjaxAsyncOnSubmit/README|AjaxAsyncOnSubmit]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Check Weekend - Client Side/README|Check Weekend - Client Side]]

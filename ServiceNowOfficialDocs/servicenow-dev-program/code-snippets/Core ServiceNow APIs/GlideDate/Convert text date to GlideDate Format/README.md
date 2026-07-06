@@ -1,3 +1,14 @@
+---
+title: "Convert text date to GlideDate Format"
+aliases:
+  - Convert text date to GlideDate Format
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - convert-text-date-to-glidedate-format
+  - glidedate
+---
+
 # Extract and Convert Date in a Text or String to GlideDate Format
 
 ## Use Case / Requirement
@@ -14,3 +25,7 @@ The solution utilizes the `GlideDate` object to parse the date from the string a
 
 ## Code Snippet
 Please find the attached javascript file to know how to implement it. Thank you!
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725708 - The API GlideDate.getDisplayValue() uses the UTC timezone instead of the user's timezone|The API GlideDate.getDisplayValue() uses the UTC timezone instead of the user's timezone]]

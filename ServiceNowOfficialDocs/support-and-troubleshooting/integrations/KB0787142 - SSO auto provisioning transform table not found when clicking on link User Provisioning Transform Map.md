@@ -1,5 +1,5 @@
 ---
-title: "SSO auto provisioning transform table not found when clicking on link \"User Provisioning Transform Map\""
+title: "SSO auto provisioning transform table not found when clicking on link \"User Provisioning Transform Map\"
 aliases:
   - KB0787142
 tags:

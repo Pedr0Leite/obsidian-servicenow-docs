@@ -1,5 +1,5 @@
 ---
-title: "'Task' and 'Trigger ID' fields are empty on the survey instance"
+title: "Task' and 'Trigger ID' fields are empty on the survey instance"
 aliases:
   - KB0724450
 tags:

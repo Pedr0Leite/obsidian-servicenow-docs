@@ -1,3 +1,14 @@
+---
+title: "Data Lookup Table Utils"
+aliases:
+  - Data Lookup Table Utils
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - data-lookup-table-utils
+  - script-includes
+---
+
 # Data Lookup Table Utils
 
 This script include provides a quick method of looking up data from any table extended from dl_matcher (Data Lookup Matcher Rules).  
@@ -35,3 +46,11 @@ gs.info(lookupData);
 ```
 This will return *3,4,5*
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

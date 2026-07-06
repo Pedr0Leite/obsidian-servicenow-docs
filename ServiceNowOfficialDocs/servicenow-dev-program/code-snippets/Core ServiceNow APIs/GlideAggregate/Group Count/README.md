@@ -1,3 +1,14 @@
+---
+title: "Group Count"
+aliases:
+  - Group Count
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - group-count
+  - glideaggregate
+---
+
 # Group Count
 Sometimes you need to filter a list by group count (e.g. finding duplicates) unfortunately as of now the UI(16) doesn't provide a way to filter records based on group count. This function should help with that.
 
@@ -35,3 +46,12 @@ gs.info('Output is ' + JSON.stringify(countOutput, null, 4));
   }
 ]
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Group Count/GlideQuery_readme|Group Count]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]

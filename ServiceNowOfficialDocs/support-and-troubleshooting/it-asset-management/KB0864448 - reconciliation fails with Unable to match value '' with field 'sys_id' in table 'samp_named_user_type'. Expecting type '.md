@@ -1,5 +1,5 @@
 ---
-title: "reconciliation fails with Unable to match value '' with field 'sys_id' in table 'samp_named_user_type'. Expecting type 'GUID'"
+title: "reconciliation fails with Unable to match value '' with field 'sys_id' in table 'samp_named_user_type'. Expecting type 'GUID"
 aliases:
   - KB0864448
 tags:

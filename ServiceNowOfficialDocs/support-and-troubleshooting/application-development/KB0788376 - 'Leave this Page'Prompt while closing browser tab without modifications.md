@@ -1,5 +1,5 @@
 ---
-title: "'Leave this Page'Prompt while closing browser tab without modifications"
+title: "Leave this Page'Prompt while closing browser tab without modifications"
 aliases:
   - KB0788376
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Open record in another instance"
+aliases:
+  - Open record in another instance
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - open-record-in-another-instance
+  - browser-bookmarklets
+---
+
 # Open Same Record in Another Instance (Browser Bookmarklet)
 
 ## Description
@@ -36,3 +47,11 @@ For custom URLs, you need to tweak the code slightly as required.
 SCreenshots:
 <img width="1900" height="534" alt="image" src="https://github.com/user-attachments/assets/03d0ae55-c2fb-48bc-bffc-a6061be79b16" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Highlight Mandatory fields on form/README|Highlight Mandatory fields on form]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Load List with Query/readme|Load List with Query]]

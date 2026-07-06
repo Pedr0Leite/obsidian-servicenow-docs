@@ -1,3 +1,14 @@
+---
+title: "JSONPath"
+aliases:
+  - JSONPath
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - jsonpath
+  - script-includes
+---
+
 # JSONPath Plus
 
 Analyse, transform, and selectively extract data from JSON documents (and JavaScript objects).
@@ -235,3 +246,12 @@ More examples can be found [here](https://github.com/JSONPath-Plus/JSONPath/blob
 ## Credits
 
 The code has been taken from [JSONPath-Plus repo](https://github.com/JSONPath-Plus/JSONPath) and slightly adjusted to be able to run on the platform JavaScript engine.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

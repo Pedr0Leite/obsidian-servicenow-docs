@@ -1,5 +1,5 @@
 ---
-title: "'Service Interruption - Instance is unavailable' During Upgrade or Scheduled Software Update on Server"
+title: "Service Interruption - Instance is unavailable' During Upgrade or Scheduled Software Update on Server"
 aliases:
   - KB0785049
 tags:

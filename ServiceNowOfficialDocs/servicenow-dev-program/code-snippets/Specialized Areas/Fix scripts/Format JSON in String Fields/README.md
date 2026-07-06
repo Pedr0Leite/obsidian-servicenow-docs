@@ -1,3 +1,14 @@
+---
+title: "Format JSON in String Fields"
+aliases:
+  - Format JSON in String Fields
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - format-json-in-string-fields
+  - fix-scripts
+---
+
 **Details**
 1. This script will format the JSON data in string fields on forms.
 2. There is on OOB attribute "json_view" which can be added to field but it always reqires an extra click and has loading time issues.
@@ -14,3 +25,12 @@
  <img width="950" height="382" alt="After" src="https://github.com/user-attachments/assets/c3a1c3c0-48bd-4d2f-9e27-fea0ed86004d" />
 
 JSON.stringify() documentation : https://www.geeksforgeeks.org/javascript/javascript-json-stringify-method/
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Adjust Variable Order on Catalog Item/README|Adjust Variable Order on Catalog Item]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]

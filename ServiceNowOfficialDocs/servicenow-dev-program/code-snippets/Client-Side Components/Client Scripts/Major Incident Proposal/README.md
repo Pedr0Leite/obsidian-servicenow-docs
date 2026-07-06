@@ -1,3 +1,14 @@
+---
+title: "Major Incident Proposal"
+aliases:
+  - Major Incident Proposal
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - major-incident-proposal
+  - client-scripts
+---
+
 <h1>Major Incident Proposal - Client Script & Script Include</h1>
 
 <p>This solution asks the users to propose an incident as a <strong>Major Incident</strong> candidate. The process is initiated from the <strong>Incident</strong> form when the priority is set to <strong>1 (Critical)</strong>, and the system checks if the incident has already been proposed as a Major Incident. If not, the user is prompted to confirm whether they wish to propose the incident. Upon confirmation, the incident is updated, and the <strong>Major Incident</strong> status is assigned.</p>
@@ -47,3 +58,12 @@
     <li>Modifying the client script to handle different priorities or additional fields.</li>
     <li>Updating the work notes or other fields when proposing the incident.</li>
 </ul>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

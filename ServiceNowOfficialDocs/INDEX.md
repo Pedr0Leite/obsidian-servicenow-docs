@@ -894,6 +894,19 @@ All paths are relative to the vault root. All entries are directories containing
 
 ---
 
+## Servicenow Dev Program
+
+| Path | Description | Keywords |
+|------|-------------|----------|
+| `servicenow-dev-program/code-snippets/Client-Side Components/` | Vendored community code snippets for client-side scripting (client scripts, catalog client scripts, UI policies, widgets) (254 docs) | dev-program, code-snippet, client-side, client-script, widget |
+| `servicenow-dev-program/code-snippets/Core ServiceNow APIs/` | Vendored community code snippets for core platform APIs (GlideRecord, GlideAjax, GlideSystem, etc.) (128 docs) | dev-program, code-snippet, api-reference, GlideRecord, GlideAjax |
+| `servicenow-dev-program/code-snippets/Integration/` | Vendored community code snippets for integrations (REST, SOAP, MID Server, external systems) (76 docs) | dev-program, code-snippet, integration, rest-api, mid-server |
+| `servicenow-dev-program/code-snippets/Modern Development/` | Vendored community code snippets for modern dev tooling (now-sdk, TypeScript, UI Builder, Now Experience Framework) (268 docs) | dev-program, code-snippet, modern-development, sdk, ui-builder |
+| `servicenow-dev-program/code-snippets/Server-Side Components/` | Vendored community code snippets for server-side scripting (business rules, script includes, scheduled jobs) (549 docs) | dev-program, code-snippet, server-side, business-rule, script-include |
+| `servicenow-dev-program/code-snippets/Specialized Areas/` | Vendored community code snippets for specialized platform areas (CMDB, Flow Designer, security, reporting) (189 docs) | dev-program, code-snippet, specialized, cmdb, flow-designer |
+
+---
+
 ## Root-Level Files
 
 | Path | Description | Keywords |

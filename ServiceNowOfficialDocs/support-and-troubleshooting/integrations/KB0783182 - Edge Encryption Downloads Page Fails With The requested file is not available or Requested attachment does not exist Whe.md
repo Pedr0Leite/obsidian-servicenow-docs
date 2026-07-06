@@ -1,5 +1,5 @@
 ---
-title: "Edge Encryption Downloads Page Fails With \"The requested file is not available\" or \"Requested attachment does not exist\" When Selecting \"Download Interactive Installer\" or \"Download the command line installer\""
+title: "Edge Encryption Downloads Page Fails With \"The requested file is not available\" or \"Requested attachment does not exist\" When Selecting \"Download Interactive Installer\" or \"Download the command line installer\"
 aliases:
   - KB0783182
 tags:

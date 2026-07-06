@@ -1,5 +1,5 @@
 ---
-title: "Hardware Asset Workspace – \"Page not found\""
+title: "Hardware Asset Workspace – \"Page not found\"
 aliases:
   - KB2676048
 tags:

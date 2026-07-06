@@ -1,3 +1,14 @@
+---
+title: "Call ML Prediction API"
+aliases:
+  - Call ML Prediction API
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - call-ml-prediction-api
+  - external-ml-model-integration
+---
+
 # Integrate ServiceNow with External ML Model API
 
 ## Overview

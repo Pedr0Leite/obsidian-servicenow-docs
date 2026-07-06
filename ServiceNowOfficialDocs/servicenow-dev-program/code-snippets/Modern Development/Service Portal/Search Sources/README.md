@@ -1,3 +1,14 @@
+---
+title: "Search Sources"
+aliases:
+  - Search Sources
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - search-sources
+  - service-portal
+---
+
 The purpose is to ensure the Global Search on the portal displays approval record. For instance, a case where user has quite a few approval records and wants to search on basis of the ticket to approve instead of navigating to My To-Dos or My Approvals.
 When user will enter the ticket number (for this use case it is RITM) in the global search system will display a record with a tick to the left of the number.
 This is added in the HTML file to help differentiate approval record from regular ticekt record. Inention here is when user selects the record with a 'tick' it will take to approval record where Approval action can be taken whilst the one without 'tick' will take to the actual ticket.
@@ -14,3 +25,11 @@ Result as below <img width="433" alt="image" src="https://github.com/Jaspalsingh
 
 where first one will take us ticket page while the other one is approval record.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-record-picker/README|sn-record-picker]]

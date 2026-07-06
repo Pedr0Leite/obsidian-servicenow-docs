@@ -1,5 +1,5 @@
 ---
-title: "Normalized data download fails with the error \"Failure Could not download Normalized Manufacturer Names\""
+title: "Normalized data download fails with the error \"Failure Could not download Normalized Manufacturer Names\"
 aliases:
   - KB0958289
 tags:

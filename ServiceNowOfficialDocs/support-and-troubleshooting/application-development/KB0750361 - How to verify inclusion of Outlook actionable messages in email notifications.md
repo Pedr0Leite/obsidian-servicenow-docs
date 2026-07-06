@@ -83,3 +83,12 @@ If the Actionable Message doesn't appear when you open the email, but the script
 - [[KB0750584 - Troubleshoot notification issues with cmn_notif_device and cmn_notif_message tables]]
 - [[KB0815869 - Outlook Actionable Message 401 error on endpoint]]
 - [[KB0783202 - Outlook Actionable Messages - Signed Cards]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745172 - Identify the source of emails sent from ServiceNow|Identify the source of emails sent from ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745430 - HTML Entity names not displaying in Notification previews and Email previews|HTML Entity names not displaying in Notification previews and Email previews]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0746264 - Emails are not formatted correctly in Outlook or older email applications|Emails are not formatted correctly in Outlook or older email applications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0747524 - Email Preview looks different than in Outlook, Gmail or other Mail Application|Email Preview looks different than in Outlook, Gmail or other Mail Application]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748592 - HTML Tags are included in email body|HTML Tags are included in email body]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]

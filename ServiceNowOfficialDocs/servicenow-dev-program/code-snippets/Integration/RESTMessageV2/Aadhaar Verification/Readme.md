@@ -1,3 +1,14 @@
+---
+title: "Aadhaar Verification"
+aliases:
+  - Aadhaar Verification
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - aadhaar-verification
+  - restmessagev2
+---
+
 # Aadhaar Integration - ServiceNow Integration
 
 A **production-ready ServiceNow Script Include** for **Aadhaar verification** and **eKYC**, utilizing a **Connection & Credential Alias** for secure, secret-free integration.
@@ -81,3 +92,12 @@ All methods return a normalized envelope:
 | `sendOtp(p)`           | Initiate OTP flow         | `uid`, `purpose`, `consent`    |
 | `verifyOtp(p)`         | Verify OTP and fetch eKYC | `uid`, `otp`, `session_id`     |
 | `verifyDemographic(p)` | Demographic match w/o OTP | `uid`, `name`, `dob`, `gender` |
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_config|sys_rest_message_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_fn_config|sys_rest_message_fn_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/API for Automatic Group creation/README|API for Automatic Group creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Auth2 client credentials token cache with auto-refresh/README|Auth2 client credentials token cache with auto-refresh]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/AzureDevOps/README|AzureDevOps]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Currency Conversion - Using CurrencyFreaks API/README|Currency Conversion - Using CurrencyFreaks API]]

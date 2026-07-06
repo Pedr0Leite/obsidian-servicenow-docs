@@ -1,3 +1,14 @@
+---
+title: "Attachment Downloads Logger"
+aliases:
+  - Attachment Downloads Logger
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - attachment-downloads-logger
+  - script-actions
+---
+
 # Attachment Downloads Logger
 
 A ServiceNow utility that logs attachment download activities by adding comments to the work notes of the associated record, enhancing visibility and ensuring compliance.
@@ -66,3 +77,8 @@ Server-Side Components / Script Actions / Attachment Downloads Logger
 
 ## Screenshots
 <img width="1256" height="132" alt="2025-10-23_22-57-59" src="https://github.com/user-attachments/assets/dbd95461-2b81-40d8-9425-f3c98e724dd1" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Actions/Custom Table Helper/README|Custom Table Helper]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Actions/Deactivate Inactive Users and Notify Managers/Readme|Deactivate Inactive Users and Notify Managers]]

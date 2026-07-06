@@ -1,3 +1,14 @@
+---
+title: "pe-donut-chart-two"
+aliases:
+  - pe-donut-chart-two
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-donut-chart-two
+  - donut-widgets
+---
+
 # Donut Chart Wizard
 
 ## Description
@@ -58,3 +69,7 @@ Widget Option Schema parameters:
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 
 > None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/donut-widgets/pe-donut-chart/Readme|pe-donut-chart]]

@@ -1,3 +1,14 @@
+---
+title: "Teams notifications when specific fields change on configured tables"
+aliases:
+  - Teams notifications when specific fields change on configured tables
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - teams-notifications-when-specific-fields-change-on-configured-tables
+  - sends-slack
+---
+
 #  AuditFieldChangeNotifier
 ### Description
 A ServiceNow Script Include that audits changes to specific fields and sends real-time notifications to Slack or Microsoft Teams using a webhook.  

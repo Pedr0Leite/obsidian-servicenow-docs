@@ -1,5 +1,5 @@
 ---
-title: "Commands on Unix/Linux devices during discovery fails,  Error: \"Password required to run dmidecode sudo\""
+title: "Commands on Unix/Linux devices during discovery fails,  Error: \"Password required to run dmidecode sudo\"
 aliases:
   - KB0694510
 tags:

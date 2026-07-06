@@ -1,3 +1,14 @@
+---
+title: "Display a 2-choice confirmation dialog"
+aliases:
+  - Display a 2-choice confirmation dialog
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - display-a-2-choice-confirmation-dialog
+  - ui-actions
+---
+
 # Display a 2-choice confirmation dialog
 When you press the button on the Form screen, a two-choice dialog is displayed.
 
@@ -50,3 +61,12 @@ function serversideTask() {
     action.setRedirectURL(current);
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

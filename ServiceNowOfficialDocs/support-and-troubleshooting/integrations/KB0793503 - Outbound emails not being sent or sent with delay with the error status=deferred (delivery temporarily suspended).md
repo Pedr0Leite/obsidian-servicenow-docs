@@ -1,5 +1,5 @@
 ---
-title: "Outbound emails not being sent or sent with delay with the error \"status=deferred (delivery temporarily suspended)\""
+title: "Outbound emails not being sent or sent with delay with the error \"status=deferred (delivery temporarily suspended)\"
 aliases:
   - KB0793503
 tags:

@@ -52,3 +52,12 @@ In order to display and make fields mandatory at the same time:
 - [[KB0696583 - Setting 'setSectionDisplay' function to 'false' does not hide the form section.]]
 - [[KB0711972 - oldValue returns empty value instead of the previous value for onChange client scripts]]
 - [[KB0720671 - Generic error on form Submit canceled due to a script error - please contact your System Administrator]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0696583 - Setting 'setSectionDisplay' function to 'false' does not hide the form section.|Setting 'setSectionDisplay' function to 'false' does not hide the form section.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0686723 - The Field MessageNotification will be cleared if we use Client Script to set value for the field on a form|The Field Message/Notification will be cleared if we use Client Script to set value for the field on a form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0711972 - oldValue returns empty value instead of the previous value for onChange client scripts|oldValue returns empty value instead of the previous value for onChange client scripts]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0717382 - An empty or blank box appears inside List collector in Service Portal|An empty or blank box appears inside List collector in Service Portal]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0726412 - Unable to change background color of reference field using g_form.getControl in client script|Unable to change background color of reference field using g_form.getControl in client script]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]

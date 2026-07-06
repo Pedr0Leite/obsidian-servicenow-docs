@@ -1,5 +1,5 @@
 ---
-title: "Error with NagiosXI connector \"Connection test failed: Failed to connect to Nagios on test connector. Invalid API Key \""
+title: "Error with NagiosXI connector \"Connection test failed: Failed to connect to Nagios on test connector. Invalid API Key \"
 aliases:
   - KB0755181
 tags:

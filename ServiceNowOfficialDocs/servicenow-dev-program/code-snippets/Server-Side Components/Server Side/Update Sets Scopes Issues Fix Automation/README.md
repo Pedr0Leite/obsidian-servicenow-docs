@@ -1,3 +1,14 @@
+---
+title: "Update Sets Scopes Issues Fix Automation"
+aliases:
+  - Update Sets Scopes Issues Fix Automation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - update-sets-scopes-issues-fix-automation
+  - server-side
+---
+
 ServiceNow Developers work with update set batching and many times it happens that customer updates gets captured in a wrong scope. As of Xanadu release, there is no way to fix these scoping issues in child updates.
 This utility will perform following and implement a way of taking in a parent/batch update set:
 
@@ -29,7 +40,11 @@ This functionality has following:
 
 ![image](https://github.com/user-attachments/assets/96bcea79-a06e-4891-aace-3bbba81e9cb4)
 
+## Related Notes
 
-
-
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CallScriptIncludeWithParameters/README|CallScriptIncludeWithParameters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CheckTableExtension/README|CheckTableExtension]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Admin Users/README|Create Admin Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Tiny Url with API's/README|Create Tiny Url with API's]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CreateUpdateCIThroughIRE/README|CreateUpdateCIThroughIRE]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Custom Relationship/README|Custom Relationship]]

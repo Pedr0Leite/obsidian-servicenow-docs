@@ -1,3 +1,13 @@
+---
+title: "AGENTS.md"
+aliases:
+  - AGENTS.md
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - code-snippets
+---
+
 # AGENTS.md
 
 This file provides guidance to AI Coding Agents when working with code in this repository.
@@ -116,3 +126,10 @@ The repository is organized into **6 major categories**. All contributions MUST 
 - Standard .gitignore excludes only .DS_Store files
 
 This repository serves as a comprehensive reference for ServiceNow developers at all skill levels, emphasizing practical, tested solutions for real-world development scenarios.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/.github/pull_request_template|PR Description:]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/CONTRIBUTING|How to Contribute]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/PAGES|GitHub Pages Site Documentation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/README|code-snippets]]

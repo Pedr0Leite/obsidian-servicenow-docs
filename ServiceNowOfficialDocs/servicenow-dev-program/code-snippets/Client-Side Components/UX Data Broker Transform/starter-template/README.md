@@ -1,3 +1,14 @@
+---
+title: "starter-template"
+aliases:
+  - starter-template
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - starter-template
+  - ux-data-broker-transform
+---
+
 # Transform Data Broker Template
 
 This repository provides a starter template for creating Transform Data Brokers in ServiceNow’s UX framework. This template includes error handling, input validation, and JSDoc annotations for a streamlined setup.
@@ -70,3 +81,8 @@ function transform({ param1, param2, param3 }) {
   ]
  */
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/FetchSysProperty/README|FetchSysProperty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/create-update-user-preference/README|create-update-user-preference]]

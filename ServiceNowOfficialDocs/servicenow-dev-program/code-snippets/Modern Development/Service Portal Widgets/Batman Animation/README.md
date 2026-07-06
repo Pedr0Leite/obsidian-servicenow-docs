@@ -1,3 +1,14 @@
+---
+title: "Batman Animation"
+aliases:
+  - Batman Animation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - batman-animation
+  - service-portal-widgets
+---
+
 In order to use the widget, follow the below steps:
 
 1.Create a new widget and copy the html, style and client script in the widget.
@@ -19,3 +30,12 @@ Here is Page Content structure
 
 
 ![image](https://user-images.githubusercontent.com/28950517/135977861-16358193-2df6-460a-ba6c-094c5ba3955d.png)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Card Image Link/README|Card Image Link]]

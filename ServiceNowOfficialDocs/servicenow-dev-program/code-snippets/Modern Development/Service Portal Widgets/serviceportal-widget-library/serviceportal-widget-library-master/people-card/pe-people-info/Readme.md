@@ -1,3 +1,14 @@
+---
+title: "pe-people-info"
+aliases:
+  - pe-people-info
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-people-info
+  - people-card
+---
+
 # People Info
 
 ## Description
@@ -51,3 +62,8 @@ _CSS/SASS variables are given default values that can be overridden with theming
 ```scss
 $pe-brand-primary: #337ab7 !default;
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/people-card/pe-technician-card/README|pe-technician-card]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/people-card/pe-welcome-user/README|pe-welcome-user]]

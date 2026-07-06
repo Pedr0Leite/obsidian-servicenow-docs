@@ -1,3 +1,14 @@
+---
+title: "Observe MRVS Events"
+aliases:
+  - Observe MRVS Events
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - observe-mrvs-events
+  - ui-scripts
+---
+
 # Observe Multi-row variable set events
 
 Using the MutationObserver API we can monitor changes to a multi-row variable set (i.e., new rows, deleted rows and updated rows).
@@ -39,3 +50,11 @@ function onLoad() {
 }
 ```
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Custom Change Schedule/README|Custom Change Schedule]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Disable Copy Paste For Portal/README|Disable Copy Paste For Portal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Display number of created records/README|Display number of created records]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Make OOB Attachment Mandatory/README|Make OOB Attachment Mandatory]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/PersistentAnnouncementBanner/README|PersistentAnnouncementBanner]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Prevent right click on portals/README|Prevent right click on portals]]

@@ -1,3 +1,14 @@
+---
+title: "Burndown Chart"
+aliases:
+  - Burndown Chart
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - burndown-chart
+  - agile-development
+---
+
 ## Description
 The planned lines of the ServiceNow burndown chart do not take holidays into account.  
 By using this Python snippet, you can create a burndown chart with planned lines that take holidays into account.  

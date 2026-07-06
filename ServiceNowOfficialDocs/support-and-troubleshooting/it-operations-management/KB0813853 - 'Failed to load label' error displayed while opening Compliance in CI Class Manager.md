@@ -1,5 +1,5 @@
 ---
-title: "'Failed to load label' error displayed while opening Compliance in CI Class Manager"
+title: "Failed to load label' error displayed while opening Compliance in CI Class Manager"
 aliases:
   - KB0813853
 tags:

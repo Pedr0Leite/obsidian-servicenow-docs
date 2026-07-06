@@ -1,3 +1,14 @@
+---
+title: "Kill flow timers"
+aliases:
+  - Kill flow timers
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - kill-flow-timers
+  - ui-actions
+---
+
 # UI Action to kill flow timers
 
 UI page that shows you all timers that a flow context [sys_flow_context] is waiting for. Shows sys_id of the sys_trigger, the datetime when the wait will finish and how long until that time. Select the checkbox and submit the modal form to kill that timer.
@@ -10,3 +21,11 @@ UI page that shows you all timers that a flow context [sys_flow_context] is wait
 
 ![image](timer.png)
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

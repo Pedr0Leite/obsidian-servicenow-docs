@@ -1,5 +1,5 @@
 ---
-title: "Discovery sensor throws an Error as  \"Discovery Sensor error : Transaction cancelled:maximum execution time exceeded\""
+title: "Discovery sensor throws an Error as  \"Discovery Sensor error : Transaction cancelled:maximum execution time exceeded\"
 aliases:
   - KB0720635
 tags:

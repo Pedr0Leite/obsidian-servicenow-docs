@@ -1,3 +1,14 @@
+---
+title: "create-update-user-preference"
+aliases:
+  - create-update-user-preference
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - create-update-user-preference
+  - ux-data-broker-transform
+---
+
 # Create/Update User Preference Data Broker
 
 This repository provides a data broker for creating or updating user preferences in ServiceNow. The broker allows you to specify a preference name and value, storing or updating it in the user’s preferences.
@@ -27,3 +38,8 @@ function transform({ name, value }) {
   }
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/FetchSysProperty/README|FetchSysProperty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/starter-template/README|starter-template]]

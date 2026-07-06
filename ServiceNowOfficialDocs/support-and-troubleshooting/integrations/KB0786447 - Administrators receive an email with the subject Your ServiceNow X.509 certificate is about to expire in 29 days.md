@@ -1,5 +1,5 @@
 ---
-title: "Administrators receive an email with the subject \"Your ServiceNow X.509 certificate is about to expire in 29 days\""
+title: "Administrators receive an email with the subject \"Your ServiceNow X.509 certificate is about to expire in 29 days\"
 aliases:
   - KB0786447
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Windows process detection fails with error \"Command NeebulaWMI.PutFileUsingAdminShare failed. System.Exception: Failed to create connection. Unable to connect to.\""
+title: "Windows process detection fails with error \"Command NeebulaWMI.PutFileUsingAdminShare failed. System.Exception: Failed to create connection. Unable to connect to.\"
 aliases:
   - KB0786156
 tags:

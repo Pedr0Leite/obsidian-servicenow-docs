@@ -1,5 +1,5 @@
 ---
-title: "Password reset process fails with an error \"Exception: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0\""
+title: "Password reset process fails with an error \"Exception: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0\"
 aliases:
   - KB0814533
 tags:

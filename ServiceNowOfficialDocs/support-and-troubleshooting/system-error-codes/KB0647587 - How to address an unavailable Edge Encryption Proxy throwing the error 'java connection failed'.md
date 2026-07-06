@@ -1,5 +1,5 @@
 ---
-title: "How to address an unavailable Edge Encryption Proxy throwing the error 'java connection failed'"
+title: "How to address an unavailable Edge Encryption Proxy throwing the error 'java connection failed"
 aliases:
   - KB0647587
 tags:

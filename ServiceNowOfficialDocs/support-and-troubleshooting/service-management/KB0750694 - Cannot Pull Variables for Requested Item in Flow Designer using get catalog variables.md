@@ -1,5 +1,5 @@
 ---
-title: "Cannot Pull Variables for Requested Item in Flow Designer using \"get catalog variables\""
+title: "Cannot Pull Variables for Requested Item in Flow Designer using \"get catalog variables\"
 aliases:
   - KB0750694
 tags:

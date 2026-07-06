@@ -1,3 +1,14 @@
+---
+title: "Bucket Group Reporting"
+aliases:
+  - Bucket Group Reporting
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - bucket-group-reporting
+  - scheduled-jobs
+---
+
 Find out all the cases with the difference in their create date and current date and put them in different buckets of their age. Then you can report on the aging. With this you will be able to run the Bucket Group reporting on tables without using PA.
 
 In ServiceNow Performance Analytics (PA), a Bucket Group is used to categorize or group data into defined ranges or segments, which helps make reports and indicators more meaningful and easier to analyze. This code will help you to categorize the tickets based on any defined ranges or segments you want. Based on this defined ranges or segments you can get any king of reporting without using PAs in ServiceNow.
@@ -23,3 +34,12 @@ Divide customer satisfaction scores into Low, Medium, High ranges.
 Convert numeric risk scores into descriptive ranges (Low Risk, Medium Risk, High Risk).
 
 Also, SLA uses the tickets to be defined in SLA number or breach date. It doesnt let you define any segment or categorize the data. It helps you define the reporting basis on your category or segment
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/API Token Expiry Warning/Readme|API Token Expiry Warning]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Approval Reminder/README|Approval Reminder]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto Disable account/Readme|Auto Disable account]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto close changes requests updated 30 days prior/README|Auto close changes requests updated 30 days prior]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto upgrade store applications/Readme|Auto upgrade store applications]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto-Assign Unassigned Incidents Older Than 30 Minutes/Readme|Auto-Assign Unassigned Incidents Older Than 30 Minutes]]

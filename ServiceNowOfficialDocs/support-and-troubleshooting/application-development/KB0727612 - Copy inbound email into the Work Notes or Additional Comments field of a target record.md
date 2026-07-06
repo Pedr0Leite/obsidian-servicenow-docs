@@ -55,3 +55,11 @@ All versions.
 - [[processing-inbound-emails]] - official docs on inbound email processing
 - [[use-inbound-email-action]] - official docs on configuring inbound email actions
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0743785 - Orphaned duplicate request is created via inbound email action using Cart() API|Orphaned duplicate request is created via inbound email action using Cart() API]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693393 - How to generate a token using sn_auth - oAuth API for Resource Owner Password Credentials grant type|How to generate a token using sn_auth - oAuth API  for Resource Owner Password Credentials grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693900 - How to generate a token using sn_auth - oAuth API for Authorization grant type|How to generate a token using sn_auth - oAuth API  for Authorization grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0750886 - ACL script is failing at script include function call|ACL script is failing at script include function call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0717827 - Using a business rule to copy attachments from one record to another upon creation|Using a business rule to copy attachments from one record to another upon creation]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0718496 - Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance|Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance]]

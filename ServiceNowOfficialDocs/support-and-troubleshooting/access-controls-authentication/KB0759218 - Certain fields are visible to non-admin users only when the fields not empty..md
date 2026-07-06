@@ -46,3 +46,12 @@ Refer the below product documentation to know more about this property.
 - [[KB0785309 - Reference Fields in a form are not visible if the user does not have read access on the Referenced table's recorddisplay]] — another reference-field ACL visibility issue
 - [[KB0749738 - SLA Definition field value is not displaying on task sla list or related lists for some users]] — similar field-visibility ACL scenario
 - [[r_ContScriptCondAppRefFld]] — official docs on applying ACL script conditions to reference fields
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0755717 - Non-itil users cannot see a read-only field on the catalog task which is extended from the request table.|Non-itil users cannot see a read-only field on the catalog task which is extended from the request table.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0782082 - When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a f|When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a field, need to make to use of ACL script.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0785309 - Reference Fields in a form are not visible if the user does not have read access on the Referenced table's recorddisplay|Reference Fields in a form are not visible if the user does not have read access on the Referenced table's record/display field]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0816018 - Admin role does not pass an ACL when Admin Overrides is selected|Admin role does not pass an ACL when Admin Overrides is selected]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]

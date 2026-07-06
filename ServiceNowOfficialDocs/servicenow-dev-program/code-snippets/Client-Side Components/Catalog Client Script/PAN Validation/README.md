@@ -1,3 +1,14 @@
+---
+title: "PAN Validation"
+aliases:
+  - PAN Validation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pan-validation
+  - catalog-client-script
+---
+
 PAN is a ten-digit unique alphanumeric number issued by the Income Tax Department.
 Indian PAN (Permanent Account Number) card based on its standardized format. 
 A PAN number is a unique 10-character alphanumeric identifier issued by the Indian government, and it follows a specific structure:
@@ -18,4 +29,11 @@ Eg:abcde1234f
 Eg: 1234ABCDEF  
 ![image](https://github.com/user-attachments/assets/08f538b7-d1ac-4d26-8579-8342ca757c8c)
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

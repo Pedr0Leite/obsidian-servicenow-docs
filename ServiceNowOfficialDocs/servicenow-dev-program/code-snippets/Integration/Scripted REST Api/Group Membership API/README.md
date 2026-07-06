@@ -1,3 +1,14 @@
+---
+title: "Group Membership API"
+aliases:
+  - Group Membership API
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - group-membership-api
+  - scripted-rest-api
+---
+
 # Group Membership API- Scripted REST API
 ## Overview
 This API provides a simple, secure way to reterive all members of a specified user group in ServiceNow. It allows integrations, Service Portal widgets, or external systems to query group membership without giving direct access to user tables
@@ -70,3 +81,12 @@ GET https://<instance>.service-now.com/api/1819147/group_membership_api/members?
 }
 
 }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Scripted REST API/sys_ws_definition_config|sys_ws_definition_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Scripted REST API/sys_ws_operation/sys_ws_operation_config|sys_ws_operation_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/Approval APIs/README|Approval APIs]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/Approval on Behalf/README|Approval on Behalf]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/CMDB API/README|CMDB API]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/CURL Script to create incident via tableAPI/README|CURL Script to create incident via tableAPI]]

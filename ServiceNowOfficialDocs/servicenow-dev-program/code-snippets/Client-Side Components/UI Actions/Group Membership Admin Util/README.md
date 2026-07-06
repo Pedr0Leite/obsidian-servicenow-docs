@@ -1,3 +1,14 @@
+---
+title: "Group Membership Admin Util"
+aliases:
+  - Group Membership Admin Util
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - group-membership-admin-util
+  - ui-actions
+---
+
 # Group Membership Utility
 
 The **Group Membership Utility** is a ServiceNow server-side tool designed to streamline the management of user membership in assignment groups. It provides administrators with two UI actions on the Assignment Group table to add or remove themselves from a group, ensuring efficient group membership management. Super helpful when doing group membership testing.
@@ -37,4 +48,11 @@ gs.hasRole('admin') && gs.getUser().isMemberOf(current.sys_id);
 3. Use the **Add Me** button to add yourself to the group if you're not already a member.
 4. Use the **Remove Me** button to remove yourself from the group if you're already a member.
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

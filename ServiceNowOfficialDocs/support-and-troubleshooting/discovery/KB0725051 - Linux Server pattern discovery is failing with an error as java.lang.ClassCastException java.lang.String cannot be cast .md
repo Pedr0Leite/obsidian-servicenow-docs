@@ -1,5 +1,5 @@
 ---
-title: "Linux Server pattern discovery is failing with an error as \"java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map\""
+title: "Linux Server pattern discovery is failing with an error as \"java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map\"
 aliases:
   - KB0725051
 tags:

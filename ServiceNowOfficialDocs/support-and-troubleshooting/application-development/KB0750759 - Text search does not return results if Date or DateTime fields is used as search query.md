@@ -3,7 +3,6 @@ title: "Text search does not return results if Date or Date/Time fields is used 
 aliases:
   - KB0750759
   - Text search does not return results for Date or Date/Time fields
-area: application-development
 tags:
   - servicenow
   - support-kb
@@ -11,6 +10,7 @@ tags:
   - zing
   - indexing
   - global-search
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0750759
 kb_number: KB0750759
 last_modified: 2024-04-07
@@ -38,3 +38,7 @@ There is currently no way to index date and time fields.
 - [[KB0814590 - Test Search Warning in log - JoinQuery invalid field name document_number]]
 - [[KB0542700 - Debugging legacy text search issues]]
 - [[KB0546326 - Text search index debugging script]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0747543 - List collector allowing filter on fields the end users don't have access to read|List collector allowing filter on fields the end users don't have access to read]]

@@ -1,3 +1,14 @@
+---
+title: "Dynamic UI Actions"
+aliases:
+  - Dynamic UI Actions
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dynamic-ui-actions
+  - client-scripts
+---
+
 # Dynamic Visible UI Actions
 
 This code snippet can be used to dynamically change the visibility of an UI action via a Client Script or UI Policy.
@@ -7,6 +18,11 @@ As this uses DOM manipulation you might have to uncheck the "Isolate Script" fie
 
 **Note**: DOM manipulation should be used with caution. 
 
+## Related Notes
 
-
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

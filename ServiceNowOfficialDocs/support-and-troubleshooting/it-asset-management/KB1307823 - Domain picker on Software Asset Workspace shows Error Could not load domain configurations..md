@@ -1,5 +1,5 @@
 ---
-title: "Domain picker on Software Asset Workspace shows \"Error: Could not load domain configurations.\""
+title: "Domain picker on Software Asset Workspace shows \"Error: Could not load domain configurations.\"
 aliases:
   - KB1307823
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Not all attachments are sent out in email client showing error \"Maximum allowed email attachment count exceeded. (max:30). Email sent without one or more of its attachments\""
+title: "Not all attachments are sent out in email client showing error \"Maximum allowed email attachment count exceeded. (max:30). Email sent without one or more of its attachments\"
 aliases:
   - KB0815750
 tags:

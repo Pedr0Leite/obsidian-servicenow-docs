@@ -1,3 +1,14 @@
+---
+title: "pe-status-alert"
+aliases:
+  - pe-status-alert
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-status-alert
+  - serviceportal-widget-library-master
+---
+
 # Status Alert
 
 ## Description
@@ -65,3 +76,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$status-alert-gradient: linear-gradient(#fe8a30, #ff6f00) !default;`<br/>
 `$status-recovered-color: #34ba3d !default`<br/>
 `$status-recovered-gradient: linear-gradient(#6ce474, #34ba3d) !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

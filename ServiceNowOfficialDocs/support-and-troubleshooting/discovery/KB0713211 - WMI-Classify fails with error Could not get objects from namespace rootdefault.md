@@ -1,5 +1,5 @@
 ---
-title: "WMI-Classify fails with error \"Could not get objects from namespace root\default\""
+title: "WMI-Classify fails with error \"Could not get objects from namespace root\default\"
 aliases:
   - KB0713211
 tags:

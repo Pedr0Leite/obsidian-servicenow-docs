@@ -1,5 +1,5 @@
 ---
-title: "HR AI Configuration Error: \"ConversionError: The undefined value has no properties\""
+title: "HR AI Configuration Error: \"ConversionError: The undefined value has no properties\"
 aliases:
   - KB2643033
 tags:

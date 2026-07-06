@@ -1,5 +1,5 @@
 ---
-title: "'Custom' tab or workflow palette missing in the instance workflow editor"
+title: "Custom' tab or workflow palette missing in the instance workflow editor"
 aliases:
   - KB0693323
 tags:

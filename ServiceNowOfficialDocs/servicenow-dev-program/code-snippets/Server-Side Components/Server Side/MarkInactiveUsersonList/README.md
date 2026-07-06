@@ -1,3 +1,14 @@
+---
+title: "MarkInactiveUsersonList"
+aliases:
+  - MarkInactiveUsersonList
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - markinactiveusersonlist
+  - server-side
+---
+
 There is a list type field named 'Reviewers' on Policy records.
 On the list view of Policies, we want to highlight with field styles, where any of the user listed under Reviewers is inactive.
 In the screenshot attached below, Daniel Zill is inactive user, and if he is present in Reviewers, the respective column value is applied with defined field styles.
@@ -8,3 +19,11 @@ The condition to check if any inactive user is present in Reviewers must be writ
 Refer below screenshot:
 <img width="911" height="239" alt="image" src="https://github.com/user-attachments/assets/477e52cb-bdad-439d-a1cc-5b6be0415c20" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CallScriptIncludeWithParameters/README|CallScriptIncludeWithParameters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CheckTableExtension/README|CheckTableExtension]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Admin Users/README|Create Admin Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Tiny Url with API's/README|Create Tiny Url with API's]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CreateUpdateCIThroughIRE/README|CreateUpdateCIThroughIRE]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Custom Relationship/README|Custom Relationship]]

@@ -1,5 +1,5 @@
 ---
-title: "CAB Meeting agenda items are being updated to 'Approved' instead of 'No Decision'"
+title: "CAB Meeting agenda items are being updated to 'Approved' instead of 'No Decision"
 aliases:
   - KB0723068
 tags:

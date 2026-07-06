@@ -61,3 +61,6 @@ The solution is to change the type of above mentioned  "xxxxx" custom field on 
 
 - [[c_TableAPI]] - REST Table API reference (JSONv2 predecessor of the Table API)
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0743780 - When notification is sent, email is not showing hyperlink for the incident number|When notification is sent, email is not showing hyperlink for the  incident number ]]

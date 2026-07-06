@@ -53,3 +53,12 @@ You will be able to see how this works correctly and the attachment is copied ac
 - [[KB0696085 - Attachments in emails, filenames greater than 60 characters, are renamed to ATT.dat in Lotus Notes]]
 - [[KB0718655 - Scripted (incorrect) query is unexpectedly returning all records]]
 - [[c_GlideSysAttachmentScopedAPI]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745222 - Best practice when using getRefRecord()|Best practice when using getRefRecord()]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to Base64/README|Attachment to Base64]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to base64 in scope/README|Attachment to base64 in scope]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Base 64 to Attachment/README|Base 64 to Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/CSVParser/README|CSVParser]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Calculate attachment hash code/README|Calculate attachment hash code]]

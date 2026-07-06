@@ -1,3 +1,14 @@
+---
+title: "Cancel Flow Executions"
+aliases:
+  - Cancel Flow Executions
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cancel-flow-executions
+  - ui-actions
+---
+
 # CancelFlow UI Action
 
 A ServiceNow utility that dynamically cancels flows associated with the current record, ensuring seamless process management.
@@ -47,3 +58,12 @@ In certain scenarios, it may be necessary to restrict the visibility of this ope
 ## Category
 
 Client-Side Components / UI Actions 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Incident/README|Cancel Incident]]

@@ -1,3 +1,14 @@
+---
+title: "Validate Data Before Insert"
+aliases:
+  - Validate Data Before Insert
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - validate-data-before-insert
+  - script-includes
+---
+
 <h1>DataValidationUtils - Script Include</h1>
 
 <p><strong>DataValidationUtils</strong> is a reusable Script Include for ServiceNow that provides a set of utility methods to perform validation checks on <code>GlideRecord</code> objects. This Script Include helps enforce data integrity before records are inserted or updated in ServiceNow tables by validating fields like <code>short_description</code> and <code>priority</code> and any others as per your requirements.</p>
@@ -31,3 +42,12 @@ if (validationErrors.length > 0) {
 
 <h2>Customization</h2>
 <p>The <strong>DataValidationUtils</strong> can be extended to include validation for additional fields or custom tables by simply adding more checks in the <code>validateIncidentData</code> method, or by creating new validation methods.</p>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

@@ -1,3 +1,14 @@
+---
+title: "Reassignment of Manager from Group and User Table"
+aliases:
+  - Reassignment of Manager from Group and User Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - reassignment-of-manager-from-group-and-user-table
+  - background-scripts
+---
+
 ## Reassignment of Manager from Group and User Tables to New Manager for Outgoing/Retiring Manager
 
 Automatically reassigns all groups and users managed by a retiring manager to a new manager and deactivates the outgoing manager’s **sys_user** record.
@@ -35,3 +46,12 @@ Automatically reassigns all groups and users managed by a retiring manager to a 
 ![Manager Reassignment](BackGroundScript_UpdateManager_Replace_4.png)
 
 ---
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

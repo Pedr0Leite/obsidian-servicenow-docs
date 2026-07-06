@@ -1,3 +1,14 @@
+---
+title: "debug-event"
+aliases:
+  - debug-event
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - debug-event
+  - ux-client-scripts
+---
+
 # DEBUG Event UX Client Script
 
 This repository provides a simple UX Client Script for logging events to the console. Named `DEBUG Event`, this client script is designed to assist in debugging by outputting key event details to the console, helping developers track event triggers and properties in real-time.
@@ -20,3 +31,7 @@ This repository provides a simple UX Client Script for logging events to the con
 function handler({ api, event, helpers, imports }) {
   console.log(`DEBUG Event ${event.elementId} ${event.name}`, event);
 }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Client Scripts/debug-state/README|debug-state]]

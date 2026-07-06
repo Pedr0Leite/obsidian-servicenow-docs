@@ -1,3 +1,14 @@
+---
+title: "Cancel Incident"
+aliases:
+  - Cancel Incident
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cancel-incident
+  - ui-actions
+---
+
 # Cancel Incident UI Action
 
 A UI Action in ServiceNow is a script that defines an action or button within the platform's user interface. It enables users to perform specific operations on forms and lists, such as creating, updating, or deleting records, or executing custom scripts. UI Actions enhance the user experience by providing functional buttons, links, or context menus.
@@ -55,3 +66,12 @@ Create a UI Action with the following field values:
 - This UI Action only appears on incident forms when the state is "New"
 - The confirmation dialog helps prevent accidental cancellations
 - The server-side script executes only after user confirmation
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Incident/SETUP|Setup Instructions for Cancel Incident UI Action]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]

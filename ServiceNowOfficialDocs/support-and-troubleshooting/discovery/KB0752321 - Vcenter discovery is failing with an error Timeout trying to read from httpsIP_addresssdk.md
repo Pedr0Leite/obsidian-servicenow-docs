@@ -1,5 +1,5 @@
 ---
-title: "Vcenter discovery is failing with an error \"Timeout trying to read from https://IP_address/sdk\""
+title: "Vcenter discovery is failing with an error \"Timeout trying to read from https://IP_address/sdk\"
 aliases:
   - KB0752321
 tags:

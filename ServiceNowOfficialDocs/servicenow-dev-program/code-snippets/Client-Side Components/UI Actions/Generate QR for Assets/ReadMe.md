@@ -1,3 +1,14 @@
+---
+title: "Generate QR for Assets"
+aliases:
+  - Generate QR for Assets
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - generate-qr-for-assets
+  - ui-actions
+---
+
 # 🧩 ServiceNow Asset QR Code Generator (UI Action)
 
 This repository contains a **ServiceNow UI Action** script that generates and displays a QR Code for an Asset record from list view.  
@@ -48,3 +59,12 @@ GenerateAssetQR.prototype = Object.extendsObject(AbstractAjaxProcessor, {
     }
 });
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

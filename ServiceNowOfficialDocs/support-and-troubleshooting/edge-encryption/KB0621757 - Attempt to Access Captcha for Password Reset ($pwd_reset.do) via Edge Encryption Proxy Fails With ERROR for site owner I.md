@@ -1,5 +1,5 @@
 ---
-title: "Attempt to Access Captcha for Password Reset ($pwd_reset.do) via Edge Encryption Proxy Fails With: \"ERROR for site owner: Invalid domain for site key\""
+title: "Attempt to Access Captcha for Password Reset ($pwd_reset.do) via Edge Encryption Proxy Fails With: \"ERROR for site owner: Invalid domain for site key\"
 aliases:
   - KB0621757
 tags:

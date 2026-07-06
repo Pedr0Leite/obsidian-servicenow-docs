@@ -1,3 +1,14 @@
+---
+title: "Instance Cost Analyzer"
+aliases:
+  - Instance Cost Analyzer
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - instance-cost-analyzer
+  - cost-optimization
+---
+
 # ServiceNow Instance Cost Optimization Analyzer
 
 ## Description

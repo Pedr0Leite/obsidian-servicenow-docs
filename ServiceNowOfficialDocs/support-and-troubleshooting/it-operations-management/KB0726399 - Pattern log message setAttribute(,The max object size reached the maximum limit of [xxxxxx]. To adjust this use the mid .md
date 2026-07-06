@@ -1,5 +1,5 @@
 ---
-title: "Pattern log message \"setAttribute(<<>>,The max object size reached the maximum limit of [xxxxxx]. To adjust this use the mid property mid.sm.discolog.max_object_size.)\""
+title: "Pattern log message \"setAttribute(<<>>,The max object size reached the maximum limit of [xxxxxx]. To adjust this use the mid property mid.sm.discolog.max_object_size.)\"
 aliases:
   - KB0726399
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Adding an entry point to Application Services Manually fails with error \"Update application service failed\""
+title: "Adding an entry point to Application Services Manually fails with error \"Update application service failed\"
 aliases:
   - KB0813279
 tags:

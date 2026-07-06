@@ -1,3 +1,14 @@
+---
+title: "Clickable SVG Image"
+aliases:
+  - Clickable SVG Image
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - clickable-svg-image
+  - service-portal-widgets
+---
+
 # Can clickable svg image
 ## main used echarts.js
 
@@ -111,5 +122,11 @@ add echarts.js to your widget dependencies.
 
 # Now you can use it.
 
+## Related Notes
 
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

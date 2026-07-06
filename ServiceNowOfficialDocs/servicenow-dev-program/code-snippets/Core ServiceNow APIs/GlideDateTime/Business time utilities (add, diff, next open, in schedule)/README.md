@@ -1,3 +1,14 @@
+---
+title: "Business time utilities (add, diff, next open, in schedule)"
+aliases:
+  - Business time utilities (add, diff, next open, in schedule)
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - business-time-utilities-add-diff-next-open-in-schedule
+  - glidedatetime
+---
+
 # Business time utilities (add, diff, next open, in schedule)
 
 ## What this solves
@@ -29,3 +40,12 @@ All functions return simple objects that are easy to log, test, and consume in F
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/GlideSchedule/concept/c_GlideScheduleAPI.html
 - GlideDateTime API  
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/GlideDateTime/concept/c_GlideDateTimeAPI.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/AddDays/README|AddDays]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Calculate Due date using user defined schedules/README|Calculate Due date using user defined schedules]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Check if today is weekend/README|Check if today is weekend]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Convert UTC Time To Local Time/readme|Convert UTC Time To Local Time]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Convert date format/README|Convert date format]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/ConvertTicksToGlideDateTime/README|ConvertTicksToGlideDateTime]]

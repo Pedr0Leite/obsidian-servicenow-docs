@@ -1,3 +1,14 @@
+---
+title: "ScheduleJob by ExectionTime_perDay"
+aliases:
+  - ScheduleJob by ExectionTime_perDay
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - schedulejob-by-exectiontime-perday
+  - glideaggregate
+---
+
 *********LONG RUNNING SCHEDULE JOBS PER DAY BY NUMBER OF TIMES EACH EXECUTED AND PROCESSING TIME********
 
 Script to get Top 10 scheduled jobs by processing time and number of times executed per day
@@ -10,3 +21,12 @@ Script to get Top 10 scheduled jobs by processing time and number of times execu
 
  - You can execute this as Background scipt or Fix script to get the output.
  - This can be executed as scheduled script to gte the top contributor details daily to take proactive actions
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]

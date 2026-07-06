@@ -1,3 +1,14 @@
+---
+title: "Auto-Assign Unassigned Incidents Older Than 30 Minutes"
+aliases:
+  - Auto-Assign Unassigned Incidents Older Than 30 Minutes
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-assign-unassigned-incidents-older-than-30-minutes
+  - scheduled-jobs
+---
+
 This scheduled job automatically assigns unassigned incidents in ServiceNow to a random active user from the incident’s assignment group, but only if the incident is at least 30 minutes old.
 It ensures timely triaging of new incidents and avoids backlog accumulation caused by unassigned tickets.
 
@@ -14,3 +25,12 @@ Random Assignment
 
 Update & Log
   Update the incident record in the database. Log success or skip messages to the system log
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/API Token Expiry Warning/Readme|API Token Expiry Warning]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Approval Reminder/README|Approval Reminder]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto Disable account/Readme|Auto Disable account]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto close changes requests updated 30 days prior/README|Auto close changes requests updated 30 days prior]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto upgrade store applications/Readme|Auto upgrade store applications]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Bucket Group Reporting/readme|Bucket Group Reporting]]

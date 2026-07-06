@@ -1,3 +1,14 @@
+---
+title: "BackfillAssignmentGroup"
+aliases:
+  - BackfillAssignmentGroup
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - backfillassignmentgroup
+  - script-includes
+---
+
 # BackFillAssignmentGroup
 
 This script include is an advanced reference qualifier for the Assignment group field. It restricts the Assignment group choices to only relevant groups of which the current Assigned to user is a member.
@@ -22,3 +33,12 @@ Configure the dictionary entry of the assignment_group field on Task table.
 4. Under the **Reference Specification** tab, set **Use reference qualifier** to **Advanced**.
 5. In the **Reference qual** field, enter: **javascript:new BackfillAssignmentGroup().BackfillAssignmentGroup()**
 6. Save
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

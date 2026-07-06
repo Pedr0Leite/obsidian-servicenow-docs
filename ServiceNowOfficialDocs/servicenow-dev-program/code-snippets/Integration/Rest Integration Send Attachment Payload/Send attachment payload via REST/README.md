@@ -1,3 +1,14 @@
+---
+title: "Send attachment payload via REST"
+aliases:
+  - Send attachment payload via REST
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - send-attachment-payload-via-rest
+  - rest-integration-send-attachment-payload
+---
+
 Overview
 
 This integration script is designed to send both a data payload and any attachments related to a record from ServiceNow to an external system via REST API. It uses ServiceNow’s RESTMessageV2 API to construct the message and send the data, making it adaptable for various external integrations.
@@ -86,3 +97,6 @@ Troubleshooting
 
 •	Debug Mode: Enable debug mode to log the request body and response, which can help you diagnose any issues with the payload or API response.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Rest Integration Send Attachment Payload/Send attachment payload via REST/DataloaderFromIntuneAPI_README|DataloaderFromIntuneAPI_README]]

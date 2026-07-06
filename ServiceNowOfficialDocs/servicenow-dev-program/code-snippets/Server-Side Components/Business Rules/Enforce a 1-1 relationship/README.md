@@ -1,3 +1,14 @@
+---
+title: "Enforce a 1-1 relationship"
+aliases:
+  - Enforce a 1-1 relationship
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - enforce-a-1-1-relationship
+  - business-rules
+---
+
 # Enforce a 1:1 relationship between two tables
 
 ServiceNow does not provide a direct means of establishing a one-to-one relationship between two tables. Even so, you can enforce a 1:1 relationship with a remote table using business rules.
@@ -37,3 +48,12 @@ Advanced Script:
     }
     
 } )( current, previous );
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

@@ -1,5 +1,5 @@
 ---
-title: "Slow queries from \"Error Manager - Update Counters\""
+title: "Slow queries from \"Error Manager - Update Counters\"
 aliases:
   - KB0813070
 tags:

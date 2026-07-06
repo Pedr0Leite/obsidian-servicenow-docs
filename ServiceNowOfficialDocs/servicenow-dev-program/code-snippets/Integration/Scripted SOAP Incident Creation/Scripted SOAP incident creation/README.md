@@ -1,1 +1,11 @@
+---
+title: "Scripted SOAP incident creation"
+aliases:
+  - Scripted SOAP incident creation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - scripted-soap-incident-creation
+---
+
 I have created a scripted SOAP service for creation of incident with the help of third party tools, with all mandatory validations. My API will check the validations while creating the incidents from third party tool and it won't allow to submit the record untill all validations will pass.

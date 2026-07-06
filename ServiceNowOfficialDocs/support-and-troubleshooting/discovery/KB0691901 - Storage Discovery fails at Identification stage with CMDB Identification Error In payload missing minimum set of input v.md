@@ -1,5 +1,5 @@
 ---
-title: "Storage Discovery fails at Identification stage with \"CMDB Identification Error: In payload missing minimum set of input values for criterion (matching) attributes from identify rule for table [cmdb_ci_storage_server]\""
+title: "Storage Discovery fails at Identification stage with \"CMDB Identification Error: In payload missing minimum set of input values for criterion (matching) attributes from identify rule for table [cmdb_ci_storage_server]\"
 aliases:
   - KB0691901
 tags:

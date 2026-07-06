@@ -1,5 +1,5 @@
 ---
-title: "PowerShell error \"A connection to the directory on which to process the request was unavailable. This is likely a transient condition.\""
+title: "PowerShell error \"A connection to the directory on which to process the request was unavailable. This is likely a transient condition.\"
 aliases:
   - KB0761117
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "PCF Discovery error \"No containment or hosting rules defined for dependent class [cmdb_ci_pcf_space_instance]\""
+title: "PCF Discovery error \"No containment or hosting rules defined for dependent class [cmdb_ci_pcf_space_instance]\"
 aliases:
   - KB0779936
 tags:

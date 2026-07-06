@@ -1,3 +1,14 @@
+---
+title: "pe-area-chart"
+aliases:
+  - pe-area-chart
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-area-chart
+  - highcharts
+---
+
 # Area Chart
 
 ## Description
@@ -81,3 +92,12 @@ Example:
 ## CSS/SASS Variables
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 > None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-bar-chart/README|pe-bar-chart]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-heatmap/README|pe-heatmap]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-line-chart/README|pe-line-chart]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-pie-chart/README|pe-pie-chart]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-solid-gauge/README|pe-solid-gauge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/highcharts/pe-treemap/README|pe-treemap]]

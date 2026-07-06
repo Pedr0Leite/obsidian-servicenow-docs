@@ -1,3 +1,14 @@
+---
+title: "findTableSize"
+aliases:
+  - findTableSize
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - findtablesize
+  - background-scripts
+---
+
 The script retrieves and logs the size of the `sys_attachment_doc` table in ServiceNow by querying the `sys_physical_table_stats` table, which stores metadata about the physical size of tables in the instance.
 
    - The variable `table_name` is defined as `'sys_attachment_doc'`, which is the table that holds the data for attachments in ServiceNow.
@@ -12,3 +23,12 @@ The script retrieves and logs the size of the `sys_attachment_doc` table in Serv
    - If no matching record is found, the script logs "Table not found!" indicating that the `sys_attachment_doc` table's size could not be retrieved.
 
 - Purpose: The script is designed to retrieve and display the size of a specified table in gigabytes from the `sys_physical_table_stats` table.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

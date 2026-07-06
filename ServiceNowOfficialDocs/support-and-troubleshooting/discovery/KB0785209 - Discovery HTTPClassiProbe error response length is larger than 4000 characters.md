@@ -1,5 +1,5 @@
 ---
-title: "Discovery HTTPClassiProbe error \"response length is larger than 4000 characters\""
+title: "Discovery HTTPClassiProbe error \"response length is larger than 4000 characters\"
 aliases:
   - KB0785209
 tags:

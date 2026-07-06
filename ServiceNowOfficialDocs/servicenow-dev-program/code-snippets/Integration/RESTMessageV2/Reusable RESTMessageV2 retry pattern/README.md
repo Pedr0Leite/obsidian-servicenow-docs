@@ -1,3 +1,14 @@
+---
+title: "Reusable RESTMessageV2 retry pattern"
+aliases:
+  - Reusable RESTMessageV2 retry pattern
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - reusable-restmessagev2-retry-pattern
+  - restmessagev2
+---
+
 # Function: `retry(func, retries, delayTime)`
 
 Retries a given function multiple times with a delay between each attempt.
@@ -38,3 +49,12 @@ function getToken() {
 var result = retry(getToken, 3, 2000);  // Try 3 times, with a 2-second delay between each attempt
 gs.info("Operation result: " + result);
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_config|sys_rest_message_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_fn_config|sys_rest_message_fn_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/API for Automatic Group creation/README|API for Automatic Group creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Aadhaar Verification/Readme|Aadhaar Verification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Auth2 client credentials token cache with auto-refresh/README|Auth2 client credentials token cache with auto-refresh]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/AzureDevOps/README|AzureDevOps]]

@@ -59,3 +59,12 @@ By a rough approximation, the size of data would be increased to 4/3 of the orig
 - [[KB0748767 - Rest API Explorer is escaping the special characters like single quote in the xml payload content.]]
 - [[r_ControllingMaxRequestSize|Controlling Max Request Size]]
 - [[KB0718496 - Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745010 - How to send Outbound REST request with multipartform-data|How to send Outbound REST request with multipart/form-data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to Base64/README|Attachment to Base64]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to base64 in scope/README|Attachment to base64 in scope]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Base 64 to Attachment/README|Base 64 to Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/CSVParser/README|CSVParser]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Calculate attachment hash code/README|Calculate attachment hash code]]

@@ -66,3 +66,12 @@ function preventConflicts(appid) {
 - [[KB0695379 - Files still left in Changed Files list after committing a scoped application to source control]]
 - [[KB0695295 - Resolve The operation encountered an unexpected error when linking source control to a Git repository]]
 - [[app-repo]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695169 - Changes to a scoped application are not being applied when the update is installed|Changes to a scoped application are not being applied when the update is installed]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695379 - Files still left in Changed Files list after committing a scoped application to source control|Files still left in Changed Files list after committing a scoped application to source control]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0687531 - Authorship of application was lost after clone|Authorship of application was lost after clone]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695295 - Resolve The operation encountered an unexpected error when linking source control to a Git repository|Resolve \"The operation encountered an unexpected error\" when linking source control to a Git repository]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0718655 - Scripted (incorrect) query is unexpectedly returning all records|Scripted (incorrect) query is unexpectedly returning all records]]

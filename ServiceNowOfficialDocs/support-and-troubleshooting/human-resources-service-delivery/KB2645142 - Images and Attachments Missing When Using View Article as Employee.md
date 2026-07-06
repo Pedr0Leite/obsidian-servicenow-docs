@@ -1,5 +1,5 @@
 ---
-title: "Images and Attachments Missing When Using \"View Article as Employee\""
+title: "Images and Attachments Missing When Using \"View Article as Employee\"
 aliases:
   - KB2645142
 tags:

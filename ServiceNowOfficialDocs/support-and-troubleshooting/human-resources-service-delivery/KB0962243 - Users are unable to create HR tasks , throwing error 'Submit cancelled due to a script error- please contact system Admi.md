@@ -1,5 +1,5 @@
 ---
-title: "Users are unable to create HR tasks , throwing error '\"Submit cancelled due to a script error- please contact system Administrator\""
+title: "Users are unable to create HR tasks , throwing error '\"Submit cancelled due to a script error- please contact system Administrator\"
 aliases:
   - KB0962243
 tags:

@@ -1,3 +1,14 @@
+---
+title: "pe-enduser-login-header"
+aliases:
+  - pe-enduser-login-header
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-enduser-login-header
+  - serviceportal-widget-library-master
+---
+
 # End User Login Header Widget
 
 ## Description
@@ -43,3 +54,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 **"Subtitle_Line_1"** Defines the subtitle.  `Default: Log in now to`<br/>
 **"Subtitle_line_2"** Defines the second subtitle.  `Default: Get Support and Manage Your Services`<br/>
 **"Logo"** Defines the glyph/icon using the [fontawesome.io](http://fontawesome.io/cheatsheet/) classes to display the logo.  `Default:  rocket`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

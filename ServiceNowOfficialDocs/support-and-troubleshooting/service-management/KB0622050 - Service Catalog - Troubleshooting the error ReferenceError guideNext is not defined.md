@@ -1,5 +1,5 @@
 ---
-title: "Service Catalog - Troubleshooting the error \"ReferenceError: guideNext is not defined\""
+title: "Service Catalog - Troubleshooting the error \"ReferenceError: guideNext is not defined\"
 aliases:
   - KB0622050
 tags:

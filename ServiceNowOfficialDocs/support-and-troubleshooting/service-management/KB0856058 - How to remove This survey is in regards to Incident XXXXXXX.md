@@ -1,5 +1,5 @@
 ---
-title: "How to remove \"This survey is in regards to Incident: XXXXXXX\""
+title: "How to remove \"This survey is in regards to Incident: XXXXXXX\"
 aliases:
   - KB0856058
 tags:

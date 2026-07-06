@@ -1,5 +1,5 @@
 ---
-title: "System Log displays error \"CMS site data missing from table\""
+title: "System Log displays error \"CMS site data missing from table\"
 aliases:
   - KB0552183
 tags:

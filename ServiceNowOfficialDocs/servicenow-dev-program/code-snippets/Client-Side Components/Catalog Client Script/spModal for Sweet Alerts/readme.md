@@ -1,3 +1,14 @@
+---
+title: "spModal for Sweet Alerts"
+aliases:
+  - spModal for Sweet Alerts
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - spmodal-for-sweet-alerts
+  - catalog-client-script
+---
+
 In ServiceNow, Open catalog client Scripts [catalog_script_client] and paste the code snippet of [spModalSweetAlerts.js] file.
 
 Setup:
@@ -25,3 +36,11 @@ Along with that a message shows the same of the selection.
 
 <img width="1350" height="319" alt="image" src="https://github.com/user-attachments/assets/1b23c766-51f8-4b01-9073-f836f390deb2" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

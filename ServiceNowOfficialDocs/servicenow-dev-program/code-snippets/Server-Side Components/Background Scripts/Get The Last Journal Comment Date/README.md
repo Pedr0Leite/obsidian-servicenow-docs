@@ -1,3 +1,14 @@
+---
+title: "Get The Last Journal Comment Date"
+aliases:
+  - Get The Last Journal Comment Date
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - get-the-last-journal-comment-date
+  - background-scripts
+---
+
 # Timestamp Extraction from Comment
 
 This code snippet demonstrates how to extract a timestamp from a comment text and create a 'GlideDateTime' object from it.
@@ -12,3 +23,12 @@ It may be useful if you don't want to drill down to the 'sys_journal_field' tabl
 ```javascript
 /* If your date has a different format you can replace the regex pattern with a new one */
 var timestampMatch = commentText.match(/YOUR_REGEX_PATTERN/);
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

@@ -1,3 +1,14 @@
+---
+title: "iFrame"
+aliases:
+  - iFrame
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - iframe
+  - service-portal-widgets
+---
+
 # iFrame Widget
 A flexible and reusable widget to display content in an iFrame.
 
@@ -40,3 +51,12 @@ A checkbox to override the page title with the Label field.
 Displaying an external site in an iFrame is subject to Cross Origin Resource Sharing (CORS) policies. These are enforced by the web browser and configured by the external site. You must ensure that the site you are trying to embed allows it.
 
 You may test the iFrame widget using [Wikipedia](https://en.wikipedia.org/) which does allow embedding.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

@@ -1,3 +1,14 @@
+---
+title: "Extending OOB TableUtils"
+aliases:
+  - Extending OOB TableUtils
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - extending-oob-tableutils
+  - script-includes
+---
+
 # Extending the baseline TableUtils Script Include
 
 This code snippet extends the out of the box __Table Utils__ Script Include by adding a method to retrieve all fields -and the properties- of a given table. There is already a baseline API called _getFields()_ that does the same, but it required an existing GlideRecord to perform it. There are cases where we want the fields of a table without necessarily having a GlideRecord.
@@ -32,5 +43,11 @@ And returns a JSON structure of this format:
 }
 ```
 
+## Related Notes
 
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

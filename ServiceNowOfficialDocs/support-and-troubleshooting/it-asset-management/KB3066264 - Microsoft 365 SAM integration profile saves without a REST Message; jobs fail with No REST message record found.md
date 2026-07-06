@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 SAM integration profile saves without a REST Message; jobs fail with \"No REST message record found\""
+title: "Microsoft 365 SAM integration profile saves without a REST Message; jobs fail with \"No REST message record found\"
 aliases:
   - KB3066264
 tags:

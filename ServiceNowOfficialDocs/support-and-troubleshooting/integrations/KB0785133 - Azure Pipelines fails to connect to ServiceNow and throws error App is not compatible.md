@@ -1,5 +1,5 @@
 ---
-title: "Azure Pipelines fails to connect to ServiceNow and throws error \"App is not compatible\""
+title: "Azure Pipelines fails to connect to ServiceNow and throws error \"App is not compatible\"
 aliases:
   - KB0785133
 tags:

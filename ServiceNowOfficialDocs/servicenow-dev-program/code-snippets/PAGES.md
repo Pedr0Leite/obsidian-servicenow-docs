@@ -1,3 +1,13 @@
+---
+title: "GitHub Pages Site Documentation"
+aliases:
+  - GitHub Pages Site Documentation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - code-snippets
+---
+
 # GitHub Pages Site Documentation
 
 This document describes the GitHub Pages implementation for the ServiceNow Code Snippets repository.
@@ -223,3 +233,10 @@ Planned improvements:
 ---
 
 This GitHub Pages site transforms the ServiceNow Code Snippets repository into a beautiful, functional web application that makes it easy for developers to discover and use ServiceNow code examples.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/.github/pull_request_template|PR Description:]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/AGENTS|AGENTS.md]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/CONTRIBUTING|How to Contribute]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/README|code-snippets]]

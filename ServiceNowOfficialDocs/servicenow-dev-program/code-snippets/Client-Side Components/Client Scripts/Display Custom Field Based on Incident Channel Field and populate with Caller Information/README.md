@@ -1,3 +1,14 @@
+---
+title: "Display Custom Field Based on Incident Channel Field and populate with Caller Information"
+aliases:
+  - Display Custom Field Based on Incident Channel Field and populate with Caller Information
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - display-custom-field-based-on-incident-channel-field-and-populate-with-caller-information
+  - client-scripts
+---
+
 # Display Custom Email/Phone Field Based on Incident Channel Field and Populate those Field with Caller Information
 
 Displays either the **Email** or **Phone** field on the **Incident** form based on the selected **Channel** value (Email or Phone) and populate the fields with the caller’s details.
@@ -36,8 +47,11 @@ Displays either the **Email** or **Phone** field on the **Incident** form based 
 
 ---
 
+## Related Notes
 
-
-
-
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

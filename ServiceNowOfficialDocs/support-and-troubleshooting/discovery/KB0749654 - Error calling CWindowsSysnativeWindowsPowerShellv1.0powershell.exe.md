@@ -1,5 +1,5 @@
 ---
-title: "Error calling \"C:\Windows\Sysnative\WindowsPowerShell\v1.0\powershell.exe\""
+title: "Error calling \"C:\Windows\Sysnative\WindowsPowerShell\v1.0\powershell.exe\"
 aliases:
   - KB0749654
 tags:

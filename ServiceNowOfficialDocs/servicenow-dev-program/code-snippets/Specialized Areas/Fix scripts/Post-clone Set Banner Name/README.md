@@ -1,3 +1,14 @@
+---
+title: "Post-clone Set Banner Name"
+aliases:
+  - Post-clone Set Banner Name
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - post-clone-set-banner-name
+  - fix-scripts
+---
+
 # Post-clone script for email properties
 
 To be used as a fix script or background script, meant to help with small adjustments needed per-environment after a clone.
@@ -5,3 +16,12 @@ To be used as a fix script or background script, meant to help with small adjust
 Notes: Make sure you fill in all of the instance names up top, with anything in your instance name before the [.service-now.com]
 
 This sets the banner description (that appears at the top of the instance) to the instance name and the date/time of the last clone. Helps keep users of that sub-prod instance informed of when the last clone date/time.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Adjust Variable Order on Catalog Item/README|Adjust Variable Order on Catalog Item]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]

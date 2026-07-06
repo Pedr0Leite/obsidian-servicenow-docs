@@ -1,3 +1,14 @@
+---
+title: "Guest Login Modal"
+aliases:
+  - Guest Login Modal
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - guest-login-modal
+  - service-portal-widgets
+---
+
 # Guest Login Modal Widget
 
 This widget provides a modal dialog prompting guest users to either login or continue browsing as a guest.  This is intended to be used on public facing Service Portal pages, and as such the widget should also be made public.
@@ -32,3 +43,12 @@ While there is certainly room to expand upon instance configuration options, the
 4. Copy the contents of `optionSchema.json` to the **Option schema** window
 5. Create a new **Angular ng-template** for the widget with **ID** set to `guest-login-content`, and then copy the contents of `ng-template.html` to the **Template** window.
 6. Drag the newly created widget onto a **Public** Service Portal page.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

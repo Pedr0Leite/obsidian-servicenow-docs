@@ -1,5 +1,5 @@
 ---
-title: "Mismatch between Incident 'Resolve Time' and Task Sla 'Business Elapsed time'"
+title: "Mismatch between Incident 'Resolve Time' and Task Sla 'Business Elapsed time"
 aliases:
   - KB0966817
 tags:

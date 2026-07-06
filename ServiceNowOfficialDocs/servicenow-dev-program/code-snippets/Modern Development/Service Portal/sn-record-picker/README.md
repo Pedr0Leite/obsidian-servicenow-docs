@@ -1,3 +1,14 @@
+---
+title: "sn-record-picker"
+aliases:
+  - sn-record-picker
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sn-record-picker
+  - service-portal
+---
+
 # sn-record-picker
 `sn-record-picker` is probably one of the most famous directive that you can utilize in your widgets and use it in situations where you need to have a reference field.
 
@@ -113,3 +124,12 @@ c.options = {
 	};
 	
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]

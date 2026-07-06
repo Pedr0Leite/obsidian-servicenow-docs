@@ -80,3 +80,12 @@ The code above will query the sys\_choice table and some read ACL might prevent 
 - [[KB0753132 - Users getting "Unauthorized access" error in Service Portal when REST API level ACLs are in place ]] — another Service Portal ACL/role restriction issue
 - [[KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow]] — background on ACL evaluation for no-role users
 - [[record-producer-vs-catalog-item]] — official docs on record producer configuration
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688981 - Certain users are unable to sc_cat_item_producer records in Service Portal|Certain users are unable to sc_cat_item_producer records in Service Portal ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753132 - Users getting Unauthorized access error in Service Portal when REST API level ACLs are in place|Users getting \"Unauthorized access\" error in Service Portal when REST API level ACLs are in place ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0785229 - Non Role user can open an incomplete incident from the Service Portal|Non Role user can open an incomplete incident from the Service Portal]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749991 - [Service Portal] Injection argument not found (newValue) error|[Service Portal]: Injection argument not found (newValue) error]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]

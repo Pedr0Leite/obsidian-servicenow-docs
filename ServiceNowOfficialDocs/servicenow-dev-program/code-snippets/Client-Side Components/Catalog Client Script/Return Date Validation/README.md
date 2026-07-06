@@ -1,3 +1,14 @@
+---
+title: "Return Date Validation"
+aliases:
+  - Return Date Validation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - return-date-validation
+  - catalog-client-script
+---
+
 This piece of code was written as a part of an usecase where the return date value validation was expected to be after start date as well as within 6 months from the start date. This code runs in an OnChange catalog client script for the field 'u_return_date' and validates the return date(u_return_date) in a ServiceNow Catalog item form to ensure:
 
 1. A start date(u_start_date) is entered before setting a return date(u_return_date).
@@ -21,3 +32,12 @@ b)
   Steps:
   a)Difference = -1 day → Return date put as 1 day before start date
   b)Result: u_return_date is cleared and error shown: “Select Return Date in future than Start Date”
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

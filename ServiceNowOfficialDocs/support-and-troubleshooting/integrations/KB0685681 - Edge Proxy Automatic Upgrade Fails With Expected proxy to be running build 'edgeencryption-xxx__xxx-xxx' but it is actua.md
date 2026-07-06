@@ -1,5 +1,5 @@
 ---
-title: "Edge Proxy Automatic Upgrade Fails With: Expected proxy to be running build 'edgeencryption-xxx__xxx-xxx' but it is actually running build edgeencryption-xxx__xxx-xxx'"
+title: "Edge Proxy Automatic Upgrade Fails With: Expected proxy to be running build 'edgeencryption-xxx__xxx-xxx' but it is actually running build edgeencryption-xxx__xxx-xxx"
 aliases:
   - KB0685681
 tags:

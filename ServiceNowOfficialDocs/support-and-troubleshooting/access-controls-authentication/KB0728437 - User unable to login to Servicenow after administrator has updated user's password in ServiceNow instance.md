@@ -58,3 +58,12 @@ When an administrator updates the password in the sys\_user record, he/she need
 - [[KB0744254 - After user's password has been updated on user record, user is unable to login to instance]] - duplicate/near-identical LDAP password issue
 - [[c_LDAPIntegration]] - official docs on LDAP integration
 - [[c_LDAPIntegrationTroubleshooting]] - official LDAP integration troubleshooting guide
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0744254 - After user's password has been updated on user record, user is unable to login to instance|After user's password has been updated on user record, user is unable to login to instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538787 - Determining if SAML or LDAP is being used in the instance|Determining if SAML or LDAP is being used in the instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715664 - Page not found when logging in through side_door.do|Page not found when logging in through side_door.do]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538763 - Determining if the SAML certificate is incorrect|Determining if the SAML certificate is incorrect]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538765 - Determining if ADFS is receiving a signed request| Determining if ADFS is receiving a signed request]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538768 - Determining if the properties from the source were copied over a target|Determining if the properties from the source were copied over a target]]

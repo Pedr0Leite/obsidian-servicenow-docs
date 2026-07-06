@@ -1,5 +1,5 @@
 ---
-title: "[Discovery] Windows servers may fail to discover with error \"gwmi : Could not get objects from namespace root\default. Not foundAt **PATH**\""
+title: "[Discovery] Windows servers may fail to discover with error \"gwmi : Could not get objects from namespace root\default. Not foundAt **PATH**\"
 aliases:
   - KB0744451
 tags:

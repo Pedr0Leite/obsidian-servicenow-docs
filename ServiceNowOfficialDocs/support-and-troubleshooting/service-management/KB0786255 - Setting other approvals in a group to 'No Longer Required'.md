@@ -1,5 +1,5 @@
 ---
-title: "Setting other approvals in a group to 'No Longer Required'"
+title: "Setting other approvals in a group to 'No Longer Required"
 aliases:
   - KB0786255
 tags:

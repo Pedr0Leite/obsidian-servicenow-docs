@@ -1,3 +1,14 @@
+---
+title: "Approval on Behalf"
+aliases:
+  - Approval on Behalf
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - approval-on-behalf
+  - scripted-rest-api
+---
+
 # Approve On Behalf - Scripted REST API
 
 ## Overview
@@ -38,3 +49,12 @@ Copy code
     "success": false,
     "message": "Invalid approval record ID: 1234567890abcdef"
 }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Scripted REST API/sys_ws_definition_config|sys_ws_definition_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Scripted REST API/sys_ws_operation/sys_ws_operation_config|sys_ws_operation_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/Approval APIs/README|Approval APIs]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/CMDB API/README|CMDB API]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/CURL Script to create incident via tableAPI/README|CURL Script to create incident via tableAPI]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Scripted REST Api/CopyAI Generative AI example/README|CopyAI Generative AI example]]

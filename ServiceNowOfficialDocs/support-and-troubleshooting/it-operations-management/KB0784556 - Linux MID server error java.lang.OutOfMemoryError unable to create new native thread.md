@@ -1,5 +1,5 @@
 ---
-title: "Linux MID server error \"java.lang.OutOfMemoryError: unable to create new native thread\""
+title: "Linux MID server error \"java.lang.OutOfMemoryError: unable to create new native thread\"
 aliases:
   - KB0784556
 tags:

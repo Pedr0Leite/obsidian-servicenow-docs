@@ -1,3 +1,14 @@
+---
+title: "EvtMgmtCustom_PostTransformHandler"
+aliases:
+  - EvtMgmtCustom_PostTransformHandler
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - evtmgmtcustom-posttransformhandler
+  - script-includes
+---
+
 ## EvtMgmtCustom_PostTransformHandler Script Include
 
 I came across a requirement where we wanted to a create a new alert/incident when the same event is encountered after a certain amount of time, even if the existing alert/incident are still open. OOTB if this is the case and same event comes into the system, it will go ahead and append it to the existing alert. 
@@ -6,3 +17,11 @@ So, I made the EvtMgmtCustom_PostTransformHandler as active and scripted the cod
 
 Note: This script is present in the system to make any changes to the alert which will be created out of this Event. The Event itself is immutable, and will not be changed in the database
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

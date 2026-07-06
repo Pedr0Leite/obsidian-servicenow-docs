@@ -1,3 +1,14 @@
+---
+title: "Email Bounce Alert System"
+aliases:
+  - Email Bounce Alert System
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - email-bounce-alert-system
+  - server-side
+---
+
 📧 Email Bounce Alert System
 📘 Overview
 
@@ -42,3 +53,12 @@ Proper recipient(s) and subject line set in the notification.
 📩 Faster communication recovery, ensuring critical business messages reach the intended audience.
 
 🔗 Direct record access for faster troubleshooting and action.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CallScriptIncludeWithParameters/README|CallScriptIncludeWithParameters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CheckTableExtension/README|CheckTableExtension]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Admin Users/README|Create Admin Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Tiny Url with API's/README|Create Tiny Url with API's]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CreateUpdateCIThroughIRE/README|CreateUpdateCIThroughIRE]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Custom Relationship/README|Custom Relationship]]

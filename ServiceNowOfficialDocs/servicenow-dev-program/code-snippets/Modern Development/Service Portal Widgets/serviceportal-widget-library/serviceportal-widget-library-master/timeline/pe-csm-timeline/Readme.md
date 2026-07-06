@@ -1,3 +1,14 @@
+---
+title: "pe-csm-timeline"
+aliases:
+  - pe-csm-timeline
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-csm-timeline
+  - timeline
+---
+
 # Timeline - Variant Used In CSM Experience
 
 ## Description
@@ -42,3 +53,11 @@ After installation, the widget can be accessed via the `Service Portal > Widgets
 ## CSS/SASS Variables
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 > None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-animated-timeline/README|pe-animated-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-incident-timeline/README|pe-incident-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-delivery-info/README|pe-timeline-delivery-info]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-emp-exp/Readme|pe-timeline-emp-exp]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline/Readme|pe-timeline]]

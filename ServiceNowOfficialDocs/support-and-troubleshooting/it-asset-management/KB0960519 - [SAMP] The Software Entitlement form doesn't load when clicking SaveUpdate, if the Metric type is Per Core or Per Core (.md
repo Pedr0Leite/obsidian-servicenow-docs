@@ -1,5 +1,5 @@
 ---
-title: "[SAMP] The Software Entitlement form doesn't load when clicking \"Save/Update\", if the Metric type is \"Per Core\" or \"Per Core (with CAL)\""
+title: "[SAMP] The Software Entitlement form doesn't load when clicking \"Save/Update\", if the Metric type is \"Per Core\" or \"Per Core (with CAL)\"
 aliases:
   - KB0960519
 tags:

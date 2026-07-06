@@ -1,5 +1,5 @@
 ---
-title: "\"Network Switch\" Discovery pattern throws \"Abandoned due to too many errors\""
+title: "\"Network Switch\" Discovery pattern throws \"Abandoned due to too many errors\"
 aliases:
   - KB0726444
 tags:

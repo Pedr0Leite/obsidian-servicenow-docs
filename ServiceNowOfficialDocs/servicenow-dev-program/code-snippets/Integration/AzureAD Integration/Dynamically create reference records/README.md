@@ -1,3 +1,14 @@
+---
+title: "Dynamically create reference records"
+aliases:
+  - Dynamically create reference records
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dynamically-create-reference-records
+  - azuread-integration
+---
+
 ******* READ ME FOR AZURE USER PROVISIONING TO MAINTAIN REFERENCE FIELDS/TABLES ***** https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0779148
 
 Because the Microsoft provided Azure Enterprise intergation with servicenow only creates records on the sys_user and sys_user_group tables this removes our ability to maintain the fields/tables that are referenced by these records (core tables).

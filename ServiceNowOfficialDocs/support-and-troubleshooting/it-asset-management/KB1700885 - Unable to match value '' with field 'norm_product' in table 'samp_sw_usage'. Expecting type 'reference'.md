@@ -1,5 +1,5 @@
 ---
-title: "Unable to match value '' with field 'norm_product' in table 'samp_sw_usage'. Expecting type 'reference'"
+title: "Unable to match value '' with field 'norm_product' in table 'samp_sw_usage'. Expecting type 'reference"
 aliases:
   - KB1700885
 tags:

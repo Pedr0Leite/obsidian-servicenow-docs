@@ -1,5 +1,5 @@
 ---
-title: "Intent and usage of the field \"Suspended For\""
+title: "Intent and usage of the field \"Suspended For\"
 aliases:
   - KB0961910
 tags:

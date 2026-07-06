@@ -1,3 +1,14 @@
+---
+title: "Attachment Handler"
+aliases:
+  - Attachment Handler
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - attachment-handler
+  - import-set-api
+---
+
 **Attachment parser for Import Set API**
 
 When Json payload comes in the staging table then payload ":" gets converted "=" due to which it becomes challenging to parse the encoded version of attachment, so, to get rid of this problem 

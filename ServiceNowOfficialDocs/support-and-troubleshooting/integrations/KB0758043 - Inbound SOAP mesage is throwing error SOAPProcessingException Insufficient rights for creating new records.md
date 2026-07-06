@@ -1,5 +1,5 @@
 ---
-title: "Inbound SOAP mesage is throwing error \"SOAPProcessingException: Insufficient rights for creating new records\""
+title: "Inbound SOAP mesage is throwing error \"SOAPProcessingException: Insufficient rights for creating new records\"
 aliases:
   - KB0758043
 tags:

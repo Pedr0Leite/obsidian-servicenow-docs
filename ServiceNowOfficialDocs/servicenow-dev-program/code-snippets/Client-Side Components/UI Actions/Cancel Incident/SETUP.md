@@ -1,3 +1,14 @@
+---
+title: "Setup Instructions for Cancel Incident UI Action"
+aliases:
+  - Setup Instructions for Cancel Incident UI Action
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cancel-incident
+  - ui-actions
+---
+
 # Setup Instructions for Cancel Incident UI Action
 
 This document provides detailed step-by-step instructions for implementing the Cancel Incident UI Action in your ServiceNow instance.
@@ -145,3 +156,12 @@ For issues or questions:
 2. Review browser console for client-side errors
 3. Test in a development instance first
 4. Consult ServiceNow documentation for UI Actions
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Incident/README|Cancel Incident]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]

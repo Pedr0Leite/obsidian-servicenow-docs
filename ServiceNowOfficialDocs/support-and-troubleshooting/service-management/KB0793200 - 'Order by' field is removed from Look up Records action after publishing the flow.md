@@ -1,5 +1,5 @@
 ---
-title: "'Order by' field is removed from Look up Records action after publishing the flow"
+title: "Order by' field is removed from Look up Records action after publishing the flow"
 aliases:
   - KB0793200
 tags:

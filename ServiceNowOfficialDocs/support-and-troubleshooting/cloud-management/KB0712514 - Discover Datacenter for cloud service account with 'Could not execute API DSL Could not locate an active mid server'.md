@@ -1,5 +1,5 @@
 ---
-title: "Discover Datacenter for cloud service account with 'Could not execute API DSL : Could not locate an active mid server'"
+title: "Discover Datacenter for cloud service account with 'Could not execute API DSL : Could not locate an active mid server"
 aliases:
   - KB0712514
 tags:

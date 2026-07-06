@@ -1,5 +1,5 @@
 ---
-title: "Slow processing of scheduled job 'Perspectium MultiOutput'"
+title: "Slow processing of scheduled job 'Perspectium MultiOutput"
 aliases:
   - KB0789826
 tags:

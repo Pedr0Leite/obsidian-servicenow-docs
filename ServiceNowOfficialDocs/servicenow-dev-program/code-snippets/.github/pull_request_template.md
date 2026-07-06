@@ -1,3 +1,14 @@
+---
+title: "PR Description:"
+aliases:
+  - PR Description:
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - github
+  - code-snippets
+---
+
 # PR Description: 
 replace this with your description
 
@@ -39,3 +50,10 @@ replace this with your description
 - [ ] My PR does not include XML exports of ServiceNow records
 - [ ] My PR does not contain sensitive information (passwords, API keys, tokens)
 - [ ] My PR does not include changes that fall outside the described scope
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/AGENTS|AGENTS.md]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/CONTRIBUTING|How to Contribute]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/PAGES|GitHub Pages Site Documentation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/README|code-snippets]]

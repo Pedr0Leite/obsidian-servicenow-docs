@@ -1,3 +1,14 @@
+---
+title: "Dynamic Table and Record Selector"
+aliases:
+  - Dynamic Table and Record Selector
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dynamic-table-and-record-selector
+  - service-portal-widgets
+---
+
 Widget Name: Dynamic Table and Record Selector
 
 Overview:
@@ -76,3 +87,12 @@ File Components:
 HTML Template: Contains two sn-record-picker elements for selecting table and record.
 
 Client Controller (JS): Handles field change events, fetches table metadata, determines display fields, and manages recursion logic.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

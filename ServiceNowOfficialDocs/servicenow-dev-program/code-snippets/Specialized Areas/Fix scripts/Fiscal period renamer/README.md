@@ -1,3 +1,14 @@
+---
+title: "Fiscal period renamer"
+aliases:
+  - Fiscal period renamer
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - fiscal-period-renamer
+  - fix-scripts
+---
+
 OOTB the Fiscal periods are named as such - "FY21: M01". This naming convention relies on each and every user knowing what M01 is (i.e. does the fiscal year start in January or does it start in March). This renaming script will append a descriptor to the end of each fiscal period name to increase usability and to preserve numeric sorting. Assuming M01 is January, the renamed fiscal period might be - "FY21: M01 Jan".
 
 The fiscal period generator also assumes a hard-coded convention for the FYXX component of the name. Many customers differ from this and require it in the format FY23-24 if a fiscal year stretches across two calendar years. This script will allow manual selection of the 'from' year component (i.e. if FY is FY23 and stretches from July 2022 to June 2023 the FY will be renamed FY22-23:).
@@ -9,3 +20,12 @@ Instructions:
 4. Update the fiscalPeriodRecordsPerYear variable - this is the number of fiscal period records you've created per fiscal year - this is typically 17. Increment this value by one and input (i.e. I'd input 18 if I had 17 records)
 5. Run the script and confirm the log statements are correct
 6. Uncomment row 83 and run again to commit output of step 5
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Adjust Variable Order on Catalog Item/README|Adjust Variable Order on Catalog Item]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]

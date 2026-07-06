@@ -1,5 +1,5 @@
 ---
-title: "'sys_flow_context' table is not selectable in Flow Designer trigger Table list"
+title: "sys_flow_context' table is not selectable in Flow Designer trigger Table list"
 aliases:
   - KB0860684
 tags:

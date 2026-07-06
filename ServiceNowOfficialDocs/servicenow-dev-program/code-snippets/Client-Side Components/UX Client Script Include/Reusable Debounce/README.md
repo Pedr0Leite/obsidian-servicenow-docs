@@ -1,3 +1,14 @@
+---
+title: "Reusable Debounce"
+aliases:
+  - Reusable Debounce
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - reusable-debounce
+  - ux-client-script-include
+---
+
 ## Add a debounce to search fields or other inputs with a client script
 Inputs, Typeaheads, and other components that can be used for searching the database, caches, or local storage. However, performing a search for every keypress or other change is often unnecessary and uses more resources than strictly necessary. This UX Client Script Include is a small utility for managing debounces, allowing a 'cool-off' from inputs before performing the activity.
 
@@ -30,3 +41,8 @@ function handler({api, event, helpers, imports}) {
     }
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Client Script Include/Access global object from page scripts/README|Access global object from page scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Client Script Include/Record Operation Utilities/README|Record Operation Utilities]]

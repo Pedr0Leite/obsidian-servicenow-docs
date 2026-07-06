@@ -79,3 +79,12 @@ You will need to modify this series of events so that the update to the current 
 - [[KB0688332 - Troubleshooting an Incident form showing the State being set to 'In Progress' twice]] — same current.update()-in-a-business-rule root cause, different symptom
 - [[KB0520595 - Inbound Email overview and troubleshooting]] — general inbound/outbound email troubleshooting overview
 - [[c_BusinessRules]] — official docs on business rule scripting and avoiding recursive current.update() calls
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695182 - Using DKIM for Emails from the service-now.com Domain|Using DKIM for Emails from the service-now.com Domain]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0696085 - Attachments in emails, filenames greater than 60 characters, are renamed to ATT.dat in Lotus Notes|Attachments in emails, filenames greater than 60 characters, are renamed to ATT*.dat in Lotus Notes]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0724449 - Duplicate email notification were sent from the instance when it was not intended|Duplicate email notification were sent from the instance when it was not intended]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745172 - Identify the source of emails sent from ServiceNow|Identify the source of emails sent from ServiceNow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]

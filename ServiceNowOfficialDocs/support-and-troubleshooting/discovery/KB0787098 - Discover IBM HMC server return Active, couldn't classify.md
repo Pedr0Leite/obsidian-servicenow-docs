@@ -1,5 +1,5 @@
 ---
-title: "Discover IBM HMC server return \"Active, couldn't classify\""
+title: "Discover IBM HMC server return \"Active, couldn't classify\"
 aliases:
   - KB0787098
 tags:

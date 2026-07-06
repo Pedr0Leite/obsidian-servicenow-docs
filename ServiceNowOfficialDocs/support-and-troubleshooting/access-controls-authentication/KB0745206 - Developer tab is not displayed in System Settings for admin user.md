@@ -53,3 +53,12 @@ Refer to the [Elevated privilege roles](https://docs.servicenow.com/csh?topicna
 - [[KB0687701 - Admin user is being asked to elevate to admin role after logging in]] - same elevated-privilege-on-admin-role root cause
 - [[KB0713543 - Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)]]
 - [[KB0728016 - A user with a specific role does not have access to a table even when an ACL grants that role the required access]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0713543 - Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)|Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0687701 - Admin user is being asked to elevate to admin role after logging in|Admin user is being asked to elevate to \"admin\" role after logging in]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0694783 - User granted with the list_updater role but can't see the 'Update selected' and 'Update all' Context menu in list|User granted with the list_updater role but can't see the 'Update selected' and 'Update all' Context menu in list]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0727017 - Best Practices for Installing 'Explicit Roles' and 'High Security Settings' Plugins|Best Practices for Installing 'Explicit Roles' and 'High Security Settings' Plugins]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0727246 - Admin Role related list shows more users versus Edit sluchbucket|Admin Role related list shows more users versus Edit sluchbucket]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0728016 - A user with a specific role does not have access to a table even when an ACL grants that role the required access|A user with a specific role does not have access to a table even when an ACL grants that role the required access]]

@@ -1,3 +1,14 @@
+---
+title: "Find Oldest Open Incidents per Group"
+aliases:
+  - Find Oldest Open Incidents per Group
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - find-oldest-open-incidents-per-group
+  - glideaggregate
+---
+
 ServiceNow Script: Find Oldest Open Incidents per Group
 This script leverages GlideAggregate to efficiently find the oldest active incident for each assignment group. This is a powerful tool for monitoring and reporting on potential service level agreement (SLA) risks and improving incident management processes.
 Overview
@@ -36,3 +47,12 @@ Change the aggregate: Use MAX instead of MIN to find the newest incident in each
 Get incident details: To get the actual incident record (e.g., its number), you would need to perform a secondary GlideRecord query based on the aggregated data.
 Dependencies
 This script uses standard ServiceNow APIs (GlideAggregate, gs). No external libraries are required.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Get Incident Count by Priority/README|Get Incident Count by Priority]]

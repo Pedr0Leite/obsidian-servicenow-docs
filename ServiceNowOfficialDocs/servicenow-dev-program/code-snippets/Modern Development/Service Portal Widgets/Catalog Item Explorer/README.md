@@ -1,3 +1,14 @@
+---
+title: "Catalog Item Explorer"
+aliases:
+  - Catalog Item Explorer
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - catalog-item-explorer
+  - service-portal-widgets
+---
+
 # Catalog Item Explorer
 
 Catalog Item Explorer is a powerful ServiceNow widget designed to enhance the catalog browsing experience within your Service Portal. It provides users with a convenient way to navigate and explore catalog items alphabetically, making it easier than ever to locate and access items in your ServiceNow catalog.
@@ -29,3 +40,12 @@ The primary goal of the Catalog Item Explorer widget is to serve as a valuable l
 - **Support for the external URL content items.
 - **The default target window changed to "_self" (same window).
 - **Option to open an item in the new window added at the end of the row.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

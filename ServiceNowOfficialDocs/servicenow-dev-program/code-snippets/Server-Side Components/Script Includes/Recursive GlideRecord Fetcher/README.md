@@ -1,3 +1,14 @@
+---
+title: "Recursive GlideRecord Fetcher"
+aliases:
+  - Recursive GlideRecord Fetcher
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - recursive-gliderecord-fetcher
+  - script-includes
+---
+
 #  Recursive GlideRecord Fetcher
 ##  Overview
 This snippet provides a reusable logic to recursively fetch child records from a parent record in ServiceNow. It is useful for traversing hierarchical relationships such as tasks, categories, CMDB CI relationships, or any table with a parent-child structure.
@@ -27,3 +38,12 @@ The logic prevents infinite loops by tracking visited records and supports nesti
 var fetcher = new RecursiveFetcher('task', 'parent');
 var hierarchy = fetcher.fetchChildren('abc123sysid'); // Replace with actual parent sys_id
 gs.info(JSON.stringify(hierarchy));
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

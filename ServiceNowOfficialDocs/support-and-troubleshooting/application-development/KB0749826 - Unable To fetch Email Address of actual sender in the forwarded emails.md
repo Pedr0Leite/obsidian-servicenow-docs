@@ -50,3 +50,12 @@ Reach your email admin and also check your outlook or email client properties to
 
 - [[KB0817647 - Forwarded emails and SPAM SPF_SOFTFAIL or SPF_HARDFAIL]]
 - [[KB0749517 - Inbound email embedded images are being added as attachments to the target record]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0520595 - Inbound Email overview and troubleshooting|Inbound Email overview and troubleshooting]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0529478 - Emails to incidents come in as winmail.dat attachments|Emails to incidents come in as winmail.dat attachments]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0691482 - Inbound emails with attached icons logos signatures images add duplicate repeated attachments in Activity Stream of targ|Inbound emails with attached icons / logos / signatures images add duplicate repeated attachments in Activity Stream of target record]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0693349 - Inbound emails received and processed display broken attached images in preview HTML body and in target record activity |Inbound emails received and processed display broken attached images in preview HTML body and in target record activity stream notes]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749517 - Inbound email embedded images are being added as attachments to the target record|Inbound email embedded images are being added as attachments to the target record]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749868 - Inbound emails are not creating HR cases|Inbound emails are not creating HR cases]]

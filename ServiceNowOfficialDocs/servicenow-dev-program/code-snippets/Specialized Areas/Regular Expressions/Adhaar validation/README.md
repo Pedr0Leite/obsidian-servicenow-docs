@@ -1,3 +1,13 @@
+---
+title: "Adhaar validation"
+aliases:
+  - Adhaar validation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - adhaar-validation
+  - regular-expressions
+---
 
 # Regular Expression on Catalog Client script
 
@@ -36,4 +46,11 @@ With the help of this code, you can easily validate the input value from the use
 
 * [Click here for script](script.js)
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Allow Characters + - ) ( for Phone numbers/README|Allow Characters + - ) ( for Phone numbers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/AllowAnyLanguage/README|AllowAnyLanguage]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check for special characters/readme|Check for special characters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check if number has 10 digits/README|Check if number has 10 digits]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Consecutive duplicate words/README|Consecutive duplicate words]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Credit Card Number Validator/README|Credit Card Number Validator]]

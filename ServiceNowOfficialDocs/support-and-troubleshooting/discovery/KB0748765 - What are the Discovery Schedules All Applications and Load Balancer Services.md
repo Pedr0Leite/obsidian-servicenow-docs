@@ -1,5 +1,5 @@
 ---
-title: "What are the Discovery Schedules \"All Applications\" and \"Load Balancer Services\""
+title: "What are the Discovery Schedules \"All Applications\" and \"Load Balancer Services\"
 aliases:
   - KB0748765
 tags:

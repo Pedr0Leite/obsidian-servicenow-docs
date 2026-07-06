@@ -1,3 +1,14 @@
+---
+title: "Show Message On Both Form and List"
+aliases:
+  - Show Message On Both Form and List
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - show-message-on-both-form-and-list
+  - client-scripts
+---
+
 # Use Case
 The OOB `GlideForm (g_form)` API has documentation on displaying messages of info, warning and error types on form view, but lack a success message. Moreover, this `g_form` API is not accessible on lists and hence makes it difficult to display list level messages.
 However, SN provides another client-side method `GlideUI.get().addOutputMessage({options})` that can be used to display messages in native UI irrespective of form or list views. Even the popular `g_form.addInfoMessage(params)` API actually leverages the same `addOutputMessage(options)` method to render messages.
@@ -59,3 +70,12 @@ GlideUI.get().addOutputMessage({
     preventDuplicates: true
 });
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

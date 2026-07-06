@@ -1,3 +1,14 @@
+---
+title: "Scheduled Job to Email Incident Count Report by Category"
+aliases:
+  - Scheduled Job to Email Incident Count Report by Category
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - scheduled-job-to-email-incident-count-report-by-category
+  - scheduled-jobs
+---
+
 Scheduled Job: Sends an email with monthly report based on incident category count
 
 Uses a custom event (custom.monthly.incident.report) with two parameters:
@@ -32,3 +43,12 @@ ${event.parm1}
 
 Regards,
 ServiceNow Automated Reports
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/API Token Expiry Warning/Readme|API Token Expiry Warning]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Approval Reminder/README|Approval Reminder]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto Disable account/Readme|Auto Disable account]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto close changes requests updated 30 days prior/README|Auto close changes requests updated 30 days prior]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto upgrade store applications/Readme|Auto upgrade store applications]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto-Assign Unassigned Incidents Older Than 30 Minutes/Readme|Auto-Assign Unassigned Incidents Older Than 30 Minutes]]

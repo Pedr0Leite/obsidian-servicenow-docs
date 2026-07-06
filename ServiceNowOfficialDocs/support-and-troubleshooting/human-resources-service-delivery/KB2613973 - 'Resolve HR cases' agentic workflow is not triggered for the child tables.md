@@ -1,5 +1,5 @@
 ---
-title: "'Resolve HR cases' agentic workflow is not triggered for the child tables"
+title: "Resolve HR cases' agentic workflow is not triggered for the child tables"
 aliases:
   - KB2613973
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Safe Bulk Delete"
+aliases:
+  - Safe Bulk Delete
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - safe-bulk-delete
+  - gliderecord
+---
+
 # GlideRecord Bulk Delete with Safety Checks
 
 ## Description
@@ -30,3 +41,12 @@ Record sys_id: 23456bcdef would be deleted.
 Record sys_id: 34567cdefg would be deleted.
 Bulk delete preview complete. Verify logs before enabling deletion.
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/ACL enforcement using GlideRecord/README|ACL enforcement using GlideRecord]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Add n number of users to n number of groups using server scripts/README|Add n number of users to n number of groups using server scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Archiving Old Incident Records to Improve Performance/readme|Archiving Old Incident Records to Improve Performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/CheckDuplicate-Server/readme|CheckDuplicate-Server]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Choose Window for better performance/README|Choose Window for better performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Compare_2_records/README|Compare_2_records]]

@@ -1,3 +1,14 @@
+---
+title: "Check User Criteria for Catalog Item"
+aliases:
+  - Check User Criteria for Catalog Item
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - check-user-criteria-for-catalog-item
+  - script-includes
+---
+
 # CheckCriteria Script Include
 
 This script include is used to check if a user has access to a specific catalog item based on "Available for" and "Not Available for" user criteria in ServiceNow. It supports admin overrides and custom user checks.
@@ -52,3 +63,12 @@ In the first example, the script checks if the current user can access the speci
 
 - If the `item` parameter is not provided or is `null`, an error message will be logged in the system logs.
 - The script also logs errors when unable to retrieve user criteria for the catalog item.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

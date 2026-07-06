@@ -1,3 +1,14 @@
+---
+title: "Console timing API"
+aliases:
+  - Console timing API
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - console-timing-api
+  - background-scripts
+---
+
 **This can be used in Yokohama++ instances**
 
 As part of Yokohama release the problem of logging and calculating time taken by a piece of script has been addressesed by bringing standardized timing tools to the platform, enabling precise performance analysis with minimal effort and developers can isolate slow operations.
@@ -15,3 +26,12 @@ Use Case: Query overall incident record and bulk update with specific values. Ne
    Stops the timer and logs the total execution time. 
 
 ServiceNow Documentation: https://www.servicenow.com/docs/bundle/yokohama-api-reference/page/app-store/dev_portal/API_reference/Console/concept/ConsoleAPI.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

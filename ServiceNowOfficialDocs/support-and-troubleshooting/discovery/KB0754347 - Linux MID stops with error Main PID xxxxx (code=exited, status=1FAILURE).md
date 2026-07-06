@@ -1,5 +1,5 @@
 ---
-title: "Linux MID stops with error \"Main PID: xxxxx (code=exited, status=1/FAILURE)\""
+title: "Linux MID stops with error \"Main PID: xxxxx (code=exited, status=1/FAILURE)\"
 aliases:
   - KB0754347
 tags:

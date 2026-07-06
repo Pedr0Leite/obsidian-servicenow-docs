@@ -1,5 +1,5 @@
 ---
-title: "VMware Metric Group getting replaced by 'Common'"
+title: "VMware Metric Group getting replaced by 'Common"
 aliases:
   - KB2631559
 tags:

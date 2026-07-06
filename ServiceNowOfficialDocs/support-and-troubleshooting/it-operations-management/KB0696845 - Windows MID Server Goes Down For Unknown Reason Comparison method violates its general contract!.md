@@ -1,5 +1,5 @@
 ---
-title: "Windows MID Server Goes Down For Unknown Reason \"Comparison method violates its general contract!\""
+title: "Windows MID Server Goes Down For Unknown Reason \"Comparison method violates its general contract!\"
 aliases:
   - KB0696845
 tags:

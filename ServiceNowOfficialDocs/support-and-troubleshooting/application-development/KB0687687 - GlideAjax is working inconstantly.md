@@ -64,3 +64,12 @@ Inside the function definition 
 - [[KB0752241 - Client scripts or UI Policies throws error ReferenceError HelloWorld is not defined when tring to call a Script Include]] — related script include call syntax issue
 - [[KB0686723 - The Field MessageNotification will be cleared if we use Client Script to set value for the field on a form]] — related client script sequencing pitfall
 - [[c_GlideAjaxAPI]] — official GlideAjax API reference
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749222 - Scripted fields not filling in for non-admin Users for the scoped applications|Scripted fields not filling in for non-admin Users for the scoped applications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749991 - [Service Portal] Injection argument not found (newValue) error|[Service Portal]: Injection argument not found (newValue) error]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]

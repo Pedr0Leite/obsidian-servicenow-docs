@@ -1,3 +1,14 @@
+---
+title: "UI Page Auto Populate Assigned to based on Assignment group"
+aliases:
+  - UI Page Auto Populate Assigned to based on Assignment group
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - ui-page-auto-populate-assigned-to-based-on-assignment-group
+  - ui-pages
+---
+
 This project adds functionality to dynamically filter the "Assigned To" field based on the selected "Assignment Group" on a UI page. When a group is selected, only users from that group will be displayed in the "Assigned To" reference field.
 
 Overview
@@ -33,3 +44,12 @@ The client script dynamically modifies the "Assigned To" field's lookup to filte
 Additional Notes
 Ensure that the Script Include is client-callable for it to be accessible via GlideAjax.
 This solution enhances user experience by restricting the "Assigned To" lookup field to relevant users from the selected "Assignment Group," improving data accuracy.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Add Multiple Items to Order Guide/README|Add Multiple Items to Order Guide]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/BulkUpdate Worknotes/Readme|BulkUpdate Worknotes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Custom Alert using UI Page/README|Custom Alert using UI Page]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Dynamic program status overview/README|Dynamic program status overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/EDM DocUnifiedSearch/README|EDM DocUnifiedSearch]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Edit Last WorkNotes/README|Edit Last WorkNotes]]

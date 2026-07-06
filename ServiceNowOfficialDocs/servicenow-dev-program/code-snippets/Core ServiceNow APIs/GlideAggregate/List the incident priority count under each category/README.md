@@ -1,3 +1,14 @@
+---
+title: "List the incident priority count under each category"
+aliases:
+  - List the incident priority count under each category
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - list-the-incident-priority-count-under-each-category
+  - glideaggregate
+---
+
 Purpose: This piece of code will be helpful to get the count of incidents by Priority under each Category.
 
 Sample Output:
@@ -33,5 +44,11 @@ Sample Output:
 *** Script: Priority-4 = 28
 *** Script: Priority-5 = 50
 
+## Related Notes
 
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]

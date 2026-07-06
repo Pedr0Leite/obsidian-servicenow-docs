@@ -1,3 +1,14 @@
+---
+title: "Get Agent log from Mid Server"
+aliases:
+  - Get Agent log from Mid Server
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - get-agent-log-from-mid-server
+  - background-scripts
+---
+
 # ServiceNow MID Server Log Retrieval
 
 This script is used to grab a agent log file from a specified **MID Server** on demand.
@@ -26,3 +37,12 @@ var log = "agent0.log.0";
 
 getMidServerAgentLog(mid, log); 
 // This creates the request in the ECC Queue.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

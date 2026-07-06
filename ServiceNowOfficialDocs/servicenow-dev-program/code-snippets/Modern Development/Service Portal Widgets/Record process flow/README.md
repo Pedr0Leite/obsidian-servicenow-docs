@@ -1,3 +1,14 @@
+---
+title: "Record process flow"
+aliases:
+  - Record process flow
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - record-process-flow
+  - service-portal-widgets
+---
+
 # Creating Process flow in service portal
 ## Introduction
 In this snippet you will create a custom process flow with a custom page and populated with standard widgets.
@@ -178,3 +189,12 @@ getProcessFlows: function(data,table,newRecord, grRecord){
 - Once submitted, Click on `Open in Page Designer` related link
 - In Page designer, Place `Process Flow` widget inside a container > row > Column at top location.
 - View paget from following link `http://instance-name.service-now.com/sp?id=process_flow`. 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

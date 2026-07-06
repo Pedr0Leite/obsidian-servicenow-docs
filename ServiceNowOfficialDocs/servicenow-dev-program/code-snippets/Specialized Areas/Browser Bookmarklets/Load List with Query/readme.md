@@ -1,3 +1,14 @@
+---
+title: "Load List with Query"
+aliases:
+  - Load List with Query
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - load-list-with-query
+  - browser-bookmarklets
+---
+
 Sometimes you can't include the condition you want in a graphical list filter, but a (GlideRecord) encoded query is valid.
  
 An Example:
@@ -25,3 +36,12 @@ When doing this, you will see the correct filter reflected in the breadcrumb, bu
 While this is a simple example, passing in a complex encoded query with ANDs and ORs will also work to filter the records and update the filter where building the filter manually is limited.
 
 This bookmarklet is formatted to open a new tab when logged into an instance. 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Highlight Mandatory fields on form/README|Highlight Mandatory fields on form]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Open copied record/README|Open copied record]]

@@ -1,5 +1,5 @@
 ---
-title: "Users redirected to <instance>/not_allowed.do with a message \"Security constraints prevent access to requested page\""
+title: "Users redirected to <instance>/not_allowed.do with a message \"Security constraints prevent access to requested page\"
 aliases:
   - KB0640068
 tags:

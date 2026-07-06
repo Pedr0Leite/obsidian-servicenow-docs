@@ -1,3 +1,14 @@
+---
+title: "Show Logged-in User roles"
+aliases:
+  - Show Logged-in User roles
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - show-logged-in-user-roles
+  - browser-bookmarklets
+---
+
 # ServiceNow User Info Bookmarklet
 
 A simple, client-side bookmarklet to display the current ServiceNow user's details in a pop-up modal. It's designed for developers, testers, and administrators who need to quickly check a user's name, sys_id, and full list of assigned roles
@@ -19,3 +30,11 @@ A simple, client-side bookmarklet to display the current ServiceNow user's detai
 
 <img width="1899" height="761" alt="image" src="https://github.com/user-attachments/assets/6dd8e92a-f905-4516-b1be-61e32a4de35c" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Highlight Mandatory fields on form/README|Highlight Mandatory fields on form]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Load List with Query/readme|Load List with Query]]

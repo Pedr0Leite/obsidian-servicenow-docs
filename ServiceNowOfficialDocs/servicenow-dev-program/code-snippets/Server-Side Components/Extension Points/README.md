@@ -1,3 +1,14 @@
+---
+title: "Extension Points"
+aliases:
+  - Extension Points
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - extension-points
+  - server-side-components
+---
+
 # Extension Points
 
 ## Overview

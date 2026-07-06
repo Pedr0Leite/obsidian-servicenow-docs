@@ -63,3 +63,12 @@ For Example: <p>${mail\_script:mail\_script\_name}</p>
 - [[KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink]]
 - [[KB0694768 - Email client only supports one email client template per table]]
 - [[KB0723602 - Unable to get the non-english value of translated text field or translated html field when using the email template]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink|Notification emails are not generated when the Message HTML field contains a hyperlink]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0694768 - Email client only supports one email client template per table|Email client only supports one email client template per table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0712569 - How to setup a SMS Email Notification in ServiceNow|How to setup a SMS Email Notification in ServiceNow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Conditional Trigger/README|Conditional Trigger]]

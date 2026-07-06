@@ -1,3 +1,14 @@
+---
+title: "Bulk task_ci REST API"
+aliases:
+  - Bulk task_ci REST API
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - bulk-task-ci-rest-api
+  - itsm
+---
+
 Purpose: 
 
 Allow bulk task_ci record inserts via a custom rest API endpoint. This will allow integration apps to insert task_ci relationships en masse on task records without needing to make an inordinate number of task_ci table API calls. Additionally, we can provide logic and filtering capabilities beyond the table API to make sure the right CI is associated to the task.
@@ -36,3 +47,7 @@ Post Body Example. Note that this is to illustrate the multiple ways users can i
     }
   ]
 }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0814892 - Metric definition table is unavailable for fulfiller users|Metric definition table is unavailable for fulfiller users]]

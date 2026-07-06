@@ -1,5 +1,5 @@
 ---
-title: " Adobe Creative Cloud products are getting normalized with 'Creative Cloud Desktop Application'"
+title: " Adobe Creative Cloud products are getting normalized with 'Creative Cloud Desktop Application"
 aliases:
   - KB1699591
 tags:

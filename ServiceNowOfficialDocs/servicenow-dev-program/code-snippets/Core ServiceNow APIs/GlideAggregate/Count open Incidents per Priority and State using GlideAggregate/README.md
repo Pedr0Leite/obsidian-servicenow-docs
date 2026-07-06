@@ -1,3 +1,14 @@
+---
+title: "Count open Incidents per Priority and State using GlideAggregate"
+aliases:
+  - Count open Incidents per Priority and State using GlideAggregate
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - count-open-incidents-per-priority-and-state-using-glideaggregate
+  - glideaggregate
+---
+
 # Count open Incidents per Priority and State using GlideAggregate
 
 ## Overview
@@ -27,3 +38,12 @@ is useful for:
 ## Table and Fields
 + **Table:** Task
 + **Fields:** Priority, State
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Get Incident Count by Priority/README|Get Incident Count by Priority]]

@@ -1,3 +1,14 @@
+---
+title: "Smart Assign to available member"
+aliases:
+  - Smart Assign to available member
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - smart-assign-to-available-member
+  - ui-actions
+---
+
 **Use-case:**
 The primary goal of this UI Action is load-balancing.
 It assigns tasks based on the fewest currently Active tasks assigned to a member in a group.
@@ -16,3 +27,12 @@ Smart Assign
    If someone removes a previous assignement group and then clicks on Smart Assign button, they are shown an error message to choose an Assignment group.
 2. There is a loop on the task table. This loop uses GlideAggregate to count how many active records are assigned to a specific user.
 3. It tracks the user that has the lowest count of tasks assigned to them and assigns the current task to them.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

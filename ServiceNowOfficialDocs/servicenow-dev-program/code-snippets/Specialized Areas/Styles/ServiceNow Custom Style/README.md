@@ -1,5 +1,13 @@
-
-
+---
+title: "ServiceNow Custom Style"
+aliases:
+  - ServiceNow Custom Style
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - servicenow-custom-style
+  - styles
+---
 
 # ServiceNow Custom Styles
 
@@ -77,3 +85,11 @@ This README explains how to apply the custom styles defined in `style.css` to yo
 ```
 
 This Markdown version organizes the instructions and code snippets effectively for easy reading and application.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Styles/Add Background Color to a field/README|Add Background Color to a field]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Styles/Add attachment icon-list view/README|Add attachment icon-list view]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Styles/Change text color of a field/README|Change text color of a field]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Styles/Hide MRVS Buttons/README|Hide MRVS Buttons]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Styles/Zoom Catalog Image on Hover/README|Zoom Catalog Image on Hover]]

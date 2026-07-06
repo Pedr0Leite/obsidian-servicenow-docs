@@ -1,3 +1,14 @@
+---
+title: "pe-tabs-widget"
+aliases:
+  - pe-tabs-widget
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-tabs-widget
+  - tabs
+---
+
 # Dynamic Tabs
 
 ## Description
@@ -53,3 +64,7 @@ var tabs = {
 ## CSS/SASS Variables
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 >None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/tabs/pe-tab-selection/README|pe-tab-selection]]

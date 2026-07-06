@@ -1,5 +1,5 @@
 ---
-title: "Survey links in emails generating as 'undefined'"
+title: "Survey links in emails generating as 'undefined"
 aliases:
   - KB0748010
 tags:

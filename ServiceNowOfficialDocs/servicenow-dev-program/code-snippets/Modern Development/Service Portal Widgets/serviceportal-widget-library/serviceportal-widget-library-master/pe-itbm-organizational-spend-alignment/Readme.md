@@ -1,3 +1,14 @@
+---
+title: "pe-itbm-organizational-spend-alignment"
+aliases:
+  - pe-itbm-organizational-spend-alignment
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-itbm-organizational-spend-alignment
+  - serviceportal-widget-library-master
+---
+
 # Organziational Spend Alignment (ITBM Experience)
 
 ## Description
@@ -49,3 +60,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$osa-font-color: #2e2e2e !default;`<br/>
 `$osa-background-color: #ffffff !default;`<br/>
 `$osa-border-color: #E4E5E6 !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

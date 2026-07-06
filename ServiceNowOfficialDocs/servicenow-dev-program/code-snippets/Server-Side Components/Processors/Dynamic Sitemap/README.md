@@ -1,3 +1,14 @@
+---
+title: "Dynamic Sitemap"
+aliases:
+  - Dynamic Sitemap
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dynamic-sitemap
+  - processors
+---
+
 ## Intro
 
 For organizations having public-facing service portals, there is often a need to have public content indexed, or crawled, by search engines in order for users to quickly and easily find relevant articles. Building a sitemap is one way of improving SEO by essentially announcing a given list of links that search crawlers should visit.  I will walk you through setting this up in ServiceNow by using a custom Processor.  We will be using the [sitemaps.org](https://www.sitemaps.org/protocol.html) protocol, so feel free to visit the link and get familiar with the XML tags to use.

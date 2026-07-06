@@ -1,5 +1,5 @@
 ---
-title: "From the License WorkBench we have noticed this Error: Uncaught SyntaxError: Unexpected token '{'"
+title: "From the License WorkBench we have noticed this Error: Uncaught SyntaxError: Unexpected token '{"
 aliases:
   - KB0853571
 tags:

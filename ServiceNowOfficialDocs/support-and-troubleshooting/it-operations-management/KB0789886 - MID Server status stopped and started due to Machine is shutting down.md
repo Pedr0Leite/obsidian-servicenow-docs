@@ -1,5 +1,5 @@
 ---
-title: "MID Server status stopped and started due to \"Machine is shutting down\""
+title: "MID Server status stopped and started due to \"Machine is shutting down\"
 aliases:
   - KB0789886
 tags:

@@ -1,3 +1,14 @@
+---
+title: "pe-tab-selection"
+aliases:
+  - pe-tab-selection
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-tab-selection
+  - tabs
+---
+
 # Tab Selection
 
 ## Description
@@ -40,3 +51,7 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$pe-text-color: #fff !default;`<br/>
 `$pe-status-color-warning: #ffce00 !default;`<br/>
 `$pe-status-color-critical: #ff0050 !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/tabs/pe-tabs-widget/Readme|pe-tabs-widget]]

@@ -1,5 +1,5 @@
 ---
-title: "Failing widget on HR Service Portal HR Case Info \"Server Javascript error: Cannot find function userHasSubjectPersonAccess\""
+title: "Failing widget on HR Service Portal HR Case Info \"Server Javascript error: Cannot find function userHasSubjectPersonAccess\"
 aliases:
   - KB0727795
 tags:

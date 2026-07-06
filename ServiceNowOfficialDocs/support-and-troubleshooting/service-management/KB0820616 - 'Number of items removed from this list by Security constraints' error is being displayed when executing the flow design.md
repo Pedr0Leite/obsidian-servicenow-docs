@@ -1,5 +1,5 @@
 ---
-title: "'Number of items removed from this list by Security constraints' error is being displayed when executing the flow designer."
+title: "Number of items removed from this list by Security constraints' error is being displayed when executing the flow designer."
 aliases:
   - KB0820616
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Track Discovery Status"
+aliases:
+  - Track Discovery Status
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - track-discovery-status
+  - itom
+---
+
 After a recent migration, the client wanted a quick and reliable way to verify whether specific IP addresses were being discovered by ServiceNow Discovery, and if so, determine which Discovery Status records they were associated with.
 
 This requirement was critical to help the client:
@@ -41,3 +52,10 @@ Helps identify why certain CIs stopped being discovered after migration.
 Provides clear mapping between IP addresses and their last discovery statuses.
 
 Enables faster root cause analysis and improves operational efficiency.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Bulk Location Update/README|Bulk Location Update]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Discovery/Pre README|ServiceNow Discovery Pre Sensor Script: IP Router Association]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Discovery/README|Discovery]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Generate Discovery Schedule/README|Generate Discovery Schedule]]

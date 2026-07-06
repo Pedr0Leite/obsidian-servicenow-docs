@@ -1,5 +1,5 @@
 ---
-title: "Child Change Request (under Parent Release record) is causing Parent's approvals to be marked \"No longer required\""
+title: "Child Change Request (under Parent Release record) is causing Parent's approvals to be marked \"No longer required\"
 aliases:
   - KB0827996
 tags:

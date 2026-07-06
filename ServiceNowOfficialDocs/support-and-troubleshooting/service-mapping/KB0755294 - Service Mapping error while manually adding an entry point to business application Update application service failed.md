@@ -1,5 +1,5 @@
 ---
-title: "Service Mapping error while manually adding an entry point to business application \"Update application service failed\""
+title: "Service Mapping error while manually adding an entry point to business application \"Update application service failed\"
 aliases:
   - KB0755294
 tags:

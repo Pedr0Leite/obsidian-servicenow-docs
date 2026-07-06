@@ -1,3 +1,14 @@
+---
+title: "ServiceNow Instance Collection"
+aliases:
+  - ServiceNow Instance Collection
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - servicenow-instance-collection
+  - browser-bookmarklets
+---
+
 # Bookmarklets
 
 Bookmarklets are simply browser bookmarks. They are created using javascript to make them more robust than simple links. They can execute within the context of the current active window and tab of your browser, which makes them very powerful and convenient.
@@ -23,3 +34,12 @@ The HTML file contains a set of bookmarklets that are instance agnostic. As long
 - Sort and group them as desired. They work in subfolders too.
 - Open an instance and login.
 - From any page on the instance, select the bookmarklet to activate it.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Highlight Mandatory fields on form/README|Highlight Mandatory fields on form]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Load List with Query/readme|Load List with Query]]

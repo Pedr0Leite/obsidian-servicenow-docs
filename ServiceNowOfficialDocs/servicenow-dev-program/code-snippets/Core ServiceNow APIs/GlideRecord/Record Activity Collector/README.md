@@ -1,3 +1,14 @@
+---
+title: "Record Activity Collector"
+aliases:
+  - Record Activity Collector
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - record-activity-collector
+  - gliderecord
+---
+
 It might be a requirement when we need to collect the activities from a ticket, and report it to any purposes. There is an OOTB available Processor, called NGListHistoryDirectProcessor, but it executes a Java code, and call it from the back-end can be complex. So this solution makes the activity collection simple.
 
 The feature can be used easily:
@@ -81,3 +92,12 @@ The result will be a JSON array, which contains the history of record like it ca
 
 And finally the image below represents how the activity information looks like on the form:
 ![activities](https://github.com/manrick/code-snippets/assets/29863465/345256f6-7e18-49b8-acc1-9e5d4c68131e)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/ACL enforcement using GlideRecord/README|ACL enforcement using GlideRecord]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Add n number of users to n number of groups using server scripts/README|Add n number of users to n number of groups using server scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Archiving Old Incident Records to Improve Performance/readme|Archiving Old Incident Records to Improve Performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/CheckDuplicate-Server/readme|CheckDuplicate-Server]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Choose Window for better performance/README|Choose Window for better performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Compare_2_records/README|Compare_2_records]]

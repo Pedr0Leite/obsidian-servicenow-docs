@@ -107,3 +107,7 @@ _v=DMARC1; p=none; rua=mailto:dmarcaadmin@service-now.com; ruf=mailto:dmarcfadmi
 - [[KB0725655 - Only ServiceNow Mail Servers are allowed to send emails for service-now.com domain]]
 - [[KB0535456 - How to configure Sender Policy Framework (SPF) records for ServiceNow email delivery]]
 - [[KB0817647 - Forwarded emails and SPAM SPF_SOFTFAIL or SPF_HARDFAIL]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725655 - Only ServiceNow Mail Servers are allowed to send emails for service-now.com domain|Only ServiceNow Mail Servers are allowed to send emails for \"service-now.com\" domain]]

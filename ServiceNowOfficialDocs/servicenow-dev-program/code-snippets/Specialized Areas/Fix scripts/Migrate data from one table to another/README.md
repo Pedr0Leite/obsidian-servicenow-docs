@@ -1,3 +1,14 @@
+---
+title: "Migrate data from one table to another"
+aliases:
+  - Migrate data from one table to another
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - migrate-data-from-one-table-to-another
+  - fix-scripts
+---
+
 # Migrate data from one table to another
 
 Sometimes we have to migrate data from one table to another but there has been a lot of customizations on the existing table including the custom columns.
@@ -27,3 +38,12 @@ We are also handling Custom column customization in `cloneColumn` function of th
 If we want to completely deprecate the previous table then we have to update the fields where the previous table is being refered so we are handling this in `updateDictionaryReferences` function and once migartion is completed, we are deprecating the previosu table in `deprecateTable` function.
 
 We are using `GlideRecordClassSwitcher`function to migrate records from one table to another but this will one migrate data of the columns which are common in both the tables heirarchy so for other fields we have to again populate them again. One important thing to note here is that `GlideRecordClassSwitcher` automatically remove record from the previous table and this will not impact `cascade_rule` of the other tables and **will create record in the new table with the same sys id** so we don't have to worry about references where the record has being references.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Adjust Variable Order on Catalog Item/README|Adjust Variable Order on Catalog Item]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]

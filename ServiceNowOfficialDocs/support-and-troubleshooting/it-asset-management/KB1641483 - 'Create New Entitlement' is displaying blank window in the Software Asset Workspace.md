@@ -1,5 +1,5 @@
 ---
-title: "'Create New Entitlement' is displaying blank window in the Software Asset Workspace"
+title: "Create New Entitlement' is displaying blank window in the Software Asset Workspace"
 aliases:
   - KB1641483
 tags:

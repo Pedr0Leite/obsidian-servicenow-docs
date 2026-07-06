@@ -1,3 +1,14 @@
+---
+title: "After-BR to generate approvals for catalog tasks"
+aliases:
+  - After-BR to generate approvals for catalog tasks
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - after-br-to-generate-approvals-for-catalog-tasks
+  - business-rules
+---
+
 This code snippet will help you to generate approvals for catalog tasks via scripting. You just need to create an after insert BR and put this script there.
 This script can be used in a workflow run script as well and you can modify the script a little bit and use it for other tables as well. 
 
@@ -10,3 +21,12 @@ For e.g. dependent field name is u_table_name, so your script can be something l
 - obj.update();
 
 where 'obj' is an object of the record you are referring to.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

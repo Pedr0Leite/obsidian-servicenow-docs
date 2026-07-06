@@ -1,3 +1,14 @@
+---
+title: "CreateUpdateCIThroughIRE"
+aliases:
+  - CreateUpdateCIThroughIRE
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - createupdatecithroughire
+  - server-side
+---
+
 ServiceNow CMDB should be updated through the Identification and Reconciliation Engine. There are several legacy ways of populating CMDB and the most commonly used ways are via transform maps or through any external integration scripts. Whenver data is added to the CMDB, it should go through the IRE as it helps you maintain the quality of your CI data by avoiding duplicates and ensuring that only authorized source can updated the data in your CMDB. The code snippet allows you to update CMDB through IRE thereby reducing the maintanance effort required on your CMDB. You could call it from a transform map script, integration scripts or via any other scripted methods used to integrate.
 
 Sample Usage
@@ -35,3 +46,12 @@ var relations = [{
 
 createOrUpdateCIThroughIRE(items, relations, "ServiceNow");
 ````````
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CallScriptIncludeWithParameters/README|CallScriptIncludeWithParameters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CheckTableExtension/README|CheckTableExtension]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Admin Users/README|Create Admin Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Tiny Url with API's/README|Create Tiny Url with API's]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Custom Relationship/README|Custom Relationship]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Dynamic Catalog Task Creation/README|Dynamic Catalog Task Creation]]

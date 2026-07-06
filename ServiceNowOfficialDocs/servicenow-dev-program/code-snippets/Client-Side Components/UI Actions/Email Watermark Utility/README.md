@@ -1,3 +1,14 @@
+---
+title: "Email Watermark Utility"
+aliases:
+  - Email Watermark Utility
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - email-watermark-utility
+  - ui-actions
+---
+
 # Outlook Email Watermark Utility for ServiceNow
 
 # Overview
@@ -54,3 +65,11 @@ Outlook opens prefilled like this:
 
 <img width="710" height="496" alt="image" src="https://github.com/user-attachments/assets/5cbc7645-4233-4826-99f7-e2948bb5ab78" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

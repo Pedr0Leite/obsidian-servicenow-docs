@@ -1,3 +1,14 @@
+---
+title: "Advanced REST API Integration with Retry Logic"
+aliases:
+  - Advanced REST API Integration with Retry Logic
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - advanced-rest-api-integration-with-retry-logic
+  - script-includes
+---
+
 # Advanced REST API Integration with Retry Logic
 
 This folder contains advanced Script Include examples demonstrating robust REST API integration patterns with retry logic, circuit breaker pattern, rate limiting, and comprehensive error handling.
@@ -125,3 +136,12 @@ Include unit tests for:
 - Circuit Breaker Pattern
 - OAuth 2.0 Specification
 - Rate Limiting Algorithms
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Approval Rule Builder/README|Approval Rule Builder]]

@@ -1,3 +1,14 @@
+---
+title: "Convert KnowledgePage to PDF"
+aliases:
+  - Convert KnowledgePage to PDF
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - convert-knowledgepage-to-pdf
+  - attachments
+---
+
 # Convert Knowledge Page HTML to PDF and attach it.
 * Create PDF using GeneralPDF.
 * Try it from a simple HTML conversion.
@@ -27,3 +38,12 @@ if(grKnow.get('<KnowledgePage sys_id>') && grKnow.getValue('text')){
     GeneralPDF.attach(att);
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to Base64/README|Attachment to Base64]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to base64 in scope/README|Attachment to base64 in scope]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Base 64 to Attachment/README|Base 64 to Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/CSVParser/README|CSVParser]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Calculate attachment hash code/README|Calculate attachment hash code]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Create Attachments/README|Create Attachments]]

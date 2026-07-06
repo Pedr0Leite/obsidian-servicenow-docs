@@ -1,3 +1,14 @@
+---
+title: "Detect oldValue newValue and Operation in Glide List Type Fields"
+aliases:
+  - Detect oldValue newValue and Operation in Glide List Type Fields
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - detect-oldvalue-newvalue-and-operation-in-glide-list-type-fields
+  - client-scripts
+---
+
 In Client Scripts, oldValue will display the value of last value/record which is stored in that field. 
 For new records, it is generally empty and for existing records it displays the value which is stored after load.
 If we will try to change the value in that field, it will still show oldValue the same value which was there during the load of form.
@@ -37,3 +48,11 @@ Removing 2 at once:
 
 <img width="879" height="496" alt="image" src="https://github.com/user-attachments/assets/c83d4e01-f150-44cb-9078-9841072ec949" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

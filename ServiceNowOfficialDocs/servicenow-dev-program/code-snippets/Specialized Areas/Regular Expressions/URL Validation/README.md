@@ -1,3 +1,14 @@
+---
+title: "URL Validation"
+aliases:
+  - URL Validation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - url-validation
+  - regular-expressions
+---
+
 # Validate URL using Regular Expression
 Validating URLs using regular expressions in JavaScript involves crafting patterns to match URL formats, ensuring they adhere to standards like scheme, domain, and optional path or query parameters. This regex pattern verifies the structure and components of a URL string for validity.
 
@@ -80,3 +91,12 @@ This will output: `Valid URL`.
 const invalidUrl = "servicenow@com";
 ```
 This will output: `Invalid URL`.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Adhaar validation/README|Adhaar validation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Allow Characters + - ) ( for Phone numbers/README|Allow Characters + - ) ( for Phone numbers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/AllowAnyLanguage/README|AllowAnyLanguage]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check for special characters/readme|Check for special characters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check if number has 10 digits/README|Check if number has 10 digits]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Consecutive duplicate words/README|Consecutive duplicate words]]

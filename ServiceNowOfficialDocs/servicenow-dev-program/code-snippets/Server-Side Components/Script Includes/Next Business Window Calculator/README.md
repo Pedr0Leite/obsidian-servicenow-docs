@@ -1,3 +1,14 @@
+---
+title: "Next Business Window Calculator"
+aliases:
+  - Next Business Window Calculator
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - next-business-window-calculator
+  - script-includes
+---
+
 # Next Business Window Calculator
 
 ## Problem
@@ -34,3 +45,12 @@ The utility constructs a `GlideSchedule` from the provided schedule id, aligns t
 var util = new x_snc_example.NextBusinessWindow();
 var result = util.addWorkingMinutes('2025-10-21 16:45:00', 95, 'your_schedule_sys_id', 'Europe/London');
 // result.endGdt.getDisplayValue() -> "2025-10-22 09:20:00"
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

@@ -1,3 +1,14 @@
+---
+title: "Auto Update Priority based on Impact and Urgency"
+aliases:
+  - Auto Update Priority based on Impact and Urgency
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-update-priority-based-on-impact-and-urgency
+  - client-scripts
+---
+
 🧩 Readme : Client Script: Auto Priority Update Based on Impact and Urgency
 📘 Overview
 
@@ -79,3 +90,12 @@ Automatically enforces ITIL priority standards
 Reduces manual effort and user errors
 Ensures consistency in priority calculation
 Compatible with Classic UI, Next Experience, and Agent Workspace
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto-Populate Planned End Date/README|Auto-Populate Planned End Date]]

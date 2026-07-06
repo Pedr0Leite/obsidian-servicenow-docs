@@ -1,3 +1,13 @@
+---
+title: "ServiceNow Local Development Guide"
+aliases:
+  - ServiceNow Local Development Guide
+tags:
+  - local-development
+  - servicenow-sdk
+  - now-assist-ai
+---
+
 # ServiceNow Local Development Guide
 
 Personal reference for setting up and working with ServiceNow development tooling locally.
@@ -123,3 +133,8 @@ Use update sets when working outside source control or on instances without Git 
 
 - [[now-assist-ai/ai-agents/AI Agents Knowledge Base|AI Agents — debugging & best practices]]
 - [[now-assist-ai/ai-search/Get Similar Records AIS Script Documentation|AI Search — getSimilarRecords & AIS tuning]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/now-assist-ai/ai-agents/AI Agents Knowledge Base|AI Agents: Troubleshooting, Debugging & Best Practices]]
+- [[ServiceNowOfficialDocs/now-assist-ai/ai-search/Get Similar Records AIS Script Documentation|Get Similar Records AIS Documentation]]

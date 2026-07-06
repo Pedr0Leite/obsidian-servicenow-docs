@@ -1,3 +1,14 @@
+---
+title: "Variable Copy Context Options"
+aliases:
+  - Variable Copy Context Options
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - variable-copy-context-options
+  - ui-macros
+---
+
 # Add "Copy Variable Name" to Context Menu
 
 Adds code to the element_context UI Macro, allowing for admins to be able to right click a variable name and choose "Copy Variable Name" to quickly get the column name to their clipboard
@@ -179,3 +190,11 @@ This code is from an out-of-box instance with the necessary code, you can replac
   </script>
 </j:jelly>
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Copy To Clipboard/README|Copy To Clipboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/FormBackground/readme|FormBackground]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/JSON Formatter and Viewer/README|JSON Formatter and Viewer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Purchase Order Approval Summarizer/README|Purchase Order Approval Summarizer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Show Open Incident of Caller/Readme|Show Open Incident of Caller]]

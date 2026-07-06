@@ -1,5 +1,5 @@
 ---
-title: "Flow Designer will not open a flow with the page stuck on 'Processing'"
+title: "Flow Designer will not open a flow with the page stuck on 'Processing"
 aliases:
   - KB0821414
 tags:

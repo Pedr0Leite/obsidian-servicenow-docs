@@ -1,5 +1,5 @@
 ---
-title: "OOB HR-integration with Success factor is throwing error for \"Worker Profiles\""
+title: "OOB HR-integration with Success factor is throwing error for \"Worker Profiles\"
 aliases:
   - KB0758299
 tags:

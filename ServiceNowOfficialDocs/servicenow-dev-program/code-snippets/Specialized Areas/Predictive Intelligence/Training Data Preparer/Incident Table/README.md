@@ -1,3 +1,14 @@
+---
+title: "Incident Table"
+aliases:
+  - Incident Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - incident-table
+  - training-data-preparer
+---
+
 # Training Data Quality Analyzer for ServiceNow Predictive Intelligence
 
 ## Overview
@@ -40,3 +51,10 @@ This script analyzes the quality of incident data in ServiceNow to determine rea
 - Do not run in production without review
 - Ensure no sensitive data is exposed in logs
 - Validate script results in a sub-production environment before using for model training
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Data Quality/Similarity Calculator/Incident Table/README|Incident Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/CMDB Configuration Items/README|CMDB Configuration Items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Change Table/README|Change Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Problem Table/README|Problem Table]]

@@ -1,3 +1,14 @@
+---
+title: "Find Similar Tickets"
+aliases:
+  - Find Similar Tickets
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - find-similar-tickets
+  - background-scripts
+---
+
 This script identifies tickets similar to a given ticket in ServiceNow based on text similarity of short_description and description fields, optionally boosting the score for matching categories or assignment groups. It is intended for background script execution for testing, analysis, or automation purposes.
 
 **Features:**
@@ -30,3 +41,12 @@ This script identifies tickets similar to a given ticket in ServiceNow based on 
 1) First Line contains the ticket which you have provided as a sys_id.
 2) Next lines contains the ticket which contain ticket no. | score | caller_id | short_description.
 3) If you keenly observe there are few tickets that do not have similar short description / description with scores as 0.08 but still in output the reason for this is their category and assignment group still matches with the compared ticket.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

@@ -1,3 +1,14 @@
+---
+title: "pe-welcome-user"
+aliases:
+  - pe-welcome-user
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-welcome-user
+  - people-card
+---
+
 # Welcome User
 
 ## Description
@@ -36,3 +47,8 @@ ${<i>key value specified in the Message record</i>}
 ## CSS/SASS Variables
 The widget is using colors from Bootstrap SASS variables, and a minimal style configuration to make it easy to customize.
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/people-card/pe-people-info/Readme|pe-people-info]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/people-card/pe-technician-card/README|pe-technician-card]]

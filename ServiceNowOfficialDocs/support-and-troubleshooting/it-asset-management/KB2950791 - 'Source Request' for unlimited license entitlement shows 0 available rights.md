@@ -1,5 +1,5 @@
 ---
-title: "'Source Request' for unlimited license entitlement shows \"0\" available rights"
+title: "Source Request' for unlimited license entitlement shows \"0\" available rights"
 aliases:
   - KB2950791
 tags:

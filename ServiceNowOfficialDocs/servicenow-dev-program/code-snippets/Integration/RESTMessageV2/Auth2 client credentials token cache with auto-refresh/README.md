@@ -1,3 +1,14 @@
+---
+title: "Auth2 client credentials token cache with auto-refresh"
+aliases:
+  - Auth2 client credentials token cache with auto-refresh
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auth2-client-credentials-token-cache-with-auto-refresh
+  - restmessagev2
+---
+
 # OAuth 2.0 client-credentials token cache with auto-refresh
 
 ## What this solves
@@ -39,3 +50,12 @@ For `getToken` and `request`:
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/RESTMessageV2/reference/r_DirectRESTMessageV2Example.html
 - OAuth 2.0 profiles in ServiceNow (concept)  
   https://www.servicenow.com/docs/bundle/zurich-integrate-applications/page/integrate/outbound-rest/concept/c_oauth2-authentication.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_config|sys_rest_message_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_fn_config|sys_rest_message_fn_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/API for Automatic Group creation/README|API for Automatic Group creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Aadhaar Verification/Readme|Aadhaar Verification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/AzureDevOps/README|AzureDevOps]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Currency Conversion - Using CurrencyFreaks API/README|Currency Conversion - Using CurrencyFreaks API]]

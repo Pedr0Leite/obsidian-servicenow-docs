@@ -138,3 +138,12 @@ Needless to say this should be tested on a dev instance before bringing it over 
 - [[KB0812521 - How to troubleshoot the Update Approval Request inbound action]]
 - [[KB0694768 - Email client only supports one email client template per table]]
 - [[KB0696894 - Field actions field is not displaying all available fields to select when incident table is selected as Target table for]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725194 - Approval emails are not being generated for requested items|Approval emails are not being generated for requested items]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727617 - Access referenced fields in a notification record against the Approval table|Access referenced fields in a notification record against the Approval table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745393 - Mailto links in Approval emails create blank emails in the Outlook app on Android devices|Mailto links in Approval emails create blank emails in the Outlook app on Android devices]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Advanced Scripts/README|Advanced Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Incident Creation from Case Email/README|Auto Incident Creation from Case Email]]

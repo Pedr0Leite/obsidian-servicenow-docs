@@ -41,3 +41,8 @@ In versions earlier to Istanbul Patch 1, Journal fields (Work notes and Addition
 
 - [[KB0694609 - Importing journal field could result in non-matching of comment date and Created By in Additional comments]]
 - [[KB0753763 - Updating journal fields fails to trigger Flow Designer]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753001 - Some roles are not visible and cannot be exported from the [sys_user_role] list table|Some roles are not  visible and cannot be exported from the [sys_user_role] list table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0814892 - Metric definition table is unavailable for fulfiller users|Metric definition table is unavailable for fulfiller users]]

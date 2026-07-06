@@ -1,5 +1,5 @@
 ---
-title: "Automated Test Framework (ATF) can not set catalog variable values with field type as 'List collector'"
+title: "Automated Test Framework (ATF) can not set catalog variable values with field type as 'List collector"
 aliases:
   - KB0692076
 tags:

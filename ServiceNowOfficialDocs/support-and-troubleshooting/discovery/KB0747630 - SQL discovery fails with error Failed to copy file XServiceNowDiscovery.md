@@ -1,5 +1,5 @@
 ---
-title: "SQL discovery fails with error  \"Failed to copy file X:/ServiceNow/Discovery/\""
+title: "SQL discovery fails with error  \"Failed to copy file X:/ServiceNow/Discovery/\"
 aliases:
   - KB0747630
 tags:

@@ -1,3 +1,14 @@
+---
+title: "pe-user-login"
+aliases:
+  - pe-user-login
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-user-login
+  - user-login
+---
+
 # User Login Widget
 
 ## Description
@@ -40,3 +51,7 @@ _CSS/SASS variables are given default values that can be overridden with theming
 $pe-button-color: #d1232b !default;
 $pe-button-state-color: #c42229 !default;
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/user-login/pe-enduser-login/README|pe-enduser-login]]

@@ -1,3 +1,14 @@
+---
+title: "Count Inactive Users with Active incidents"
+aliases:
+  - Count Inactive Users with Active incidents
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - count-inactive-users-with-active-incidents
+  - glideaggregate
+---
+
 Count Active Incidents Assigned to Inactive Users 
 
 This script uses GlideAggregate to efficiently count the number of active incidents assigned to inactive users. 
@@ -36,3 +47,12 @@ Customization Targeted tables: Change the table name from incident to task or an
 
 
 Automated reassignment: Extend the script to automatically reassign the incidents to a group or another user. This is a common practice to ensure that tickets do not get stuck in the queue. Email notification: Instead of logging the information, modify the script to send an email notification to the group manager or another stakeholder with the list of incidents needing attention.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Get Incident Count by Priority/README|Get Incident Count by Priority]]

@@ -1,5 +1,5 @@
 ---
-title: "Error message \"Conditon 'Condition: !hr_LicensingUsage.isSNCProvidedCaseTable(current.sys_class_name.toString())' in business rule 'HR Case Custom COE Usage Tracking' on {coe}: {hr_case_number} evaluated to null; skipping business rule\""
+title: "Error message \"Conditon 'Condition: !hr_LicensingUsage.isSNCProvidedCaseTable(current.sys_class_name.toString())' in business rule 'HR Case Custom COE Usage Tracking' on {coe}: {hr_case_number} evaluated to null; skipping business rule\"
 aliases:
   - KB1880210
 tags:

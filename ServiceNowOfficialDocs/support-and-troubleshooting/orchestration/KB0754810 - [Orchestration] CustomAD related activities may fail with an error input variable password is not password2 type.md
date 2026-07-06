@@ -1,5 +1,5 @@
 ---
-title: "[Orchestration] Custom/AD related activities may fail with an error \"input variable password is not password2 type\""
+title: "[Orchestration] Custom/AD related activities may fail with an error \"input variable password is not password2 type\"
 aliases:
   - KB0754810
 tags:

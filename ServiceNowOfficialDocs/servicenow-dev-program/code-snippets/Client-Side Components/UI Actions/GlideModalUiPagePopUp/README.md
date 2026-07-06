@@ -1,3 +1,14 @@
+---
+title: "GlideModalUiPagePopUp"
+aliases:
+  - GlideModalUiPagePopUp
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - glidemodaluipagepopup
+  - ui-actions
+---
+
 Overview
 Modal alerts and confirmations in ServiceNow are interactive user interface elements that allow users to receive important messages or confirm actions before proceeding. These modals enhance the user experience by providing clear feedback during key interactions, ensuring that users are well-informed before performing potentially critical actions, such as closing a record or saving changes.
 
@@ -60,3 +71,12 @@ By requiring confirmation before a critical action is taken, users feel more in 
 Modal alerts and confirmations can be easily customized for various forms and records, allowing tailored feedback depending on the context of the action.
 5. Asynchronous Operations:
 Modals are asynchronous, meaning they don't block the user interface while waiting for input. This ensures that other parts of the application continue functioning smoothly.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

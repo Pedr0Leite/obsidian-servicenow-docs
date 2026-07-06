@@ -1,3 +1,14 @@
+---
+title: "Check String is Valid JSON"
+aliases:
+  - Check String is Valid JSON
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - check-string-is-valid-json
+  - background-scripts
+---
+
 # Function to check if string is a valid JSON
 
 ## Problem statement
@@ -22,3 +33,12 @@ This will output: `String is valid JSON`
 const invalidStr = '{ firstName: John, lastName: Doe }';
 ```
 This will output: `String is not valid JSON`
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

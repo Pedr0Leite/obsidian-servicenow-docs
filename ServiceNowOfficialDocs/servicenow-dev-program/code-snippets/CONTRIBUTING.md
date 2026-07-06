@@ -1,3 +1,13 @@
+---
+title: "How to Contribute"
+aliases:
+  - How to Contribute
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - code-snippets
+---
+
 # How to Contribute
 
 We welcome contributions to the **ServiceNow Developer Program's Code Snippets Repository**! Follow these steps to get involved:
@@ -111,3 +121,10 @@ Before submitting your pull request, ensure that:
 - Your code snippet is accompanied by a `readme.md` file that describes it.
 
 Thank you for contributing! Your efforts help create a richer resource for the ServiceNow development community.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/.github/pull_request_template|PR Description:]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/AGENTS|AGENTS.md]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/PAGES|GitHub Pages Site Documentation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/README|code-snippets]]

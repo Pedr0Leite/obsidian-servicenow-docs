@@ -1,3 +1,14 @@
+---
+title: "pe-tabbed-panel-vertical"
+aliases:
+  - pe-tabbed-panel-vertical
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-tabbed-panel-vertical
+  - serviceportal-widget-library-master
+---
+
 # PE Tabbed Panel Vertical
 
 ## Description
@@ -61,3 +72,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$tpv-green: #70be5a !default;`<br/>
 `$tpv-background-color: #ffffff !default;`<br/>
 `$tpv-border-color: #dcdcdc !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

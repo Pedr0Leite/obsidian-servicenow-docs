@@ -1,5 +1,5 @@
 ---
-title: "CMP - Stack Provisioning fails with error \"Failed with status code and message: 400\""
+title: "CMP - Stack Provisioning fails with error \"Failed with status code and message: 400\"
 aliases:
   - KB0722432
 tags:

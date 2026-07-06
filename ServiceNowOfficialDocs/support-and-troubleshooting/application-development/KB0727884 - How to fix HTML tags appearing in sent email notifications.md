@@ -59,3 +59,12 @@ The following image illustrates placing the HTML scripts in the Message\_HTML fi
 - [[KB0746264 - Emails are not formatted correctly in Outlook or older email applications]]
 - [[KB0724449 - Duplicate email notification were sent from the instance when it was not intended]] - other notification/email troubleshooting
 - [[KB0743780 - When notification is sent, email is not showing hyperlink for the incident number]] - notification body/display value troubleshooting
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745430 - HTML Entity names not displaying in Notification previews and Email previews|HTML Entity names not displaying in Notification previews and Email previews]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0746264 - Emails are not formatted correctly in Outlook or older email applications|Emails are not formatted correctly in Outlook or older email applications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0747524 - Email Preview looks different than in Outlook, Gmail or other Mail Application|Email Preview looks different than in Outlook, Gmail or other Mail Application]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748592 - HTML Tags are included in email body|HTML Tags are included in email body]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]

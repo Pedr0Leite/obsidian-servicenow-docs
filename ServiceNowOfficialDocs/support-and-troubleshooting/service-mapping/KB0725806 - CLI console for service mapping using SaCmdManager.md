@@ -1,5 +1,5 @@
 ---
-title: "CLI  console for service mapping using \"SaCmdManager\""
+title: "CLI  console for service mapping using \"SaCmdManager\"
 aliases:
   - KB0725806
 tags:

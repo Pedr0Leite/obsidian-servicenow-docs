@@ -1,5 +1,5 @@
 ---
-title: "Unix Cluster - Oracle Cluster pattern failing at  step \"Reference and relation between cmdb_ci_cluster_vip to cmdb_ci_unix_cluster\""
+title: "Unix Cluster - Oracle Cluster pattern failing at  step \"Reference and relation between cmdb_ci_cluster_vip to cmdb_ci_unix_cluster\"
 aliases:
   - KB0746936
 tags:

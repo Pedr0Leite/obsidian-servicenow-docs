@@ -1,3 +1,14 @@
+---
+title: "Custom Search Engines"
+aliases:
+  - Custom Search Engines
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - custom-search-engines
+  - browser-utilities
+---
+
 # Custom Browser Site Searches
 
 Custom searches in your browser allow you to quickly do a search on specific sites directly from the browser address bar.

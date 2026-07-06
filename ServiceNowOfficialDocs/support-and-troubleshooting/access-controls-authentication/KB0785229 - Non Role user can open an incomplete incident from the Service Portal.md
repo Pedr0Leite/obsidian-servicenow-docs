@@ -57,3 +57,12 @@ You can go to the Portal and check now, "save" button will be hidden restricting
 - [[KB0750886 - ACL script is failing at script include function call]] — syntax reference for writing correct ACL scripts
 - [[KB0693899 - On Service Portal the record producer form  does not display all subcategories option  for users with no role]] — another Service Portal issue affecting users with no role
 - [[KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow]] — background on how create ACLs are evaluated
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688981 - Certain users are unable to sc_cat_item_producer records in Service Portal|Certain users are unable to sc_cat_item_producer records in Service Portal ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753132 - Users getting Unauthorized access error in Service Portal when REST API level ACLs are in place|Users getting \"Unauthorized access\" error in Service Portal when REST API level ACLs are in place ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0782082 - When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a f|When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a field, need to make to use of ACL script.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0693899 - On Service Portal the record producer form does not display all subcategories option for users with no role|On Service Portal the record producer form  does not display all subcategories option  for users with no role]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]

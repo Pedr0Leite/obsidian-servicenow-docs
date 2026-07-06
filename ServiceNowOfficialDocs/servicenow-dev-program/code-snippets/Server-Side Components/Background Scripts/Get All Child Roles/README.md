@@ -1,3 +1,14 @@
+---
+title: "Get All Child Roles"
+aliases:
+  - Get All Child Roles
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - get-all-child-roles
+  - background-scripts
+---
+
 Use this script to get a flattened array of all Roles contained by a specificed role.
 This will recursively drill down into other contained roles so you have the full list of roles involved in the hierarchy.
 
@@ -74,3 +85,12 @@ pa_viewer
 project_manager
 timecard_approver
 sn_test_management.test_manager
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

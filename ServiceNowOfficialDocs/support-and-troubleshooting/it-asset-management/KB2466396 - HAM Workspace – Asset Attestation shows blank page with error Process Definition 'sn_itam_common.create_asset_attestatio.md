@@ -1,5 +1,5 @@
 ---
-title: "HAM Workspace – Asset Attestation shows blank page with error \"Process Definition 'sn_itam_common.create_asset_attestation' is missing or inactive\""
+title: "HAM Workspace – Asset Attestation shows blank page with error \"Process Definition 'sn_itam_common.create_asset_attestation' is missing or inactive\"
 aliases:
   - KB2466396
 tags:
