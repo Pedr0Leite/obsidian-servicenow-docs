@@ -844,7 +844,7 @@ All paths are relative to the vault root. All entries are directories containing
 | `support-and-troubleshooting/design-and-experience-organization/` | KB troubleshooting articles for design and experience organization (1 doc) | support, troubleshooting, KB, design-and-experience-organization |
 | `support-and-troubleshooting/discovery/` | KB troubleshooting articles for discovery (345 docs) | support, troubleshooting, KB, discovery |
 | `support-and-troubleshooting/edge-encryption/` | KB troubleshooting articles for edge encryption (16 docs) | support, troubleshooting, KB, edge-encryption |
-| `support-and-troubleshooting/email/` | KB troubleshooting articles for email (1 doc) | support, troubleshooting, KB, email |
+| `support-and-troubleshooting/email/` | KB troubleshooting articles for email, incl. Email Address Filters / sender deny-list config (4 docs) | support, troubleshooting, KB, email, email-filter, spam, deny-list |
 | `support-and-troubleshooting/event-management/` | KB troubleshooting articles for event management (96 docs) | support, troubleshooting, KB, event-management |
 | `support-and-troubleshooting/facilities-service-management/` | KB troubleshooting articles for facilities service management (7 docs) | support, troubleshooting, KB, facilities-service-management |
 | `support-and-troubleshooting/field-service-management/` | KB troubleshooting articles for field service management (32 docs) | support, troubleshooting, KB, field-service-management |

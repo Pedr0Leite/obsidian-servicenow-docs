@@ -60,3 +60,9 @@ TNEF encoding for recipients in the remote domain may be specified by the follow
 \- The default value is $null
 
 It should be possible to set this to $false for "service-now" in the Exchange server, which should force the message to be sent with a plain text portion and an HTML portion, both of which should be readable by the system. Your exchange admin can consider trying this option for the service-now domain.
+
+## Related
+
+- [[KB0869547 - How to use email address filters to ignore any email from any sender]]
+- [[Set email address filters]]
+- [[Community Discussion - Mails ignored by the Ignore sender email filter (postmaster, mailer-daemon)]]
