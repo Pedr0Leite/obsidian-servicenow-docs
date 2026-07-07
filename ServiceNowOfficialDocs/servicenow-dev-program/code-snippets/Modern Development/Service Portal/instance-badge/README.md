@@ -1,3 +1,14 @@
+---
+title: "instance-badge"
+aliases:
+  - instance-badge
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - instance-badge
+  - service-portal
+---
+
 # Simple badge for portal header to visually distinguish subprod instances
 
 This is a simple directive, that can be attached to the OOTB widget header and will render a simple badge based on the url hostname. 
@@ -40,3 +51,12 @@ function navbarBrandLogo() {
 
 ```
 5. attach the created provider to the header widget
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-record-picker/README|sn-record-picker]]

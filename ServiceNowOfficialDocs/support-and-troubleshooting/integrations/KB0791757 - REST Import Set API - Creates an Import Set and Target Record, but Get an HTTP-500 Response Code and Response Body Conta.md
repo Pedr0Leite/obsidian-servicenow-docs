@@ -1,5 +1,5 @@
 ---
-title: "REST Import Set API - Creates an Import Set and Target Record, but Get an HTTP-500 Response Code and Response Body Contains Error:  \"null value in entry: transform_map=null\""
+title: "REST Import Set API - Creates an Import Set and Target Record, but Get an HTTP-500 Response Code and Response Body Contains Error:  \"null value in entry: transform_map=null\"
 aliases:
   - KB0791757
 tags:

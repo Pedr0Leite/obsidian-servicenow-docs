@@ -75,3 +75,12 @@ The response http headers returned by ServiceNow for scripted SOAP web services 
 - [[KB0749537 - Inbound SOAP API connection returns 302 error]]
 - [[createSOAPwebserviceStaticWSDL|Create a SOAP web service with a static WSDL]]
 - [[c_ScriptedWebServices|Scripted web services]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749537 - Inbound SOAP API connection returns 302 error|Inbound SOAP API connection returns 302 error]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.|The users with SOAP role not able to view the incident table data even though the ACLs return true.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0696002 - Configure Outbound Mutual Authentication (calling 3rd party Web Services) in ServiceNow Instance|Configure Outbound Mutual Authentication (calling 3rd party Web Services) in ServiceNow Instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0724965 - User Criteria is not working via REST API or Web Service call|User Criteria is not working via REST API or Web Service call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745184 - OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call|OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748136 - Outbound REST or SOAP messages timeout after upgrade|Outbound REST or SOAP messages timeout after upgrade]]

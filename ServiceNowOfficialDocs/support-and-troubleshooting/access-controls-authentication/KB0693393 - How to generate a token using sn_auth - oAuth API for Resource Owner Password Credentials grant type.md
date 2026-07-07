@@ -215,3 +215,12 @@ OAuth 2.0 Integration for Outbound Rest Message is supported from Helsinki rel
 - [[resource-owner-password-grant]] - official docs on the Resource Owner Password Credentials grant
 - [[resource-owner-password-credential-workflow]] - official docs on the ROPC token workflow
 - [[c_OAuthApplications]] - official docs on OAuth applications
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693900 - How to generate a token using sn_auth - oAuth API for Authorization grant type|How to generate a token using sn_auth - oAuth API  for Authorization grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0725643 - How to generate bearer token for oAuth 2.0 - Authorization Grant type|How to generate bearer token for oAuth 2.0 - Authorization Grant type]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0743846 - Sending additional parameters to the OAuth Provider to retrive the access and refresh tokens using GlideOAuthClient()|Sending additional parameters to the OAuth Provider to retrive the access and refresh tokens using GlideOAuthClient()]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745184 - OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call|OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538763 - Determining if the SAML certificate is incorrect|Determining if the SAML certificate is incorrect]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538765 - Determining if ADFS is receiving a signed request| Determining if ADFS is receiving a signed request]]

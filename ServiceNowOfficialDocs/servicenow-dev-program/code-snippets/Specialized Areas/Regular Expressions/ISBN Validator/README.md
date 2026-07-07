@@ -1,3 +1,14 @@
+---
+title: "ISBN Validator"
+aliases:
+  - ISBN Validator
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - isbn-validator
+  - regular-expressions
+---
+
 # ISBN Validator Regular Expression
 
 This JavaScript module provides a regular expression for validating International Standard Book Numbers (ISBNs). It supports both ISBN-10 and ISBN-13 formats, including variations with or without hyphens and spaces.
@@ -22,3 +33,12 @@ console.log(validateISBN('ISBN 978-0-596-52068-7')); // true
 console.log(validateISBN('0-596-52068-9')); // true
 console.log(validateISBN('0 512 52068 9')); // false
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Adhaar validation/README|Adhaar validation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Allow Characters + - ) ( for Phone numbers/README|Allow Characters + - ) ( for Phone numbers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/AllowAnyLanguage/README|AllowAnyLanguage]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check for special characters/readme|Check for special characters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Check if number has 10 digits/README|Check if number has 10 digits]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Regular Expressions/Consecutive duplicate words/README|Consecutive duplicate words]]

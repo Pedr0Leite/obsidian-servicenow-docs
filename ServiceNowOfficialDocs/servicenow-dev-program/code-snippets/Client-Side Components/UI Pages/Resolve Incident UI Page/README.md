@@ -1,3 +1,14 @@
+---
+title: "Resolve Incident UI Page"
+aliases:
+  - Resolve Incident UI Page
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - resolve-incident-ui-page
+  - ui-pages
+---
+
 Use Case: 
 
 Everytime user try to resolve the incident, the resolution codes and resolution notes are mandatory to be entered as it hidden in tabs,Since it is mandatory fields. So to ease the process we introduced a custom UI action will prompt the user
@@ -41,4 +52,11 @@ Navigate to System Definition > UI pages
 Fill the HTML and client script.
 Click Submit.
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Add Multiple Items to Order Guide/README|Add Multiple Items to Order Guide]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/BulkUpdate Worknotes/Readme|BulkUpdate Worknotes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Custom Alert using UI Page/README|Custom Alert using UI Page]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Dynamic program status overview/README|Dynamic program status overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/EDM DocUnifiedSearch/README|EDM DocUnifiedSearch]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Edit Last WorkNotes/README|Edit Last WorkNotes]]

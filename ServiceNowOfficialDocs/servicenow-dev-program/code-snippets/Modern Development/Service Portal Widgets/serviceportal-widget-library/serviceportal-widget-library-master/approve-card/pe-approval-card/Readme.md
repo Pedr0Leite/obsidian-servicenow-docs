@@ -1,3 +1,14 @@
+---
+title: "pe-approval-card"
+aliases:
+  - pe-approval-card
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-approval-card
+  - approve-card
+---
+
 # Approval Card
 
 ## Description
@@ -57,3 +68,9 @@ $pe-brand-warning: #f0ad4e !default;
 $pe-brand-danger: #d9534f !default;
 $pe-brand-info: #5bc0de !default;
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card-cloud-sprawl/Readme|pe-approval-card-cloud-sprawl]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card-with-approval-table/Readme|pe-approval-card-with-approval-table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approve-reject-card-with-collapse/Readme|pe-approve-reject-card-with-collapse]]

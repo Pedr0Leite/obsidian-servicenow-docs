@@ -1,3 +1,14 @@
+---
+title: "Create diagram using GoJS library"
+aliases:
+  - Create diagram using GoJS library
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - create-diagram-using-gojs-library
+  - service-portal-widgets
+---
+
 # Creating productionProcess using gojs
 ## Introduction
 In this snippet you will create a custom process using a custom page and populating data using GoJS native library
@@ -434,3 +445,12 @@ In this snippet you will create a custom process using a custom page and populat
 https://github.com/NorthwoodsSoftware/GoJS/blob/master/samples/productionProcess.html
 https://gojs.net/latest/intro/toolTips.html
 http://g-mops.net/epica_gojs/api/symbols/Diagram.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

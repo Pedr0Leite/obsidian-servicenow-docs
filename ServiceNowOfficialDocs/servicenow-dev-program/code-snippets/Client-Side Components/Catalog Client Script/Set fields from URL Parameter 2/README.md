@@ -1,3 +1,14 @@
+---
+title: "Set fields from URL Parameter 2"
+aliases:
+  - Set fields from URL Parameter 2
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - set-fields-from-url-parameter-2
+  - catalog-client-script
+---
+
 # Set fields on a catalog item from URL parameters.
 
 The mission was to get a sys_id from the URL, query a record and return a value to the front-end.
@@ -25,3 +36,12 @@ Our Utils class will be a Script Include that receives a sys_id and returns a St
 3.1. Create a Catalog Client Script (Type: OnLoad) to get the URL parameter and call the back-end class:
 
 [CatalogClientScript](CatalogClientScript.js) 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

@@ -1,3 +1,14 @@
+---
+title: "Custom Change Schedule"
+aliases:
+  - Custom Change Schedule
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - custom-change-schedule
+  - ui-scripts
+---
+
 # 🧾 ServiceNow Change Schedule Enhancement  
 ### _(UI Scripts: `sn_chg_soc.change_soc`, `sn.chg_soc.config`, `sn.chg_soc.data`)_  
 
@@ -34,3 +45,11 @@ This allows you to see all planned changes and plan your own changes accordingly
 
 <img width="1913" height="877" alt="image" src="https://github.com/user-attachments/assets/fc0a6f46-febd-45bb-a741-78462fa1512a" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Disable Copy Paste For Portal/README|Disable Copy Paste For Portal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Display number of created records/README|Display number of created records]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Make OOB Attachment Mandatory/README|Make OOB Attachment Mandatory]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Observe MRVS Events/README|Observe MRVS Events]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/PersistentAnnouncementBanner/README|PersistentAnnouncementBanner]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Scripts/Prevent right click on portals/README|Prevent right click on portals]]

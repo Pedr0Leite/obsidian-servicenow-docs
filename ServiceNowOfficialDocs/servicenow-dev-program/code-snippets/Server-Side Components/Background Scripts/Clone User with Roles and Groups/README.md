@@ -1,3 +1,14 @@
+---
+title: "Clone User with Roles and Groups"
+aliases:
+  - Clone User with Roles and Groups
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - clone-user-with-roles-and-groups
+  - background-scripts
+---
+
 # Clone User with Roles and Groups
 
 A background script that clones an existing user's profile including all their roles and group memberships to a new user account.
@@ -27,3 +38,12 @@ The script:
 - Creating test users with specific role/group combinations
 - Setting up backup user accounts with identical permissions
 - Standardizing user setup based on role templates
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

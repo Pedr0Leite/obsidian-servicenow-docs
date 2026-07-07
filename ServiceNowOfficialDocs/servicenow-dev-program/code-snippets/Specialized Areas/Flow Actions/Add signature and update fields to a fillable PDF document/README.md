@@ -1,3 +1,14 @@
+---
+title: "Add signature and update fields to a fillable PDF document"
+aliases:
+  - Add signature and update fields to a fillable PDF document
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - add-signature-and-update-fields-to-a-fillable-pdf-document
+  - flow-actions
+---
+
 Use case: Add signatures and update information on a fillable PDF
 
 This has a logic check to see if the PDF has editable fields or not. If there are no fillable fields, it throws an error.
@@ -25,4 +36,11 @@ Output screenshots:
 
 ![image](https://github.com/user-attachments/assets/0c8ea249-720a-47a3-9a96-9efc5de8abb3)
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Adhoc Assessment Generator Flow Action/README|Adhoc Assessment Generator Flow Action]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Assign Role/README|Assign Role]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Calculate Ticket Age/README|Calculate Ticket Age]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Check MID Server Availability/README|Check MID Server Availability]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Create Student Weekday Pickup Schedule/README|Create Student Weekday Pickup Schedule]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Flow Actions/Data Stream/README|Data Stream]]

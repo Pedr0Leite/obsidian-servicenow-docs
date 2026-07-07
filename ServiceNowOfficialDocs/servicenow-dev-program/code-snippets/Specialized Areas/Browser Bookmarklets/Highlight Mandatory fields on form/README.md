@@ -1,3 +1,14 @@
+---
+title: "Highlight Mandatory fields on form"
+aliases:
+  - Highlight Mandatory fields on form
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - highlight-mandatory-fields-on-form
+  - browser-bookmarklets
+---
+
 ## Highlight Mandatory Fields
 
 **Description**
@@ -20,5 +31,11 @@
 **Sample screenshot**
 <img width="1882" height="674" alt="image" src="https://github.com/user-attachments/assets/1320c9c3-976d-4bf0-92d5-e051825dbe6c" />
 
+## Related Notes
 
-
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Load List with Query/readme|Load List with Query]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Open copied record/README|Open copied record]]

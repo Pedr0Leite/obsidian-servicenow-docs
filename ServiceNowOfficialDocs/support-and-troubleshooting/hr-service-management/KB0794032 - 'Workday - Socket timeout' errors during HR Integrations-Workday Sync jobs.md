@@ -1,5 +1,5 @@
 ---
-title: "'Workday - Socket timeout' errors during HR Integrations-Workday Sync jobs"
+title: "Workday - Socket timeout' errors during HR Integrations-Workday Sync jobs"
 aliases:
   - KB0794032
 tags:

@@ -1,3 +1,14 @@
+---
+title: "pe-info"
+aliases:
+  - pe-info
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-info
+  - hr
+---
+
 # HR Info
 
 ## Description
@@ -28,3 +39,12 @@ Quickly share company information and messages with this HR Service Portal widge
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 
 > None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-case-detail/README|pe-case-detail]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-catalog-list/README|pe-catalog-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-direct-deposit/README|pe-direct-deposit]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-next-task/README|pe-next-task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-office-space/README|pe-office-space]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/hr/pe-orientation/README|pe-orientation]]

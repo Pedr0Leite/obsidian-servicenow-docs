@@ -1,3 +1,14 @@
+---
+title: "Restrict Service Account to Query data"
+aliases:
+  - Restrict Service Account to Query data
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - restrict-service-account-to-query-data
+  - business-rules
+---
+
 //The business rule is on [incident] table and 'when to run' -> before + query
 //The table could be replaced with other Servicenow tables according to the requirements.
 
@@ -15,3 +26,12 @@ Limiting the Query to the Last 10 Years:
 
 current.addQuery('sys_created_on', '>=', tenYearsAgoFromToday);
 //The script adds a condition to the query, restricting the results to records where the sys_created_on date is greater than or equal to the calculated date (10 years ago). This effectively limits the records to those created in the last 10 years.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

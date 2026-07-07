@@ -1,3 +1,14 @@
+---
+title: "Fill survey or item from url"
+aliases:
+  - Fill survey or item from url
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - fill-survey-or-item-from-url
+  - service-portal-widgets
+---
+
 # Auto-fill form from base64encoded data
 
 This widget automatically populates a form on service portal using base64-encoded JSON passed via a URL parameter. Use the variable name as key or for surveys use the sys_id of the [asmt_assessment_instance_question]
@@ -44,3 +55,12 @@ gs.print(GlideStringUtil.base64Encode(JSON.stringify(arr)))
 https://{instancename}.service-now.com/esc?id=take_survey&type_id=cf6e97d35d371200964f58e4abb23f18&data=eyJiM2JmOGVjMjgzNjgzMjEwNTU3ZmYwZDZmZWFhZDMyNyI6MSwiYmJiZjhlYzI4MzY4MzIxMDU1N2ZmMGQ2ZmVhYWQzMjYiOjIsImI3YmY4ZWMyODM2ODMyMTA1NTdmZjBkNmZlYWFkMzI3IjozLCJiZmJmOGVjMjgzNjgzMjEwNTU3ZmYwZDZmZWFhZDMyNiI6NCwiZmJiZjhlYzI4MzY4MzIxMDU1N2ZmMGQ2ZmVhYWQzMjUiOiJpdCBpcyBnb29kIn0%3D
 */
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

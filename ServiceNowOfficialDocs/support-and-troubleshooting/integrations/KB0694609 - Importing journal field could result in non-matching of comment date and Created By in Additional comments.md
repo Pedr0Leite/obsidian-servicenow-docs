@@ -1,5 +1,5 @@
 ---
-title: "Importing journal field  could result in non-matching of comment date  and Created By in \"Additional comments\""
+title: "Importing journal field  could result in non-matching of comment date  and Created By in \"Additional comments\"
 aliases:
   - KB0694609
 tags:

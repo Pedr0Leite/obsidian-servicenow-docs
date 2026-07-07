@@ -48,3 +48,12 @@ In the screenshot below. ITIL user is not able to see the value in the SSN field
 - [[KB0727211 - FAQ Can an ACL work on the list view and be bypassed on the related list (or vice versa)]]
 - [[KB0749174 - Customization considerations for Access Controls (ACLs)]]
 - [[acl-function-fields]] - official docs on field-level ACL behavior
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0712001 - ACL Security Flaw when defining field level ACL, when condition depends on that field while utilizing REST|ACL Security Flaw when defining field level ACL, when condition depends on that field while utilizing REST]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0686244 - When you impersonate a user and then try to re-impersonate your own user account, the Impersonate User popup window show|When you impersonate a user and then try to re-impersonate your own user account, the Impersonate User popup window shows an error Failed API level ACL Validation]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688916 - When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form|When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688981 - Certain users are unable to sc_cat_item_producer records in Service Portal|Certain users are unable to sc_cat_item_producer records in Service Portal ]]

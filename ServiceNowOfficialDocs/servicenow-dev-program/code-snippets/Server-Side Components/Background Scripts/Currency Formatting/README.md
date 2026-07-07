@@ -1,3 +1,14 @@
+---
+title: "Currency Formatting"
+aliases:
+  - Currency Formatting
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - currency-formatting
+  - background-scripts
+---
+
 Format currency values to your preferred locale and format.
 Examples are provided for EUR, HUF with English and Hungarian number format.
 
@@ -13,3 +24,12 @@ formatString values:
 
 setMaxFractionDigits:
     Maximum number of fraction digits to return. Does a rounding based on the closest right-most digit.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

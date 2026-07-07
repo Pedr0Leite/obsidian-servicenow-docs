@@ -1,5 +1,5 @@
 ---
-title: "\"Lookup User\" AD Action fails with the error \"Unknown error. Please check error log for more information\""
+title: "\"Lookup User\" AD Action fails with the error \"Unknown error. Please check error log for more information\"
 aliases:
   - KB0791114
 tags:

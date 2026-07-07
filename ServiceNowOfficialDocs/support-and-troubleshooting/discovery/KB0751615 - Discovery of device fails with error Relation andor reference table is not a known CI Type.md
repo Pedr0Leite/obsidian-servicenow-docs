@@ -1,5 +1,5 @@
 ---
-title: "Discovery of device fails with error \"Relation and/or reference table is not a known CI Type\""
+title: "Discovery of device fails with error \"Relation and/or reference table is not a known CI Type\"
 aliases:
   - KB0751615
 tags:

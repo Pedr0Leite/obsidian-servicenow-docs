@@ -1,3 +1,14 @@
+---
+title: "Basic Wrappers"
+aliases:
+  - Basic Wrappers
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - basic-wrappers
+  - glidequery
+---
+
 # GlideQuery
 
 GlideQuery is a wrapper for the GlideRecord and GlideAggregate APIs. The wrapper offers several advantages, including a single point of entry, fail-fast with friendly error messaging, native JavaScript syntax, and more. Here are some functions that implement the basic GlideQuery capabilities to help you get started.
@@ -128,3 +139,12 @@ function deleteRecords( strTableName, strEncodedQuery, boolDisableWorkflow ){
 }
 
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Conditional Field Selection/README|Conditional Field Selection]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Field Default/README|Field Default]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/FlatMap to Nest New Queries/README|FlatMap to Nest New Queries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get Delegates/README|Get Delegates]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get User's Roles from User Name/README|Get User's Roles from User Name]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Nested WHERE orWHERE GlideQueries/README|Nested WHERE orWHERE GlideQueries]]

@@ -1,5 +1,5 @@
 ---
-title: "Connect to an LDAP Server Fails With: \"Could not find a valid certificate\""
+title: "Connect to an LDAP Server Fails With: \"Could not find a valid certificate\"
 aliases:
   - KB0655967
 tags:

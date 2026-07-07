@@ -1,3 +1,14 @@
+---
+title: "Check Record Creation over 90 days and output age"
+aliases:
+  - Check Record Creation over 90 days and output age
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - check-record-creation-over-90-days-and-output-age
+  - background-scripts
+---
+
 **Usecase**:
 This piece of code can be used to check whether a record was created more than 90 days ago or not.
 It returns an output of true/false as well as the actual age (in days) of the record.
@@ -21,3 +32,12 @@ Output:
 
     Record Age (Days): 165
     Older than 90 days? true
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

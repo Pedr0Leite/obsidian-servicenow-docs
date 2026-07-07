@@ -1,3 +1,14 @@
+---
+title: "Get choices from Decision Table"
+aliases:
+  - Get choices from Decision Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - get-choices-from-decision-table
+  - glideajax
+---
+
 # Prerequisites
 ## Decision table
 > [!IMPORTANT]
@@ -24,3 +35,12 @@ If you want send values from other variables for your decision table to consider
 
 # Usage
 Use the provided Script Include and Client Script, and update them as mentioned in the [Prerequisites](#prerequisites) section. The example client script is **onLoad**, but if you are looking to use variable values as additional inputs, you will want to have it run as an **onChange** script instead, or as a scripted UI Policy - it should work the same way.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/AjaxAsyncOnSubmit/README|AjaxAsyncOnSubmit]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Check Weekend - Client Side/README|Check Weekend - Client Side]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/EfficientGlideRecord (Client-side)/README|EfficientGlideRecord (Client-side)]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Fetch Multiple Values in GlideAjax without JSON/README|Fetch Multiple Values in GlideAjax without JSON]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Get Field Values/README|Get Field Values]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/GlideAjax Example Template/README|GlideAjax Example Template]]

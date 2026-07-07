@@ -1,5 +1,5 @@
 ---
-title: "Flow is run as \"System\" user even though it is configured to Run as \"User who initiated the session\""
+title: "Flow is run as \"System\" user even though it is configured to Run as \"User who initiated the session\"
 aliases:
   - KB0960325
 tags:

@@ -1,3 +1,14 @@
+---
+title: "CallingPopUpBoxInListView"
+aliases:
+  - CallingPopUpBoxInListView
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - callingpopupboxinlistview
+  - ui-actions
+---
+
 Overview
 This document explains how to implement a custom UI action that triggers a UI page from the list view of a table in ServiceNow. Specifically, it demonstrates how to open a modal dialog when multiple items are selected in the list view. The modal dialog will display a UI page and pass the selected record sys_ids as parameters. This allows users to update multiple records simultaneously through the UI page, streamlining processes such as mass updates. This approach enhances user efficiency by enabling the execution of actions on multiple records at once, reducing manual effort and improving workflow automation
 Purpose of the UI Action
@@ -56,3 +67,12 @@ Users can quickly perform actions on multiple records at once, reducing the need
 
 Error Handling:
 The script includes error handling to ensure users are prompted if they attempt to perform an action without selecting records.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Incident/README|Cancel Incident]]

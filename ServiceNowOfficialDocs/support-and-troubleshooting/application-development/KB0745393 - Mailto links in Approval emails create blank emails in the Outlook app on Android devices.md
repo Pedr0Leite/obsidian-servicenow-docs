@@ -46,3 +46,11 @@ If you run into this issue, please contact Microsoft to report it. There is curr
 - [[KB0727617 - Access referenced fields in a notification record against the Approval table]] - approval notification body configuration
 - [[KB0725194 - Approval emails are not being generated for requested items]] - approval notification troubleshooting
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0694768 - Email client only supports one email client template per table|Email client only supports one email client template per table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0723056 - Approving requests through email notifications, Inbound actions, sysapproval_approvers and user table|Approving requests through email: notifications, Inbound actions, sysapproval_approvers and user table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725194 - Approval emails are not being generated for requested items|Approval emails are not being generated for requested items]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727617 - Access referenced fields in a notification record against the Approval table|Access referenced fields in a notification record against the Approval table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]

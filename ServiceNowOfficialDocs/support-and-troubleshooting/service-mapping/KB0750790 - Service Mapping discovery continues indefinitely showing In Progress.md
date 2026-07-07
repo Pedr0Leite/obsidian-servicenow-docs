@@ -1,5 +1,5 @@
 ---
-title: "Service Mapping discovery continues indefinitely showing \"In Progress\""
+title: "Service Mapping discovery continues indefinitely showing \"In Progress\"
 aliases:
   - KB0750790
 tags:

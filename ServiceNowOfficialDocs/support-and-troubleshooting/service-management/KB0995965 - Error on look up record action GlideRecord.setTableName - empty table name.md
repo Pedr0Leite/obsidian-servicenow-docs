@@ -1,5 +1,5 @@
 ---
-title: "Error on look up record action: \"GlideRecord.setTableName - empty table name\""
+title: "Error on look up record action: \"GlideRecord.setTableName - empty table name\"
 aliases:
   - KB0995965
 tags:

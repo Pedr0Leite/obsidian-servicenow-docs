@@ -137,3 +137,12 @@ Documents used to outline the solution:
 - [[KB0696599 - Debugging Mutual Authentication]]
 - [[KB0720035 - Error calling Scoped Outbound REST message]]
 - [[t_ConfigureRESTMsgBasicAuth]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691876 - Mutual Authentication Overview|Mutual Authentication: Overview]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0718496 - Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance|Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0720035 - Error calling Scoped Outbound REST message|Error calling Scoped Outbound REST message]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0724429 - glide_list reference field created through a REST API call stores the actual value instead of reference of the field|glide_list  reference field created through a REST API call stores the actual value instead of reference of the field]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745184 - OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call|OAuth Token of type 'Client Credentials' generates 'User Not Authenticated' in Inbound web service call]]

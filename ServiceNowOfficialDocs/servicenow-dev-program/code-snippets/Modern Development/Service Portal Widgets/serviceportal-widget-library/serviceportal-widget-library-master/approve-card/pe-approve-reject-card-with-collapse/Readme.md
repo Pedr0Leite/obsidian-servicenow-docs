@@ -1,3 +1,14 @@
+---
+title: "pe-approve-reject-card-with-collapse"
+aliases:
+  - pe-approve-reject-card-with-collapse
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-approve-reject-card-with-collapse
+  - approve-card
+---
+
 # Approve Reject Inbox
 
 ## Description
@@ -41,3 +52,9 @@ Widget Option Schema parameters:
 ---
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 > None
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card-cloud-sprawl/Readme|pe-approval-card-cloud-sprawl]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card-with-approval-table/Readme|pe-approval-card-with-approval-table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card/Readme|pe-approval-card]]

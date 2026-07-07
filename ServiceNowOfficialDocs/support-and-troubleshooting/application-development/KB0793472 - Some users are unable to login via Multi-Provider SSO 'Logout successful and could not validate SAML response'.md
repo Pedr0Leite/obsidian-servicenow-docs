@@ -1,5 +1,5 @@
 ---
-title: "Some users are unable to login via Multi-Provider SSO 'Logout successful and could not validate SAML response'"
+title: "Some users are unable to login via Multi-Provider SSO 'Logout successful and could not validate SAML response"
 aliases:
   - KB0793472
 tags:

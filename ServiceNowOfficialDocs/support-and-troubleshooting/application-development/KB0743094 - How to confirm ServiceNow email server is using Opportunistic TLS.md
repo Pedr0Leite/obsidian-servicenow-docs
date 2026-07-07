@@ -42,3 +42,11 @@ Alternately, go to public websites as below and enter the domain i.e. **service-
 - [[KB0725655 - Only ServiceNow Mail Servers are allowed to send emails for service-now.com domain]] - related outbound email server behavior
 - [[KB0538106 - Confirming that your email is RFC compliant]] - email deliverability troubleshooting
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695182 - Using DKIM for Emails from the service-now.com Domain|Using DKIM for Emails from the service-now.com Domain]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0722504 - Using ServiceNow blackhole or dummy email addresses|Using ServiceNow blackhole or dummy email addresses]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0724199 - Localhost and loopback IPs are not allowed in SMTP accounts|Localhost and loopback IPs are not allowed in SMTP accounts]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725655 - Only ServiceNow Mail Servers are allowed to send emails for service-now.com domain|Only ServiceNow Mail Servers are allowed to send emails for \"service-now.com\" domain]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]

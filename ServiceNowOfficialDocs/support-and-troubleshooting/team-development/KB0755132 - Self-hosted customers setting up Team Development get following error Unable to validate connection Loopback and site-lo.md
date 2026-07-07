@@ -1,5 +1,5 @@
 ---
-title: "Self-hosted customers setting up Team Development get following error: \"Unable to validate connection: Loopback and site-local URLs are not supported. Provide the URL of another instance\""
+title: "Self-hosted customers setting up Team Development get following error: \"Unable to validate connection: Loopback and site-local URLs are not supported. Provide the URL of another instance\"
 aliases:
   - KB0755132
 tags:

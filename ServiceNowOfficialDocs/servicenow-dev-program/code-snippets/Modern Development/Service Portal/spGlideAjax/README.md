@@ -1,3 +1,14 @@
+---
+title: "spGlideAjax"
+aliases:
+  - spGlideAjax
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - spglideajax
+  - service-portal
+---
+
 # spGlideAjax
 
 This is a demo of promise like service which allows to make a GlideAjax call directly from the controller function.
@@ -39,3 +50,12 @@ api.controller = function (spGlideAjax) {
   };
 };
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]

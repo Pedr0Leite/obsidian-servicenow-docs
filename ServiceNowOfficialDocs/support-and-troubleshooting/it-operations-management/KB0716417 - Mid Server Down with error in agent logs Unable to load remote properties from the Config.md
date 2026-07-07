@@ -1,5 +1,5 @@
 ---
-title: "Mid Server Down with error in agent logs \"Unable to load remote properties from the Config\""
+title: "Mid Server Down with error in agent logs \"Unable to load remote properties from the Config\"
 aliases:
   - KB0716417
 tags:

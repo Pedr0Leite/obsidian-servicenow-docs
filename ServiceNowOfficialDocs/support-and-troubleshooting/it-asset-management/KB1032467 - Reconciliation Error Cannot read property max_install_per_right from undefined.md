@@ -1,5 +1,5 @@
 ---
-title: "Reconciliation Error: \"Cannot read property \"max_install_per_right\" from undefined\""
+title: "Reconciliation Error: \"Cannot read property \"max_install_per_right\" from undefined\"
 aliases:
   - KB1032467
 tags:

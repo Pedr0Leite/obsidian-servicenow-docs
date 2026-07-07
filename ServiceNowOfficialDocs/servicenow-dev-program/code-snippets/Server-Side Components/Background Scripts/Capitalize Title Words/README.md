@@ -1,3 +1,14 @@
+---
+title: "Capitalize Title Words"
+aliases:
+  - Capitalize Title Words
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - capitalize-title-words
+  - background-scripts
+---
+
 This script will take a string and capitalize words that are not part of an exclusion list.
 The first and last words will always be capitalized even if normally excluded, according to MLA Format.
 
@@ -16,3 +27,12 @@ the ultimate short description of the 21st century
 
 After String:
 The Ultimate Short Description of the 21st Century
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

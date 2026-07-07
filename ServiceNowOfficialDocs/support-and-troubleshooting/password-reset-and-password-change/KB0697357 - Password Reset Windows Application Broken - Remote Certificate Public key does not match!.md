@@ -1,5 +1,5 @@
 ---
-title: "Password Reset Windows Application Broken - \"Remote Certificate Public key does not match!\""
+title: "Password Reset Windows Application Broken - \"Remote Certificate Public key does not match!\"
 aliases:
   - KB0697357
 tags:

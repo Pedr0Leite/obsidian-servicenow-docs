@@ -231,3 +231,12 @@ See above
 -   [KB0563615 - RESTMessageV2 API EccTopic Support](https://support.servicenow.com/kb_view.do?sysparm_article=KB0563615 "KB0563615 - RESTMessageV2 API EccTopic Support")
 -   [KB0716391 - Best practices for RESTMessageV2 and SOAPMessageV2](https://support.servicenow.com/kb_view.do?sysparm_article=KB0716391 "KB0716391 - Best practices for RESTMessageV2 and SOAPMessageV2")
 -   [Developer site: Direct RESTMessageV2 API](https://developer.servicenow.com/app.do#!/api_doc?v=kingston&id=c_RESTMessageV2API "Developer site: Direct RESTMessageV2 API")
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749587 - HTTP Logs Levels are not working|HTTP Logs Levels are not working]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_config|sys_rest_message_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_fn_config|sys_rest_message_fn_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/API for Automatic Group creation/README|API for Automatic Group creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Aadhaar Verification/Readme|Aadhaar Verification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Auth2 client credentials token cache with auto-refresh/README|Auth2 client credentials token cache with auto-refresh]]

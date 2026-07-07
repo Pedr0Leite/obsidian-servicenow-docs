@@ -1,5 +1,5 @@
 ---
-title: "Mid Server issue after clone and upgrade: \"Unable to subscribe to AMB channel: /mid/server/<sys_id>\""
+title: "Mid Server issue after clone and upgrade: \"Unable to subscribe to AMB channel: /mid/server/<sys_id>\"
 aliases:
   - KB0814684
 tags:

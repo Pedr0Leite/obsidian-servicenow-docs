@@ -1,3 +1,14 @@
+---
+title: "Change Table"
+aliases:
+  - Change Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - change-table
+  - training-data-preparer
+---
+
 # Training Data Quality Analyzer for ServiceNow Predictive Intelligence (Change Requests)
 
 ## Overview
@@ -35,3 +46,10 @@ This script analyzes the quality of change request data in ServiceNow to determi
 - Adjust the `keyFields` array in the config section to match your organization's data requirements
 - Modify thresholds for text length, closure time, and completeness as needed
 - Increase `sampleSize` for more detailed analysis if you have a large dataset
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Data Quality/Similarity Calculator/Change Table/README|Change Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/CMDB Configuration Items/README|CMDB Configuration Items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Incident Table/README|Incident Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Problem Table/README|Problem Table]]

@@ -1,5 +1,5 @@
 ---
-title: "Mid server down due to the error 'Problem creating JMX JMXMP connector Address already in use: JVM_Bind'"
+title: "Mid server down due to the error 'Problem creating JMX JMXMP connector Address already in use: JVM_Bind"
 aliases:
   - KB0815386
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Normalise and Reset a MRVS based on Variable Changes"
+aliases:
+  - Normalise and Reset a MRVS based on Variable Changes
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - normalise-and-reset-a-mrvs-based-on-variable-changes
+  - catalog-client-script
+---
+
 # MRVS - Normalise and Reset Rows on Change
 
 ## What this solves
@@ -29,3 +40,12 @@ Catalog Item → OnChange client script on your controlling variable.
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.html
 - Working with MRVS values on the client (community examples)  
   https://www.servicenow.com/community/developer-articles/accessing-multi-row-variable-set-value-outside-the-multi-row/ta-p/2308876
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

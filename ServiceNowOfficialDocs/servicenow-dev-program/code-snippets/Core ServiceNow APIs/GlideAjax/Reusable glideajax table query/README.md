@@ -1,3 +1,14 @@
+---
+title: "Reusable glideajax table query"
+aliases:
+  - Reusable glideajax table query
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - reusable-glideajax-table-query
+  - glideajax
+---
+
 # glideAjax-table-column
 
 A Client Callable script include which will query to the table and will return the set of columns. Below is the example of this code.
@@ -28,3 +39,12 @@ gs.print(si.getColumns('sys_user',query,col));
 
 Benefit: We can share this scripts usage examples with the regional developer, who don't have access to write custom scripts for catalog client script.
 Benefit: Client Call and Server Call both use the same Script Include Function.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/AjaxAsyncOnSubmit/README|AjaxAsyncOnSubmit]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Check Weekend - Client Side/README|Check Weekend - Client Side]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/EfficientGlideRecord (Client-side)/README|EfficientGlideRecord (Client-side)]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Fetch Multiple Values in GlideAjax without JSON/README|Fetch Multiple Values in GlideAjax without JSON]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Get Field Values/README|Get Field Values]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Get choices from Decision Table/README|Get choices from Decision Table]]

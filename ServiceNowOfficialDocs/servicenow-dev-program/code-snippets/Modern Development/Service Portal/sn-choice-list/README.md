@@ -1,3 +1,14 @@
+---
+title: "sn-choice-list"
+aliases:
+  - sn-choice-list
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sn-choice-list
+  - service-portal
+---
+
 # sn-choice-list
 `sn-choice-list` is an existing and really useful directive that can help you quickly create a simple choice list.
 
@@ -105,3 +116,12 @@ c.logValue = function() {
 	console.log(c.field);
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-record-picker/README|sn-record-picker]]

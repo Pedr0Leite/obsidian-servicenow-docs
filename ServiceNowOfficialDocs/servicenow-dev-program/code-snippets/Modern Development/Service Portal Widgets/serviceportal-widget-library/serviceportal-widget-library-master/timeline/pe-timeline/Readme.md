@@ -1,3 +1,14 @@
+---
+title: "pe-timeline"
+aliases:
+  - pe-timeline
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-timeline
+  - timeline
+---
+
 # Timeline
 
 ## Description
@@ -50,3 +61,11 @@ Widget Option Schema parameters:
 _CSS/SASS variables are given default values that can be overridden with theming or portal-level CSS._
 
 `$pe-timeline-items-color: #ff6f00 !default;`
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-animated-timeline/README|pe-animated-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-csm-timeline/Readme|pe-csm-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-incident-timeline/README|pe-incident-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-delivery-info/README|pe-timeline-delivery-info]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-emp-exp/Readme|pe-timeline-emp-exp]]

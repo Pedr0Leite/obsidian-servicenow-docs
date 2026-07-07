@@ -1,3 +1,14 @@
+---
+title: "Auto Save Draft Feature"
+aliases:
+  - Auto Save Draft Feature
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-save-draft-feature
+  - catalog-client-script
+---
+
 # Auto Save Draft Feature for Catalog Items
 
 This snippet provides automatic draft saving functionality for ServiceNow Catalog Items, helping prevent data loss by automatically saving form data at regular intervals.
@@ -112,3 +123,12 @@ Common issues and solutions:
 - Compatible with ServiceNow: Rome and later
 - Browser Requirements: Modern browsers with ES5+ support
 - Last Updated: October 2025
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate user information fields/README|Autopopulate user information fields]]

@@ -1,3 +1,13 @@
+---
+title: "Squid Game Themed User Profile Card"
+aliases:
+  - Squid Game Themed User Profile Card
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - squid-game-themed-user-profile-card
+  - service-portal-widgets
+---
 
 Squid Game Themed User Profile Card Widget 
 <br />
@@ -17,3 +27,12 @@ Steps to use this code :
 Future Enhancements:-
 <br />
 Configure full user profile page in squid game theme
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

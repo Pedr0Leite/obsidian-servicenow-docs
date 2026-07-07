@@ -1,3 +1,14 @@
+---
+title: "debug-state"
+aliases:
+  - debug-state
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - debug-state
+  - ux-client-scripts
+---
+
 # Debug State UX Client Script
 
 This repository contains a UX Client Script called `Debug State`, designed to log the current client state to the console. This script is useful for developers who want to inspect the state object in real time, making debugging more efficient by allowing quick access to current state values.
@@ -21,3 +32,7 @@ function handler({ api, event, helpers, imports }) {
   console.log(`DEBUG State:`, { ...api.state });
 }
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Client Scripts/debug-event/README|debug-event]]

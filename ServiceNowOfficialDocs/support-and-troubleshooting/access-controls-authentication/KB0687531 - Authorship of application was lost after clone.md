@@ -42,3 +42,11 @@ To prevent this in the future, refer to the following [Docs page](https://docs.s
 - [[KB0538768 - Determining if the properties from the source were copied over a target]] - another clone-related configuration loss
 - [[using-system-update-sets]] - official docs on update sets for moving customizations between instances
 - [[update-sets-reference]] - official docs on update set reference
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538768 - Determining if the properties from the source were copied over a target|Determining if the properties from the source were copied over a target]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695169 - Changes to a scoped application are not being applied when the update is installed|Changes to a scoped application are not being applied when the update is installed]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695295 - Resolve The operation encountered an unexpected error when linking source control to a Git repository|Resolve \"The operation encountered an unexpected error\" when linking source control to a Git repository]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695379 - Files still left in Changed Files list after committing a scoped application to source control|Files still left in Changed Files list after committing a scoped application to source control]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0715422 - How to go back to using the application repository after commiting changes to an application via update set|How to go back to using the application repository after commiting changes to an application via update set]]

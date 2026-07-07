@@ -1,5 +1,5 @@
 ---
-title: "PostgreSQL Pattern detecting the default running instance for 'hostname'"
+title: "PostgreSQL Pattern detecting the default running instance for 'hostname"
 aliases:
   - KB0781629
 tags:

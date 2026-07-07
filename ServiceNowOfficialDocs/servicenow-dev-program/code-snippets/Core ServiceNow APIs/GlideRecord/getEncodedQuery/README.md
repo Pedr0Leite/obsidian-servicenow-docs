@@ -1,3 +1,14 @@
+---
+title: "getEncodedQuery"
+aliases:
+  - getEncodedQuery
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - getencodedquery
+  - gliderecord
+---
+
 1.In any GlideRecord query retrieve query using getEncodedQuery()
 
 2.Apply this encoded query to create/update records (you can apply this query to other tables if query is appropriate).
@@ -13,3 +24,12 @@ Before Running the script :
 
 After Running the script:
 ![image](https://user-images.githubusercontent.com/42912180/195796411-dcb20d99-2bd7-4ef6-88bc-846f46006122.png)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/ACL enforcement using GlideRecord/README|ACL enforcement using GlideRecord]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Add n number of users to n number of groups using server scripts/README|Add n number of users to n number of groups using server scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Archiving Old Incident Records to Improve Performance/readme|Archiving Old Incident Records to Improve Performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/CheckDuplicate-Server/readme|CheckDuplicate-Server]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Choose Window for better performance/README|Choose Window for better performance]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideRecord/Compare_2_records/README|Compare_2_records]]

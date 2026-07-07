@@ -68,3 +68,12 @@ Learn more about elevated privilege roles using the below document:
 - [[KB0687701 - Admin user is being asked to elevate to admin role after logging in]]
 - [[KB0745206 - Developer tab is not displayed in System Settings for admin user]]
 - [[access-control-rules]] - official docs on ACL rule evaluation
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0713543 - Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)|Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0686244 - When you impersonate a user and then try to re-impersonate your own user account, the Impersonate User popup window show|When you impersonate a user and then try to re-impersonate your own user account, the Impersonate User popup window shows an error Failed API level ACL Validation]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0687701 - Admin user is being asked to elevate to admin role after logging in|Admin user is being asked to elevate to \"admin\" role after logging in]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691989 - Ui ActionButton does not display for a user even when the ACLs and the UI action conditions grant the access to that use|Ui Action/Button does not display for a user even when the ACLs and the UI action conditions grant the access to that user]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0694783 - User granted with the list_updater role but can't see the 'Update selected' and 'Update all' Context menu in list|User granted with the list_updater role but can't see the 'Update selected' and 'Update all' Context menu in list]]

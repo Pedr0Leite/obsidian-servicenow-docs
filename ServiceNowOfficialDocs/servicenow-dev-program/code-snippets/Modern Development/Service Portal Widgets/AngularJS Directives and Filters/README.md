@@ -1,3 +1,14 @@
+---
+title: "AngularJS Directives and Filters"
+aliases:
+  - AngularJS Directives and Filters
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - angularjs-directives-and-filters
+  - service-portal-widgets
+---
+
 <h2>AngularJS Directives and Filters</h2>
 ___
 This widget demonstrates useful AngularJS Directives and Filters.
@@ -27,3 +38,12 @@ This widget demonstrates useful AngularJS Directives and Filters.
 18. lowercase<br>
 19. orderBy<br>
 20. filter 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Card Image Link/README|Card Image Link]]

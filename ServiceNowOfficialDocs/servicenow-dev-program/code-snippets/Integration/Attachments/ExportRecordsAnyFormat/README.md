@@ -1,3 +1,14 @@
+---
+title: "ExportRecordsAnyFormat"
+aliases:
+  - ExportRecordsAnyFormat
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - exportrecordsanyformat
+  - attachments
+---
+
 The snippet can be used to export records from any table and then attach on another record. Records can be exported records from any table view based on an encoded query in any of the these formats: CSV, XLS, XLSX, PDF, JSON, XML, XSD, SCHEMA, RSS. If required, the attachment can be send out to users through a notification (with check include attachments).
 
 #### Access & Authentication
@@ -39,4 +50,11 @@ gs.print(exportRecords('incident', 'b3f076504750210042bd757f2ede273f', 'active=t
 gs.print(exportRecords('incident', 'b3f076504750210042bd757f2ede273f', 'sys_id=b3f076504750210042bd757f2ede273f', '', 'PDF', 'record.pdf'));
 ```
 
+## Related Notes
 
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to Base64/README|Attachment to Base64]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Attachment to base64 in scope/README|Attachment to base64 in scope]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Base 64 to Attachment/README|Base 64 to Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/CSVParser/README|CSVParser]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Calculate attachment hash code/README|Calculate attachment hash code]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Attachments/Convert KnowledgePage to PDF/README|Convert KnowledgePage to PDF]]

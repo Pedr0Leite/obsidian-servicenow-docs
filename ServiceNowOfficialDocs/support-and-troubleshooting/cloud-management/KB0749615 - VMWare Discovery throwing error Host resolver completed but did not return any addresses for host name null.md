@@ -1,5 +1,5 @@
 ---
-title: "VMWare Discovery throwing error \"Host resolver completed but did not return any addresses for host name: null\""
+title: "VMWare Discovery throwing error \"Host resolver completed but did not return any addresses for host name: null\"
 aliases:
   - KB0749615
 tags:

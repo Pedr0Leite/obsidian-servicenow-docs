@@ -1,3 +1,14 @@
+---
+title: "Single Sign-On (SSO) Direct Login URL Generator"
+aliases:
+  - Single Sign-On (SSO) Direct Login URL Generator
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - single-sign-on-sso-direct-login-url-generator
+  - script-includes
+---
+
 # Script Include for Single Sign-On (SSO) Direct Login URL Generator using UserHelper
 
 1. [Introduction](#introduction)
@@ -50,3 +61,12 @@ var loginUrl = userHelper.login();
 
 ## Security<a name="security"></a>
 It is crucial to emphasize that the UserHelper script include provides direct access to users without requiring any credentials. Therefore, it is important to set proper security policies to secure this script include. Make sure to follow best practices for securing access to this functionality.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

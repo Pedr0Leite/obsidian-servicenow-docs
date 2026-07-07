@@ -1,3 +1,13 @@
+---
+title: "Fix reference to Choice"
+aliases:
+  - Fix reference to Choice
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - fix-reference-to-choice
+  - background-scripts
+---
 
 # How to fix a reference to the Choice [sys_choice] table
 
@@ -75,3 +85,12 @@ ___
 [1] I instructed my colleague to create the records with the same value existing within the Choice [sys_choice] table.
 
 [2] Business rule "Prevent Reference to Choice [sys_choice]"
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

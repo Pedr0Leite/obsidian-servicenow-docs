@@ -1,5 +1,5 @@
 ---
-title: "Discovery Error \"Script error while attempting to launch Shazzam undefined\""
+title: "Discovery Error \"Script error while attempting to launch Shazzam undefined\"
 aliases:
   - KB0754359
 tags:

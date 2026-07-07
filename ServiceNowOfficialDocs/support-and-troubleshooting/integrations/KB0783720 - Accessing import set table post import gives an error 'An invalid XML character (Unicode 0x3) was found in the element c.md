@@ -1,5 +1,5 @@
 ---
-title: "Accessing import set table post import gives an error 'An invalid XML character (Unicode: 0x3) was found in the element content of the document.'"
+title: "Accessing import set table post import gives an error 'An invalid XML character (Unicode: 0x3) was found in the element content of the document."
 aliases:
   - KB0783720
 tags:

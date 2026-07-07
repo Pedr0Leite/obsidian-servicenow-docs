@@ -1,5 +1,5 @@
 ---
-title: "'SAM - Import User Subscriptions' job failing with error: No valid bindings were found for organization and technical account combination"
+title: "SAM - Import User Subscriptions' job failing with error: No valid bindings were found for organization and technical account combination"
 aliases:
   - KB1360341
 tags:

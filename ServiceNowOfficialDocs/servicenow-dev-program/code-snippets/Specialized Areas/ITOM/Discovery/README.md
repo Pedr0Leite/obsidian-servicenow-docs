@@ -1,3 +1,14 @@
+---
+title: "Discovery"
+aliases:
+  - Discovery
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - discovery
+  - itom
+---
+
 This code snippet automates the discovery of devices in ServiceNow using MID (Management, Instrumentation, and Discovery) servers by triggering Quick Discovery through a workflow. The code can also be modified for different workflows/ flows as needed.
 
 Key features include:
@@ -11,3 +22,10 @@ Discovery Process:
 It creates a Discovery object to initiate the process. The script first attempts to find the device using the first MID server. If that fails, it logs a message and tries again with the second MID server. Logging and Status Update: After the discovery attempts, the script logs the results and updates the current context with the discovery status.
 
 This code enhances device discovery in ServiceNow, making the process more reliable by utilizing multiple MID servers.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Discovery/Pre README|ServiceNow Discovery Pre Sensor Script: IP Router Association]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Bulk Location Update/README|Bulk Location Update]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Generate Discovery Schedule/README|Generate Discovery Schedule]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ITOM/Track Discovery Status/readme|Track Discovery Status]]

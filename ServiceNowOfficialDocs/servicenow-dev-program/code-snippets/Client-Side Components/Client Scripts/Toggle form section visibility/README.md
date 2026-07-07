@@ -1,3 +1,13 @@
+---
+title: "Toggle form section visibility"
+aliases:
+  - Toggle form section visibility
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - toggle-form-section-visibility
+  - client-scripts
+---
 
 # Toggle Form Section Visibility Client Script
 
@@ -51,3 +61,12 @@ Imagine you have a form with a checkbox labeled "Show Additional Details." When 
 - When the checkbox is checked (checkboxField.checked is true), it sets the section's display style property to 'block', making the section visible.
 - When the checkbox is unchecked, it sets the section's display property to 'none', hiding the section.
 - The g_form.observe method attaches the toggleFormSection function to the change event of the checkbox field, so it triggers whenever the checkbox state changes.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

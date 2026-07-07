@@ -1,5 +1,5 @@
 ---
-title: "Adobe Cloud Integration Configuration error while attaching the Certificate \"certificate_private.pks has a prohibited file extension\""
+title: "Adobe Cloud Integration Configuration error while attaching the Certificate \"certificate_private.pks has a prohibited file extension\"
 aliases:
   - KB0744934
 tags:

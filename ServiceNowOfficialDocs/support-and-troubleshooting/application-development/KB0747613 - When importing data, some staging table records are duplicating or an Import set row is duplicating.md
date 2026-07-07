@@ -50,3 +50,12 @@ Clean the staging table. If you need to clean the staging table increase the cle
 ## Related
 
 - [[KB0749267 - When import sets from two different data sources are using same staging table, only latest one is used during transform]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749267 - When import sets from two different data sources are using same staging table, only latest one is used during transform|When import sets from two different data sources are using same staging table, only  latest one is used during transform]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/ModelManufacture.README|ModelManufacture.README]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/README|Import sets overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/TriggerDataSource.README|TriggerDataSource.README]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/debug/README|debug]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0758037 - Azure AD Sync or an Import (e.g. LDAP Group Import) Being Interfered with by security_admin Role|Azure AD Sync or an Import (e.g. LDAP Group Import) Being Interfered with by \"security_admin\" Role]]

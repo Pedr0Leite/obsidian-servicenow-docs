@@ -1,3 +1,14 @@
+---
+title: "Set time zone and date format to output string dates"
+aliases:
+  - Set time zone and date format to output string dates
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - set-time-zone-and-date-format-to-output-string-dates
+  - glidedatetime
+---
+
 # Set time zone and date format to output dates.
 Examples
 ```javascript
@@ -39,3 +50,12 @@ gs.info( gd.getByFormat("EEEE,MMMM dd,yyyy HH:mm:ss z Z") );
 // "Saturday,October 23,2021 08:03:56 UTC +0000"
 // Output in UTC, not in the time zone set by the user.
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/AddDays/README|AddDays]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Business time utilities (add, diff, next open, in schedule)/README|Business time utilities (add, diff, next open, in schedule)]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Calculate Due date using user defined schedules/README|Calculate Due date using user defined schedules]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Check if today is weekend/README|Check if today is weekend]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Convert UTC Time To Local Time/readme|Convert UTC Time To Local Time]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Convert date format/README|Convert date format]]

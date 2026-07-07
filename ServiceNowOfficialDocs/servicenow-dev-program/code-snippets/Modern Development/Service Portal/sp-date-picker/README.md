@@ -1,3 +1,14 @@
+---
+title: "sp-date-picker"
+aliases:
+  - sp-date-picker
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sp-date-picker
+  - service-portal
+---
+
 # sp-date-picker
 
 ![date picker example](sp-date-picker.png)
@@ -56,3 +67,12 @@ api.controller = function () {
 ```
 
 The other alternative option would be to use datetimepicker from the [UI Bootstrap library](https://angular-ui.github.io/bootstrap/#!#datepicker) which is already included within the service portal and offers more options and flexibility.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]

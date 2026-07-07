@@ -1,5 +1,5 @@
 ---
-title: "SNMP Trap Listener error: \"The MID Server does not contain a MID Server member. The extension with the sys_id <SNMP_Extension_SYS_ID> is not currently active.\""
+title: "SNMP Trap Listener error: \"The MID Server does not contain a MID Server member. The extension with the sys_id <SNMP_Extension_SYS_ID> is not currently active.\"
 aliases:
   - KB0744271
 tags:

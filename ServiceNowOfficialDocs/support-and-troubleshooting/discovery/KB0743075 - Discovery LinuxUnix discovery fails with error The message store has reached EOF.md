@@ -1,5 +1,5 @@
 ---
-title: "Discovery Linux/Unix discovery fails with error \"The message store has reached EOF\""
+title: "Discovery Linux/Unix discovery fails with error \"The message store has reached EOF\"
 aliases:
   - KB0743075
 tags:

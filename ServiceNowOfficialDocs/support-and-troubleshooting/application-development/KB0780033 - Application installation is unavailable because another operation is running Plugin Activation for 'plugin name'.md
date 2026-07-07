@@ -1,5 +1,5 @@
 ---
-title: "Application installation is unavailable because another operation is running: Plugin Activation for 'plugin name'"
+title: "Application installation is unavailable because another operation is running: Plugin Activation for 'plugin name"
 aliases:
   - KB0780033
 tags:

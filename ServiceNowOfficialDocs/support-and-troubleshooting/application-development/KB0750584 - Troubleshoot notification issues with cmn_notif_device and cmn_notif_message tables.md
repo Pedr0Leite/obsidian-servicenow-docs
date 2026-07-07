@@ -81,3 +81,12 @@ If multiple users subscribed to the same email notification, there will be one r
 - [[KB0749713 - Email template sc_req_item.itil using incorrect reference to comments]]
 - [[KB0750361 - How to verify inclusion of Outlook actionable messages in email notifications]]
 - [[KB0792530 - CmnNotifDevice cannot be null Exception is thrown while processing User Notification Preferences if cmn_notif_device has]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715790 - Users see an error message Record doesn't exist or ACL restricts the record retrieval when making changes to their Notif|Users see an error message \"Record doesn't exist or ACL restricts the record retrieval\" when making changes to their Notifications settings]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0750659 - Subscribable Notifications and the property glide.notification.use_legacy_subscription_model|Subscribable Notifications and the property \"glide.notification.use_legacy_subscription_model\]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Conditional Trigger/README|Conditional Trigger]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Modern Email Layout Designs/Readme|Modern Email Layout Designs]]

@@ -61,3 +61,12 @@ Please refer to the documentation [https://docs.servicenow.com/csh?topicname=acl
 - [[KB0749738 - SLA Definition field value is not displaying on task sla list or related lists for some users]] — same table-level read ACL root cause
 - [[KB0813250 - User with no read access to a Table see a blank form instead of a security message (Security constraints prevent access ]] — related consequence of missing table read access
 - [[acl-rule-types]] — official docs on ACL rule types and matching order
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0749738 - SLA Definition field value is not displaying on task sla list or related lists for some users|SLA Definition field value is not displaying on task sla list or related lists for some users]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688916 - When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form|When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688981 - Certain users are unable to sc_cat_item_producer records in Service Portal|Certain users are unable to sc_cat_item_producer records in Service Portal ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.|The users with SOAP role not able to view the incident table data even though the ACLs return true.]]

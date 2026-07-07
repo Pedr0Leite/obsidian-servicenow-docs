@@ -1,5 +1,5 @@
 ---
-title: "Server error \"Command Not Found\""
+title: "Server error \"Command Not Found\"
 aliases:
   - KB0727949
 tags:

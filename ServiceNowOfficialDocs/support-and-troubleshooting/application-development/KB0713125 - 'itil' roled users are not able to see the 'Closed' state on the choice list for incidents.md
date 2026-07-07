@@ -1,5 +1,5 @@
 ---
-title: "'itil' roled users are not able to see the 'Closed' state on the choice list for incidents"
+title: "itil' roled users are not able to see the 'Closed' state on the choice list for incidents"
 aliases:
   - KB0713125
 tags:
@@ -65,3 +65,12 @@ https://<instance-name>.service-now.com/sys\_script\_client.do?sys\_id=38c58af84
 
 - [[KB0697413 - In Client scripts, setvisible() or setDisplay() is not honored when used along with setmandatory()]]
 - [[KB0720671 - Generic error on form Submit canceled due to a script error - please contact your System Administrator]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0720671 - Generic error on form Submit canceled due to a script error - please contact your System Administrator|Generic error on form: \"Submit canceled due to a script error - please contact your System Administrator\]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]

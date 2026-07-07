@@ -1,3 +1,14 @@
+---
+title: "Resource Capacity And Availability Viewer (Daily Basis)"
+aliases:
+  - Resource Capacity And Availability Viewer (Daily Basis)
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - resource-capacity-and-availability-viewer-daily-basis
+  - resource-management
+---
+
 This script will output a User's Capacity and Availability hourly breakdown of a on a daily basis for a given range.
 This is normally not easily accessible in the platform as there are only Weekly and Monthly aggregates in the platform (resource_aggregate_weekly and resource_aggregate_monthly).
 

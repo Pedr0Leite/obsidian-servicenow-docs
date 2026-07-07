@@ -1,5 +1,5 @@
 ---
-title: "Generic error on form: \"Submit canceled due to a script error - please contact your System Administrator\""
+title: "Generic error on form: \"Submit canceled due to a script error - please contact your System Administrator\"
 aliases:
   - KB0720671
 tags:
@@ -55,3 +55,12 @@ Best Practices: [Client Scripting Technical Best Practices](https://developer.se
 - [[KB0697413 - In Client scripts, setvisible() or setDisplay() is not honored when used along with setmandatory()]]
 - [[KB0696583 - Setting 'setSectionDisplay' function to 'false' does not hide the form section.]]
 - [[KB0713125 - 'itil' roled users are not able to see the 'Closed' state on the choice list for incidents]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0713125 - 'itil' roled users are not able to see the 'Closed' state on the choice list for incidents|itil' roled users are not able to see the 'Closed' state on the choice list for incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]

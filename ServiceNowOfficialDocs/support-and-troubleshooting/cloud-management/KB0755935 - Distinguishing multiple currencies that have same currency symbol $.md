@@ -1,5 +1,5 @@
 ---
-title: "Distinguishing multiple currencies that have same currency symbol \"$\""
+title: "Distinguishing multiple currencies that have same currency symbol \"$\"
 aliases:
   - KB0755935
 tags:

@@ -1,3 +1,13 @@
+---
+title: "AI Agents: Troubleshooting, Debugging & Best Practices"
+aliases:
+  - AI Agents: Troubleshooting, Debugging & Best Practices
+tags:
+  - ai-agents
+  - react-loop
+  - now-assist-ai
+---
+
 # AI Agents: Troubleshooting, Debugging & Best Practices
 
 *Structured knowledge base extracted from ServiceNow CCL6230-K26 (Knowledge 2026)*
@@ -65,3 +75,8 @@ The remainder of the document covers:
 > Note: This markdown file is a converted version of the uploaded knowledge-base document and preserves the document structure in Markdown format.
 
 Reference: turn1search1
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/now-assist-ai/ServiceNow_Local_Development_Guide|ServiceNow Local Development Guide]]
+- [[ServiceNowOfficialDocs/now-assist-ai/ai-search/Get Similar Records AIS Script Documentation|Get Similar Records AIS Documentation]]

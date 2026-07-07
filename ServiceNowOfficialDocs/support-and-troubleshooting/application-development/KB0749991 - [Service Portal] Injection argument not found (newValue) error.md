@@ -68,3 +68,12 @@ getReference API reference: [https://developer.servicenow.com/app.do#!/api\_doc?
 - [[KB0745114 - Catalog client script is not hiding the container and the variables within the container]]
 - [[KB0656003 - Redirecting Service Portal Catalog Items and Troubleshooting Submission & Search Issues]]
 - [[KB0750068 - ServicePortal - Getting Failing Widget Ticket Conversations error and exception]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0686723 - The Field MessageNotification will be cleared if we use Client Script to set value for the field on a form|The Field Message/Notification will be cleared if we use Client Script to set value for the field on a form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0687687 - GlideAjax is working inconstantly|GlideAjax is working inconstantly]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0693899 - On Service Portal the record producer form does not display all subcategories option for users with no role|On Service Portal the record producer form  does not display all subcategories option  for users with no role]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0717382 - An empty or blank box appears inside List collector in Service Portal|An empty or blank box appears inside List collector in Service Portal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]

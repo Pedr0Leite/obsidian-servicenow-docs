@@ -1,5 +1,5 @@
 ---
-title: "Empty \"User\" records in the \"Software Subscriptions\" table \"samp_sw_subscription\""
+title: "Empty \"User\" records in the \"Software Subscriptions\" table \"samp_sw_subscription\"
 aliases:
   - KB0855779
 tags:

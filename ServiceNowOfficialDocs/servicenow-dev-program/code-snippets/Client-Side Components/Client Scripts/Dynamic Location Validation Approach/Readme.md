@@ -1,3 +1,14 @@
+---
+title: "Dynamic Location Validation Approach"
+aliases:
+  - Dynamic Location Validation Approach
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dynamic-location-validation-approach
+  - client-scripts
+---
+
 **User Location Validator**
 This script restricts form submissions based on the physical location of the user. The current location is obtained using the browser’s geolocation API (latitude and longitude), and is then compared against the user's assigned business location stored in ServiceNow.
 
@@ -17,3 +28,12 @@ This script restricts form submissions based on the physical location of the use
 - Requires user consent for geolocation access in the browser.
 - The script uses descriptive variable names for clarity and maintainability.
 - Suitable for scenarios requiring geo-fencing compliance or location-based workflow restrictions.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

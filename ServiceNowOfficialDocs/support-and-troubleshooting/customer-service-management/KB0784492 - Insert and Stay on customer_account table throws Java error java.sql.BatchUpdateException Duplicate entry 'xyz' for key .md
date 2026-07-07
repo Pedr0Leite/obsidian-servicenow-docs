@@ -1,5 +1,5 @@
 ---
-title: "Insert and Stay on customer_account table  throws Java error: java.sql.BatchUpdateException: Duplicate entry 'xyz' for key 'account_path'"
+title: "Insert and Stay on customer_account table  throws Java error: java.sql.BatchUpdateException: Duplicate entry 'xyz' for key 'account_path"
 aliases:
   - KB0784492
 tags:

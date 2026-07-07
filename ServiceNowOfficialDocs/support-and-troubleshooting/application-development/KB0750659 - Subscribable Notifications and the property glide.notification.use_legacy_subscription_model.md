@@ -1,9 +1,8 @@
 ---
-title: "Subscribable Notifications and the property \"glide.notification.use_legacy_subscription_model\""
+title: "Subscribable Notifications and the property \"glide.notification.use_legacy_subscription_model\"
 aliases:
   - KB0750659
   - Subscribable Notifications legacy subscription model
-area: application-development
 tags:
   - servicenow
   - support-kb
@@ -11,6 +10,7 @@ tags:
   - subscriptions
   - sys_notif_subscription
   - cmn_notif_message
+area: application-development
 source_url: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0750659
 kb_number: KB0750659
 last_modified: 2024-04-07
@@ -108,3 +108,12 @@ Some larger instances may have very large 'cmn\_notif\_message' tables and the m
 - [[KB0755067 - How to fix business rule conditions that can cause multiple notifications]]
 - [[KB0752062 - SLA emails are not sent to assigned to user]]
 - [[KB0791868 - How to fix event notifications that fail to trigger]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715790 - Users see an error message Record doesn't exist or ACL restricts the record retrieval when making changes to their Notif|Users see an error message \"Record doesn't exist or ACL restricts the record retrieval\" when making changes to their Notifications settings]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0750584 - Troubleshoot notification issues with cmn_notif_device and cmn_notif_message tables|Troubleshoot notification issues with cmn_notif_device and cmn_notif_message tables]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Conditional Trigger/README|Conditional Trigger]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Modern Email Layout Designs/Readme|Modern Email Layout Designs]]

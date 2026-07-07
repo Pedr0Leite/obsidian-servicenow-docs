@@ -1,3 +1,14 @@
+---
+title: "CMDB Dynamic Status Update Function"
+aliases:
+  - CMDB Dynamic Status Update Function
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cmdb-dynamic-status-update-function
+  - cmdb
+---
+
 Overview:
 
 This function is designed to keep Configuration Items (CIs) within the CMDB (Configuration Management Database) up-to-date by ensuring that CIs whose discovery dates exceed a certain threshold are automatically updated or deleted. It dynamically updates the operational status of CIs or removes them from the database based on the number of days since they were last discovered.
@@ -45,3 +56,11 @@ For instance, you might use this function to clean up outdated application CIs. 
 Conclusion:
 This dynamic function provides a simple, yet powerful solution to maintaining the integrity and cleanliness of your CMDB, ensuring that CIs are regularly checked for updates and outdated records are properly handled. By automating the process of marking CIs as Non-operational and retiring them, this function helps improve operational efficiency, data accuracy, and compliance with governance policies.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB CI Deduplication Task Generator/README|CMDB CI Deduplication Task Generator]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Get CI Relationships/README|CMDB Get CI Relationships]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Health Check/README|CMDB Health Check]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Utility Scripts/ReadME|CMDB Utility Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Utility Scripts/softwareCreationREADME|softwareCreationREADME]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB record count/README|CMDB record count]]

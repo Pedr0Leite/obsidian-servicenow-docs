@@ -56,3 +56,12 @@ This property is global, so it will apply to the whole instance, test it very we
 
 - [[KB0692550 - Why addQuery() method in Business Rule constructs incorrect query]]
 - [[KB0717827 - Using a business rule to copy attachments from one record to another upon creation]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693393 - How to generate a token using sn_auth - oAuth API for Resource Owner Password Credentials grant type|How to generate a token using sn_auth - oAuth API  for Resource Owner Password Credentials grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693900 - How to generate a token using sn_auth - oAuth API for Authorization grant type|How to generate a token using sn_auth - oAuth API  for Authorization grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0750886 - ACL script is failing at script include function call|ACL script is failing at script include function call]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0715422 - How to go back to using the application repository after commiting changes to an application via update set|How to go back to using the application repository after commiting changes to an application via update set]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0717827 - Using a business rule to copy attachments from one record to another upon creation|Using a business rule to copy attachments from one record to another upon creation]]

@@ -1,5 +1,5 @@
 ---
-title: "Business Service discovery fails with error \"Host XXXXX ignored since it is not in operational status\""
+title: "Business Service discovery fails with error \"Host XXXXX ignored since it is not in operational status\"
 aliases:
   - KB0634456
 tags:

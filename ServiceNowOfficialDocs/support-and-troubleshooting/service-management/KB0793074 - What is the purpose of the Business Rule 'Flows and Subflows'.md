@@ -1,5 +1,5 @@
 ---
-title: "What is the purpose of the Business Rule 'Flows and Subflows'"
+title: "What is the purpose of the Business Rule 'Flows and Subflows"
 aliases:
   - KB0793074
 tags:

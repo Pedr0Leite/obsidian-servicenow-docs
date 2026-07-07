@@ -1,5 +1,5 @@
 ---
-title: "Discovery of Cloud Datacenter failed with \"Method returned an object of type sys_script_68e502fa0a0a0aa9001fdd4619ef53b5_12 which is not allowed in scope sn_cmp\""
+title: "Discovery of Cloud Datacenter failed with \"Method returned an object of type sys_script_68e502fa0a0a0aa9001fdd4619ef53b5_12 which is not allowed in scope sn_cmp\"
 aliases:
   - KB0688231
 tags:

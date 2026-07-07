@@ -1,3 +1,14 @@
+---
+title: "pe-animated-timeline"
+aliases:
+  - pe-animated-timeline
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-animated-timeline
+  - timeline
+---
+
 # Animated Timeline
 
 ## Description
@@ -35,3 +46,11 @@ _CSS/SASS variables are given default values that can be overridden with theming
 
 `$pe-brand-success: #57c446 !default;`<br/>
 `$pe-brand-error: #ff0000 !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-csm-timeline/Readme|pe-csm-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-incident-timeline/README|pe-incident-timeline]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-delivery-info/README|pe-timeline-delivery-info]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline-emp-exp/Readme|pe-timeline-emp-exp]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/timeline/pe-timeline/Readme|pe-timeline]]

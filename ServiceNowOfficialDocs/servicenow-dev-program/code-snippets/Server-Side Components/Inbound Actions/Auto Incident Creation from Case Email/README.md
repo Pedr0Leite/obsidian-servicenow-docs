@@ -1,3 +1,14 @@
+---
+title: "Auto Incident Creation from Case Email"
+aliases:
+  - Auto Incident Creation from Case Email
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-incident-creation-from-case-email
+  - inbound-actions
+---
+
 **Auto Incident Creation from Case Email** 
 
 **Description** 
@@ -19,3 +30,12 @@ Ideal for CSM environments integrated with ITSM, where customer issues escalate 
    - Table: Case[sn_customerservice_case]
    - Action type: Record Action
    - Type: Reply
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Advanced Scripts/README|Advanced Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Reply Email/README|Auto Reply Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Automate creation of incidents through inbound actions/README|Automate creation of incidents through inbound actions]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Duplicate Incident Detection and Creation/README|Duplicate Incident Detection and Creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Email Text as Attachment/README|Email Text as Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Inbound Email Action to Create User and Assign Groups/Readme|Inbound Email Action to Create User and Assign Groups]]

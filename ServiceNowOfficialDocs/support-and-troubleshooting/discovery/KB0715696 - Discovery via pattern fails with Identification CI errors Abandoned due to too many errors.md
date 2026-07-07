@@ -1,5 +1,5 @@
 ---
-title: "Discovery via pattern fails with \"Identification CI errors: Abandoned due to too many errors\""
+title: "Discovery via pattern fails with \"Identification CI errors: Abandoned due to too many errors\"
 aliases:
   - KB0715696
 tags:

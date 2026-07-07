@@ -1,5 +1,5 @@
 ---
-title: "\"SAM - Apply latest content changes\" job fails with error \"Core company is null\""
+title: "\"SAM - Apply latest content changes\" job fails with error \"Core company is null\"
 aliases:
   - KB1221417
 tags:

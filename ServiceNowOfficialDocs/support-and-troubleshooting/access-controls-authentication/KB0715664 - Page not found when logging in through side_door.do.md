@@ -56,3 +56,12 @@ Here is the doc about it: [side\_door.do page not found](https://docs.serviceno
 - [[KB0745590 - session_timeout page is displayed when navigating to instance URL using side_door]]
 - [[KB0746067 - Disable local login on the instance by disabling login.do page]]
 - [[t_EnablingExternalAuthentication]] - official docs on enabling external authentication / side_door.do
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0728437 - User unable to login to Servicenow after administrator has updated user's password in ServiceNow instance|User unable to login to Servicenow after administrator has updated user's password in ServiceNow instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0744254 - After user's password has been updated on user record, user is unable to login to instance|After user's password has been updated on user record, user is unable to login to instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538763 - Determining if the SAML certificate is incorrect|Determining if the SAML certificate is incorrect]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538765 - Determining if ADFS is receiving a signed request| Determining if ADFS is receiving a signed request]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538768 - Determining if the properties from the source were copied over a target|Determining if the properties from the source were copied over a target]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538769 - Determining if SAML issues are occurring due to customer scripts no longer working after upgrade|Determining if SAML issues are occurring due to customer scripts no longer working after upgrade]]

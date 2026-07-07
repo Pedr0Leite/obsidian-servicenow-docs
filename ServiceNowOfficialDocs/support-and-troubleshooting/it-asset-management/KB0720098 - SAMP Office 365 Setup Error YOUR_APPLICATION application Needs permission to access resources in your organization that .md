@@ -1,5 +1,5 @@
 ---
-title: "SAMP Office 365 Setup Error \"YOUR_APPLICATION application Needs permission to access resources in your organization that only an admin can grant. Please ask an admin to grant permission to this app before you can use it.\""
+title: "SAMP Office 365 Setup Error \"YOUR_APPLICATION application Needs permission to access resources in your organization that only an admin can grant. Please ask an admin to grant permission to this app before you can use it.\"
 aliases:
   - KB0720098
 tags:

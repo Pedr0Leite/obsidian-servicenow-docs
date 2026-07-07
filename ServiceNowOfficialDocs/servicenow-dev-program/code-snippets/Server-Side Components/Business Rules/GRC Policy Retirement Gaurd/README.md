@@ -1,3 +1,14 @@
+---
+title: "GRC Policy Retirement Gaurd"
+aliases:
+  - GRC Policy Retirement Gaurd
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - grc-policy-retirement-gaurd
+  - business-rules
+---
+
 GRC Policy Retirement Guard with Control Objective Check
 Overview
 This Business Rule enhances data integrity and process governance within ServiceNow's GRC module. It prevents a sn_compliance_policy record from being marked with the "Retired" state if it is still associated with any active Control Objectives. The rule enforces a proper decommissioning process, ensuring that all dependent Control Objectives are either made inactive or delinked before the policy itself can be retired.
@@ -35,3 +46,12 @@ User Feedback: Provides immediate and clear feedback to the user, explaining why
 Performance: Utilizes the efficient GlideAggregate method, which is best practice for performing counts on large tables.
 Usage
 This script is a core part of GRC data governance. If a user attempts to set a policy's State to Retired while active Control Objectives are still linked, they will see an error message and the update will be stopped. The user must first either inactivate or delink all related Control Objectives before attempting to retire the policy again.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

@@ -1,3 +1,14 @@
+---
+title: "Export Data for ML Training"
+aliases:
+  - Export Data for ML Training
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - export-data-for-ml-training
+  - data-export-to-ml-pipeline
+---
+
 # Export ServiceNow Data to ML Pipeline
 
 ## Overview

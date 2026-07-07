@@ -47,3 +47,12 @@ For more detailed information on the steps to replace or reinstall a certificate
 - [[KB0690925 - Servicenow SAMLSSO integration with Miniorange Identity Provider (IdP)]]
 - [[t_ReplacingAMissingCertificate]] - official docs on replacing a missing SAML certificate
 - [[t_CreateASAML2Upd1SSOConfigMultiSSO]] - official docs on installing the IdP certificate
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0690925 - Servicenow SAMLSSO integration with Miniorange Identity Provider (IdP)|Servicenow SAML/SSO integration with Miniorange Identity Provider (IdP)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538765 - Determining if ADFS is receiving a signed request| Determining if ADFS is receiving a signed request]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538768 - Determining if the properties from the source were copied over a target|Determining if the properties from the source were copied over a target]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538769 - Determining if SAML issues are occurring due to customer scripts no longer working after upgrade|Determining if SAML issues are occurring due to customer scripts no longer working after upgrade]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538770 - Determining if the SAML issue is the result of a user being locked out| Determining if the SAML issue is the result of a user being locked out]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538780 - Determining if the SAML issue is the result of the user having a duplicate record|Determining if the SAML issue is the result of the user having a duplicate record]]

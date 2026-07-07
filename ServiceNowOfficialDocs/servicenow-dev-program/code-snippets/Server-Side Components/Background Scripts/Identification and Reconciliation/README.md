@@ -1,3 +1,14 @@
+---
+title: "Identification and Reconciliation"
+aliases:
+  - Identification and Reconciliation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - identification-and-reconciliation
+  - background-scripts
+---
+
 Identification and Reconciliation rule is used to identify the true source of data inserted/updated
 into a table from different sources.
 
@@ -19,3 +30,12 @@ identification/reconciliation rule on the table[cmdb_ci_computer].
 
 The table and their fields can be changed as per the end user's requirement and this piece will help to
 maintain the integrity of CMDB and avoid duplicate records and maintain the true source of data.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

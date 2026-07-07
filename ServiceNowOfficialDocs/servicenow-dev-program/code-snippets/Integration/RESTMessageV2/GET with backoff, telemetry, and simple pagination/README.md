@@ -1,3 +1,14 @@
+---
+title: "GET with backoff, telemetry, and simple pagination"
+aliases:
+  - GET with backoff, telemetry, and simple pagination
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - get-with-backoff-telemetry-and-simple-pagination
+  - restmessagev2
+---
+
 # RESTMessageV2 GET with backoff, telemetry, and simple pagination
 
 ## What this solves
@@ -19,3 +30,12 @@ Script Include can be called from Scheduled Jobs, Flow Actions, Business Rules, 
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/app-store/dev_portal/API_reference/RESTMessageV2/reference/r_DirectRESTMessageV2Example.html
 - Inbound rate limiting and Retry-After header  
   https://www.servicenow.com/docs/bundle/zurich-api-reference/page/integrate/inbound-rest/concept/inbound-REST-API-rate-limiting.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_config|sys_rest_message_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/RESTMessageV2/sys_rest_message_fn_config|sys_rest_message_fn_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/API for Automatic Group creation/README|API for Automatic Group creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Aadhaar Verification/Readme|Aadhaar Verification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/Auth2 client credentials token cache with auto-refresh/README|Auth2 client credentials token cache with auto-refresh]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/RESTMessageV2/AzureDevOps/README|AzureDevOps]]

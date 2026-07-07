@@ -1,5 +1,5 @@
 ---
-title: "MSSQL  DB on windows pattern fails with the error \"Failed to find library by name: [sys_id_of_pattern]\""
+title: "MSSQL  DB on windows pattern fails with the error \"Failed to find library by name: [sys_id_of_pattern]\"
 aliases:
   - KB0716298
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "When trying to view a Request record, seeing the error 'The element type \"table\" must be terminated by the matching end-tag \"</table>\"'"
+title: "When trying to view a Request record, seeing the error 'The element type \"table\" must be terminated by the matching end-tag \"</table>\"
 aliases:
   - KB0998076
 tags:

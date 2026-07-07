@@ -1,3 +1,13 @@
+---
+title: "CMDB Configuration Items"
+aliases:
+  - CMDB Configuration Items
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cmdb-configuration-items
+  - training-data-preparer
+---
 
 # CMDB Configuration Items Training Data Quality Analyzer
 
@@ -29,3 +39,8 @@ This script analyzes the quality of CMDB Configuration Item (CI) data in Service
 3. **Data Quality Insights**: Helps identify imbalances, missing values, or underused states
 4. **Customizable Logic**: Easily extend to analyze other CMDB fields or add mapping for status codes
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Change Table/README|Change Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Incident Table/README|Incident Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Problem Table/README|Problem Table]]

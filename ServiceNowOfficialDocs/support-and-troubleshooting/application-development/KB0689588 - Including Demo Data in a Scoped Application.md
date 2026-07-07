@@ -48,3 +48,7 @@ See the [Create application files to include sample data](https://docs.serviceno
 - [[KB0695169 - Changes to a scoped application are not being applied when the update is installed]] — related scoped application packaging/update behavior
 - [[KB0813696 - When attempting to create an updateset in a scoped Application, it is getting created in the 'global' instead of the sco]] — another scoped application configuration pitfall
 - [[t_IncludeApplicationData]] — official docs on including demo data in scoped applications
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749222 - Scripted fields not filling in for non-admin Users for the scoped applications|Scripted fields not filling in for non-admin Users for the scoped applications]]

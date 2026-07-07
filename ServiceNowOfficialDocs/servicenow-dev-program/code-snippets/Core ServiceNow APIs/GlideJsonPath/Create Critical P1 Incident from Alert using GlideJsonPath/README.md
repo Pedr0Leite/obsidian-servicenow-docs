@@ -1,3 +1,14 @@
+---
+title: "Create Critical P1 Incident from Alert using GlideJsonPath"
+aliases:
+  - Create Critical P1 Incident from Alert using GlideJsonPath
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - create-critical-p1-incident-from-alert-using-glidejsonpath
+  - glidejsonpath
+---
+
 Create Critical P1 Incident from Alert This script provides the server-side logic for a Scripted REST API endpoint in ServiceNow. 
 It allows external monitoring tools to send alert data via a POST request, which is then used to automatically create a high-priority, P1 incident. 
 Overview The API endpoint performs the following actions: Receives a JSON Payload: Accepts a POST request containing a JSON payload with alert details (severity, description, source, CI). Parses Data: Uses the GlideJsonPath API to efficiently extract the necessary alert information from the JSON body. Validates Request: Ensures that the severity is CRITICAL and the description is present. It sends an appropriate error response for invalid or incomplete data. Creates Incident: If the data is valid, it creates a new incident record in the incident table. Sets Incident Fields: Automatically populates the incident's short_description, description, source, and sets the impact, urgency, and priority to 1 - High/Critical. Associates CI: If a ci_sys_id is provided in the payload, it links the incident to the correct Configuration Item. Logs Activity: Logs the successful creation of the incident in the system log for tracking and auditing purposes. Responds to Sender: Sends a JSON response back to the external system, confirming success or failure and providing the new incident's number and sys_id. Expected JSON payload The external system should send a POST request with a JSON body structured like this: json { "alert": { "severity": "CRITICAL", "description": "The primary database server is down. Users are unable to log in.", "source": "Dynatrace", "configuration_item": "DB_Server_01", "ci_sys_id": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6" } } Use code with caution.
@@ -15,3 +26,7 @@ Considerations
 
 Security: This API endpoint is a powerful integration point. 
 Ensure that it is properly secured and that only trusted sources are allowed to create incidents. Error Handling: The script includes robust error handling for common failures (missing data, insertion failure) but should be extended to handle specific use cases as needed. Testing: Thoroughly test the endpoint with a variety of payloads, including valid data, missing data, and invalid data, to ensure it behaves as expected.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideJsonPath/Basic-Example/README|Basic-Example]]

@@ -63,6 +63,9 @@ Re-running a completed folder is safe — files with `## Related` are automatica
 | `telecom-media-technology` | 207 | ✅ Done | 433 | 2026-06-30 |
 | `telecom-network-inventory` | 338 | ✅ Done | 997 | 2026-06-30 |
 | `telecom-service-ops` | 99 | ✅ Done | 69 | 2026-06-30 |
+| `support-and-troubleshooting` | 3,922 | ✅ Done (tag-based) | see below | 2026-07-06 |
+| `servicenow-dev-program` | 1,469 | ✅ Done (tag-based) | see below | 2026-07-06 |
+| `now-assist-ai` | 3 | ✅ Done (tag-based) | see below | 2026-07-06 |
 
 ## Batch Log
 
@@ -133,6 +136,12 @@ Re-running a completed folder is safe — files with `## Related` are automatica
 - `telecom-media-technology`: 135 files updated, 71 with 0 links, 1 skipped, 433 wikilinks (1.1s)
 - `telecom-network-inventory`: 288 files updated, 50 with 0 links, 997 wikilinks (2.3s)
 - `telecom-service-ops`: 37 files updated, 62 with 0 links, 69 wikilinks (0.5s)
+
+### Batch — 2026-07-06 (tag-based, `scripts/crosslink_support_devprogram.py`)
+- Different method from batches A–Z: frontmatter tag-overlap scoring instead of inline first-mention.
+- `support-and-troubleshooting` + `servicenow-dev-program` + `now-assist-ai`: 5,394 files scanned, 1,860 updated with `## Related Notes`, 9,463 wikilinks, 3,763 files had no tag overlap (0 links).
+- `now-assist-ai`'s 3 notes and `servicenow-dev-program`'s READMEs had no frontmatter; script injected aliases/tags from filename + folder path.
+- Idempotent: re-run produces 0 diffs.
 
 ## Notes
 

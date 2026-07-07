@@ -1,3 +1,14 @@
+---
+title: "Restart RITM Flow"
+aliases:
+  - Restart RITM Flow
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - restart-ritm-flow
+  - background-scripts
+---
+
 # Restart RITM Flow
 
 Restarts a Flow Designer flow for an individual RITM.
@@ -28,3 +39,12 @@ https://www.servicenow.com/community/user/viewprofilepage/user-id/80167
 
 * 0.1
     * Initial Release
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

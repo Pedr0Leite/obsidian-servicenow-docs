@@ -1,5 +1,5 @@
 ---
-title: "Multiple Node Events caused by discovery jobs \"Sensor error: Transaction cancelled: maximum execution time exceeded\""
+title: "Multiple Node Events caused by discovery jobs \"Sensor error: Transaction cancelled: maximum execution time exceeded\"
 aliases:
   - KB0782955
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Network Switch Pattern fails with the error \"Duplicate relationship type records exists with name [Master of::Stack Member of] in table [cmdb_rel_type] having sys_ids: \""
+title: "Network Switch Pattern fails with the error \"Duplicate relationship type records exists with name [Master of::Stack Member of] in table [cmdb_rel_type] having sys_ids: \"
 aliases:
   - KB0779394
 tags:

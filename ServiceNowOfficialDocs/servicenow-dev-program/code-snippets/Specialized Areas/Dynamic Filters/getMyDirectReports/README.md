@@ -1,3 +1,14 @@
+---
+title: "getMyDirectReports"
+aliases:
+  - getMyDirectReports
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - getmydirectreports
+  - dynamic-filters
+---
+
 # Summary #
 This looping script traverses the User table from a certain point to get either one level of employees or all employees in the hierarchy underneath the logged-on user. There are two functions:
 1. **One of My Direct Reports**: gets only users directly reporting to the logged on user

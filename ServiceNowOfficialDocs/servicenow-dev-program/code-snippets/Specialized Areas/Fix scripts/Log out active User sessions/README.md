@@ -1,3 +1,14 @@
+---
+title: "Log out active User sessions"
+aliases:
+  - Log out active User sessions
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - log-out-active-user-sessions
+  - fix-scripts
+---
+
 # Log out active User sessions across all nodes
 ## Usage
 Can be run as a fix or background script.
@@ -29,3 +40,12 @@ Due to the significant impact that logging out all users would have I've include
 ]
 ```
 [WhatIfArticle]: https://techcommunity.microsoft.com/t5/itops-talk-blog/powershell-basics-don-t-fear-hitting-enter-with-whatif/ba-p/353579 "PowerShell WhatIf"
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Adjust Variable Order on Catalog Item/README|Adjust Variable Order on Catalog Item]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]

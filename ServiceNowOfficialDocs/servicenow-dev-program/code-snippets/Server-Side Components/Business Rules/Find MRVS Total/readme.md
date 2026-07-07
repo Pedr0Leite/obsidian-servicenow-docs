@@ -1,3 +1,14 @@
+---
+title: "Find MRVS Total"
+aliases:
+  - Find MRVS Total
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - find-mrvs-total
+  - business-rules
+---
+
 # Server-Side MRVS Total Calculator
 This ServiceNow Business Rule automatically calculates the sum of a numeric field from all rows within a Multi-Row Variable Set (MRVS) after a catalog item has been submitted.
 It populates a separate variable with the calculated total, making the value easily accessible for flows, reports, and integrations without needing to parse the MRVS JSON every time. This script is designed to run on the back-end, ensuring the total is accurate and persistent.
@@ -30,3 +41,11 @@ You will need to set the following:
 - `MRVS_INTERNAL_NAME` to the internal name of your Multi-Row Variable Set
 - `MRVS_VARIABLE_NAME_TO_SUM` to the internal name of the numeric variable inside the MRVS that you want to sum.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

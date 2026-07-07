@@ -127,3 +127,8 @@ No. We are unable to see what integrations you may have or use.
 ## Related
 
 - [[KB0596772 - Customer VIP Migration FAQ]] - related IP/VIP migration FAQ
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0596772 - Customer VIP Migration FAQ|Customer VIP Migration FAQ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0727211 - FAQ Can an ACL work on the list view and be bypassed on the related list (or vice versa)|FAQ: Can an ACL work on the list view and be bypassed on the related list (or vice versa)?]]

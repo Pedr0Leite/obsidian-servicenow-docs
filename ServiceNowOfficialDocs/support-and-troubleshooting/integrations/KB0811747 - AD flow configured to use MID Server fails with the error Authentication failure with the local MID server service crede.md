@@ -1,5 +1,5 @@
 ---
-title: "AD flow configured to use MID Server fails with the error \"Authentication failure with the local MID server service credential\""
+title: "AD flow configured to use MID Server fails with the error \"Authentication failure with the local MID server service credential\"
 aliases:
   - KB0811747
 tags:

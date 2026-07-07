@@ -1,5 +1,5 @@
 ---
-title: "SCOM error: \"Previous SCOMClient instance is still running. Aborting this cycle SCOM Event connector failed\""
+title: "SCOM error: \"Previous SCOMClient instance is still running. Aborting this cycle SCOM Event connector failed\"
 aliases:
   - KB0687645
 tags:

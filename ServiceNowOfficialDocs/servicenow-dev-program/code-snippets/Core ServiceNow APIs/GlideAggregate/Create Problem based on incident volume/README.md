@@ -1,3 +1,14 @@
+---
+title: "Create Problem based on incident volume"
+aliases:
+  - Create Problem based on incident volume
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - create-problem-based-on-incident-volume
+  - glideaggregate
+---
+
 Key features
 Automatic problem creation: The script uses a GlideAggregate query to count the number of incidents opened for a specific CI.
 Time-based threshold: Problems are only created if more than five incidents are opened within a 60-minute window.
@@ -35,3 +46,12 @@ Time frame: Adjust the gs.minutesAgoStart(60) value to change the time window.
 Other conditions: If you need to check for specific incident statuses or categories, add more addQuery lines to the GlideAggregate call.
 Save the Business Rule. 
 Customization examples
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Get Incident Count by Priority/README|Get Incident Count by Priority]]

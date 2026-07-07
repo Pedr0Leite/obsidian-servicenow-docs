@@ -1,3 +1,14 @@
+---
+title: "Purchase Order Approval Summarizer"
+aliases:
+  - Purchase Order Approval Summarizer
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - purchase-order-approval-summarizer
+  - ui-macros
+---
+
 With the [Procurement plugin](https://docs.servicenow.com/bundle/rome-it-asset-management/page/product/procurement/concept/c_Procurement.html) activated, Asset managers can track vendor purchase orders for hardware and software assets. This application does not have approvals built-in by default, but that is a common addition.
 
 When these approvers are also fulfillers, they will likely be approving from the platform rather than via the portal. The included XML is to be used in a UI Macro to show critical Purchase Order data elements so that the approver can approve directly from the approval record without clicking into the PO.
@@ -9,3 +20,11 @@ You can also create summarizers for other tables in a similar fashion by creatin
 Below is an example of the Purchase Order details display on an approval recor. It is not the most beautiful, but follows the formatting from similar approval summarizers.
 
 ![Purchase Order Approval](approval_summarizer_proc_po.png)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Copy To Clipboard/README|Copy To Clipboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/FormBackground/readme|FormBackground]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/JSON Formatter and Viewer/README|JSON Formatter and Viewer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Show Open Incident of Caller/Readme|Show Open Incident of Caller]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Variable Copy Context Options/README|Variable Copy Context Options]]

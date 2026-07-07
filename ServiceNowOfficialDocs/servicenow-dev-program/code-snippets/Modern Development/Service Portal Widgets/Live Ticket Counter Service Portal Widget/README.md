@@ -1,3 +1,14 @@
+---
+title: "Live Ticket Counter Service Portal Widget"
+aliases:
+  - Live Ticket Counter Service Portal Widget
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - live-ticket-counter-service-portal-widget
+  - service-portal-widgets
+---
+
 # Live Ticket Counter - Service Portal Widget.
 
 ## Use Case
@@ -37,3 +48,12 @@ This Html , css , client , server code is compatible with all standard ServiceNo
 
 ## Files
 - `Live Ticket Counter.html`,`Live Ticket Counter .css`,`Server Script`,`Client Script`, — these are files.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

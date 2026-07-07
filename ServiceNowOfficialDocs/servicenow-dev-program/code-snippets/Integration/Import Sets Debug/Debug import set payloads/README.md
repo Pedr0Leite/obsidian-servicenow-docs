@@ -1,3 +1,14 @@
+---
+title: "Debug import set payloads"
+aliases:
+  - Debug import set payloads
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - debug-import-set-payloads
+  - import-sets-debug
+---
+
 # Debugging Import Sets & Transform Maps
 
 When you load data and execute the transform maps via the platform UI, it runs in the background which means it is not accessible to the Script Debugger.

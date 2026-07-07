@@ -1,5 +1,5 @@
 ---
-title: "Service Mapping: BSM stuck in \"Service update is in progress. The arrangement of CIs in the service may change. You can carry on working\""
+title: "Service Mapping: BSM stuck in \"Service update is in progress. The arrangement of CIs in the service may change. You can carry on working\"
 aliases:
   - KB0727914
 tags:

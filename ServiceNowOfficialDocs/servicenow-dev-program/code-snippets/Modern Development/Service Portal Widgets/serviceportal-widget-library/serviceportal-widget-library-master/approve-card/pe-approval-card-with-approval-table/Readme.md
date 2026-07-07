@@ -1,3 +1,14 @@
+---
+title: "pe-approval-card-with-approval-table"
+aliases:
+  - pe-approval-card-with-approval-table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-approval-card-with-approval-table
+  - approve-card
+---
+
 # Approval Card
 
 ## Description
@@ -53,3 +64,9 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$pe-brand-warning: #f0ad4e !default;`<br/>
 `$pe-brand-danger: #d9534f !default;`<br/>
 `$pe-brand-info: #5bc0de !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card-cloud-sprawl/Readme|pe-approval-card-cloud-sprawl]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approval-card/Readme|pe-approval-card]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/approve-card/pe-approve-reject-card-with-collapse/Readme|pe-approve-reject-card-with-collapse]]

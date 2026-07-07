@@ -1,3 +1,14 @@
+---
+title: "Nested WHERE orWHERE GlideQueries"
+aliases:
+  - Nested WHERE orWHERE GlideQueries
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - nested-where-orwhere-glidequeries
+  - glidequery
+---
+
 # WHERE Clauses with Nested GlideQueries
 
 Creating a query with multiple groupings of AND and OR statements would be impossible to decipher,
@@ -23,3 +34,12 @@ secondQuery = new GlideQuery('task')
 
 Instead, using the equivalent nested GlideQuery in the JavaScript file shows the proper way of nesting
 OR WHERE queries.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Basic Wrappers/README|Basic Wrappers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Conditional Field Selection/README|Conditional Field Selection]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Field Default/README|Field Default]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/FlatMap to Nest New Queries/README|FlatMap to Nest New Queries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get Delegates/README|Get Delegates]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get User's Roles from User Name/README|Get User's Roles from User Name]]

@@ -1,5 +1,5 @@
 ---
-title: "SLA Async Queue is not processing, and all sla_async_queue records look to have a \"SLA Async Job\" Column value as \"(empty)\""
+title: "SLA Async Queue is not processing, and all sla_async_queue records look to have a \"SLA Async Job\" Column value as \"(empty)\"
 aliases:
   - KB0953473
 tags:

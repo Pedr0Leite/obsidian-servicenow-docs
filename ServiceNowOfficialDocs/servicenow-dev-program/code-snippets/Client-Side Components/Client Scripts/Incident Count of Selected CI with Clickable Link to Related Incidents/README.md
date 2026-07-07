@@ -1,3 +1,14 @@
+---
+title: "Incident Count of Selected CI with Clickable Link to Related Incidents"
+aliases:
+  - Incident Count of Selected CI with Clickable Link to Related Incidents
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - incident-count-of-selected-ci-with-clickable-link-to-related-incidents
+  - client-scripts
+---
+
 # Incident Count of Selected Configuration Item with Info Message and Link to its Related Incident 
 
 Displays a message showing the count of open incidents associated with a selected **Configuration Item (CI)** whenever the **Configuration Item** field changes on the Incident form.
@@ -32,3 +43,12 @@ Displays a message showing the count of open incidents associated with a selecte
 ![CI_Incident_Message_Count_4](CI_Incident_Message_Count_4.png)
 
 ---
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

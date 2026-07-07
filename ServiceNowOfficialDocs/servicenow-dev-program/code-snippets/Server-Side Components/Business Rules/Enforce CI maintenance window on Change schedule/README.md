@@ -1,3 +1,14 @@
+---
+title: "Enforce CI maintenance window on Change schedule"
+aliases:
+  - Enforce CI maintenance window on Change schedule
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - enforce-ci-maintenance-window-on-change-schedule
+  - business-rules
+---
+
 # Enforce CI maintenance window on Change schedule
 
 ## What this solves
@@ -34,3 +45,12 @@ At the top of the script:
   https://www.servicenow.com/docs/bundle/zurich-it-service-management/page/product/change-management/concept/change-management-overview.html
 - Task CI relationship (`task_ci`)  
   https://www.servicenow.com/docs/bundle/zurich-servicenow-platform/page/product/configuration-management/reference/task-ci.html
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/ATF Duplicate Execution Order/README|ATF Duplicate Execution Order]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Abort Parent Incident Closure When Child is Open/README|Abort Parent Incident Closure When Child is Open]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add HR task for HR case/README|Add HR task for HR case]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add itil role to ootb user query to also see inactive users/README|Add itil role to ootb user query to also see inactive users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add notes on tag addition or removal/README|Add notes on tag addition or removal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/Add or remove a tag from the ticket whenever the comments are updated/README|Add or remove a tag from the ticket whenever the comments are updated]]

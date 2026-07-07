@@ -41,3 +41,12 @@ But to allow specific role users to have access (the ACL to be passed) we need t
 - [[KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow]] — background on how Admin Overrides is evaluated across the ACL chain
 - [[t_ActivateHighSecuritySettings]] — official docs on activating High-Security Settings
 - [[t_EvalAdmOverrideAccLevel]] — official docs on evaluating the admin override at the access level
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0816018 - Admin role does not pass an ACL when Admin Overrides is selected|Admin role does not pass an ACL when Admin Overrides is selected]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753001 - Some roles are not visible and cannot be exported from the [sys_user_role] list table|Some roles are not  visible and cannot be exported from the [sys_user_role] list table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0759218 - Certain fields are visible to non-admin users only when the fields not empty.|Certain fields are visible to non-admin users only when the fields not empty.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0785229 - Non Role user can open an incomplete incident from the Service Portal|Non Role user can open an incomplete incident from the Service Portal]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0541355 - How Access Control List (ACL) evaluation works in ServiceNow|How Access Control List (ACL) evaluation works in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0656366 - Relationship between Business Rules and Access Control Rules (ACLs)|Relationship between Business Rules and Access Control Rules (ACLs)]]

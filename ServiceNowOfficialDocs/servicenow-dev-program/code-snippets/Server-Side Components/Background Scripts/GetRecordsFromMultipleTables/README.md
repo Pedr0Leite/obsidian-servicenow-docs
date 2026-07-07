@@ -1,3 +1,14 @@
+---
+title: "GetRecordsFromMultipleTables"
+aliases:
+  - GetRecordsFromMultipleTables
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - getrecordsfrommultipletables
+  - background-scripts
+---
+
 A background script that retrieves record counts from multiple ServiceNow tables with date filtering, providing a comprehensive data audit report.
 
 ## What It Does
@@ -27,3 +38,12 @@ We've got an error for table: invalid_table_name
 - **Date filtering**: Modify `sys_updated_on<=javascript:gs.dateGenerate('YYYY-MM-DD','HH:mm:ss')` to change the cutoff date
 - **Custom table list**: Replace the `tablesList` array with your specific tables of interest
 - **Additional filters**: Add more encoded query conditions like `active=true` or specific field criteria
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

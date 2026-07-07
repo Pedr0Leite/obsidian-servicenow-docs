@@ -1,3 +1,13 @@
+---
+title: "Standard Ticket Page Enhanced Action Widget"
+aliases:
+  - Standard Ticket Page Enhanced Action Widget
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - standard-ticket-page-enhanced-action-widget
+  - service-portal-widgets
+---
 
 # Enhanced Action Widget for Standard Ticket Page
 
@@ -12,3 +22,12 @@ Then click on the Action Region tab, in the Action Widget field, add your new wi
 
 
 ![Image of Standard Ticket Configuration](./standard_ticket_config.png)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

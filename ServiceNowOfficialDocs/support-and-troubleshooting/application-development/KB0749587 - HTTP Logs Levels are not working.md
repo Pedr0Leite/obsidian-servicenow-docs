@@ -49,3 +49,10 @@ Set 'glide.outbound\_http\_log.override.level' to 'ALL'
 
 - [[KB0718589 - Why are my MID Server-related Jobs stuck and ECC Queue inputs still in Ready State]]
 - [[KB0748136 - Outbound REST or SOAP messages timeout after upgrade]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0694711 - Outbound REST Web Services RESTMessageV2 and SOAPMessageV2 execute() vs executeAsync()|Outbound REST Web Services RESTMessageV2 and SOAPMessageV2 execute() vs executeAsync()]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0726269 - Outbound Rest Message that uses a MID Server with the endpoint behind a proxy fails with error java.net.SocketTimeoutExc|Outbound Rest Message that uses a MID Server with the endpoint behind a proxy fails with error java.net.SocketTimeoutException: connect timed out]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745010 - How to send Outbound REST request with multipartform-data|How to send Outbound REST request with multipart/form-data]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748136 - Outbound REST or SOAP messages timeout after upgrade|Outbound REST or SOAP messages timeout after upgrade]]

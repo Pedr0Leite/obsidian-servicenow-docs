@@ -1,3 +1,14 @@
+---
+title: "Deactivate Inactive Users and Notify Managers"
+aliases:
+  - Deactivate Inactive Users and Notify Managers
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - deactivate-inactive-users-and-notify-managers
+  - scheduled-jobs
+---
+
 Scheduled Job: Deactivate Inactive Users and Notify Managers
 
 Overview
@@ -42,3 +53,12 @@ Description: “Triggered when a user is deactivated due to inactivity.”
 
 Name: Notify Manager on User Deactivation
 Event name: user.deactivation.notify_manager
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/API Token Expiry Warning/Readme|API Token Expiry Warning]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Approval Reminder/README|Approval Reminder]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto Disable account/Readme|Auto Disable account]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto close changes requests updated 30 days prior/README|Auto close changes requests updated 30 days prior]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto upgrade store applications/Readme|Auto upgrade store applications]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto-Assign Unassigned Incidents Older Than 30 Minutes/Readme|Auto-Assign Unassigned Incidents Older Than 30 Minutes]]

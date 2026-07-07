@@ -1,3 +1,14 @@
+---
+title: "Populate Glide List field"
+aliases:
+  - Populate Glide List field
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - populate-glide-list-field
+  - ui-pages
+---
+
 //The UI page includes a label prompting users to select an "SN Company," and utilizes the lightweight_glide_list2 macro to generate a dropdown list populated with active companies from the core_company table. The form also features "OK" and "Cancel" buttons in the modal footer, which trigger the onSubmit() and onCancel() functions, respectively, when clicked. This setup facilitates user interaction by enabling the selection of a company, which can be crucial for various processes within the ServiceNow platform.
 
 
@@ -56,3 +67,11 @@ Append Option to Select Element:
 selEl.appendChild(optEl);
 //Finally, the fully constructed option element is appended to the dropdown select element, making it visible in the user interface.
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Add Multiple Items to Order Guide/README|Add Multiple Items to Order Guide]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/BulkUpdate Worknotes/Readme|BulkUpdate Worknotes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Custom Alert using UI Page/README|Custom Alert using UI Page]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Dynamic program status overview/README|Dynamic program status overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/EDM DocUnifiedSearch/README|EDM DocUnifiedSearch]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Edit Last WorkNotes/README|Edit Last WorkNotes]]

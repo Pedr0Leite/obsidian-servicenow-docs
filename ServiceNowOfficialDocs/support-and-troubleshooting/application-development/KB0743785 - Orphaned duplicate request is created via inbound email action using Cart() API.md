@@ -60,3 +60,11 @@ This will be now seen in the Email Logs.
 - [[KB0727612 - Copy inbound email into the Work Notes or Additional Comments field of a target record]] - inbound email action scripting pattern
 - [[c_ServiceCatalogAPI]] - Service Catalog / Cart() scripting API reference
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727612 - Copy inbound email into the Work Notes or Additional Comments field of a target record|Copy inbound email into the Work Notes or Additional Comments field of a target record]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693393 - How to generate a token using sn_auth - oAuth API for Resource Owner Password Credentials grant type|How to generate a token using sn_auth - oAuth API  for Resource Owner Password Credentials grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0693900 - How to generate a token using sn_auth - oAuth API for Authorization grant type|How to generate a token using sn_auth - oAuth API  for Authorization grant type?]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0746144 - Users do not see ticket information after ordering a catalog item|Users do not see ticket information after ordering a catalog item]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0748114 - Users see a No Matches Found on catalog item variable|Users see a \"No Matches Found\" on catalog item variable]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0750886 - ACL script is failing at script include function call|ACL script is failing at script include function call]]

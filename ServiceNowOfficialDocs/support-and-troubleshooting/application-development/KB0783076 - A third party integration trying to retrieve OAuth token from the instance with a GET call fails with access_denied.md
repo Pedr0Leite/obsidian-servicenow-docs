@@ -1,5 +1,5 @@
 ---
-title: "A third party integration trying to retrieve OAuth token from the instance with a GET call fails with \"access_denied\""
+title: "A third party integration trying to retrieve OAuth token from the instance with a GET call fails with \"access_denied\"
 aliases:
   - KB0783076
 tags:

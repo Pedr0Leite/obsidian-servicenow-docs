@@ -1,5 +1,5 @@
 ---
-title: "Creating a new custom URL throws the error \"Unable to submit your new Custom URL request because another Custom URL request for your instance is still in progress.\""
+title: "Creating a new custom URL throws the error \"Unable to submit your new Custom URL request because another Custom URL request for your instance is still in progress.\"
 aliases:
   - KB0786440
 tags:

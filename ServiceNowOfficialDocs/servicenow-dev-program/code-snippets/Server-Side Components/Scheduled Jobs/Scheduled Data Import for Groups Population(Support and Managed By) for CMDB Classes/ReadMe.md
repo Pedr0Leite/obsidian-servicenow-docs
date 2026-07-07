@@ -1,3 +1,14 @@
+---
+title: "Scheduled Data Import for Groups Population(Support and Managed By) for CMDB Classes"
+aliases:
+  - Scheduled Data Import for Groups Population(Support and Managed By) for CMDB Classes
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - scheduled-data-import-for-groups-populationsupport-and-managed-by-for-cmdb-classes
+  - scheduled-jobs
+---
+
 This is a Post-Import Script designed for a Scheduled Import . Its purpose is to cleanly map and update the Support Group and Managed By Group fields on Configuration Items (CIs) after data has been loaded into the staging table.
 
 Script Functionality
@@ -16,3 +27,12 @@ The script iterates through the records of an Import Set and performs the follow
 2) This script populates the groups based on Group Name given in the spreadsheet(Make sure they are present in the instance and are following the appropriate naming convention)
 3) The script provided is a post script ,which executes after the data is imported.**
    
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/API Token Expiry Warning/Readme|API Token Expiry Warning]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Approval Reminder/README|Approval Reminder]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto Disable account/Readme|Auto Disable account]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto close changes requests updated 30 days prior/README|Auto close changes requests updated 30 days prior]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto upgrade store applications/Readme|Auto upgrade store applications]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Auto-Assign Unassigned Incidents Older Than 30 Minutes/Readme|Auto-Assign Unassigned Incidents Older Than 30 Minutes]]

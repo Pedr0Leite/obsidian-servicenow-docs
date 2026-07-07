@@ -1,5 +1,5 @@
 ---
-title: "SSO users fail to get redirected to the IDP : \"SSO Provider not found or inactive at user record\""
+title: "SSO users fail to get redirected to the IDP : \"SSO Provider not found or inactive at user record\"
 aliases:
   - KB0787991
 tags:

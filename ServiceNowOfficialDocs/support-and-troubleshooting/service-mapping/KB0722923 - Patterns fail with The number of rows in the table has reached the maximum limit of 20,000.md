@@ -1,5 +1,5 @@
 ---
-title: "Patterns fail with \"The number of rows in the table has reached the maximum limit of 20,000\""
+title: "Patterns fail with \"The number of rows in the table has reached the maximum limit of 20,000\"
 aliases:
   - KB0722923
 tags:

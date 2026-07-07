@@ -1,3 +1,14 @@
+---
+title: "Safe Bulk Update with Logging"
+aliases:
+  - Safe Bulk Update with Logging
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - safe-bulk-update-with-logging
+  - background-scripts
+---
+
 # Safe Bulk Record Update with Logging
 
 ## Overview
@@ -35,3 +46,11 @@ Efficiently update multiple records in batch with error handling, progress track
 3. Schedule for off-peak hours
 4. Logs will be available in System Logs
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

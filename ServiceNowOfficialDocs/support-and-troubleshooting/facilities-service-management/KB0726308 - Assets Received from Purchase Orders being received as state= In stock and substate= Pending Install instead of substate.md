@@ -1,5 +1,5 @@
 ---
-title: "Assets Received from Purchase Orders being received as state= \"In stock\" and substate= \"Pending Install\" instead of substate= \"Available\""
+title: "Assets Received from Purchase Orders being received as state= \"In stock\" and substate= \"Pending Install\" instead of substate= \"Available\"
 aliases:
   - KB0726308
 tags:

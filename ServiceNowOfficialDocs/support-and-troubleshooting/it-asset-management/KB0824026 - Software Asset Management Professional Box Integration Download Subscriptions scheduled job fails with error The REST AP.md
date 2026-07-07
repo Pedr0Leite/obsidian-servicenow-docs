@@ -1,5 +1,5 @@
 ---
-title: "Software Asset Management Professional Box Integration Download Subscriptions scheduled job fails with error \"The REST API call failed with status code: 403\""
+title: "Software Asset Management Professional Box Integration Download Subscriptions scheduled job fails with error \"The REST API call failed with status code: 403\"
 aliases:
   - KB0824026
 tags:

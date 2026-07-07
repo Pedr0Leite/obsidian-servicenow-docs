@@ -1,3 +1,14 @@
+---
+title: "Calendar widget"
+aliases:
+  - Calendar widget
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - calendar-widget
+  - service-portal-widgets
+---
+
 # Calendar Widget for ServiceNow Portal
 This widget creates a simple, interactive calendar for the ServiceNow portal, allowing users to navigate through months and view the current day highlighted. It displays the days of the month in a grid layout.
 
@@ -39,3 +50,12 @@ In the ServiceNow portal, add this widget to display an interactive calendar. Th
 ## Known Issues
 Initial Load: If dates do not display immediately, ensure the ng-init="loadCalendar()" directive is included in the main container.
 Date Accuracy: The calendar currently starts with today's date. If dates appear incorrect, check the $scope.loadCalendar() function for accurate month and day calculations.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Card Image Link/README|Card Image Link]]

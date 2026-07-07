@@ -1,3 +1,14 @@
+---
+title: "SimpleGlideAggregate"
+aliases:
+  - SimpleGlideAggregate
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - simpleglideaggregate
+  - glideaggregate
+---
+
 SimpleGlideAggregate Utility
 **Overview**
 SimpleGlideAggregate is a developer utility Script Include for ServiceNow that provides a simplified, chainable API around the native GlideAggregate class. It abstracts complexities of writing aggregation queries and returns results in an easy-to-use JavaScript object format.
@@ -38,3 +49,12 @@ Facilitate viewing aggregate results alongside individual records matching the s
         while (gr.next()) {
             gs.info('Number: ' + gr.getValue('number') + ', Priority: ' + gr.getValue('priority') + ', Updated: ' + gr.getValue('sys_updated_on'));
         }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count All Open Incidents Per Priority/readme|Count All Open Incidents Per Priority]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count Inactive Users with Active incidents/README|Count Inactive Users with Active incidents]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count incidents based on category/README|Count incidents based on category]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Count open Incidents per Priority and State using GlideAggregate/README|Count open Incidents per Priority and State using GlideAggregate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Create Problem based on incident volume/README|Create Problem based on incident volume]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAggregate/Find Oldest Open Incidents per Group/README|Find Oldest Open Incidents per Group]]

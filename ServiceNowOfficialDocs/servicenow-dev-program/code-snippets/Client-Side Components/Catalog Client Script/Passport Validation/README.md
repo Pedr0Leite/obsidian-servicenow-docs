@@ -1,3 +1,14 @@
+---
+title: "Passport Validation"
+aliases:
+  - Passport Validation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - passport-validation
+  - catalog-client-script
+---
+
 This OnChange Catalog Client Script is for validating passport number, date of issue, and date of expiry. 
 
 It follows the specified rules(As per indian passport):- 
@@ -19,3 +30,12 @@ Date of Expiry Calculation:
 - Prompts are displayed if necessary fields like date_of_issue or age are missing before attempting the expiry date calculation.
 
 This Client Script will ensure that the entered passport information and expiry date meet the requirements, providing a seamless and guided experience for the user.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

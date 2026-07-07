@@ -1,3 +1,14 @@
+---
+title: "Incident Sentiment Detector (Using Simple Word Matching, No AI)"
+aliases:
+  - Incident Sentiment Detector (Using Simple Word Matching, No AI)
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - incident-sentiment-detector-using-simple-word-matching-no-ai
+  - catalog-client-script
+---
+
 Incident Sentiment Detector (No AI, Pure JavaScript)
 
 A lightweight ServiceNow utility that detects sentiment (Positive / Negative / Neutral) of an Incident’s short description or comments using simple keyword matching — no AI APIs or external libraries required.
@@ -21,3 +32,12 @@ Name: u_sentiment
 Type: Choice
 
 Choices: Positive, Neutral, Negative
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Label For Attachment/README|Add Label For Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Add Rows in MRVS/README|Add Rows in MRVS]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto Save Draft Feature/README|Auto Save Draft Feature]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Auto-populate field from URL/README|Auto-populate field from URL]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autofilling the request details from previous request/Readme|Autofilling the request details from previous request]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Catalog Client Script/Autopopulate Department/README|Autopopulate Department]]

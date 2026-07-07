@@ -53,3 +53,11 @@ In order to resolve the issue and remove the changes from the Changed Files list
 - [[KB0695295 - Resolve The operation encountered an unexpected error when linking source control to a Git repository]]
 - [[KB0695169 - Changes to a scoped application are not being applied when the update is installed]]
 - [[KB0715422 - How to go back to using the application repository after commiting changes to an application via update set]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695169 - Changes to a scoped application are not being applied when the update is installed|Changes to a scoped application are not being applied when the update is installed]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695295 - Resolve The operation encountered an unexpected error when linking source control to a Git repository|Resolve \"The operation encountered an unexpected error\" when linking source control to a Git repository]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0715422 - How to go back to using the application repository after commiting changes to an application via update set|How to go back to using the application repository after commiting changes to an application via update set]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0687531 - Authorship of application was lost after clone|Authorship of application was lost after clone]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0720035 - Error calling Scoped Outbound REST message|Error calling Scoped Outbound REST message]]

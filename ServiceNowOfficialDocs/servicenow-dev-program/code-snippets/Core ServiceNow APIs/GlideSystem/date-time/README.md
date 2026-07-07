@@ -1,3 +1,14 @@
+---
+title: "date-time"
+aliases:
+  - date-time
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - date-time
+  - glidesystem
+---
+
 # GlideSystem date-time Methods
 
 ### beginningOfLastMonth
@@ -60,3 +71,12 @@
   * [setDisplayValueInternalWithAlternates code snippet](setDisplayValueInternalWithAlternates.js)
   * Description: Sets a date and time value using the internal format (yyyy-MM-dd HH:mm:ss) and the current user's time zone. This method attempts to parse incomplete date and time values.
   * [setDisplayValueInternalWithAlternates() API Doc](https://developer.servicenow.com/dev.do#!/reference/api/rome/server_legacy/c_GlideSystemAPI#r_GDT-setDispValInternalAlt_S?navFilter=setDisplayValueInternalWithAlternates)
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/Impersonate/README|Impersonate]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/Session/README|Session]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/Table/README|Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/Trigger Event/README|Trigger Event]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/User Display Name/README|User Display Name]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideSystem/User/README|User]]

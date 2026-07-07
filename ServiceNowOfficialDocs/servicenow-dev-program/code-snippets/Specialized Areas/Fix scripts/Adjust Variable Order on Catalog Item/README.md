@@ -1,3 +1,14 @@
+---
+title: "Adjust Variable Order on Catalog Item"
+aliases:
+  - Adjust Variable Order on Catalog Item
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - adjust-variable-order-on-catalog-item
+  - fix-scripts
+---
+
 # Adjust Variable Order on Catalog Item
 
 This Fix Script helps developers to automatically re-order all variables of a given Catalog Item or Variable Set.  
@@ -21,3 +32,11 @@ var step_size = 100; //provide the step size for the new order
 - Keep Catalog Items and Variable Sets clean and structured
 - Reduce efforts maintaining variable orders
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Fields On All List Views/README|Add Fields On All List Views]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add Variable set to multiple catalog items/README|Add Variable set to multiple catalog items]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Add bulk users to VTB/README|Add bulk users to VTB]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Anonymise Data/README|Anonymise Data]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Assign user list to a specific group/README|Assign user list to a specific group]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Fix scripts/Authenticate using ScriptedRESTAPI/README|Authenticate using ScriptedRESTAPI]]

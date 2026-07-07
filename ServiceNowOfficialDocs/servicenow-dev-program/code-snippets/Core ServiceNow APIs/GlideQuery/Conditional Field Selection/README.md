@@ -1,3 +1,14 @@
+---
+title: "Conditional Field Selection"
+aliases:
+  - Conditional Field Selection
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - conditional-field-selection
+  - glidequery
+---
+
 # Conditional Field Selection with GlideQuery
 
 This snippet demonstrates how to dynamically select different sets of fields based on conditions using GlideQuery. This pattern is useful when you need to optimize queries by selecting only the fields you actually need based on runtime conditions, or when building flexible APIs that return different data sets based on user permissions or preferences.
@@ -22,3 +33,12 @@ This snippet demonstrates how to dynamically select different sets of fields bas
 2. **Performance-optimized queries**: Conditional inclusion of expensive fields
 3. **Dynamic field arrays**: Building field lists programmatically
 4. **Chained conditional selection**: Multiple condition-based selections
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Basic Wrappers/README|Basic Wrappers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Field Default/README|Field Default]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/FlatMap to Nest New Queries/README|FlatMap to Nest New Queries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get Delegates/README|Get Delegates]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Get User's Roles from User Name/README|Get User's Roles from User Name]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideQuery/Nested WHERE orWHERE GlideQueries/README|Nested WHERE orWHERE GlideQueries]]

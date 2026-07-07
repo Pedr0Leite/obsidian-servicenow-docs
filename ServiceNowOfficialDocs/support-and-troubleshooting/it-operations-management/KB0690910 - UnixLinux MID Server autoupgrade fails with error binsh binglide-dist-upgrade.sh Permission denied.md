@@ -1,5 +1,5 @@
 ---
-title: "Unix/Linux MID Server autoupgrade fails with error \"/bin/sh: bin/glide-dist-upgrade.sh: Permission denied\""
+title: "Unix/Linux MID Server autoupgrade fails with error \"/bin/sh: bin/glide-dist-upgrade.sh: Permission denied\"
 aliases:
   - KB0690910
 tags:

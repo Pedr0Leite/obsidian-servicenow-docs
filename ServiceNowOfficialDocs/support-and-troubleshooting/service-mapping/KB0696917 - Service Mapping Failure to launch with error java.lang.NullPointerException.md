@@ -1,5 +1,5 @@
 ---
-title: "Service Mapping Failure to launch with error:  \"java.lang.NullPointerException\""
+title: "Service Mapping Failure to launch with error:  \"java.lang.NullPointerException\"
 aliases:
   - KB0696917
 tags:

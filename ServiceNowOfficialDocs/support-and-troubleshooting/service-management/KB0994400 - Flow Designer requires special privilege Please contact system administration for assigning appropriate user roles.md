@@ -1,5 +1,5 @@
 ---
-title: "Flow Designer requires special privilege\" Please contact system administration for assigning appropriate user roles\""
+title: "Flow Designer requires special privilege\" Please contact system administration for assigning appropriate user roles\"
 aliases:
   - KB0994400
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "HR Agent Workspace - HR Case SLA component says \"No data available\""
+title: "HR Agent Workspace - HR Case SLA component says \"No data available\"
 aliases:
   - KB0864591
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Targeted Communication error \"SMTPSender: no recipients, email send ignored\""
+title: "Targeted Communication error \"SMTPSender: no recipients, email send ignored\"
 aliases:
   - KB0860367
 tags:

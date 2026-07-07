@@ -67,3 +67,11 @@ To define an email notification:
 - [[KB0727617 - Access referenced fields in a notification record against the Approval table]] - building the approval notification body
 - [[send-notification-action]] - Flow Designer notification action reference
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727617 - Access referenced fields in a notification record against the Approval table|Access referenced fields in a notification record against the Approval table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0695387 - For users with the itil, catalog, or approval_admin role, when they attempt to access the My Approvals module, they get |For users with the itil, catalog, or approval_admin role, when they attempt to access the My Approvals module, they get message Security constraints prevent access to requested page]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0723056 - Approving requests through email notifications, Inbound actions, sysapproval_approvers and user table|Approving requests through email: notifications, Inbound actions, sysapproval_approvers and user table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745393 - Mailto links in Approval emails create blank emails in the Outlook app on Android devices|Mailto links in Approval emails create blank emails in the Outlook app on Android devices]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]

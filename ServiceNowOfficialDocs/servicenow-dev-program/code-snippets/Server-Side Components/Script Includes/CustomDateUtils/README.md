@@ -1,3 +1,14 @@
+---
+title: "CustomDateUtils"
+aliases:
+  - CustomDateUtils
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - customdateutils
+  - script-includes
+---
+
 # CustomDateUtils
 
 A collection of scripts related sorting of an array of dates.
@@ -55,3 +66,12 @@ The use of this function is to sort an array of GlideDate objects in Descending 
 `d5.setValue("2023-07-14");`
 
 `new CustomDateUtils().sortArrayOfDatesDesc([d1, d2, d3, d4, d5])`
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

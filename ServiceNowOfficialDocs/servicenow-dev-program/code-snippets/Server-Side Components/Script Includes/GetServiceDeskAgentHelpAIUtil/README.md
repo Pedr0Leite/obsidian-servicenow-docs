@@ -1,3 +1,14 @@
+---
+title: "GetServiceDeskAgentHelpAIUtil"
+aliases:
+  - GetServiceDeskAgentHelpAIUtil
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - getservicedeskagenthelpaiutil
+  - script-includes
+---
+
 GetServiceDeskAgentHelpAIUtil
 Overview
 This is a client-callable Script Include designed for the ServiceNow platform that integrates with an external Databricks AI endpoint. Its purpose is to assist Service Desk agents by providing AI-generated responses to user queries, which can be used to populate incident information or assist in troubleshooting.
@@ -66,3 +77,12 @@ Troubleshooting
 Check the Flow Execution: If the AI response is not received, check the Flow Designer execution logs to ensure global.genai_action is running successfully and the REST call to Databricks is returning a valid response.
 Review System Logs: Examine the System Logs (gs.info and gs.error messages) for debugging information related to the script's execution or potential errors from the Databricks API.
 Verify Databricks Credentials: Ensure that the credentials and configuration within the Flow Designer action for connecting to Databricks are correct.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

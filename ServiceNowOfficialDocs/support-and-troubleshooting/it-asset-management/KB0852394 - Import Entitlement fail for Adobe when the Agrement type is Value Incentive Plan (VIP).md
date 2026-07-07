@@ -1,5 +1,5 @@
 ---
-title: "Import Entitlement fail for Adobe when the Agrement type is \"Value Incentive Plan (VIP)\""
+title: "Import Entitlement fail for Adobe when the Agrement type is \"Value Incentive Plan (VIP)\"
 aliases:
   - KB0852394
 tags:

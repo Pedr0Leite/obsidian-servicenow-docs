@@ -1,5 +1,5 @@
 ---
-title: "Docusign integration functionality in the Software Asset Management Validate connection failure with error \"unauthorized_client\""
+title: "Docusign integration functionality in the Software Asset Management Validate connection failure with error \"unauthorized_client\"
 aliases:
   - KB2688435
 tags:

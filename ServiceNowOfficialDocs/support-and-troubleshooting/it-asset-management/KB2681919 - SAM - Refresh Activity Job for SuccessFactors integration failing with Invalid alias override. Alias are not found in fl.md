@@ -1,5 +1,5 @@
 ---
-title: "SAM - Refresh Activity *  Job for SuccessFactors integration failing with \"Invalid alias override. Alias are not found in flow successfactors_update_user_activity\""
+title: "SAM - Refresh Activity *  Job for SuccessFactors integration failing with \"Invalid alias override. Alias are not found in flow successfactors_update_user_activity\"
 aliases:
   - KB2681919
 tags:

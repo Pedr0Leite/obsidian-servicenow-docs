@@ -1,5 +1,5 @@
 ---
-title: "Pattern discovery error: \"all commands failed on host\" or \"all command implementations\""
+title: "Pattern discovery error: \"all commands failed on host\" or \"all command implementations\"
 aliases:
   - KB0656183
 tags:

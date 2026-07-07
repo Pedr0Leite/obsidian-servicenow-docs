@@ -56,3 +56,12 @@ Additional Documentation: Evaluate the admin override at the access level
 - [[KB0745206 - Developer tab is not displayed in System Settings for admin user]]
 - [[KB0743902 - Unable to view all sys_user_preferences records as an Admin, seeing security constraints message]]
 - [[t_EvalAdmOverrideAccLevel]] - official docs on evaluating admin override at the access level
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0728016 - A user with a specific role does not have access to a table even when an ACL grants that role the required access|A user with a specific role does not have access to a table even when an ACL grants that role the required access]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0745206 - Developer tab is not displayed in System Settings for admin user|Developer tab is not displayed in System Settings for admin user]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0695387 - For users with the itil, catalog, or approval_admin role, when they attempt to access the My Approvals module, they get |For users with the itil, catalog, or approval_admin role, when they attempt to access the My Approvals module, they get message Security constraints prevent access to requested page]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715790 - Users see an error message Record doesn't exist or ACL restricts the record retrieval when making changes to their Notif|Users see an error message \"Record doesn't exist or ACL restricts the record retrieval\" when making changes to their Notifications settings]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0717149 - Error message Record doesn't exist or ACL restricts the record retrieval appearing when ITIL users try to disallow notif|Error message \"Record doesn't exist or ACL restricts the record retrieval\" appearing when ITIL users try to disallow notifications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0727017 - Best Practices for Installing 'Explicit Roles' and 'High Security Settings' Plugins|Best Practices for Installing 'Explicit Roles' and 'High Security Settings' Plugins]]

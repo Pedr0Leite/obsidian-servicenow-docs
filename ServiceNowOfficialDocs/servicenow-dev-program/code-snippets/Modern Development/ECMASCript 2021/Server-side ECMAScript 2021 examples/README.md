@@ -1,3 +1,14 @@
+---
+title: "Server-side ECMAScript 2021 examples"
+aliases:
+  - Server-side ECMAScript 2021 examples
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - server-side-ecmascript-2021-examples
+  - ecmascript-2021
+---
+
 ## What?
 
 Prior to the Tokyo Release, ServiceNow's serverside JavaScript utilized ECMAScript 5. "ECMAScript" is basically the version of JavaScript. Newer versions have come out since then (7+ years ago!) and thus, we have been missing out on some helpful functionality.

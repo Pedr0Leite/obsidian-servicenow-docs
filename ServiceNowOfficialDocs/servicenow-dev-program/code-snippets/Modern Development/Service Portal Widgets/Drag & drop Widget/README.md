@@ -1,3 +1,14 @@
+---
+title: "Drag & drop Widget"
+aliases:
+  - Drag & drop Widget
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - drag--drop-widget
+  - service-portal-widgets
+---
+
 # Drag and Drop Widget
 
 ## Description
@@ -22,3 +33,12 @@ On this demo, it's just possible to drag and drop the items from "Side 1" to "Si
 ## Customization
 Considering to customize this widget in order to get full benefit from drag and drop in Service portal, it will take the potential to the next level:
 for example, it could be used for a to-do tasks list, to reorder items and cards, priorities objects and much more...
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

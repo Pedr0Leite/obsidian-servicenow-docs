@@ -1,3 +1,14 @@
+---
+title: "Convert Incident Records to JSON"
+aliases:
+  - Convert Incident Records to JSON
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - convert-incident-records-to-json
+  - background-scripts
+---
+
 # Active Incidents JSON Export – ServiceNow
 
 This repository contains **two approaches** to fetch active incidents from ServiceNow and convert them to JSON. Both use `GlideRecord` but differ in flexibility and readability.
@@ -98,3 +109,12 @@ gs.info("Here's your JSON for active incidents:\n" + jsonOutput);
 
 - **Simple Approach**: Best for quick tasks with fixed fields
 - **Flexible Approach**: Best for reusable scripts, handling dynamic tables, reference fields, and human-readable output
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

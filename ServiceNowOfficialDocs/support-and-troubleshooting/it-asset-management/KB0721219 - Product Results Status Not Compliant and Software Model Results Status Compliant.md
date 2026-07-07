@@ -1,5 +1,5 @@
 ---
-title: "Product Results Status \"Not Compliant\" and Software Model Results Status \"Compliant\""
+title: "Product Results Status \"Not Compliant\" and Software Model Results Status \"Compliant\"
 aliases:
   - KB0721219
 tags:

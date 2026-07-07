@@ -1,3 +1,14 @@
+---
+title: "Incident Table"
+aliases:
+  - Incident Table
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - incident-table
+  - similarity-calculator
+---
+
 # Similarity Calculator for ServiceNow Incidents
 
 ## Overview
@@ -30,3 +41,8 @@ This utility provides manual similarity scoring between ServiceNow incident reco
 - Adjust keyword extraction logic for your environment
 - Change scoring algorithm to use TF-IDF, cosine similarity, etc.
 - Filter by assignment group, category, or other fields
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Data Quality/Similarity Calculator/Change Table/README|Change Table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Predictive Intelligence/Training Data Preparer/Incident Table/README|Incident Table]]

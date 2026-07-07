@@ -1,5 +1,5 @@
 ---
-title: "Service Mapping Discovery does not complete, stuck on \"Discovery in Progress: Total ... Nodes\""
+title: "Service Mapping Discovery does not complete, stuck on \"Discovery in Progress: Total ... Nodes\"
 aliases:
   - KB0811753
 tags:

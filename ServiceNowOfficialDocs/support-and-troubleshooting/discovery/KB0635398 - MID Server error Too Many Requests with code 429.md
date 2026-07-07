@@ -1,5 +1,5 @@
 ---
-title: "MID Server error \"Too Many Requests with code: 429\""
+title: "MID Server error \"Too Many Requests with code: 429\"
 aliases:
   - KB0635398
 tags:

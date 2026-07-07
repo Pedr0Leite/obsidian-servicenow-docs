@@ -1,3 +1,14 @@
+---
+title: "Deactivate Inactive Users and Notify Managers"
+aliases:
+  - Deactivate Inactive Users and Notify Managers
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - deactivate-inactive-users-and-notify-managers
+  - script-actions
+---
+
 Script Action: Notify Manager on User Deactivation
 
 Overview
@@ -19,3 +30,9 @@ parm1 → user’s name
 parm2 → manager’s email
 GlideEmailOutbound is used to send emails programmatically without needing a Notification record.
 The message body is kept simple and readable, but can be formatted in HTML if needed.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Scheduled Jobs/Deactivate Inactive Users and Notify Managers/Readme|Deactivate Inactive Users and Notify Managers]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Actions/Attachment Downloads Logger/README|Attachment Downloads Logger]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Actions/Custom Table Helper/README|Custom Table Helper]]

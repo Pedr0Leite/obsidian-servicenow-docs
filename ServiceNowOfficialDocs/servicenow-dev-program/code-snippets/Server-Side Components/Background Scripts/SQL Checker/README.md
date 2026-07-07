@@ -1,3 +1,14 @@
+---
+title: "SQL Checker"
+aliases:
+  - SQL Checker
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sql-checker
+  - background-scripts
+---
+
 There is a simple way, how the generated SQL query can be checked, without activating the SQL Debugger feature in the navigator.
 
 Here you can see a small code snippet:
@@ -158,3 +169,12 @@ WHERE task0.`sys_class_name` = 'incident'
                          'ef4225a40a0a0b5700d0b8a790747812',
                          'a9e30c7dc61122760116894de7bcc7bd')
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

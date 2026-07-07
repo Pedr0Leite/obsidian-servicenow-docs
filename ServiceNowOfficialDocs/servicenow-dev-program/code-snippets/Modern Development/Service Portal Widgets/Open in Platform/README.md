@@ -1,3 +1,14 @@
+---
+title: "Open in Platform"
+aliases:
+  - Open in Platform
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - open-in-platform
+  - service-portal-widgets
+---
+
 **This is an enhancement to the current code**
 1. Added "open in Workspace" Button to open the record in workspace(defined in option schema), since it is gaining popularity now.
 2. Enhanced the visibility condition so that the button is only visible on pages having sys_id and table in url.
@@ -17,3 +28,12 @@
 }
 
 Widget will create a button that will only be visible to users with the itil role that will take them to the same record in platform. will work with the form and standard ticket pages (or anywhere with the table and sysId in the url.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

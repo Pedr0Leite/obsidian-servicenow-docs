@@ -1,5 +1,5 @@
 ---
-title: "Discovery warning \"IP Address in payload is null - payload:\"  from source \"Credential-less\""
+title: "Discovery warning \"IP Address in payload is null - payload:\"  from source \"Credential-less\"
 aliases:
   - KB0718535
 tags:

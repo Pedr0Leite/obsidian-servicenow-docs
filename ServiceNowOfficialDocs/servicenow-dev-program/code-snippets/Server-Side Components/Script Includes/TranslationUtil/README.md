@@ -1,3 +1,14 @@
+---
+title: "TranslationUtil"
+aliases:
+  - TranslationUtil
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - translationutil
+  - script-includes
+---
+
 Script include is  created as translationUtil for dynamic language translation.  for example english to French
 
 This script include for language translation will invoke flow designer action and sublfow to complete the real time language transaltion for instance suppose group table is updated with new group record having english as description text that can't be translated using OOTB translation tables in such scenario this UTIL will be a saviour
@@ -26,3 +37,12 @@ Flow actions / subflows for actual translation and detection (global.detect_lang
 Custom batching, size limits, and buffer logic to optimize translation requests and avoid API overflows.
 This SI will do the translation & detection of texts & give the translated data as JSON output
 HOPE THIS HELPS TO CLARIFY.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

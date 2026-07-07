@@ -1,5 +1,5 @@
 ---
-title: "Error thrown while attaching a new file in portal with error \"Condition: SampO365Admin.getProfileTypeFromAttachment(current.table_sys_id\""
+title: "Error thrown while attaching a new file in portal with error \"Condition: SampO365Admin.getProfileTypeFromAttachment(current.table_sys_id\"
 aliases:
   - KB2619778
 tags:

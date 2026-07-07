@@ -1,5 +1,5 @@
 ---
-title: "Windows OS - Servers pattern throws the error \"JAVASCRIPT_CODE_FAILURE: Caused by error in Ad hoc script 'EvalClosure-Insert System, OS and CPU data to cmdb_ci_win_server' at line 1\""
+title: "Windows OS - Servers pattern throws the error \"JAVASCRIPT_CODE_FAILURE: Caused by error in Ad hoc script 'EvalClosure-Insert System, OS and CPU data to cmdb_ci_win_server' at line 1\"
 aliases:
   - KB0746266
 tags:

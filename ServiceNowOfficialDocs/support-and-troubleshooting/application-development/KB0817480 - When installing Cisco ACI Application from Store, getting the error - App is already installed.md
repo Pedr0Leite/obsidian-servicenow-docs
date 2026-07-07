@@ -1,5 +1,5 @@
 ---
-title: "When installing \"Cisco ACI Application\" from Store, getting the error - \"App is already installed\""
+title: "When installing \"Cisco ACI Application\" from Store, getting the error - \"App is already installed\"
 aliases:
   - KB0817480
 tags:

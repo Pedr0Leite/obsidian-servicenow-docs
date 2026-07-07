@@ -1,5 +1,5 @@
 ---
-title: "After upgrading to Zurich, some of the SAM jobs are failing with an error \"ReferenceError: \"SamLicenseBroker\" is not defined\""
+title: "After upgrading to Zurich, some of the SAM jobs are failing with an error \"ReferenceError: \"SamLicenseBroker\" is not defined\"
 aliases:
   - KB2672822
 tags:

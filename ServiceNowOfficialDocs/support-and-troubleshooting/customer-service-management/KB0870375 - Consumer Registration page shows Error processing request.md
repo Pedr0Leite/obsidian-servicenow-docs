@@ -1,5 +1,5 @@
 ---
-title: "Consumer Registration page shows \"Error processing request\""
+title: "Consumer Registration page shows \"Error processing request\"
 aliases:
   - KB0870375
 tags:

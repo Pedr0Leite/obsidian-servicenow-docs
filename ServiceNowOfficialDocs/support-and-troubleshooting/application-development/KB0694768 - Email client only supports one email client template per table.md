@@ -50,3 +50,12 @@ Actual behavior: Even though template2 is specified to be opened (from the URL p
 - [[KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink]]
 - [[KB0695226 - Having a misplaced href tag prevents notifications from firing]]
 - [[KB0723056 - Approving requests through email notifications, Inbound actions, sysapproval_approvers and user table]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695226 - Having a misplaced href tag prevents notifications from firing|Having a misplaced href tag prevents notifications from firing]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0712569 - How to setup a SMS Email Notification in ServiceNow|How to setup a SMS Email Notification in ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink|Notification emails are not generated when the Message HTML field contains a hyperlink]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745393 - Mailto links in Approval emails create blank emails in the Outlook app on Android devices|Mailto links in Approval emails create blank emails in the Outlook app on Android devices]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]

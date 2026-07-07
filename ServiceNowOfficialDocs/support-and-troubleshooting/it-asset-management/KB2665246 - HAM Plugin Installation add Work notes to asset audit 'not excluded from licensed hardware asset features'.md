@@ -1,5 +1,5 @@
 ---
-title: "HAM Plugin Installation add Work notes to asset audit 'not excluded from licensed hardware asset features'"
+title: "HAM Plugin Installation add Work notes to asset audit 'not excluded from licensed hardware asset features"
 aliases:
   - KB2665246
 tags:

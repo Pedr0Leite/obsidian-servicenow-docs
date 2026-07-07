@@ -1,3 +1,14 @@
+---
+title: "Quick Notes"
+aliases:
+  - Quick Notes
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - quick-notes
+  - browser-bookmarklets
+---
+
 ## Quick Note
 
 A bookmarklet that opens a new browser tab with a blank editable page for quick notes. Copy and paste work with or without (right-click) formatting. Includes javascript string methods `'variable_name'.get()` to get the contents of the page into a variable and `variable_name.set()` to set the variable contents into another page. This allows for quick processing and output of the results.
@@ -21,3 +32,12 @@ To see the results, you can simply log the info to the console or you can post i
 
 The command below will open a new tab containing "THIS IS SOME TEXT"  
 > `t.toUpperCase().set();` 
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Copy URL to ServiceNow Journal/README|Copy URL to ServiceNow Journal]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create new update set/README|Create new update set]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Create story task/README|Create story task]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Highlight Mandatory fields on form/README|Highlight Mandatory fields on form]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Impersonation/README|Impersonation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Browser Bookmarklets/Load List with Query/readme|Load List with Query]]

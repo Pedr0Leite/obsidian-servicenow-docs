@@ -1,3 +1,14 @@
+---
+title: "CustomArrayUtils"
+aliases:
+  - CustomArrayUtils
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - customarrayutils
+  - script-includes
+---
+
 # CustomArrayUtils
 
 `CustomArrayUtils` is a utility class designed to provide various array manipulation functions. The class offers both ES5 and modern ES12 versions of each function. By default, the ES5 versions are used, but you can opt for the modern ES12 versions by initializing the class with the `useES12` parameter set to `true`.
@@ -83,3 +94,12 @@ Output: `Map { 3 => ['one', 'two'], 5 => ['three'] }`
 
 - Uses arrow functions for concise representation.
 - Utilizes modern array methods like `reduce`.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/README|Script Includes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Open Record in Alternate Instance/Script Includes/sys_script_include_config|sys_script_include_config]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/API Model Template for New Application/README|API Model Template for New Application]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add Business Days/README|Add Business Days]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Add and Remove Group Member/README|Add and Remove Group Member]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Script Includes/Advanced REST API Integration with Retry Logic/README|Advanced REST API Integration with Retry Logic]]

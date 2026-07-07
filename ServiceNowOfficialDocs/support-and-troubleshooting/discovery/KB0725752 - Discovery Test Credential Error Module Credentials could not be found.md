@@ -1,5 +1,5 @@
 ---
-title: "Discovery Test Credential Error \"Module Credentials could not be found\""
+title: "Discovery Test Credential Error \"Module Credentials could not be found\"
 aliases:
   - KB0725752
 tags:

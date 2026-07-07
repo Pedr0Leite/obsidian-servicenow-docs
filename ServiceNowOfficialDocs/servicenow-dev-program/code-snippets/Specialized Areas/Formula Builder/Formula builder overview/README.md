@@ -1,3 +1,14 @@
+---
+title: "Formula builder overview"
+aliases:
+  - Formula builder overview
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - formula-builder-overview
+  - formula-builder
+---
+
 ## Formula Builder at a glance
 
 Formula Builder provides a more Excel-like experience in creating calculated fields in Glide tables, *without JavaScript*.
@@ -112,3 +123,7 @@ At the time of this post being written:
 ## Formula Builder in Table Builder
 
 The same functionality can be utilized in Table Builder. For details, you can visit the [release notes](https://docs.servicenow.com/bundle/tokyo-application-development/page/administer/form-builder/task/add-formula-column-table-builder.html).
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Formula Builder/Get Age From Birthdate/README|Get Age From Birthdate]]

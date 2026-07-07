@@ -1,3 +1,14 @@
+---
+title: "Display base table for each field"
+aliases:
+  - Display base table for each field
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - display-base-table-for-each-field
+  - glideelement
+---
+
 # Display Base Table for Each Field
 
 This code snippet demonstrates how to identify the base table where each field originates from in ServiceNow's table inheritance hierarchy.
@@ -30,3 +41,9 @@ name            db_image
 - `getBaseTableName()` - Returns the name of the table where the field was originally defined
 - `GlideRecordUtil.getTables()` - Returns parent tables in the inheritance hierarchy
 - `GlideRecordUtil.getFields()` - Returns an array of all field names for a GlideRecord
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/Display available choices/README|Display available choices]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/Smart Field Validation and Dependent Field Derivation Using getError() and setError()/README|Smart Field Validation and Dependent Field Derivation Using getError() and setError()]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideElement/getDependent/README|getDependent]]

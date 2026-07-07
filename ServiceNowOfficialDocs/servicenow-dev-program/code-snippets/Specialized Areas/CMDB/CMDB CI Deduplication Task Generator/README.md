@@ -1,3 +1,14 @@
+---
+title: "CMDB CI Deduplication Task Generator"
+aliases:
+  - CMDB CI Deduplication Task Generator
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - cmdb-ci-deduplication-task-generator
+  - cmdb
+---
+
 # CI Deduplication Task Generator
 
 This repository contains a ServiceNow customization that enables users to create De-Duplicate Tasks for selected Configuration Items (CIs) directly from a list view using a UI Action.
@@ -20,3 +31,12 @@ This script requires the `global.CMDBDuplicateTaskUtils` Script Include to be ac
 ### Configuration & Use
 
 Creation of UI Action and asking confirmation of selected Records from List View by using GlideAjax
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Dynamic Status Update Function/README|CMDB Dynamic Status Update Function]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Get CI Relationships/README|CMDB Get CI Relationships]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Health Check/README|CMDB Health Check]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Utility Scripts/ReadME|CMDB Utility Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB Utility Scripts/softwareCreationREADME|softwareCreationREADME]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/CMDB/CMDB record count/README|CMDB record count]]

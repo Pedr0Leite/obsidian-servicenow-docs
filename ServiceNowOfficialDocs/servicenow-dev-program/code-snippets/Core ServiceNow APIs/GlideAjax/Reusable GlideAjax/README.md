@@ -1,3 +1,14 @@
+---
+title: "Reusable GlideAjax"
+aliases:
+  - Reusable GlideAjax
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - reusable-glideajax
+  - glideajax
+---
+
 Reusable GlideAjax Example
 When you need a client side script to contact the server and return few values from a table record matching your query. You can use this reusable GlideAjax code.
 
@@ -21,3 +32,12 @@ function onChange(control, oldValue, newValue, isLoading) {
         g_form.setValue('phone', answer.phone);
     }
 }
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/AjaxAsyncOnSubmit/README|AjaxAsyncOnSubmit]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Check Weekend - Client Side/README|Check Weekend - Client Side]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/EfficientGlideRecord (Client-side)/README|EfficientGlideRecord (Client-side)]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Fetch Multiple Values in GlideAjax without JSON/README|Fetch Multiple Values in GlideAjax without JSON]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Get Field Values/README|Get Field Values]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideAjax/Get choices from Decision Table/README|Get choices from Decision Table]]

@@ -1,5 +1,5 @@
 ---
-title: "Unable to get SCOM Event Collector to connect to SCOM server. There is a connection error message as follows  \"The client and server cannot communicate, because they do not possess a common algorithm\""
+title: "Unable to get SCOM Event Collector to connect to SCOM server. There is a connection error message as follows  \"The client and server cannot communicate, because they do not possess a common algorithm\"
 aliases:
   - KB0694651
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Convert UTC Time To Local Time"
+aliases:
+  - Convert UTC Time To Local Time
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - convert-utc-time-to-local-time
+  - glidedatetime
+---
+
 ## Overview
 This script converts a UTC date/time field in ServiceNow to the local time of the user that the script runs under using GlideDateTime.
 This distinction is important in certain contexts, such as asynchronous business rules, scheduled jobs, or background scripts, where the executing user may differ from the record owner.
@@ -19,3 +30,12 @@ In asynchronous operations (background scripts, scheduled jobs, async business r
 
 ## Reference
 https://developer.servicenow.com/dev.do#!/reference/api/zurich/server_legacy/c_GlideDateTimeAPI
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/AddDays/README|AddDays]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Business time utilities (add, diff, next open, in schedule)/README|Business time utilities (add, diff, next open, in schedule)]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Calculate Due date using user defined schedules/README|Calculate Due date using user defined schedules]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Check if today is weekend/README|Check if today is weekend]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/Convert date format/README|Convert date format]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Core ServiceNow APIs/GlideDateTime/ConvertTicksToGlideDateTime/README|ConvertTicksToGlideDateTime]]

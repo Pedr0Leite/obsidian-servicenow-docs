@@ -1,3 +1,14 @@
+---
+title: "Check all mandatory fields using mandatoryCheck()"
+aliases:
+  - Check all mandatory fields using mandatoryCheck()
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - check-all-mandatory-fields-using-mandatorycheck
+  - client-scripts
+---
+
 # Mandatory Field Check on Form Change
 
 This client script demonstrates how to use `g_form.mandatoryCheck()` to validate whether all mandatory fields on a form are filled.
@@ -15,3 +26,12 @@ This approach improves user experience by clearly indicating which fields requir
 
 **Example execution**
 <img width="1029" height="495" alt="image" src="https://github.com/user-attachments/assets/b8384507-4292-41f4-9155-9be10195493e" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort action when description is empty/ReadMe|Abort action when description is empty]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Abort direct incident closure without Resolve State/readme|Abort direct incident closure without Resolve State]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Field Decoration/README|Add Field Decoration]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Add Image to Field Based on Company/README|Add Image to Field Based on Company]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Adding Placeholder on Resolution Notes/README|Adding Placeholder on Resolution Notes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/Client Scripts/Auto Update Priority based on Impact and Urgency/readme|Auto Update Priority based on Impact and Urgency]]

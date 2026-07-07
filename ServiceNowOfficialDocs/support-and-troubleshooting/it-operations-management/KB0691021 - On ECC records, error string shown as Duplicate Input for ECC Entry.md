@@ -1,5 +1,5 @@
 ---
-title: "On ECC records, error string shown as  \"Duplicate Input for ECC Entry\""
+title: "On ECC records, error string shown as  \"Duplicate Input for ECC Entry\"
 aliases:
   - KB0691021
 tags:

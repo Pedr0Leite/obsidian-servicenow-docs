@@ -1,5 +1,5 @@
 ---
-title: "[SAMP] License Type \"Microsoft-core based\""
+title: "[SAMP] License Type \"Microsoft-core based\"
 aliases:
   - KB0824138
 tags:

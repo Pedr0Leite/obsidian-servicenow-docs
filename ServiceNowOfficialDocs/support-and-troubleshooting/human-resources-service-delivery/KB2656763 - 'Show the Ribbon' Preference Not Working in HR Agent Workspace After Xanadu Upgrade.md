@@ -1,5 +1,5 @@
 ---
-title: "'Show the Ribbon' Preference Not Working in HR Agent Workspace After Xanadu Upgrade"
+title: "Show the Ribbon' Preference Not Working in HR Agent Workspace After Xanadu Upgrade"
 aliases:
   - KB2656763
 tags:

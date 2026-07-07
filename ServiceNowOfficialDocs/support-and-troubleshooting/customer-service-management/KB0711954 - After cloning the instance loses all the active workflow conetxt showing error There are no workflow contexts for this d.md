@@ -1,5 +1,5 @@
 ---
-title: "After cloning the instance loses all the active workflow conetxt showing error \"There are no workflow contexts for this document\""
+title: "After cloning the instance loses all the active workflow conetxt showing error \"There are no workflow contexts for this document\"
 aliases:
   - KB0711954
 tags:

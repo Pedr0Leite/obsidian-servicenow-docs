@@ -1,5 +1,5 @@
 ---
-title: "Lifecycle Event Approval Activity Is in Error State — \"Unable to launch activity: Unsupported activity type\""
+title: "Lifecycle Event Approval Activity Is in Error State — \"Unable to launch activity: Unsupported activity type\"
 aliases:
   - KB2783428
 tags:

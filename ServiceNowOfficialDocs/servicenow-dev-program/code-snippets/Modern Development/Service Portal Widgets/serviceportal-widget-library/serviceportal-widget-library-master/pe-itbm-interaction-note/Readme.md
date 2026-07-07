@@ -1,3 +1,14 @@
+---
+title: "pe-itbm-interaction-note"
+aliases:
+  - pe-itbm-interaction-note
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-itbm-interaction-note
+  - serviceportal-widget-library-master
+---
+
 # Interaction Note Form (ITBM Experience)
 
 ## Description
@@ -61,3 +72,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$inf-black: #000000 !default;`<br/>
 `$inf-white: #ffffff !default;`<br/>
 `$inf-green: #57B957 !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

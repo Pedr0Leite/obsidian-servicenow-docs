@@ -1,5 +1,5 @@
 ---
-title: "CMDB identification error: Missing required attribute: 'attribute_name'"
+title: "CMDB identification error: Missing required attribute: 'attribute_name"
 aliases:
   - KB0623724
 tags:

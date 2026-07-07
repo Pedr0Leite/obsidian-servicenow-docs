@@ -1,5 +1,5 @@
 ---
-title: "'snc_internal' role is not added to users although CSM plugin and Explicit roles plugin are activated"
+title: "snc_internal' role is not added to users although CSM plugin and Explicit roles plugin are activated"
 aliases:
   - KB0779846
 tags:

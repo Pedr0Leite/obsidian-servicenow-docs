@@ -1,3 +1,14 @@
+---
+title: "Send Email On Form Incident"
+aliases:
+  - Send Email On Form Incident
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - send-email-on-form-incident
+  - ui-pages
+---
+
 Send Email On Form for every Record
 
 Script Type: UI Action, Table: incident, Form button: True, Client: True, Show update: True, OnClick: functionName()
@@ -37,3 +48,12 @@ Once the Send button has been triggered this will call the Processing Script whe
 
 
 <img width="808" height="278" alt="Email Preview" src="https://github.com/user-attachments/assets/75d4c1ca-36e8-4e01-8d37-6f1fad0ecfc1" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Add Multiple Items to Order Guide/README|Add Multiple Items to Order Guide]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/BulkUpdate Worknotes/Readme|BulkUpdate Worknotes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Custom Alert using UI Page/README|Custom Alert using UI Page]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Dynamic program status overview/README|Dynamic program status overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/EDM DocUnifiedSearch/README|EDM DocUnifiedSearch]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Edit Last WorkNotes/README|Edit Last WorkNotes]]

@@ -1,5 +1,5 @@
 ---
-title: "Running a pattern extension is returning \"Test failed: Make sure the steps are compatible with the current attributes and variables values\""
+title: "Running a pattern extension is returning \"Test failed: Make sure the steps are compatible with the current attributes and variables values\"
 aliases:
   - KB0723732
 tags:

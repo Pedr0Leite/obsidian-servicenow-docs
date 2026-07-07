@@ -1,5 +1,5 @@
 ---
-title: "Identification error \"Identity Rule for table [cmdb_ci_table_name] missing Lookup Rule for class [table_name]\""
+title: "Identification error \"Identity Rule for table [cmdb_ci_table_name] missing Lookup Rule for class [table_name]\"
 aliases:
   - KB0786444
 tags:

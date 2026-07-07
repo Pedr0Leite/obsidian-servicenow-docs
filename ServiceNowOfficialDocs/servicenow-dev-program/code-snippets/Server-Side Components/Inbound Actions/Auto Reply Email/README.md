@@ -1,3 +1,14 @@
+---
+title: "Auto Reply Email"
+aliases:
+  - Auto Reply Email
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - auto-reply-email
+  - inbound-actions
+---
+
 There are use cases where it has been requested to setup an "auto reply" type process within ServiceNow
 
 To accomplish this, you'll need to do 3 steps:
@@ -12,3 +23,12 @@ To accomplish this, you'll need to do 3 steps:
 3) Create or edit an inbound action record to house the script within the code.js file from this code-snippet folder
 
 Additional things to keep in mind is that this setup is recommended for an already established process/inbound action, so you can simply take the script from code.js and add it to your current script at the point where you'd like the email sent. If this is for a new inbound action, select the table that matches the table you set on the notification. You'll want to ensure that the "Execution order" field within the inbound action is set low enough number that this process will not be blocked by other inbound action that was evaluated before it and has its "Stop processing" checkbox set to true. For the inbound action you've created, also ensure the "Stop processing" checkbox is not checked if you require additional inbound actions to evaluate the inbound email and complete other actions.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Advanced Scripts/README|Advanced Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Incident Creation from Case Email/README|Auto Incident Creation from Case Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Automate creation of incidents through inbound actions/README|Automate creation of incidents through inbound actions]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Duplicate Incident Detection and Creation/README|Duplicate Incident Detection and Creation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Email Text as Attachment/README|Email Text as Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Inbound Email Action to Create User and Assign Groups/Readme|Inbound Email Action to Create User and Assign Groups]]

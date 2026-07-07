@@ -1,3 +1,14 @@
+---
+title: "validate-data-field"
+aliases:
+  - validate-data-field
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - validate-data-field
+  - service-portal
+---
+
 # Validating a data field in a Service Portal
 
 Use Case: When submitting a Record Producer, a date field can’t be in the past. How to accomplish this?
@@ -36,3 +47,12 @@ Applies to: A Catalog Item
 UI Type: Mobile / Service Portal
 Type: onChange
 Variable name: project_deadline
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]

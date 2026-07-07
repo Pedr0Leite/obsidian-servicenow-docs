@@ -1,3 +1,14 @@
+---
+title: "ExecuteWorkOnMidServer"
+aliases:
+  - ExecuteWorkOnMidServer
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - executeworkonmidserver
+  - server-side
+---
+
 The snippet can be used to dynamically execute any work on the mid server. You could run any commands on a server, powershell scripts, LDAP queries and other functions depending on the output probes which are supported by ServiceNow. You need to be aware of the ECC queue output and input structure used by ServiceNow to issue these commands. To get these formats, you could execute the same functionality and monitor the ECC queue for its structure. 
 
 Sample Usage.
@@ -17,3 +28,12 @@ gs.sleep(5000);
 var xmlResponse = fetchResponseFromMid(outputId);
 //gs.print(xmlResponse);
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CallScriptIncludeWithParameters/README|CallScriptIncludeWithParameters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CheckTableExtension/README|CheckTableExtension]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Admin Users/README|Create Admin Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Create Tiny Url with API's/README|Create Tiny Url with API's]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/CreateUpdateCIThroughIRE/README|CreateUpdateCIThroughIRE]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Server Side/Custom Relationship/README|Custom Relationship]]

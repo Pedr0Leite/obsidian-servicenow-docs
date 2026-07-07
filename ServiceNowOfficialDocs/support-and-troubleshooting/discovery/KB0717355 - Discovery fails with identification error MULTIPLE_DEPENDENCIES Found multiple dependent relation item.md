@@ -1,5 +1,5 @@
 ---
-title: "Discovery fails with identification error \"MULTIPLE_DEPENDENCIES Found multiple dependent relation item\""
+title: "Discovery fails with identification error \"MULTIPLE_DEPENDENCIES Found multiple dependent relation item\"
 aliases:
   - KB0717355
 tags:

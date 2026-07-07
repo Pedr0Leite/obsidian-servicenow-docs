@@ -1,5 +1,5 @@
 ---
-title: "Unable to upload MIB file in \"SNMP MIBs\""
+title: "Unable to upload MIB file in \"SNMP MIBs\"
 aliases:
   - KB0716585
 tags:

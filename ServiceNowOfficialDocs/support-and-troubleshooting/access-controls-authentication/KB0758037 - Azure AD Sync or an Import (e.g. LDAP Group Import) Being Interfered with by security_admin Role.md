@@ -138,3 +138,12 @@ Reference: [https://docs.servicenow.com/csh?topicname=security-admin-role.html&v
 - [[KB0753001 - Some roles are not  visible and cannot be exported from the [sys_user_role] list table]] — same London-release sys_user_role read ACL change
 - [[KB0610548 - Default admin account missing security_admin role]] — another security_admin role edge case
 - [[security-admin-role]] — official docs on the security_admin elevated role
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753001 - Some roles are not visible and cannot be exported from the [sys_user_role] list table|Some roles are not  visible and cannot be exported from the [sys_user_role] list table]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/ModelManufacture.README|ModelManufacture.README]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/README|Import sets overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/Import sets overview/TriggerDataSource.README|TriggerDataSource.README]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Integration/Import Sets/debug/README|debug]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0538787 - Determining if SAML or LDAP is being used in the instance|Determining if SAML or LDAP is being used in the instance]]

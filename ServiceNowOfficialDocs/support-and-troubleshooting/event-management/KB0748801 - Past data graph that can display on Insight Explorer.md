@@ -1,5 +1,5 @@
 ---
-title: "Past data graph that can display on \"Insight Explorer\""
+title: "Past data graph that can display on \"Insight Explorer\"
 aliases:
   - KB0748801
 tags:

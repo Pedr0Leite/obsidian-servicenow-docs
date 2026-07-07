@@ -1,3 +1,14 @@
+---
+title: "Exclude Email Reply Comment Notifications by Group"
+aliases:
+  - Exclude Email Reply Comment Notifications by Group
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - exclude-email-reply-comment-notifications-by-group
+  - advanced-conditions
+---
+
 # Exclude Email Replies from Comment Notifications based on Group Membership
 
 ### This is an advanced condition script for new comment notifications that will exclude new comments that are email replies for specific groups.  
@@ -15,3 +26,7 @@ Specify the group name such as Service Desk, Network Team, or CAB Approvers etc 
 ```js
 if (groupMember.isMemberOf('Special Group')) { //check if membership is true
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Advanced Conditions/Group Approval Check/README|Group Approval Check]]

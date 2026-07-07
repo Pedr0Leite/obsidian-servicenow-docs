@@ -49,3 +49,11 @@ The ACL record for the target table, operation save\_as\_template, does not have
 - [[KB0696894 - Field actions field is not displaying all available fields to select when incident table is selected as Target table for]] - same symptom, different target table
 - [[KB0727612 - Copy inbound email into the Work Notes or Additional Comments field of a target record]] - inbound email action scripting
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0725108 - Facilities Management Nonexistent users replying to emails is not working|Facilities Management: Nonexistent users replying to emails is not working]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0753001 - Some roles are not visible and cannot be exported from the [sys_user_role] list table|Some roles are not  visible and cannot be exported from the [sys_user_role] list table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0782082 - When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a f|When 'Admin Overrides' is unchecked and the requirement is to allow a specific roled users (but not admin) to access a field, need to make to use of ACL script.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0816018 - Admin role does not pass an ACL when Admin Overrides is selected|Admin role does not pass an ACL when Admin Overrides is selected]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0696894 - Field actions field is not displaying all available fields to select when incident table is selected as Target table for|Field actions field is not displaying all available fields to select when incident table is selected as Target table for Inbound Email Actions]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727612 - Copy inbound email into the Work Notes or Additional Comments field of a target record|Copy inbound email into the Work Notes or Additional Comments field of a target record]]

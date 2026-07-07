@@ -1,3 +1,14 @@
+---
+title: "Add KB Article Link Dynamic Email Script to Notification"
+aliases:
+  - Add KB Article Link Dynamic Email Script to Notification
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - add-kb-article-link-dynamic-email-script-to-notification
+  - notifications
+---
+
 📘 README — KB Article Link Email Script for Notification
 ✅ Overview
 
@@ -76,3 +87,12 @@ The screenshot you shared displays:
 ✅ Metadata such as short description & requested by
 ✅ Buttons for Article Approval / Rejection
 ✅ HTML formatted clean layout for readability
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Conditional Trigger/README|Conditional Trigger]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Modern Email Layout Designs/Readme|Modern Email Layout Designs]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Notify Users on Specific Date/README|Notify Users on Specific Date]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715790 - Users see an error message Record doesn't exist or ACL restricts the record retrieval when making changes to their Notif|Users see an error message \"Record doesn't exist or ACL restricts the record retrieval\" when making changes to their Notifications settings]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0717149 - Error message Record doesn't exist or ACL restricts the record retrieval appearing when ITIL users try to disallow notif|Error message \"Record doesn't exist or ACL restricts the record retrieval\" appearing when ITIL users try to disallow notifications]]

@@ -1,5 +1,5 @@
 ---
-title: "Migrating the Alert Action Rules to Alert Management by default sets Multiple alert rules to \"Search for additional rules\""
+title: "Migrating the Alert Action Rules to Alert Management by default sets Multiple alert rules to \"Search for additional rules\"
 aliases:
   - KB0719418
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Share reports with users and groups"
+aliases:
+  - Share reports with users and groups
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - share-reports-with-users-and-groups
+  - ui-pages
+---
+
 **Usecase:**
 Currenlty there's no OOB feature to share the all the reports from the particular dashboard with the user or group at a time. Also, sharing the dashboard with the user/group doesnot share the corresponding reports with them automatically.
 In order to do that, admin or report owner should open each report and share them individually.
@@ -15,3 +26,11 @@ https://www.servicenow.com/community/performance-analytics-blog/view-reports-on-
 
 This UI action is visible on the dashboard properties page (image attached)
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Add Multiple Items to Order Guide/README|Add Multiple Items to Order Guide]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/BulkUpdate Worknotes/Readme|BulkUpdate Worknotes]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Custom Alert using UI Page/README|Custom Alert using UI Page]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Dynamic program status overview/README|Dynamic program status overview]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/EDM DocUnifiedSearch/README|EDM DocUnifiedSearch]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Pages/Edit Last WorkNotes/README|Edit Last WorkNotes]]

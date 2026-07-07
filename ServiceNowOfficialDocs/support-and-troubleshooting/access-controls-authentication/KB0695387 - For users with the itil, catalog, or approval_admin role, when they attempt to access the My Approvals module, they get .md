@@ -67,3 +67,12 @@ The out-of-box table-level read ACL for sysapproval\_approver may have been deac
 - [[KB0728016 - A user with a specific role does not have access to a table even when an ACL grants that role the required access]]
 - [[access-control-rules]] - official docs on ACL rule evaluation
 - [[c_ApprovalEngines]] - official docs on approval engine configuration
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0713543 - Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)|Admins have limited access to modules, tables, etc. (even though the ACLs are set in place, they fail)]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0715790 - Users see an error message Record doesn't exist or ACL restricts the record retrieval when making changes to their Notif|Users see an error message \"Record doesn't exist or ACL restricts the record retrieval\" when making changes to their Notifications settings]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0717149 - Error message Record doesn't exist or ACL restricts the record retrieval appearing when ITIL users try to disallow notif|Error message \"Record doesn't exist or ACL restricts the record retrieval\" appearing when ITIL users try to disallow notifications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0728016 - A user with a specific role does not have access to a table even when an ACL grants that role the required access|A user with a specific role does not have access to a table even when an ACL grants that role the required access]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0743902 - Unable to view all sys_user_preferences records as an Admin, seeing security constraints message|Unable to view all sys_user_preferences records as an Admin, seeing security constraints message]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0749174 - Customization considerations for Access Controls (ACLs)|Customization considerations for Access Controls (ACLs)]]

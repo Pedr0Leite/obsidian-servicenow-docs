@@ -125,3 +125,12 @@ For more reliable and future-proof SMS delivery, it is recommended to use _Notif
 - [[KB0694768 - Email client only supports one email client template per table]]
 - [[KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink]]
 - [[KB0722504 - Using ServiceNow blackhole or dummy email addresses]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0694768 - Email client only supports one email client template per table|Email client only supports one email client template per table]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0695226 - Having a misplaced href tag prevents notifications from firing|Having a misplaced href tag prevents notifications from firing]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0716520 - Notification emails are not generated when the Message HTML field contains a hyperlink|Notification emails are not generated when the Message HTML field contains a hyperlink]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/notifications/pe-bootstrap-notify/README|pe-bootstrap-notify]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Add KB Article Link Dynamic Email Script to Notification/readme|Add KB Article Link Dynamic Email Script to Notification]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/Notifications/Conditional Trigger/README|Conditional Trigger]]

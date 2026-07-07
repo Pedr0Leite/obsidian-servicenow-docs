@@ -1,3 +1,14 @@
+---
+title: "pe-horizontal-scroll-menu"
+aliases:
+  - pe-horizontal-scroll-menu
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - pe-horizontal-scroll-menu
+  - serviceportal-widget-library-master
+---
+
 # Tabs Selector
 
 ## Description
@@ -51,3 +62,12 @@ _CSS/SASS variables are given default values that can be overridden with theming
 `$pe-tabs-selector-bg-active-color: #4d4d4d !default;`<br/>
 `$pe-tabs-selector-text-color: #9c9c9c !default;`<br/>
 `$pe-tabs-selector-text-active-color: #fff !default;`<br/>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/README|serviceportal-widget-library-master]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/CONTRIBUTING|Widget Contribution]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/docs/help|help]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-app-analytics/README|pe-app-analytics]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-list/README|pe-appointment-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/serviceportal-widget-library/serviceportal-widget-library-master/pe-appointment-scheduler/README|pe-appointment-scheduler]]

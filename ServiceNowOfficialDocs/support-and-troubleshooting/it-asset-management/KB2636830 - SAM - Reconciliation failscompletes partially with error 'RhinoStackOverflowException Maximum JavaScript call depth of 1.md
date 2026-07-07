@@ -1,5 +1,5 @@
 ---
-title: "SAM - Reconciliation fails/completes partially with error : 'RhinoStackOverflowException: Maximum JavaScript call depth of 1000 exceeded''"
+title: "SAM - Reconciliation fails/completes partially with error : 'RhinoStackOverflowException: Maximum JavaScript call depth of 1000 exceeded"
 aliases:
   - KB2636830
 tags:

@@ -1,3 +1,14 @@
+---
+title: "Attachment Size Audit"
+aliases:
+  - Attachment Size Audit
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - attachment-size-audit
+  - background-scripts
+---
+
 # Attachment Size Audit
 
 A ServiceNow background script that analyzes your instance's attachment storage and identifies which tables consume the most space and locate oversized files.
@@ -103,3 +114,12 @@ Masthan Sharif Shaik ( <a href="https://www.linkedin.com/in/nowsharif/" target="
 ## Version History:
 * 0.1
     * Initial Release
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

@@ -1,3 +1,14 @@
+---
+title: "Prevent unnecessary notifications from being sent out"
+aliases:
+  - Prevent unnecessary notifications from being sent out
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - prevent-unnecessary-notifications-from-being-sent-out
+  - background-scripts
+---
+
 Created a background script to prevent unnecessary notifications from being sent out. 
 It helps in managing the volume of emails being sent so that we do not send the notifications even by mistake. 
 This script is mostly used in dev or uat to avoid any notifications being sent from lower instances.
@@ -13,3 +24,12 @@ Post query we are setting as below:
 After setting the fields we are updating the records.
 
 Please be cautious while using the script in Production environment.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

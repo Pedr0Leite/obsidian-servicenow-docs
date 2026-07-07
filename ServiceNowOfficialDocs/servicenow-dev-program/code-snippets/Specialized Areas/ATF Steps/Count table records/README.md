@@ -1,3 +1,14 @@
+---
+title: "Count table records"
+aliases:
+  - Count table records
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - count-table-records
+  - atf-steps
+---
+
 Use Case: Find the Total Number of Records in a Table Using the ATF Step "Run Server Side Script"
 
 Using existing ATF steps (without scripting), it is very difficult to find the record count of a table.
@@ -12,3 +23,7 @@ Go to the Test Steps related list and click Add Test Step.
 Navigate to Server and choose Run Server Side Script.
 Add the script (the script is in the script.js file).
 Save the test and run it to see the results.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Specialized Areas/ATF Steps/Validate RITM Due Date/README|Validate RITM Due Date]]

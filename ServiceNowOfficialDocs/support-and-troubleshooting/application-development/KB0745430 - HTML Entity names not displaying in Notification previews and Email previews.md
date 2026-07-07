@@ -41,3 +41,12 @@ The issue can be resolved by using hex codes in the mail script instead of the s
 - [[KB0747524 - Email Preview looks different than in Outlook, Gmail or other Mail Application]]
 - [[KB0746264 - Emails are not formatted correctly in Outlook or older email applications]]
 - [[KB0748592 - HTML Tags are included in email body]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0747524 - Email Preview looks different than in Outlook, Gmail or other Mail Application|Email Preview looks different than in Outlook, Gmail or other Mail Application]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0746264 - Emails are not formatted correctly in Outlook or older email applications|Emails are not formatted correctly in Outlook or older email applications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748592 - HTML Tags are included in email body|HTML Tags are included in email body]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0727884 - How to fix HTML tags appearing in sent email notifications|How to fix HTML tags appearing in sent email notifications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0745172 - Identify the source of emails sent from ServiceNow|Identify the source of emails sent from ServiceNow]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0750361 - How to verify inclusion of Outlook actionable messages in email notifications|How to verify inclusion of Outlook actionable messages in email notifications]]

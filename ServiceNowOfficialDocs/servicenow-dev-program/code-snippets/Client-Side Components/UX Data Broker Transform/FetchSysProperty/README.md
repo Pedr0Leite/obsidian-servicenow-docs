@@ -1,3 +1,14 @@
+---
+title: "FetchSysProperty"
+aliases:
+  - FetchSysProperty
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - fetchsysproperty
+  - ux-data-broker-transform
+---
+
 Once this code snippet is added in a new transform data broker in sys_ux_data_broker_transform table, this will start showing up in UIB data resources. 
 Once the data resource is added to the page of any experience, the user only needs to input the property_name field and rest will be take care of. 
 Just a note that in the data broker record properties field, please add below json object:
@@ -8,3 +19,8 @@ Just a note that in the data broker record properties field, please add below js
 "mandatory": true, 
 "defaultValue": "", 
 "description": "System property name" } ]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/create-update-user-preference/README|create-update-user-preference]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UX Data Broker Transform/starter-template/README|starter-template]]

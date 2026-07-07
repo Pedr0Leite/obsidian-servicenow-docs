@@ -1,3 +1,14 @@
+---
+title: "Custom Table Usage"
+aliases:
+  - Custom Table Usage
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - custom-table-usage
+  - background-scripts
+---
+
 # Custom Table Usage Count
 
 This script provides a way of counting where any custom tables (u_) are used in the instance.
@@ -52,3 +63,12 @@ const USAGE_COUNT_CONFIG = [
     { "table": "sys_script_include", "field": "script", "title": "Script Include", 'query': 'CONTAINS'}
 ];
 ```
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

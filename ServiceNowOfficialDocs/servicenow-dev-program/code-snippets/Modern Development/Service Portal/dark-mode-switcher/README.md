@@ -1,3 +1,14 @@
+---
+title: "dark-mode-switcher"
+aliases:
+  - dark-mode-switcher
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - dark-mode-switcher
+  - service-portal
+---
+
 # Dark mode switcher ☀️/🌑
 
 This is a simple demonstration of achieving a dark mode switcher for Employee Center portal. The switcher itself allows user to quickly toggle between multiple color modes:
@@ -36,3 +47,11 @@ The following angular providers need to be created and attached to the `Employee
 
 [EC Dark Mode](dark_mode.scss) - put this into your theme as a CSS Include
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-record-picker/README|sn-record-picker]]

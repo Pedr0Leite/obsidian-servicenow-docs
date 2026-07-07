@@ -71,3 +71,12 @@ The properties glide.http.outbound.max\_timeout and glide.http.outbound.max\_tim
 - [[KB0749587 - HTTP Logs Levels are not working]]
 - [[c_OutboundRESTWebService|Outbound REST Web Service]]
 - [[c_OutboundSOAPWebService|Outbound SOAP Web Service]]
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0691976 - The users with SOAP role not able to view the incident table data even though the ACLs return true.|The users with SOAP role not able to view the incident table data even though the ACLs return true.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0694711 - Outbound REST Web Services RESTMessageV2 and SOAPMessageV2 execute() vs executeAsync()|Outbound REST Web Services RESTMessageV2 and SOAPMessageV2 execute() vs executeAsync()]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0718496 - Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance|Outbound REST Webservice call with a large JSON Payload in the response body is not processed by the instance]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0720035 - Error calling Scoped Outbound REST message|Error calling Scoped Outbound REST message]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0748481 - How to use custom WSDL for Inbound SOAP requests to ServiceNow.|How to use custom WSDL for Inbound SOAP requests to ServiceNow.]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/application-development/KB0749537 - Inbound SOAP API connection returns 302 error|Inbound SOAP API connection returns 302 error]]

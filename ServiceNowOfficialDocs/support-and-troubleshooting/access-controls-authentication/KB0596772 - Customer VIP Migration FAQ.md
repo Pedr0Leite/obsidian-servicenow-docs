@@ -78,3 +78,8 @@ No. We are unable to see what integrations you may have or use.
 ## Related
 
 - [[KB0623078 - Data Center Migration | Customer FAQ]] - related IP/data-center migration FAQ
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0623078 - Data Center Migration Customer FAQ|Data Center Migration | Customer FAQ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0727211 - FAQ Can an ACL work on the list view and be bypassed on the related list (or vice versa)|FAQ: Can an ACL work on the list view and be bypassed on the related list (or vice versa)?]]

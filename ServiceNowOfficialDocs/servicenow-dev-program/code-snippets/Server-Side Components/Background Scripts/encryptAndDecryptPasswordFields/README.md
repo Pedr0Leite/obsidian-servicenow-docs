@@ -1,3 +1,14 @@
+---
+title: "encryptAndDecryptPasswordFields"
+aliases:
+  - encryptAndDecryptPasswordFields
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - encryptanddecryptpasswordfields
+  - background-scripts
+---
+
 Generally when you want to encrypt or decrypt any Non-password fields earlier we have Glide Encrypter API methods for encryption and decryption. 
 The GlideEncrypter API uses 3DES encryption standard with NIST 800-131 A Rev2 has recommended against using to encrypt data after 2023. 
 ServiceNow offers alternative cryptographic (Key Management Framwork) solutions to the GlideEncrypter API. 
@@ -9,3 +20,12 @@ These are the sample scripts I ran in my PDI: For Non-password fields. I used AE
 To test the scripts you need to create Cryptographic module and generate the key. 
 
 "global.vamsi_glideencrypter" is my cryptographic module name.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

@@ -1,3 +1,14 @@
+---
+title: "Duplicate Finder"
+aliases:
+  - Duplicate Finder
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - duplicate-finder
+  - background-scripts
+---
+
 # ServiceNow Duplicate Record Finder
 A simple server-side script for ServiceNow that finds and reports on duplicate values for any field on any table. It uses an efficient `GlideAggregate` query.
 ## Find Duplicates by Single Field - `findDuplicatesBySingleField.js`
@@ -49,3 +60,11 @@ var fieldNames = ['name', 'model_number', 'manufacturer'];
 ### Sample output
 <img width="518" height="483" alt="image" src="https://github.com/user-attachments/assets/b5508bd8-4a3d-4478-95bd-fc6f770d4de2" />
 
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

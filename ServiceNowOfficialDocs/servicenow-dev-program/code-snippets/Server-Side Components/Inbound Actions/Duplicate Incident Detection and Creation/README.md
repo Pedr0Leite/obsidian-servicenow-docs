@@ -1,3 +1,14 @@
+---
+title: "Duplicate Incident Detection and Creation"
+aliases:
+  - Duplicate Incident Detection and Creation
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - duplicate-incident-detection-and-creation
+  - inbound-actions
+---
+
 **Duplicate Incident Detection and Creation**
 
 **Description**
@@ -21,3 +32,12 @@ When multiple users report the same issue via email, this automation prevents du
    - Aborts creation of a new incident.  
 3. If no match is found:
    - Creates a new incident using the email subject as the short description and the email body as the description.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Advanced Scripts/README|Advanced Scripts]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Incident Creation from Case Email/README|Auto Incident Creation from Case Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Auto Reply Email/README|Auto Reply Email]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Automate creation of incidents through inbound actions/README|Automate creation of incidents through inbound actions]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Email Text as Attachment/README|Email Text as Attachment]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Inbound Actions/Inbound Email Action to Create User and Assign Groups/Readme|Inbound Email Action to Create User and Assign Groups]]

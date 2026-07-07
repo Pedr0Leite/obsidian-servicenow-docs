@@ -1,5 +1,5 @@
 ---
-title: "How to change the stats.do Tag \"DEMO Server\""
+title: "How to change the stats.do Tag \"DEMO Server\"
 aliases:
   - KB0634930
 tags:

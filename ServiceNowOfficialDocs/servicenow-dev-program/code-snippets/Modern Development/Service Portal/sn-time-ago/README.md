@@ -1,3 +1,14 @@
+---
+title: "sn-time-ago"
+aliases:
+  - sn-time-ago
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - sn-time-ago
+  - service-portal
+---
+
 # sn-time-ago
 
 `sn-time-ago` is a usefull directive that allows you to present the datetime fields in a localized relative date/time formatting. It automatically chooses the right units (seconds, minutes, days, month etc.) to format a time interval.
@@ -57,3 +68,12 @@ The following list display UI messages that allows you to further improve/modify
 ### Localization demo widget
 
 In order to test all available variations of time ago, you can easily do that by importing the provided [demo widget](sp_widget_sn_timeago_demo.xml) and putting it on some demo page.
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Active Tickets Dashboard/README|Active Tickets Dashboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/Search Sources/README|Search Sources]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/dark-mode-switcher/README|dark-mode-switcher]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/instance-badge/README|instance-badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-avatar/README|sn-avatar]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal/sn-choice-list/README|sn-choice-list]]

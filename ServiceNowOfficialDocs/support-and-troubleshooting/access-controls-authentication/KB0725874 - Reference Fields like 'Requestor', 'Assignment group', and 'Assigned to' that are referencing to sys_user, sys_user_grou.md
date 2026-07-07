@@ -43,3 +43,12 @@ Create the necessary Read/Write ACLs on Group(sys\_user\_group) and User(sys\_us
 - [[KB0720034 - Non-role (ESS) users are not able to see group (sys_user_group) records]]
 - [[KB0746724 - Reference field is hidden from layout]]
 - [[access-control-rules]] - official docs on ACL rule evaluation
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0720034 - Non-role (ESS) users are not able to see group (sys_user_group) records|Non-role (ESS) users are not able to see group (sys_user_group) records]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0720507 - Caller and Assigned to fields are missing on forms for tables extended from Task|Caller and Assigned to fields are missing on forms for tables extended from Task]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0688916 - When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form|When Vendor Core plugin is installed, unable to view assigned_to and caller_id fields on the incident form]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0717149 - Error message Record doesn't exist or ACL restricts the record retrieval appearing when ITIL users try to disallow notif|Error message \"Record doesn't exist or ACL restricts the record retrieval\" appearing when ITIL users try to disallow notifications]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0746724 - Reference field is hidden from layout|Reference field is hidden from layout ]]
+- [[ServiceNowOfficialDocs/support-and-troubleshooting/access-controls-authentication/KB0748114 - Users see a No Matches Found on catalog item variable|Users see a \"No Matches Found\" on catalog item variable]]

@@ -1,3 +1,14 @@
+---
+title: "Populate Due Date based on Priority"
+aliases:
+  - Populate Due Date based on Priority
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - populate-due-date-based-on-priority
+  - ui-actions
+---
+
 **Calculate the due date based on the Priority**
 
 Script Type: UI Action, Table: incident, Form button: True, Show update: True, Condition: (current.due_date == '' && current.priority != '5'), OnClick: functionName()
@@ -45,3 +56,12 @@ Output
 <img width="828" height="356" alt="Priority 1" src="https://github.com/user-attachments/assets/7f4049b6-294e-4064-bab1-e2d1ab938bfd" />
 <img width="817" height="416" alt="Priority 2" src="https://github.com/user-attachments/assets/37f0cffd-f05c-4f4d-bf35-36090f02ee3b" />
 <img width="815" height="334" alt="Priority 4" src="https://github.com/user-attachments/assets/0ab4ab27-4726-4ea7-b99e-7e35f9b0f4c7" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Loggedin user as Incident assigned to/ReadMe|Add Loggedin user as Incident assigned to]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add Show Workflow Related link/README|Add Show Workflow Related link]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Add collapsible element in knowledge article/README|Add collapsible element in knowledge article]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Call Subflow/README|Call Subflow]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/CallingPopUpBoxInListView/README|CallingPopUpBoxInListView]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Actions/Cancel Flow Executions/README|Cancel Flow Executions]]

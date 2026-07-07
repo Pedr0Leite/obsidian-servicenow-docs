@@ -1,5 +1,5 @@
 ---
-title: "Edge Proxy restart error:  \"java.lang.RuntimeException: Unable to obtain DB_ID\"   and message  \"The MySQL server is running with the --read-only option\""
+title: "Edge Proxy restart error:  \"java.lang.RuntimeException: Unable to obtain DB_ID\"   and message  \"The MySQL server is running with the --read-only option\"
 aliases:
   - KB0813616
 tags:

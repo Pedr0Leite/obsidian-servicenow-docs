@@ -1,3 +1,14 @@
+---
+title: "Show Open Incident of Caller"
+aliases:
+  - Show Open Incident of Caller
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - show-open-incident-of-caller
+  - ui-macros
+---
+
 Show Open Incident of caller
 
 Script Type: UI Macro
@@ -19,3 +30,11 @@ UI Macro in Incident Form near the Caller Field
 
 Result:
 <img width="865" height="409" alt="UIMacro Result" src="https://github.com/user-attachments/assets/5412b29b-e96b-4455-a3e0-5552c9680600" />
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Copy To Clipboard/README|Copy To Clipboard]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/FormBackground/readme|FormBackground]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/JSON Formatter and Viewer/README|JSON Formatter and Viewer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Purchase Order Approval Summarizer/README|Purchase Order Approval Summarizer]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Client-Side Components/UI Macros/Variable Copy Context Options/README|Variable Copy Context Options]]

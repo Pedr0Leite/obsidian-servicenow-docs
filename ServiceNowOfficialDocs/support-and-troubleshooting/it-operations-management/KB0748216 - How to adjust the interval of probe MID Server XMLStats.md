@@ -1,5 +1,5 @@
 ---
-title: "How to adjust the interval of probe \"MID Server XMLStats\""
+title: "How to adjust the interval of probe \"MID Server XMLStats\"
 aliases:
   - KB0748216
 tags:

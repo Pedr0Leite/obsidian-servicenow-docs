@@ -1,3 +1,14 @@
+---
+title: "Generate QrCode"
+aliases:
+  - Generate QrCode
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - generate-qrcode
+  - service-portal-widgets
+---
+
 # Generate QRCode on Service Portal
 This example widget is a quick demonstration of what can be create a QRCode on portal
 
@@ -51,3 +62,12 @@ This example widget is a quick demonstration of what can be create a QRCode on p
     qrcode.makeCode("http://naver.com"); // make another code.  
     ```
 # Oficial qrcodejs docs and lib https://www.npmjs.com/package/qrcodejs
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Accordion Widget/README|Accordion Widget]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/AngularJS Directives and Filters/README|AngularJS Directives and Filters]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Animated Notification Badge/README|Animated Notification Badge]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/ApplyCSSDynamically/README|ApplyCSSDynamically]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Batman Animation/README|Batman Animation]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Modern Development/Service Portal Widgets/Calendar widget/README|Calendar widget]]

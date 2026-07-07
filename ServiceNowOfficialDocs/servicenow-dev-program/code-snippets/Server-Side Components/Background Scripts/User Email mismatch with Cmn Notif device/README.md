@@ -1,3 +1,14 @@
+---
+title: "User Email mismatch with Cmn Notif device"
+aliases:
+  - User Email mismatch with Cmn Notif device
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - user-email-mismatch-with-cmn-notif-device
+  - background-scripts
+---
+
 # Email Mismatch Checker
 
 ## Description
@@ -23,3 +34,12 @@ Then it verifies if a matching user exists in the `sys_user` table with the same
 
 Logs the number of mismatches and details like:
 Mismatch: Device=<device_name>, Device Email=<email_address>
+
+## Related Notes
+
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/ACL Audit Utility/README|ACL Audit Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Access Analysis Utility/README|Access Analysis Utility]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Bookmarks - ITIL Users/README|Add Bookmarks - ITIL Users]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Comments/README|Add Comments]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add No Audit Attribute To Multiple Dictionary Entries/README|Add No Audit Attribute To Multiple Dictionary Entries]]
+- [[ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Background Scripts/Add Standard Change Model/README|Add Standard Change Model]]

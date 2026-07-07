@@ -1,3 +1,14 @@
+---
+title: "JSX Cheat Sheet"
+aliases:
+  - JSX Cheat Sheet
+tags:
+  - servicenow-dev-program
+  - code-snippet
+  - jsx-cheat-sheet
+  - now-experience
+---
+
 # JSX cheat sheet
 
 ## Setting the **`class`** attribute
