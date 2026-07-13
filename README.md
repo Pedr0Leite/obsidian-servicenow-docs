@@ -41,8 +41,126 @@ obsidian-servicenow-docs/
 ├── chats/                        # Imported Claude conversations
 │   └── code/                     # Exported Claude Code sessions
 │
+├── wiki/                         # LLM Wiki layer (see below) — index.md, log.md, entities/, concepts/, syntheses/, queries/
+│
+├── raw/inbox/                    # Landing zone for new sources awaiting wiki ingest
+│
 └── scripts/                      # One-off maintenance scripts (tagging, cross-linking)
 ```
+
+## LLM Wiki
+
+This vault runs the [Karpathy LLM Wiki pattern](https://github.com/karpathy): instead of an LLM re-deriving synthesis from raw docs on every question, a persistent `wiki/` layer accumulates it.
+
+```
+wiki/
+├── index.md       # catalog of all wiki pages — read this first
+├── log.md         # append-only ingest/query/lint history
+├── entities/      # concrete things: custom apps, integrations
+├── concepts/      # cross-cutting topics: ACLs, GlideRecord, Flow Designer, scoped apps, AI Agents, AI Search
+├── syntheses/      # evolving cross-source theses
+└── queries/       # good answers filed back instead of lost in chat
+
+raw/inbox/          # landing zone for new sources awaiting ingest
+```
+
+Existing folders (`ServiceNowOfficialDocs/`, `Notion/`, `Applications/`, `chats/`) are the **raw sources** — curated, untouched by wiki maintenance. Full ingest/query/lint workflow and schema conventions are in `CLAUDE.md` under "LLM Wiki".
+
+**Quick start:**
+- New source to add → drop in `raw/inbox/`, ask Claude to ingest it.
+- Question → ask normally; Claude reads `wiki/index.md` first, then drills in, then files reusable answers back.
+- Health check → ask Claude to "lint the wiki".
+
+## Self-evolving memory (how this vault stays current on its own)
+
+The wiki above doesn't just grow when you manually ingest something — it also **compiles itself from live Claude Code sessions**, in any project, automatically. This runs on [claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler), installed **globally** (not per-project), so every Claude Code session on this machine feeds this one shared ServiceNow brain.
+
+### Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ~/.claude/  (global, outside any project)                          │
+│                                                                       │
+│  settings.json           →  hooks block: SessionStart / PreCompact /│
+│                              SessionEnd, registered for ALL sessions │
+│                                                                       │
+│  claude-memory-compiler/ →  compiler code + operational state only  │
+│  ├── hooks/                                                          │
+│  │   ├── session-start.py   (reads wiki/index.md, injects context)  │
+│  │   ├── session-end.py     (captures transcript, spawns flush.py)  │
+│  │   └── pre-compact.py     (same, fires before auto-compact)       │
+│  └── scripts/                                                       │
+│      ├── config.py          (path constants — points at the vault)  │
+│      ├── flush.py           (Agent SDK: extract + tag by project)   │
+│      ├── compile.py         (Agent SDK: raw/sessions/ → wiki/)      │
+│      ├── query.py           (Agent SDK: index-guided Q&A)           │
+│      ├── lint.py            (7 health checks)                       │
+│      └── state.json, *.log  (gitignored, operational only)          │
+└─────────────────────────────────────────────────────────────────────┘
+                              │
+                              │  reads/writes into
+                              ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│  This vault (single source of truth for knowledge content)          │
+│                                                                       │
+│  CLAUDE.md          →  schema fed to compile.py/query.py verbatim   │
+│  raw/sessions/       →  NEW raw layer: auto-captured session logs,   │
+│                         one file per day, tagged by project slug    │
+│  wiki/entities/,     →  compiled layer — same pages the manual      │
+│  wiki/concepts/,        ingest flow writes to                       │
+│  wiki/syntheses/,                                                    │
+│  wiki/queries/                                                       │
+│  wiki/index.md,      →  updated by both manual and automatic ingest │
+│  wiki/log.md            (`auto-ingest` vs `ingest` entry types)      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### The full flow, end to end
+
+1. **Any Claude Code session starts, anywhere** — `SessionStart` hook fires, reads `wiki/index.md`, injects it (plus a pointer to `CLAUDE.md`) as additional context. Claude starts every session already knowing this vault's concepts and entities, without reading a single file.
+2. **You work normally**, in whatever project — capacity-planner, a client integration, this vault itself, anything.
+3. **Session ends (or long session auto-compacts)** — `SessionEnd`/`PreCompact` hook fires, reads the hook payload's `cwd`, extracts the recent conversation from the transcript, and spawns `flush.py` as a background process (the hook itself does no API calls, so it can't slow down closing a session).
+4. **`flush.py` runs in the background** — derives a project slug from `cwd` (e.g. `/home/pedro/.../capacity-planner` → `capacity-planner`; a generic basename like `src` or `dev` walks up one level, e.g. `code-src`), calls the Claude Agent SDK to decide what's worth keeping, and appends a tagged entry to `raw/sessions/YYYY-MM-DD.md` in the vault.
+5. **Once a day** (first flush after 6 PM local time, if that day's log changed), `flush.py` auto-spawns `compile.py`, which reads the day's `raw/sessions/` log plus `CLAUDE.md` (the schema) plus the existing `wiki/` pages, and writes/updates `wiki/entities/` or `wiki/concepts/` pages, updates `wiki/index.md`, and appends a `## [date] auto-ingest | ...` entry to `wiki/log.md`.
+6. **Next session, anywhere** — step 1 repeats, now with yesterday's compiled knowledge included.
+
+You can also run any step manually — see commands below.
+
+### Project tagging
+
+Every `raw/sessions/` entry is tagged three ways so knowledge from different projects never gets silently merged:
+- **In the log file** — each session block header carries `Project`, `Path`, `Session ID`.
+- **In the extraction prompt** — `flush.py` instructs the model to preface every fact with the project slug, and to flag facts that are general ServiceNow knowledge vs. project-specific.
+- **In compiled wiki pages** — `compile.py` is instructed to add a "Seen in: `<slug>`" note when a page draws on more than one project's sessions.
+
+### Day-to-day commands
+
+Run these from `~/.claude/claude-memory-compiler/` (the compiler's install dir, not this vault):
+
+```bash
+uv run python scripts/compile.py                      # compile new/changed raw/sessions/ logs into wiki/
+uv run python scripts/compile.py --dry-run             # preview what would be compiled, no writes
+uv run python scripts/compile.py --all                 # force recompile every session log
+uv run python scripts/query.py "question"               # ask the wiki a question (no RAG — index-guided)
+uv run python scripts/query.py "question" --file-back   # ask + file the answer into wiki/queries/
+uv run python scripts/lint.py                           # full health check (broken links, orphans, contradictions, staleness — has a small LLM cost)
+uv run python scripts/lint.py --structural-only         # same checks minus the LLM one, free
+```
+
+Everything upstream of `compile.py` (context injection at session start, capture at session end) is fully automatic once the hooks are registered in `~/.claude/settings.json` — no daily manual step required.
+
+### Cost
+
+Covered by your existing Claude subscription — no separate API key or billing. Approximate Agent SDK usage:
+
+| Operation | Cost |
+|---|---|
+| Memory flush (per session) | ~$0.02–0.05 |
+| Compile one day's session log | ~$0.45–0.65 (rises as the wiki grows) |
+| Query (no file-back) | ~$0.15–0.25 |
+| Query (with file-back) | ~$0.25–0.40 |
+| Full lint (with contradiction check) | ~$0.15–0.25 |
+| Structural-only lint | $0.00 |
 
 ## Content types
 

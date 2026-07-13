@@ -2,6 +2,9 @@
 This file is for any AI assistant (Claude, Copilot, Codex, Gemini, etc.) that has access to this vault.
 Read it before touching anything else. It will save you tokens.
 ---
+## Communication style (caveman mode)
+Terse replies only. No filler words (the, is, am, are). 3-6 word sentences. Run tools first, show results, stop. No narration.
+---
 ## What this vault is
 A ServiceNow knowledge base maintained by a ServiceNow developer at Unit4 (an ERP/HCM vendor running ServiceNow as its platform).
 Three layers of content:
@@ -109,3 +112,73 @@ This is an Obsidian vault — non-`.md` files (raw `.js` scripts, exports, etc.)
 6. Add a row to `INDEX.md` (new section if it's a new area, per the pattern above).
 This matches the convention already used across `Notion/ServiceNow/` — see any note there for a worked example.
 **Exception:** the conversion rules above do not apply to `graphify/`, `logs/`, or `chats/` — those are machine-generated/imported and follow their own rules (see their sections above). Do not add them to `INDEX.md`.
+---
+## LLM Wiki (Karpathy pattern)
+This vault runs the [LLM Wiki pattern](https://github.com/karpathy): raw sources feed a persistent, LLM-maintained synthesis layer at `wiki/`, instead of re-deriving synthesis on every question.
+### The three layers
+| Layer | Where | Owner |
+|-------|-------|-------|
+| Raw sources | `ServiceNowOfficialDocs/`, `Notion/ServiceNow/`, `Applications/`, `chats/` | You (human) — curated, immutable. Never edit these as part of wiki maintenance. New drops land in `raw/inbox/` first. |
+| Wiki | `wiki/` (`entities/`, `concepts/`, `syntheses/`, `queries/`, `index.md`, `log.md`) | The LLM — owns this entirely, keeps it current. |
+| Schema | This file | Co-evolved by both. |
+`wiki/entities/` = concrete things (custom apps, integrations, script includes). `wiki/concepts/` = cross-cutting ServiceNow topics (ACLs, GlideRecord patterns, Flow Designer, scoped apps, AI Agents, AI Search, ...). `wiki/syntheses/` = evolving cross-source theses. `wiki/queries/` = good answers filed back so they compound instead of vanishing into chat history.
+### Ingest (new source arrives)
+1. Read the source (from `raw/inbox/` or wherever it landed).
+2. Discuss key takeaways with the user; don't just summarize silently.
+3. Write/update the relevant `wiki/entities/` or `wiki/concepts/` page(s) — link to the source, don't copy its content in full.
+4. Update `wiki/index.md`.
+5. Append an entry to `wiki/log.md` (`## [YYYY-MM-DD] ingest | <title>`).
+6. Move the source out of `raw/inbox/` into its proper home (e.g. `Notion/ServiceNow/<topic>/`, `Applications/<app>/`) if it's staying in the vault long-term.
+### Query (user asks a question)
+1. Read `wiki/index.md` first to find relevant pages.
+2. Drill into the linked wiki pages, then the raw sources they point to, as needed.
+3. Synthesize an answer with citations (file paths / wikilinks).
+4. If the answer is reusable (a comparison, an analysis, a connection), offer to file it into `wiki/queries/` or `wiki/syntheses/` and append a `query` entry to `wiki/log.md`.
+### Lint (periodic health check, on request)
+Check for: orphan wiki pages (no inbound links), concept pages that are now stale vs. newer sources, Notion topic folders in `wiki/index.md`'s "not yet promoted" list that have accumulated enough material to deserve a real concept page, missing cross-references between concept pages. Append a `lint` entry to `wiki/log.md` summarizing findings — don't fix silently, propose first.
+### Rules
+- Never delete existing vault content while maintaining the wiki. Promote/link, don't rewrite.
+- Don't pre-create concept stub pages for topics nobody has asked about — create them the first time a query/ingest actually needs to synthesize across sources on that topic (see `wiki/index.md`'s Notion topic folder list).
+- `wiki/` pages use the same frontmatter convention as the rest of the vault (`aliases`, `area: entity|concept|synthesis|query|wiki-index`, `tags`) plus a `## Related` section.
+
+---
+## Self-evolving memory (claude-memory-compiler)
+This vault's wiki also self-updates from live Claude Code sessions — in *any* project, not just this vault — via [claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler), installed globally at `~/.claude/claude-memory-compiler/` and wired to this vault as its one shared ServiceNow "second brain". Compiler code + operational state (`state.json`, logs) live entirely outside the vault; only compiled knowledge lands here.
+### The new raw layer: automatic session capture
+`raw/sessions/YYYY-MM-DD.md` is a **new, automatic** raw-source type, distinct from the manual `/save` → `logs/` flow above:
+| | `logs/` (existing) | `raw/sessions/` (new) |
+|---|---|---|
+| Written by | You, via `/save` | The compiler's hooks, automatically, every session |
+| Scope | This vault only | Any project, any repo — tagged by project slug |
+| Curation | Manual, reviewed | Raw, unreviewed until compiled |
+| Committed/pushed | Yes (`/save` does this) | No — stays local until `compile.py` promotes it into `wiki/` |
+Each session block is tagged with a project slug (derived from the session's `cwd`) and absolute path, e.g.:
+```markdown
+### Session 14:32 — capacity-planner
+- **Project:** `capacity-planner`
+- **Path:** `/home/pedro/Documents/Programacao/Github/capacity-planner`
+- **Session ID:** `abc123`
+- **Started:** `2026-07-13 14:32`
+
+...extracted facts/decisions/gotchas, each prefaced with the project slug...
+```
+### How it connects to the existing ingest/query/lint flow
+- **Ingest** — `compile.py` runs this automatically (after 6 PM local time, once a day, if that day's `raw/sessions/` log changed) or on demand (`uv run python scripts/compile.py` from `~/.claude/claude-memory-compiler/`). It follows the *exact same* ingest steps as the manual flow above — reads this file as schema, writes `wiki/entities/` or `wiki/concepts/` pages, updates `wiki/index.md`, appends to `wiki/log.md` — but uses log-entry type `auto-ingest` instead of `ingest` to distinguish machine-driven compiles from human-directed ones.
+- **Query** — `uv run python scripts/query.py "question" --file-back` runs the same query flow as above, non-interactively, and can file the answer into `wiki/queries/`.
+- **Lint** — `uv run python scripts/lint.py` adds 7 automated structural/LLM checks on top of the manual lint pass already described above (broken links, orphans, stale articles, contradictions, sparse articles, missing backlinks, uncompiled sources).
+- Session logs are tagged by project (via `cwd` → slug), so a concept/entity page compiled from multiple projects' sessions should carry a "Seen in: `<slug>`, `<slug>`" line — same spirit as this file's existing sourcing convention, just with project attribution added.
+### Day-to-day commands
+Run from `~/.claude/claude-memory-compiler/` (not from this vault):
+```bash
+uv run python scripts/compile.py                    # compile new/changed raw/sessions/ logs into wiki/
+uv run python scripts/compile.py --dry-run           # show what would be compiled, no writes
+uv run python scripts/query.py "question"            # ask the wiki a question
+uv run python scripts/query.py "question" --file-back  # ask + file the answer into wiki/queries/
+uv run python scripts/lint.py                        # full health check (has LLM cost)
+uv run python scripts/lint.py --structural-only      # free structural-only health check
+```
+Everything else — SessionStart context injection, SessionEnd/PreCompact capture — is automatic once the global hooks are installed in `~/.claude/settings.json` (see that file for the current hook block).
+### Rules specific to this layer
+- Never edit `raw/sessions/` entries by hand — treat them like any other raw source, immutable once written.
+- `compile.py`'s schema input is *this file* (`CLAUDE.md`), not the compiler's own `AGENTS.md` — keep the "LLM Wiki" and "Self-evolving memory" sections here accurate, since they're what the compiler actually reads.
+- If a session's project isn't ServiceNow-related, its facts still land in `raw/sessions/` (capture is global/automatic) but should generally *not* get compiled into this ServiceNow-specific `wiki/` — use judgment at compile time, or skip that day's non-SN sessions when running `compile.py --file`.
