@@ -162,6 +162,38 @@ Covered by your existing Claude subscription — no separate API key or billing.
 | Full lint (with contradiction check) | ~$0.15–0.25 |
 | Structural-only lint | $0.00 |
 
+### FAQ
+
+**Do I have to open Claude Code in this vault's folder for the memory system to work?**
+No. The hooks are registered globally in `~/.claude/settings.json`, and every path they use points at this vault via a hardcoded absolute path — not something derived from your current directory. Open a session in `capacity-planner`, a client repo, `/tmp`, wherever; `SessionStart` still injects `wiki/index.md`, and `SessionEnd` still writes into this vault's `raw/sessions/`, tagged with whatever project you were actually in. The vault folder gets no special treatment — the only reason to open a session *in* it is to browse/edit it directly yourself.
+
+**When I start a session, does Claude automatically know about past sessions, or do I need to add something to that project's own `CLAUDE.md`?**
+Automatic — nothing to add anywhere. `SessionStart` fires before you type anything and injects: today's date, a pointer to this vault + its `CLAUDE.md`, the full `wiki/index.md`, and the tail of the most recent `raw/sessions/` daily log. This happens independently of whatever `CLAUDE.md` a given project already has — both load, unrelated to each other. Note this is the **compiled index**, not a transcript of every past conversation — that's the whole point of compiling first: Claude reads a synthesized catalog, not raw history.
+
+**How do I confirm the compiler is actually running, and where do I look?**
+No dashboard — check these directly:
+- `tail -f ~/.claude/claude-memory-compiler/scripts/flush.log` — real-time hook/flush activity. Look for `[hook] SessionEnd fired: session=... cwd=...` after closing a session.
+- `raw/sessions/YYYY-MM-DD.md` (in this vault) — a new `### Session HH:MM — <project-slug>` block confirms capture worked end-to-end.
+- `~/.claude/claude-memory-compiler/scripts/compile.log` — shows compile runs and their cost.
+- `~/.claude/claude-memory-compiler/scripts/state.json` — running totals (`total_cost`, `query_count`, `last_lint`, per-log ingest hashes).
+- `python3 -c "import json; print(json.load(open('/home/pedro/.claude/settings.json'))['hooks'].keys())"` — confirms the hooks are registered at all.
+- Simplest live test: open a fresh session anywhere outside this vault, ask something answerable only from `wiki/index.md` without reading files, then have one real exchange and close the session — check `flush.log` a few seconds later for a new entry.
+
+**Why didn't `flush.log` show anything after my last message?**
+`SessionEnd` only fires when a session actually ends (or auto-compacts) — not while it's still open. If you're mid-conversation, there's nothing to see yet; check again after closing.
+
+**Do the hooks slow anything down?**
+`SessionStart` is pure local file I/O, no API calls, sub-second. `SessionEnd`/`PreCompact` do the transcript read in the hook (fast) then spawn `flush.py` as a background process — the hook returns immediately, the actual Agent SDK call happens after your session has already closed.
+
+**What if a project isn't ServiceNow-related — will it pollute this wiki?**
+Its session data still lands in `raw/sessions/` (capture is global and automatic, it doesn't know the topic in advance), but `compile.py` is instructed by this vault's `CLAUDE.md` to generally skip non-ServiceNow sessions when writing into `wiki/` — unless a fact is genuinely general ServiceNow knowledge that happened to surface there, in which case it's merged in with a "Seen in: `<slug>`" provenance note. This was verified in testing: a throwaway non-SN test project's small talk was skipped, but a real ACL/`security_admin` gotcha from that same project was correctly folded into `wiki/concepts/acls.md`.
+
+**What's the difference between `logs/` and `raw/sessions/`?**
+`logs/` is the older, manual flow — you trigger `/save` yourself, it's curated, and it's committed/pushed. `raw/sessions/` is new and fully automatic — the compiler writes to it on every session close, unreviewed until `compile.py` promotes anything worth keeping into `wiki/`.
+
+**Can I prune old `raw/sessions/` entries once they're compiled?**
+Not automated yet — open item. Since compiled knowledge already lives in `wiki/` with a backlink to the originating session block, old daily logs are safe to trim manually if the folder gets noisy; nothing currently does this for you.
+
 ## Content types
 
 | Location | Content |
