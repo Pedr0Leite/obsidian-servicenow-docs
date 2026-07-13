@@ -520,3 +520,6 @@ https://unit4dev1.service-now.com/<table>.do?sysparm_query=ORDERBYsys_created_on
 **One-time scripts run against this app's data (companion notes, same folder):**
 - [[capacity-planner-set-start-and-end-date-to-plan-items]] — Fix Script backfilling `u_start`/`u_end` from linked Period dates
 - [[generate-capacity-plan-items]] — Background Script bulk-creating Plan Items from active Initiatives, with the `u_area`/`u_priority`/`u_snow_status` choice-mapping rules
+
+**Backlog & planning:**
+- [[capacity-planner-backlog-2026-07]] — July 2026 sprint backlog (8 decisions from 2026-07-09 brainstorm): Committed-only metrics, allocation import hardening, period persistence, global management view, parent/child hierarchy, Overview Teams column

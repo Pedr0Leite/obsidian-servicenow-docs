@@ -178,6 +178,7 @@ This note documents a one-time Fix Script (`backfillPlanItemDates`) that replica
 
 - [[capacity-planner]] — full app overview, data model, roles/ACLs, Business Rules
 - [[generate-capacity-plan-items]] — companion bulk-creation script; Plan Items it generates are exactly the ones this backfill later fixes dates for once allocations exist
+- [[capacity-planner-backlog-2026-07]] — July 2026 backlog: CAPMGMT-03 hardens the allocation import so that `derive-initiative-dates` fires on every import row going forward, reducing the need to re-run this backfill script after each import
 - [[access-control-rules]] — general ACL rule model, relevant to why this bypass works
 - [[acl-function-fields]] — field-level ACL mechanics for `u_start`/`u_end`
 - [[business-rule-api-now-ts]] — Fluent API backing `derive-initiative-dates`

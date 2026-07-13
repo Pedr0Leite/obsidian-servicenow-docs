@@ -303,5 +303,6 @@ gs.info(
 
 - [[capacity-planner]] - full app overview, data model, roles/ACLs, Business Rules
 - [[capacity-planner-set-start-and-end-date-to-plan-items]] - companion backfill note for `u_start`/`u_end`, same ACL-bypass reasoning (plain server-side `GlideRecord` doesn't enforce field ACLs)
+- [[capacity-planner-backlog-2026-07]] — July 2026 backlog: CAPMGMT-02 (allocation import validation) converges the idempotency check pattern this script uses; CAPMGMT-03 hardens the allocation import path that follows this script's Plan Item generation
 - [[access-control-rules]] - general ACL rule model
 - [[business-rule-api-now-ts]] - Fluent API backing `sync-initiative-fields`, which this script intentionally bypasses via `setWorkflow(false)`
