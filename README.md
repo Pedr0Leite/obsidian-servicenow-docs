@@ -145,6 +145,9 @@ uv run python scripts/query.py "question"               # ask the wiki a questio
 uv run python scripts/query.py "question" --file-back   # ask + file the answer into wiki/queries/
 uv run python scripts/lint.py                           # full health check (broken links, orphans, contradictions, staleness — has a small LLM cost)
 uv run python scripts/lint.py --structural-only         # same checks minus the LLM one, free
+uv run python scripts/prune.py                          # archive raw/sessions/ logs once compiled + 30+ days old
+uv run python scripts/prune.py --dry-run                # preview what would be archived
+uv run python scripts/prune.py --days 14                # override the retention window
 ```
 
 Everything upstream of `compile.py` (context injection at session start, capture at session end) is fully automatic once the hooks are registered in `~/.claude/settings.json` — no daily manual step required.
@@ -192,7 +195,7 @@ Its session data still lands in `raw/sessions/` (capture is global and automatic
 `logs/` is the older, manual flow — you trigger `/save` yourself, it's curated, and it's committed/pushed. `raw/sessions/` is new and fully automatic — the compiler writes to it on every session close, unreviewed until `compile.py` promotes anything worth keeping into `wiki/`.
 
 **Can I prune old `raw/sessions/` entries once they're compiled?**
-Not automated yet — open item. Since compiled knowledge already lives in `wiki/` with a backlink to the originating session block, old daily logs are safe to trim manually if the folder gets noisy; nothing currently does this for you.
+Yes — `uv run python scripts/prune.py` (from `~/.claude/claude-memory-compiler/`). It archives (never deletes) a daily log into `raw/sessions/archive/` once it's both older than the retention window (default 30 days, override with `--days`) and confirmed fully compiled — anything not yet compiled is left in place and listed so you can run `compile.py` first. Archived files keep their filename, so `[[raw/sessions/<date>#anchor]]` provenance backlinks already in `wiki/` pages keep resolving (Obsidian links by basename, not folder path). `--dry-run` previews without moving anything.
 
 ## Content types
 

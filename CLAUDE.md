@@ -176,7 +176,10 @@ uv run python scripts/query.py "question"            # ask the wiki a question
 uv run python scripts/query.py "question" --file-back  # ask + file the answer into wiki/queries/
 uv run python scripts/lint.py                        # full health check (has LLM cost)
 uv run python scripts/lint.py --structural-only      # free structural-only health check
+uv run python scripts/prune.py                       # archive fully-compiled logs older than 30 days
+uv run python scripts/prune.py --dry-run             # preview what would be archived
 ```
+`prune.py` only moves (never deletes) a `raw/sessions/YYYY-MM-DD.md` log into `raw/sessions/archive/`, and only once it's both older than the retention window and confirmed fully compiled (its hash matches what `compile.py` last recorded in `state.json`) — anything not yet compiled is left alone and reported. Archived files keep their filename, so existing `[[raw/sessions/<date>#anchor]]` provenance backlinks from `wiki/` pages still resolve (Obsidian links by basename, not folder).
 Everything else — SessionStart context injection, SessionEnd/PreCompact capture — is automatic once the global hooks are installed in `~/.claude/settings.json` (see that file for the current hook block).
 ### Rules specific to this layer
 - Never edit `raw/sessions/` entries by hand — treat them like any other raw source, immutable once written.
