@@ -9,6 +9,7 @@ See `wiki/backlinks-log.md` for backlink health-check history.
 
 ## Entities (apps, integrations, custom builds)
 - [[capacity-planner]] — in-house capacity planning app. Source: `Applications/capacity-planner/`.
+- [[sn-instance-scan]] — scoped app that scans a ServiceNow instance (sys_db_object walk + ACL fallback). In design as of 2026-07-14.
 
 ## Concepts (core ServiceNow dev topics, synthesized across sources)
 - [[acls]] — access control rules, scoped-app ACL patterns.
@@ -44,7 +45,7 @@ See `wiki/backlinks-log.md` for backlink health-check history.
 - [[workspace]] — Workspace UI Actions, App Shell UX, custom app forms.
 
 ## Syntheses (cross-cutting write-ups, evolving theses)
-_None yet — filed here as queries produce reusable answers._
+- [[genai-prompt-vs-ai-agent]] — when to use a flat GenAI prompt vs a ReAct AI Agent loop.
 
 ## Queries (answers filed back from conversations)
 _None yet._

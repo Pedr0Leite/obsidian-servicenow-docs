@@ -122,10 +122,15 @@ This vault runs the [LLM Wiki pattern](https://github.com/karpathy): raw sources
 | Wiki | `wiki/` (`entities/`, `concepts/`, `syntheses/`, `queries/`, `index.md`, `log.md`) | The LLM — owns this entirely, keeps it current. |
 | Schema | This file | Co-evolved by both. |
 `wiki/entities/` = concrete things (custom apps, integrations, script includes). `wiki/concepts/` = cross-cutting ServiceNow topics (ACLs, GlideRecord patterns, Flow Designer, scoped apps, AI Agents, AI Search, ...). `wiki/syntheses/` = evolving cross-source theses. `wiki/queries/` = good answers filed back so they compound instead of vanishing into chat history.
+#### Application-specific facts route to `Applications/<app>/`, not `wiki/entities/`
+If a source (session, ingest, or compile) is about a specific in-house app that already has (or should have) an `Applications/<app>/` folder, its **detail** belongs in that folder, not in `wiki/entities/<app>.md`. `wiki/entities/<app>.md` stays a thin pointer + one-paragraph summary — see [[capacity-planner]] for the pattern: architecture, schema, decisions, ACLs, etc. all live under `Applications/capacity-planner/`, and the wiki entity page just links to them.
+- New app, no folder yet → create `Applications/<app>/<app>.md` as the overview note (same shape as `capacity-planner.md`) and put detail there; the wiki entity page links to it.
+- Existing app folder → append to (or update) the most relevant existing note in that folder rather than duplicating into the wiki page.
+- Non-app-specific facts from the same source (a general ServiceNow gotcha, a platform concept) still route to `wiki/concepts/` as normal — only the app-specific portion moves to `Applications/`.
 ### Ingest (new source arrives)
 1. Read the source (from `raw/inbox/` or wherever it landed).
 2. Discuss key takeaways with the user; don't just summarize silently.
-3. Write/update the relevant `wiki/entities/` or `wiki/concepts/` page(s) — link to the source, don't copy its content in full.
+3. Write/update the relevant page(s): app-specific detail → `Applications/<app>/` (see above, thin pointer only in `wiki/entities/`), everything else → `wiki/entities/` or `wiki/concepts/`. Link to the source, don't copy its content in full.
 4. Update `wiki/index.md`.
 5. Append an entry to `wiki/log.md` (`## [YYYY-MM-DD] ingest | <title>`).
 6. Move the source out of `raw/inbox/` into its proper home (e.g. `Notion/ServiceNow/<topic>/`, `Applications/<app>/`) if it's staying in the vault long-term.
@@ -143,7 +148,9 @@ Check for: orphan wiki pages (no inbound links), concept pages that are now stal
 
 ---
 ## Self-evolving memory (claude-memory-compiler)
-This vault's wiki also self-updates from live Claude Code sessions — in *any* project, not just this vault — via [claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler), installed globally at `~/.claude/claude-memory-compiler/` and wired to this vault as its one shared ServiceNow "second brain". Compiler code + operational state (`state.json`, logs) live entirely outside the vault; only compiled knowledge lands here.
+This vault's wiki also self-updates from live Claude Code sessions — in *any* project, not just this vault — via **[Pedr0Leite/claude-memory-compiler](https://github.com/Pedr0Leite/claude-memory-compiler)** (a fork of [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) with vault-specific customizations — see that fork's README "This Install's Customizations" section; **do not install from the upstream repo**, it lacks the `Applications/<app>/` routing fix and any other local patches), installed globally at `~/.claude/claude-memory-compiler/` and wired to this vault as its one shared ServiceNow "second brain". Compiler code + operational state (`state.json`, logs) live entirely outside the vault; only compiled knowledge lands here.
+
+**Setup on a new machine:** run `scripts/install-memory-compiler.sh` from this repo. It clones the fork (not upstream) into `~/.claude/claude-memory-compiler/`, runs `uv sync`, and prints the two remaining manual steps (confirm `config.py`'s `VAULT_DIR`, wire hooks into `~/.claude/settings.json`).
 ### The new raw layer: automatic session capture
 `raw/sessions/YYYY-MM-DD.md` is a **new, automatic** raw-source type, distinct from the manual `/save` → `logs/` flow above:
 | | `logs/` (existing) | `raw/sessions/` (new) |
@@ -163,7 +170,7 @@ Each session block is tagged with a project slug (derived from the session's `cw
 ...extracted facts/decisions/gotchas, each prefaced with the project slug...
 ```
 ### How it connects to the existing ingest/query/lint flow
-- **Ingest** — `compile.py` runs this automatically (after 6 PM local time, once a day, if that day's `raw/sessions/` log changed) or on demand (`uv run python scripts/compile.py` from `~/.claude/claude-memory-compiler/`). It follows the *exact same* ingest steps as the manual flow above — reads this file as schema, writes `wiki/entities/` or `wiki/concepts/` pages, updates `wiki/index.md`, appends to `wiki/log.md` — but uses log-entry type `auto-ingest` instead of `ingest` to distinguish machine-driven compiles from human-directed ones.
+- **Ingest** — `compile.py` runs this automatically (after 6 PM local time, once a day, if that day's `raw/sessions/` log changed) or on demand (`uv run python scripts/compile.py` from `~/.claude/claude-memory-compiler/`). It follows the *exact same* ingest steps as the manual flow above, **including the `Applications/<app>/` routing rule above** — a session tagged as being about a specific in-house app files its detail there, not into `wiki/entities/`. It reads this file as schema, writes pages, updates `wiki/index.md`, appends to `wiki/log.md` — but uses log-entry type `auto-ingest` instead of `ingest` to distinguish machine-driven compiles from human-directed ones.
 - **Query** — `uv run python scripts/query.py "question" --file-back` runs the same query flow as above, non-interactively, and can file the answer into `wiki/queries/`.
 - **Lint** — `uv run python scripts/lint.py` adds 7 automated structural/LLM checks on top of the manual lint pass already described above (broken links, orphans, stale articles, contradictions, sparse articles, missing backlinks, uncompiled sources).
 - Session logs are tagged by project (via `cwd` → slug), so a concept/entity page compiled from multiple projects' sessions should carry a "Seen in: `<slug>`, `<slug>`" line — same spirit as this file's existing sourcing convention, just with project attribution added.
