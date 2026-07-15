@@ -13,5 +13,8 @@ Service Portal notes: Angular provider, widget codes, EVAM, portal methods/event
 - [[frameworks-libraries]]
 - [[service-catalog]]
 
+## Related queries
+- [[catalog-item-prefill-and-modal]]
+
 ## Related
 - [[wiki/index|Wiki Index]]

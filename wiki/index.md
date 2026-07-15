@@ -48,7 +48,7 @@ See `wiki/backlinks-log.md` for backlink health-check history.
 - [[genai-prompt-vs-ai-agent]] — when to use a flat GenAI prompt vs a ReAct AI Agent loop.
 
 ## Queries (answers filed back from conversations)
-_None yet._
+- [[catalog-item-prefill-and-modal]] — prefill catalog item variables via URL (`sysparm_variable_values`) vs. opening a catalog item in a Service Portal modal (`spModal.open`) with prefilled data.
 
 ## Raw source map
 Not wiki pages — where curated/raw material already lives in this vault. The LLM reads from these, never edits them as part of wiki maintenance.

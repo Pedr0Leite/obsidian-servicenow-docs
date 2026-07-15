@@ -19,6 +19,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 # Capacity Planner — Sprint Backlog (July 2026)
 
 > Source: Meeting notes 2026-07-09 "Capacity planner - brainstorm" (8 decisions)
+> Follow-up: 2 additional raw notes captured 2026-07-13, turned into CAPMGMT-08 / CAPMGMT-09 (Epic 9) — not part of the original 8 decisions.
 > App scope: `x_u4bsh_capmgmt` | Instance: unit4dev1.service-now.com
 > Grounding: [[capacity-planner]], [[generate-capacity-plan-items]], [[capacity-planner-set-start-and-end-date-to-plan-items]]
 
@@ -46,6 +47,8 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | 2 | CAPMGMT-02 | Allocation import validation — anomaly detection | Epic 2/3/8 | 3↔8; **BLOCKED BY SPIKE-01 + DATA-01** |
 | **3 — Dependent / Blocked** | CAPMGMT-06 | Global management view | Epic 5 | 5↔7 (scope overlap with CAPMGMT-05 must be resolved first); 4↔5 (inherits CAPMGMT-04's period policy) |
 | 3 | CAPMGMT-07 | Parent/child hierarchy — defensive counting | Epic 6 | 1↔6; **BLOCKED BY SPIKE-02** |
+| **4 — Follow-up (2026-07-13)** | CAPMGMT-09 | Sortable Area column | Epic 9 | 9↔8: touches the same per-team table renderer CAPMGMT-08 plans to reuse — sequencing it first means CAPMGMT-08 inherits sort behaviour for free |
+| 4 | CAPMGMT-08 | "All Teams" square | Epic 9 | 9↔8 (shared renderer); 8↔4 (period-range policy), 8↔5, 8↔6 (both disambiguation-only, see story) |
 
 > [!note] Decision 8 (ongoing data migration)
 > Decision 8 ("more allocation data still needs validation and import") is an operational workstream, not a single deliverable. It is represented by DATA-01 (current-state assessment), CAPMGMT-02 (hardening the import path), CAPMGMT-03 (validation tooling), and subsequent manual import iterations that follow those. No separate story is created for "run the import" — that is an operator action, not a build item.
@@ -56,7 +59,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 > Decision 1: Total Projects should only represent active planning work — driven by Committed Plan Items, not all initiatives.
 
-### CAPMGMT-01 — Total Projects: filter to Committed plan items only
+### CAPMGMT-01 — Total Projects: filter to Committed plan items only ✅ DELIVERED 2026-07-13
 
 **As a** capacity planning manager, **I want** the "Total Projects" count in the planner UI to reflect only Committed plan items **so that** leadership sees actionable committed work, not the full pipeline of Candidates and Removed items.
 
@@ -242,7 +245,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 > Decision 4: Period selection must be preserved across page refreshes, persisted in the browser.
 
-### CAPMGMT-04 — Persist period selection to localStorage
+### CAPMGMT-04 — Persist period selection to localStorage ✅ DELIVERED 2026-07-13
 
 **As a** capacity planner, **I want** my selected period range (from/to months) to survive page refreshes **so that** I don't have to reconfigure my view after each navigation.
 
@@ -412,7 +415,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 > Decision 7: Team visibility should improve on the Overview — wider Teams column, possibly more team-related information.
 
-### CAPMGMT-05 — Improve Overview Teams column
+### CAPMGMT-05 — Improve Overview Teams column ✅ DELIVERED 2026-07-13
 
 **As a** capacity planner using the Overview, **I want** the Teams column to be wider and show which teams have allocations for each initiative in the active period range **so that** I can assess team involvement without switching to the team-specific view.
 
@@ -447,6 +450,93 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 ---
 
+## Epic 9 — Team Visibility Follow-ups (Follow-up Notes, 2026-07-13)
+
+> Source: follow-up planning conversation, 2026-07-13, captured as 2 raw notes — not part of the original 8 decisions (2026-07-09) already covered by CAPMGMT-01–07. Note 1: a synthetic "All Teams" square on the By Team tab showing every team's project breakdown at once. Note 2: making the AREA column sortable.
+> Both stories touch the same "By Team tab" / "team visibility" territory as CAPMGMT-05 (Overview Teams column) and CAPMGMT-06 (Global management view) — see the explicit disambiguation in each story below. Neither story duplicates CAPMGMT-05 or CAPMGMT-06.
+
+### CAPMGMT-08 — "All Teams" square: synthetic all-teams breakdown on the By Team tab ✅ DELIVERED 2026-07-13
+
+**As a** capacity planner or engineering lead, **I want** a square tile labeled "All Teams" on the By Team tab that is not tied to any single team record, and that shows every team's project breakdown at once **so that** I don't have to click through each team's square individually to see the full cross-team picture.
+
+**Acceptance Criteria:**
+
+1. ASSUMPTION (locate first, per CAPMGMT-01's pattern): the exact squares-row render function, its click handler, and the exact per-team table render function it invokes are NOT documented by name anywhere in [[capacity-planner]] — only their behavior is documented (the `'team'` view's squares row and the resulting "<TeamName> — N projects" table with PROJECT/AREA/PRI/month-columns/TOTAL and ALLOCATED/HEADCOUNT footer rows). Before writing any code, the developer must locate in `app.js`: (a) the function that renders the squares row (real team tiles + the existing "All Projects" stub tile), including how it iterates `TEAMS`; and (b) the function that renders a single team's table when its square is clicked. Confirm both exist as separate, callable/reusable pieces of logic (not entangled in one monolithic click handler) before estimating implementation effort. **[Open Question — see §OQ-9]**
+
+2. A new square tile labeled exactly **"All Teams"** is added to the squares row on the `'team'` view, alongside the real per-team tiles and the existing "All Projects" stub. It is NOT backed by any `x_u4bsh_capmgmt_team` record — no dummy team row is created, `u_active`/`u_order` are not touched on the team table, and "All Teams" must never appear in the `TEAMS` array sourced from `GET /data`. It is a client-side-only synthetic entry added directly in the squares-row render loop (or as a hardcoded extra tile alongside that loop).
+
+3. CONSTRAINT — do not conflate with the existing "All Projects" tile: "All Projects" (top-left, "Compiled info here" placeholder) is a separate, pre-existing, currently-unimplemented stub tile, also not backed by a team record. This story does NOT fix, implement, or repurpose "All Projects" — that remains a distinct, separately-tracked gap. "All Teams" is a new, third tile category (real teams / "All Projects" stub / "All Teams" new). ASSUMPTION: business wants both tiles to coexist rather than consolidating "All Projects" into "All Teams" (or vice versa). **[Open Question — see §OQ-10]**
+
+4. OPEN QUESTION — what "divided per team" means (do not assume — pick one before coding):
+   - **(a) Stacked per-team sections (recommended):** clicking "All Teams" loops every entry in `TEAMS` (in `u_order` sequence — same order as the squares row itself) and, for each, renders the exact same per-team table used when that team's own square is clicked ("<TeamName> — N projects" header + PROJECT/AREA/PRI/month-columns/TOTAL table + ALLOCATED/HEADCOUNT footer), stacking all of them vertically on one page.
+   - **(b) Flat table with a Team column:** a single table of all plan items with a new "Team" column added, one row per project (or one row per project×team pairing where a project allocates to multiple teams).
+   Recommendation: (a) — it requires no new table-rendering code (see AC9's reuse note) and matches the note's literal wording ("divided per team" reads as "partitioned into per-team sections", not "one flat list with a team label"). This is a recommendation, not a decision. **[Open Question — see §OQ-11]**
+
+5. OPEN QUESTION — period-range policy (per CAPMGMT-04's precedent, every new view must state this explicitly): does "All Teams" honour the user's persisted period selection (`monthS`/`monthE`, per CAPMGMT-04), like CAPMGMT-05's Overview column does — or always show the full year regardless of selection, like CAPMGMT-06's Global view does? Recommendation: if AC4 resolves to option (a) (reusing the existing per-team table renderer verbatim), the natural/lowest-effort behavior is to inherit whatever period-range logic that renderer already uses today — which per [[capacity-planner]]'s description of the `'team'` view ("one column per active month") is the active `monthS`/`monthE` range, i.e. **honour** the persisted range, NOT a full-year override. This is a recommendation, not a decision. **[Open Question — see §OQ-12]**
+
+6. ASSUMPTION / OPEN QUESTION — multi-team projects: confirmed against [[capacity-planner]]'s data model (§3) — there is **no "primary team" field or concept anywhere** in the `x_u4bsh_capmgmt_initiative` schema, and no team reference field on the initiative table at all. A project's association with a team exists only via non-zero rows in `x_u4bsh_capmgmt_allocation` (equivalently, non-empty keys in `p.ta` client-side), and a project can legitimately have non-zero allocations to multiple teams in the same month. If AC4 resolves to option (a), the natural consequence — since it reuses each team's existing per-team renderer unmodified — is that a multi-team project appears **once under every team it has a non-zero allocation to** (duplicated across sections), because that is already how each individual team's square behaves today. There is no "primary team" heuristic to fall back on without inventing one (e.g. "team with highest FTE"), and none is currently supported by any documented field. This must be explicitly confirmed as acceptable before build. **[Open Question — see §OQ-13]**
+
+7. ASSUMPTION — visual style of the "All Teams" tile itself: real team tiles show %utilised, project count, and free/over FTE. The existing "All Projects" stub shows none of that (plain placeholder text). A synthetic "All Teams" entity has no single team's headcount/allocation pair to produce a clean %utilised or free/over figure against — summing across all teams into one blended percentage is technically possible but risks misleading leadership by conflating team-specific capacity gaps into one number, which is exactly what CAPMGMT-06's Global view already does more rigorously (per-team, per-month, with explicit `cap-over` styling). ASSUMPTION: the "All Teams" tile follows the plain/stat-less style of "All Projects" (label only, optionally a total project count across all teams) rather than attempting a synthetic %utilised/free/over stat. **[Open Question — see §OQ-14]**
+
+8. CAPMGMT-05 / CAPMGMT-06 disambiguation (required — do not duplicate either):
+   - **Not CAPMGMT-05:** CAPMGMT-05 widens and enriches the Teams column inside the existing flat `'overview'` table (one row per plan item, listing which teams that item allocates to in the active range). This story does not touch the `'overview'` view, its Teams column, or its render code at all — it lives entirely inside the `'team'` view's squares row and per-team table renderer.
+   - **Not CAPMGMT-06:** CAPMGMT-06 adds a brand-new `'global'` `switchView()` case and nav button, rendering a headcount-vs-allocation **summary grid** (teams × periods, no per-project rows), always ignoring the persisted period range, gated to planner/admin. This story adds no new `switchView()` case and no new top-level nav button — it adds one tile inside the `'team'` view's already-existing squares row, and (per AC4's recommendation) reuses the existing **per-project, per-team table** (not a grid), which per AC5's recommendation honours the persisted range rather than ignoring it. The two serve different purposes: CAPMGMT-06 is an at-a-glance cross-team bottleneck grid for management; CAPMGMT-08 is "show me every team's existing drill-down at once" for someone who'd otherwise click through each tile.
+   - No scope from either CAPMGMT-05 or CAPMGMT-06 is duplicated here.
+
+9. REUSE OPPORTUNITY (explicit recommendation): implement "All Teams" by invoking the existing per-team table render function once per entry in `TEAMS` (in `u_order` sequence), appending each result into a stacked container — rather than building a new table component. Rationale: (1) guarantees pixel-for-pixel consistency with the per-team tables users already know; (2) avoids a second table-rendering codepath to maintain long-term; (3) the existing renderer already handles month-column generation, ALLOCATED/HEADCOUNT footer math, and `cap-over` styling — reimplementing any of that would duplicate non-trivial logic for no benefit. The only genuinely new code this story needs is: the "All Teams" tile itself in the squares row, its click handler (loop `TEAMS`, call the existing per-team renderer for each, stack the outputs), and the container markup/CSS to hold the stacked sections. Do **not** build a new table component for this story. (This also means CAPMGMT-08 benefits for free from any AREA-column sort behavior added by CAPMGMT-09, if CAPMGMT-09 touches this same renderer — see CAPMGMT-09 AC8.)
+
+10. No new REST endpoint or server-side change: `GET /data` already returns `teams` and `projects` (each with `p.ta` keyed by team) — everything AC4(a)'s loop needs is already present in the in-memory state loaded once at page load. No change to `capacity-handler.ts` is required.
+
+**ServiceNow Implementation Notes:**
+- Client file: `src/client/app.js` (or equivalent compiled asset) — squares row lives inside the `'team'` case handling of the `switchView()` state machine.
+- **Do not guess function names.** Locate the actual squares-row render function and the actual single-team table render function in `app.js` first (see AC1 / OQ-9); this story's estimate and approach both depend on those being separable, reusable pieces of code.
+- Team ordering: `TEAMS` array (active teams, `u_active = true`, sorted by `u_order` per [[capacity-planner]] §3's team table). `ROLE_TEAMS` (`['BA-BusinessAnalyst', 'Architecture', 'PM']`) — confirm with business whether role teams get their own stacked section too, or are excluded from "All Teams" (not addressed by the raw note — treat as part of OQ-11's resolution).
+- Per-project team association: `p.ta` (team → month → FTE), already loaded from `GET /data`. No new field or endpoint needed.
+- Period columns: whichever mechanism the reused per-team renderer already uses today (likely `activeMos()` / `monthS`/`monthE`, consistent with [[capacity-planner]] §7's description of `'team'` view columns) — confirm this is what gets inherited, per AC5.
+- No changes to `capacity-handler.ts`, no new ACL, BR, or REST endpoint required.
+
+**Story Points:** 5 (assumes AC1's investigation confirms the per-team renderer is cleanly reusable; re-estimate upward if it is not) | **Priority:** Medium | **Dependencies:** CAPMGMT-04 (soft — period-range policy precedent feeds OQ-12; not a hard build blocker)
+**Coupling:** 8↔5 (disambiguation only — no shared code with the Overview Teams column), 8↔6 (disambiguation only — no shared code with the Global view), 8↔4 (period-range policy inheritance, pending OQ-12), 8↔9 (shared per-team table renderer — see CAPMGMT-09 AC8 for sequencing note)
+
+---
+
+### CAPMGMT-09 — Make the AREA column sortable ✅ DELIVERED 2026-07-13
+
+**As a** capacity planner, **I want** to click the AREA column header to sort the table by Area **so that** I can group and scan plan items by business area without manually re-reading the whole table.
+
+**Acceptance Criteria:**
+
+1. ASSUMPTION (locate first, per CAPMGMT-01's pattern): the exact column-header render function and click-to-sort mechanics for the per-team table's AREA column are NOT documented by name in [[capacity-planner]]. Before implementing, the developer must locate in `app.js`: (a) the render function producing the per-team table's column headers (PROJECT | AREA | PRI | month columns | TOTAL, per [[capacity-planner]] §7's `'team'` view description); and (b) whether that table already has ANY column-header click-to-sort behavior on other columns (e.g. PROJECT, PRI) that can be extended to AREA, or whether no column in the per-team table is currently sortable at all — only the `'overview'` view is documented as "sortable," and [[capacity-planner]] does not state per-column sortability for it either. Confirm the current state of both tables before scoping. **[Open Question — see §OQ-15]**
+
+2. OPEN QUESTION — which view(s) this applies to: [[capacity-planner]] describes `'overview'` as a "Flat, sortable table of all plan items" but does not document sortability per column, so it is unknown whether Area is already sortable there today, excluded there today, or whether the raw note is actually about the per-team `'team'` view's AREA column (the screenshot context provided for this backlog is the per-team table). Developer must inspect both tables' current header behavior before finalizing scope. Recommendation: treat **both** the `'team'` view's AREA column and the `'overview'` view's AREA column as in-scope, since the raw note said only "the column Area" without naming a specific view. This is a recommendation, not a decision. **[Open Question — see §OQ-16]**
+
+3. Clicking the AREA column header toggles sort order (ascending / descending) on the currently rendered row set, consistent with whatever sort-toggle affordance (caret indicator, `sortKey`/`sortDir`-style state, etc.) the `'overview'` view already uses for its other sortable columns, if any exist. ASSUMPTION (locate first): reuse that existing mechanism rather than inventing a new sort-UI pattern for just this one column — confirm its exact variable/function names in `app.js` before implementing.
+
+4. ASSUMPTION — sort semantics (pending confirmation, not decided):
+   - Sort is **alphabetical, case-insensitive**, on the Area label text (client field `p.a`, per [[capacity-planner]] §6's REST mapping — `a` = `u_area`, or `business_area` from the linked initiative when linked).
+   - `u_area` is a **`dropdown_with_none`** choice field on `x_u4bsh_capmgmt_initiative` (choices: CCO / Sales / Finance / Legal / People Experience / Marketing / cross function / Global IT / EA / IT / Cloud Ops) — **blank is a valid, expected value**, not an error state, and must be handled explicitly rather than assumed away.
+   - ASSUMPTION: blank Area values sort to the **end** of the list regardless of ascending/descending direction (blanks always last, never reversed by the direction toggle) — a common "missing value" UX convention, but **not confirmed**. The alternative is standard string-sort behavior, where an empty string sorts before all non-empty strings ascending and after them descending (i.e. blank position flips with direction). **[Open Question — see §OQ-17]**
+
+5. CONSTRAINT — sort must not mutate the canonical `projects` array order relied on by `saveToServiceNow()`'s diff-against-`RAW_DATA` baseline (per [[capacity-planner]] §7). Sorting must only reorder what is rendered (a sorted copy, or a comparator applied at render time) — never reorder `projects` in place, to avoid any risk of corrupting the save-diff logic.
+
+6. No new REST endpoint or server-side change: `p.a` (Area) is already present on every plan item returned by `GET /data` (per [[capacity-planner]] §6's client-key mapping table). Sorting is a pure client-side operation on already-loaded data — no change to `capacity-handler.ts`.
+
+7. CAPMGMT-05 / CAPMGMT-06 disambiguation: CAPMGMT-05 widens the Overview Teams column and enriches it with team-allocation info — it does not touch the AREA column or any sort behavior, and is not affected by this story. CAPMGMT-06's Global view is a team × period summary grid with no per-project AREA column at all (its rows are teams, not projects) — Area sorting is inapplicable there and explicitly out of scope. This story is purely an additive sort behavior on an existing column; it changes row order only, never what data is displayed.
+
+8. REUSE — shared table-rendering code with CAPMGMT-08: if CAPMGMT-08 is built per its AC4 recommendation (reusing the existing per-team table renderer, looped once per team), then adding AREA sortability to that **same** renderer in this story means CAPMGMT-08's stacked "All Teams" sections inherit AREA sortability automatically, with zero extra work in CAPMGMT-08. Sequencing note (not a hard dependency in either direction): whichever of CAPMGMT-08/CAPMGMT-09 is built second will touch the shared per-team renderer that the other already touched — that's expected and low-risk, but worth a quick regression check on the other story's behavior after either lands.
+
+**ServiceNow Implementation Notes:**
+- Client file: `src/client/app.js` — locate the header-render code for both the `'team'` view's per-team table and the `'overview'` view's table (search for the literal column header string `'AREA'` / `'Area'` and any existing `sortKey`/`sortDir`/`onclick` pattern on other headers such as PROJECT or PRI).
+- **Do not guess function/variable names** — per AC1/AC2, confirm current sortability state of both tables before writing the comparator.
+- Area field: `p.a` — populated from `u_area` (own field) or `business_area` (linked initiative override), per [[capacity-planner]] §6. `dropdown_with_none` means `p.a === ''` is a normal, expected value to handle in the comparator, not a data-quality bug.
+- Comparator must not mutate `projects` (see AC5) — sort a shallow copy or sort indices, and re-render rows in the new order.
+- No changes to `capacity-handler.ts`, no new ACL, BR, or REST endpoint required.
+
+**Story Points:** 2 | **Priority:** Low | **Dependencies:** None (self-contained, client-only)
+**Coupling:** 9↔8 (shared per-team table renderer — see AC8; sequencing note, not a blocker), 9↔5 / 9↔6 (disambiguation only, no shared code)
+
+---
+
 ## Assumptions, Open Questions & Risks
 
 ### Open Questions (must be resolved before coding begins)
@@ -465,6 +555,15 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | OQ-7c | 7 | Desired width for the Teams column in the Overview table (approximate px or column-count)? | CSS change only — low risk, but needs confirmation |
 | OQ-7d | 7 | Should role teams (BA-BusinessAnalyst, Architecture, PM) be visually distinguished in the Overview Teams column? | Minor styling change if yes |
 | OQ-8 | 8 | "More allocation data still needs validation and import" — does this refer to (a) additional rows for already-imported initiatives, or (b) net-new initiatives not yet in DEV3? | If (b), DATA-01's scope expands and the Generate Plan Items script may need to be re-run first |
+| OQ-9 | 9 | Where exactly do the squares-row render function and the single-team table render function live in `app.js`, and are they separable/reusable, or entangled in one click handler? | CAPMGMT-08 cannot be estimated or coded until this is confirmed |
+| OQ-10 | 9 | Should the new "All Teams" tile coexist with the existing "All Projects" stub, or should the two be consolidated into one tile? | Determines whether this story also inherits/fixes the pre-existing "All Projects" gap |
+| OQ-11 | 9 | Does "divided per team" mean (a) stacked per-team sections reusing the existing per-team table, or (b) one flat table with an added Team column? | Determines whether a new table component must be built (b) or the existing renderer is reused as-is (a) — significant effort delta |
+| OQ-12 | 9 | Does the "All Teams" view honour the user's persisted period range (CAPMGMT-04) like CAPMGMT-05, or always show the full year like CAPMGMT-06? | Determines whether a "Showing all periods" override is needed, or the view inherits monthS/monthE for free |
+| OQ-13 | 9 | Should a project with non-zero allocations to multiple teams appear once under EACH team in the "All Teams" breakdown, given no "primary team" concept exists in the data model? | If a single "primary" team is actually wanted, an undocumented heuristic must be invented and agreed with the business first |
+| OQ-14 | 9 | Should the "All Teams" tile show any stats (e.g. a blended %utilised), or stay plain/label-only like the existing "All Projects" stub? | Determines whether new aggregate-stat calculation logic is needed for the tile itself |
+| OQ-15 | 9 | Does the per-team table (or the overview table) currently have ANY column-header click-to-sort behavior to extend to AREA, or is none of it sortable today? | CAPMGMT-09 cannot be scoped or estimated without knowing the current sort-state mechanism (or absence of one) |
+| OQ-16 | 9 | Does "the column Area should be sortable" apply to the per-team `'team'` view's Area column, the `'overview'` view's Area column, or both? | Determines whether this story touches one render function or two |
+| OQ-17 | 9 | Should blank Area values always sort to the end regardless of sort direction, or follow standard string-sort behavior (blank position flips with direction)? | Affects the comparator implementation and the UX for plan items with no Area set |
 
 ### Assumptions (inline in stories above, repeated here for visibility)
 
@@ -478,6 +577,14 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | A-6 | CAPMGMT-07 | Preferred strategy is exclude-from-count + badge | If sub-row strategy is preferred, render complexity increases |
 | A-7 | CAPMGMT-05 | "Team information" means team names with allocations in active range | If FTE sums are required, aggregation logic is needed |
 | A-8 | CAPMGMT-03 | One `x_u4bsh_capmgmt_period` record exists per calendar month (1:1) | If multiple period records per month, period lookup logic must be more specific |
+| A-9 | CAPMGMT-08 | Recommend stacked per-team sections (option a), reusing the existing per-team table renderer, over a new flat table with a Team column | If flat-table (b) is preferred, a new table component must be built, increasing story points |
+| A-10 | CAPMGMT-08 | Recommend the "All Teams" view honours the persisted period range (like CAPMGMT-05), rather than always showing the full year (like CAPMGMT-06) | If full-year is required instead, a period-range override and "Showing all periods" label must be added, as in CAPMGMT-06 |
+| A-11 | CAPMGMT-08 | A multi-team project appears once under EACH team it has a non-zero allocation to (no "primary team" concept exists in the data model — confirmed against [[capacity-planner]] §3) | If a single "primary" team is required instead, an undocumented heuristic must be invented and agreed first |
+| A-12 | CAPMGMT-08 | The "All Teams" tile matches the plain, stat-less style of the existing "All Projects" stub rather than the %utilised/free/over style of real team tiles | If stats are required, a blended aggregate calculation must be designed, risking a misleading single number across teams |
+| A-13 | CAPMGMT-08 | The pre-existing "All Projects" stub tile stays untouched and out of scope; "All Teams" is a new, third, distinct tile | If business wants the two tiles consolidated instead, this story's scope changes to include fixing/repurposing "All Projects" |
+| A-14 | CAPMGMT-09 | Area sort is alphabetical and case-insensitive on the Area label text (`p.a`) | If a business-defined custom order is required instead, the comparator must be rewritten against an explicit ordering list |
+| A-15 | CAPMGMT-09 | Blank/empty Area values (a valid `dropdown_with_none` state) always sort to the end of the list, regardless of ascending/descending direction | If standard string-sort behavior is expected instead, blank position must flip with direction, which may look inconsistent to users |
+| A-16 | CAPMGMT-09 | "The column Area" in the raw note refers to both the per-team `'team'` view's Area column and the `'overview'` view's Area column | If only one view was meant, scope narrows and story points may reduce |
 
 ### Risks
 
@@ -491,6 +598,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | **Spike-01 finding: no allocation import mechanism exists** | CAPMGMT-03, CAPMGMT-02 | High | If no mechanism exists, CAPMGMT-03 becomes "build the allocation import pipeline from scratch" — significant scope increase; re-estimate before building |
 | **Parent field not populated / owning team cannot fix** | CAPMGMT-07 | Medium | If source data is consistently unpopulated, the hierarchy bug is unmeasurable today — document and revisit when data quality improves |
 | **Reactivating propagate-initiative-changes**: untested at production data volumes; could trigger mass re-saves | OQ-3 | High | Do NOT reactivate without load testing on a non-production instance first |
+| **CAPMGMT-08's approach is contingent on 3 unresolved Open Questions** (OQ-11 divided-per-team interpretation, OQ-12 period-range policy, OQ-13 multi-team handling) that each independently change the implementation approach and effort | CAPMGMT-08 | Medium | Do not start CAPMGMT-08 build until at least OQ-11 is answered; OQ-12/OQ-13 can be resolved during build once OQ-11 lands on option (a) |
 
 ---
 

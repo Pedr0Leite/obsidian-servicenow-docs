@@ -272,7 +272,8 @@ Returns the full dataset for the planner UI in a single call. Response shape:
   "teams": ["TeamA", "TeamB"],
   "roleTeams": ["BA-BusinessAnalyst", "Architecture"],
   "periods": [ { "key": "2025-Jan", "label": "Jan 2025", "seq": 202501, "id": "<sys_id>" } ],
-  "sliderRange": "<start_period_sysid>,<end_period_sysid>"
+  "sliderRange": "<start_period_sysid>,<end_period_sysid>",
+  "showPeriodBar": true
 }
 ```
 
@@ -303,6 +304,8 @@ Plan item fields in `projects`:
 | `softRelease` | `u_soft_planning_release_date` from linked initiative (YYYY-MM) | Only present when linked |
 
 **`sliderRange`:** read from sys_property `x_u4bsh_capmgmt.slider_period_range` (value: `start_period_sysid,end_period_sysid` or empty). When empty, the slider is hidden and the UI uses manual from/to pickers only.
+
+**`showPeriodBar`:** read from sys_property `x_u4bsh_capmgmt.show_period_bar` (boolean string `'true'`/`'false'`). When `false`, the `.mbar` element is hidden and the full period range (`periodS=0`, `periodE=PERIODS.length-1`) is always used — the slider and pickers have no effect. Defaults to `true` when the property is absent or unreadable.
 
 **Linked initiative batch fetch:** all linked `x_u4bsh_initiati_0_initiative` records are loaded in a single `IN` query — not per-row. Same pattern for allocations nested into `ta`.
 
@@ -377,16 +380,24 @@ Vanilla-JS SPA (`src/client/app.js`), served as a BYOUI static page via a `UiPag
 |---|---|
 | `projects` | Single plan item detail/edit view |
 | `heatmap` | Team × month capacity heatmap (the main allocation-vs-headcount view) |
-| `team` | Per-team drill-down: plan item list plus allocation-vs-headcount summary table. Negative remaining FTE styled red (`cap-over` class) |
-| `overview` | Flat, sortable table of all plan items |
+| `team` | Per-team drill-down: plan item list plus allocation-vs-headcount summary table. Negative remaining FTE styled red (`cap-over` class). Also hosts the "All Teams" synthetic view (see below). |
+| `overview` | Flat, sortable table of all plan items. Area column is sortable (CAPMGMT-09). Teams column shows active-period teams, min-width 180px (CAPMGMT-05). |
 | `pipeline` | Kanban-style board grouped by SNOW/ADO status |
 | `allplanitems` | Flat list of every plan item |
+
+**"All Teams" synthetic state (within `team` view):** `selTeam = '__ALL__'` — a client-side synthetic value (not a real team record). Set when the user clicks the "All Teams" tile in the squares row. Triggers `drillAllTeams()` → `renderAllTeams()`, which stacks every team's `_teamDetailHTML()` section vertically in `u_order` sequence. The per-team renderer inherits `teamSort` (sortable Area column) and active period range. No new `switchView()` case — the view key stays `'team'`; only `selTeam` changes.
 
 ### Key client-side state
 
 - **`MONTHS`** — fixed 12-entry array `['Jan', ..., 'Dec']`. Used for bare-month indexing throughout.
-- **`monthS` / `monthE`** — indices into `MONTHS` driving the month-range slider (`mtrack`/`mfill`/`mthumb-s`/`mthumb-e`). A manual from/to `<select>` picker is the fallback input method.
-- **`activeMos()`** = `MONTHS.slice(monthS, monthE + 1)` — single source of truth for which months are in view. Year-unaware (see Known Issues).
+- **`PERIODS`** — array of period objects `{id, label, key, seq}` from `GET /data`, sorted by `month_sequence`. `id` is the sys_id of `x_u4bsh_capmgmt_period`.
+- **`periodS` / `periodE`** — integer indices into `PERIODS` driving the active month range. `activeMos()` = `PERIODS.slice(periodS, periodE + 1).map(p => p.key)`. Year-aware (see Known Issues for `activeMos()` legacy).
+- **`SHOW_PERIOD_BAR`** — boolean module-level state (default `true`). Set from `GET /data` response field `showPeriodBar` (backed by sys_property `x_u4bsh_capmgmt.show_period_bar`). When `false`: the `.mbar` element is hidden, `periodS=0`, `periodE=PERIODS.length-1` always, and `initSlider()` is not called.
+- **`SLIDER_RANGE`** — parsed from `sliderRange` response field (backed by sys_property `x_u4bsh_capmgmt.slider_period_range`). Provides default `startIdx`/`endIdx` into `PERIODS`. When `null` (property empty), the slider is hidden and only manual pickers are shown.
+- **`localStorage` key `x_u4bsh_capmgmt.periodRange`** — persisted period selection, stored as `{s: periodSysId, e: periodSysId}` (year-qualified period sys_ids, NOT raw indices). Written on every slider drag-end, picker change, or track-click. Read on load after `PERIODS` is populated; matched by `id` field (not index). Cleared by the Reset button. Falls back to `SLIDER_RANGE` default when absent or invalid.
+- **`selTeam`** — currently selected team name string, or `'__ALL__'` for the synthetic All Teams view.
+- **`ovSort`** — overview table sort state `{k: 'a'|'n'|'p'|..., d: 1|-1}`. `'a'` = Area column (CAPMGMT-09); blanks always sort last regardless of direction.
+- **`teamSort`** — per-team table sort state (same shape as `ovSort`, separate from `ovSort`). Applied inside `_teamDetailHTML()`, shared across all team drill-downs including the stacked "All Teams" sections.
 - **`projects`** — in-memory array mirroring server `RAW_DATA`. Each plan item `p` carries `p.ta` (team→month→fte), `p.rv`/`p.rc` (review ready/comment), `p.pls` (plan status), `p.ty` (type), `p.ss` (SNOW status), `p.as` (ADO status), etc.
 - **`TEAMS`** — array of active team names driving all team-indexed tables.
 - **`ROLE_TEAMS`** — hardcoded `['BA-BusinessAnalyst', 'Architecture', 'PM']`. Used by `missingRoleTeams(p)` to flag plan items with zero allocation to any of these three role-teams across the active month range. Displayed as a red "!" badge with tooltip.
@@ -394,7 +405,8 @@ Vanilla-JS SPA (`src/client/app.js`), served as a BYOUI static page via a `UiPag
 - **Save** — `saveToServiceNow()` diffs in-memory `projects` against `RAW_DATA` baseline and POSTs only changed cells to `/allocations`.
 - **Export** — `doExport()` / `buildXLSX()` produce a client-side XLSX export. The XLSX library is bundled locally (previously loaded from CDN, which ServiceNow's CSP blocks).
 - **Review workflow** — `u_review_ready` checkbox + `u_review_comment` text per plan item. Shown as green "R" badge in sidebar. Explicitly not a workflow/state machine — just a flag and a note.
-- **Slider period range** — controlled by sys_property `x_u4bsh_capmgmt.slider_period_range` (value: `start_period_sysid,end_period_sysid`). When the property is empty, the slider is hidden and only the manual pickers are shown.
+- **Total Projects KPI** — rendered in `renderOverview()` KPI bar. Filter: `projects.filter(p => plsOf(p) === 'Committed' && p.ty === 'Project').length`. Committed only, Projects only — BAU/Enhancement/Absences excluded (CAPMGMT-01). Caveat: `getData` normalises empty `u_plan_status` to `'Committed'` server-side, so pending-import rows appear Committed until the status Transform Map is applied.
+- **Slider period range** — controlled by sys_property `x_u4bsh_capmgmt.slider_period_range` (value: `start_period_sysid,end_period_sysid`). When the property is empty, the slider is hidden and only the manual pickers are shown. Controlled by sys_property `x_u4bsh_capmgmt.show_period_bar` (boolean); when `false`, the entire `.mbar` is hidden.
 
 ## 8. Import / Transform Pipeline
 
@@ -439,9 +451,13 @@ No write cross-scope privileges exist. The app never writes to the external init
 
 ## 10. System Properties
 
-| Property name | Default | Description |
-|---|---|---|
-| `x_u4bsh_capmgmt.slider_period_range` | `''` (empty) | Slider default range: `start_period_sysid,end_period_sysid`. When empty, the period slider is hidden and the UI shows only the manual from/to pickers. Managed via the `sys_properties` table by an admin. |
+| Property name | Default | Type | Description |
+|---|---|---|---|
+| `x_u4bsh_capmgmt.slider_period_range` | `''` (empty) | string | Slider default range: `start_period_sysid,end_period_sysid`. When empty, the period slider is hidden and the UI shows only the manual from/to pickers. Managed via the `sys_properties` table by an admin. |
+| `x_u4bsh_capmgmt.show_period_bar` | `'true'` | boolean | Controls visibility of the `.mbar` period bar in the Capacity Planner UI. Set to `'false'` to hide it and always use the full period range (`periodS=0`, `periodE=PERIODS.length-1`). When hidden, the slider and pickers have no effect and no localStorage restoring is performed. Declared in `src/fluent/records/system-properties.now.ts`. **Must be created manually in the browser under the `x_u4bsh_capmgmt` scope** — the SDK `Record()` pattern does not auto-create it on deploy due to a placeholder sys_id in `keys.ts` (see [[#12. Known Issues / Architectural Debt\|Known Issues]]). |
+
+> [!warning] show_period_bar must be created manually
+> The SDK `Record()` pattern does not auto-create `sys_properties` records whose `keys.ts` entry has a placeholder sys_id. After deploying, navigate to `sys_properties_list.do`, create the property under scope `x_u4bsh_capmgmt`, copy its real sys_id, and update `src/fluent/generated/keys.ts` key `'sys-prop-show-period-bar'` with the real value. Until then, `showPeriodBar` will always default to `true` (the safe fallback) since the GlideRecord query finds no matching row. Tracked as **Task 49** in `todo.md`.
 
 ## 11. Deployment Workflow
 
@@ -498,6 +514,14 @@ https://unit4dev1.service-now.com/<table>.do?sysparm_query=ORDERBYsys_created_on
 
 > [!note] Save vs. Export distinction
 > `saveToServiceNow()` and `doExport()` / `buildXLSX()` are two distinct actions. The export button was historically wired to save at one point. They must remain separate code paths.
+
+> [!bug] show_period_bar property not auto-created on deploy (Task 49)
+> `src/fluent/records/system-properties.now.ts` declares `show_period_bar_prop` via `Record()` and `keys.ts` has entry `'sys-prop-show-period-bar'` with a placeholder sys_id (`a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6`). The SDK does not create `sys_properties` rows from `Record()` declarations when the sys_id is fake — the deploy finds no record with that sys_id and silently skips it. Same issue likely affects `slider_period_range` (placeholder `d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9`).
+>
+> **Fix:** In-browser, navigate to `sys_properties_list.do`, select scope `x_u4bsh_capmgmt`, create the property manually (name: `x_u4bsh_capmgmt.show_period_bar`, type: boolean, value: true), copy the generated sys_id, and update `src/fluent/generated/keys.ts` with the real value.
+
+> [!note] Open business questions (FUTURE_ANALYSIS.md)
+> Several open questions arose during CAPMGMT-08/09 implementation that need product/business sign-off. See `FUTURE_ANALYSIS.md` in the repo root for the full list, and the mirrored vault note [[capacity-planner-future-analysis]] for a searchable copy.
 
 ## 13. Related Documentation
 

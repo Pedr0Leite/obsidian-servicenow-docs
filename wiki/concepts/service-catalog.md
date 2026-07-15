@@ -13,5 +13,8 @@ Service Catalog reference (image-only folder).
 - [[service-portal]]
 - [[roles-per-module]]
 
+## Related queries
+- [[catalog-item-prefill-and-modal]]
+
 ## Related
 - [[wiki/index|Wiki Index]]

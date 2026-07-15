@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4af562f27265d225",
+        "id": "bf48b560b0f7cabd",
         "type": "tabs",
         "children": [
           {
-            "id": "6225ccd57882eafd",
+            "id": "3dfb2ea6dda5c4cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,14 +176,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "6225ccd57882eafd",
+  "active": "3dfb2ea6dda5c4cb",
   "lastOpenFiles": [
-    "Applications/capacity-planner/capacity-planner-backlog-2026-07.md",
-    "Untitled.canvas",
-    "Clippings/AI Agents.md",
-    "Clippings",
-    "CLAUDE.md",
-    "README.md",
-    "ServiceNow AI Agent"
+    "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
+    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0522699 - The get_lat_long business rule is not populating latitude and longitude.md",
+    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0519074 - ServiceNow Partners - Setting up Deployment Registrations.md",
+    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0516087 - Scheduled job not running with definition present.md",
+    "Clippings/DuplicateMissing Comments in Activity Stream (UI 16) - Support and Troubleshooting.md",
+    "wiki/log.md.tmp.1772.6327aa98196e",
+    "wiki/concepts/service-portal.md.tmp.1772.409b27e58516",
+    "wiki/index.md.tmp.1772.76068b4374df",
+    "wiki/queries/catalog-item-prefill-and-modal.md",
+    "wiki/queries",
+    "wiki/syntheses/genai-prompt-vs-ai-agent.md",
+    "wiki/entities/sn-instance-scan.md",
+    "wiki/entities/capacity-planner.md",
+    "wiki/concepts/workspace.md",
+    "wiki/concepts/tips-and-tricks.md",
+    "wiki/concepts/system-properties.md",
+    "wiki/concepts/service-portfolio-management.md",
+    "wiki/concepts/service-portal.md",
+    "wiki/concepts/service-catalog.md",
+    "wiki/concepts/server-client-scripts.md",
+    "wiki/concepts/scoped-apps.md",
+    "wiki/concepts/roles-per-module.md",
+    "wiki/concepts/random-scripts.md",
+    "wiki/concepts/platform-analytics.md",
+    "wiki/concepts/migrations.md",
+    "wiki/concepts/mid-server.md",
+    "wiki/concepts/logics-and-creations.md",
+    "wiki/concepts/knowledge-base-articles.md",
+    "wiki/concepts/itom.md",
+    "wiki/concepts/integrations.md",
+    "wiki/syntheses",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw/sessions",
+    "raw/inbox",
+    "Untitled.canvas"
   ]
 }
