@@ -15,9 +15,18 @@ Scoped app structure, namespacing (`x_vendor_appname`), update-set packaging, cr
 
 Source: [[raw/sessions/2026-07-14#Session 12:25 — pedro]]
 
+## Client-side scope gotcha: `global.GlideAjax` does not exist
+
+`GlideAjax` is a plain global client API — no namespace prefix. The `global.` prefix is **server-side only**: scoped app server scripts use it to reference global-scope classes (e.g. `new global.GlideRecord(...)`). In a client script, `new global.GlideAjax(...)` throws a silent `ReferenceError` — the button/action does nothing.
+
+Fix: `new GlideAjax('YourScriptInclude')` — no prefix.
+
+Seen in: `sn-instance-scan` (`RunScan.client.js`)
+Source: [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
+
 ## Related concepts
 - [[acls]]
-- [[sn-instance-scan]] — real scoped app in design
+- [[sn-instance-scan]] — real scoped app in active development
 
 ## Related
 - [[wiki/index|Wiki Index]]

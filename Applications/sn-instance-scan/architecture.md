@@ -162,6 +162,7 @@ App name: sn-instance-scan
 | started | Glide Date/Time | |
 | completed | Glide Date/Time | |
 | app_count | Integer | apps in scope for this run |
+| activities | String (8000) | Progressive milestone log; appended by `_appendActivity()` helper, updated immediately after each append for live form visibility. String (not Journal) — queryable, avoids ACL complications of journal fields. |
 
 ## x_snis_iscan_result (one row per scanned app — the primary output table from spec)
 | Field | Type | Notes |
@@ -274,6 +275,31 @@ App name: sn-instance-scan
 | sys_db_object, sys_dictionary, scanned tables | read | (unchanged, OOB) | app relies on requesting user's existing access, grants nothing new |
 
 Note: no ACL in this app should grant broader table access than the user already has — the whole design is "scan under caller's access, fall back cleanly when denied," so the app's own ACLs only gate the *result* tables, never the scanned tables.
+
+## Implementation Decisions (2026-07-15)
+
+### Client-side GlideAjax fix
+`RunScan.client.js` originally used `new global.GlideAjax(...)` — `global` is undefined client-side (Rhino doesn't expose it), causing a silent ReferenceError and the "Run Scan" button doing nothing. Fixed to `new GlideAjax('IscanScanOrchestrator')`.
+
+### Progressive activity logging (`activities` field)
+`_appendActivity(run, message)` helper in `IscanScanOrchestrator`:
+- Prepends `gs.now()` timestamp + message + newline
+- Calls `run.update()` immediately after each append for live form visibility without waiting for scan completion
+
+### Verbose logging additions
+Added `gs.info/warn/error` calls across all six script includes:
+- `IscanAppSelector` — app count resolution and which mode resolved how many apps
+- `IscanTableScanner` — per-app scan mode selection, table profile counts
+- `IscanAppFilesScanner` — file count per type (script includes, BRs, ACLs, flows, UI actions)
+- `IscanSummaryGenerator` — GenAI availability check, prompt size, output length
+- `IscanScanOrchestrator` — scan start/end, per-app timing, error paths
+- `IscanReportGenerator` — PDF generation steps
+
+Build (`now-sdk build`) passes cleanly with all additions — confirmed 2026-07-15. Not yet deployed to any instance; next step is deploying and verifying button fix + activity field live.
+
+Source: [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
+
+---
 
 ## Open design questions (pre-build)
 - Dedicate a `x_snis_iscan.scanner` role (rather than requiring admin) so the ACL-fallback path is testable in ATF.

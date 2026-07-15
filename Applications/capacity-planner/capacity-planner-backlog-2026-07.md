@@ -20,6 +20,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 > Source: Meeting notes 2026-07-09 "Capacity planner - brainstorm" (8 decisions)
 > Follow-up: 2 additional raw notes captured 2026-07-13, turned into CAPMGMT-08 / CAPMGMT-09 (Epic 9) — not part of the original 8 decisions.
+> Follow-up: 3 more issues captured 2026-07-15, turned into CAPMGMT-10 / CAPMGMT-11 / CAPMGMT-12 (Epic 10) — Overview period-reactivity and a new By Project tab.
 > App scope: `x_u4bsh_capmgmt` | Instance: unit4dev1.service-now.com
 > Grounding: [[capacity-planner]], [[generate-capacity-plan-items]], [[capacity-planner-set-start-and-end-date-to-plan-items]]
 
@@ -49,6 +50,9 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | 3 | CAPMGMT-07 | Parent/child hierarchy — defensive counting | Epic 6 | 1↔6; **BLOCKED BY SPIKE-02** |
 | **4 — Follow-up (2026-07-13)** | CAPMGMT-09 | Sortable Area column | Epic 9 | 9↔8: touches the same per-team table renderer CAPMGMT-08 plans to reuse — sequencing it first means CAPMGMT-08 inherits sort behaviour for free |
 | 4 | CAPMGMT-08 | "All Teams" square | Epic 9 | 9↔8 (shared renderer); 8↔4 (period-range policy), 8↔5, 8↔6 (both disambiguation-only, see story) |
+| **5 — Follow-up (2026-07-15)** | CAPMGMT-10 | Total Projects KPI reactive to period range | Epic 10 | 10↔1 (extends CAPMGMT-01's Committed+Project filter, adds period scoping); 10↔4 (reads persisted monthS/monthE) |
+| 5 | CAPMGMT-11 | Click Total Projects to filter list below | Epic 10 | 11↔10 (same filter set, click just applies it to the visible list) |
+| 5 | CAPMGMT-12 | Replace "All plan allocations" tab with "By Project" | Epic 10 | 12↔8 (inverse of the By Team stacked renderer — reuse its pattern, not its code) |
 
 > [!note] Decision 8 (ongoing data migration)
 > Decision 8 ("more allocation data still needs validation and import") is an operational workstream, not a single deliverable. It is represented by DATA-01 (current-state assessment), CAPMGMT-02 (hardening the import path), CAPMGMT-03 (validation tooling), and subsequent manual import iterations that follow those. No separate story is created for "run the import" — that is an operator action, not a build item.
@@ -537,6 +541,66 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 
 ---
 
+## Epic 10 — Overview Period-Reactivity & By Project Tab (Follow-up, 2026-07-15)
+
+> Source: user request 2026-07-15. Three related fixes, all touching the Overview tab's Total Projects KPI and the tab-bar structure. Not part of the original 8 decisions or the Epic 9 follow-ups.
+
+### CAPMGMT-10 — Total Projects KPI (and Planned/Unplanned) reactive to period range
+
+**As a** capacity planning manager, **I want** the Overview's Total Projects square — and its Planned/Unplanned sub-values — to update when I change the selected period **so that** the number reflects what's actually planned in the range I'm looking at, not the whole year.
+
+**Acceptance Criteria:**
+
+1. Today (per CAPMGMT-01) the count is `projects.filter(p => plsOf(p) === 'Committed' && p.ty === 'Project').length` — computed once, across **all** periods, independent of `monthS`/`monthE`. This story adds period scoping on top of that existing filter; it does not remove the Committed+Project filter.
+2. Locate first (per CAPMGMT-01's pattern): the exact DOM element(s) for Planned/Unplanned in `renderOverview()` are not documented in [[capacity-planner]] — confirm their current derivation before changing it. **[Open Question — see §OQ-18]**
+3. Scope both the big value and Planned/Unplanned to the active period range: a project only counts if it has at least one non-zero allocation in `activeMos()`-equivalent year-qualified keys (`p.ta[team][periodKey] > 0` for some team, for some `periodKey` in the active `PERIODS` slice). Use `PERIODS`/period `key`, not bare `MONTHS` slicing (multi-year correctness, per [[capacity-planner#12. Known Issues / Architectural Debt|Known Issues]]).
+4. Recompute on every period-range change: slider drag-end, picker change, and Reset — same triggers CAPMGMT-04 already wires up for `monthS`/`monthE`.
+5. Inherit the existing Committed-only caveat from CAPMGMT-01 (empty `u_plan_status` normalised to `'Committed'` server-side) — same tooltip.
+6. No new REST endpoint — computed client-side from the already-loaded `projects` array.
+
+**Story Points:** 2 | **Priority:** Medium | **Dependencies:** CAPMGMT-01, CAPMGMT-04 (reads persisted monthS/monthE)
+**Coupling:** 10↔1, 10↔4
+
+---
+
+### CAPMGMT-11 — Click Total Projects square to filter the list below
+
+**As a** capacity planner, **I want** clicking the Total Projects square to filter the Overview list to just those projects **so that** I can see which items make up the number without re-deriving the filter myself.
+
+**Acceptance Criteria:**
+
+1. Click toggles a filter on the Overview's plan-item list: filtered set = same Committed + Project + active-period-allocation criteria as CAPMGMT-10. Click again clears it (toggle, not one-way).
+2. Follow the existing tile-click pattern used elsewhere in the SPA (e.g. the All Teams tile) rather than inventing a new interaction model.
+3. `ovSort` continues to apply to the filtered list.
+4. No new REST endpoint or server-side change.
+
+**Story Points:** 2 | **Priority:** Medium | **Dependencies:** CAPMGMT-10 (shares its filter definition)
+**Coupling:** 11↔10
+
+---
+
+### CAPMGMT-12 — Replace "All plan allocations" tab with "By Project"
+
+**As a** capacity planner, **I want** a "By Project" tab that lists every project and the teams allocated to it **so that** I can see project→team associations the same way the By Team tab shows team→project associations.
+
+**Acceptance Criteria:**
+
+1. Removes the `'allplanitems'` view/nav button ("All plan allocations"). New tab "By Project" takes its place in the tab bar.
+2. Structure: a flat vertical list, NOT one tile/square per project — a project header followed by the teams with non-zero allocation to it in the active period range (mirrors the By Team tab's stacked-section pattern from CAPMGMT-08, inverted: project-outer instead of team-outer). Per-team FTE shown under each project.
+3. Derived entirely from `p.ta` client-side (project → team → month → FTE) — no new REST endpoint, no server-side change.
+4. Delete-on-zero: absent keys in `p.ta` mean 0 FTE, not missing data — don't render zero-FTE teams under a project.
+5. Reuse whatever rendering helpers CAPMGMT-08's per-team stacked renderer already established (sort state, CSS, footer patterns) rather than building a second table component from scratch.
+6. Period-range policy: honour the persisted range (`monthS`/`monthE`), consistent with CAPMGMT-08's inherited behaviour — not a full-year override like CAPMGMT-06.
+
+**ServiceNow Implementation Notes:**
+- Client file: `src/client/app.js` — remove/repoint the `'allplanitems'` `switchView()` case and its nav button; add `'byproject'` (or reuse the key — smallest diff wins).
+- Data: `projects` array (`p.n` for name, `p.ta` for team allocations) — already loaded from `GET /data`. No server-side changes.
+
+**Story Points:** 3 | **Priority:** Medium | **Dependencies:** CAPMGMT-08 (reuses its stacked-renderer pattern)
+**Coupling:** 12↔8
+
+---
+
 ## Assumptions, Open Questions & Risks
 
 ### Open Questions (must be resolved before coding begins)
@@ -564,6 +628,7 @@ source: Meeting notes 2026-07-09 "Capacity planner - brainstorm"
 | OQ-15 | 9 | Does the per-team table (or the overview table) currently have ANY column-header click-to-sort behavior to extend to AREA, or is none of it sortable today? | CAPMGMT-09 cannot be scoped or estimated without knowing the current sort-state mechanism (or absence of one) |
 | OQ-16 | 9 | Does "the column Area should be sortable" apply to the per-team `'team'` view's Area column, the `'overview'` view's Area column, or both? | Determines whether this story touches one render function or two |
 | OQ-17 | 9 | Should blank Area values always sort to the end regardless of sort direction, or follow standard string-sort behavior (blank position flips with direction)? | Affects the comparator implementation and the UX for plan items with no Area set |
+| OQ-18 | 10 | Where exactly are the Planned/Unplanned sub-values currently derived in `renderOverview()`, and what distinguishes "planned" from "unplanned" today? | CAPMGMT-10 cannot period-scope a definition it hasn't located yet |
 
 ### Assumptions (inline in stories above, repeated here for visibility)
 
