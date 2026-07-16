@@ -1,0 +1,67 @@
+filters:
+  and:
+    - file.folder.startsWith("wiki")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - area
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Concepts
+    filters:
+      and:
+        - area == "concept"
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Entities
+    filters:
+      and:
+        - area == "entity"
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Queries
+    filters:
+      and:
+        - area == "query"
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Syntheses
+    filters:
+      and:
+        - area == "synthesis"
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Recently touched
+    order:
+      - file.name
+      - area
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 20
