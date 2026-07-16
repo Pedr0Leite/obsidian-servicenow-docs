@@ -1,0 +1,73 @@
+filters:
+  and:
+    - file.folder.startsWith("wiki")
+    - file.name != "index"
+    - file.name != "log"
+    - file.name != "backlinks-log"
+formulas:
+  words: ((file.size - 195) / 7.28).round()
+  backlinks: file.backlinks.length
+  links_out: file.links.length
+  days_old: (now() - file.mtime).days.round()
+views:
+  - type: table
+    name: Needs expansion
+    order:
+      - file.name
+      - area
+      - formula.words
+      - formula.backlinks
+      - file.mtime
+    sort:
+      - property: file.size
+        direction: ASC
+  - type: table
+    name: Weakly linked
+    filters:
+      and:
+        - file.backlinks.length < 5
+    order:
+      - file.name
+      - area
+      - formula.backlinks
+      - formula.links_out
+      - formula.words
+    sort:
+      - property: file.backlinks.length
+        direction: ASC
+  - type: table
+    name: Going stale
+    filters:
+      and:
+        - (now() - file.mtime).days > 30
+    order:
+      - file.name
+      - area
+      - formula.days_old
+      - formula.words
+    sort:
+      - property: file.mtime
+        direction: ASC
+  - type: table
+    name: Broken convention
+    filters:
+      or:
+        - note.area.isEmpty()
+        - file.tags.isEmpty()
+    order:
+      - file.name
+      - area
+      - tags
+      - formula.words
+  - type: table
+    name: All pages
+    order:
+      - file.name
+      - area
+      - formula.words
+      - formula.backlinks
+      - formula.links_out
+      - formula.days_old
+    sort:
+      - property: file.name
+        direction: ASC

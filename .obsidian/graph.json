@@ -1,128 +1,100 @@
 {
   "collapse-filter": true,
-  "search": "",
-  "showTags": true,
+  "search": "path:Applications OR path:ClaudeAgents OR path:ClaudeSkills OR path:Clippings OR path:Dashboards OR path:graphify OR path:logs OR path:Notion OR path:raw OR path:scripts OR path:ServiceNowOfficialDocs/api-reference OR path:ServiceNowOfficialDocs/build-workflows OR path:ServiceNowOfficialDocs/now-assist-ai OR path:ServiceNowOfficialDocs/intelligent-experiences OR path:ServiceNowOfficialDocs/platform-security OR path:ServiceNowOfficialDocs/application-development OR path:ServiceNowOfficialDocs/servicenow-platform OR path:ServiceNowOfficialDocs/it-service-management OR path:ServiceNowOfficialDocs/it-operations-management OR path:ServiceNowOfficialDocs/it-asset-management OR path:ServiceNowOfficialDocs/platform-administration OR path:ServiceNowOfficialDocs/cmdb OR path:ServiceNowOfficialDocs/servicenow-dev-program",
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#employee-service-management",
+      "query": "path:Applications",
       "color": {
         "a": 1,
-        "rgb": 15087942
+        "rgb": 9184404
       }
     },
     {
-      "query": "tag:#servicenow-platform",
+      "query": "path:ServiceNowOfficialDocs/api-reference",
       "color": {
         "a": 1,
-        "rgb": 16032353
+        "rgb": 16744192
       }
     },
     {
-      "query": "tag:#it-operations-management",
+      "query": "path:ServiceNowOfficialDocs/build-workflows",
       "color": {
         "a": 1,
-        "rgb": 2792847
+        "rgb": 65535
       }
     },
     {
-      "query": "tag:#security-management",
+      "query": "path:ServiceNowOfficialDocs/now-assist-ai",
       "color": {
         "a": 1,
-        "rgb": 2508371
+        "rgb": 16711680
       }
     },
     {
-      "query": "tag:#it-service-management",
+      "query": "path:ServiceNowOfficialDocs/intelligent-experiences",
       "color": {
         "a": 1,
-        "rgb": 15167313
+        "rgb": 16776960
       }
     },
     {
-      "query": "tag:#governance-risk-compliance",
+      "query": "path:ServiceNowOfficialDocs/platform-security",
       "color": {
         "a": 1,
-        "rgb": 10182117
+        "rgb": 255
       }
     },
     {
-      "query": "tag:#platform-administration",
+      "query": "path:ServiceNowOfficialDocs/application-development",
       "color": {
         "a": 1,
-        "rgb": 46296
+        "rgb": 65280
       }
     },
     {
-      "query": "tag:#it-business-management",
+      "query": "path:ServiceNowOfficialDocs/servicenow-platform",
       "color": {
         "a": 1,
-        "rgb": 8435992
+        "rgb": 8421376
       }
     },
     {
-      "query": "tag:#customer-service-management",
+      "query": "path:ServiceNowOfficialDocs/it-service-management",
       "color": {
         "a": 1,
-        "rgb": 16758531
+        "rgb": 16744448
       }
     },
     {
-      "query": "tag:#platform-security",
+      "query": "path:Notion",
       "color": {
         "a": 1,
-        "rgb": 8599788
+        "rgb": 16777215
       }
     },
     {
-      "query": "tag:#it-asset-management",
+      "query": "path:ClaudeAgents OR path:ClaudeSkills",
       "color": {
         "a": 1,
-        "rgb": 16483584
-      }
-    },
-    {
-      "query": "tag:#application-development",
-      "color": {
-        "a": 1,
-        "rgb": 448160
-      }
-    },
-    {
-      "query": "tag:#cmdb",
-      "color": {
-        "a": 1,
-        "rgb": 15681391
-      }
-    },
-    {
-      "query": "tag:#now-intelligence",
-      "color": {
-        "a": 1,
-        "rgb": 1149618
-      }
-    },
-    {
-      "query": "tag:#scripts OR tag:#scripting OR tag:#script-include OR tag:#client-script OR tag:#glide-record OR tag:#background-scripts OR tag:#javascript OR tag:#glide-ajax",
-      "color": {
-        "a": 1,
-        "rgb": 16736256
+        "rgb": 33023
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.12083333333333,
+  "nodeSizeMultiplier": 0.8,
+  "lineSizeMultiplier": 0.5,
   "collapse-forces": true,
-  "centerStrength": 0.5,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.026012294873748912,
+  "centerStrength": 0.3,
+  "repelStrength": 5,
+  "linkStrength": 0.5,
+  "linkDistance": 150,
+  "scale": 0.03333333333333333,
   "close": true
 }

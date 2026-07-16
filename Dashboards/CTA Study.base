@@ -1,0 +1,65 @@
+formulas:
+  title: if(note.aliases, note.aliases, file.name)
+filters:
+  and:
+    - file.folder.startsWith("Notion/ServiceNow/CTA")
+views:
+  - type: table
+    name: Exam review queue
+    filters:
+      and:
+        - file.path.contains("TO REVIEW FOR EXAM")
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: By week
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Capstone
+    filters:
+      and:
+        - file.tags.contains("#capstone")
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Case studies
+    filters:
+      and:
+        - file.tags.contains("#case-study")
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: All exam prep
+    filters:
+      and:
+        - file.tags.contains("#exam-prep")
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC

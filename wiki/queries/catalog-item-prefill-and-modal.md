@@ -70,6 +70,46 @@ function($scope, spModal, spUtil) {
 - Options seen: `sys_id` (item to load), `auto_redirect` (string `'false'`/`'true'`, skip cart auto-redirect), `display_cart_on_right` (bool), `disableUIActions` (bool).
 - Not in this example: no `sysparm_variable_values` equivalent — this pattern opens the item but doesn't demonstrate prefill. If prefill-in-modal is still needed, test whether `embeddedWidgetOptions` also accepts a `sysparm_variable_values`-style key, or fall back to option 1/2 below.
 - No vault doc confirms `widget-modal` or `embeddedWidgetOptions` (not present anywhere in `ServiceNowOfficialDocs/`) — this is field-tested by the user, not platform-documented. Treat option list as possibly incomplete.
+
+**Opening in a modal — attempt 3 (user-confirmed, stashes context in URL params instead of `widgetInput`):**
+```js
+function() {
+    var url = new URL(window.location.href);
+    url.searchParams.set('case_number', c.data.number);
+    url.searchParams.set('case_sys_id', c.data.sys_id);
+    url.searchParams.set('account_sys_id', c.data.account || '');
+    url.searchParams.set('account_display', c.data.accountDisplay || '');
+    url.searchParams.set('contact_sys_id', c.data.contact || '');
+    url.searchParams.set('contact_display', c.data.contactDisplay || '');
+    window.history.replaceState(null, '', url.toString());
+
+    spModal.open({
+        title: 'Escalate Case',
+        size: 'lg',
+        widget: 'widget-modal',
+        widgetInput: {
+            embeddedWidgetId: 'widget-sc-cat-item-v2',
+            embeddedWidgetOptions: {
+                sys_id: 'SYS_ID_OF_CATALOG_HERE',
+                auto_redirect: 'false',
+                display_cart_on_right: false,
+                disableUIActions: false
+            }
+        }
+    }).then(function() {
+        var cleanUrl = new URL(window.location.href);
+        ['case_number','case_sys_id','account_sys_id','account_display','contact_sys_id','contact_display'].forEach(function(p) {
+            cleanUrl.searchParams.delete(p);
+        });
+        window.history.replaceState(null, '', cleanUrl.toString());
+    });
+};
+```
+- Same `widget-modal` wrapper as attempt 2, but sidesteps the "does `embeddedWidgetOptions` accept prefill data" open question entirely: instead of passing case/account/contact context through `widgetInput`, it writes those fields onto the page URL (`window.history.replaceState`) right before opening the modal.
+- Lets the embedded catalog item widget's own client script (or any other widget on the page) read the context via `$location.search()` / raw `window.location`, without needing a prefill contract from `widget-sc-cat-item-v2` itself.
+- Cleans up on close: `.then()` on `spModal.open` fires when the modal is dismissed (same close hook as attempt 2's `console.log('Modal closed')`), and strips the injected params back out so the URL doesn't retain stale case/account/contact state after the modal closes.
+- `replaceState` (not `pushState`) is deliberate — avoids adding junk entries to browser history for a value that's only scaffolding for the modal's lifetime.
+- Tradeoff vs. attempt 2: no `sysparm_variable_values` involved at all, so this is for passing *contextual reference data* (which case/account/contact triggered the escalation) rather than prefilling actual catalog variables — pair with option 1/2 under attempt 2, or the iframe pattern below, if the catalog item's own variables still need prefilling.
 - Two ways to de-risk prefill specifically:
   1. Skip the modal, navigate instead (`$location.url('/sp?id=sc_cat_item&sys_id=...&sysparm_variable_values={...}')`) — prefill guaranteed, no modal UX.
   2. Clone `widget-sc-cat-item-v2`, add client-script logic reading `c.data.widgetInput.sysparm_variable_values` (or the `embeddedWidgetOptions` equivalent) and applying it to `c.data.item.variables` on init — modal UX + guaranteed prefill, more work.

@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.folder.startsWith("Applications")
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - file.folder
+      - tags
+    sort:
+      - property: file.folder
+        direction: ASC
+
+  - type: table
+    name: Capacity Planner
+    filters:
+      and:
+        - file.folder.startsWith("Applications/capacity-planner")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: sn-instance-scan
+    filters:
+      and:
+        - file.folder.startsWith("Applications/sn-instance-scan")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Recently touched
+    order:
+      - file.name
+      - file.folder
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 20

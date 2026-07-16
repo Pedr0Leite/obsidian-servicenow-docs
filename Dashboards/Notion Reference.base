@@ -1,0 +1,87 @@
+formulas:
+  title: if(note.aliases, note.aliases, file.name)
+filters:
+  and:
+    - file.folder.startsWith("Notion/ServiceNow")
+views:
+  - type: table
+    name: Raw bulk by topic
+    groupBy:
+      property: note.area
+      direction: ASC
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: My own writing
+    filters:
+      and:
+        - note.source == "custom"
+    order:
+      - formula.title
+      - area
+      - tags
+    sort:
+      - property: area
+        direction: ASC
+
+  - type: table
+    name: All
+    order:
+      - formula.title
+      - area
+      - tags
+    sort:
+      - property: area
+        direction: ASC
+
+  - type: table
+    name: AI & VA
+    filters:
+      and:
+        - note.area == "AI & VA"
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Security & ACL
+    filters:
+      and:
+        - note.area == "Security & ACL"
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Scripts
+    filters:
+      and:
+        - note.area == "Scripts"
+    order:
+      - formula.title
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Recently touched
+    order:
+      - formula.title
+      - area
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 20

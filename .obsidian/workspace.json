@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf48b560b0f7cabd",
+        "id": "d28cb5b14ef73924",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfb2ea6dda5c4cb",
+            "id": "649bbfcc66edd89a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,18 +176,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "3dfb2ea6dda5c4cb",
+  "active": "649bbfcc66edd89a",
   "lastOpenFiles": [
+    "Dashboards/Wiki Health.base",
+    "Dashboards/Wiki.base",
+    "Dashboards/README.md.tmp.7144.f2d8761a8101",
+    "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
+    "Dashboards/CTA Study.base",
+    "Dashboards/CTA Study.base.tmp.7144.7bedb93f85f0",
+    "Dashboards/Wiki Health.base.tmp.7144.0c64f96eadac",
+    "probe.base",
+    "README.md",
+    "Untitled.canvas",
+    "wiki/concepts/service-portal.md.tmp.40020.1784138620851",
+    "wiki/concepts/scoped-apps.md.tmp.40020.1784138615025",
+    "wiki/log.md.tmp.39501.1784138611871",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0522699 - The get_lat_long business rule is not populating latitude and longitude.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0519074 - ServiceNow Partners - Setting up Deployment Registrations.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0516087 - Scheduled job not running with definition present.md",
     "Clippings/DuplicateMissing Comments in Activity Stream (UI 16) - Support and Troubleshooting.md",
-    "wiki/log.md.tmp.1772.6327aa98196e",
-    "wiki/concepts/service-portal.md.tmp.1772.409b27e58516",
-    "wiki/index.md.tmp.1772.76068b4374df",
     "wiki/queries/catalog-item-prefill-and-modal.md",
-    "wiki/queries",
     "wiki/syntheses/genai-prompt-vs-ai-agent.md",
     "wiki/entities/sn-instance-scan.md",
     "wiki/entities/capacity-planner.md",
@@ -205,15 +214,6 @@
     "wiki/concepts/migrations.md",
     "wiki/concepts/mid-server.md",
     "wiki/concepts/logics-and-creations.md",
-    "wiki/concepts/knowledge-base-articles.md",
-    "wiki/concepts/itom.md",
-    "wiki/concepts/integrations.md",
-    "wiki/syntheses",
-    "wiki/entities",
-    "wiki/concepts",
-    "wiki",
-    "raw/sessions",
-    "raw/inbox",
-    "Untitled.canvas"
+    "wiki/concepts/knowledge-base-articles.md"
   ]
 }
