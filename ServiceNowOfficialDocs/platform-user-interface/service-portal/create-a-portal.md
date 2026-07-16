@@ -309,3 +309,4 @@ Your end users can initiate and maintain an Agent Chat conversation in any porta
 - [[c_ServicePortal|Service Portal]]
 - [[configure-onboarding-modals|Configure]]
 - [[onboarding-modals-reference|Reference]]
+- [[portal|Portal]]

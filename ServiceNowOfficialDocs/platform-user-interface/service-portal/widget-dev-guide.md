@@ -168,3 +168,6 @@ Use the following tools to investigate and resolve unexpected behavior in your c
 - [[c_Filters|Filters]]
 - [[create-new-widget|Create a new widget]]
 - [[c_StyleSheets|Style sheets]]
+- [[widget|Widget]]
+- [[widget_html|Widget HTML]]
+- [[widget_link|Widget Link Function]]

@@ -147,3 +147,4 @@ There are several known limitations using widget diagnostics from a portal page:
 
 - [[c_ServicePortal|Service Portal]]
 - [[c_WidgetInstanceOptions|Widget option schema]]
+- [[debugging|Debugging]]

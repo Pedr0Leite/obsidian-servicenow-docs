@@ -49,3 +49,4 @@ Role required: admin or sp\_admin
 
 - [[c_ServicePortal|Service Portal]]
 - [[standard-ticket-page|Standard ticket page]]
+- [[portal_url|Portal URL]]

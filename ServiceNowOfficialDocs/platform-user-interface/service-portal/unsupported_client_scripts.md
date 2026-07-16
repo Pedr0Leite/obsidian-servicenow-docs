@@ -97,3 +97,5 @@ Some client scripts are not supported in Service Portal. Others must have a UI t
 - [[c_ServicePortal|Service Portal]]
 - [[form-widget|Form widget]]
 - [[sc-catalog-item-widget|SC Catalog Item widget]]
+- [[client_scripting|Client Scripting]]
+- [[widget_client_script|Widget Client Script]]

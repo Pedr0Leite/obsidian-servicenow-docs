@@ -39,3 +39,4 @@ The Theme Preview widget appears in the Branding Editor and allows you to see an
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[page_layout|Page Layout]]

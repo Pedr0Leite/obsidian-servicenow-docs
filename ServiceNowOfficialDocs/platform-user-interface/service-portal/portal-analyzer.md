@@ -67,3 +67,4 @@ Use the exported list to consider which pages and widgets to focus on while rede
 
 - [[c_ServicePortal|Service Portal]]
 - [[onboarding-modals-reference|Reference]]
+- [[debugging|Debugging]]

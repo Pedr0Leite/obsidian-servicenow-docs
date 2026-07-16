@@ -83,3 +83,4 @@ Role required: admin or sp\_admin
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[widget_dependencies|Widget Dependencies]]

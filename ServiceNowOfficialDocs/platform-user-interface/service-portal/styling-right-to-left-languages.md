@@ -44,3 +44,4 @@ You can control the generation of CSS for right-to-left languages using a variet
 
 - [[c_ServicePortal|Service Portal]]
 - [[sp-analytics|Usage Insights for Service Portal]]
+- [[accessibility|Accessibility]]

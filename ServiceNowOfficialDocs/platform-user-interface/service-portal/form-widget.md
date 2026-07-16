@@ -87,3 +87,4 @@ Not all client scripts are supported in the Service Portal. To understand how cl
 
 - [[c_ServicePortal|Service Portal]]
 - [[form-configurable-workspace|Forms]]
+- [[form|Form Widget]]

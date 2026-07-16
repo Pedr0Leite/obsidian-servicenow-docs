@@ -195,3 +195,4 @@ Show or hide the widget footer
 
 - [[t_CreatingFilters|Create a filter in List]]
 - [[c_ServicePortal|Service Portal]]
+- [[widget_record_watch|Widget Record Watch]]

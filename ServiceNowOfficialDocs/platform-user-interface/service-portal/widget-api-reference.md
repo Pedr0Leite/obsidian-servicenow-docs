@@ -163,3 +163,8 @@ A `promise` represents the eventual result of an asynchronous operation. For mor
 - [[onboarding-modals-reference|Reference]]
 - [[search-widgets|Search widgets]]
 - [[c_Filters|Filters]]
+- [[spModal|spModal API]]
+- [[widget_client_script_apis|spUtil (Client Script APIs)]]
+- [[widget|Widget]]
+- [[widget_server_script|Widget Server Script]]
+- [[widget_server_script_apis|$sp API (Server Script APIs)]]

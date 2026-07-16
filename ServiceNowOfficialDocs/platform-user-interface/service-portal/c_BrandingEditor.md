@@ -133,3 +133,4 @@ Changes made to the theme colors in the Branding Editor appear in the CSS variab
 
 - [[c_ServicePortal|Service Portal]]
 - [[home-page-search-widget|Homepage Search widget]]
+- [[page_layout|Page Layout]]

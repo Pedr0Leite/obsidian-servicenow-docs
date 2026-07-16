@@ -126,3 +126,5 @@ For more information, see the [Service Catalog on Service Portal](https://www.se
 
 - [[form-configurable-workspace|Forms]]
 - [[c_ServicePortal|Service Portal]]
+- [[form|Form Widget]]
+- [[service_catalog_patch2_changes|Service Catalog Patch 2 Changes]]

@@ -74,3 +74,4 @@ Advanced users can define what options are available for a widget. For more info
 - [[onboarding-modals-reference|Reference]]
 - [[c_FormFields|Form fields]]
 - [[c_ServicePortal|Service Portal]]
+- [[widget_instances|Widget Instances]]

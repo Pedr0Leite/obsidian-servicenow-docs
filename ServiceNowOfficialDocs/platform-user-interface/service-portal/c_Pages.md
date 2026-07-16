@@ -64,3 +64,4 @@ Redirect all references from Service Portal widgets to route to a new page with 
 - [[c_ServicePortal|Service Portal]]
 - [[configure-onboarding-modals|Configure]]
 - [[attachments-configurable-workspace|Attachments]]
+- [[page|Page]]

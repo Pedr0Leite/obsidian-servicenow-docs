@@ -124,3 +124,4 @@ Service Portal is an alternative presentation layer for the platform. As such, n
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[service_portal|Service Portal (community)]]

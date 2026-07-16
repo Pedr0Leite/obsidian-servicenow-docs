@@ -85,3 +85,4 @@ Use this widget to add catalog items or record producers to the wish list so tha
 - [[lists-configurable-workspace|Lists]]
 - [[sc-scroll-to-top|SC Scroll to top widget]]
 - [[sc-shopping-cart|SC Shopping Cart widget]]
+- [[service_catalog_patch2_changes|Service Catalog Patch 2 Changes]]

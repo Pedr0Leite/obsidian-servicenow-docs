@@ -65,3 +65,7 @@ To log out of the portal, select your avatar and then select **Logout**. Then, c
 
 [Login widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/login-widget.md)
 
+## Related
+
+- [[sso_configuration|SSO, Login & Redirect]]
+

@@ -253,3 +253,5 @@ getMessage\(String messageKey, Function callback\)
 - [[form-configurable-workspace|Forms]]
 - [[form-widget|Form widget]]
 - [[c_ConditionBuilder|Condition builder]]
+- [[client_scripting|Client Scripting]]
+- [[widget_client_script|Widget Client Script]]

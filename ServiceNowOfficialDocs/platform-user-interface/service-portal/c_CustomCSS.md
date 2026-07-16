@@ -260,3 +260,5 @@ Use Coral dark theme on a portal to improve focus, readability, and accessibilit
 - [[c_FormContextMenu|Form context menu]]
 - [[c_StyleSheets|Style sheets]]
 - [[create-theme-variant|Create a theme variant]]
+- [[css|Service Portal CSS]]
+- [[css_scoped|Scoped Page/Widget CSS]]

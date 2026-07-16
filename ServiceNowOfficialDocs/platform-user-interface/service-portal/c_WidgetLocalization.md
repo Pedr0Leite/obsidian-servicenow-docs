@@ -83,3 +83,4 @@ HTML template
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[widget_internationalization|Widget Internationalization]]

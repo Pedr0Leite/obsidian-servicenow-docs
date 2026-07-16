@@ -111,5 +111,7 @@ When [[widget-dev-guide|developing custom widgets]], keep these general guidelin
 - [[c_Filters|Filters]]
 - [[attachments-configurable-workspace|Attachments]]
 - [[c_ServicePortal|Service Portal]]
+- [[widget|Widget]]
+- [[widget_server_script|Widget Server Script]]
 - [[form-configurable-workspace|Forms]]
 - [[c_Tags|Tags]]

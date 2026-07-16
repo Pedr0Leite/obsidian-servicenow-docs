@@ -206,3 +206,4 @@ Each instance of the clock in the embedded clock widget appears with a different
 ## Related
 
 - [[cool-clock-widget|Cool Clock widget]]
+- [[widget_embedded|Embedded Widgets]]

@@ -106,6 +106,7 @@ You can include font icons wherever a widget is loaded by including them as a wi
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[widget_dependencies|Widget Dependencies]]
 - [[c_StyleSheets|Style sheets]]
 - [[c_RelatedLists|Related lists]]
 - [[onboarding-modals-reference|Reference]]

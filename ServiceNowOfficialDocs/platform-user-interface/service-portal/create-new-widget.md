@@ -57,3 +57,4 @@ Role required: admin or sp\_admin
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[widget|Widget]]

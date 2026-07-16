@@ -212,3 +212,4 @@ Test the option schema by adding the widget to a page in the Service Portal Desi
 - [[onboarding-modals-reference|Reference]]
 - [[c_ServicePortal|Service Portal]]
 - [[c_Filters|Filters]]
+- [[widget_options|Widget Options]]

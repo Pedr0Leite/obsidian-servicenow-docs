@@ -443,3 +443,4 @@ You can select an icon from the icon set for any widget on this page. For exampl
 - [[configure-onboarding-modals|Configure]]
 - [[c_Tags|Tags]]
 - [[html-widget|HTML widget]]
+- [[page|Page]]

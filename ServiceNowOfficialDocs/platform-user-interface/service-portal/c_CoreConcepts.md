@@ -36,3 +36,4 @@ Widget instances get their logic from the base widget template, client scripts, 
 ## Related
 
 - [[c_ServicePortal|Service Portal]]
+- [[service_portal|Service Portal (community)]]
