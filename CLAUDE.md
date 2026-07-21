@@ -192,3 +192,30 @@ Everything else — SessionStart context injection, SessionEnd/PreCompact captur
 - Never edit `raw/sessions/` entries by hand — treat them like any other raw source, immutable once written.
 - `compile.py`'s schema input is *this file* (`CLAUDE.md`), not the compiler's own `AGENTS.md` — keep the "LLM Wiki" and "Self-evolving memory" sections here accurate, since they're what the compiler actually reads.
 - If a session's project isn't ServiceNow-related, its facts still land in `raw/sessions/` (capture is global/automatic) but should generally *not* get compiled into this ServiceNow-specific `wiki/` — use judgment at compile time, or skip that day's non-SN sessions when running `compile.py --file`.
+
+---
+
+## Second-brain retrieval for the ClaudeAgents pipeline (semantic search MCP)
+
+The `ClaudeAgents` team (`ba-agent`, `architect`, `developer`, orchestrated by `orchestrator`), defined globally at `~/.claude/agents/` and mirrored in this repo at `ClaudeAgents/`, treats this vault as a second brain: curated Unit4 implementation notes, prior architectural decisions, and known gotchas that are higher signal than raw `ServiceNowDocs` for "has this been solved before" questions. Those three agents consult it **before planning or executing** — BA before writing stories, Architect before designing, Developer before building.
+
+### The two tools, and when each applies
+| Tool | What it does | Use for |
+|---|---|---|
+| `semantic_search` MCP tool (server `smart-connections`) | Ranks the whole vault by meaning against a query, via the [smart-connections-mcp](https://github.com/dan6684/smart-connections-mcp) server reading the local embedding index the [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) plugin builds | **Finding** the relevant note(s) fast, phrasing-agnostic — the default first move |
+| `obsidian-cli` (built into Obsidian, see the `obsidian-cli` skill) | Literal keyword search (`obsidian search`), plus read/create/append/property operations against a running Obsidian instance | **Reading/writing** the exact note once found, or as a keyword-search fallback if the MCP server is unreachable |
+
+Why not just grep: keyword search over ~46k official docs on a common term ("Business Rule", "ACL") returns noisy, unranked hits that need several follow-up reads to resolve — more tokens, more time. Semantic search returns the actually-relevant chunks in one call. `obsidian-cli`'s literal search still exists as the fallback path and for everything that isn't retrieval (opening a specific note, appending a session log, setting a property).
+
+### Retrieval order (mirrors the ServiceNow MCP tool-priority pattern already in this file)
+1. `semantic_search` MCP — always try first
+2. `obsidian-cli search` — fallback only if the MCP server is unreachable
+3. Direct file read of the vault — last resort
+
+### Setup
+Run `scripts/install-second-brain-mcp.sh` (clones `smart-connections-mcp`, sets up its `uv` venv, prints the `~/.mcp.json` registration block). The Smart Connections plugin is already enabled in this vault's `.obsidian/plugins/`; it needs the vault opened in Obsidian at least once to build its embedding index before `semantic_search` has anything to read. See `ClaudeAgents/README.md`'s Dependencies section for the full agent-facing reference.
+
+### Rules specific to this layer
+- This is a read-mostly retrieval layer for the agent pipeline — it does not replace the `wiki/` ingest/query/lint flow above; `wiki/index.md` stays the curated map, semantic search is how agents (and you) find raw sources fast when the wiki doesn't have the answer yet.
+- Don't hand-edit `.smart-env/` — it's the plugin's generated embedding index, same rule as `graphify/`.
+- If `smart-connections-mcp` is unreachable, agents fall back to `obsidian-cli` search and must say so rather than silently skipping the second brain.

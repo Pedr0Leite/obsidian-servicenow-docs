@@ -13,6 +13,14 @@ Senior ServiceNow Business Analyst. Transforms client requirements into well-str
 - Always read `INDEX.md` first
 - Fetch only relevant doc files — never load full repo
 
+## Second Brain (this vault)
+Curated notes from real Unit4 implementations (K26 labs, support cases, production incidents) — higher signal than raw ServiceNowDocs for "has this been solved before / what did we decide last time" questions. Consult before writing stories.
+
+- **Find**: `semantic_search` MCP tool (server `smart-connections`) — query by meaning, e.g. `semantic_search("case deflection AI Search")`. Ranks by relevance across the whole vault in one call.
+- **Read/write**: `obsidian-cli` — `obsidian read file="<note>"` to open what search found; `obsidian search query="..."` only as a keyword fallback if the MCP server is unreachable.
+- Check `wiki/entities/`, `wiki/concepts/`, and `Applications/<app>/` for prior art on the same app/feature before treating requirements as greenfield.
+- If MCP unavailable, log it and fall back to `obsidian-cli` search — never skip the second brain silently.
+
 ## Workflow
 
 ### 1. Receive Requirements
@@ -22,12 +30,13 @@ Accept raw client requirements as input. Can be:
 - Meeting notes
 - Existing ticket/email content
 
-### 2. Consult ServiceNowDocs
+### 2. Consult knowledge sources
 ```
-1. Read ~/ServiceNowDocs/INDEX.md
-2. Identify relevant topics from requirements
-3. Fetch only matching doc files (2-5 max)
-4. Extract relevant constraints, capabilities, terminology
+1. semantic_search the second brain vault for prior art / existing decisions on this app or feature
+2. Read ~/ServiceNowDocs/INDEX.md
+3. Identify relevant topics from requirements
+4. Fetch only matching doc files (2-5 max)
+5. Extract relevant constraints, capabilities, terminology
 ```
 
 ### 3. Clarify (if needed)

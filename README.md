@@ -197,6 +197,41 @@ Its session data still lands in `raw/sessions/` (capture is global and automatic
 **Can I prune old `raw/sessions/` entries once they're compiled?**
 Yes — `uv run python scripts/prune.py` (from `~/.claude/claude-memory-compiler/`). It archives (never deletes) a daily log into `raw/sessions/archive/` once it's both older than the retention window (default 30 days, override with `--days`) and confirmed fully compiled — anything not yet compiled is left in place and listed so you can run `compile.py` first. Archived files keep their filename, so `[[raw/sessions/<date>#anchor]]` provenance backlinks already in `wiki/` pages keep resolving (Obsidian links by basename, not folder path). `--dry-run` previews without moving anything.
 
+## Second-brain retrieval for ClaudeAgents (semantic search MCP)
+
+`ClaudeAgents/` (BA → Architect → Governance → Developer → Tester) treats this vault as a second brain — curated Unit4 implementation notes and prior decisions that beat re-deriving everything from raw `ServiceNowDocs`. BA, Architect, and Developer now consult it before planning or executing, via two complementary tools:
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  ba-agent / architect / developer                            │
+│                                                                │
+│  1. semantic_search MCP (server: smart-connections)          │
+│     → ranks this vault by meaning, one call, phrasing-agnostic│
+│                                                                │
+│  2. obsidian-cli                                              │
+│     → reads/writes the exact note the search found;          │
+│       literal keyword search as fallback if MCP is down       │
+└──────────────────────────────────────────────────────────────┘
+```
+
+Why two tools instead of one: keyword search over ~46,000 official docs on a common term returns noisy, unranked hits — semantic search resolves that in one call by ranking meaning, not exact wording. `obsidian-cli` remains for everything that isn't retrieval (reading a specific note, appending a session log) and as the fallback path if the MCP server is unreachable.
+
+**Setup:**
+```bash
+./scripts/install-second-brain-mcp.sh
+```
+Then open this vault in Obsidian once with the Smart Connections plugin enabled (already installed under `.obsidian/plugins/smart-connections/`) so it builds the local embedding index the MCP server reads. Full architecture and retrieval-order rules: `CLAUDE.md` under "Second-brain retrieval for the ClaudeAgents pipeline"; agent-facing dependency table: `ClaudeAgents/README.md`.
+
+**Repos this pulls in:**
+
+| Repo | Purpose |
+|---|---|
+| [dan6684/smart-connections-mcp](https://github.com/dan6684/smart-connections-mcp) | MCP server exposing this vault's embedding index as the `semantic_search` tool |
+| [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) | Obsidian plugin that builds the local embedding index (already installed in this vault) |
+| [Pedr0Leite/claude-memory-compiler](https://github.com/Pedr0Leite/claude-memory-compiler) | Self-evolving `wiki/` layer, see above — installed via `scripts/install-memory-compiler.sh` |
+| [ServiceNow/ServiceNowDocs](https://github.com/ServiceNow/ServiceNowDocs) | Official platform docs consulted via `search_docs` MCP tool, secondary to the second brain |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | OOTB-first discipline for the Developer agent |
+
 ## Content types
 
 | Location | Content |
@@ -240,7 +275,7 @@ For custom `now-assist-ai/` content, use **`ServiceNowOfficialDocs/now-assist-ai
 
 For personal notes, browse `Notion/ServiceNow/` by topic folder.
 
-For building a new ServiceNow feature end-to-end, see **`ClaudeAgents/README.md`** and start with the `orchestrator` agent.
+For building a new ServiceNow feature end-to-end, see **`ClaudeAgents/README.md`** and start with the `orchestrator` agent. Those agents query this vault via semantic search before planning/building — see "Second-brain retrieval for ClaudeAgents" above.
 
 For the structure of a specific codebase, check **`graphify/<project>/`** (or the project's `graphify-out/graph.html` for an interactive view).
 

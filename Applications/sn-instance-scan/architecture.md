@@ -299,6 +299,24 @@ Build (`now-sdk build`) passes cleanly with all additions — confirmed 2026-07-
 
 Source: [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
 
+## Debugging Notes (2026-07-20)
+
+### Execute ACL on `IscanScanOrchestrator` blocking GlideAjax
+
+**Symptom:** "Run Scan" button returned "No response from the scan service" with zero server-side logs — not even the first `gs.info` at the top of `IscanScanOrchestrator.runScanAjax` fired.
+
+**Root cause:** Zero logs at the method entry point means the Script Include body never ran — this is the fingerprint of an execute ACL denial, not a code error. The execute ACL for `IscanScanOrchestrator` grants only to `x_335329_iscan.scanner`; the user was `admin` but not a member of that role.
+
+**Update (session 21:33):** User confirmed calling user is `admin`. Since admin bypasses ACL evaluation entirely, the execute ACL hypothesis is eliminated. With admin producing zero server logs, the request likely never left the browser — the problem is client-side.
+
+**Next diagnostic step (pending):** Open browser DevTools on the form, click "Run Scan", and check:
+1. **Console** — any JS error before/during the click handler (e.g. `runScanAsync is not defined`).
+2. **Network** (filter: `xmlhttp.do`) — confirm whether a POST with `sysparm_processor=x_335329_iscan.IscanScanOrchestrator` and `sysparm_name=runScanAjax` is actually sent; inspect response body if so.
+
+**Status (2026-07-20):** Unresolved — awaiting DevTools results.
+
+Sources: [[raw/sessions/2026-07-20#Session 21:28 — sn-instance-scan]], [[raw/sessions/2026-07-20#Session 21:33 — sn-instance-scan]]
+
 ---
 
 ## Open design questions (pre-build)
@@ -308,6 +326,8 @@ Source: [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
 ## Related
 - [[sn-instance-scan/prompt|sn-instance-scan Build Prompt]]
 - [[sn-instance-scan/test-plan|sn-instance-scan Test Plan]]
+- [[sn-instance-scan/prompt-v2-improvements|sn-instance-scan v2 Improvements Build Prompt]]
+- [[sn-instance-scan/architecture-v2|sn-instance-scan Architecture v2]]
 - [[scoped-apps]]
 - [[acls]]
 - [[gliderecord-patterns]]

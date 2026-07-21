@@ -76,3 +76,42 @@ Schema documented in `CLAUDE.md` under "LLM Wiki".
   - Contradiction in [[catalog-item-prefill-and-modal]]: troubleshooting section validates `sysparm_id` as correct, but the working fix (attempt 2) uses `sys_id` inside `embeddedWidgetOptions` instead — guidance and working solution disagree, needs reconciling.
   - 10 orphan concept pages (ciwf, cta, email, flow-designer, integrations-diagrams, migrations, platform-analytics, random-scripts, server-client-scripts, tips-and-tricks) — no inbound links yet.
 - Suggestions: 16 missing-backlink auto-fixes, 33 sparse-article flags (mostly the older Notion-derived concept pages under ~15-70 words) — not actioned, left for a future lint-fix pass.
+
+
+
+## [2026-07-20] auto-ingest | 2026-07-15.md (pass 2 — session 22:25)
+- Source: `raw/sessions/2026-07-15.md`
+- Pages created: none
+- Pages updated:
+  - [[catalog-item-prefill-and-modal]] — appended same-origin CSS injection pattern (hide portal header in iframe via `contentDocument` style injection) and `$interval` URL-poll pattern for auto-closing Bootstrap modal on catalog item submit (`widget-sc-cat-item-v2` uses Angular `$location`, `onload` never refires).
+  - [[service-portal]] — added gotcha: `widget-sc-cat-item-v2` submits via `$location` client-side routing (not full page load); `contentWindow.location` throws transiently during navigation; cancel `$interval` on close and `$scope.$destroy`.
+- Session skipped (already compiled in pass 1 at 19:04): `obsidian-servicenow-docs` (09:47, FLUSH_OK), `obsidian-servicenow-docs` (14:21), `sn-instance-scan` (16:58), `claude-memory-compiler` (19:04).
+
+## [2026-07-20] auto-ingest | 2026-07-16.md
+- Source: `raw/sessions/2026-07-16.md`
+- Pages created: none
+- Pages updated: [[server-client-scripts]] — added Business Rule gotcha: never call `current.update()` inside a BR (causes loop + duplicate notifications + extra DB writes; reusable logic → Script Includes)
+- Sessions skipped: `linuxsnippingtool` (17:32, clippick Linux app — non-SN), `documents` (17:33, GNOME extension fix — non-SN), all FLUSH_ERROR/FLUSH_OK flushes (no content)
+- capacity-planner Epic 10 backlog (CAPMGMT-10/11/12) already reflected in `Applications/capacity-planner/capacity-planner-backlog-2026-07.md`; period-scoping fix direction already documented in the backlog ACs and architecture note — no net-new content to compile
+
+## [2026-07-20] ingest | sn-instance-scan v2 improvements build prompt
+- Source: user request (chat), not a raw source drop.
+- Pages created: [[Applications/sn-instance-scan/prompt-v2-improvements]] — build prompt for two additive v2 changes: (1) `x_snis_iscan_result.llm_context` field + refactored `IscanSummaryGenerator.buildPrompt()` to emit a self-contained, copy-paste-ready architecture context block for external LLMs (names not just counts for business rules/script includes/flows/ACLs/UI actions); (2) new `x_snis_iscan_run.comments` Journal field + Activity formatter on the run form, additive alongside the existing String `activities` field (not a replacement — journal ACL complications were the original reason `activities` is String).
+- Pages updated: [[sn-instance-scan]] (entity pointer) — added source-note link to the v2 prompt, one-line status update in the summary.
+- Not yet built — spec only, per existing v1 prompt.md convention (Applications/<app>/ holds the spec; wiki entity stays a thin pointer).
+
+## [2026-07-20] auto-ingest | 2026-07-20.md
+- Source: `raw/sessions/2026-07-20.md`
+- Pages created: none
+- Pages updated:
+  - [[acls]] — added `## Gotchas` section: GlideAjax zero server logs = execute ACL denial fingerprint (Script Include body never ran); diagnostic steps; scoped execute ACL role does not auto-grant to `admin`.
+  - `Applications/sn-instance-scan/architecture.md` — added `## Debugging Notes (2026-07-20)`: `IscanScanOrchestrator` execute ACL blocking GlideAjax for admin user; unresolved, action item to verify ACL record.
+- Sessions skipped: all FLUSH_ERROR/FLUSH_OK flushes (14:14, 14:18, 14:46, 16:59, 21:25) — no content.
+
+## [2026-07-20] auto-ingest | 2026-07-20.md (pass 2 — session 21:33)
+- Source: `raw/sessions/2026-07-20.md`
+- Pages created: none
+- Pages updated:
+  - [[acls]] — extended GlideAjax zero-logs gotcha into a two-stage diagnostic: stage 1 (non-admin) = execute ACL denial; stage 2 (admin) = client-side problem, request never sent. Admin bypasses ACL evaluation entirely — zero logs + admin user = look at browser DevTools (Console + Network / `xmlhttp.do`).
+  - `Applications/sn-instance-scan/architecture.md` — updated debugging notes: admin confirmed → ACL hypothesis eliminated → new direction client-side; next action is DevTools check (Console for JS errors, Network for `xmlhttp.do` POST).
+- Sessions skipped: all FLUSH_ERROR/FLUSH_OK flushes (already noted in pass 1); session 21:28 already compiled in pass 1.

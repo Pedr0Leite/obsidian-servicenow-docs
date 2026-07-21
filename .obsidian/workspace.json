@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d28cb5b14ef73924",
+        "id": "c8656adbf8db8c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "649bbfcc66edd89a",
+            "id": "7c4df5bcd771d897",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "60786de7d41419e6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,24 +183,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "649bbfcc66edd89a",
+  "active": "7c4df5bcd771d897",
   "lastOpenFiles": [
-    "Dashboards/Wiki Health.base",
-    "Dashboards/Wiki.base",
-    "Dashboards/README.md.tmp.7144.f2d8761a8101",
-    "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
-    "Dashboards/CTA Study.base",
-    "Dashboards/CTA Study.base.tmp.7144.7bedb93f85f0",
-    "Dashboards/Wiki Health.base.tmp.7144.0c64f96eadac",
-    "probe.base",
+    "Applications/sn-instance-scan/architecture-v2.md",
+    "Applications/sn-instance-scan/prompt-v2-improvements.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-events-customer-success-about.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-get-started.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-activate.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-account-onboard-playbook.md",
+    "README.md.tmp.32186.85058b6ed770",
+    "README.md.tmp.32186.58155766658a",
+    "CLAUDE.md.tmp.32186.b2717bfc6dab",
+    "scripts/install-second-brain-mcp.sh",
+    "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
+    "ClaudeAgents/orchestrator.md.tmp.32186.eeb74710623b",
+    "ClaudeAgents/orchestrator.md.tmp.32186.3f8a52ffae03",
+    "ClaudeAgents/orchestrator.md.tmp.32186.0c144a7d85ef",
+    "ClaudeAgents/developer.md.tmp.32186.260fdf8f5389",
+    "ClaudeAgents/developer.md.tmp.32186.a3ec0a56d9ed",
+    "raw/sessions/2026-07-20.md",
     "README.md",
     "Untitled.canvas",
-    "wiki/concepts/service-portal.md.tmp.40020.1784138620851",
-    "wiki/concepts/scoped-apps.md.tmp.40020.1784138615025",
-    "wiki/log.md.tmp.39501.1784138611871",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0522699 - The get_lat_long business rule is not populating latitude and longitude.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0519074 - ServiceNow Partners - Setting up Deployment Registrations.md",
@@ -208,12 +228,6 @@
     "wiki/concepts/service-catalog.md",
     "wiki/concepts/server-client-scripts.md",
     "wiki/concepts/scoped-apps.md",
-    "wiki/concepts/roles-per-module.md",
-    "wiki/concepts/random-scripts.md",
-    "wiki/concepts/platform-analytics.md",
-    "wiki/concepts/migrations.md",
-    "wiki/concepts/mid-server.md",
-    "wiki/concepts/logics-and-creations.md",
-    "wiki/concepts/knowledge-base-articles.md"
+    "wiki/concepts/roles-per-module.md"
   ]
 }
