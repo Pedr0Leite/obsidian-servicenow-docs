@@ -378,14 +378,14 @@ Vanilla-JS SPA (`src/client/app.js`), served as a BYOUI static page via a `UiPag
 
 | View key | Description |
 |---|---|
-| `projects` | Single plan item detail/edit view |
+| `projects` | Single plan item detail/edit view. Two cards, **Capacity Allocation first, then project-info** (title/dates/badges/comments), then a Ready-for-review card. Order is set by reordering the rendered `.dcard` nodes in `renderDetail()`, not the template. |
 | `heatmap` | Team × month capacity heatmap (the main allocation-vs-headcount view) |
 | `team` | Per-team drill-down: plan item list plus allocation-vs-headcount summary table. Negative remaining FTE styled red (`cap-over` class). Also hosts the "All Teams" synthetic view (see below). |
-| `overview` | Flat, sortable table of all plan items. Area column is sortable (CAPMGMT-09). Teams column shows active-period teams, min-width 180px (CAPMGMT-05). |
-| `pipeline` | Kanban-style board grouped by SNOW/ADO status |
-| `allplanitems` | Flat list of every plan item |
+| `overview` | Flat, sortable table of all plan items. Area column is sortable (CAPMGMT-09). Teams column shows active-period teams, min-width 180px (CAPMGMT-05). Excludes `Removed` plan items by default (honours the **Show removed** toggle). KPI bar has a **?** help button opening a glossary modal (see `KPI_GLOSSARY` / `docs/KPI-GLOSSARY.md`). |
+| `pipeline` | Kanban-style board grouped by **SNOW status only** (`p.ss`). Columns follow `SS_ORDER`; any status value present in data but not in `SS_ORDER` gets its own column appended (label/dot fall back to the raw value), and blank status shows under a **"No status"** column — unmapped statuses are never silently dropped. |
+| `allplanitems` | **"By Project"** — stacked, one section per project (inverted mirror of All Teams), listing every team with a non-zero allocation to that project in the active period range, with per-team month grid + Allocated footer. Projects with no in-range allocation are omitted; name search still applies. Renderer: `renderAllPlanItems()` → `_projDetailHTML()`. |
 
-**"All Teams" synthetic state (within `team` view):** `selTeam = '__ALL__'` — a client-side synthetic value (not a real team record). Set when the user clicks the "All Teams" tile in the squares row. Triggers `drillAllTeams()` → `renderAllTeams()`, which stacks every team's `_teamDetailHTML()` section vertically in `u_order` sequence. The per-team renderer inherits `teamSort` (sortable Area column) and active period range. No new `switchView()` case — the view key stays `'team'`; only `selTeam` changes.
+**"All Teams" synthetic state (within `team` view):** `selTeam = '__ALL__'` — a client-side synthetic value (not a real team record). Set when the user clicks the "All Teams" tile in the squares row. Triggers `drillAllTeams()` → `renderAllTeams()`, which stacks every team's `_teamDetailHTML(team, groupIdx)` section vertically in `u_order` sequence. Each section header is **click-to-collapse/expand** (independent per team, like a grouped report list) via `toggleTeamGroup()`. The per-team renderer inherits `teamSort` (sortable Area column) and active period range. No new `switchView()` case — the view key stays `'team'`; only `selTeam` changes.
 
 ### Key client-side state
 
@@ -405,7 +405,10 @@ Vanilla-JS SPA (`src/client/app.js`), served as a BYOUI static page via a `UiPag
 - **Save** — `saveToServiceNow()` diffs in-memory `projects` against `RAW_DATA` baseline and POSTs only changed cells to `/allocations`.
 - **Export** — `doExport()` / `buildXLSX()` produce a client-side XLSX export. The XLSX library is bundled locally (previously loaded from CDN, which ServiceNow's CSP blocks).
 - **Review workflow** — `u_review_ready` checkbox + `u_review_comment` text per plan item. Shown as green "R" badge in sidebar. Explicitly not a workflow/state machine — just a flag and a note.
-- **Total Projects KPI** — rendered in `renderOverview()` KPI bar. Filter: `projects.filter(p => plsOf(p) === 'Committed' && p.ty === 'Project').length`. Committed only, Projects only — BAU/Enhancement/Absences excluded (CAPMGMT-01). Caveat: `getData` normalises empty `u_plan_status` to `'Committed'` server-side, so pending-import rows appear Committed until the status Transform Map is applied.
+- **Overview KPI bar** — six cards in `renderOverview()`, each with a `title` tooltip and a shared **?** glossary modal (`openKpiHelp()` / `KPI_GLOSSARY`, mirrored in `docs/KPI-GLOSSARY.md`). Period-sensitive cards: **Total projects**, **FTE / period**, **Teams over capacity** (recompute on every range change via `refreshViews → renderOverview`). Global cards (labelled "all periods"): **P1 projects**, **Pending changes**, **Areas**.
+- **Total Projects KPI** — `isCountedProject(p)` = `plsOf(p)==='Committed' && p.ty==='Project' && projTotal(p) > 0`, i.e. Committed Projects **with at least one allocation in the active period range** (period-sensitive). Clicking the card toggles `ovTotalFilter`, filtering the Overview list below to exactly those items. Caveat: `getData` normalises empty `u_plan_status` to `'Committed'` server-side, so pending-import rows appear Committed until the status Transform Map is applied.
+- **FTE / period KPI** — sum of `projTotal(p)` over the shown items, **scoped to the selected Area** (`ov-area` filter): all areas by default, or one area when an Area card / dropdown is chosen. Always within the active period range. Area changes re-render the whole Overview so the KPI stays in sync.
+- **Save re-fetch** — after a fully-successful `saveToServiceNow()`, the client now `await loadFromServiceNow()` so server-derived fields (`u_start`/`u_end` from the derive BR) re-render immediately rather than only on the 15s auto-reload.
 - **Slider period range** — controlled by sys_property `x_u4bsh_capmgmt.slider_period_range` (value: `start_period_sysid,end_period_sysid`). When the property is empty, the slider is hidden and only the manual pickers are shown. Controlled by sys_property `x_u4bsh_capmgmt.show_period_bar` (boolean); when `false`, the entire `.mbar` is hidden.
 
 ## 8. Import / Transform Pipeline
