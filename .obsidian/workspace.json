@@ -11,14 +11,10 @@
             "id": "7c4df5bcd771d897",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PCCC - Manual Test Scenarios"
+              "title": "New tab"
             }
           }
         ]
@@ -182,6 +178,10 @@
   },
   "active": "ba6f109841e39311",
   "lastOpenFiles": [
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
+    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
+    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
     "Applications/sn-instance-scan/prompt-v3-assessment-report.md.tmp.4457.dab726826d77",
     "Applications/sn-instance-scan/architecture-v2.md.tmp.4457.4eedead04119",
     "Applications/sn-instance-scan/prompt-v2-improvements.md.tmp.4457.70d46b9d7e12",
@@ -198,7 +198,6 @@
     "CLAUDE.md.tmp.32186.b2717bfc6dab",
     "scripts/install-second-brain-mcp.sh",
     "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
-    "ClaudeAgents/orchestrator.md.tmp.32186.eeb74710623b",
     "raw/sessions/2026-07-20.md",
     "README.md",
     "Untitled.canvas",
@@ -215,9 +214,6 @@
     "wiki/concepts/tips-and-tricks.md",
     "wiki/concepts/system-properties.md",
     "wiki/concepts/service-portfolio-management.md",
-    "wiki/concepts/service-portal.md",
-    "wiki/concepts/service-catalog.md",
-    "wiki/concepts/server-client-scripts.md",
-    "wiki/concepts/scoped-apps.md"
+    "wiki/concepts/service-portal.md"
   ]
 }
