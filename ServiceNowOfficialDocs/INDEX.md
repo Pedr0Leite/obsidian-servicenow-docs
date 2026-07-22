@@ -567,6 +567,7 @@ All paths are relative to the vault root. All entries are directories containing
 |------|-------------|----------|
 | `now-assist-ai/ai-agents/` | Custom knowledge base for ServiceNow AI Agents — failure mode taxonomy, ReAct loop architecture, debugging runbook, access control, and performance optimization (source: K26 lab CCL6230-K26) | Now-Assist, AI-Agents, ReAct, debugging, troubleshooting |
 | `now-assist-ai/ai-search/` | Custom notes on AI Search (AIS) semantic/vector search — filter impact on ANN traversal, timeout root causes, getSimilarRecords optimization (source: Case CS9293768) | AI-Search, AIS, semantic-search, vector, embeddings |
+| `now-assist-ai/now-assist-readiness-evaluation/` | Reverse-engineered architecture of the `sn_assess` Now Assist Readiness Evaluation store app — data model, scoring engine, script includes, UI Builder dashboard, security (source: static code inspection of a live instance) | Now-Assist, readiness-evaluation, sn_assess, architecture, agentic-AI |
 | `now-assist-ai/llms.txt` | LLM-optimized index for this folder — lists all custom notes with descriptions for AI agent navigation | llms.txt, index, AI-navigation, Now-Assist |
 | `now-assist-ai/llms_template.txt` | Template for adding new entries to `llms.txt` when new custom notes are created | template, llms.txt, Now-Assist |
 

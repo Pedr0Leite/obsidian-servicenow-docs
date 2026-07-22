@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8656adbf8db8c9d",
+        "id": "d28cb5b14ef73924",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4df5bcd771d897",
+            "id": "649bbfcc66edd89a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,12 +162,12 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,26 +180,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba6f109841e39311",
+  "active": "649bbfcc66edd89a",
   "lastOpenFiles": [
-    "Applications/sn-instance-scan/prompt-v3-assessment-report.md.tmp.4457.dab726826d77",
-    "Applications/sn-instance-scan/architecture-v2.md.tmp.4457.4eedead04119",
-    "Applications/sn-instance-scan/prompt-v2-improvements.md.tmp.4457.70d46b9d7e12",
-    "wiki/index.md.tmp.4457.2d4e880f2ac9",
-    "wiki/entities/sn-instance-scan.md.tmp.4457.1990f05e1f0e",
-    "Applications/sn-instance-scan/architecture-v2.md",
-    "Applications/sn-instance-scan/prompt-v2-improvements.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-events-customer-success-about.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-get-started.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-activate.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-account-onboard-playbook.md",
-    "README.md.tmp.32186.85058b6ed770",
-    "README.md.tmp.32186.58155766658a",
-    "CLAUDE.md.tmp.32186.b2717bfc6dab",
-    "scripts/install-second-brain-mcp.sh",
-    "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
-    "ClaudeAgents/orchestrator.md.tmp.32186.eeb74710623b",
-    "raw/sessions/2026-07-20.md",
+    "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation/Now Assist Readiness Evaluation - Architecture Deep Dive.md",
+    "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md.tmp.38868.bb2be439e2f3",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md.tmp.38868.9e4516eb378e",
+    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
+    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
+    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md",
+    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md.tmp.27912.d8449f044f52",
+    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md",
+    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md.tmp.27912.c7107a27197b",
+    "Applications/capacity-planner/capacity-planner-fix-500-scope-dependency.md",
+    "Dashboards/Wiki Health.base",
+    "Dashboards/Wiki.base",
+    "Dashboards/README.md.tmp.7144.f2d8761a8101",
+    "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
+    "Dashboards/CTA Study.base",
     "README.md",
     "Untitled.canvas",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",

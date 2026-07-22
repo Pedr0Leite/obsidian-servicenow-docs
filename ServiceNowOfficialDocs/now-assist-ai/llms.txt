@@ -13,3 +13,7 @@
 ## AI Search
 
 - [Get Similar Records AIS Script Documentation](ai-search/Get%20Similar%20Records%20AIS%20Script%20Documentation.md): Semantic search (AIS) behavior and performance tuning for large-scale vector search. Covers filter impact on ANN traversal, timeout root causes (SocketTimeoutException), documentMatchThreshold tradeoffs, and indexing strategy recommendations. Based on Case CS9293768 (~5.3M records / ~9.8M embeddings scenario).
+
+## Now Assist Readiness Evaluation
+
+- [Now Assist Readiness Evaluation - Architecture Deep Dive](now-assist-readiness-evaluation/Now%20Assist%20Readiness%20Evaluation%20-%20Architecture%20Deep%20Dive.md): Reverse-engineered architecture of the `sn_assess` store app (v1.4.2) that scores instance readiness for Now Assist/Agentic AI across ITSM, CSM, HRSD, VA, and AI Search. Covers the Assessment-table data model (sn_assess_assessment/_run/_question/_answer), the question-script two-tier pattern (assessmentResults context + thin per-question accessor), full reads of AgenticAIAssessmentRun (orchestrator) and AgenticHRAssessment (domain evaluator), the shared TableCustomizationFinder engine, TShirtMetric/TShirtSize/Threshold effort-scoring properties, the 9 scheduled jobs, licensing/entitlement cross-checks, the UI Builder "GenAI Assessment" dashboard and its 23 data brokers, PAR reporting dashboards, and the sn_assess.admin security model. Includes a ready-to-use build prompt to scaffold an equivalent app.
