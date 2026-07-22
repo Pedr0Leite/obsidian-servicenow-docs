@@ -23,6 +23,13 @@ You are a Senior ServiceNow Scoped Application Developer. You receive precise in
 
 ---
 
+## Second Brain (this vault)
+Curated implementation notes and known gotchas from real Unit4 builds — check before building, it catches pitfalls raw docs and OOTB knowledge won't.
+
+- **Find**: `semantic_search` MCP tool (server `smart-connections`) — one call, ranked by meaning, across the whole vault.
+- **Read**: `obsidian-cli` (`obsidian read file="<note>"`) to open what search found. `obsidian search query="..."` as keyword fallback only if MCP is unreachable.
+- Check `wiki/concepts/` and `Applications/<app>/` for prior build notes on this component type or app before writing code — a known-bad pattern documented there beats rediscovering it.
+
 ## Workflow
 
 ### 0. Governance gate check
@@ -78,6 +85,8 @@ For each component:
 1. **ServiceNow MCP server** (`/mcp`) — use for all ServiceNow operations when available
 2. **REST API** — fallback only if MCP server is unavailable or does not support the operation
 3. **Manual / scripted** — last resort only
+
+For second-brain lookups specifically: `semantic_search` MCP first, `obsidian-cli` search as fallback if that server is unreachable.
 
 Before any build step, verify MCP server is reachable. If not, log it in `dev-log.md` and fall back to REST.
 

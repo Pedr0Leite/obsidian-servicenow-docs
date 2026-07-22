@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d28cb5b14ef73924",
+        "id": "c8656adbf8db8c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "649bbfcc66edd89a",
+            "id": "7c4df5bcd771d897",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "60786de7d41419e6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,28 +187,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "649bbfcc66edd89a",
+  "active": "7c4df5bcd771d897",
   "lastOpenFiles": [
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md.tmp.38868.bb2be439e2f3",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md.tmp.38868.9e4516eb378e",
-    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
-    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
-    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md",
-    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md.tmp.27912.d8449f044f52",
-    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md",
-    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md.tmp.27912.c7107a27197b",
-    "Applications/capacity-planner/capacity-planner-fix-500-scope-dependency.md",
-    "Dashboards/Wiki Health.base",
-    "Dashboards/Wiki.base",
-    "Dashboards/README.md.tmp.7144.f2d8761a8101",
-    "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
-    "Dashboards/CTA Study.base",
-    "Dashboards/CTA Study.base.tmp.7144.7bedb93f85f0",
+    "Applications/sn-instance-scan/architecture-v2.md",
+    "Applications/sn-instance-scan/prompt-v2-improvements.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-events-customer-success-about.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-get-started.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-activate.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-account-onboard-playbook.md",
+    "README.md.tmp.32186.85058b6ed770",
+    "README.md.tmp.32186.58155766658a",
+    "CLAUDE.md.tmp.32186.b2717bfc6dab",
+    "scripts/install-second-brain-mcp.sh",
+    "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
+    "ClaudeAgents/orchestrator.md.tmp.32186.eeb74710623b",
+    "ClaudeAgents/orchestrator.md.tmp.32186.3f8a52ffae03",
+    "ClaudeAgents/orchestrator.md.tmp.32186.0c144a7d85ef",
+    "ClaudeAgents/developer.md.tmp.32186.260fdf8f5389",
+    "ClaudeAgents/developer.md.tmp.32186.a3ec0a56d9ed",
+    "raw/sessions/2026-07-20.md",
     "README.md",
     "Untitled.canvas",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
@@ -217,6 +231,7 @@
     "wiki/concepts/service-portal.md",
     "wiki/concepts/service-catalog.md",
     "wiki/concepts/server-client-scripts.md",
-    "wiki/concepts/scoped-apps.md"
+    "wiki/concepts/scoped-apps.md",
+    "wiki/concepts/roles-per-module.md"
   ]
 }

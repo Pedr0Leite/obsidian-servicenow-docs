@@ -59,7 +59,7 @@ Create folder on pipeline start. Update `status.md` after every phase.
 Invoke: `Task('ba-agent', read('requirements.md'))`
 
 BA agent:
-- Consults ServiceNowDocs via `search_docs` MCP tool
+- Consults second brain vault via `semantic_search` MCP tool, then ServiceNowDocs via `search_docs`
 - Refines requirements
 - Outputs rm_stories
 
@@ -73,6 +73,7 @@ Invoke: `Task('architect', read('stories.md') + read('requirements.md'))`
 
 Architect:
 - Reads stories + original requirements
+- Consults second brain vault via `semantic_search` MCP tool for prior decisions/gotchas
 - Designs technical solution
 - Writes dev instructions
 - Writes test plan
@@ -119,6 +120,7 @@ Invoke: `Task('developer', read('governance-approval.md') + read('architecture.m
 
 Developer:
 - Reads `governance-approval.md` first — stops immediately if status is not APPROVED
+- Consults second brain vault via `semantic_search` MCP tool for known pitfalls on this component/app
 - Follows dev instructions exactly
 - Builds all components in ServiceNow
 - Logs what was built

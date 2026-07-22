@@ -130,6 +130,10 @@ Governance outcomes:
 | Agent | Dependency | Purpose |
 |---|---|---|
 | BA + Architect + Developer | [ServiceNowDocs](https://github.com/ServiceNow/ServiceNowDocs) | Official platform docs via `search_docs` MCP tool |
+| BA + Architect + Developer | this vault (second brain) | Curated Unit4 implementation notes, prior decisions, gotchas — consulted via `semantic_search` MCP tool before/alongside ServiceNowDocs |
+| BA + Architect + Developer | [smart-connections-mcp](https://github.com/dan6684/smart-connections-mcp) | Exposes this vault's semantic index as the `semantic_search` MCP tool |
+| BA + Architect + Developer | [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) (Obsidian plugin) | Builds the local embedding index `smart-connections-mcp` reads — vault must be open in Obsidian |
+| BA + Architect + Developer | `obsidian-cli` (built into Obsidian, see [help.obsidian.md/cli](https://help.obsidian.md/cli)) | Read/write exact notes in the vault; keyword-search fallback if the MCP server is down |
 | Developer | [ponytail](https://github.com/DietrichGebert/ponytail) | Enforces OOTB-first, minimal custom code approach |
 
 ### Setup
@@ -139,6 +143,12 @@ Governance outcomes:
 git clone https://github.com/ServiceNow/ServiceNowDocs.git
 export SERVICENOW_DOCS_PATH=/path/to/ServiceNowDocs
 ```
+
+**Second brain (this vault + semantic search)**
+```bash
+./scripts/install-second-brain-mcp.sh
+```
+Then open this vault in Obsidian at least once with the Smart Connections plugin enabled, so it builds the embedding index `smart-connections-mcp` reads.
 
 **ponytail**
 Follow install instructions at https://github.com/DietrichGebert/ponytail
@@ -156,3 +166,11 @@ All agents that interact with ServiceNow **must** follow this order:
 | 3rd | **Manual / scripted** | Last resort only |
 
 The Developer agent enforces this on every build step. MCP unavailability is logged in `dev-log.md`.
+
+For second-brain lookups (BA, Architect, Developer, before planning or executing):
+
+| Priority | Tool | When |
+|---|---|---|
+| 1st | **`semantic_search` MCP tool** (`smart-connections`) | Always — use first, ranks the vault by meaning |
+| 2nd | **`obsidian-cli` search** | Fallback only if the MCP server is unreachable — literal keyword match |
+| 3rd | **Direct file read of the vault** | Last resort only |

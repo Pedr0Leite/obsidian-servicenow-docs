@@ -100,3 +100,76 @@ tags: [scoped-app, application-development, atf, spec, test-plan]
   2. Check x_snis_iscan_run.app_count and resulting x_snis_iscan_result records
 - Expected result: exactly 2 result records created, matching the selected apps, no others
 - Validates: SCOPE SELECTION #3
+
+---
+
+# Test Plan Delta — v2 improvements
+
+See [[sn-instance-scan/architecture-v2|architecture-v2]] for design. Delta only — v1 tests above are unchanged and still apply.
+
+## Story: LLM context export
+
+#### Test 11: llm_context populated on full-access scan with all required sections
+- Precondition: run as user with full read access, target a custom app with tables, business rules, and script includes
+- Steps:
+  1. Run scan with mode = full or custom_only against the target app
+  2. Open resulting x_snis_iscan_result record, inspect llm_context
+- Expected result: llm_context contains, in order: app identity section (incl. explicit "scan mode: full_access" statement), data model section (table list, extends_table, well_known_base, field lists, reference_field_list graph), automation surface section with NAMES (not just counts) of business rules/script includes/flows/ACLs/UI actions, integration points section, fixed instruction footer paragraph
+- Validates: Improvement 1, CHANGES #1-2
+
+#### Test 12: llm_context omits data model section on fallback mode
+- Precondition: ATF test user with no read access to sys_db_object/sys_dictionary (same setup as v1 Test 4)
+- Steps:
+  1. Run scan against the target app (triggers app_files_fallback)
+  2. Inspect llm_context
+- Expected result: data model section is ABSENT (not present with zero/empty values) and replaced with a single line explaining no table/field access was available; automation surface section still populated from sys_metadata names
+- Validates: Improvement 1, CHANGES #2 ("Omit entirely... not just zero-filled")
+
+#### Test 13: summary_text and llm_context stay in sync (single fact assembly)
+- Precondition: GenAI Controller active, x_snis_iscan.genai_enabled = true
+- Steps:
+  1. Run scan
+  2. Compare summary_text and llm_context for the same result record
+- Expected result: summary_text's claims (table counts, automation counts) are consistent with what llm_context states — no contradiction between the two, confirming both were built from the same buildPrompt() output
+- Validates: Design note "one fact assembly, two consumers"
+
+#### Test 14: Copy LLM Context UI action copies field value
+- Precondition: a completed scan result record with non-empty llm_context
+- Steps:
+  1. Open x_snis_iscan_result form
+  2. Click "Copy LLM Context" UI action
+  3. Paste clipboard contents elsewhere
+- Expected result: pasted text exactly matches llm_context field value, no truncation
+- Validates: Improvement 1, CHANGES #4
+
+#### Test 15: Scanner return-shape addition doesn't break existing count fields
+- Precondition: any completed scan run (full or fallback)
+- Steps:
+  1. Inspect x_snis_iscan_result business_rule_count, script_include_count, flow_count, acl_count, ui_action_count
+- Expected result: all *_count fields populated exactly as in v1 (regression check — name-list addition must not change existing count values)
+- Validates: Improvement 1, CHANGES #5 ("Existing *_count fields... unchanged")
+
+## Story: Activity stream comments field
+
+#### Test 16: comments journal field receives progressive entries
+- Precondition: none
+- Steps:
+  1. Start a scan run (any mode)
+  2. While running (or after completion), open x_snis_iscan_run form, check the Activity formatter
+- Expected result: Activity stream shows the same progressive milestone messages that appear in the activities String field, each as a separate journal entry (not one giant blob)
+- Validates: Improvement 2, CHANGES #1-2
+
+#### Test 17: activities field unchanged and still queryable
+- Precondition: same run as Test 16
+- Steps:
+  1. Inspect x_snis_iscan_run.activities (String field, not the Activity formatter)
+- Expected result: activities field still contains the full prepended log exactly as in v1 behavior — confirms comments is additive, not a replacement
+- Validates: Improvement 2, CONSTRAINT ("Do not swap activities to Journal type")
+
+#### Test 18: scanner role can write comments without elevated privilege
+- Precondition: user with x_snis_iscan.scanner role only (no admin, no security_admin)
+- Steps:
+  1. Run a scan as this user
+  2. Confirm no ACL-denied error on the comments field write, and Activity stream populates
+- Expected result: no exception; comments journal entries appear — validates the build-time ACL check flagged in architecture-v2 resolved correctly (either table-level ACL covers it, or the added field ACL does)
+- Validates: Improvement 2 build-time risk (journal field ACL parity with non-task table)

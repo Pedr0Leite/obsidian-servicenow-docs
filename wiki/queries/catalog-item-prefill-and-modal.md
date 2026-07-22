@@ -175,6 +175,52 @@ c.openIframeModal = function() {
 
 Source: [[raw/sessions/2026-07-15#Session 14:21 — obsidian-servicenow-docs]]
 
+**Hiding the portal header inside the iframe (same-origin CSS injection):**
+Same-origin iframes (both frames on the same SN instance domain) allow DOM access from the parent widget — cross-origin restrictions do not apply. On `iframe.onload`, inject a `<style>` tag to suppress the portal header:
+```js
+var iframe = document.querySelector('#catItemModal iframe');
+iframe.onload = function() {
+  try {
+    var style = iframe.contentDocument.createElement('style');
+    style.textContent = '.navpage-header, .portal-nav, .sp-header { display: none !important; }';
+    iframe.contentDocument.head.appendChild(style);
+  } catch(e) {}
+};
+```
+- More fragile than building a dedicated headerless portal page, but avoids creating a second page.
+- CSS selectors vary by theme — verify on the target instance.
+- Wrap in `try/catch` as a precaution; `contentDocument` can be briefly inaccessible during load.
+
+**Auto-closing the modal when the catalog item is submitted:**
+`widget-sc-cat-item-v2` navigates after submission via Angular `$location` client-side routing — the iframe does **not** fire `onload` again. Poll `contentWindow.location.href` with `$interval` instead:
+```js
+// inject $interval, $sce, $timeout — cancel poll on modal close and $scope destroy
+c.openIframeModal = function() {
+  c.catalogItemUrl = $sce.trustAsResourceUrl(
+    '/sp?id=sc_cat_item&sys_id=' + c.data.catItemSysId +
+    '&sysparm_variable_values=' + encodeURIComponent(JSON.stringify({case: c.data.caseSysId}))
+  );
+  $timeout(function() { $('#catItemModal').modal('show'); });
+
+  var poll = $interval(function() {
+    try {
+      var href = document.querySelector('#catItemModal iframe').contentWindow.location.href;
+      if (href && href.indexOf('sc_cat_item') === -1) {
+        $interval.cancel(poll);
+        $('#catItemModal').modal('hide');
+      }
+    } catch(e) {} // contentWindow.location throws transiently during navigation
+  }, 500);
+
+  $('#catItemModal').on('hidden.bs.modal', function() { $interval.cancel(poll); });
+  $scope.$on('$destroy', function() { $interval.cancel(poll); });
+};
+```
+- Cancel the interval both on modal close (`hidden.bs.modal`) and `$scope.$destroy` to avoid leaks.
+- The `try/catch` is required — `contentWindow.location` throws a `SecurityError` transiently at the moment of navigation even on same-origin frames.
+
+Source: [[raw/sessions/2026-07-15#Session 22:25 — obsidian-servicenow-docs]]
+
 ## Related
 - [[service-catalog]]
 - [[service-portal]]
