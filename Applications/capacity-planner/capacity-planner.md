@@ -257,6 +257,18 @@ All Business Rules live in `src/fluent/business-rules/*.now.ts` with server logi
 > [!warning] Propagation is disabled
 > `propagate-initiative-changes` is currently inactive. If a source initiative's area, priority, status, or sizing changes, the linked plan items will NOT update automatically. A planner must open and re-save each plan item, or run a background script to trigger updates.
 
+### Plan Item dates (`u_start` / `u_end`) — how they work (summary)
+
+- **Storage:** format `YYYY-MM` (e.g. `2026-04`). System-derived only, hard deny-write ACL — nobody, not even admin, edits them manually.
+- **Computation (BR `derive-initiative-dates`):** fires AFTER any allocation insert/update/delete. Collects all `u_period` sys_ids from the initiative's allocations, then `u_start` = **min** period `u_start_date`, `u_end` = **max** period `u_end_date`. So the derived dates = the span of months actually allocated FTE.
+- **Caveat:** only allocations with a `u_period` reference contribute. Bare `u_month`-only rows are ignored (period-migration debt, see [[#12. Known Issues / Architectural Debt|Known Issues]]) → can leave dates stale or blank.
+- **What the Projects panel shows ≠ always u_start/u_end:** for **linked** items, `getData` maps `st`/`en` so the source initiative's *planning* dates (`u_soft_planning_start_date` / release-date fields) WIN over the allocation-derived `u_start`/`u_end`. So a linked item shows the source planning window, not its allocation span — the cause of Start/End not matching allocations (fix: flip precedence, see [[capacity-planner-fix-dates-vs-allocation]]).
+
+| Item | Date the panel shows |
+|---|---|
+| Not linked | allocation span (`u_start`/`u_end`, BR-derived) |
+| Linked | source initiative planning dates (currently override the derived span) |
+
 ## 6. REST API Surface
 
 Defined via the Fluent [[scripted-rest-api-api-now-ts|Scripted REST API]] in `src/fluent/restapi/capacity-api.now.ts`, service ID `"capacity"`. Implemented in `src/server/capacity-handler.ts`. Base path: `/api/x_u4bsh_capmgmt/capacity`.

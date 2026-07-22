@@ -11,10 +11,14 @@
             "id": "649bbfcc66edd89a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PCCC - Manual Test Scenarios"
             }
           }
         ]
@@ -178,19 +182,25 @@
   },
   "active": "649bbfcc66edd89a",
   "lastOpenFiles": [
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md.tmp.38868.bb2be439e2f3",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md.tmp.38868.9e4516eb378e",
+    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
+    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
+    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md",
+    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md.tmp.27912.d8449f044f52",
+    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md",
+    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md.tmp.27912.c7107a27197b",
+    "Applications/capacity-planner/capacity-planner-fix-500-scope-dependency.md",
     "Dashboards/Wiki Health.base",
     "Dashboards/Wiki.base",
     "Dashboards/README.md.tmp.7144.f2d8761a8101",
     "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
     "Dashboards/CTA Study.base",
     "Dashboards/CTA Study.base.tmp.7144.7bedb93f85f0",
-    "Dashboards/Wiki Health.base.tmp.7144.0c64f96eadac",
-    "probe.base",
     "README.md",
     "Untitled.canvas",
-    "wiki/concepts/service-portal.md.tmp.40020.1784138620851",
-    "wiki/concepts/scoped-apps.md.tmp.40020.1784138615025",
-    "wiki/log.md.tmp.39501.1784138611871",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0522699 - The get_lat_long business rule is not populating latitude and longitude.md",
     "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0519074 - ServiceNow Partners - Setting up Deployment Registrations.md",
@@ -207,13 +217,6 @@
     "wiki/concepts/service-portal.md",
     "wiki/concepts/service-catalog.md",
     "wiki/concepts/server-client-scripts.md",
-    "wiki/concepts/scoped-apps.md",
-    "wiki/concepts/roles-per-module.md",
-    "wiki/concepts/random-scripts.md",
-    "wiki/concepts/platform-analytics.md",
-    "wiki/concepts/migrations.md",
-    "wiki/concepts/mid-server.md",
-    "wiki/concepts/logics-and-creations.md",
-    "wiki/concepts/knowledge-base-articles.md"
+    "wiki/concepts/scoped-apps.md"
   ]
 }
