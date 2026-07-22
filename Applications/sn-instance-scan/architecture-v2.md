@@ -6,8 +6,9 @@ tags: [scoped-app, application-development, cmdb, acls, ai-agents, spec, archite
 
 # sn-instance-scan — Architecture v2 (delta)
 
-Scope: `x_snis_iscan` (unchanged from v1)
-This note covers ONLY the delta for [[sn-instance-scan/prompt-v2-improvements|the v2 improvements spec]]. For everything not mentioned here (table schema, script includes, ACLs not listed below), v1 behavior in [[sn-instance-scan/architecture|architecture.md]] stands unchanged. Both improvements are additive — no v1 field renamed, retyped, or removed.
+Scope: `x_snis_iscan` in this doc's own notation — the real deployed scope is `x_335329_iscan` (see [[sn-instance-scan]] entity page; don't reintroduce `x_snis_iscan` into the repo based on this file).
+
+**STATUS (2026-07-22): Built and deployed**, except Story 9's Activity formatter form-config step (manual, per-instance — redo it on any newly-deployed instance). This note covers ONLY the delta for [[sn-instance-scan/prompt-v2-improvements|the v2 improvements spec]]. For everything not mentioned here (table schema, script includes, ACLs not listed below), v1 behavior in [[sn-instance-scan/architecture|architecture.md]] stands unchanged. Both improvements are additive — no v1 field renamed, retyped, or removed.
 
 ---
 

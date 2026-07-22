@@ -4,7 +4,9 @@ area: application-spec
 tags: [scoped-app, application-development, cmdb, acls, ai-agents, spec, journal-fields]
 ---
 
-Build prompt for two v2 improvements to [[sn-instance-scan]] (see [[sn-instance-scan/prompt|original build prompt]] and [[sn-instance-scan/architecture|architecture]] for the v1 baseline this extends). Not yet built — spec to hand to a dev agent / architect.
+Build prompt for two v2 improvements to [[sn-instance-scan]] (see [[sn-instance-scan/prompt|original build prompt]] and [[sn-instance-scan/architecture|architecture]] for the v1 baseline this extends).
+
+**STATUS (2026-07-22): Built and deployed**, except Improvement 2 item 3 (the Activity formatter form-config step — that one's manual, per-instance, not code, so it needs redoing on any newly-deployed instance). This is a historical build prompt, not a live status tracker — the `sn-instance-scan` repo is authoritative for current build state.
 
 ## Build prompt
 
