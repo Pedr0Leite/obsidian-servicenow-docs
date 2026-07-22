@@ -11,14 +11,10 @@
             "id": "649bbfcc66edd89a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PCCC - Manual Test Scenarios"
+              "title": "New tab"
             }
           }
         ]
@@ -182,6 +178,7 @@
   },
   "active": "649bbfcc66edd89a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation/Now Assist Readiness Evaluation - Architecture Deep Dive.md",
     "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation",
     "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
@@ -200,6 +197,29 @@
     "Dashboards/README.md.tmp.7144.f2d8761a8101",
     "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
     "Dashboards/CTA Study.base",
+=======
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
+    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
+    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
+    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
+    "Applications/sn-instance-scan/prompt-v3-assessment-report.md.tmp.4457.dab726826d77",
+    "Applications/sn-instance-scan/architecture-v2.md.tmp.4457.4eedead04119",
+    "Applications/sn-instance-scan/prompt-v2-improvements.md.tmp.4457.70d46b9d7e12",
+    "wiki/index.md.tmp.4457.2d4e880f2ac9",
+    "wiki/entities/sn-instance-scan.md.tmp.4457.1990f05e1f0e",
+    "Applications/sn-instance-scan/architecture-v2.md",
+    "Applications/sn-instance-scan/prompt-v2-improvements.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-events-customer-success-about.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-get-started.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-activate.md",
+    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-account-onboard-playbook.md",
+    "README.md.tmp.32186.85058b6ed770",
+    "README.md.tmp.32186.58155766658a",
+    "CLAUDE.md.tmp.32186.b2717bfc6dab",
+    "scripts/install-second-brain-mcp.sh",
+    "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
+    "raw/sessions/2026-07-20.md",
+>>>>>>> f633f16d8eacf8c1d9184ac1931cb05e3bed3ac7
     "README.md",
     "Untitled.canvas",
     "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
@@ -215,9 +235,6 @@
     "wiki/concepts/tips-and-tricks.md",
     "wiki/concepts/system-properties.md",
     "wiki/concepts/service-portfolio-management.md",
-    "wiki/concepts/service-portal.md",
-    "wiki/concepts/service-catalog.md",
-    "wiki/concepts/server-client-scripts.md",
-    "wiki/concepts/scoped-apps.md"
+    "wiki/concepts/service-portal.md"
   ]
 }
