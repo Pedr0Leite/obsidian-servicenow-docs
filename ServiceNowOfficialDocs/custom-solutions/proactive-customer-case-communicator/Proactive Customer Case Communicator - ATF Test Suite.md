@@ -116,6 +116,9 @@ Keep the suite inside the PCCC update set so it travels with the app.
 > [!tip] Maintenance
 > New template (e.g. a future 7.11) → add its id to `ids` and `expectReset`. That's the whole cost.
 
+> [!info] 2026-07-24 — first-name assertions now match a real code change, not just a naming convention
+> This test's first-name checks (`(b)`/`(c)` above) were already asserting greeting/sign-off use first name only, before that was actually true in the live `_buildTemplates()` implementation. As of 2026-07-24, the live Script Include was updated with new `cnFirst`/`caFirst` helpers to actually match this test's assumption, and bodies `7.3`/`7.4`/`7.5`/`7.6`/`7.7`/`7.8`/`7.10.2` were rewritten verbatim per a canonical template sheet. Re-run T1 against the live instance to confirm the rewritten bodies still pass token/greeting/reset_count checks — this test wasn't changed, but what it's asserting against was. See [[Proactive Customer Case Communicator#17. Changelog]].
+
 ---
 
 ## T2 — Routing decision matrix
@@ -196,6 +199,8 @@ Each row is one branch of the routing tool — add rows as branches change.
 
 > [!caution] Known asymmetry — do not "fix" in the test
 > `6A` has a `New || Assess` branch, but **`6B` has no `Assess` branch** and no generic fallback, so a 6B routed with `problem_state='Assess'` hits the safety `STOP`. The matrix is written around this: `6A Assess` asserts `7.3`; there is deliberately no `6B Assess → 7.3` row. This mirrors the live tool exactly.
+>
+> **Status as of 2026-07-24**: re-confirmed still present in the live routing tool during a separate debugging session (see [[Proactive Customer Case Communicator#17. Changelog]]) — a Problem at `Assess` routed through `6B` still produces no customer message at all. Logged there as an open bug to fix, not a permanent design decision. This test matrix should keep matching live behavior (i.e. still no `6B Assess` row) until that fix actually ships — then this caution box and the T2 matrix both need updating together.
 
 ---
 
@@ -205,6 +210,9 @@ The routing logic, lifted verbatim from the tool IIFE into a callable, scoped Sc
 
 > [!info] Behaviour-preserving
 > Same gate order, same string comparisons, same return shape. Only structural change: `inputs` is a method argument instead of a closure variable.
+
+> [!warning] Drift as of 2026-07-24 — this embedded script no longer matches the live routing tool
+> On 2026-07-24 a new **workaround-only-change override gate** was added to the live [[Resolve routing decision and template selection]] tool: when `WORKAROUND_ONLY_LATEST_CHANGE` is true, template `7.4` fires directly, ahead of the `6A`/`6B`/`6C` decision block shown below (see [[Proactive Customer Case Communicator#7. Deterministic Routing]] and [[Proactive Customer Case Communicator#17. Changelog]]). The `resolve()` implementation embedded below does **not** yet include this gate — re-sync this Script Include (and add a T2 test row for the new gate) before trusting T2 as full coverage of live routing behavior.
 
 ```javascript
 var caseRoutingUtil = Class.create();

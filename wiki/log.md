@@ -115,3 +115,11 @@ Schema documented in `CLAUDE.md` under "LLM Wiki".
   - [[acls]] — extended GlideAjax zero-logs gotcha into a two-stage diagnostic: stage 1 (non-admin) = execute ACL denial; stage 2 (admin) = client-side problem, request never sent. Admin bypasses ACL evaluation entirely — zero logs + admin user = look at browser DevTools (Console + Network / `xmlhttp.do`).
   - `Applications/sn-instance-scan/architecture.md` — updated debugging notes: admin confirmed → ACL hypothesis eliminated → new direction client-side; next action is DevTools check (Console for JS errors, Network for `xmlhttp.do` POST).
 - Sessions skipped: all FLUSH_ERROR/FLUSH_OK flushes (already noted in pass 1); session 21:28 already compiled in pass 1.
+
+## [2026-07-22] ingest | Partner Case Summary Agent story
+- Source: user request (chat), not a raw source drop.
+- Pages created:
+  - [[partner-case-summary-agent|Partner Case Summary Agent (Story)]] (`Applications/partner-case-summary-agent/partner-case-summary-agent.md`) — refined user story for a proposed Now Assist AI Agent (ReAct) that summarizes `sn_customerservice_case` cases for 5 named Partner Managers. Refined via the `ba-agent` from an original Microsoft Copilot Studio connector request into a ServiceNow-native design (Virtual Agent/Now Assist Panel surface, no external connector). Case table locked to `sn_customerservice_case`.
+  - [[partner-case-summary-agent]] (wiki entity, thin pointer) — links back to the Applications/ source note.
+- Pages updated: `wiki/index.md` — added entity row.
+- Status: proposed only, not yet built.
