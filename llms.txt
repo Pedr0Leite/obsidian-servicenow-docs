@@ -1,0 +1,89 @@
+# obsidian-servicenow-docs
+
+> ServiceNow platform documentation vault (~46,000 official docs) + curated Unit4 implementation notes + a self-maintaining wiki synthesis layer + Claude Code agent memory. Flat, low-token index for AI agents — one line per directory. For per-subdirectory detail, drill into `ServiceNowOfficialDocs/INDEX.md`; for per-file detail in a large leaf directory, drill into that directory's own `INDEX.md` (present wherever a leaf dir has >100 files).
+
+## Start here
+- CLAUDE.md: AI agent guide — read first, defines navigation rules, session conventions, wiki schema
+- ServiceNowOfficialDocs/INDEX.md: master category → subdirectory index for official docs (~50 categories, ~300 subdirs, 107 subdirs have their own per-file INDEX.md)
+- wiki/index.md: curated synthesis layer (entities, concepts, decisions) — check before re-deriving anything from raw docs
+- README.md: full vault architecture, LLM Wiki pattern, self-evolving memory system
+
+## Official ServiceNow docs (ServiceNowOfficialDocs/) — one line per top-level category
+- acct-lifecycle-events/: Account Lifecycle Events (1 subdir) — account-lifecycle, ALE
+- api-reference/: API Reference (10 subdirs) — API, business-rules, server-side, client-scripts, mobile
+- application-development/: Application Development (26 subdirs) — app-engine, low-code, scoped-apps, ATF, SDK
+- application-portfolio-management/: Application Portfolio Management (1 subdir) — APM, portfolio
+- better-together/: Better Together (1 subdir) — cross-product integration
+- build-workflows/: Build Workflows (8 subdirs) — Flow-Designer, business-rules, workflow-activities
+- cloud-governance-suite/: Cloud Governance Suite (1 subdir) — cloud-governance, policy
+- cloud-observability/: Cloud Observability (1 subdir) — monitoring, alerting
+- conversational-interfaces/: Conversational Interfaces (9 subdirs) — Virtual-Agent, AWA, agent-chat, callback
+- core-business-suite/: Core Business Suite (1 subdir) — bundled product overview
+- customer-relationship-management/: Customer Relationship Management (1 subdir) — CRM, accounts
+- customer-service-management/: Customer Service Management (6 subdirs) — CSM, communities, omnichannel
+- delta-washingtondc-australia/, delta-yokohama-australia/, delta-zurich-australia/: Release deltas — combined per-product upgrade changelogs (3 dirs, ~1,200 files)
+- employee-service-management/: Employee Service Management (83 subdirs — largest category) — HR, HRSD, legal, workplace/WSD, health-safety
+- environmental-social-governance/: ESG (1 subdir) — sustainability, reporting
+- field-service-management/: Field Service Management (10 subdirs) — scheduling, work-orders, dispatch
+- financial-services-operations/: Financial Services Operations (13 subdirs) — FSO, disputes, loans, KYC, fraud
+- glossary/: Glossary (1 subdir) — platform terminology
+- governance-risk-compliance/: Governance, Risk & Compliance (14 subdirs) — GRC, audit, policy, third-party-risk
+- government-industry/: Government Industry (1 subdir) — FedRAMP, public-sector
+- healthcare-life-sciences/: Healthcare & Life Sciences (5 subdirs) — HLSM, EMR
+- hyperautomation-low-code/: Hyperautomation & Low-Code (1 subdir) — platform overview
+- impact/: Impact (4 subdirs) — accelerators, adoption roadmap, ROI value library
+- industrial-connected-workforce/: Industrial Connected Workforce (3 subdirs) — factory floor, digital-twin
+- industry-products/: Industry Products (1 subdir) — vertical bundles overview
+- integrate-applications/: Integrate Applications (11 subdirs) — Integration-Hub, orchestration, ERP, import/export sets
+- intelligent-experiences/: Intelligent Experiences (16 subdirs) — Now Assist, generative-AI, NLU, knowledge-graph, predictive-intelligence
+- it-asset-management/: IT Asset Management (12 subdirs) — ITAM, HAM, SAM, cloud-cost
+- it-business-management/: IT Business Management (28 subdirs) — ITBM, agile, SAFe, portfolio/demand/cost management
+- it-operations-management/: IT Operations Management (22 subdirs) — ITOM, discovery, event-management, AIOps, cloud
+- it-service-management/: IT Service Management (38 subdirs) — ITSM, incident/change/problem, SLA, DEX
+- manufacturing/: Manufacturing (1 subdir) — industry solutions
+- mobile/: Mobile (1 subdir) — Now Mobile platform
+- now-assist-ai/: Now Assist AI — custom curated notes, not official docs (5 subdirs) — ReAct agents, AI Search, readiness eval
+- now-intelligence/: Now Intelligence (8 subdirs) — Performance Analytics, process/task mining, Spotlight
+- now-platform/: Now Platform (1 subdir) — core architecture overview
+- operational-technology/: Operational Technology (9 subdirs) — OT/ICS, SCADA, industrial workspace
+- order-management/: Order Management (1 subdir) — fulfillment, orchestration
+- platform-administration/: Platform Administration (22 subdirs) — admin-center, AI-search config, search-administration, upgrades
+- platform-security/: Platform Security (15 subdirs) — ACLs, SSO/SAML/OAuth, encryption, MID hardening
+- platform-user-interface/: Platform User Interface (5 subdirs) — Service Portal, CMS, VTB
+- proactive-service-exp-workflows/: Proactive Service Experience Workflows (1 subdir) — telecom product support
+- release-notes/: Release Notes (1 subdir) — per-release/per-module changelogs (272 files)
+- retail-industry/: Retail Industry (1 subdir) — legacy retail task management
+- security-management/: Security Management (13 subdirs) — SIR, vulnerability response, DLP, SBOM
+- service-exchange/: Service Exchange (1 subdir) — Store, marketplace, spokes
+- service-management-for-the-enterprise/: Service Management for the Enterprise (1 subdir) — planned maintenance
+- servicenow-dev-program/: ServiceNow Dev Program (6 subdirs) — vendored community code snippets, client/server/integration
+- servicenow-platform/: ServiceNow Platform (36 subdirs) — CMDB, CSDM, MID Server, knowledge-management, connect
+- source-to-pay-operations/: Source-to-Pay Operations (9 subdirs) — S2P, procurement, AP, supplier lifecycle
+- support-and-troubleshooting/: Support and Troubleshooting — official KB articles (60 subdirs, ~3,900 files) — largest article count in it-asset-management, service-management, discovery
+- telecom-media-technology/: Telecom, Media & Technology (3 subdirs) — TMT, FSM-for-telecom
+- telecom-network-inventory/: Telecom Network Inventory (1 subdir) — TNI
+- telecom-service-ops/: Telecom Service Operations (1 subdir) — service assurance
+
+## Other vault content (outside ServiceNowOfficialDocs/)
+- Notion/ServiceNow/: personal Notion export, browse by topic folder (AI & VA, CMDB, Flow Designer, Security & ACL, etc.)
+- Applications/<app>/: notes on in-house custom ServiceNow apps (e.g. capacity-planner, sn-instance-scan) — app-specific detail lives here, not in wiki/entities/
+- ClaudeAgents/: BA → Architect → Governance → Developer → Tester pipeline for building ServiceNow features end-to-end; start with `ClaudeAgents/README.md`
+- ClaudeSkills/: Claude Code skills used during agent work (agent-dispatch, todo-fixer)
+- wiki/: LLM Wiki synthesis layer — entities/ (concrete things), concepts/ (cross-cutting topics), syntheses/ (evolving theses), queries/ (filed answers), index.md, log.md
+- graphify/<project>/: auto-generated codebase knowledge graphs, one per mapped repo — never edit manually
+- logs/: manual session logs written via the `/save` command
+- raw/sessions/: auto-captured session logs from claude-memory-compiler, unreviewed until `compile.py` promotes facts into wiki/
+- raw/inbox/: landing zone for new sources awaiting wiki ingest
+- chats/code/: imported Claude Code conversations, tagged `chat-import`
+- Dashboards/: Obsidian Bases dashboards (Applications, Wiki Health, CTA Study, Notion Reference)
+- Clippings/: ad-hoc web clippings
+- scripts/: vault maintenance scripts — see Tools below
+
+## Tools (use before reading raw files)
+- semantic_search MCP tool (server: smart-connections): meaning-ranked search across the whole vault, phrasing-agnostic — primary retrieval for the ClaudeAgents pipeline and general Q&A
+- scripts/frontmatter_search.py <query>: fast local keyword search (AND across terms) over cached title/description/tags for all of ServiceNowOfficialDocs — narrowing/triage only, always Read the winning file's body before answering from it; rebuild the cache first with scripts/build_frontmatter_cache.py if missing or stale
+- obsidian-cli (skill): literal keyword search fallback if semantic_search is unreachable, plus read/create/append/property operations on notes
+- scripts/gen_indexes.py: regenerates the per-file INDEX.md for every ServiceNowOfficialDocs leaf directory with >100 markdown files (no args needed, auto-discovers qualifying dirs)
+
+---
+*Generated 2026-07-27 from ServiceNowOfficialDocs/INDEX.md category headers. Regenerate by re-running the category-extraction pass over INDEX.md if categories are added/removed/renamed; this file intentionally omits per-subdirectory and per-file detail, which lives in INDEX.md and the per-folder INDEX.md files respectively.*

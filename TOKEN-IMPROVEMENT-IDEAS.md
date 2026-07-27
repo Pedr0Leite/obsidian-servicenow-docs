@@ -4,13 +4,11 @@ area: session-log
 tags: [performance, token-optimization, todo]
 ---
 
-Ideas from a 2026-07-27 session on reducing token/time cost of navigating this vault. Two items from that session are already done — per-folder `INDEX.md` for leaf dirs >100 files, and the frontmatter search tool (`scripts/frontmatter_search.py`). The rest are queued here, not yet built. Run one at a time; each is independent.
+Ideas from a 2026-07-27 session on reducing token/time cost of navigating this vault. Three items from that session are already done — per-folder `INDEX.md` for leaf dirs >100 files, the frontmatter search tool (`scripts/frontmatter_search.py`), and the root `llms.txt`. The rest are queued here, not yet built. Run one at a time; each is independent.
 
-## 1. Global `llms.txt` at vault root
+## 1. ~~Global `llms.txt` at vault root~~ — DONE 2026-07-27
 
-`now-assist-ai/llms.txt` already does this for the custom-knowledge layer. Nothing does it vault-wide. A single flat `llms.txt` at the repo root — one line per top-level directory, plain-text convention, no markdown table — would be cheaper to scan than `ServiceNowOfficialDocs/INDEX.md`'s table format for the "which top-level area do I even want" step. Table format costs ~2.5x more tokens per row than a flat `- path: description` line.
-
-**Action:** generate `llms.txt` from the existing `INDEX.md` category headers (one pass, no new research needed).
+Built `llms.txt` at repo root: 55 category one-liners generated from `ServiceNowOfficialDocs/INDEX.md`'s `## ` headers, plus a hand-written section for everything outside `ServiceNowOfficialDocs/` (Notion, Applications, wiki, ClaudeAgents, etc.) and a Tools section (semantic_search, frontmatter_search.py, obsidian-cli). 9.2KB vs. `INDEX.md`'s 96.5KB — roughly 10x cheaper for the "which top-level area do I want" step. Generator script left in scratchpad only (one-off, category headers rarely change); rerun by hand if categories are added/removed.
 
 ## 2. Backfill empty `description:` frontmatter in `support-and-troubleshooting/`
 
