@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "cdc037d92a09525c",
+    "id": "92df6a931a0c7edf",
     "type": "split",
     "children": [
       {
-        "id": "d28cb5b14ef73924",
+        "id": "3363ec651fe7a7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "649bbfcc66edd89a",
+            "id": "00cb085f8bb1c29d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ca0d73b950ae3cf6",
+    "id": "c0ebebb661cd4b7f",
     "type": "split",
     "children": [
       {
-        "id": "7056aeffb74eaefa",
+        "id": "bf19c262480bcf6e",
         "type": "tabs",
         "children": [
           {
-            "id": "ba6f109841e39311",
+            "id": "c2e2c460460ef7ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "ef6a0065aa688051",
+            "id": "5776acdbed2e49b0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "ba215912a0dec708",
+            "id": "6a16141ae8837aec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "46a8c4593e3dda0b",
+    "id": "24ce52158ad41e6e",
     "type": "split",
     "children": [
       {
-        "id": "66bfb6f0c7cc408e",
+        "id": "bc3a14dc6b1b74c8",
         "type": "tabs",
         "children": [
           {
-            "id": "10b9be2a0b25ebdf",
+            "id": "1c66494b202571a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "4c3f0bedb274521c",
+            "id": "c712dea5123aeacb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "faaed08949bf784f",
+            "id": "f2831e1a103a812e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "fa650879b8d2e5b6",
+            "id": "298297274d2fd530",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "cef2a4dfb5bae942",
+            "id": "d119334b82be5fd5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -167,6 +167,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,65 +179,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "649bbfcc66edd89a",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation/Now Assist Readiness Evaluation - Architecture Deep Dive.md",
-    "ServiceNowOfficialDocs/now-assist-ai/now-assist-readiness-evaluation",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md.tmp.38868.bb2be439e2f3",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md.tmp.38868.9e4516eb378e",
-    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
-    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
-    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md",
-    "Applications/capacity-planner/capacity-planner-projects-panel-link-priority-dates.md.tmp.27912.d8449f044f52",
-    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md",
-    "Applications/capacity-planner/capacity-planner-fix-pipeline-html-injection.md.tmp.27912.c7107a27197b",
-    "Applications/capacity-planner/capacity-planner-fix-500-scope-dependency.md",
-    "Dashboards/Wiki Health.base",
-    "Dashboards/Wiki.base",
-    "Dashboards/README.md.tmp.7144.f2d8761a8101",
-    "Dashboards/Notion Reference.base.tmp.7144.cbf1d5569215",
-    "Dashboards/CTA Study.base",
-=======
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Testing - ATF Build & Manual Runbook.md",
-    "ServiceNowOfficialDocs/custom-solutions/proactive-customer-case-communicator/PCCC - Manual Test Scenarios.md",
-    "Applications/capacity-planner/capacity-planner-fix-priority-mapping.md",
-    "Applications/capacity-planner/capacity-planner-fix-dates-vs-allocation.md",
-    "Applications/sn-instance-scan/prompt-v3-assessment-report.md.tmp.4457.dab726826d77",
-    "Applications/sn-instance-scan/architecture-v2.md.tmp.4457.4eedead04119",
-    "Applications/sn-instance-scan/prompt-v2-improvements.md.tmp.4457.70d46b9d7e12",
-    "wiki/index.md.tmp.4457.2d4e880f2ac9",
-    "wiki/entities/sn-instance-scan.md.tmp.4457.1990f05e1f0e",
-    "Applications/sn-instance-scan/architecture-v2.md",
-    "Applications/sn-instance-scan/prompt-v2-improvements.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-events-customer-success-about.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-get-started.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-activate.md",
-    "ServiceNowOfficialDocs/acct-lifecycle-events/account-lifecycle-account-onboard-playbook.md",
-    "README.md.tmp.32186.85058b6ed770",
-    "README.md.tmp.32186.58155766658a",
-    "CLAUDE.md.tmp.32186.b2717bfc6dab",
-    "scripts/install-second-brain-mcp.sh",
-    "scripts/install-second-brain-mcp.sh.tmp.32186.e6f77c84de2c",
-    "raw/sessions/2026-07-20.md",
->>>>>>> f633f16d8eacf8c1d9184ac1931cb05e3bed3ac7
-    "README.md",
-    "Untitled.canvas",
-    "ServiceNowOfficialDocs/servicenow-dev-program/code-snippets/Server-Side Components/Business Rules/RoleUpdateOnGroupManagerChange/README.md",
-    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0522699 - The get_lat_long business rule is not populating latitude and longitude.md",
-    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0519074 - ServiceNow Partners - Setting up Deployment Registrations.md",
-    "ServiceNowOfficialDocs/support-and-troubleshooting/cloud-management/KB0516087 - Scheduled job not running with definition present.md",
-    "Clippings/DuplicateMissing Comments in Activity Stream (UI 16) - Support and Troubleshooting.md",
-    "wiki/queries/catalog-item-prefill-and-modal.md",
-    "wiki/syntheses/genai-prompt-vs-ai-agent.md",
-    "wiki/entities/sn-instance-scan.md",
-    "wiki/entities/capacity-planner.md",
-    "wiki/concepts/workspace.md",
-    "wiki/concepts/tips-and-tricks.md",
-    "wiki/concepts/system-properties.md",
-    "wiki/concepts/service-portfolio-management.md",
-    "wiki/concepts/service-portal.md"
-  ]
+  "active": "00cb085f8bb1c29d",
+  "lastOpenFiles": []
 }

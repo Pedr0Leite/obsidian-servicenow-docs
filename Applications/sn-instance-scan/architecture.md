@@ -281,10 +281,14 @@ Note: no ACL in this app should grant broader table access than the user already
 ### Client-side GlideAjax fix
 `RunScan.client.js` originally used `new global.GlideAjax(...)` — `global` is undefined client-side (Rhino doesn't expose it), causing a silent ReferenceError and the "Run Scan" button doing nothing. Fixed to `new GlideAjax('IscanScanOrchestrator')`.
 
-### Progressive activity logging (`activities` field)
+### Progressive activity logging (`scan_findings` field)
 `_appendActivity(run, message)` helper in `IscanScanOrchestrator`:
 - Prepends `gs.now()` timestamp + message + newline
 - Calls `run.update()` immediately after each append for live form visibility without waiting for scan completion
+
+**Field rename (2026-07-22):** `activities` renamed to `scan_findings` across the entire codebase — original name was misleading. Both `scan_findings` (plain String, queryable, ACL-free) and `comments` (Journal) are kept populated; they serve different purposes.
+
+**Journal field bug (found and fixed 2026-07-22):** The `comments` Journal field was silently dropping all appends after the first because the same `GlideRecord` instance was reused across all `_appendActivity()` calls. Fix: re-query a fresh record per journal write. See [[gliderecord-patterns]] for the general pattern.
 
 ### Verbose logging additions
 Added `gs.info/warn/error` calls across all six script includes:
@@ -316,6 +320,22 @@ Source: [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
 **Status (2026-07-20):** Unresolved — awaiting DevTools results.
 
 Sources: [[raw/sessions/2026-07-20#Session 21:28 — sn-instance-scan]], [[raw/sessions/2026-07-20#Session 21:33 — sn-instance-scan]]
+
+---
+
+## Known Gap: global-scope customizations on base-system tables (identified 2026-07-22)
+
+The v3 instance-assessment extension counts artifacts scoped to each app. This misses a category of customization that is common in real instances: **customer-owned artifacts that target OOB/base-system tables** — e.g. custom fields with `u_` or `x_*_` prefix added to `incident`, `sc_request`, etc., or customer-scoped Business Rules / ACLs / UI Policies whose `name` (sys_scope) is a customer scope but whose `table_name` is an OOB table.
+
+Counting only by `sys_scope = appScopeSysId` on OOB tables produces a zero count (those tables' scope is `global`), hiding all customizations applied to them.
+
+Proposed extension: a separate "customizations on base-system tables" section that queries:
+- `sys_dictionary` where `internal_type` = `string`/etc. AND `element` STARTSWITH `u_` or `x_` AND `name` (table) is an OOB table
+- `sys_script` (Business Rules), `sys_security_acl` (ACLs), `sys_ui_policy`, etc. where `sys_scope` = customer scope AND `collection` is an OOB table
+
+Not yet built — identified during report output extension planning. See `sn-instance-scan` repo's `docs/superpowers/` for current build status.
+
+Source: [[raw/sessions/2026-07-22#Session 17:09 — obsidian-servicenow-docs]]
 
 ---
 

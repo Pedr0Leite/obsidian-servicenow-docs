@@ -22,6 +22,15 @@ In a scoped app, server-side code references global-scope classes with the `glob
 
 Seen in: `sn-instance-scan` (`RunScan.client.js`) — [[raw/sessions/2026-07-15#Session 16:58 — sn-instance-scan]]
 
+### `current.update()` + `setAbortAction(true)` in a UI Action causes "Invalid update"
+
+Calling `current.update()` mid-execution of a UI Action and then `setAbortAction(true)` afterward produces an "Invalid update" error — the explicit `update()` increments `sys_mod_count`, and the platform's subsequent natural save sees a stale count.
+
+Fix: do not call `current.update()` inside a UI Action; let the platform do one natural save at the end.
+
+Seen in: `sn-instance-scan`
+Source: [[raw/sessions/2026-07-22#Session 14:15 — sn-instance-scan]]
+
 ## Related concepts
 - [[gliderecord-patterns]]
 - [[cmdb]]
