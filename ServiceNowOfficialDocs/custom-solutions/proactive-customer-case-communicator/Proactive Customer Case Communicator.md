@@ -16,6 +16,7 @@ scope: sn_csm_ai_agents
 platform: now-assist-panel
 status: pilot
 created: 2026-07-16
+last_updated: 2026-07-24
 ---
 
 # Proactive Customer Case Communicator
@@ -132,8 +133,8 @@ Central utility in `sn_csm_ai_agents`. Methods:
 | Method | Responsibility |
 |---|---|
 | `_getCaseProblemDetails(caseNumber)` | Fetch case + problem, compute vars, build templates, return everything. **Side effect:** clears `u_problem_updated`; if it was set, also resets `u_auto_update_count = 0` and clears `u_auto_update_threshold_reached`. |
-| `_computeVariables(...)` | Derives `PROBLEM_LINKED`, `IS_FIRST_LINKAGE`, `RESOLUTION_CODE`, `PROBLEM_STATE`, `WI_REQUIRED` (FIP/Resolved), `CURRENT_WORKAROUND_VALUE`, `WORKAROUND_PREVIOUSLY_SHARED`, `WORKAROUND_PENDING`. |
-| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). |
+| `_computeVariables(...)` | Derives `PROBLEM_LINKED`, `IS_FIRST_LINKAGE`, `RESOLUTION_CODE`, `PROBLEM_STATE`, `WI_REQUIRED` (FIP/Resolved), `CURRENT_WORKAROUND_VALUE`, `WORKAROUND_PREVIOUSLY_SHARED`, `WORKAROUND_PENDING`. As of 2026-07-24, also derives **`WORKAROUND_ONLY_LATEST_CHANGE`** — see [[#17. Changelog]]. |
+| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). As of 2026-07-24, greeting/sign-off use **first-name only** via new `cnFirst`/`caFirst` helpers (contact-name-first, case-assignee-first) — see [[#17. Changelog]]. |
 | `_incrementAutoUpdateCount(caseNumber, resetToZero)` | `reset` → count 0 + clear stamp; else count+1 and stamp `u_auto_update_threshold_reached = now` when `count >= threshold`. |
 | `_addCaseComment(caseNumber, commentText)` | Writes to `comments` (customer-visible) with appended `\n\n[Note: AI-assisted message reviewed by consultant]`. |
 
@@ -176,6 +177,7 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 2. **Resolution guard** → `Risk Accepted` / `Duplicate` → `STOP` (no template, stop_reason surfaced in NAP).
 3. **Closed + Canceled** → `6B` / `7.8`.
 4. **Gate 3 — WI required, none linked** → `STOP` with review message.
+5. **Workaround-only-change override (added 2026-07-24)** — if `WORKAROUND_ONLY_LATEST_CHANGE` is true (the latest Problem edit touched *only* the workaround field, and the value is genuinely new/not previously shared), template `7.4` fires **directly**, bypassing the 6A/6B/6C decision below entirely — regardless of what state-based bookkeeping (`IS_FIRST_LINKAGE`/`implied_state`) would otherwise compute. See [[#17. Changelog]] for why this was needed and how the variable is derived.
 
 ### Decision after gates
 
@@ -207,11 +209,17 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 
 `append_*` flags let a state template also carry a workaround/worknote in one combined message (e.g. state body + `[WORKAROUND]`), while `7.4`/`7.9` own their token directly.
 
+> [!bug] Open bug — 6B missing an 'Assess' check that 6A has (confirmed still open 2026-07-24)
+> `6A` has an explicit `New || Assess` branch → template `7.3`. **`6B` has no equivalent `Assess` branch and no generic fallback** — a Problem sitting at `Assess` that routes through `6B` (i.e. not first-linkage, state changed) currently falls through to the safety-fallback `STOP`, with **no customer message sent at all**. This is the same gap already documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section (written 2026-07-16, mirrors the live tool's actual behavior rather than silently "fixing" the test) — not a newly discovered issue, just re-confirmed live and flagged here as still unresolved as of 2026-07-24.
+
 ---
 
 ## 8. Template Registry
 
 Built by `_buildTemplates()`. `reset_count` drives [[Counter and Cooloff]] behaviour on post.
+
+> [!info] Rewritten 2026-07-24 — first-name greeting/sign-off + 7 bodies rewritten verbatim
+> Greeting and sign-off across templates `7.3`–`7.8` and `7.10.2` now use **first name only** (via new `cnFirst`/`caFirst` helper functions — contact-name-first / case-assignee-first), not the full name. The bodies of `7.3`, `7.4`, `7.5`, `7.6`, `7.7`, `7.8`, and `7.10.2` were rewritten **verbatim per a canonical template sheet** (source: `Prompt_16_07_after requested improvements.txt`, tracked as a reference memory outside this vault). `7.1`, `7.2`, `7.9`, and `7.10.1` were **left untouched** — they still use `cs`/`pn`/`[MEANINGFUL_TITLE]` placeholders as before, but now automatically inherit the first-name greeting/sign-off since that logic lives in the shared helper, not per-template. See [[#17. Changelog]].
 
 | ID | reset_count | Use | Greeting |
 |---|---|---|---|
@@ -301,9 +309,16 @@ Custom fields on `sn_customerservice_case`:
 
 ### From prior notes (unverified here)
 - **Stuck execution / silent exclusion** — if an execution hangs, is the case ever re-picked? No self-healing documented.
-- **NAP shows internal variable** — consultants occasionally saw `{ "NEW_PROBLEM_WORKNOTE_AVAILABLE": true }` instead of the draft; likely approval-step content mapping, not draft generation. Confirm which output variable is bound to the NAP confirmation.
+- **NAP shows internal variable** — consultants occasionally saw `{ "NEW_PROBLEM_WORKNOTE_AVAILABLE": true }` instead of the draft; likely approval-step content mapping, not draft generation. Confirm which output variable is bound to the NAP confirmation. **Still open as of 2026-07-24** — not addressed by this session's fixes (those targeted `[RELEASE_VERSION]`/`[WORKAROUND]`/`[WORKNOTE]` token leakage specifically, a related but distinct symptom — see [[#17. Changelog]]).
 - **Large-context / token limits** — long case histories may exceed model/exec limits; consider summarising older worknotes.
 - **Assigned-user eligibility** — locked/inactive user or missing Now Assist CSM group membership → execution error. Needs daily monitoring.
+- **6B missing an Assess-state branch** (found 2026-07-24) — see the bug callout in [[#7. Deterministic Routing]]. Not yet fixed.
+
+### Resolved this session (2026-07-24) — see [[#17. Changelog]] for full detail
+- ~~`[RELEASE_VERSION]` placeholder/filler leaking into drafts~~ — fixed; placeholder/filler `fix_notes` now treated as empty, token deleted and sentence rewritten instead of leaking through.
+- ~~Token-leak check only ran once~~ — Step 6.4's token scan is now mandatory/always-run (even after the 6.1 fix runs) and also scans for `[WORKAROUND]`/`[WORKNOTE]`, not just `[RELEASE_VERSION]`.
+- ~~Workaround-only Problem edits not reliably firing template 7.4~~ — fixed via the new `WORKAROUND_ONLY_LATEST_CHANGE` variable + routing override gate (see [[#7. Deterministic Routing]]). Confirmed working end-to-end on live test.
+- ~~`[WORKAROUND]` token not filling on some test cases~~ — investigated, **not a bug**: confirmed this is the CLEAN AND FILTER CONTENT semantic filter correctly rejecting placeholder/junk test text, the same rule that blocks "N/A"/"TBD" workarounds from ever reaching a customer. Working as designed.
 
 ### Open questions
 - Max cases per run / cap / batching strategy before broad rollout?
@@ -358,6 +373,43 @@ Post-deploy: agent active, 3 tools attached, trigger active, Script Include in s
 
 ---
 
+## 17. Changelog
+
+Session-by-session record of live changes to the deployed PCCC components. Source: VS Code Claude Code session working directly against the ServiceNow instance (Agent API), not this vault — captured here after the fact so the architecture doc stays current.
+
+### 2026-07-24 — Template rewrite, prompt hardening, workaround-only-change fix
+
+**Phase 1 — Template rewrite (`caseUpdateAgentUtil.script.js`, live in ServiceNow)**
+- Added first-name greeting/sign-off helpers (`cnFirst`/`caFirst`) — templates now greet/sign with first name only, not full name.
+- Rewrote the 7 "Z-column" bodies verbatim per a canonical template sheet: `7.3`, `7.4`, `7.5`, `7.6`, `7.7`, `7.8`, `7.10.2`.
+- Left `7.1`, `7.2`, `7.9`, `7.10.1` untouched (still `cs`/`pn`/`[MEANINGFUL_TITLE]`-based) — they now inherit first-name greeting/sign-off automatically since that logic moved into the shared helper.
+
+**PCCC agent prompt** (canonical source: `Prompt_16_07_after requested improvements.txt`, saved as a reference memory outside this vault — not itself a vault file)
+- **Step 6.1 fix** — `[RELEASE_VERSION]` handling: placeholder/filler `fix_notes` now treated as empty; the token is deleted and the sentence rewritten, instead of the literal placeholder leaking into the customer-facing draft.
+- **Step 6.4 hardened** — the token-leak check is now mandatory/always-run (even after 6.1 runs), and scans for `[WORKAROUND]`/`[WORKNOTE]` too, not just `[RELEASE_VERSION]`.
+- **New Step 5.5** — for template `7.8` (Problem Resolved+Canceled / Closed+Canceled), the consultant is now explicitly prompted to pick 1 of 3 closings before drafting — the AI no longer infers the closing from cause notes.
+- **Steps 7.1/7.3 (Approve/Modify/Reject)** changed to numbered-list format — NAP renders these as clickable buttons, confirmed working, same rendering mechanism already used for the `7.8` closing-choice options (see Step 5.5 above).
+- **Step 5 tool-call inputs rewritten** as an explicit named list ("copy verbatim, don't re-derive") — fixes an LLM reliability bug where a fetched variable (`WORKAROUND_PENDING`) was being silently mistranscribed before being passed on.
+
+> [!note] Step numbering has shifted since this doc's original walkthrough
+> The architecture note's [[#3. Problem Update Path]] flow diagram and the Part A walkthrough in [[PCCC - Testing - ATF Build & Manual Runbook]] describe an earlier Step 1–6 structure (fetch → clean → title → worknote-availability JSON → routing JSON → draft). The live prompt now has sub-steps (5.5, 6.1, 6.4, 7.1, 7.3) layered into that structure per the fixes above. The high-level flow (fetch → clean → route → draft → NAP approval → post) is unchanged; only the fine-grained step numbering inside "resolve variables" and "draft/approve" has grown more granular. Treat the original Step 1–6 summary as the conceptual model, and this changelog as the current implementation detail.
+
+**Workaround-only-change scenario** (previously not firing reliably)
+- Diagnosed the real-time trigger chain end-to-end: BR → `u_problem_updated` flag → Flow Designer trigger (`u_problem_updated CHANGESTO true`) → agent. Confirmed this pipeline does work as designed.
+- Added **`WORKAROUND_ONLY_LATEST_CHANGE`** — a new deterministic variable in `caseUpdateAgentUtil.script.js`, derived from existing `sys_audit`/`sys_journal_field` history. Deliberately **no new schema field** was added (explicit call made to avoid one).
+- Added an override gate in [[Resolve routing decision and template selection]] (see [[#7. Deterministic Routing]]): when the latest Problem edit touched only the workaround field and it's genuinely new/unshared, template `7.4` fires directly, regardless of state-based `6A`/`6B`/`6C` bookkeeping drift.
+- Fixed a sync gap where local Script Include edits weren't reaching the live instance — pushed directly via the Agent API, confirmed live.
+- **Rolled back** an earlier BR-based direct-invocation experiment — [[AIPF_Flag Cases on Problem State or Work]] (`AIPF_FlagCasesonProblemStateorWork.script.js`) is back to its original, untouched state.
+- **Confirmed working end-to-end**: template `7.4` fired correctly on the next real test.
+
+**Investigated, no code change (working as designed)**
+- `[WORKAROUND]` token not filling on some test cases — confirmed this is the CLEAN AND FILTER CONTENT semantic filter correctly rejecting placeholder/junk test text, by design (same rule blocking "N/A"/"TBD" workarounds from reaching customers).
+
+**Found, not yet fixed (flagged so it isn't lost)**
+- The routing tool's `6B` branch is missing an `Assess`-state check that `6A` has — a Problem sitting at `Assess` routed through `6B` currently falls through to the safety-fallback `STOP` with no message sent. See the bug callout in [[#7. Deterministic Routing]].
+
+---
+
 ## Related Notes
 
 - [[Monitor Work Item AI Agent]] — sibling agent, `u_work_item` → Problem worknote, Global scope
@@ -366,11 +418,14 @@ Post-deploy: agent active, 3 tools attached, trigger active, Script Include in s
 - [[AIPF_Flag Cases on Problem State or Work]]
 - [[caseUpdateAgentUtil]]
 - [[Resolve routing decision and template selection]]
+- [[caseRoutingUtil]] — extracted Script Include version of the routing logic, see [[Proactive Customer Case Communicator - ATF Test Suite]]
 - [[Stale Case Scheduled Job]]
 - [[Template Registry]]
 - [[Counter and Cooloff]]
 - [[Now Assist Panel]]
 - [[Now Assist]]
+- [[PCCC - Testing - ATF Build & Manual Runbook]] — agent walkthrough + full testing matrix
+- [[PCCC - Manual Test Scenarios]] — actor-based runnable test scripts
 - [[Problem Management]]
 - [[Work Item]]
 - [[Human in the Loop]]
