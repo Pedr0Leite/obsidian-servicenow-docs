@@ -104,6 +104,31 @@ created: 2026-07-22
 
 ---
 
+### T-1.4c — User2 changes ONLY the workaround field (workaround-only-change override)
+
+**Added 2026-07-24**, confirmed working end-to-end on a live test the same day — see [[Proactive Customer Case Communicator#17. Changelog]].
+
+**Preconditions:** Case linked to Problem, Problem `state` unchanged since last communication, workaround field currently empty or containing an already-shared value.
+
+**Steps:**
+1. User2 edits **only** the Problem's `workaround` field, setting a genuinely new (not previously shared) value — no other field changes in the same edit.
+
+**Expected result:**
+- Agent fires via the same real-time chain as always: BR → `u_problem_updated` flag → Flow Designer trigger (`u_problem_updated CHANGESTO true`) → agent.
+- Routing tool's `WORKAROUND_ONLY_LATEST_CHANGE` variable evaluates true (derived from `sys_audit`/`sys_journal_field` history showing the workaround field as the only thing that changed) → **template `7.4` fires directly**, bypassing the normal `6A`/`6B`/`6C` state-based decision entirely.
+- **User1 sees a new "workaround shared" draft in NAP** (`[WORKAROUND]` token filled with the new value).
+- **Fail condition:** no draft appears, or a different template (e.g. `7.10.2` "nothing new") fires instead — this was the original bug this fix addresses.
+
+### T-1.4d — Same as T-1.4c, but the "new" workaround is placeholder/junk text
+
+**Steps:**
+1. User2 sets the workaround field to junk/placeholder text (e.g. "N/A", "TBD", or obvious test filler).
+
+**Expected result:**
+- `[WORKAROUND]` token does **not** get filled with the junk text — this is the CLEAN AND FILTER CONTENT semantic filter correctly rejecting placeholder content, by design (confirmed working-as-designed 2026-07-24, not a bug). Confirm the draft either omits the workaround section gracefully or the message doesn't send, rather than leaking "N/A"/"TBD" to the customer.
+
+---
+
 ### T-1.5 — User2 repeats the same work note content (no new information)
 
 **Preconditions:** T-1.4 already ran and was approved (message sent to customer).
@@ -269,12 +294,51 @@ created: 2026-07-22
 
 ---
 
+## 6. Session fixes (2026-07-24) — regression tests
+
+New/hardened behavior confirmed live on 2026-07-24 — see [[Proactive Customer Case Communicator#17. Changelog]] for full detail. These guard against the specific fixes regressing.
+
+### T-6.1 — `[RELEASE_VERSION]` placeholder does not leak into the draft
+
+**Preconditions:** Trigger template `7.5` (Resolved/Closed + Fix Applied) per T-1.7, but with `fix_notes` left as placeholder/filler text (e.g. blank, "TBD") rather than a real release version.
+
+**Expected result:** The `[RELEASE_VERSION]` token is deleted and the sentence referencing it is rewritten, not left as a literal `[RELEASE_VERSION]` string in the customer-facing draft. **Fail condition:** the literal token or a placeholder value appears in the draft User1 sees in NAP.
+
+### T-6.2 — Token-leak check catches `[WORKAROUND]`/`[WORKNOTE]` too, not just `[RELEASE_VERSION]`
+
+**Steps:** Trigger any combination of T-1.4c (workaround) and T-1.4 (worknote) in the same draft cycle (e.g. via `append_workaround`/`append_worknote` combined-message flags), with a scenario likely to leave an unfilled token.
+
+**Expected result:** No literal `[WORKAROUND]`, `[WORKNOTE]`, or `[RELEASE_VERSION]` token ever appears in a NAP draft — the token check now runs mandatorily on every draft, not just after the `[RELEASE_VERSION]`-specific fix path.
+
+### T-6.3 — Template 7.8 prompts User1 to choose a closing, not inferred by the AI
+
+**Preconditions:** Trigger template `7.8` (Problem Resolved+Canceled or Closed+Canceled per T-1.6/T-1.7 variants).
+
+**Steps:** Observe the drafting flow in NAP before the draft is presented.
+
+**Expected result:** User1 is explicitly prompted to pick **1 of 3 closings** before the draft is generated — the AI does not infer the closing wording from Problem cause notes on its own. **Fail condition:** a draft appears directly with no closing choice presented.
+
+### T-6.4 — Approve/Modify/Reject renders as clickable NAP buttons
+
+**Preconditions:** Any scenario producing a pending draft (e.g. T-1.1, T-1.2).
+
+**Expected result:** The Approve/Modify/Reject options render as clickable buttons in NAP (numbered-list format under the hood), the same rendering mechanism already used for the `7.8` closing-choice options in T-6.3 — not as plain text User1 has to type a response to.
+
+### T-6.5 — Tool-call inputs pass through unmodified (no LLM mistranscription)
+
+**Preconditions:** Any scenario where `WORKAROUND_PENDING` (or another Tool 1-fetched variable) is passed into Tool 2's routing call — e.g. T-1.4c.
+
+**Expected result:** The value routed into Tool 2 matches exactly what Tool 1 fetched — spot-check by comparing the actual Problem/Case field value against what the routing decision acted on. **Fail condition:** routing behaves as if a fetched variable had a different value than what's actually on the record (the original bug this fix addresses was a silent mistranscription of `WORKAROUND_PENDING` specifically).
+
+---
+
 ## Coverage cross-reference
 
 | Scenario group | Maps to runbook section |
 |---|---|
 | §1 Problem Update Path | Part A steps 1–6, [[PCCC - Testing - ATF Build & Manual Runbook#B1. Manual edges — LLM drafting & content quality]] |
 | §2 NAP Approval | [[PCCC - Testing - ATF Build & Manual Runbook#B2. Manual edges — NAP approval flow]] |
+| §6 Session fixes (2026-07-24) | [[Proactive Customer Case Communicator#17. Changelog]] |
 | §3 Bug repro | Same section, bug-specific rows |
 | §4 Eligibility | Same section, eligibility row |
 | §5 Stale Path | [[PCCC - Testing - ATF Build & Manual Runbook#B3. Manual edges — volume / stale job]] |

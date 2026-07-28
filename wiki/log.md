@@ -116,22 +116,10 @@ Schema documented in `CLAUDE.md` under "LLM Wiki".
   - `Applications/sn-instance-scan/architecture.md` — updated debugging notes: admin confirmed → ACL hypothesis eliminated → new direction client-side; next action is DevTools check (Console for JS errors, Network for `xmlhttp.do` POST).
 - Sessions skipped: all FLUSH_ERROR/FLUSH_OK flushes (already noted in pass 1); session 21:28 already compiled in pass 1.
 
-## [2026-07-22] auto-ingest | 2026-07-21.md
-- Source: `raw/sessions/2026-07-21.md`
-- Pages created: none
-- Pages updated: none
-- Note: Both sessions (`pedro` at 17:11 and 23:29, path `/home/pedro`) flagged `FLUSH_OK - Nothing worth saving`. No ServiceNow knowledge to compile.
-
-## [2026-07-22] auto-ingest | 2026-07-22.md
-- Source: `raw/sessions/2026-07-22.md`
-- Pages created: none
-- Pages updated:
-  - [[gliderecord-patterns]] — added `## Gotchas` section: journal fields silently drop repeated writes on same GlideRecord instance; must re-query fresh record per write. Source: `sn-instance-scan` (14:15).
-  - [[server-client-scripts]] — added gotcha: `current.update()` + `setAbortAction(true)` in a UI Action causes "Invalid update" (sys_mod_count collision); let platform do one natural save. Source: `sn-instance-scan` (14:15).
-  - `Applications/sn-instance-scan/architecture.md` — added: `activities` → `scan_findings` rename (2026-07-22); journal field bug fix (fresh GlideRecord per write); global-scope customization gap analysis (OOB tables miss `u_`/`x_*_` custom fields and customer-scoped BRs/ACLs targeting OOB tables).
-  - [[sn-instance-scan]] (entity pointer) — updated architecture.md description to reflect rename and journal fix; added session 14:15 source reference.
-- Sessions skipped:
-  - `pedro` (11:00, 14:15, 14:36) — Obsidian crash debugging and CYD ESP32 device, non-SN.
-  - `cyd-claudeusage` (14:20) — ESP32 firmware debugging, non-SN.
-  - `sn-instance-scan` (09:09) — FLUSH_OK.
-  - `obsidian-servicenow-docs` (14:28, 14:29, 14:33, 14:57, 17:09) — Obsidian Bases dashboards (vault tooling, not SN knowledge) and `smart-connections-mcp` setup (infrastructure); Business Rules question deferred per existing decision (no new page without Flow Designer decision synthesis pairing).
+## [2026-07-22] ingest | Partner Case Summary Agent story
+- Source: user request (chat), not a raw source drop.
+- Pages created:
+  - [[partner-case-summary-agent|Partner Case Summary Agent (Story)]] (`Applications/partner-case-summary-agent/partner-case-summary-agent.md`) — refined user story for a proposed Now Assist AI Agent (ReAct) that summarizes `sn_customerservice_case` cases for 5 named Partner Managers. Refined via the `ba-agent` from an original Microsoft Copilot Studio connector request into a ServiceNow-native design (Virtual Agent/Now Assist Panel surface, no external connector). Case table locked to `sn_customerservice_case`.
+  - [[partner-case-summary-agent]] (wiki entity, thin pointer) — links back to the Applications/ source note.
+- Pages updated: `wiki/index.md` — added entity row.
+- Status: proposed only, not yet built.
