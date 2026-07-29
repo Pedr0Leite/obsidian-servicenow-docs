@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(uv run *)",
+      "Bash(obsidian read *)",
+      "Bash(obsidian search *)",
+      "Read(//home/pedro/.claude/plugins/cache/obsidian-skills/obsidian/1.0.1/skills/obsidian-cli/**)",
+      "Bash(find / -iname \"obsidian*\" -maxdepth 4 -type f)",
+      "Bash(obsidian help *)",
+      "Bash(rtk find *)",
+      "WebSearch",
+      "Bash(obsidian plugin:list)",
+      "Bash(claude mcp *)",
+      "Bash(rtk read *)"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "smart-connections"
+  ]
+}
