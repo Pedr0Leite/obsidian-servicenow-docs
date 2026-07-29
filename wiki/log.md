@@ -135,3 +135,10 @@ Schema documented in `CLAUDE.md` under "LLM Wiki".
   - `cyd-claudeusage` (14:20) — ESP32 firmware debugging, non-SN.
   - `sn-instance-scan` (09:09) — FLUSH_OK.
   - `obsidian-servicenow-docs` (14:28, 14:29, 14:33, 14:57, 17:09) — Obsidian Bases dashboards (vault tooling, not SN knowledge) and `smart-connections-mcp` setup (infrastructure); Business Rules question deferred per existing decision (no new page without Flow Designer decision synthesis pairing).
+## [2026-07-22] ingest | Partner Case Summary Agent story
+- Source: user request (chat), not a raw source drop.
+- Pages created:
+  - [[partner-case-summary-agent|Partner Case Summary Agent (Story)]] (`Applications/partner-case-summary-agent/partner-case-summary-agent.md`) — refined user story for a proposed Now Assist AI Agent (ReAct) that summarizes `sn_customerservice_case` cases for 5 named Partner Managers. Refined via the `ba-agent` from an original Microsoft Copilot Studio connector request into a ServiceNow-native design (Virtual Agent/Now Assist Panel surface, no external connector). Case table locked to `sn_customerservice_case`.
+  - [[partner-case-summary-agent]] (wiki entity, thin pointer) — links back to the Applications/ source note.
+- Pages updated: `wiki/index.md` — added entity row.
+- Status: proposed only, not yet built.

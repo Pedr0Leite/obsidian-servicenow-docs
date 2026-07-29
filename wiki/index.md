@@ -10,6 +10,7 @@ See `wiki/backlinks-log.md` for backlink health-check history.
 ## Entities (apps, integrations, custom builds)
 - [[capacity-planner]] — in-house capacity planning app. Source: `Applications/capacity-planner/`.
 - [[sn-instance-scan]] — scoped app that scans a ServiceNow instance (sys_db_object walk + ACL fallback). Deployed 2026-07-22; v3 instance-assessment extension fully implemented — check the repo, not this vault, for current build status.
+- [[partner-case-summary-agent]] — proposed Now Assist AI Agent for Partner Managers to summarize `sn_customerservice_case` cases. Status: proposed, not yet built. Source: `Applications/partner-case-summary-agent/`.
 
 ## Concepts (core ServiceNow dev topics, synthesized across sources)
 - [[acls]] — access control rules, scoped-app ACL patterns.
