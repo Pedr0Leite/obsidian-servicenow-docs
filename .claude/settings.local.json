@@ -13,10 +13,17 @@
       "WebSearch",
       "Bash(obsidian plugin:list)",
       "Bash(claude mcp *)",
-      "Bash(rtk read *)"
+      "Bash(rtk read *)",
+      "mcp__smart-connections__semantic_search",
+      "Bash(rtk grep *)",
+      "Bash(obsidian *)",
+      "Bash(rtk git *)",
+      "Bash(rtk ls *)"
     ]
   },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
-    "smart-connections"
+    "smart-connections",
+    "claude-flow"
   ]
 }

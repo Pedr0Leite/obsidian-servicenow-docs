@@ -138,6 +138,85 @@ Central utility in `sn_csm_ai_agents`. Methods:
 | `_incrementAutoUpdateCount(caseNumber, resetToZero)` | `reset` → count 0 + clear stamp; else count+1 and stamp `u_auto_update_threshold_reached = now` when `count >= threshold`. |
 | `_addCaseComment(caseNumber, commentText)` | Writes to `comments` (customer-visible) with appended `\n\n[Note: AI-assisted message reviewed by consultant]`. |
 
+### Tool 1 wrapper script (literal, as configured on the AI Agent Tool)
+
+```javascript
+(function(inputs) {
+    var caseNumber = inputs.case_number;
+    if (!caseNumber) {
+        return {
+            success: false,
+            error: 'Missing case_number input'
+        };
+    }
+
+    var util = new sn_csm_ai_agents.caseUpdateAgentUtil();
+    var data = util._getCaseProblemDetails(caseNumber);
+
+    return {
+        success: data.success,
+        error: data.error || null,
+        case_details: data.case_details,
+        problem_details: data.problem_details,
+        variables: data.variables,
+        templates: data.templates,
+        problem_url: data.problem_url || null
+    };
+})(inputs);
+```
+
+Shape worth reusing elsewhere: thin `inputs → util call → shaped return` wrapper on the AI Agent Tool itself, all real logic (ACL checks, side effects, field derivation) lives in the Script Include.
+
+### Tool 3 wrapper script (literal, as configured on the AI Agent Tool)
+
+Writer tool — posts the approved message, then updates the [[Counter and Cooloff]] state via `_incrementAutoUpdateCount`. Counter update only runs if the comment post itself succeeded, and only when `reset_count` isn't `'skip'`.
+
+```javascript
+(function(inputs) {
+    // only string inputs are allowed 
+    // return outputs object where the keys in it are understandable by LLM
+    var caseNumber = inputs.case_number;
+    var comment = inputs.customer_facing_update;
+    var resetCount = inputs.reset_count;
+
+    if (!caseNumber || !comment) {
+        return {
+            success: false,
+            error: 'Missing required inputs: case_number and customer_facing_update'
+        };
+    }
+
+    var util = new sn_csm_ai_agents.caseUpdateAgentUtil();
+    var result = util._addCaseComment(caseNumber, comment);
+    if (!result.success) {
+        return {
+            success: false,
+            error: result.message
+        };
+    }
+
+
+
+    // Update the auto update count only if comment posted successfully apart from No problem WIP/Awaiting info follow-up
+  
+    var validResetValues = ['true', 'false', 'skip'];
+    if (validResetValues.indexOf(resetCount) === -1) {
+        return {
+            success: false,
+            error: 'Invalid reset_count value: ' + resetCount + '. Must be true, false, or skip.'
+        };
+    }
+    if (resetCount !== 'skip') {
+        util._incrementAutoUpdateCount(caseNumber, resetCount === 'true');
+    }
+    return {
+        success: true,
+        message: result.message
+    };
+
+})(inputs);
+```
+
 ### First-linkage detection (the clever bit)
 
 `IS_FIRST_LINKAGE` is **not** guessed by the LLM — it's derived from `sys_journal_field`:
@@ -211,6 +290,193 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 
 > [!bug] Open bug — 6B missing an 'Assess' check that 6A has (confirmed still open 2026-07-24)
 > `6A` has an explicit `New || Assess` branch → template `7.3`. **`6B` has no equivalent `Assess` branch and no generic fallback** — a Problem sitting at `Assess` that routes through `6B` (i.e. not first-linkage, state changed) currently falls through to the safety-fallback `STOP`, with **no customer message sent at all**. This is the same gap already documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section (written 2026-07-16, mirrors the live tool's actual behavior rather than silently "fixing" the test) — not a newly discovered issue, just re-confirmed live and flagged here as still unresolved as of 2026-07-24.
+
+### Tool 2 wrapper script (literal, as configured on the AI Agent Tool)
+
+Pure script tool, no LLM call inside it — matches the "deterministic first" design principle. The 6B bug above is visible directly in this code: the `routingDecision === '6B'` branch below has no `New || Assess` case, unlike `6A`'s explicit one.
+
+```javascript
+(function(inputs) {
+    // only string inputs are allowed
+    // return outputs object where the keys in it are understandable by LLM
+
+    var isFirstLinkage = inputs.is_first_linkage;
+    var impliedState = inputs.implied_state || null;
+    var problemState = inputs.problem_state || '';
+    var resolutionCode = inputs.resolution_code || '';
+    var workaroundPending = inputs.workaround_pending;
+    var newWorknoteAvailable = inputs.new_worknote_available;
+    var lastTemplateStyle = inputs.last_template_style || null;
+
+    // Gate 1 — No problem linked
+    var problemLinked = inputs.problem_linked;
+
+    if (problemLinked === false || problemLinked === 'false') {
+        var caseState = inputs.case_state || '';
+        if (caseState.indexOf('Awaiting') !== -1) {
+            return {
+                success: true,
+                routing_decision: 'STOP_GATE1',
+                selected_template: '7.2',
+                append_workaround: false,
+                append_worknote: false,
+                fill_worknote_token: false,
+                fill_workaround_token: false
+            };
+        } else {
+            return {
+                success: true,
+                routing_decision: 'STOP_GATE1',
+                selected_template: '7.1',
+                append_workaround: false,
+                append_worknote: false,
+                fill_worknote_token: false,
+                fill_workaround_token: false
+            };
+        }
+    }
+
+    if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
+        resolutionCode.toLowerCase() === 'risk accepted' || resolutionCode.toLowerCase() === 'duplicate') {
+        return {
+            success: true,
+            routing_decision: 'STOP',
+            selected_template: null,
+            stop_reason: 'No communication required — Problem resolution code is ' + resolutionCode + '. Case update skipped.',
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    }
+
+    // Gate 2b — Closed + Canceled
+    if (problemState === 'Closed' && resolutionCode === 'Canceled') {
+        return {
+            success: true,
+            routing_decision: '6B',
+            selected_template: '7.8',
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    }
+
+    // Gate 3 — Work Item required but not linked
+    var wiRequired = inputs.wi_required;
+    var hasWorkItem = inputs.has_work_item;
+
+    if ((wiRequired === true || wiRequired === 'true') &&
+        (hasWorkItem === false || hasWorkItem === 'false')) {
+        return {
+            success: true,
+            routing_decision: 'STOP',
+            selected_template: null,
+            stop_reason: 'No Work Item linked to Problem. Communication cannot be sent until a Work Item is linked. Please review.',
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    }
+
+    // Workaround-only-change override — if the most recent Problem edit touched only
+    // the workaround field (no state/work_notes change alongside or after it) and a
+    // new, unshared workaround is present, communicate it directly regardless of the
+    // state-based 6A/6B/6C classification below.
+    var workaroundOnlyLatestChange = inputs.workaround_only_latest_change;
+    if ((workaroundOnlyLatestChange === true || workaroundOnlyLatestChange === 'true') &&
+        (workaroundPending === true || workaroundPending === 'true')) {
+        return {
+            success: true,
+            routing_decision: '6C',
+            selected_template: '7.4',
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: true
+        };
+    }
+
+    var routingDecision;
+    if (isFirstLinkage === true || isFirstLinkage === 'true') {
+        routingDecision = '6A';
+    } else if (!impliedState || impliedState === 'null') {
+        routingDecision = '6B';
+    } else if (problemState === impliedState) {
+        routingDecision = '6C';
+    } else {
+        routingDecision = '6B';
+    }
+
+    // TEMPLATE SELECTION
+    var selectedTemplate;
+
+    if (routingDecision === '6A') {
+        if (problemState === 'New' || problemState === 'Assess') {
+            selectedTemplate = '7.3';
+        } else if (problemState === 'Root Cause Analysis') {
+            selectedTemplate = '7.6';
+        } else if (problemState === 'Fix in Progress') {
+            selectedTemplate = '7.7';
+        } else if ((problemState === 'Resolved' || problemState === 'Closed') && resolutionCode === 'Fix Applied') {
+            selectedTemplate = '7.5';
+        }
+    } else if (routingDecision === '6B') {
+        if (problemState === 'New') {
+            selectedTemplate = '7.3';
+        } else if (problemState === 'Root Cause Analysis') {
+            selectedTemplate = '7.6';
+        } else if (problemState === 'Fix in Progress') {
+            selectedTemplate = '7.7';
+        } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
+            selectedTemplate = '7.5';
+        } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
+            selectedTemplate = '7.8';
+        } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
+            selectedTemplate = '7.5';
+        }
+    } else if (routingDecision === '6C') {
+        if (workaroundPending === true || workaroundPending === 'true') {
+            selectedTemplate = '7.4';
+        } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
+            selectedTemplate = '7.9';
+        } else if (impliedState === 'Resolved' &&
+            (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
+            selectedTemplate = '7.10.1';
+        } else {
+            selectedTemplate = '7.10.2';
+        }
+    }
+    // Safety fallback — prevents undefined template
+    if (!selectedTemplate) {
+        return {
+            success: true,
+            routing_decision: 'STOP',
+            selected_template: null,
+            stop_reason: 'Template could not be determined for problem_state: ' + problemState + ', resolution_code: ' + resolutionCode + ', routing_decision: ' + routingDecision,
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    }
+
+    var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') && selectedTemplate !== '7.4';
+    var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') && selectedTemplate !== '7.9';
+
+    return {
+        success: true,
+        routing_decision: routingDecision,
+        selected_template: selectedTemplate,
+        append_workaround: appendWorkaround,
+        append_worknote: appendWorknote,
+        fill_worknote_token: selectedTemplate === '7.9',
+        fill_workaround_token: selectedTemplate === '7.4'
+    };
+})(inputs);
+```
 
 ---
 

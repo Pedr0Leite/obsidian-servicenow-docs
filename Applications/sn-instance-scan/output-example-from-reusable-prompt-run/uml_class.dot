@@ -1,0 +1,161 @@
+digraph datamodel {
+  graph [rankdir=TB, splines=spline, nodesep=0.6, ranksep=1.0, bgcolor="white",
+         fontname="Helvetica", fontsize=11, pad=0.35];
+  node  [fontname="Helvetica", fontsize=9, shape=plaintext];
+  edge  [fontname="Helvetica", fontsize=9, color="#2A4B5C", arrowsize=0.8];
+  labelloc="t";
+  label=<<b>UML Class Diagram &#8212; Custom Application Data Model</b><br/><font point-size="9">Scope <b>x_335329_iscan</b> &#8212; "SN Instance Scan" &#183; scan run f7deab24475e03100739b71f316d4389 (custom_only, full_access, 2026-07-22)</font>>;
+
+  /* ---------- CUSTOM TABLES ---------- */
+  run [label=<
+    <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#DFF2E4">
+      <tr><td bgcolor="#3E8E5A"><font color="white" point-size="8">&#171;table&#187;</font><br/><font color="white"><b>x_335329_iscan_run</b></font><br/><font color="white" point-size="7">extends: none (base) &#183; 1 row &#183; 18 fields</font></td></tr>
+      <tr><td align="left" balign="left"><font point-size="8">
+      + scan_mode : choice<br/>
+      + status : choice<br/>
+      + started : glide_date_time<br/>
+      + completed : glide_date_time<br/>
+      + app_count : integer<br/>
+      + manual_app_list : string<br/>
+      + scan_findings : string<br/>
+      + activities : string<br/>
+      + comments : journal_input<br/>
+      <i>&#8594; requested_by : ref sys_user</i><br/>
+      <i>&#8594; target_app : ref sys_app</i><br/>
+      <i>&#8594; target_table : ref sys_db_object</i>
+      </font></td></tr>
+      <tr><td align="left"><font point-size="7"><i>inbound refs: 2</i></font></td></tr>
+    </table>>];
+
+  result [label=<
+    <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#DFF2E4">
+      <tr><td bgcolor="#3E8E5A"><font color="white" point-size="8">&#171;table&#187;</font><br/><font color="white"><b>x_335329_iscan_result</b></font><br/><font color="white" point-size="7">extends: none (base) &#183; 15 rows &#183; <b>49 fields</b></font></td></tr>
+      <tr><td align="left" balign="left"><font point-size="8">
+      + scan_mode_used : choice<br/>
+      + summary_text : string<br/>
+      + llm_context : string<br/>
+      + table_count / table_list<br/>
+      + business_rule_count &#183; client_script_count<br/>
+      + flow_count &#183; flow_action_count &#183; workflow_count<br/>
+      + scripted_rest_api_count &#183; ui_page_count<br/>
+      + notification_count &#183; sla_definition_count<br/>
+      + transform_map_count &#183; catalog_variable_count<br/>
+      + atf_test_count &#183; processor_count<br/>
+      + data_policy_count &#183; service_portal_widget_count<br/>
+      + group_count &#183; system_property_count &#183; …<br/>
+      <i>&#8594; run : ref x_335329_iscan_run</i><br/>
+      <i>&#8594; app : ref sys_app</i>
+      </font></td></tr>
+      <tr><td align="left"><font point-size="7"><i>inbound refs: 2 &#183; wide denormalised counter row</i></font></td></tr>
+    </table>>];
+
+  tbl [label=<
+    <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#DFF2E4">
+      <tr><td bgcolor="#3E8E5A"><font color="white" point-size="8">&#171;table&#187;</font><br/><font color="white"><b>x_335329_iscan_table</b></font><br/><font color="white" point-size="7">extends: none (base) &#183; 59 rows &#183; 17 fields</font></td></tr>
+      <tr><td align="left" balign="left"><font point-size="8">
+      + table_name : string<br/>
+      + extends_table : string<br/>
+      + well_known_base : choice<br/>
+      + row_count : integer<br/>
+      + field_count : integer<br/>
+      + reference_field_list : string<br/>
+      + inbound_reference_count / _list<br/>
+      + dictionary_override_count / _list<br/>
+      <i>&#8594; result : ref x_335329_iscan_result</i>
+      </font></td></tr>
+      <tr><td align="left"><font point-size="7"><i>inbound refs: 1</i></font></td></tr>
+    </table>>];
+
+  xref [label=<
+    <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#DFF2E4">
+      <tr><td bgcolor="#3E8E5A"><font color="white" point-size="8">&#171;table&#187; &#171;association class&#187;</font><br/><font color="white"><b>x_335329_iscan_crossref</b></font><br/><font color="white" point-size="7">extends: none (base) &#183; 38 rows &#183; 11 fields</font></td></tr>
+      <tr><td align="left" balign="left"><font point-size="8">
+      + referencing_table : string<br/>
+      + referencing_field : string<br/>
+      + referencing_scope : string<br/>
+      <i>&#8594; table : ref x_335329_iscan_table</i><br/>
+      <i>&#8594; referencing_app : ref sys_app</i>
+      </font></td></tr>
+      <tr><td align="left"><font point-size="7"><i>inbound refs: 0 &#183; leaf</i></font></td></tr>
+    </table>>];
+
+  gcust [label=<
+    <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#DFF2E4">
+      <tr><td bgcolor="#3E8E5A"><font color="white" point-size="8">&#171;table&#187;</font><br/><font color="white"><b>x_335329_iscan_global_customization</b></font><br/><font color="white" point-size="7">extends: none (base) &#183; 2 rows &#183; 13 fields</font></td></tr>
+      <tr><td align="left" balign="left"><font point-size="8">
+      + table_name : string<br/>
+      + custom_field_count / custom_field_list<br/>
+      + custom_artifact_count / custom_artifact_list<br/>
+      <i>&#8594; run : ref x_335329_iscan_run</i><br/>
+      <i>&#8594; result : ref x_335329_iscan_result</i>
+      </font></td></tr>
+      <tr><td align="left"><font point-size="7"><i>inbound refs: 0 &#183; leaf &#183; dual parent (run + result)</i></font></td></tr>
+    </table>>];
+
+  /* ---------- PLATFORM TABLES ---------- */
+  subgraph cluster_platform {
+    label=<<b>Now Platform base tables (global scope &#8212; read-only to this app)</b>>;
+    style="rounded,filled"; fillcolor="#F5F5F5"; color="#888888"; fontsize=10;
+    sysapp [label=<
+      <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#E8E8E8">
+        <tr><td bgcolor="#6B6B6B"><font color="white" point-size="8">&#171;platform table&#187;</font><br/><font color="white"><b>sys_app</b></font></td></tr>
+        <tr><td align="left"><font point-size="8">Custom Application</font></td></tr>
+      </table>>];
+    sysuser [label=<
+      <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#E8E8E8">
+        <tr><td bgcolor="#6B6B6B"><font color="white" point-size="8">&#171;platform table&#187;</font><br/><font color="white"><b>sys_user</b></font></td></tr>
+        <tr><td align="left"><font point-size="8">User</font></td></tr>
+      </table>>];
+    sysdb [label=<
+      <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#E8E8E8">
+        <tr><td bgcolor="#6B6B6B"><font color="white" point-size="8">&#171;platform table&#187;</font><br/><font color="white"><b>sys_db_object</b></font></td></tr>
+        <tr><td align="left"><font point-size="8">Table (dictionary)</font></td></tr>
+      </table>>];
+  }
+
+  /* ---------- SCRIPT INCLUDES ---------- */
+  subgraph cluster_logic {
+    label=<<b>Automation surface &#8212; 6 Script Includes, 0 Business Rules, 0 Flows</b>>;
+    style="rounded,filled"; fillcolor="#F5F2FA"; color="#6B5B95"; fontsize=10;
+    si [label=<
+      <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#E7E1F2">
+        <tr><td bgcolor="#6B5B95"><font color="white" point-size="8">&#171;script include&#187;</font><br/><font color="white"><b>Iscan* (server-side)</b></font></td></tr>
+        <tr><td align="left" balign="left"><font point-size="8">
+        + IscanScanOrchestrator&#160;&#160;<i>&#171;facade&#187;</i><br/>
+        + IscanAppSelector<br/>
+        + IscanTableScanner<br/>
+        + IscanAppFilesScanner<br/>
+        + IscanSummaryGenerator<br/>
+        + IscanReportGenerator&#160;&#160;<i>&#171;client-callable&#187;</i>
+        </font></td></tr>
+      </table>>];
+    ui [label=<
+      <table border="0" cellborder="1" cellspacing="0" cellpadding="4" bgcolor="#E7E1F2">
+        <tr><td bgcolor="#6B5B95"><font color="white" point-size="8">&#171;UI layer&#187;</font><br/><font color="white"><b>Entry points</b></font></td></tr>
+        <tr><td align="left" balign="left"><font point-size="8">
+        UI Actions (4): Run Scan &#183; Download Report &#215;2<br/>&#160;&#160;&#160;&#160;&#183; Copy LLM Context<br/>
+        UI Policies (2): conditional Target App /<br/>&#160;&#160;&#160;&#160;Target Table by scan mode<br/>
+        ACLs (12): 11 record + 1 on<br/>&#160;&#160;&#160;&#160;x_335329_iscan.IscanReportGenerator
+        </font></td></tr>
+      </table>>];
+  }
+
+  /* ---------- RELATIONSHIPS ---------- */
+  run  -> result [dir=back, arrowtail=diamond, arrowhead=none, taillabel="1", headlabel="0..*", label="  produces  ", penwidth=1.5];
+  result -> tbl  [dir=back, arrowtail=diamond, arrowhead=none, taillabel="1", headlabel="0..*", label="  profiles  ", penwidth=1.5];
+  tbl  -> xref   [dir=back, arrowtail=diamond, arrowhead=none, taillabel="1", headlabel="0..*", label="  referenced by  ", penwidth=1.5];
+  run  -> gcust  [dir=back, arrowtail=diamond, arrowhead=none, taillabel="1", headlabel="0..*", label="  ", penwidth=1.5];
+  result -> gcust [dir=back, arrowtail=diamond, arrowhead=none, taillabel="1", headlabel="0..*", label="  OOB deltas  ", style=solid, penwidth=1.5, constraint=false];
+
+  run  -> sysuser [style=dashed, label="requested_by", arrowhead=vee];
+  run  -> sysapp  [style=dashed, label="target_app", arrowhead=vee];
+  run  -> sysdb   [style=dashed, label="target_table", arrowhead=vee];
+  result -> sysapp [style=dashed, label="app", arrowhead=vee];
+  xref -> sysapp  [style=dashed, label="referencing_app", arrowhead=vee, constraint=false];
+
+  si -> run    [style=dotted, label="«creates»", color="#6B5B95", constraint=false];
+  si -> result [style=dotted, color="#6B5B95", constraint=false];
+  ui -> si     [style=dotted, label="«invokes»", color="#6B5B95"];
+
+  note [shape=note, style=filled, fillcolor="#FFFDF0", color="#B58B22", fontsize=9, label=<<b>Architectural observations</b><br align="left"/>&#9679; No business rules, no flows &#8212; <b>all logic lives in Script Includes</b><br align="left"/>&#160;&#160;&#160;invoked imperatively from UI Actions (script-first, not declarative).<br align="left"/>&#9679; No table extends a platform base table &#8212; <b>5 flat base tables</b>,<br align="left"/>&#160;&#160;&#160;deliberately outside the Task hierarchy.<br align="left"/>&#9679; <b>x_335329_iscan_result</b> holds <b>49 fields</b>, mostly integer counters<br align="left"/>&#160;&#160;&#160;&#8212; denormalised report row; adding an artifact type means a schema change.<br align="left"/>&#9679; Zero REST messages / web services reference this scope &#8212; <b>fully internal</b>.<br align="left"/>&#9679; 1 ACL sits on a base-system artifact this app does not own &#8212; flag for upgrade review.<br align="left"/>>];
+}

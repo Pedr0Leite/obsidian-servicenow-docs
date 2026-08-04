@@ -262,7 +262,7 @@ All Business Rules live in `src/fluent/business-rules/*.now.ts` with server logi
 - **Storage:** format `YYYY-MM` (e.g. `2026-04`). System-derived only, hard deny-write ACL — nobody, not even admin, edits them manually.
 - **Computation (BR `derive-initiative-dates`):** fires AFTER any allocation insert/update/delete. Collects all `u_period` sys_ids from the initiative's allocations, then `u_start` = **min** period `u_start_date`, `u_end` = **max** period `u_end_date`. So the derived dates = the span of months actually allocated FTE.
 - **Caveat:** only allocations with a `u_period` reference contribute. Bare `u_month`-only rows are ignored (period-migration debt, see [[#12. Known Issues / Architectural Debt|Known Issues]]) → can leave dates stale or blank.
-- **What the Projects panel shows ≠ always u_start/u_end:** for **linked** items, `getData` maps `st`/`en` so the source initiative's *planning* dates (`u_soft_planning_start_date` / release-date fields) WIN over the allocation-derived `u_start`/`u_end`. So a linked item shows the source planning window, not its allocation span — the cause of Start/End not matching allocations (fix: flip precedence, see [[capacity-planner-fix-dates-vs-allocation]]).
+- **What the Projects panel shows ≠ always u_start/u_end:** for **linked** items, `getData` maps `st`/`en` so the source initiative's *planning* dates (`u_soft_planning_start_date` / release-date fields) WIN over the allocation-derived `u_start`/`u_end`. So a linked item shows the source planning window, not its allocation span — the cause of Start/End not matching allocations (fix: flip precedence).
 
 | Item | Date the panel shows |
 |---|---|

@@ -11,10 +11,14 @@
             "id": "304503e2b6770b4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 543.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +196,14 @@
       "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "8ef0731eb249b69b",
-  "lastOpenFiles": []
+  "active": "304503e2b6770b4a",
+  "lastOpenFiles": [
+    "graphify/sn-instance-scan/GRAPH_REPORT.md",
+    "graphify/capacity-planner",
+    "graphify/New folder",
+    "Applications/sn-instance-scan/examples-to-follow-from/202210_Assessment Navigator_v0.1_Draft.pdf",
+    "Applications/sn-instance-scan/examples-to-follow-from/Assessment Report Document - Agentic AI - ITSM.pdf",
+    "Applications/sn-instance-scan/examples-to-follow-from",
+    "Applications/sn-instance-scan/New folder"
+  ]
 }
