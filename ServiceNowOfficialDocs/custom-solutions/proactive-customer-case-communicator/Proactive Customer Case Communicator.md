@@ -16,7 +16,7 @@ scope: sn_csm_ai_agents
 platform: now-assist-panel
 status: pilot
 created: 2026-07-16
-last_updated: 2026-07-24
+last_updated: 2026-08-07
 ---
 
 # Proactive Customer Case Communicator
@@ -255,7 +255,7 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 1. **Gate 1 — no problem linked** → `STOP_GATE1`; template `7.2` if case state contains "Awaiting", else `7.1`.
 2. **Resolution guard** → `Risk Accepted` / `Duplicate` → `STOP` (no template, stop_reason surfaced in NAP).
 3. **Closed + Canceled** → `6B` / `7.8`.
-4. **Gate 3 — WI required, none linked** → `STOP` with review message.
+4. **Gate 3 — WI required** → proceeds only on positive confirmation that a Work Item exists; `STOP` if none is linked, or if `has_work_item` cannot be confirmed (hardened 2026-08-07).
 5. **Workaround-only-change override (added 2026-07-24)** — if `WORKAROUND_ONLY_LATEST_CHANGE` is true (the latest Problem edit touched *only* the workaround field, and the value is genuinely new/not previously shared), template `7.4` fires **directly**, bypassing the 6A/6B/6C decision below entirely — regardless of what state-based bookkeeping (`IS_FIRST_LINKAGE`/`implied_state`) would otherwise compute. See [[#17. Changelog]] for why this was needed and how the variable is derived.
 
 ### Decision after gates
@@ -291,191 +291,247 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 > [!bug] Open bug — 6B missing an 'Assess' check that 6A has (confirmed still open 2026-07-24)
 > `6A` has an explicit `New || Assess` branch → template `7.3`. **`6B` has no equivalent `Assess` branch and no generic fallback** — a Problem sitting at `Assess` that routes through `6B` (i.e. not first-linkage, state changed) currently falls through to the safety-fallback `STOP`, with **no customer message sent at all**. This is the same gap already documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section (written 2026-07-16, mirrors the live tool's actual behavior rather than silently "fixing" the test) — not a newly discovered issue, just re-confirmed live and flagged here as still unresolved as of 2026-07-24.
 
-### Tool 2 wrapper script (literal, as configured on the AI Agent Tool)
+### Tool 2 — `caseRoutingPCCCUtil` (Script Include)
 
-Pure script tool, no LLM call inside it — matches the "deterministic first" design principle. The 6B bug above is visible directly in this code: the `routingDecision === '6B'` branch below has no `New || Assess` case, unlike `6A`'s explicit one.
+Refactored 2026-08-07 from an inline AI Agent Tool wrapper into a Script Include, so it is unit-testable and version-controlled. Still a pure function — no reads, no writes, no LLM call inside it — matching the "deterministic first" design principle. The AI Agent Tool now calls `new caseRoutingPCCCUtil().resolve(inputs)` and returns its output unchanged.
+
+The 6B bug above is still visible directly in this code: the `routingDecision === '6B'` branch has no `New || Assess` case, unlike `6A`'s explicit one.
+
+> [!warning] Every input arrives as a **string**, and it is populated upstream
+> The tool's input variables are filled before `resolve()` runs — they are not read straight off the record. A value can therefore arrive as `'false'`, `'False'`, `' false '`, `'No'`, `'null'`, or blank, and the same execution can contain an unresolved placeholder token where a value should be. **Any comparison here that tests `===` against a single literal is a latent bug.** Gate 1 was hardened for exactly this on 2026-08-07 — see [[#17. Changelog]]. The remaining boolean inputs (`wi_required`, `has_work_item`, `workaround_pending`, `new_worknote_available`, `is_first_linkage`) still use bare-literal comparisons and carry the same exposure; logged in [[#13. Risks & Open Questions]].
 
 ```javascript
-(function(inputs) {
-    // only string inputs are allowed
-    // return outputs object where the keys in it are understandable by LLM
+var caseRoutingPCCCUtil = Class.create();
+caseRoutingPCCCUtil.prototype = {
+    initialize: function() {},
 
-    var isFirstLinkage = inputs.is_first_linkage;
-    var impliedState = inputs.implied_state || null;
-    var problemState = inputs.problem_state || '';
-    var resolutionCode = inputs.resolution_code || '';
-    var workaroundPending = inputs.workaround_pending;
-    var newWorknoteAvailable = inputs.new_worknote_available;
-    var lastTemplateStyle = inputs.last_template_style || null;
+    /**
+     * Deterministic routing + template selection for the Proactive Customer
+     * Case Communicator. Pure function: no reads, no writes — decision only.
+     *
+     * @param {Object} inputs
+     *   problem_linked, case_state, is_first_linkage, implied_state,
+     *   problem_state, resolution_code, workaround_pending,
+     *   new_worknote_available, wi_required, has_work_item, last_template_style
+     * @return {Object} { success, routing_decision, selected_template,
+     *   append_workaround, append_worknote, fill_worknote_token,
+     *   fill_workaround_token, [stop_reason] }
+     */
+    resolve: function(inputs) {
+        inputs = inputs || {};
 
-    // Gate 1 — No problem linked
-    var problemLinked = inputs.problem_linked;
+        var isFirstLinkage = inputs.is_first_linkage;
+        var impliedState = inputs.implied_state || null;
+        var problemState = inputs.problem_state || '';
+        var resolutionCode = inputs.resolution_code || '';
+        var workaroundPending = inputs.workaround_pending;
+        var newWorknoteAvailable = inputs.new_worknote_available;
+        var lastTemplateStyle = inputs.last_template_style || null; // reserved
 
-    if (problemLinked === false || problemLinked === 'false') {
-        var caseState = inputs.case_state || '';
-        if (caseState.indexOf('Awaiting') !== -1) {
-            return {
-                success: true,
-                routing_decision: 'STOP_GATE1',
-                selected_template: '7.2',
-                append_workaround: false,
-                append_worknote: false,
-                fill_worknote_token: false,
-                fill_workaround_token: false
-            };
+        // Gate 1 — No problem linked.
+        //
+        // Inputs arrive as upstream-populated strings, so this value shows up as
+        // 'false', 'False', ' false ', 'No', 'null' or blank depending on who
+        // filled it. The previous test (=== false || === 'false') matched only
+        // two of those; every other shape fell through into the 6A/6B/6C
+        // classification below, which assumes a Problem exists — producing a
+        // 'Template could not be determined ... routing_decision: 6B' stop and
+        // NO customer message, on a case that should have received 7.1 or 7.2.
+        // Normalise first, then branch on all three outcomes explicitly.
+        var problemLinked = this._boolish(inputs.problem_linked);
+
+        if (problemLinked === 'unknown') {
+            // Present but uninterpretable. Do not guess: guessing 'not linked'
+            // would tell a customer no Problem is linked when one may well be.
+            return this._stop('problem_linked could not be interpreted as a boolean ' +
+                '(received: ' + JSON.stringify(inputs.problem_linked) + '). ' +
+                'No message sent — fix the input before retrying.');
+        }
+
+        if (problemLinked === 'false' || problemLinked === 'empty') {
+            var caseState = inputs.case_state || '';
+            if (caseState.indexOf('Awaiting') !== -1) {
+                return this._out('STOP_GATE1', '7.2');
+            }
+            return this._out('STOP_GATE1', '7.1');
+        }
+
+        // Resolution guard — Risk Accepted / Duplicate
+        if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
+            resolutionCode.toLowerCase() === 'risk accepted' ||
+            resolutionCode.toLowerCase() === 'duplicate') {
+            return this._stop('No communication required — Problem resolution code is ' +
+                resolutionCode + '. Case update skipped.');
+        }
+
+        // Gate 2b — Closed + Canceled (before WI gate)
+        if (problemState === 'Closed' && resolutionCode === 'Canceled') {
+            return this._out('6B', '7.8');
+        }
+
+        // Gate 3 — Work Item required but not linked.
+        //
+        // This gate protects a customer message, so it must fail CLOSED. The
+        // previous test (=== true / === 'false' on raw inputs) failed open in
+        // both directions: wi_required 'True' read as not-required and skipped
+        // the gate entirely, and has_work_item 'False' read as not-false, which
+        // also skipped it — either one releasing a message on a Problem with no
+        // Work Item linked. Normalise, then require positive confirmation.
+        //
+        // An ABSENT wi_required stays "not required" on purpose: per the Business
+        // Rule in §3, a Work Item is only demanded for states 104 (Fix in
+        // Progress) and 106 (Resolved), and every New/Assess/RCA path omits the
+        // input entirely. Treating blank as "required" would silence those.
+        var wiRequired = this._boolish(inputs.wi_required);
+        var hasWorkItem = this._boolish(inputs.has_work_item);
+
+        if (wiRequired === 'unknown') {
+            return this._stop('wi_required could not be interpreted as a boolean ' +
+                '(received: ' + JSON.stringify(inputs.wi_required) + '). ' +
+                'No message sent — fix the input before retrying.');
+        }
+
+        if (wiRequired === 'true') {
+            if (hasWorkItem === 'false') {
+                return this._stop('No Work Item linked to Problem. Communication cannot be ' +
+                    'sent until a Work Item is linked. Please review.');
+            }
+            if (hasWorkItem !== 'true') {
+                // 'empty' or 'unknown'. A required Work Item that cannot be
+                // confirmed is not a confirmed Work Item — do not release a
+                // customer message on the strength of an unverified gate.
+                return this._stop('A Work Item is required for this Problem state but ' +
+                    'has_work_item could not be confirmed (received: ' +
+                    JSON.stringify(inputs.has_work_item) + '). ' +
+                    'No message sent — fix the input before retrying.');
+            }
+        }
+
+        // Routing decision
+        var routingDecision;
+        if (isFirstLinkage === true || isFirstLinkage === 'true') {
+            routingDecision = '6A';
+        } else if (!impliedState || impliedState === 'null') {
+            routingDecision = '6B';
+        } else if (problemState === impliedState) {
+            routingDecision = '6C';
         } else {
-            return {
-                success: true,
-                routing_decision: 'STOP_GATE1',
-                selected_template: '7.1',
-                append_workaround: false,
-                append_worknote: false,
-                fill_worknote_token: false,
-                fill_workaround_token: false
-            };
+            routingDecision = '6B';
         }
-    }
 
-    if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
-        resolutionCode.toLowerCase() === 'risk accepted' || resolutionCode.toLowerCase() === 'duplicate') {
+        // Template selection
+        var selectedTemplate;
+
+        if (routingDecision === '6A') {
+            if (problemState === 'New' || problemState === 'Assess') {
+                selectedTemplate = '7.3';
+            } else if (problemState === 'Root Cause Analysis') {
+                selectedTemplate = '7.6';
+            } else if (problemState === 'Fix in Progress') {
+                selectedTemplate = '7.7';
+            } else if ((problemState === 'Resolved' || problemState === 'Closed') &&
+                resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            }
+        } else if (routingDecision === '6B') {
+            if (problemState === 'New') {
+                selectedTemplate = '7.3';
+            } else if (problemState === 'Root Cause Analysis') {
+                selectedTemplate = '7.6';
+            } else if (problemState === 'Fix in Progress') {
+                selectedTemplate = '7.7';
+            } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
+                selectedTemplate = '7.8';
+            } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            }
+        } else if (routingDecision === '6C') {
+            if (workaroundPending === true || workaroundPending === 'true') {
+                selectedTemplate = '7.4';
+            } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
+                selectedTemplate = '7.9';
+            } else if (impliedState === 'Resolved' &&
+                (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
+                selectedTemplate = '7.10.1';
+            } else {
+                selectedTemplate = '7.10.2';
+            }
+        }
+
+        // Safety fallback — never return undefined template
+        if (!selectedTemplate) {
+            return this._stop('Template could not be determined for problem_state: ' +
+                problemState + ', resolution_code: ' + resolutionCode +
+                ', routing_decision: ' + routingDecision);
+        }
+
+        var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') &&
+            selectedTemplate !== '7.4';
+        var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') &&
+            selectedTemplate !== '7.9';
+
+        return {
+            success: true,
+            routing_decision: routingDecision,
+            selected_template: selectedTemplate,
+            append_workaround: appendWorkaround,
+            append_worknote: appendWorknote,
+            fill_worknote_token: selectedTemplate === '7.9',
+            fill_workaround_token: selectedTemplate === '7.4'
+        };
+    },
+
+    // ---- helpers (keep return shape identical to the original tool) ----
+
+    /**
+     * Normalise an upstream-populated tool input to one of four explicit
+     * states: 'true' | 'false' | 'empty' | 'unknown'.
+     *
+     * Deliberately returns strings, not a boolean-or-null, so that "absent"
+     * and "not a boolean" stay distinguishable at the call site. Collapsing
+     * them is what let a blank value be read as a legitimate answer.
+     */
+    _boolish: function(v) {
+        if (v === true) return 'true';
+        if (v === false) return 'false';
+        if (v === null || v === undefined) return 'empty';
+
+        var s = String(v).trim().toLowerCase();
+        if (s === '' || s === 'null' || s === 'undefined') return 'empty';
+        if (s === 'true' || s === 'yes' || s === 'y' || s === '1') return 'true';
+        if (s === 'false' || s === 'no' || s === 'n' || s === '0') return 'false';
+        return 'unknown';
+    },
+
+    _out: function(decision, template) {
+        return {
+            success: true,
+            routing_decision: decision,
+            selected_template: template,
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    },
+
+    _stop: function(reason) {
         return {
             success: true,
             routing_decision: 'STOP',
             selected_template: null,
-            stop_reason: 'No communication required — Problem resolution code is ' + resolutionCode + '. Case update skipped.',
+            stop_reason: reason,
             append_workaround: false,
             append_worknote: false,
             fill_worknote_token: false,
             fill_workaround_token: false
         };
-    }
+    },
 
-    // Gate 2b — Closed + Canceled
-    if (problemState === 'Closed' && resolutionCode === 'Canceled') {
-        return {
-            success: true,
-            routing_decision: '6B',
-            selected_template: '7.8',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    // Gate 3 — Work Item required but not linked
-    var wiRequired = inputs.wi_required;
-    var hasWorkItem = inputs.has_work_item;
-
-    if ((wiRequired === true || wiRequired === 'true') &&
-        (hasWorkItem === false || hasWorkItem === 'false')) {
-        return {
-            success: true,
-            routing_decision: 'STOP',
-            selected_template: null,
-            stop_reason: 'No Work Item linked to Problem. Communication cannot be sent until a Work Item is linked. Please review.',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    // Workaround-only-change override — if the most recent Problem edit touched only
-    // the workaround field (no state/work_notes change alongside or after it) and a
-    // new, unshared workaround is present, communicate it directly regardless of the
-    // state-based 6A/6B/6C classification below.
-    var workaroundOnlyLatestChange = inputs.workaround_only_latest_change;
-    if ((workaroundOnlyLatestChange === true || workaroundOnlyLatestChange === 'true') &&
-        (workaroundPending === true || workaroundPending === 'true')) {
-        return {
-            success: true,
-            routing_decision: '6C',
-            selected_template: '7.4',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: true
-        };
-    }
-
-    var routingDecision;
-    if (isFirstLinkage === true || isFirstLinkage === 'true') {
-        routingDecision = '6A';
-    } else if (!impliedState || impliedState === 'null') {
-        routingDecision = '6B';
-    } else if (problemState === impliedState) {
-        routingDecision = '6C';
-    } else {
-        routingDecision = '6B';
-    }
-
-    // TEMPLATE SELECTION
-    var selectedTemplate;
-
-    if (routingDecision === '6A') {
-        if (problemState === 'New' || problemState === 'Assess') {
-            selectedTemplate = '7.3';
-        } else if (problemState === 'Root Cause Analysis') {
-            selectedTemplate = '7.6';
-        } else if (problemState === 'Fix in Progress') {
-            selectedTemplate = '7.7';
-        } else if ((problemState === 'Resolved' || problemState === 'Closed') && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        }
-    } else if (routingDecision === '6B') {
-        if (problemState === 'New') {
-            selectedTemplate = '7.3';
-        } else if (problemState === 'Root Cause Analysis') {
-            selectedTemplate = '7.6';
-        } else if (problemState === 'Fix in Progress') {
-            selectedTemplate = '7.7';
-        } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
-            selectedTemplate = '7.8';
-        } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        }
-    } else if (routingDecision === '6C') {
-        if (workaroundPending === true || workaroundPending === 'true') {
-            selectedTemplate = '7.4';
-        } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
-            selectedTemplate = '7.9';
-        } else if (impliedState === 'Resolved' &&
-            (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
-            selectedTemplate = '7.10.1';
-        } else {
-            selectedTemplate = '7.10.2';
-        }
-    }
-    // Safety fallback — prevents undefined template
-    if (!selectedTemplate) {
-        return {
-            success: true,
-            routing_decision: 'STOP',
-            selected_template: null,
-            stop_reason: 'Template could not be determined for problem_state: ' + problemState + ', resolution_code: ' + resolutionCode + ', routing_decision: ' + routingDecision,
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') && selectedTemplate !== '7.4';
-    var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') && selectedTemplate !== '7.9';
-
-    return {
-        success: true,
-        routing_decision: routingDecision,
-        selected_template: selectedTemplate,
-        append_workaround: appendWorkaround,
-        append_worknote: appendWorknote,
-        fill_worknote_token: selectedTemplate === '7.9',
-        fill_workaround_token: selectedTemplate === '7.4'
-    };
-})(inputs);
+    type: 'caseRoutingPCCCUtil'
+};
 ```
 
 ---
@@ -572,6 +628,8 @@ Custom fields on `sn_customerservice_case`:
 - **Journal-string coupling** — every history/first-linkage query depends on the exact disclaimer string `[Note: AI-assisted message reviewed by consultant]` and worknote phrasing (`"has been associated with the Case"`, `"has been updated to state -"`). Change the wording anywhere and detection silently breaks.
 - **WI check duplicated** — Work-Item existence is enforced in both [[AIPF_Flag Cases on Problem State or Work]] (state `104/106`) and [[Resolve routing decision and template selection]] (`WI_REQUIRED`). Two authorities → patch one, miss the other.
 - **No batching in [[Stale Case Scheduled Job]]** — every qualifying case fires a subflow in one `while` loop. No cap, pacing, or backpressure.
+- **Bare-literal boolean comparisons remain on the content flags** (found 2026-08-07, partially fixed) — Gates 1 and 3 now normalise through `_boolish()`, but `workaround_pending`, `new_worknote_available` and `is_first_linkage` still test `=== true || === 'true'`. Each silently treats `'True'`, `' true '`, `'Yes'` and `'1'` as *not* set. These fail in the **quiet** direction rather than the dangerous one — a workaround or worknote is simply not communicated, and `is_first_linkage` misreads route 6A as 6B — so no wrong statement reaches a customer. Lower priority than the gates, but the same one-line change each.
+- **Tool inputs are not trustworthy as delivered** (found 2026-08-07) — a live execution carried `new_worknote_available: "{organize_general_knowledge}.4"`, an unresolved placeholder token, alongside blanks in every other Problem field. Inputs are populated upstream and arrive as strings; the router cannot assume they are well-formed. There is no validation step between population and `resolve()`.
 
 ### From prior notes (unverified here)
 - **Stuck execution / silent exclusion** — if an execution hangs, is the case ever re-picked? No self-healing documented.
@@ -579,6 +637,10 @@ Custom fields on `sn_customerservice_case`:
 - **Large-context / token limits** — long case histories may exceed model/exec limits; consider summarising older worknotes.
 - **Assigned-user eligibility** — locked/inactive user or missing Now Assist CSM group membership → execution error. Needs daily monitoring.
 - **6B missing an Assess-state branch** (found 2026-07-24) — see the bug callout in [[#7. Deterministic Routing]]. Not yet fixed.
+
+### Resolved 2026-08-07 — see [[#17. Changelog]]
+- ~~Gate 1 missed every `problem_linked` value except boolean `false` and the exact string `'false'`~~ — fixed via `_boolish()` normalisation; blank, missing, `'False'`, `' false '`, `'No'`, `'0'` and `'null'` now all trip the gate.
+- ~~Gate 3 failed **open** on `wi_required` / `has_work_item`~~ — fixed; the gate now requires positive confirmation that a Work Item exists before letting a message through, instead of only stopping on two exact literals.
 
 ### Resolved this session (2026-07-24) — see [[#17. Changelog]] for full detail
 - ~~`[RELEASE_VERSION]` placeholder/filler leaking into drafts~~ — fixed; placeholder/filler `fix_notes` now treated as empty, token deleted and sentence rewritten instead of leaking through.
@@ -643,6 +705,72 @@ Post-deploy: agent active, 3 tools attached, trigger active, Script Include in s
 
 Session-by-session record of live changes to the deployed PCCC components. Source: VS Code Claude Code session working directly against the ServiceNow instance (Agent API), not this vault — captured here after the fact so the architecture doc stays current.
 
+### 2026-08-07 — Routing tool moved to a Script Include; Gate 1 hardened
+
+**Refactor — `caseRoutingPCCCUtil` (Script Include)**
+- The inline Tool 2 wrapper (`(function(inputs){...})(inputs)`) became a Script Include exposing `resolve(inputs)`, with `_out()`/`_stop()` helpers. Return shape is byte-identical to the previous tool, so nothing downstream changes. The AI Agent Tool now calls `new caseRoutingPCCCUtil().resolve(inputs)`.
+- Motivation: the inline script was not unit-testable, which is how the Gate 1 defect below survived a full ATF suite.
+
+**Bug — Gate 1 fell through for almost every representation of "no problem linked"**
+
+Reported live: a case with no Problem linked produced
+
+```
+Stop reason : Template could not be determined for problem_state: , resolution_code: , routing_decision: 6B
+```
+
+Diagnosis. Gate 1 tested `problemLinked === false || problemLinked === 'false'` — two literals. Inputs are populated upstream and arrive as **strings**, so the value also appears as `'False'`, `' false '`, `'No'`, `'0'`, `'null'`, or blank. Any of those skipped the gate and fell into the 6A/6B/6C classification, which assumes a Problem exists. With no `implied_state`, the decision table sends that straight to `6B`; the `6B` branch has no case for an empty `problem_state`, so it hit the safety fallback and stopped. **The customer received nothing, where the design specifies template `7.1` (or `7.2` when the case state contains "Awaiting").**
+
+The `STOP` message named `6B`, which made this look like the open 6B/Assess bug. It is unrelated — 6B was only ever the fall-through destination, never a decision about the Problem.
+
+Fix. Added `_boolish(v)`, returning one of four explicit states — `'true'`, `'false'`, `'empty'`, `'unknown'` — after trimming and lowercasing. Gate 1 now branches on all of them:
+
+| `problem_linked` | outcome |
+|---|---|
+| `true`, `'true'`, `'yes'`, `'y'`, `'1'` | proceed to the resolution guard |
+| `false`, `'false'`, `'no'`, `'n'`, `'0'` (any case, any padding) | `STOP_GATE1` → `7.1` / `7.2` |
+| missing, `null`, `''`, `'null'`, `'undefined'` | `STOP_GATE1` → `7.1` / `7.2` |
+| anything else (e.g. a Problem number) | `STOP` with a named `stop_reason`, no message |
+
+`'empty'` deliberately routes to Gate 1 rather than to `STOP`: a case whose Problem fields are *all* blank is a case with no Problem. The `'unknown'` branch exists so an uninterpretable value never becomes a guess — telling a customer no Problem is linked when one may be is worse than sending nothing.
+
+`_boolish` returns strings rather than a boolean-or-null so that "absent" and "not a boolean" stay distinguishable at the call site. Collapsing them is what let a blank value read as a legitimate answer in the first place.
+
+Verified. The full T2 matrix plus 17 new Gate 1 cases — 34 checks, 0 failures — and the reported input replayed verbatim now yields `STOP_GATE1` / `7.1`. Note the reported payload rendered as `problem_linked: false`, which the *old* code handles correctly; replaying it against the old script confirms the runtime value must have been one of the other shapes above, since every one of those reproduces the reported stop exactly.
+
+**Bug — Gate 3 failed open on `wi_required` / `has_work_item`**
+
+Same root cause as Gate 1, found while fixing it, and worse in effect. The gate read:
+
+```javascript
+if ((wiRequired === true || wiRequired === 'true') &&
+    (hasWorkItem === false || hasWorkItem === 'false')) {
+```
+
+Both halves had to match exact literals for the gate to fire, so it failed **open** in two independent ways: `wi_required: 'True'` read as not-required and skipped the gate entirely, and `has_work_item: 'False'` read as not-`'false'` and also skipped it. Either one released a customer message on a Problem with **no Work Item linked** — the precise thing the gate exists to prevent, and unlike the Gate 1 defect this one sends a message rather than withholding one.
+
+Fix. Both inputs go through `_boolish()`, and the gate now demands *positive confirmation* rather than only stopping on a recognised negative:
+
+| `wi_required` | `has_work_item` | outcome |
+|---|---|---|
+| false / absent / blank | anything | gate does not apply — proceed |
+| true | true | proceed |
+| true | false | `STOP` — "No Work Item linked to Problem" (unchanged wording) |
+| true | blank, missing, or unrecognised | `STOP` — presence could not be confirmed |
+| unrecognised | anything | `STOP` — `wi_required` uninterpretable |
+
+An **absent** `wi_required` deliberately stays "not required": per the Business Rule in [[#3. Problem Update Path]] a Work Item is only demanded for states `104` (Fix in Progress) and `106` (Resolved), and every New/Assess/RCA path omits the input. Treating blank as required would silence those. This is the opposite default to Gate 1, and for the opposite reason — there, blank Problem fields *are* the evidence of no Problem.
+
+Verified. 13 new T2 rows, 50 checks total, 0 failures. Reverting only the gate body and re-running fails 9 of them — each returning `6B` / `7.7`, i.e. a live "Fix in Progress" update sent on a Problem with no confirmed Work Item. The tests were confirmed capable of failing before being trusted.
+
+> [!note] Gate 3 is one of two authorities
+> [[AIPF_Flag Cases on Problem State or Work]] enforces the same Work-Item rule before the agent ever fires ([[#13. Risks & Open Questions]], "WI check duplicated"). This change hardens the router's copy only. The Business Rule's own check was not reviewed for the same class of defect.
+
+**Found, not fixed (flagged so it isn't lost)**
+- `workaround_pending`, `new_worknote_available` and `is_first_linkage` still use bare-literal comparisons. They fail quietly rather than dangerously — content is omitted, not misstated — so they were left for a separate change. See [[#13. Risks & Open Questions]].
+- The same execution carried `new_worknote_available: "{organize_general_knowledge}.4"` — an unresolved placeholder token. Benign in the router (it is not `'true'`), but it means input population itself is producing malformed values and nothing validates them before `resolve()` runs. Root cause not investigated.
+- `6B` still has no `Assess` branch (open since 2026-07-24, untouched here).
+
 ### 2026-07-24 — Template rewrite, prompt hardening, workaround-only-change fix
 
 **Phase 1 — Template rewrite (`caseUpdateAgentUtil.script.js`, live in ServiceNow)**
@@ -684,7 +812,7 @@ Session-by-session record of live changes to the deployed PCCC components. Sourc
 - [[AIPF_Flag Cases on Problem State or Work]]
 - [[caseUpdateAgentUtil]]
 - [[Resolve routing decision and template selection]]
-- [[caseRoutingUtil]] — extracted Script Include version of the routing logic, see [[Proactive Customer Case Communicator - ATF Test Suite]]
+- [[caseRoutingPCCCUtil]] — extracted Script Include version of the routing logic, see [[Proactive Customer Case Communicator - ATF Test Suite]]
 - [[Stale Case Scheduled Job]]
 - [[Template Registry]]
 - [[Counter and Cooloff]]
