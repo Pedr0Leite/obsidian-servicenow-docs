@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "smart-connections": {
+      "type": "stdio",
+      "command": "/home/pedro/Documents/Programacao/Github/smart-connections-mcp/.venv/bin/python",
+      "args": [
+        "/home/pedro/Documents/Programacao/Github/smart-connections-mcp/server.py"
+      ],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "/home/pedro/Documents/Programacao/Github/obsidian-servicenow-docs"
+      }
+    }
+  }
+}
