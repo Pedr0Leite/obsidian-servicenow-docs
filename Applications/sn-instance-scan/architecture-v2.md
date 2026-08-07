@@ -8,7 +8,7 @@ tags: [scoped-app, application-development, cmdb, acls, ai-agents, spec, archite
 
 Scope: `x_snis_iscan` in this doc's own notation — the real deployed scope is `x_335329_iscan` (see [[sn-instance-scan]] entity page; don't reintroduce `x_snis_iscan` into the repo based on this file).
 
-**STATUS (2026-07-22): Built and deployed**, except Story 9's Activity formatter form-config step (manual, per-instance — redo it on any newly-deployed instance). This note covers ONLY the delta for [[sn-instance-scan/prompt-v2-improvements|the v2 improvements spec]]. For everything not mentioned here (table schema, script includes, ACLs not listed below), v1 behavior in [[sn-instance-scan/architecture|architecture.md]] stands unchanged. Both improvements are additive — no v1 field renamed, retyped, or removed.
+**STATUS (2026-07-22): Built and deployed**, except Story 9's Activity formatter form-config step (manual, per-instance — redo it on any newly-deployed instance). This note covers ONLY the v2 improvements delta (build prompt removed from the vault; see this file for full detail). For everything not mentioned here (table schema, script includes, ACLs not listed below), v1 behavior in [[sn-instance-scan/architecture|architecture.md]] stands unchanged. Both improvements are additive — no v1 field renamed, retyped, or removed.
 
 ---
 
@@ -148,9 +148,7 @@ No other ACL changes. Both improvements respect v1's rule: "no ACL in this app s
 
 ## Related
 - [[sn-instance-scan]]
-- [[sn-instance-scan/prompt|sn-instance-scan v1 Build Prompt]]
 - [[sn-instance-scan/architecture|sn-instance-scan Architecture (v1)]]
-- [[sn-instance-scan/prompt-v2-improvements|sn-instance-scan v2 Improvements Build Prompt]]
 - [[sn-instance-scan/test-plan|sn-instance-scan Test Plan (v1)]]
 - [[scoped-apps]]
 - [[acls]]

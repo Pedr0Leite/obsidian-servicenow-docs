@@ -55,18 +55,19 @@ When you receive this command:
 - Never delete or rewrite past logs — append new ones
 ---
 ## Graphify (codebase knowledge graphs)
-`graphify/<project>/` holds auto-generated notes mapping a codebase (one note per function/module). The source of truth is the `graphify-out/` folder inside each project repo.
+The graphify CLI has no Obsidian export feature — verified against `graphify --help` (v0.9.29): no `--obsidian`/`--obsidian-dir` flag exists anywhere. The source of truth is always the `graphify-out/` folder inside each project repo (`graph.json`, `GRAPH_REPORT.md`, `manifest.json`, `graph.html`), never anything in this vault.
+`graphify/<project>/` in this vault, if it exists, is a **manually maintained snapshot** — at most a copy of that repo's `graphify-out/GRAPH_REPORT.md`, brought in by hand per this vault's normal "convert non-.md sources" rule. It is not kept in sync automatically; treat it as stale documentation, not a query target.
 ### 3-layer query rule (when working on a mapped codebase)
-1. **First:** query `graphify-out/graph.json` in the repo (or the notes in `graphify/<project>/`) to understand structure and connections
+1. **First:** query the graph in the repo directly — `graphify query "<question>" --graph <repo>/graphify-out/graph.json`, or `graphify explain "X"` / `graphify path "A" "B"` / `graphify god-nodes` / `graphify affected "X"` (all default to `graphify-out/graph.json` when run from the repo root)
 2. **Second:** check this vault for decisions, progress, and context (`logs/`, `Applications/`, `now-assist-ai/`)
 3. **Third:** only read raw source files when editing, or when layers 1–2 don't have the answer
 ### Rebuilding
-- After structural changes: `graphify . --update` from the repo root (only reprocesses modified files)
-- New project: `graphify . --obsidian --obsidian-dir <vault>/graphify/<project>`
+- New project or full rebuild: `graphify extract <path>` from the repo root
+- After structural changes only: `graphify update <path>` (no LLM needed, only reprocesses modified files)
 - The graph is persistent — do NOT rebuild every session
 ### Do NOT
-- Edit anything under `graphify/` or `graphify-out/` manually — it gets regenerated
-- Add frontmatter, tags, or wikilinks to graphify notes (the generator owns them)
+- Edit anything under `graphify-out/` manually — it gets regenerated
+- Assume a vault-side `graphify/<project>/` folder is current — it's a manual copy at best; the repo's `graphify-out/` is authoritative
 - Re-read an entire codebase when the graph already has the answer
 - Run graphify against this vault itself — it is for code repos, not the docs
 ---

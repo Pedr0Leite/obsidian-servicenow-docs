@@ -1,0 +1,90 @@
+digraph deployment {
+  graph [rankdir=TB, splines=true, overlap=false, nodesep=0.5, ranksep=0.9, bgcolor="white",
+         fontname="Helvetica", fontsize=11, compound=true, pad=0.35];
+  node  [fontname="Helvetica", fontsize=10, shape=box3d, style="filled", fillcolor="#EEF4F8", color="#2A4B5C", penwidth=1.3];
+  edge  [fontname="Helvetica", fontsize=9, color="#3D5A6C", arrowsize=0.7];
+
+  labelloc="t";
+  label=<<b>UML Deployment Diagram &#8212; ServiceNow Instance Topology</b><br/><font point-size="9">Derived from sn-instance-scan module scan (1350 active plugins) + custom_only scan</font>>;
+
+  /* ---------------- CLIENT TIER ---------------- */
+  subgraph cluster_client {
+    label=<<b>&#171;device&#187; Client Tier</b>>;
+    style="rounded,filled"; fillcolor="#F7FAFC"; color="#8FA9B8"; fontsize=11;
+    browser [label=<&#171;device&#187;<br/><b>Desktop Browser</b><br/><font point-size="8">Next Experience UI (UXF)<br/>Agent Workspace &#183; UI Builder<br/>Service Portal &#183; Classic UI16</font>>];
+    mobile  [label=<&#171;device&#187;<br/><b>Mobile Device</b><br/><font point-size="8">Now Mobile (com.glide.sg)<br/>Mobile Studio API</font>>];
+    vaclient [label=<&#171;device&#187;<br/><b>Virtual Agent Web Client</b><br/><font point-size="8">com.glide.cs.sn-va-web-client-app</font>>];
+    mailc   [label=<&#171;device&#187;<br/><b>Email Client</b><br/><font point-size="8">Inbound actions / notifications</font>>];
+  }
+
+  /* ---------------- SERVICENOW CLOUD ---------------- */
+  subgraph cluster_cloud {
+    label=<<b>&#171;execution environment&#187; ServiceNow Cloud (multi-instance)</b>>;
+    style="rounded,filled"; fillcolor="#F2FAF4"; color="#3E8E5A"; fontsize=12;
+
+    subgraph cluster_prod {
+      label=<<b>&#171;node&#187; Production Instance</b>>;
+      style="rounded,filled"; fillcolor="#FFFFFF"; color="#3E8E5A";
+      appnode [label=<&#171;execution environment&#187;<br/><b>Now Platform App Node</b><br/><font point-size="8">Glide / Java &#183; Rhino JS engine<br/>Semaphores &#183; scheduler workers</font>>, fillcolor="#DFF2E4"];
+      db      [shape=cylinder, fillcolor="#DFF2E4", label=<<b>Instance Database</b><br/><font point-size="8">sys_db_object &#183; sys_dictionary<br/>Database Views &#183; DB Rotation<br/>Table Cleaner / autoflush</font>>];
+      search  [label=<&#171;component&#187;<br/><b>Search Services</b><br/><font point-size="8">Text Index (Zing)<br/>AI Search (com.glide.ais)</font>>, fillcolor="#DFF2E4"];
+      sched   [label=<&#171;component&#187;<br/><b>Job Schedulers</b><br/><font point-size="8">Batched / Parallel jobs<br/>Time-zone aware</font>>, fillcolor="#DFF2E4"];
+      ecc     [label=<&#171;component&#187;<br/><b>ECC Queue</b><br/><font point-size="8">com.glideapp.ecc</font>>, fillcolor="#FDF3D8", color="#B58B22"];
+      appnode -> db [label="JDBC"];
+      appnode -> search [style=dashed];
+      appnode -> sched [style=dashed];
+      appnode -> ecc [dir=both, label="ecc_queue"];
+    }
+
+    subgraph cluster_sub {
+      label=<<b>&#171;node&#187; Sub-production Instances (inferred)</b>>;
+      style="rounded,dashed,filled"; fillcolor="#FFFFFF"; color="#8FA9B8";
+      dev  [label=<&#171;node&#187;<br/><b>DEV</b>>, fillcolor="#F0F0F0"];
+      test [label=<&#171;node&#187;<br/><b>TEST / UAT</b>>, fillcolor="#F0F0F0"];
+    }
+  }
+
+  /* ---------------- CUSTOMER NETWORK ---------------- */
+  subgraph cluster_dmz {
+    label=<<b>&#171;device&#187; Customer Network / DMZ</b>>;
+    style="rounded,filled"; fillcolor="#FFF6F2"; color="#B8674A"; fontsize=11;
+    mid [label=<&#171;device&#187;<br/><b>MID Server</b><br/><font point-size="8">com.glideapp.agent<br/>+ KMF signature config<br/>+ MID Server Experience</font>>, fillcolor="#FBE3D8"];
+    ldap [label=<&#171;node&#187;<br/><b>LDAP / AD</b><br/><font point-size="8">com.glide.ldap</font>>, fillcolor="#FBE3D8"];
+    idp  [label=<&#171;node&#187;<br/><b>Identity Provider</b><br/><font point-size="8">OAuth 2.0 &#183; mutual-TLS<br/>Adaptive Auth &#183; MFA</font>>, fillcolor="#FBE3D8"];
+    onprem [label=<&#171;node&#187;<br/><b>On-prem data sources</b><br/><font point-size="8">Trino integration<br/>Kafka (IH Stream Connect)<br/>SMTP / IMAP</font>>, fillcolor="#FBE3D8"];
+  }
+
+  /* ---------------- EXTERNAL SaaS ---------------- */
+  subgraph cluster_ext {
+    label=<<b>External Systems</b>>;
+    style="rounded,filled"; fillcolor="#F5F2FA"; color="#6B5B95"; fontsize=11;
+    rest [label=<&#171;component&#187;<br/><b>3rd-party REST / SOAP / GraphQL</b><br/><font point-size="8">via IntegrationHub Runtime<br/>+ Web Service Consumer</font>>, fillcolor="#E7E1F2"];
+    cicd [label=<&#171;node&#187;<br/><b>CI/CD Pipeline</b><br/><font point-size="8">CICD REST API + Spoke<br/>Metadata Source Control (Git)</font>>, fillcolor="#E7E1F2"];
+    nlup [label=<&#171;node&#187;<br/><b>NLU Provider</b><br/><font point-size="8">com.glide.nlu.proxy</font>>, fillcolor="#E7E1F2"];
+  }
+
+  /* ---------------- EDGES ---------------- */
+  browser  -> appnode [label="HTTPS 443", lhead=cluster_prod];
+  mobile   -> appnode [label="HTTPS / REST"];
+  vaclient -> appnode [label="AMB / WebSocket"];
+  mailc    -> appnode [label="SMTP / IMAP", dir=both];
+
+  appnode -> idp   [label="SAML / OAuth 2.0", dir=both, color="#B8674A"];
+  ecc     -> mid   [label="HTTPS poll (outbound-initiated)", dir=both, color="#B8674A", penwidth=1.6];
+  mid     -> ldap  [label="LDAPS 636"];
+  mid     -> onprem [label="JDBC / Kafka / file"];
+
+  appnode -> rest  [label="outbound REST/SOAP", dir=both, color="#6B5B95"];
+  appnode -> nlup  [label="NLU proxy", color="#6B5B95"];
+  cicd    -> appnode [label="CICD REST API", color="#6B5B95"];
+
+  dev  -> test [label="update sets /\nsource control", style=dashed, color="#8FA9B8"];
+  test -> appnode [label="promotion", style=dashed, color="#8FA9B8", constraint=false];
+  appnode -> dev [label="Clone API", style=dotted, color="#8FA9B8", constraint=false];
+
+  { rank=same; browser; mobile; vaclient; mailc; }
+  browser -> dev [style=invis];
+
+  /* legend */
+  legend [shape=note, fillcolor="#FFFDF0", color="#B58B22", fontsize=9, label=<<b>Legend</b><br align="left"/>&#9679; Solid box3d = deployed node<br align="left"/>&#9679; Dashed cluster = inferred, not in scan<br align="left"/>&#9679; Orange = customer-network hop<br align="left"/>&#9679; Purple = external / SaaS<br align="left"/><br align="left"/><b>Not present in scan:</b> Discovery,<br align="left"/>Event Mgmt, Cloud Mgmt, Domain<br align="left"/>Separation, HRSD, CSM, SecOps, IRM<br align="left"/>>];
+}

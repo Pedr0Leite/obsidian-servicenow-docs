@@ -344,9 +344,7 @@ Source: [[raw/sessions/2026-07-22#Session 17:09 — obsidian-servicenow-docs]]
 - Verify `sys_app.source` / vendor field values on the live target instance before hardcoding custom-vs-store filter logic.
 
 ## Related
-- [[sn-instance-scan/prompt|sn-instance-scan Build Prompt]]
 - [[sn-instance-scan/test-plan|sn-instance-scan Test Plan]]
-- [[sn-instance-scan/prompt-v2-improvements|sn-instance-scan v2 Improvements Build Prompt]]
 - [[sn-instance-scan/architecture-v2|sn-instance-scan Architecture v2]]
 - [[scoped-apps]]
 - [[acls]]
