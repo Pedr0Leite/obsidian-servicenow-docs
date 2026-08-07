@@ -60,7 +60,7 @@ Two entry points converge on one shared agent evaluation → draft → review �
 | [[Resolve routing decision and template selection]] | Agent Tool 2 (script/routing) | Deterministic gates + template pick |
 | Add response to additional comments | Agent Tool 3 (write) | `_addCaseComment()` + `_incrementAutoUpdateCount()` |
 | Proactive Customer Case Communicator | AI Agent | Worknote synthesis, semantic vars, draft, approval flow |
-| Stale Case Summarization (Now Assist skill) | AI Skill (called from `_getStaleCaseSum()`) | Generates the `7.10.2` body — see [[#8. Template Registry]] |
+| [[stale-case-summarization-skill-notes\|Stale Case Summarization]] (Now Assist skill) | AI Skill (called from `_getStaleCaseSum()`) | Generates the `7.10.2` body — see [[#8. Template Registry]] |
 | [[Stale Case Scheduled Job]] | Scheduled Job (`ProactiveCasecommunication-MonitorCase.script.js`) | 5 independent priority/link-state rules, each with its own stale-day threshold — see [[#4. Stale Case Path]] |
 | Proactive Case Outreach – Agent Invocation | Subflow | `sn_csm_ai_agents.proactive_case_outreach__agent_invocation` |
 
@@ -161,10 +161,10 @@ Central utility in `sn_csm_ai_agents`. Methods:
 |---|---|
 | `_getCaseProblemDetails(caseNumber)` | Fetch case + problem, compute vars, build templates, return everything. **Side effect:** clears `u_problem_updated`; if it was set, also resets `u_auto_update_count = 0` and clears `u_auto_update_threshold_reached`. |
 | `_computeVariables(...)` | Derives `PROBLEM_LINKED`, `IS_FIRST_LINKAGE`, `RESOLUTION_CODE`, `PROBLEM_STATE`, `WI_REQUIRED` (FIP/Resolved), `CURRENT_WORKAROUND_VALUE`, `WORKAROUND_PREVIOUSLY_SHARED`, `WORKAROUND_PENDING`. As of 2026-07-24, also derives **`WORKAROUND_ONLY_LATEST_CHANGE`** — see [[#17. Changelog]]. |
-| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). As of 2026-07-24, greeting/sign-off use **first-name only** via new `cnFirst`/`caFirst` helpers (contact-name-first, case-assignee-first) — see [[#17. Changelog]]. |
+| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). As of 2026-07-24, greeting/sign-off use **first-name only** via new `cnFirst`/`caFirst` helpers (contact-name-first, case-assignee-first). As of **2026-08-07 (evening)** `7.1`'s body is **also** skill-generated via `_getStaleCaseSum()` — "Option A", see [[#17. Changelog]]. |
 | `_incrementAutoUpdateCount(caseNumber, resetToZero)` | `reset` → count 0 + clear stamp; else count+1 and stamp `u_auto_update_threshold_reached = now` when `count >= threshold`. |
 | `_addCaseComment(caseNumber, commentText)` | Writes to `comments` (customer-visible) with appended `\n\n[Note: AI-assisted message reviewed by consultant]`. |
-| `_getStaleCaseSum(caseNumber)` | Generates the `7.10.2` body by invoking the **Stale Case Summarization** Now Assist skill (`sn_one_extend.OneExtendUtil.executeSecure`, `capabilityId: '5fd7239187aecb10d939a7573cbb3556'`, `skillConfigId: 'b3d7639187aecb10d939a7573cbb3589'`), passing `case_number`, and returning the raw skill response JSON as the body string. Returns `''` on failure (logged via `gs.error`, no throw). |
+| `_getStaleCaseSum(caseNumber)` | Generates the `7.10.2` **and (since 2026-08-07 evening) `7.1`** body by invoking the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] Now Assist skill (`sn_one_extend.OneExtendUtil.executeSecure`, `capabilityId: '5fd7239187aecb10d939a7573cbb3556'`, `skillConfigId: 'b3d7639187aecb10d939a7573cbb3589'`), passing `case_number`, and returning the skill's `response` **string as-is**. Returns `''` on failure (logged via `gs.error`, no throw). ⚠️ Previously returned `JSON.stringify(skillResponse)`, which wrapped every generated body in literal double quotes inside the customer comment — fixed 2026-08-07, see [[#17. Changelog]]. |
 
 ### Tool 1 wrapper script (literal, as configured on the AI Agent Tool)
 
@@ -303,7 +303,7 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 | 6A | Root Cause Analysis | `7.6` |
 | 6A | Fix in Progress | `7.7` |
 | 6A | Resolved/Closed + Fix Applied | `7.5` |
-| 6B state changed | New | `7.3` |
+| 6B state changed | New / **Assess** (Assess added 2026-08-07) | `7.3` |
 | 6B | Root Cause Analysis | `7.6` |
 | 6B | Fix in Progress | `7.7` |
 | 6B | Resolved + Fix Applied / Closed + Fix Applied | `7.5` |
@@ -312,21 +312,58 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 | 6C | new worknote available | `7.9` |
 | 6C | prior was Resolved (Canceled/Fix Applied) | `7.10.1` (follow-up) |
 | 6C | nothing new | `7.10.2` (no significant change) |
-| any | undetermined | `STOP` (safety fallback) |
+| **6B_DEGRADED** | Problem linked but `problem_state` **blank** | `7.10.2` + `gs.warn` (added 2026-08-07) |
+| any | undetermined (state present but unrecognised) | `STOP` (safety fallback) |
 
 `append_*` flags let a state template also carry a workaround/worknote in one combined message (e.g. state body + `[WORKAROUND]`), while `7.4`/`7.9` own their token directly.
 
-> [!bug] Open bug — 6B missing an 'Assess' check that 6A has (confirmed still open 2026-07-24)
-> `6A` has an explicit `New || Assess` branch → template `7.3`. **`6B` has no equivalent `Assess` branch and no generic fallback** — a Problem sitting at `Assess` that routes through `6B` (i.e. not first-linkage, state changed) currently falls through to the safety-fallback `STOP`, with **no customer message sent at all**. This is the same gap already documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section (written 2026-07-16, mirrors the live tool's actual behavior rather than silently "fixing" the test) — not a newly discovered issue, just re-confirmed live and flagged here as still unresolved as of 2026-07-24.
+> [!tip] Exhaustive version of this table
+> [[routing-decision-table]] expands the gate order and this matrix into a full equivalence-class table — every routing outcome, every `_boolish` state, the five Stale Case Path rules, the no-Problem paths, and the combinations that are structurally unreachable. Use it when checking a specific input combination rather than the general shape of the logic.
+
+> [!success]- Resolved 2026-08-07 — the 6B/'Assess' gap (open since 2026-07-16)
+> `6A` had an explicit `New || Assess` branch → template `7.3`. **`6B` had no equivalent `Assess` branch and no generic fallback**, so a Problem sitting at `Assess` that routed through `6B` (not first-linkage, state changed) fell through to the safety-fallback `STOP` with **no customer message sent at all**. Documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section since 2026-07-16 — the test mirrored the live tool's actual behaviour rather than silently "fixing" it.
+>
+> **Fix:** `6B`'s first branch now mirrors `6A`'s:
+> ```javascript
+> if (problemState === 'New' || problemState === 'Assess') {
+>     selectedTemplate = '7.3';
+> }
+> ```
+> ⚠️ The T2 ATF case that asserted a `STOP` on `6B` + `Assess` now fails by design. Update the assertion to expect `7.3`; do not revert the branch.
+
+> [!info] Degraded routing — `6B_DEGRADED` (added 2026-08-07)
+> Past Gate 1, `problem_linked` is confirmed `'true'`. A **blank `problem_state`** at that point is therefore a data-population fault, not a real Problem state — every previously observed instance was the Gate 1 defect leaking unlinked cases into the classification, and that path is now closed.
+>
+> Rather than send nothing, these route to `7.10.2` under a distinct `routing_decision` of **`6B_DEGRADED`**, with a `gs.warn` naming the original route. Safe content-wise: `7.10.2`'s body is generated by the Stale Case Summarization skill from case comments and work notes, so it asserts nothing about the Problem's state.
+>
+> Two deliberate limits:
+> - A state that is **present but unrecognised** still `STOP`s. That is a new or unmapped Problem state and must surface rather than silently receiving "no significant change".
+> - `6A` keeps its plain `STOP` for unrecognised states. `6A` means first linkage, where a blank state is a much stronger signal that something upstream is broken.
+>
+> The distinct label keeps these countable in reporting instead of masquerading as normal `6B` routing. **A rising `6B_DEGRADED` count is an input-pipeline alarm, not a routing outcome to accept.**
 
 ### Tool 2 — `caseRoutingPCCCUtil` (Script Include)
 
 Refactored 2026-08-07 from an inline AI Agent Tool wrapper into a Script Include, so it is unit-testable and version-controlled. Still a pure function — no reads, no writes, no LLM call inside it — matching the "deterministic first" design principle. The AI Agent Tool now calls `new caseRoutingPCCCUtil().resolve(inputs)` and returns its output unchanged.
 
+> [!bug]- Resolved 2026-08-07 (evening) — the AI Agent Tool was still executing the **old inline copy**
+> Creating the Script Include did not change routing behaviour, because the AI Agent Tool "Resolve routing decision and template selection" still held its **own pre-refactor inline script**. `resolve()` existed, was correct, and was never called. Live evidence: case `CS0991191` (no Problem linked) produced the pre-fix stop verbatim —
+> `Template could not be determined for problem_state: , resolution_code: , routing_decision: 6B`
+> — a message the hardened Gate 1 can no longer emit for an unlinked case. Two independent tells confirmed the tool script was the old one: no `_boolish()` anywhere in it, and the workaround-only-change override still present (the Script Include never carried that block).
+> **Fix:** the tool script was replaced with a thin delegating wrapper:
+> ```javascript
+> (function(inputs) {
+>     return new caseRoutingPCCCUtil().resolve(inputs);
+> })(inputs);
+> ```
+> **Lesson:** a Script Include being present, correct and ATF-green says nothing about what the agent actually runs. After any Tool 2 change, verify the *tool record's* script field, not just the Script Include.
+
 The 6B bug above is still visible directly in this code: the `routingDecision === '6B'` branch has no `New || Assess` case, unlike `6A`'s explicit one.
 
 > [!warning] Every input arrives as a **string**, and it is populated upstream
-> The tool's input variables are filled before `resolve()` runs — they are not read straight off the record. A value can therefore arrive as `'false'`, `'False'`, `' false '`, `'No'`, `'null'`, or blank, and the same execution can contain an unresolved placeholder token where a value should be. **Any comparison here that tests `===` against a single literal is a latent bug.** Gate 1 was hardened for exactly this on 2026-08-07 — see [[#17. Changelog]]. The remaining boolean inputs (`wi_required`, `has_work_item`, `workaround_pending`, `new_worknote_available`, `is_first_linkage`) still use bare-literal comparisons and carry the same exposure; logged in [[#13. Risks & Open Questions]].
+> The tool's input variables are filled before `resolve()` runs — they are not read straight off the record. A value can therefore arrive as `'false'`, `'False'`, `' false '`, `'No'`, `'null'`, or blank, and the same execution can contain an unresolved placeholder token where a value should be. **Any comparison here that tests `===` against a single literal is a latent bug.**
+> As of 2026-08-07 (evening) **all six** boolean-ish inputs — `problem_linked`, `wi_required`, `has_work_item`, `is_first_linkage`, `workaround_pending`, `new_worknote_available` — are normalised through `_boolish()` at the top of `resolve()`, and every downstream comparison is a plain boolean. No bare-literal comparisons remain in the routing tool.
+> This is still a shield, not a cure: the underlying defect is the agent emitting literal `"null"` strings and mixed-case booleans into tool inputs. See [[#13. Risks & Open Questions]].
 
 ```javascript
 var caseRoutingPCCCUtil = Class.create();
@@ -573,7 +610,7 @@ Built by `_buildTemplates()`. `reset_count` drives [[Counter and Cooloff]] behav
 
 | ID | reset_count | Use | Greeting |
 |---|---|---|---|
-| `7.1` | skip | No problem linked, case In Progress — "actively reviewing" | Dear |
+| `7.1` | skip | No problem linked, case In Progress — body generated by the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] skill (`_getStaleCaseSum()`) since 2026-08-07 evening; was static "actively reviewing" filler | Dear |
 | `7.2` | skip | No problem linked, Awaiting Customer Info — follow-up | Dear |
 | `7.3` | true | Problem identified (New/Assess) | Dear |
 | `7.4` | true | Workaround shared `[WORKAROUND]` | Dear |
@@ -583,12 +620,31 @@ Built by `_buildTemplates()`. `reset_count` drives [[Counter and Cooloff]] behav
 | `7.8` | true | Working-as-designed / closed, no fix | Dear |
 | `7.9` | true | Worknote update `[WORKNOTE]` | Dear |
 | `7.10.1` | false | Follow-up after fix applied | Dear |
-| `7.10.2` | false | No significant change — body generated by the **Stale Case Summarization** skill (`_getStaleCaseSum()`), not static text | Dear |
+| `7.10.2` | false | No significant change — body generated by the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] skill (`_getStaleCaseSum()`), not static text | Dear |
 
 Placeholders still LLM/agent-filled: `[MEANINGFUL_TITLE]`, `[RELEASE_VERSION]`, and the synthesised `[WORKAROUND]` / `[WORKNOTE]` bodies.
 
 > [!info] `7.10.2` body is now skill-generated, not canned
-> The static filler ("I wanted to provide a quick update on your case...") is commented out in `_buildTemplates()` and replaced by `this._getStaleCaseSum(cs)` — a synchronous call to the Stale Case Summarization Now Assist skill via `sn_one_extend.OneExtendUtil.executeSecure`. See [[#5. `caseUpdateAgentUtil` (Script Include)]].
+> The static filler ("I wanted to provide a quick update on your case...") is commented out in `_buildTemplates()` and replaced by `this._getStaleCaseSum(cs)` — a synchronous call to the [[stale-case-summarization-skill-notes|Stale Case Summarization]] Now Assist skill via `sn_one_extend.OneExtendUtil.executeSecure`. See [[#5. `caseUpdateAgentUtil` (Script Include)]].
+
+> [!info] `7.1` is now skill-generated too — "Option A" (2026-08-07 evening)
+> **Requirement:** give stale cases with **no linked Problem** the same case-specific message quality that `7.10.2` gives problem-linked ones, instead of repeating identical static "we are actively reviewing" filler every stale cycle.
+>
+> Two options were evaluated:
+>
+> | | Option A — reuse `7.1` | Option B — route `7.10.2` without a Problem |
+> |---|---|---|
+> | Routing change | none | new Gate 1 third branch + a "prior outreach" input |
+> | Counter impact | none (`skip` preserved) | `7.10.2` is `reset_count = false` → no-Problem cases enter the counter with **no reset path**, since full reset only happens via the Problem Update Path. Permanent cooloff-restamp loop. |
+> | Agent prompt | none | Step 7.2's hardcoded ID→`reset_count` map must be replaced by reading `templates[SELECTED_TEMPLATE].reset_count` |
+> | Doc churn | one registry row | gates, matrix, decision table, registry |
+> | Effort | one line | five changes |
+>
+> **Option A was chosen.** `7.1`'s body in `_buildTemplates()` now calls `this._getStaleCaseSum(cs)`. Customer-visible outcome is identical to `7.10.2`; the template ID stays `7.1`, so `reset_count = skip` is preserved and no-Problem stale cases keep surfacing every run rather than accumulating toward cooloff.
+>
+> **Consequence to remember:** `7.10.2` remains structurally unreachable without a linked Problem — it lives only in the `6C` branch, and `6C` is only reachable past Gate 1. Reporting that counts "stale no-change messages" by template ID will see these as `7.1`, not `7.10.2`. Revisit Option B only if `7.10.2` is needed as a distinct reporting/NAP label, and solve the counter-reset gap first.
+>
+> The Stale Case Summarization skill needed **no change** for this: it takes only `case_number`, and its prompt's status buckets already cover non-Problem cases ("Waiting for customer information or action", "Waiting for CSS or another internal support team", and the "No clear recent progress found" fallback).
 
 ---
 
@@ -665,7 +721,6 @@ Custom fields on `sn_customerservice_case`:
 - **Resolution-code guard also triplicated** — Risk Accepted / Duplicate skip logic exists in the BR, the routing tool, and now the scheduled job as well.
 - **Hard-coded execution-plan agent sys_id** — the scheduled job's active-execution dedup check hard-codes `agent = 'db969eb8870ffed0d939a7573cbb35b8'` inline. An agent clone/re-publish that changes this sys_id silently breaks dedup (cases could double-fire) with no error surfaced.
 - **No batching in [[Stale Case Scheduled Job]]** — every qualifying case fires a subflow in one `while` loop per rule (5 rules now, not 1). No cap, pacing, or backpressure.
-- **Bare-literal boolean comparisons remain on the content flags** (found 2026-08-07, partially fixed) — Gates 1 and 3 now normalise through `_boolish()`, but `workaround_pending`, `new_worknote_available` and `is_first_linkage` still test `=== true || === 'true'`. Each silently treats `'True'`, `' true '`, `'Yes'` and `'1'` as *not* set. These fail in the **quiet** direction rather than the dangerous one — a workaround or worknote is simply not communicated, and `is_first_linkage` misreads route 6A as 6B — so no wrong statement reaches a customer. Lower priority than the gates, but the same one-line change each.
 - **Tool inputs are not trustworthy as delivered** (found 2026-08-07) — a live execution carried `new_worknote_available: "{organize_general_knowledge}.4"`, an unresolved placeholder token, alongside blanks in every other Problem field. Inputs are populated upstream and arrive as strings; the router cannot assume they are well-formed. There is no validation step between population and `resolve()`.
 - **Workaround-only-change override silently dropped in the 2026-08-07 refactor** — see the flag in [[#7. Deterministic Routing]] gate 5 and the changelog entry below. Not yet decided whether to restore it or retire the now-dead `workaround_only_latest_change` input/variable.
 
@@ -674,11 +729,22 @@ Custom fields on `sn_customerservice_case`:
 - **NAP shows internal variable** — consultants occasionally saw `{ "NEW_PROBLEM_WORKNOTE_AVAILABLE": true }` instead of the draft; likely approval-step content mapping, not draft generation. Confirm which output variable is bound to the NAP confirmation. **Still open as of 2026-07-24** — not addressed by this session's fixes (those targeted `[RELEASE_VERSION]`/`[WORKAROUND]`/`[WORKNOTE]` token leakage specifically, a related but distinct symptom — see [[#17. Changelog]]).
 - **Large-context / token limits** — long case histories may exceed model/exec limits; consider summarising older worknotes.
 - **Assigned-user eligibility** — locked/inactive user or missing Now Assist CSM group membership → execution error. Needs daily monitoring.
-- **6B missing an Assess-state branch** (found 2026-07-24) — see the bug callout in [[#7. Deterministic Routing]]. Not yet fixed.
 
 ### Resolved 2026-08-07 — see [[#17. Changelog]]
 - ~~Gate 1 missed every `problem_linked` value except boolean `false` and the exact string `'false'`~~ — fixed via `_boolish()` normalisation; blank, missing, `'False'`, `' false '`, `'No'`, `'0'` and `'null'` now all trip the gate.
 - ~~Gate 3 failed **open** on `wi_required` / `has_work_item`~~ — fixed; the gate now requires positive confirmation that a Work Item exists before letting a message through, instead of only stopping on two exact literals.
+- ~~The two fixes above were not actually live~~ (evening) — the AI Agent Tool still ran its own pre-refactor inline script; `resolve()` was never called. Tool script replaced with a delegating wrapper. See the bug callout in [[#7. Deterministic Routing]].
+- ~~Every skill-generated body reached the customer wrapped in literal double quotes~~ (evening) — `_getStaleCaseSum()` returned `JSON.stringify(skillResponse)`; the `JSON.stringify` was removed so the `response` string is returned as-is.
+- ~~No-Problem stale cases received identical static filler every cycle~~ (evening) — `7.1`'s body is now skill-generated ("Option A", see [[#8. Template Registry]]).
+- ~~Bare-literal boolean comparisons on `is_first_linkage` / `workaround_pending` / `new_worknote_available`~~ (evening) — all three now normalise through `_boolish()`. No bare-literal boolean comparisons remain in `resolve()`.
+- ~~`6B` missing an `Assess` branch~~ (evening, open since 2026-07-16) — `6B`'s first branch now mirrors `6A`'s `New || Assess` → `7.3`.
+- ~~A linked Problem with a blank `problem_state` sent nothing~~ (evening) — now routes to `7.10.2` under `6B_DEGRADED` with a `gs.warn`.
+
+### New / raised 2026-08-07 (evening)
+- **Skill blast radius widened without evals** — `_getStaleCaseSum()` now backs `7.1` as well as `7.10.2`, so the Stale Case Summarization skill writes to *every* stale no-Problem case, not just problem-linked no-change ones. That skill has **no automated evaluations run**, **no role restrictions**, and its `GetRecordInfo` tool uses `GlideRecord` where the Skill Kit editor explicitly warns to use `GlideRecordSecure`. Volume up, assurance unchanged.
+- **One skill call per `_buildTemplates()` invocation** — `_getStaleCaseSum()` is synchronous and now fires for two templates' bodies. It runs during template construction regardless of which template routing eventually selects, so every agent execution pays the LLM round-trip even when the selected template does not use it. Candidate for lazy evaluation if run duration becomes a problem.
+- **Upstream input hygiene is the real defect** — `_boolish()` is a shield, not a cure. The agent is emitting literal `"null"` strings and inconsistent boolean casing into tool inputs (`is_first_linkage: null` observed on `CS0991191`). Tightening the Step 5 tool-call instruction in the agent prompt to emit lowercase `true`/`false` only would remove the whole defect class at source.
+- **`u_last_comment_from_unit4` can predate case creation** — `CS0991191` was opened `2026-08-06 16:16` with `u_last_comment_from_unit4 = 2026-07-07`, `comments` empty and `u_first_response = false`; the value appears inherited from the source record during case creation. Effect: a brand-new case reads as 31 days stale on day one and is immediately eligible for rules 1 and 4. False-positive source for the whole Stale Case Path, independent of routing.
 
 ### Resolved this session (2026-07-24) — see [[#17. Changelog]] for full detail
 - ~~`[RELEASE_VERSION]` placeholder/filler leaking into drafts~~ — fixed; placeholder/filler `fix_notes` now treated as empty, token deleted and sentence rewritten instead of leaking through.
@@ -742,6 +808,125 @@ Post-deploy: agent active, 3 tools attached, trigger active, Script Include in s
 ## 17. Changelog
 
 Session-by-session record of live changes to the deployed PCCC components. Source: VS Code Claude Code session working directly against the ServiceNow instance (Agent API), not this vault — captured here after the fact so the architecture doc stays current.
+
+### 2026-08-07 (evening) — Tool 2 actually wired to the Script Include, JSON-quoting fix, Option A for no-Problem stale cases
+
+Triage session driven by a single live case, `CS0991191` (Vinje kommune, P3, no linked Problem, In Progress, 31 days since last Unit4 comment). Three defects found and fixed, in the order they surfaced.
+
+**1. The morning's Gate 1/3 fixes were not live**
+
+Symptom — NAP returned:
+
+```
+Processing stopped: Template could not be determined for the current case because the
+linked problem state information required for template selection is unavailable.
+
+Inputs:  problem_linked: false · case_state: In Progress · is_first_linkage: null
+         (all Problem fields blank)
+Output:  routing_decision: STOP · selected_template: null
+         stop_reason: Template could not be determined for problem_state: ,
+                      resolution_code: , routing_decision: 6B
+```
+
+That stop string is character-identical to the pre-fix incident recorded in the entry below — a message the hardened Gate 1 **cannot** emit for an unlinked case (it would return the named `problem_linked could not be interpreted…` stop instead).
+
+Diagnosis — the Script Include `caseRoutingPCCCUtil` was deployed and correct, but the AI Agent Tool "Resolve routing decision and template selection" still held its own **pre-refactor inline script**. Confirmed by reading the tool's script field: no `_boolish()` anywhere, and the workaround-only-change override block still present — a block the Script Include never carried. The refactor created the Script Include without repointing the tool at it, so `resolve()` was dead code.
+
+Fix — tool script replaced with:
+
+```javascript
+(function(inputs) {
+    return new caseRoutingPCCCUtil().resolve(inputs);
+})(inputs);
+```
+
+Three behaviour changes ride along with that swap, all expected:
+
+| Change | Effect |
+|---|---|
+| Gate 1 now fires | `CS0991191` returns `STOP_GATE1` / `7.1` instead of a bogus `6B` stop |
+| Gate 3 now fails **closed** | `has_work_item` `empty`/`unknown` now STOPs instead of releasing a message. Expect a visible rise in NAP stops — correct, but it reads as a regression to consultants unless they are told. |
+| Workaround-only override **removed** | The Script Include has no `workaround_only_latest_change` handling. `7.4` is now reachable only via the ordinary `6C` + `workaroundPending` path. Still an open decision: restore or retire. |
+
+`_boolish` normalisation is *not* the whole story — `is_first_linkage`, `workaround_pending` and `new_worknote_available` still use bare-literal comparisons inside `resolve()`. Logged in [[#13. Risks & Open Questions]]; they fail quiet, not dangerous.
+
+**2. Skill-generated bodies reached customers wrapped in quotes**
+
+Symptom — the approved draft posted as:
+
+```
+Dear Vicky,
+
+Thank you for your patience regarding your case CS0991191, related to …
+
+"We wanted to reach out with a brief update on your case regarding the CB05 (XML)
+bank reconciliation import behavior. …"
+```
+
+Greeting and case line unquoted, skill block quoted — the quoting boundary is exactly where the skill output crosses into the template.
+
+Diagnosis — not the LLM. The skill prompt already forbids preamble and wrappers. `_getStaleCaseSum()` ended in `return JSON.stringify(skillResponse);`, and JSON-encoding a string adds its own delimiters: `Hello` serialises as `"Hello"`. The serialised form was being pasted into the comment.
+
+Fix — one line: `return skillResponse;`. Verified `typeof skillResponse === 'string'` first; had it been an object, the extracted field (`resp.capabilities[capabilityId].response`) would have been needed instead, and returning the object raw would have posted `[object Object]`. If double-encoding ever appears (literal `\n` or `\"` in a posted comment), a defensive unwrap helper is the fallback — parse up to twice, `.trim()`, strip delimiters manually if `JSON.parse` throws.
+
+**3. Option A — skill-generated body for no-Problem stale cases**
+
+`7.10.2` was initially expected to serve `CS0991191`. It cannot: `7.10.2` lives only in the `6C` branch, and `6C` is unreachable past Gate 1, which fires on any case with no linked Problem. The requirement — case-specific stale messaging for no-Problem cases — was met instead by pointing `7.1`'s body at `_getStaleCaseSum()`, preserving `reset_count = skip`. Full option comparison and the rejected Option B (with its counter-reset gap) are recorded in [[#8. Template Registry]].
+
+**4. Routing hardening — normalisation completed, `Assess` closed, degraded path added**
+
+With the tool finally executing `resolve()`, three further changes went into `caseRoutingPCCCUtil`:
+
+*Normalisation completed.* `is_first_linkage`, `workaround_pending` and `new_worknote_available` now pass through `_boolish()` alongside the three gate inputs, and every downstream comparison is a plain boolean. Previously each silently read `'True'`, `' true '`, `'Yes'` and `'1'` as *not set* — and for the content flags this failed twice over in one pass: `6C` skipped the `7.4`/`7.9` branch **and** the corresponding `append_*` flag stayed `false`, so the workaround or worknote was dropped in both directions. No bare-literal boolean comparisons remain in the tool.
+
+*`6B` + `Assess` closed.* `6B`'s first branch now mirrors `6A`'s:
+
+```javascript
+if (problemState === 'New' || problemState === 'Assess') {
+    selectedTemplate = '7.3';
+}
+```
+
+Open since 2026-07-16. The T2 ATF case asserting a `STOP` here now fails by design — update the assertion to `7.3`.
+
+*`6B_DEGRADED` added.* A linked Problem with a blank `problem_state` is a data-population fault, not a state. Rather than sending nothing, it routes to `7.10.2` under a distinct `routing_decision` label with a `gs.warn`:
+
+```javascript
+if (!problemState) {
+    gs.warn('[PCCC] Linked Problem with empty problem_state — routing to ' +
+        '7.10.2 (degraded). routing_decision was ' + routingDecision +
+        '. Investigate tool input population.');
+    return this._out('6B_DEGRADED', '7.10.2');
+}
+```
+
+`7.10.2`'s body is skill-generated from case comments and work notes, so it asserts nothing about the Problem state — safe to send on unknown data. A state that is **present but unrecognised** still `STOP`s, so a new or unmapped Problem state surfaces instead of quietly receiving "no significant change". `6A` keeps its plain `STOP`: first linkage with a blank state is a stronger signal of upstream breakage. **Treat a rising `6B_DEGRADED` count as an input-pipeline alarm, not an acceptable outcome.**
+
+**Verification performed**
+
+- Replayed the reported `CS0991191` payload against the tool post-swap → `STOP_GATE1` / `7.1`, no `stop_reason`.
+- Re-ran the T2 ATF matrix. Two categories of test move **by design**: any test asserting a message on a blank `has_work_item` (now the fail-closed stop), and the `6B` + `Assess` stop (now `7.3`).
+- Confirmed the Stale Case Summarization skill required no change — single `case_number` input, and its status buckets already cover non-Problem cases.
+
+**New ATF coverage needed**
+
+- `6B` + `Assess` → `7.3`
+- `6B` + blank `problem_state` → `6B_DEGRADED` / `7.10.2`
+- `6B` + present-but-unrecognised `problem_state` → `STOP`
+- `6A` + blank `problem_state` → `STOP` (asymmetry is intentional)
+- `workaround_pending: 'True'` → `7.4` (regression guard for the normalisation)
+- `new_worknote_available: 'Yes'` → `7.9`
+- `is_first_linkage: '1'` → `6A`
+
+**Follow-ups raised, not yet done**
+
+- Decide the fate of the workaround-only-change override.
+- Tighten the agent prompt's Step 5 so tool inputs stop carrying `"null"` strings and mixed-case booleans. `_boolish` is a shield; this is the cure.
+- Investigate `u_last_comment_from_unit4` inheriting a pre-creation timestamp.
+- Run evals on the Stale Case Summarization skill now that its blast radius covers all stale no-Problem cases.
+- Sweep `sn_aia_execution_plan` for rows left in `ready`/`in_progress` by the pre-fix Gate 1 defect — each one silently excludes its case from every future stale run via the job's dedup check.
+
+---
 
 ### 2026-08-07 — Routing tool moved to a Script Include, Gate 1/3 hardened, stale-job rewrite, skill-generated 7.10.2, canonical prompt embedded
 
@@ -813,7 +998,7 @@ Verified. 13 new T2 rows, 50 checks total, 0 failures. Reverting only the gate b
 - **Newly found while reconciling this doc against the refactor diff**: the "workaround-only-change override" block present in the pre-refactor inline Tool 2 wrapper was **not carried over** into the new `caseRoutingPCCCUtil.resolve()` — confirmed by diffing the removed inline-script lines against the new Script Include, which contains no `workaround_only_latest_change` handling at all. `caseUpdateAgentUtil.script.js` still computes the variable and the agent prompt still passes it in, so it's now a dead input on the tool side. Not called out in the refactor's own commit message — likely an unintentional drop during the rewrite rather than a deliberate removal. See [[#7. Deterministic Routing]] gate 5 and [[#13. Risks & Open Questions]].
 
 **Separately — synced from the current committed script files** (`caseUpdateAgentUtil.script.js`, `ProactiveCasecommunication-MonitorCase.script.js`, current agent prompt text):
-- **`caseUpdateAgentUtil.script.js`** — new `_getStaleCaseSum()` method; template `7.10.2`'s body is now generated by the Stale Case Summarization Now Assist skill instead of static filler text. Corrected this doc's prior "last 5 comments" claim to the actual "last 3" (`prior_ai_comments`) — doc error, not a code change.
+- **`caseUpdateAgentUtil.script.js`** — new `_getStaleCaseSum()` method; template `7.10.2`'s body is now generated by the [[stale-case-summarization-skill-notes|Stale Case Summarization]] Now Assist skill instead of static filler text. Corrected this doc's prior "last 5 comments" claim to the actual "last 3" (`prior_ai_comments`) — doc error, not a code change.
 - **`ProactiveCasecommunication-MonitorCase.script.js`** — rewritten from one blanket stale-threshold query into 5 independent priority/link-state rules, each with its own configurable day-threshold property; added resolution-code guard, Work Item gate, and active-execution dedup directly into the job (previously left to the BR/routing tool). See [[#4. Stale Case Path]] and the triplication risks in [[#13. Risks & Open Questions]].
 - **Full canonical agent prompt (Steps 1–7)** embedded verbatim in [[#18. Current Agent Prompt]] — previously only summarised here, with the full text tracked outside the vault.
 
@@ -1282,6 +1467,8 @@ RULE: End-user approval is mandatory before any message is posted to case commen
 - [[Problem Management]]
 - [[Work Item]]
 - [[Human in the Loop]]
+- [[stale-case-summarization-skill-notes|Stale Case Summarization]] — Now Assist skill called by `_getStaleCaseSum()` to generate the `7.10.2` body, see [[#5. `caseUpdateAgentUtil` (Script Include)]] and [[#8. Template Registry]]
+- [[routing-decision-table]] — exhaustive equivalence-class expansion of [[#7. Deterministic Routing]]'s gate order and template matrix
 - [[#18. Current Agent Prompt]] — full canonical Step 1–7 prompt text, embedded in this doc
 
 #servicenow #ai-agent #now-assist #csm #problem-management #architecture #unit4
