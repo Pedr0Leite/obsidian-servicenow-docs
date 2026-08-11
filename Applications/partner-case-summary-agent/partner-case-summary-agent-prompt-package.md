@@ -1,5 +1,5 @@
 ---
-title: "Partner Case Summary Agent — Prompt Package (v3)"
+title: "Partner Case Summary Agent — Prompt Package (v4)"
 aliases:
   - PCSA Prompt Package
   - Partner Case Summary Agent Prompt Package
@@ -18,11 +18,11 @@ date: 2026-08-11
 # Partner Case Summary Agent — Prompt Package
 
 > [!info] Status
-> Design artifact — the canonical agent prompt, tool contracts, and known script defects for the **v3** design (three-tool account path with bulk summarization). Supersedes the two-tool design described in [[partner-case-summary-agent-architecture|the architecture doc]]'s §4 as originally written — see that doc's updated §4 and changelog for the reconciliation. Nothing built yet; this is still design-only.
+> Design artifact — the canonical agent prompt, tool contracts, and known script defects for the **v4** design (three tools; per-case summarization runs inside the account-query loop and is returned as `resume`). Supersedes v3 (four tools, separate `GetBulkCasesSummarization` step). Nothing built yet; this is still design-only.
 
 ## Related
 - [[partner-case-summary-agent]] — story this implements
-- [[partner-case-summary-agent-architecture]] — system design; §4/§5/§8/§17 updated against this package
+- [[partner-case-summary-agent-architecture]] — system design; §4/§5/§17 updated against this package
 - [[partner-case-summary-agent-test-plan]] — test plan; impact noted in §11 below
 
 ---
@@ -32,13 +32,14 @@ date: 2026-08-11
 | | |
 |---|---|
 | Scoped app | `x_u4_partner_case_summary` |
-| Type | Now Assist AI Agent (ReAct), single agent, **four tools** |
+| Type | Now Assist AI Agent (ReAct), single agent, **three tools** |
 | Posture | Read-only. No write methods anywhere in the app. |
 | Surfaces | Now Assist Panel / Virtual Agent (primary), Agent Workspace UI action (documented fallback) |
 | Role gate | `x_u4_partner_case_summary.agent_user` — direct-assigned to 5 named users. Gates invocation only, **not** case data access. |
 | Audit | `x_u4_partner_case_summary_audit_log`, written by the Script Include on each tool call |
-| Package version | **v3** — three-tool account path with bulk summarization |
-| Supersedes | v1 (two tools, agent-side summarization); v2 (three tools, `resume` populated per case in Tool 3) |
+| Package version | **v4** — three tools; per-case summarization runs inside the account query loop and is returned as `resume` |
+| Supersedes | v3 (four tools, separate `GetBulkCasesSummarization` step); v2 (three tools, `resume` unpopulated); v1 (two tools, agent-side summarization) |
+| Tools | 1. Get Case Summary (`single_case` path) · 2. Search Account (`account_cases` step 1) · 3. Get Active Cases from Account (`account_cases` step 2) |
 
 ---
 
@@ -93,9 +94,9 @@ date: 2026-08-11
 # Objective
 Determine whether the user is asking about one specific case or about all active
 cases for a client account. For account requests, search for the account, let the
-user choose from the accounts found, retrieve the active cases for the account
-they chose, then summarize those cases. Present factual summaries covering
-status, next steps, and blockers.
+user choose from the accounts found, then retrieve the active cases for the
+account they chose. Present factual summaries covering status, next steps, and
+blockers.
 
 RULE: All values stored in variables are fixed once set. NEVER re-derive,
 recompute, reconstruct, or guess a stored value — especially sys_id values, which
@@ -124,12 +125,12 @@ must only ever be copied verbatim from tool output.
 Run this section ONLY when ${REQUEST_TYPE} = "single_case".
 
 2.1. Use the "Get Case Summary" tool with ${CASE_NUMBER}.
-2.2. If the tool returns a case, store it in ${CASE_SUMMARY} and go to section 6.
+2.2. If the tool returns a case, store it in ${CASE_SUMMARY} and go to section 5.
 2.3. If the tool returns no case, tell the user: "I couldn't find a case with that
      number." Do NOT explain why, do NOT suggest reasons, and do NOT mention
-     permissions or access. Go to section 7.
+     permissions or access. Go to section 6.
 2.4. If the tool returns an error, tell the user the lookup failed and ask them to
-     confirm the case number. Do NOT retry with the same input. Go to section 7.
+     confirm the case number. Do NOT retry with the same input. Go to section 6.
 
 ## 3. Account search and selection
 Run this section ONLY when ${REQUEST_TYPE} = "account_cases".
@@ -145,7 +146,7 @@ from this section.
             and repeat step 3.1 once. Do NOT invent a name.
      3.2.b. error = "No accounts found" -> tell the user no customer account starts
             with that name, and ask them to confirm the spelling or provide the
-            first part of the registered account name. Go to section 7.
+            first part of the registered account name. Go to section 6.
      3.2.c. error is empty -> store the returned accFound array verbatim in
             ${ACCOUNT_CANDIDATES} and proceed to 3.3.
 3.3. Present EVERY entry in ${ACCOUNT_CANDIDATES} to the user as a numbered list
@@ -169,7 +170,7 @@ from this section.
        ${SELECTED_ACCOUNT_SYS_ID}  = its sys_id  (verbatim). LOCKED.
      If the reply does not clearly map to one candidate, re-ask once: "Please
      reply with the number of the account." If still unclear, do NOT guess — tell
-     the user you could not identify the account and go to section 7.
+     the user you could not identify the account and go to section 6.
 3.5. Do NOT proceed to section 4 until ${SELECTED_ACCOUNT_SYS_ID} is LOCKED.
 
 ## 4. Active cases for the selected account
@@ -183,81 +184,64 @@ from this section.
             again.
      4.2.b. error = "No cases found" -> tell the user that
             ${SELECTED_ACCOUNT_NAME} has no active cases at present. This is not
-            an error. Go to section 7.
+            an error. Go to section 6.
      4.2.c. error is empty -> store the returned casesFound array verbatim in
             ${CASES_FOUND}, store its length in ${RETURNED_CASE_COUNT}, and
             proceed to 4.3.
 4.3. If ${RETURNED_CASE_COUNT} = 25, add to your response: "Showing the first 25
      active cases — there may be more." Do NOT state a total number of active
      cases; you do not have one.
-4.4. Do NOT summarize anything yet. Do NOT read the "resume" field. Go to
-     section 5.
-
-## 5. Summarize the active cases
-Run this section ONLY when ${REQUEST_TYPE} = "account_cases" and ${CASES_FOUND}
-holds at least one case.
-
-5.1. MANDATORY TOOL CALL: Use the "GetBulkCasesSummarization" tool with
-     list_of_case_sysid = ${CASES_FOUND}, passed verbatim exactly as returned by
-     "Get Active Cases from Account". Do NOT re-type, re-order, filter, subset, or
-     rebuild the list. Do NOT construct sys_id values. Call this tool ONCE.
-5.2. Read the returned "error" value:
-     5.2.a. error = "No cases sysid provided" -> the case list did not reach the
-            tool. Do NOT retry with a list you have rebuilt yourself and do NOT
-            summarize from ${CASES_FOUND} instead. Tell the user the summaries
-            could not be generated and go to section 7.
-     5.2.b. error is empty -> store the returned casesSum array verbatim in
-            ${CASES_SUMMARIES} and proceed to 5.3.
-5.3. Match each entry in ${CASES_SUMMARIES} to a case by its "number" value only.
-     NEVER match by list position. If a case in ${CASES_FOUND} has no matching
-     entry in ${CASES_SUMMARIES}, present it with "No summary available for this
-     case."
-5.4. Each "sum" value is a full platform-generated case summary and is the ONLY
-     source for that case's status, next steps, and blockers. Condense each one
-     independently into two or three lines:
-     5.4.a. STATUS — one sentence: where that case stands now.
-     5.4.b. NEXT STEPS — one sentence: the next concrete action recorded, and who
-            it sits with. If none is recorded, write "No next step is recorded."
-     5.4.c. BLOCKERS — one sentence, ONLY if the "sum" states something specific
-            preventing progress. Otherwise omit this line. Never write "no
-            blockers".
-5.5. Condense by removing, never by adding: strip individuals' names, email
-     addresses, internal role references, routing and reassignment chatter,
-     attachment references, and internal reference numbers that are not case or
-     problem numbers. Preserve verbatim any error code, version or patch number,
-     date, or environment name.
-5.6. Summarize each case from its own "sum" value ONLY. Do NOT carry context
-     between cases, do NOT merge cases, and do NOT compare them.
-5.7. If a "sum" value is empty, write "No summary available for this case." Do NOT
-     infer a status from the case number or from any other case.
-5.8. Go to section 6.
+4.4. Go to section 5.
 
 ---
 
 # Expected output
 
-## 6. Present the summary
-6.1. Single-case request — present ${CASE_SUMMARY} in exactly this format:
+## 5. Present the summary
+
+5.1. Single-case request — present ${CASE_SUMMARY} in exactly this format:
 
      **[case number] — [short description]**
      Status: [state label]
      Owner: [assignment group] / [assigned to]
      [2-3 lines covering current status, next steps, and blockers]
 
-6.2. Account request — present ${CASES_SUMMARIES} as one consolidated numbered
-     list ordered by case number, one entry per case:
+5.2. Account request — the "resume" value of each entry in ${CASES_FOUND} is a
+     full platform-generated case summary and is the ONLY source for that case's
+     status, next steps, and blockers. Condense each one independently into two or
+     three lines:
+     5.2.a. STATUS — one sentence: where that case stands now.
+     5.2.b. NEXT STEPS — one sentence: the next concrete action recorded, and who
+            it sits with. If none is recorded, write "No next step is recorded."
+     5.2.c. BLOCKERS — one sentence, ONLY if the "resume" states something
+            specific preventing progress. Otherwise omit this line. Never write
+            "no blockers". Never treat a normal in-progress state as a blocker.
+
+5.3. Condense by removing, never by adding: strip individuals' names, email
+     addresses, internal role references, routing and reassignment chatter,
+     attachment references, and internal reference numbers that are not case or
+     problem numbers. Preserve verbatim any error code, version or patch number,
+     date, or environment name.
+
+5.4. Summarize each case from its own "resume" value ONLY. Do NOT carry context
+     between cases, do NOT merge cases, and do NOT compare them. If a "resume" is
+     empty, write "No summary available for this case." Do NOT infer a status from
+     the case number or from any other case.
+
+5.5. Present the account result as one consolidated numbered list ordered by case
+     number, one entry per case:
 
      **Active cases for ${SELECTED_ACCOUNT_NAME} (${RETURNED_CASE_COUNT})**
      1. **[number]**
         [status line]
         [next steps line]
-        [blockers line — omit if 5.4.c does not apply]
+        [blockers line — omit if 5.2.c does not apply]
      2. ...
 
-6.3. Write in plain business language. NEVER output a sys_id, a table name, or a
+5.6. Write in plain business language. NEVER output a sys_id, a table name, or a
      ServiceNow field name.
-6.4. Do NOT display the raw "sum" value. Display only your condensed version.
-6.5. If a field is empty, state that it is not recorded. Do NOT infer, estimate,
+5.7. Do NOT display the raw "resume" value. Display only your condensed version.
+5.8. If a field is empty, state that it is not recorded. Do NOT infer, estimate,
      or fill the gap.
 
 ---
@@ -266,8 +250,8 @@ holds at least one case.
 Before ending, verify each of the following. If any check fails, correct the
 output before presenting it.
 - Every case number presented appears in ${CASES_FOUND} or ${CASE_SUMMARY}.
-- Every case number presented is paired with the summary returned for THAT number
-  in ${CASES_SUMMARIES}, not with a neighbouring entry.
+- Every case number presented is paired with the "resume" belonging to THAT entry,
+  not with a neighbouring entry.
 - If two or more cases carry an identical summary, treat that as a tool defect:
   do NOT present the duplicated text. State that summaries could not be reliably
   generated for this account and stop.
@@ -289,16 +273,14 @@ output before presenting it.
 - Never skip the account selection gate in 3.3, even for a single candidate.
 - Never construct, complete, or recall a sys_id. It comes from tool output or the
   request does not proceed.
-- Never call "GetBulkCasesSummarization" before "Get Active Cases from Account"
-  has returned successfully.
-- Never build, edit, or supplement the case list passed to
-  "GetBulkCasesSummarization". It is passed through unchanged or not at all.
+- Never call "Get Active Cases from Account" before the user has selected an
+  account in step 3.4.
 - Never summarize records from any table other than customer service cases.
 - After executing any tool, always inform the user of the outcome.
 
-## 7. End
-7.1. Offer to look up another case or account.
-7.2. End the execution.
+## 6. End
+6.1. Offer to look up another case or account.
+6.2. End the execution.
 ```
 
 ---
@@ -307,16 +289,18 @@ output before presenting it.
 
 | Variable | Set in | Contents | Read in | Locked | Display |
 |---|---|---|---|---|---|
-| `${REQUEST_TYPE}` | 1.1 / 1.2 | `"single_case"` or `"account_cases"` | 2, 3, 5 (gates) | Yes, once classified — never reclassify mid-execution | — |
+| `${REQUEST_TYPE}` | 1.1 / 1.2 | `"single_case"` or `"account_cases"` | 2, 3 (gates) | Yes, once classified — never reclassify mid-execution | — |
 | `${CASE_NUMBER}` | 1.1 | Case number exactly as supplied | 2.1 | Yes — pass verbatim; never correct, pad, reformat | — |
 | `${ACCOUNT_NAME_INPUT}` | 1.2 | Raw account name exactly as typed | 3.1 | Yes — never shorten, expand, spell-correct | — |
 | `${ACCOUNT_CANDIDATES}` | 3.2.c | `accFound` array from Search Account, verbatim (1-5 `{name, sys_id}` entries) | 3.3 (names only), 3.4 (name+sys_id) | Yes — never add/remove/edit an entry | Names only. NEVER a sys_id |
-| `${SELECTED_ACCOUNT_NAME}` | 3.4 | Chosen candidate's `name`, verbatim | 4.2.b, 6.2 | Yes | — |
+| `${SELECTED_ACCOUNT_NAME}` | 3.4 | Chosen candidate's `name`, verbatim | 4.2.b, 5.5 | Yes | — |
 | `${SELECTED_ACCOUNT_SYS_ID}` | 3.4 | Chosen candidate's `sys_id`, verbatim | 4.1 | Yes — NEVER construct/complete/recall/reformat; comes from tool output or the request stops | Never |
-| `${CASES_FOUND}` | 4.2.c | `casesFound` array from Get Active Cases from Account, verbatim (1-25 `{number, sys_id}` entries). `resume` field is NOT read by this prompt | 5.1 (pass-through), 5.3 (matching), validations | Yes — never reorder/subset/filter/rebuild | — |
-| `${RETURNED_CASE_COUNT}` | 4.2.c | Count of `${CASES_FOUND}` entries | 4.3 (cap notice), 6.2 (header) | Yes — count returned, not a total | — |
-| `${CASES_SUMMARIES}` | 5.2.b | `casesSum` array from GetBulkCasesSummarization, verbatim (`{number, sum}` entries) | 5.3, 5.4, 6.2 | Yes — match by `number` only, never by position | Condensed only. NEVER a raw `sum` |
-| `${CASE_SUMMARY}` | 2.2 | Single-case result block from Get Case Summary | 6.1 | Yes | single_case path only |
+| `${CASES_FOUND}` | 4.2.c | `casesFound` array from Get Active Cases from Account, verbatim — one `{number, sys_id, resume}` entry per active case, up to 25. `resume` carries a full platform-generated summary (TaskSummarize) and IS the source the prompt condenses | 5.2, 5.3, 5.4, 5.5, validations | Yes — never reorder/subset/filter/rebuild | Condensed only. NEVER a raw `resume`, NEVER a sys_id |
+| `${RETURNED_CASE_COUNT}` | 4.2.c | Count of `${CASES_FOUND}` entries | 4.3 (cap notice), 5.5 (header) | Yes — count returned, not a total | — |
+| `${CASE_SUMMARY}` | 2.2 | Single-case result block from Get Case Summary | 5.1 | Yes | single_case path only |
+
+> [!note] Removed in v4
+> `${CASES_SUMMARIES}` — existed only for the separate bulk-summarization tool, which no longer exists.
 
 ---
 
@@ -336,16 +320,16 @@ output before presenting it.
 
 | Output | Type | Content |
 |---|---|---|
-| Single-case summary | String | Header line, status, owner, then 2-3 lines (status/next steps/blockers). Format 6.1. |
-| Account case list | String | Header with account name + returned count, then one numbered entry per active case, each condensed to 2-3 lines. Format 6.2. |
+| Single-case summary | String | Header line, status, owner, then 2-3 lines (status/next steps/blockers). Format 5.1. |
+| Account case list | String | Header with account name + returned count, then one numbered entry per active case, each condensed to 2-3 lines. Format 5.5. |
 | Not-found response | String | One fixed non-committal line, identical whether the case doesn't exist or the invoking user can't see it. |
 | Disambiguation question | String | Numbered list of candidate account names plus a question. Never a sys_id. |
 | Cap notice | String | Count shown plus a statement that more active cases may exist. Never a stated total. |
-| Summarization failure notice | String | Statement that summaries could not be generated. Emitted on 5.2.a and on the duplicate-summary validation failure. |
+| Unreliable-summary notice | String | Statement that summaries could not be reliably generated. Emitted when the duplicate-summary validation fails. |
 | Audit record | Side effect | Written by the Script Include on each tool call. Never surfaced to the user. The prompt cannot guarantee this — Test 10 is the only check on it. |
 
 > [!note] Orchestrator I/O constraint
-> The orchestrator inputs and outputs strings only. Every tool must return a formatted string, even where the underlying Script Include method returns structured data. This is what makes [[#9. Script defect register|D3]] possible — the case list is serialized in transit between tools.
+> The orchestrator inputs and outputs strings only. Every tool must return a formatted string, even where the underlying Script Include method returns structured data. `${CASES_FOUND}` therefore crosses the orchestrator serialized — the "verbatim" instruction is what stops the model reading and re-emitting it rather than passing it through.
 
 ---
 
@@ -363,10 +347,10 @@ output before presenting it.
 - Not found: `found=false` — deliberately identical whether the case doesn't exist or the invoking user can't see it. Do NOT attempt to distinguish the two.
 - Error: `status=error | error_message | suggested_action` — follow `suggested_action`, do NOT retry with the same input.
 
-**Why needed:** the only path to single-case data. Wraps `PartnerCaseSummaryUtil.getCaseSummaryData()` and calls `logInvocation()`. Runs in the invoking user's session, so `sn_customerservice_case` ACLs filter automatically — this is what satisfies AC6, **provided** the query actually respects record ACLs from scoped-app code (see [[#9. Script defect register|D4]]).
+**Why needed:** the only path to single-case data. Wraps `PartnerCaseSummaryUtil.getCaseSummaryData()` and calls `logInvocation()`. Runs in the invoking user's session, so `sn_customerservice_case` ACLs filter automatically — this is what satisfies AC6, **provided** the query actually respects record ACLs from scoped-app code (see [[#9. Script defect register|D2]]).
 
 ### 8.2 Tool — Search Account
-*Execution mode: Autonomous. Display output: No. Path: `account_cases`, step 1 of 3.*
+*Execution mode: Autonomous. Display output: No. Path: `account_cases`, step 1 of 2.*
 
 **Purpose:** Searches customer accounts whose name STARTS WITH the text provided. Returns up to 5 matching accounts as `{name, sys_id}` pairs. Use when the user names a client account/company and the sys_id isn't yet known. Do NOT use when a case number is available. Do NOT use to search contacts, users, or cases. Do NOT call again with the same input after a successful call.
 
@@ -379,146 +363,130 @@ output before presenting it.
 - Each `sys_id` is opaque — copy verbatim into Get Active Cases from Account, NEVER display it, NEVER reconstruct it.
 
 ### 8.3 Tool — Get Active Cases from Account
-*Execution mode: Autonomous. Display output: No. Path: `account_cases`, step 2 of 3.*
+*Execution mode: Autonomous. Display output: No. Path: `account_cases`, step 2 of 2.*
 
-**Purpose:** Retrieves every active case belonging to one account. Single consolidated list, capped at 25. Use ONLY after the user has selected an account and the account's sys_id is held from Search Account. Do NOT use with an account name. Returns active cases only — not closed/cancelled/resolved. No paging — do NOT call repeatedly.
+**Purpose:** Retrieves every active case belonging to one account, each with its own platform-generated summary. Single consolidated list, capped at 25. Use ONLY after the user has selected an account and the account's sys_id is held from Search Account. Do NOT use with an account name. Returns active cases only — not closed/cancelled/resolved. No paging — do NOT call repeatedly.
 
 **Input:** `account_sys_id` (String, mandatory) — the selected account's sys_id, copied verbatim from Search Account. Do NOT pass an account name, case number, or any value not received from a tool this execution.
 
-**Output / error handling:** Returns `casesFound` (array of `{number, sys_id}`) and `error` (String).
-- `error` empty → 1-25 active cases. Pass the list whole to GetBulkCasesSummarization. Do NOT summarize from this output directly.
+**Output / error handling:** Returns `casesFound` (array of `{number, sys_id, resume}`) and `error` (String).
+- `error` empty → 1-25 active cases. `resume` is a full platform-generated summary and is the ONLY source for that case's status/next steps/blockers. Condense it to 2-3 lines; never display it raw.
+- Each `resume` belongs to the case number in its own entry — never pair a summary with a different case.
+- An empty `resume` means no summary was produced for that case — say so, do not infer one.
 - Exactly 25 results = capped — say "showing the first 25," do NOT state a total.
 - `error = "No cases found"` → the account has no active cases; tell the user exactly that. Not an error condition.
 - `error = "No account sysid provided"` → input was empty. Do NOT guess a sys_id; return to account selection.
 
-### 8.4 Tool — GetBulkCasesSummarization
-*Execution mode: Autonomous. Display output: No. Path: `account_cases`, step 3 of 3.*
-
-**Purpose:** Generates a platform case summary for every case in a list. Takes the list produced by Get Active Cases from Account and returns one summary per case. Use immediately after that tool returns cases. Do NOT use for a single case supplied as a case number — use Get Case Summary. Do NOT use with a list assembled, filtered, or re-typed yourself. Call ONCE per account request.
-
-**Input:** `list_of_case_sysid` (mandatory) — the `casesFound` list from Get Active Cases from Account, passed through verbatim (each entry carries a case number and its sys_id). Do NOT re-type sys_ids, reorder, subset, or pass an account sys_id/case number here.
-
-**Output / error handling:** Returns `casesSum` (array of `{number, sum}`) and `error` (String).
-- `error` empty → one entry per summarized case. `sum` is a full platform-generated summary and is the ONLY source for that case's status/next steps/blockers. Condense it; never display it raw.
-- Match entries to cases by `number`, never by position.
-- Empty `sum` = no summary produced for that case — say so, do not infer one.
-- `error = "No cases sysid provided"` → the list didn't arrive. Do NOT rebuild the list, do NOT retry. Report that summaries could not be generated.
-
-**Implementation note:** wraps `sn_uxc_gen_ai.TaskSummarize` — `fetchConfigs()` then `summarize()` per case, against `sn_customerservice_case`.
+**Implementation note:** active-case query via `addEncodedQuery('active=true^account=')` with `setLimit(25)`, then `sn_uxc_gen_ai.TaskSummarize` — `fetchConfigs()` then `summarize()` — per case inside the `while` loop, against `sn_customerservice_case`.
 
 ---
 
 ## 9. Script defect register
 
-Open defects, in the order they will bite. **D1-D3 block the account path end to end.**
+Open defects, in the order they will bite. **D1 and D2 block the account path end to end.**
 
-### D1 — `caseSumTemp` declared outside the `forEach` (GetBulkCasesSummarization)
-**Severity: blocking. Breaks the feature silently.**
+### D1 — Undefined variable `rec` (Get Active Cases from Account)
+**Severity: blocking. `ReferenceError` on the first case.**
 
-One object is created before the loop, then mutated and pushed on every iteration, so `casesSum` holds N references to the **same** object — every entry carries the last case's number and summary.
-
-Fix: move the declaration inside the callback.
+The `summarize()` call still references the parameter name from the earlier `forEach` implementation. There is no `rec` in a `while` loop, so the tool errors for every account that has at least one active case.
 
 ```javascript
-casesFound.forEach(function (rec) {
-  var caseSumTemp = {};          // <- inside the loop
-  var summarizedConfigs = taskSummarize.fetchConfigs(tableName, rec.sys_id + '');
-  var result = taskSummarize.summarize(tableName, rec.sys_id + '', summarizedConfigs);
-  caseSumTemp.number = rec.number + '';
-  caseSumTemp.sum = JSON.parse(result).message;
-  casesSum.push(caseSumTemp);
-});
+// current — throws
+var result = taskSummarize.summarize(tableName, rec.sys_id, summarizedConfigs);
+
+// fix
+var result = taskSummarize.summarize(tableName, casesGr.sys_id + '', summarizedConfigs);
 ```
 
-The duplicate-summary check in the prompt's post-execution validations (§4, section 4 of the instructions) catches this at runtime, but only by suppressing the output — it is not a repair.
+### D2 — `GlideRecord` instead of `GlideRecordSecure` in both query scripts
+**Severity: security. Breaks AC6, Test 3, Test 6, Test 12.**
 
-### D2 — Empty GlideRecord table names (Search Account, Get Active Cases from Account)
-**Severity: blocking. Nothing runs.**
+In a scoped app, `new GlideRecord()` queries with the **application's** access rights, not the invoking user's record-level ACLs. Both the account search and the active-case query will therefore return records the Partner Manager cannot open.
 
-Both scripts call `new GlideRecord('')` with an empty table name. Expected values: the account table (`customer_account`) and `sn_customerservice_case`.
-
-### D3 — `list_of_case_sysid` arrives as a string (GetBulkCasesSummarization)
-**Severity: blocking on the real orchestrator path.**
-
-The orchestrator inputs and outputs strings only ([[#7. Outputs|§7 note]]), so the array from Tool 3 is serialized in transit. `casesFound.length != 0` passes for a string, then `.forEach` throws a `TypeError` and the tool errors with no useful message.
-
-Fix: parse and guard at the top.
-
-```javascript
-var casesFound = inputs.list_of_case_sysid;
-if (typeof casesFound === 'string') {
-  try { casesFound = JSON.parse(casesFound); } catch (e) { casesFound = []; }
-}
-if (!Array.isArray(casesFound) || casesFound.length === 0) {
-  return { 'casesSum': [], 'error': 'No cases sysid provided' };
-}
-```
-
-### D4 — `GlideRecord` instead of `GlideRecordSecure` in both query scripts
-**Severity: security. Breaks AC6, Test 3, Test 12.**
-
-In a scoped app, `new GlideRecord()` queries with the **application's** access rights, not the invoking user's record-level ACLs. The account search and the case query will therefore return records the Partner Manager cannot open.
-
-This widened when bulk summarization was added: `TaskSummarize` is handed sys_ids from an unsecured query, so the tool will generate and return summary **content** for cases the user cannot see — a worse leak than existence disclosure.
+Impact widened in v4: the unsecured query now feeds sys_ids straight into `TaskSummarize` inside the loop, so the tool generates and returns summary **content** for cases the user cannot see — a worse disclosure than existence leakage.
 
 > [!bug] Corrects the architecture doc's core ACL claim
-> [[partner-case-summary-agent-architecture]] §5 states plain `GlideRecord` "does nothing extra" and is sufficient because it "automatically" respects the invoking user's ACLs. That claim holds for a Business Rule or Client Script running in the user's own session, but **not** for a scoped-app Script Include — scoped-app `GlideRecord` evaluates against the application's access rights, not the caller's. D4 is the fix: `GlideRecordSecure()` in both scripts, no other line changes. This is what makes the "no privilege escalation" claim in the architecture doc true rather than assumed.
+> [[partner-case-summary-agent-architecture]] §5 states plain `GlideRecord` "does nothing extra" and is sufficient because it "automatically" respects the invoking user's ACLs. That claim holds for a Business Rule or Client Script running in the user's own session, but **not** for a scoped-app Script Include — scoped-app `GlideRecord` evaluates against the application's access rights, not the caller's. D2 is the fix: `GlideRecordSecure()` in both scripts, no other line changes. This is what makes the "no privilege escalation" claim in the architecture doc true rather than assumed.
 
-### D5 — No guard on `JSON.parse(result).message` (GetBulkCasesSummarization)
+### D3 — Empty `GlideRecord` table name (Search Account)
+**Severity: blocking for the account path. Nothing runs.**
+
+Search Account still calls `new GlideRecord('')` with an empty table name. Expected value: the account table (`customer_account`).
+
+Get Active Cases from Account no longer has this defect — `tableName` is set to `sn_customerservice_case` and reused for both the query and the summarizer.
+
+### D4 — No guard on `JSON.parse(result).message` (Get Active Cases from Account)
 **Severity: high. One bad case kills all 25.**
 
-A malformed or error response from `summarize()` throws and the whole tool call fails. Wrap per-case in try/catch and push an empty `sum` on failure — the prompt already handles an empty `sum` gracefully (§4, step 5.7), so a partial result is far better than a dead tool call.
+A malformed or error response from `summarize()` throws inside the `while` loop and the whole tool call fails, losing every case rather than one.
 
-### D6 — 25 sequential LLM calls in one tool execution
+Fix: wrap per-case and degrade to an empty `resume`. Rule 5.4 already handles an empty `resume` cleanly, so a partial result is far better than a dead tool call.
+
+```javascript
+try {
+  var summarizedConfigs = taskSummarize.fetchConfigs(tableName, casesGr.sys_id + '');
+  var result = taskSummarize.summarize(tableName, casesGr.sys_id + '', summarizedConfigs);
+  caseObj.resume = JSON.parse(result).message + '';
+} catch (e) {
+  caseObj.resume = '';
+}
+```
+
+### D5 — 25 sequential `summarize()` calls in one tool execution
 **Severity: performance. Likely first production complaint.**
 
-Each `summarize()` is a round trip and they run in series inside the loop. Expect transaction timeout, or a wait long enough that the Partner Manager assumes it hung.
+Each `summarize()` is an LLM round trip and they run in series inside the `while` loop. Expect transaction timeout, or a wait long enough that the Partner Manager assumes it hung.
 
-Action: drop `max_cases_per_account_summary` to 5-10 for the account path and treat 25 as a ceiling never actually reached.
+Action: drop `max_cases_per_account_summary` to 5-10 for the account path and treat 25 as a ceiling never actually reached. Note the script currently hardcodes `setLimit(25)` rather than reading the system property.
 
-### D7 — `caseObj.resume` is now dead weight (Get Active Cases from Account)
-**Severity: token cost.**
+### D6 — `setLimit` hardcoded, system property unused
+**Severity: low, but it silently voids a documented config surface.**
 
-No step in the current prompt reads `resume`. If it is populated, every case's raw summary lands in the scratchpad and is reprocessed on every subsequent ReAct turn for nothing.
+The architecture specifies `max_cases_per_account_summary` (default 25) as a system property. The script hardcodes 25. Read the property so D5 can be tuned without a code change.
 
-Action: remove `caseObj.resume` from the Tool 3 script entirely.
+> [!success] Closed in v4
+> `caseSumTemp` declared outside `forEach` — the bulk tool that had it is removed. `list_of_case_sysid` arriving as a string — same, removed. `caseObj.resume` as dead weight — `resume` is now the live source. Empty table name in Get Active Cases from Account — fixed in the current script.
 
 ---
 
 ## 10. Open items and decisions
 
-**O1 — Two summarization sources across the two paths.** `single_case` condenses fields returned by `PartnerCaseSummaryUtil`; `account_cases` condenses `TaskSummarize` output. The two paths can therefore describe the same case differently. Options: point Get Case Summary at `TaskSummarize` for one source of truth, or accept the divergence and document it. Not yet decided.
+**O1 — Two summarization sources across the two paths.** `single_case` condenses raw fields returned by `PartnerCaseSummaryUtil`; `account_cases` condenses `TaskSummarize` output. The two paths can therefore describe the same case differently, and a Partner Manager who checks one case both ways will see the discrepancy. Options: point Get Case Summary at `TaskSummarize` for one source of truth, or accept the divergence and document it. **Not yet decided — this is the main outstanding design question.**
 
-**O2 — Custom "case summary" Skill Kit skill — superseded, not deleted.** The single-line-JSON skill (one key, `resume`) was written to populate `caseObj.resume` per case. `TaskSummarize` now fills that role. Keep the skill prompt archived only if O1 resolves toward a custom skill rather than the platform summarizer.
+**O2 — Custom "case summary" Skill Kit skill — superseded, not deleted.** The single-line-JSON skill (one key, `resume`) was written to populate `caseObj.resume` per case. `TaskSummarize` now fills that role. Keep the skill prompt archived only if O1 resolves toward a custom skill rather than the platform summarizer. It remains the fallback if `TaskSummarize` output proves too verbose or too inconsistent to condense reliably.
 
-**O3 — Audit coverage is not prompt-enforceable.** `logInvocation()` fires inside the Script Include on all paths, which is the correct design, but it means no instruction in the agent prompt can guarantee AC-level audit coverage. Test 10 is the only check. Confirm the new `GetBulkCasesSummarization` path also logs.
+**O3 — Audit coverage is not prompt-enforceable.** `logInvocation()` fires inside the Script Include, which is the correct design, but it means no instruction in the agent prompt can guarantee AC-level audit coverage. Test 10 is the only check. Confirm all three tools log.
 
 **O4 — Update sets not yet created or confirmed active on the target instance.** Carried from [[partner-case-summary-agent-architecture#9. Dev Instructions — Build Order|the governance manifest]]. Operational, not a design defect.
 
 **O5 — NAP / VA licensing not confirmed.** Agent Workspace UI action remains the documented fallback surface.
 
+**O6 — `TaskSummarize` output shape not yet verified against a real case.** The prompt assumes `JSON.parse(result).message` is prose suitable for condensing. Log one payload before trusting rules 5.2-5.4 — if it arrives pre-structured or with headings, the condensation rules need adjusting.
+
 ---
 
 ## 11. Test plan impact
 
-Tests affected by the move to bulk summarization (full test list: [[partner-case-summary-agent-test-plan]]):
+Tests affected by the move to in-loop summarization (full test list: [[partner-case-summary-agent-test-plan]]):
 
 | Test | Impact |
 |---|---|
-| Test 3 (case exists, user lacks access → identical not-found) | Blocked by D4. Unchanged in intent. |
-| Test 4 (account flow happy path) | Now exercises three tools, not two. Add an assertion that each case number is paired with its own distinct summary — this is the D1 catch. |
-| Test 5 (excludes inactive states) | Unchanged. `addActiveQuery()` still governs. |
-| Test 6 (per-case ACL filtering) | Scope widened by D4: must now also assert that no summary **content** is returned for a case the user cannot see, not just that the case is absent from the list. |
-| Test 7 (ambiguous/misspelled account name → disambiguation) | Now satisfied by the Search Account + selection gate rather than in-script resolution. Add a case for a single candidate, to confirm the gate still fires. |
-| Test 12 (tools run in invoking user's session, not a service account) | Blocked by D4. Most load-bearing security assumption in the design. |
-| **New** — Bulk summarization partial failure | One case whose `summarize()` call fails should yield "No summary available for this case" for that entry and valid summaries for the rest. Depends on D5. |
-| **New** — Serialized list round trip | Confirm `${CASES_FOUND}` survives the orchestrator hop into GetBulkCasesSummarization intact. Depends on D3. |
+| Test 3 (case exists, user lacks access → identical not-found) | Blocked by D2. Unchanged in intent. |
+| Test 4 (account flow happy path) | Now exercises two tools plus the selection gate. Add an assertion that each case number carries its own distinct summary. |
+| Test 5 (excludes inactive states) | Unchanged. `active=true` in the encoded query still governs. |
+| Test 6 (per-case ACL filtering) | Scope widened by D2: must now also assert that no summary **content** is returned for a case the user cannot see, not just that the case is absent from the list. |
+| Test 7 (ambiguous/misspelled account name → disambiguation) | Now satisfied by Search Account plus the selection gate rather than in-script resolution. Add a single-candidate case to confirm the gate still fires. |
+| Test 12 (tools run in invoking user's session, not a service account) | Blocked by D2. Most load-bearing security assumption in the design. |
+| **New** — Partial summarization failure | One case whose `summarize()` call fails should yield "No summary available for this case" for that entry and valid summaries for the rest. Depends on D4. |
+| **New** — Latency ceiling | Time an account at the configured cap and confirm the transaction completes inside the NAP/VA timeout. Depends on D5. |
 
 ---
 
 ## 12. Change log
 
-**v3** — Account path becomes three tools: Search Account → user selection gate → Get Active Cases from Account → GetBulkCasesSummarization. Section 4 now only collects the case list; new section 5 summarizes it; presentation and End renumbered to 6 and 7. Presentation reads `sum`, not `resume`. `${CASES_SUMMARIES}` added. Position-matching prohibited; number-matching mandatory. Duplicate-summary validation added to catch D1.
+**v4** — `GetBulkCasesSummarization` removed. Per-case summarization moved inside the Get Active Cases from Account `while` loop and returned as `resume`. Prompt back to three tools and six sections: the separate summarization section is gone and its condensation rules (STATUS / NEXT STEPS / BLOCKERS, strip-not-add filtering, per-case isolation) now live in the presentation section, reading `resume` instead of `sum`. `${CASES_SUMMARIES}` removed; `${CASES_FOUND}` now carries `resume` and is read by the prompt. Number-pairing and duplicate-summary validations retained. Defect register reset to the current script.
+
+**v3** — Four tools: account path split into Search Account → selection gate → Get Active Cases from Account → GetBulkCasesSummarization. Superseded.
 
 **v2** — Account resolution split out to Search Account with a mandatory user selection gate, replacing in-script fuzzy resolution. Branch logic aligned to the four literal error strings the scripts actually return. Locked-variable discipline added for sys_id handling.
 
