@@ -14,6 +14,9 @@ date: 2026-07-22
 # Change Manifest
 Generated: 2026-07-22
 Project: partner-case-summary-agent
+
+> [!warning] Design has moved since this manifest was written — re-review needed
+> [[partner-case-summary-agent-prompt-package]] (2026-08-11) lands a v3 prompt/tool design: 4 tools instead of the 2 reviewed below, a new `GetBulkCasesSummarization` tool wrapping `sn_uxc_gen_ai.TaskSummarize`, and a confirmed defect (D4) that the §5 ACL claim reviewed as PASS-by-design below does not hold for scoped-app `GlideRecord` — it needs `GlideRecordSecure()`. This manifest's cross-scope-calls table and governance outcome below reflect the **pre-v3** design and have not been re-run against it. Treat "Governance Outcome: RE-REVIEWED AND CLEARED (iteration 2)" as stale until a fresh governance pass covers the v3 tool set and D4.
 Update Set: Partner Case Summary Agent — Scope and Roles / — Script Include and Properties / — Agent and Tools / — Surfacing (four sets, per §9 import order — none confirmed created/active yet)
 App Scope: x_u4_partner_case_summary
 

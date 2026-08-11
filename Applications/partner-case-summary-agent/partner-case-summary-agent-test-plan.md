@@ -21,6 +21,7 @@ date: 2026-07-22
 ## Related
 - [[partner-case-summary-agent]]
 - [[partner-case-summary-agent-architecture]]
+- [[partner-case-summary-agent-prompt-package]] — v3 tool design; §11 of that note maps Tests 3/4/5/6/7/12 to the new tool split and two new required tests (bulk-summarization partial failure, serialized-list round trip). Tests 3 and 12 below are additionally **blocked** by defect D4 (scoped-app `GlideRecord` doesn't inherit caller ACLs) until that fix lands.
 
 ---
 

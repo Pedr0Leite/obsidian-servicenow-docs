@@ -84,6 +84,7 @@ All confirmed active Unit4 employees.
 ## Related
 
 - [[partner-case-summary-agent-architecture]] — full technical design: tools, Script Include, ACL/role, surfacing decision, dev build order
+- [[partner-case-summary-agent-prompt-package]] — canonical v3 agent prompt, tool contracts, and a script defect register (D1-D7) including an ACL-enforcement correction to the architecture doc
 - [[partner-case-summary-agent-test-plan]] — test plan traced to these acceptance criteria
 - [[Proactive Customer Case Communicator]] — sibling Now Assist AI Agent solution on the same `sn_customerservice_case` table, similar human-in-the-loop / case-summarization pattern, worth comparing tool design against
 - [[na-ai-agents|Now Assist AI agents]]
