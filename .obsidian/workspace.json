@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Clippings/Agentic Evaluations FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Agentic Evaluations FAQ"
             }
           }
         ]
@@ -198,6 +198,10 @@
   },
   "active": "304503e2b6770b4a",
   "lastOpenFiles": [
+    "Clippings/Agentic Evaluation and Troubleshooting Guide.md",
+    "Clippings/Agentic Evaluations FAQ.md",
+    "Clippings/A Field Guide to Evaluating, Analyzing, and Debugging AI Agents on ServiceNow.md",
+    "CLAUDE.md",
     "graphify/sn-instance-scan/GRAPH_REPORT.md",
     "graphify/capacity-planner",
     "graphify/New folder",
