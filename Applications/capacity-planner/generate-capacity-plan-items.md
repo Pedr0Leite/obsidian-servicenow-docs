@@ -32,15 +32,15 @@ date: 2026-07-03
 | `u_type` | `initiative_type` | `enhancement` -> `Enhancement`. Anything else (`new_feature`, `new_application`, blank) -> `Project`. Confirmed against the actual `initiative_type` choice list (3 values) on `x_u4bsh_initiati_0_initiative`. |
 | `u_area` | `business_area_function`, resolved via lookup table `x_u4bsh_initiati_0_business_area_function` | **Not** a direct copy. `business_area_function` (36 raw choice values on the Initiative) is looked up against `x_u4bsh_initiati_0_business_area_function`, and that record's `business_area` field is used as the actual `u_area` value (10 target choices). This is how the many-to-one rollup (36 source values -> 10 target values) gets resolved correctly instead of guessed. |
 | `u_tshirt_size` | `high_level_sizing` | Clean 1:1 ordinal map: X-Small<1mo -> XS, Small 1mo -> S, Medium 2-3mo -> M, Large 3-5mo -> L, X-Large>5mo -> XL. |
-| `u_priority` | `priority` | **Assumption, not business-confirmed.** Source has 5 ranks (1-Exceptional .. 5-Minimal), target only has 4 non-BAU levels (P1-P4; P0 BAU is a category, never produced by this script). Currently collapses the two lowest source ranks into P4. |
-| `u_snow_status` | `status` | **Assumption, not business-confirmed.** Best-effort staged rollup from 43 raw workflow-stage values down to the 7 target values (New/Screening/Qualified/Pending/Approved/Completed/Canceled). No source `status` value currently maps to Completed/Canceled - those may come from a different source field (possibly `state`), unverified. |
+| `u_priority` | `priority` | **Confirmed 2026-08-10.** Identity - the source rank is already the target value (source 1 -> P1, 2 -> P2, and so on). No map, the raw value is copied straight through. P0 (BAU) is a category, not a rank, and is never produced by this script. |
+| `u_snow_status` | `state` | **Confirmed 2026-08-10.** Source is `state`, not `status`. Direct label map over the 7 `state` values - the Plan Item's stored status value *is* the Initiative state's label, e.g. Approved (2) -> `Approved`. Full map: Pending (-5), New (1), Screening (-3), Qualifying (-4), Approved (2), Completed (3), Canceled (7). |
 | `u_plan_status` | - | Left empty on purpose. |
 | `u_start`, `u_end` | - | Never touched - system-derived by `derive-initiative-dates`, ACL-locked. |
 
 ## Key gotchas
 
 - **Business rules are disabled for the insert** (`newGR.setWorkflow(false)`). The `sync-initiative-fields` Business Rule normally copies several of these same fields directly from the linked Initiative when `u_initiative` is set - but its copy logic doesn't know about the `x_u4bsh_initiati_0_business_area_function` lookup rollup for `u_area`, so if it ran it could silently overwrite this script's correctly-resolved value with a naive direct copy. Disabling workflow means this script is fully responsible for every field it sets - nothing is left for the BR to fill in.
-- **`u_priority` and `u_snow_status` mappings are unverified assumptions**, not confirmed by the business. Review `PRIORITY_MAP` and `SNOW_STATUS_MAP` in the script before trusting a real (non-dry-run) execution. Records that don't match any entry in these maps are left blank and logged (`UnmappedArea`/`UnmappedStatus` counters), never defaulted.
+- **`u_priority` and `u_snow_status` mappings are confirmed as of 2026-08-10** and no longer guesses. Priority is an identity copy (no map at all - `PRIORITY_MAP` was deleted). `SNOW_STATUS_MAP` now reads the source `state` field, not `status`, and maps its 7 values directly to their labels; the old 43-value `status` rollup is gone. A `state` value outside the 7 is still left blank and logged (`UnmappedStatus`), never defaulted.
 - **Lookup field name on `x_u4bsh_initiati_0_business_area_function` is assumed to be `name`** - verify this against the real table before running for real; the script queries `addQuery('name', businessAreaFunctionValue)`.
 - **`addActiveQuery()` assumes a standard `active` field** on `x_u4bsh_initiati_0_initiative`. Verify this table actually has one; if not, the active-record filter needs to be replaced with whatever field actually represents "active" on this table.
 - **Idempotent** - re-running skips any Initiative that already has a linked Plan Item (`u_initiative` treated as a unique key), so it's safe to run multiple times as mappings get corrected.
@@ -68,8 +68,8 @@ date: 2026-07-03
 //                       matched on source.business_area_function, using that record's
 //                       business_area field. NOT a direct copy of business_area_function.
 //   u_tshirt_size   <- ordinal map from source.high_level_sizing
-//   u_priority      <- ordinal map from source.priority (ASSUMPTION - see note)
-//   u_snow_status   <- staged rollup map from source.status (ASSUMPTION - see note)
+//   u_priority      <- source.priority, copied as-is (source rank N = target PN)
+//   u_snow_status   <- direct label map from source.state (7 values)
 //   u_plan_status   <- left empty on purpose (populated later by the status import set)
 //   u_start/u_end   <- never touched (system-derived, ACL-locked)
 //
@@ -92,62 +92,19 @@ var TSHIRT_MAP = {
     '1': 'XL'  // X-Large > 5 months
 };
 
-// priority (source) -> u_priority (target).
-// ASSUMPTION - not confirmed by the business. Source has 5 ranks, target only
-// has 4 non-BAU levels (P0 BAU is a category, not a rank, and is intentionally
-// never produced by this script). Currently collapses the two lowest source
-// ranks into P4. Adjust this map if the actual business rule differs.
-var PRIORITY_MAP = {
-    '5': '1', // 1 - Exceptional -> P1
-    '4': '2', // 2 - High         -> P2
-    '3': '3', // 3 - Medium       -> P3
-    '2': '4', // 4 - Low          -> P4
-    '1': '4'  // 5 - Minimal      -> P4
-};
+// priority (source) -> u_priority (target). Identity: source rank N -> PN.
+// No map needed - the stored values match, so the raw value is copied through.
 
-// status (source, 43 raw workflow-stage values) -> u_snow_status (target, 7 values).
-// ASSUMPTION - not confirmed by the business. Best-effort staged rollup based on
-// label semantics. Review before trusting this for a real run - this is the
-// single biggest unverified piece of this script. Values not present in this
-// map fall through to "unmapped" (left blank, logged).
+// state (source, 7 values) -> u_snow_status (target). Direct: the target's
+// stored value IS the source's label, e.g. Approved (2) -> 'Approved'.
 var SNOW_STATUS_MAP = {
-    'new': 'New',
-    'form_submission': 'New',
-
-    'further_clarification_required': 'Screening',
-    'awaiting_business_feedback': 'Screening',
-    'ai_preliminary_assessment': 'Screening',
-    'meeting_with_requester': 'Screening',
-    'preliminary_technical_evaluation': 'Screening',
-    'ai_board_review': 'Screening',
-    'ai_governance_evaluation': 'Screening',
-    'ai_decision_board': 'Screening',
-    'application_selection': 'Screening',
-
-    'architecture_review': 'Qualified',
-    'application_owner_review': 'Qualified',
-    'poc_review': 'Qualified',
-    'poc_in_execution': 'Qualified',
-    'high_level_solution_effort': 'Qualified',
-    'architecture_soft_selection': 'Qualified',
-    'detailed_it_requirements_newapp': 'Qualified',
-    'detailed_it_requirements': 'Qualified',
-    'detailed_tech_specification': 'Qualified',
-
-    'business_champion_review': 'Pending',
-    'business_champion_review_approval': 'Pending',
-    'steerco_approval': 'Pending',
-    'procurement_engagement': 'Pending',
-    'procurement_engagement_contract': 'Pending',
-    'final_business_timeline_approval': 'Pending',
-
-    'soft_planning': 'Approved',
-    'soft_planning_architecture': 'Approved',
-    'hard_planning': 'Approved',
-    'in_execution': 'Approved'
-    // No source 'status' value currently maps to Completed/Canceled - those
-    // appear to come from a different field (possibly 'state') on the source
-    // table. Verify before assuming Completed/Canceled are unreachable here.
+    '-5': 'Pending',
+    '1':  'New',
+    '-3': 'Screening',
+    '-4': 'Qualifying',
+    '2':  'Approved',
+    '3':  'Completed',
+    '7':  'Canceled'
 };
 
 // initiative_type (source) -> u_type (target)
@@ -198,7 +155,7 @@ while (sourceGR.next()) {
     var sourceBusinessAreaFunction = sourceGR.getValue('business_area_function') || '';
     var sourceHighLevelSizing = sourceGR.getValue('high_level_sizing') || '';
     var sourcePriority = sourceGR.getValue('priority') || '';
-    var sourceStatus = sourceGR.getValue('status') || '';
+    var sourceState = sourceGR.getValue('state') || '';
 
     // Idempotency check - skip if a Plan Item already references this initiative
     var existingGR = new GlideRecord('x_u4bsh_capmgmt_initiative');
@@ -215,8 +172,8 @@ while (sourceGR.next()) {
     var resolvedType = mapType(sourceInitiativeType);
     var resolvedArea = resolveArea(sourceBusinessAreaFunction);
     var resolvedTshirt = TSHIRT_MAP[sourceHighLevelSizing] || '';
-    var resolvedPriority = PRIORITY_MAP[sourcePriority] || '';
-    var resolvedSnowStatus = SNOW_STATUS_MAP[sourceStatus] || '';
+    var resolvedPriority = sourcePriority; // identity - source rank is already the target value
+    var resolvedSnowStatus = SNOW_STATUS_MAP[sourceState] || '';
 
     if (!resolvedArea) {
         gs.warn('[GeneratePlanItems] No area mapping found for ' + sourceNumber +
@@ -225,7 +182,7 @@ while (sourceGR.next()) {
     }
     if (!resolvedSnowStatus) {
         gs.warn('[GeneratePlanItems] No snow_status mapping found for ' + sourceNumber +
-            ' (status="' + sourceStatus + '") - u_snow_status will be left blank.');
+            ' (state="' + sourceState + '") - u_snow_status will be left blank.');
         unmappedStatus++;
     }
 
@@ -293,9 +250,10 @@ gs.info(
 //            ' | snow_status=' + g.u_snow_status + ' | plan_status="' + g.u_plan_status + '"');
 //    }
 //
-// 3. Confirm UnmappedArea/UnmappedStatus counts from the log - review those
-//    records manually since PRIORITY_MAP and SNOW_STATUS_MAP above are
-//    unconfirmed assumptions, not business-approved crosswalks.
+// 3. Confirm UnmappedArea/UnmappedStatus counts from the log. UnmappedStatus
+//    should now be 0 - SNOW_STATUS_MAP covers all 7 source 'state' values, so
+//    any hit means an unexpected state value worth investigating. UnmappedArea
+//    still reflects the business_area_function lookup, which is unchanged.
 // ============================================================
 ```
 
