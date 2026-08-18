@@ -1,7 +1,7 @@
 ---
 title: ERP/CRM 360 — build brief and session prompt
 status: brainstorm
-last_updated: 2026-08-10
+last_updated: 2026-08-18
 scope: x_u4bsh_erpcrm (proposed)
 ---
 
@@ -34,8 +34,9 @@ Two decisions are already made and are **not** open for re-litigation:
    Unavailable means unavailable. Build the equivalent.
 2. **The UI is React.** This is officially supported — see §4.
 
-Read §1 before designing anything. The licensing constraint reaches further than
-the one app, and it dictates the architecture.
+Read §1 and **§1A** before designing anything. §1 sets the licensing constraints;
+**§1A carries the Unit4 ERPx facts and overturns one of §1's conclusions**, names
+the first ERP, and identifies a Store app that may replace two whole layers.
 
 ---
 
@@ -49,7 +50,7 @@ against the corpus.
 | Remote Tables | `com.glide.script.vtable` | **"Active on the base instance"** | ✅ **Use freely** |
 | OAuth 2.0 | `com.snc.platform.security.oauth` | **"Active on the base instance"** | ✅ **Use freely** |
 | Transformation Service | `com.glide.transform` | auto-activated with Remote Tables | ✅ Use |
-| IntegrationHub | `com.glide.hub.integrations` | **"requires subscription"** | ❌ **Must not depend on** |
+| IntegrationHub | `com.glide.hub.integrations` | *"requires subscription"* — **but this org has it and uses it** (§1A) | ✅ **Available. Prefer it for outbound.** |
 | ERP Integration Framework | `sn_fcms_intg` | licensed (S2P chain) | ❌ Replacing it |
 | Customer Service | `com.sn_customerservice` | licensed — **assumed present** | ⚠️ Confirm, see below |
 | Now Assist for App Engine | — | licensed | ⚠️ Gates the agentic layer |
@@ -64,7 +65,14 @@ is available in several subscription packages"*.
 confirms Remote Tables `com.glide.script.vtable` auto-activates
 Transformation Service `com.glide.transform`.
 
-### What "no IntegrationHub" actually costs
+### If IntegrationHub were unavailable — what `RESTMessageV2` costs
+
+> [!warning] Superseded in part by §1A
+> This subsection was written assuming IntegrationHub was out of reach. The Unit4
+> compendium shows **23 ERP-specific IntegrationHub flows already running on
+> `unit4dev1`**, so the REST Step *is* available. Keep this table as the fallback
+> analysis and as the reference for anything that must stay scripted — but the
+> default for new outbound calls is now the REST Step, not `RESTMessageV2`.
 
 Outbound calls must use the **`RESTMessageV2` scripted API**, not the REST Step.
 `ServiceNowOfficialDocs/api-reference/web-services/c_OutboundRESTAuth.md`
@@ -94,9 +102,10 @@ Scripting notes:
 - A REST message configured with OAuth must not be configured to use a MID Server
   (`ServiceNowOfficialDocs/api-reference/web-services/t_ConfigureARESTMessageWithOAuth.md`).
 
-**This is the honest price of avoiding the licence.** It is payable, but it must
-be paid deliberately — a retry/backoff/circuit-breaker layer is a first-class
-component of this app, not a nicety bolted on later.
+**Even with IntegrationHub available, a retry/backoff layer is still required** —
+not because of a licensing gap, but because Unit4 enforces hard rate limits and
+returns HTTP 429 with `Retry-After` (§1A.4). The reason changed; the requirement
+did not.
 
 ### Confirm before Phase 1
 
@@ -107,6 +116,250 @@ component of this app, not a nicety bolted on later.
 - **Is a MID Server available?** Changes whether ERP endpoints can be reached
   on-prem at all.
 - **Is Now Assist for App Engine licensed?** Gates Phase 5 entirely.
+
+---
+
+## 1A. The ERP is Unit4 ERPx — and a lot already exists
+
+Source for this entire section:
+`other-applications/unit4-erp/Unit4_ERP_Integration_Compendium_ServiceNow.md`
+(internal Unit4 technical working document, compiled 17 August 2026, **Business /
+TLP Green** — treat as internal, review before wider distribution).
+
+It carries its own evidence discipline, which this brief inherits: *"Where a
+source itself uses words such as 'likely', 'appears', or flags a concern, that
+wording is preserved as an observation rather than converted into a confirmed
+fact."* Do the same. Several items below are flagged as unconfirmed and must not
+be promoted to fact without instance inspection.
+
+### 1A.1 What this answers
+
+Four of the §10 open questions are now answered, and one §1 conclusion is
+overturned.
+
+| Question | Answer |
+|---|---|
+| Which ERP first? | **Unit4 ERPx** (with ERP CR / ERP7 as the legacy line) |
+| Does it expose REST? | **Yes.** Outbound REST + inbound Scripted REST APIs are live |
+| MID Server? | **Not used on this path.** *"no MID Server is used for this cloud-to-cloud path"* |
+| IntegrationHub? | **Available and in production** — see 1A.2 |
+
+> [!danger] Correction to §1
+> The brief originally concluded IntegrationHub *"must not be depended on"*,
+> reasoning from the platform doc's *"requires subscription"*. That reasoning was
+> sound but the premise was wrong for this org: **23 ERP-specific IntegrationHub
+> flows are documented as running on `unit4dev1`**. The REST Step, its retry
+> policies, and spokes are all on the table. The `RESTMessageV2` fallback analysis
+> in §1 remains useful, but it is no longer the constraint.
+
+### 1A.2 What is already built on `unit4dev1`
+
+Architecture, per the compendium: *"connects ServiceNow to Unit4 ERPx using
+outbound REST messages, inbound Scripted REST APIs and Integration Hub flows."*
+
+| Direction | Mechanism | Documented use |
+|---|---|---|
+| ServiceNow → ERPx | Outbound REST | Discovery, user tracking, employee reads/updates, document operations |
+| ERPx → ServiceNow | Scripted REST APIs | Attachments, change requests, customer contact management, customer emails |
+| Orchestration | IntegrationHub / Flow Designer | Provisioning, tracking, operations, support, release, decommissioning |
+| Bulk/external → ServiceNow | Import Sets + Transform Maps | Entitlements, accounts, departments, legal entities, install base, services, Salesforce cases |
+| ServiceNow → Unit4 Business World | SOAP | Add/update employee contract/rates flexi-field rows |
+
+**23 ERP-specific flows** are stated to exist; the compendium names ~21 and flags
+that *"the source groups several names and does not expose full definitions"* —
+trigger tables, conditions, inputs, outputs and error handling are incomplete.
+
+**Inbound Scripted REST base paths** — note the `u4bsh` namespace, which confirms
+the `x_u4bsh_` scope prefix chosen in §3:
+
+```
+/api/u4bsh/unit4_attachments
+/api/u4bsh/unit4_change_request
+/api/u4bsh/ccm
+/api/u4bsh/unit4_customers_emails
+```
+
+### 1A.3 Master data is already flowing — this changes the data model
+
+**25 transform maps** are stated to exist; 9 are named. The named ones land
+directly on the CSM objects this app was going to join against:
+
+| Transform map | Target table |
+|---|---|
+| Unit4 Entitlement V3 | `service_entitlement` |
+| Unit4 - Cutomer Account *(sic)* | `customer_account` |
+| Unit4 Populate departments | `cmn_department` |
+| Unit4 - imp Legal Entity | **`x_u4bsh_finance_le`** |
+| Unit4-Installbase-Sold Products | `sn_install_base_m2m_installed_product` |
+| Unit4 Application Services V2 | `cmdb_ci_service_discovered` |
+| Unit4 - Transform Sales Force Cases | `sn_customerservice_case` |
+| Unit4 - Import SF case Comments & Worknotes | `sn_customerservice_case` |
+| Unit4 - product/version | CSM Data Lookup |
+
+Consequences for §3:
+
+1. **A legal entity table already exists: `x_u4bsh_finance_le`.** The proposed
+   `u_legal_entity` field on `x_u4bsh_erpcrm_erp_system` must be a **reference to
+   it**, not a free-text string. Do not create a second legal-entity table.
+2. **Accounts are already imported from Unit4.** Before building
+   `x_u4bsh_erpcrm_account_xref`, inspect `customer_account` — the `Unit4 -
+   Cutomer Account` map may already carry the ERP customer key, which would make
+   the cross-reference a lookup rather than a data-entry exercise. **This is the
+   single highest-value thing to check in Phase 0.**
+3. **Install base and entitlements are populated.** The "what do they own / what
+   are they entitled to" half of the 360 view may already be answerable from local
+   data, narrowing this app's job to the financial half.
+4. Only 9 of 25 maps are named — *"Field-level and transformation-script
+   completeness cannot be confirmed."* Enumerate the rest on the instance.
+
+> [!note] This does not contradict "never store ERP financial data"
+> Master data (accounts, departments, entitlements, install base) is legitimately
+> replicated by these transform maps. The §9 rule is about **transactional
+> financial data** — invoices, POs, balances, credit status. Those stay in remote
+> tables. Keep the distinction explicit.
+
+### 1A.4 Unit4 rate limits and timeouts — the retry layer is now specified
+
+These turn the hand-wavy "write our own retry" into concrete numbers.
+
+**API limits (general Unit4 SaaS, excluding ERPx):**
+
+| Limit | Environment | Value |
+|---|---|---|
+| HTTP requests/minute | PROD, PREV, ACPT01, ACPT02 | **500/min per environment** |
+| HTTP requests/minute | ACPT03-11 | 1,500/min shared |
+| Inbound/outbound API size | All | 350 MB/min |
+
+On breach: *"subsequent requests are suspended for one minute"*, with documented
+responses of **HTTP 429, `Retry-After`, connection closure request and TCP
+termination**. Unit4's own recommended handling: *"usage monitoring, batching,
+caching, throttling, exponential backoff and honoring Retry-After."*
+
+**Timeouts that bound the UI:**
+
+| Limit | Value |
+|---|---|
+| ERPx web application request timeout | 110 s |
+| ERPx Public API Gateway request timeout | 240 s |
+| ERP CR/ERP7 Web REST API timeout | 120 s |
+| ERP CR/ERP7 SOAP API timeout | 120 s |
+| Recommended REST API concurrency | **10** |
+| Recommended SOAP call frequency | 60/min |
+
+**Design consequences, non-negotiable:**
+
+- The connector **must honour `Retry-After`**, not just back off on its own
+  schedule. A fixed backoff that ignores the header is a wrong implementation.
+- **Concurrency cap of 10** — a remote table query fanning out per row breaches
+  this immediately. This is the hard evidence behind §9 rule 5 ("batch, never
+  loop").
+- A remote table with `Cache TTL = 0` on a busy list view is a rate-limit
+  incident waiting to happen. **Set a non-zero TTL for invoices and POs.** Reserve
+  TTL=0 for credit status, and even there, consider a short TTL.
+- 500 req/min sounds generous until a 50-row list refreshes per user. Model the
+  worst case before choosing TTLs.
+
+**Connectivity:** TLS 1.2 minimum, HTTPS on 443, WebSockets required for SignalR,
+firewall must allow `unit4cloud.com` and subdomains.
+
+> [!warning] Environment matching is a hard Unit4 rule
+> *"PROD ↔ PROD; matching non-production types; non-production ↔ production is not
+> supported or allowed."* Enforce this in the Connection Alias configuration —
+> a dev ServiceNow instance must never point at Unit4 PROD.
+
+### 1A.5 Authentication — use Connection Aliases, not raw profile sys_ids
+
+The existing implementation authenticates through **Connection Aliases**:
+*"Password (2-Way) through Connection Alias"* for employee reads, with endpoints
+built from `{Connection Alias base URL}`.
+
+**Amend §3:** `x_u4bsh_erpcrm_erp_system.u_auth_profile` should reference a
+**Connection Alias**, not a `sys_auth_profile_basic` / `oauth_entity_profile`
+sys_id directly. That matches the house pattern, keeps environment separation in
+one place, and makes the PROD/non-PROD rule enforceable.
+
+Documented endpoint shapes, for reference:
+
+```
+GET   {baseUrl}/objects/employees?companyId={companyId}&filter=personId eq {employeeId}&select={select}
+PATCH {baseUrl}/employees/{employeeId}?companyId={companyId}
+      Content-Type: application/json-patch+json
+```
+
+### 1A.6 Open security findings — inherit these, do not repeat them
+
+The compendium's §13 lists live concerns in the existing integration. Treat them
+as both risk context and a standard this app must not fall below:
+
+| Finding | Evidence status |
+|---|---|
+| ERPx Tracking has OAuth 2.0 selected but **no OAuth profile assigned** | *"Explicitly stated in integration summary"* |
+| ERPx Discovery endpoint has **no authentication configured** | *"Explicitly stated"* |
+| Credentials passed **in the SOAP body** (Username, Client/Company ID, Password) | *"Explicitly shown in envelope"* |
+| Employee REST uses **Password (2-Way)** | *"Explicitly stated"* |
+| `ERPxAppFilter` script include is **inactive**; purpose described as *likely*; possible routing/filtering side effects | Functional purpose presented as *likely* |
+| **Employee endpoints carry HR / identity / bank fields** | Recommendation: least privilege, field minimisation, safe logging |
+
+That last row matters for §9 rule 8. This app deals in financial data about
+customers; the existing integration deals in **personal data about employees**.
+If any employee-facing endpoint is reused, the ACL and logging bar is higher, not
+equal.
+
+### 1A.7 Zero Copy Connector for ERP — evaluate before building L2/L3
+
+This is the biggest build-vs-buy question and it did not exist in the brief before.
+
+**Zero Copy Connector for ERP** (formerly ERP Data Hub / ERP Canvas) is a
+ServiceNow scoped application that:
+
+- *"Creates models containing ERP data in remote tables and extraction tables"*
+- Supports **read, update and create** through ERP models
+- *"Remote tables run an associated script against an external data source"*
+- *"Extraction tables use scheduled queries and transform tables for larger
+  datasets and refresh needs"*
+- *"mirrors ERP data and does not replicate it into the ServiceNow AI Platform"*
+- Is consumable from **UI Builder and Workspace Builder** (and Studio, Creator
+  Studio, Workflow Studio, Table Builder)
+- Ships **content packs** with predefined models and process extensions
+
+**That is L2 and most of L3, bought rather than built.** If it is entitled, large
+parts of this brief become configuration.
+
+Installation facts: ServiceNow Store, admin role required; *"Confirm product and
+dependent-application entitlements before requesting installation"*; property
+`sn_erp_integration.enableModelModification` must be enabled in the correct scope
+to edit/clone models; role `sn_erp_integration.erp_admin` configures the
+system-of-record connection; connections may be direct or via load balancer.
+
+**Two blockers, both explicit:**
+
+1. **Entitlement is unconfirmed** — same class of question as the S2P framework.
+   Check it in Phase 0.
+2. **Domain separation is documented as unsupported.**
+3. The compendium's own gap list flags: *"Zero Copy documentation is generic and
+   SAP-oriented. No retrieved source explicitly confirms a Unit4 ERP content pack
+   or connection implementation."*
+
+**Do not assume it works with Unit4.** But do not build L2/L3 by hand before
+answering the question either — that is potentially weeks of avoidable work.
+**Phase 0 must produce a yes/no on Zero Copy entitlement and Unit4 compatibility.**
+
+### 1A.8 Gaps the compendium itself flags
+
+Do not treat the inventory above as complete. Verbatim from its §15:
+
+- Only 9 of 25 transform maps named — field-level completeness unconfirmed
+- Flow count says 23, definitions not exposed — trigger tables, conditions,
+  inputs/outputs and error handling incomplete
+- *"Inbound Scripted REST APIs lack resource/method/schema detail"* — request and
+  response JSON, version paths, ACLs and error models unavailable
+- Document-send action lacks endpoint and payload
+- Employee rates documentation differs between REST read and SOAP contract write
+- SOAP endpoint is dynamic — actual host/path and MID Server routing not shown
+
+Every one of those needs instance inspection. `sn-instance-scan` exists in this
+vault and may be the right tool for enumerating the flows, maps and Scripted REST
+APIs rather than reading them by hand.
 
 ---
 
@@ -519,6 +772,8 @@ Queries worth running verbatim before designing each layer:
 | L4 | `capacity planner known issues architectural debt N+1` | `personal` |
 | L5 | `AI Agent Studio build custom AI agents tools` | `servicenow` |
 | CSM | `CSM data model account contact consumer sold product install base` | `servicenow` |
+| Unit4 | `Unit4 ERPx integration endpoints transform maps limits` | `personal` |
+| Unit4 | `Zero Copy Connector ERP remote tables extraction tables` | `general` |
 
 Use `sn_lexical` for exact identifiers — `sys_script_vtable`, `v_table`,
 `RESTMessageV2`, `oauth_entity_profile`, `sn_install_base_sold_product`,
@@ -530,11 +785,18 @@ to see a document's shape first. **Prefer `sn_search` over `sn_research`** —
 measured 2026-08-05, `sn_research` retrieves worse (recall 0.345 vs ~0.53) at
 3–11s cost.
 
+**The Unit4 compendium is in the corpus** at
+`other-applications/unit4-erp/Unit4_ERP_Integration_Compendium_ServiceNow.md`
+(source class `custom-app`, so reachable via `personal` and `general`). Read §1A
+here first, then go to the compendium for endpoint-level detail.
+
 Known gaps — the corpus does **not** answer these, so do not invent:
-- this org's actual ERP landscape, endpoints or credentials
-- the ERP-side customer master schema
-- whether a MID Server exists
-- IntegrationHub / Now Assist entitlement status
+- credentials, and the production (non-sandbox) endpoint equivalents
+- the Unit4 customer-master schema, and whether its key is already on
+  `customer_account`
+- Zero Copy Connector entitlement, and whether a Unit4 content pack exists
+- Now Assist for App Engine entitlement status
+- the 16 unnamed transform maps and the unexposed flow definitions
 
 ---
 
@@ -566,11 +828,20 @@ instance under load.
 A phase is complete only when its gate has **pasted evidence** — a command and its
 real output, a screenshot, or a test result. Not "it should work".
 
-**Phase 0 — Feasibility.**
-Confirm the three items at the end of §1. Confirm `com.glide.script.vtable` is
-active (`sys_db_object` shows the Remote Table flag; `sys_script_vtable` exists).
-Pick **one** ERP and **one** object (recommend: invoices) as the vertical slice.
-→ **Gate:** a written answer to all three, plus the named first ERP.
+**Phase 0 — Feasibility.** *(Expanded 2026-08-18 — this phase now carries the
+decisions that determine whether L2/L3 get built at all.)*
+1. **Zero Copy Connector for ERP: entitled? Unit4-compatible?** (§1A.7) If yes,
+   re-scope L2/L3 to configuration before proceeding.
+2. **Does `customer_account` already carry the Unit4 customer key?** (§1A.3)
+3. Confirm `com.glide.script.vtable` is active (`sys_db_object` shows the Remote
+   Table flag; `sys_script_vtable` exists).
+4. Confirm `com.sn_customerservice` and Now Assist for App Engine entitlement.
+5. Enumerate the real transform maps, flows and Scripted REST APIs on the
+   instance — the compendium names only a subset (§1A.8).
+6. Pick **one** object (recommend: invoices) as the vertical slice. The ERP is
+   already decided: **Unit4 ERPx**.
+→ **Gate:** written answers to 1–5, pasted evidence for 3–5, and a named object.
+**Do not start Phase 1 until question 1 is answered** — a yes changes the plan.
 
 **Phase 1 — Control tower (L1).**
 Four stored tables, ACLs, list views, a React or UI Builder admin page.
@@ -643,18 +914,33 @@ exercise, not an assumption.
 
 ## 10. Open questions for the first working session
 
-1. Which ERP first, and does it expose REST? (If SOAP-only, L2 changes shape.)
-2. MID Server: available? Note the constraint that OAuth-configured REST messages
-   cannot route through a MID Server.
-3. What is the ERP customer-master key, and how does an admin discover it when
-   populating `account_xref` — manual, or a lookup helper?
-4. Cache TTL per object: invoices vs live credit status have different staleness
-   tolerances. Credit status may need TTL=0. Decide and record.
-5. Expected row volumes — does anything exceed 1000 rows and need Enhanced
+**Answered by §1A** — do not re-ask:
+- ~~Which ERP first, and does it expose REST?~~ → **Unit4 ERPx, REST, live**
+- ~~MID Server available?~~ → **Not used on this cloud-to-cloud path**
+- ~~Is IntegrationHub available?~~ → **Yes, 23 ERP flows in production**
+
+**Still open, in priority order:**
+
+1. **Is Zero Copy Connector for ERP entitled, and does it work with Unit4?**
+   (§1A.7) This is now the highest-value question in the brief — a yes potentially
+   removes L2 and most of L3. The compendium flags that its documentation is
+   *"generic and SAP-oriented"* with no confirmed Unit4 content pack.
+2. **Does `customer_account` already carry the Unit4 customer key?** (§1A.3) The
+   `Unit4 - Cutomer Account` transform map may have solved the correlation problem
+   already. Inspect before building `account_xref`.
+3. Cache TTL per object, modelled against the **500 req/min** ceiling and the
+   **concurrency-10** recommendation (§1A.4) — not chosen by feel.
+4. Expected row volumes — does anything exceed 1000 rows and need Enhanced
    Capacity?
-6. Is write-back to the ERP ever in scope, or is this read-only forever?
-7. Who is the primary user — CSM agent, finance, or account manager? The Case
+5. Is write-back to the ERP ever in scope, or is this read-only forever? Note Zero
+   Copy supports *"read, update and create"*, so the answer is no longer forced by
+   the technology.
+6. Who is the primary user — CSM agent, finance, or account manager? The Case
    panel and the 360 workspace serve different people. Design for one first.
+7. What do the remaining **16 unnamed transform maps** and **~2 unnamed flows**
+   do? (§1A.8) Consider `sn-instance-scan` rather than manual enumeration.
+8. Is `com.sn_customerservice` active, and is Now Assist for App Engine licensed?
+   (Carried from §1.)
 
 ---
 
@@ -669,6 +955,11 @@ exercise, not an assumption.
 | **Financial data leaking to the customer portal** | High | ACL from day one; portal explicitly denied; `bug-hunter` pass on ACLs |
 | **Rebuilding CSM by accident** | Medium | §3 rejection criterion, enforced at the `governance` gate |
 | **L5 built before L1–L4 are solid** | Medium | Agentic layer is last and optional. An AI agent over an unreliable data layer produces confident wrong answers — the exact failure mode Comp AI's evidence principle exists to prevent |
+| **Building L2/L3 by hand when Zero Copy Connector already does it** | **High** | Phase 0 must answer the entitlement/compatibility question first (§1A.7). This is now the largest single source of wasted effort in the plan |
+| **Breaching Unit4's 500 req/min limit and getting suspended for a minute** | **High** | Non-zero Cache TTL, batching, concurrency ≤10, and honouring `Retry-After` (§1A.4). A rate-limit suspension looks exactly like an outage to an agent |
+| **Duplicating a legal-entity table when `x_u4bsh_finance_le` exists** | Medium | Reference it (§1A.3). Same rejection criterion as the CRM Foundation objects |
+| **Pointing a non-production ServiceNow instance at Unit4 PROD** | High | Explicit Unit4 rule; enforce via Connection Alias configuration (§1A.4) |
+| **Treating the compendium's inventory as complete** | Medium | It names 9 of 25 maps and flags six other gaps itself (§1A.8). Verify on the instance |
 
 ---
 
@@ -689,8 +980,22 @@ After retrieval and one licensing constraint:
 - **React:** officially supported via Fluent `UiPage`. The user's instinct was
   right and the platform agrees.
 
-This is doable. The hard part is not the technology — it is holding the scope to
-one ERP and one object until the vertical slice actually works.
+**Revised 2026-08-18, after the Unit4 compendium (§1A):** the plan is more
+tractable than it looked and the scope is smaller. IntegrationHub is available,
+the ERP is known and REST-based, no MID Server is needed, and master data already
+flows into `customer_account`, `service_entitlement` and the install base. The
+remaining job is genuinely the financial half of the 360 view.
+
+But two things must be settled before a line of code:
+
+1. **Zero Copy Connector for ERP** may already be L2 + most of L3. Answer the
+   entitlement and Unit4-compatibility question first (§1A.7).
+2. **Check whether `customer_account` already holds the Unit4 key** before
+   building a cross-reference table for it (§1A.3).
+
+Get both wrong and this becomes weeks of rebuilding things that exist. The hard
+part was never the technology — it is finding out what is already there, and the
+compendium just moved that a long way forward.
 
 ---
 
