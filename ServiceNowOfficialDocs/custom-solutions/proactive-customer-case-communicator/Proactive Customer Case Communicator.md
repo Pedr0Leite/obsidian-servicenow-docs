@@ -16,7 +16,7 @@ scope: sn_csm_ai_agents
 platform: now-assist-panel
 status: pilot
 created: 2026-07-16
-last_updated: 2026-07-24
+last_updated: 2026-08-07
 ---
 
 # Proactive Customer Case Communicator
@@ -60,7 +60,8 @@ Two entry points converge on one shared agent evaluation → draft → review �
 | [[Resolve routing decision and template selection]] | Agent Tool 2 (script/routing) | Deterministic gates + template pick |
 | Add response to additional comments | Agent Tool 3 (write) | `_addCaseComment()` + `_incrementAutoUpdateCount()` |
 | Proactive Customer Case Communicator | AI Agent | Worknote synthesis, semantic vars, draft, approval flow |
-| [[Stale Case Scheduled Job]] | Scheduled Job | Queries stale cases, fires agent via subflow |
+| [[stale-case-summarization-skill-notes\|Stale Case Summarization]] (Now Assist skill) | AI Skill (called from `_getStaleCaseSum()`) | Generates the `7.10.2` body — see [[#8. Template Registry]] |
+| [[Stale Case Scheduled Job]] | Scheduled Job (`ProactiveCasecommunication-MonitorCase.script.js`) | 5 independent priority/link-state rules, each with its own stale-day threshold — see [[#4. Stale Case Path]] |
 | Proactive Case Outreach – Agent Invocation | Subflow | `sn_csm_ai_agents.proactive_case_outreach__agent_invocation` |
 
 > [!note] Architecture evolved 2-tool → 3-tool
@@ -112,14 +113,40 @@ Fires on `problem` insert/update. Exit conditions and gates (grounded in the com
 
 Time-driven safety net. See [[Stale Case Path]] and [[Stale Case Scheduled Job]].
 
-The job query (committed script) selects cases that are:
+> [!info] Rewritten — single threshold → 5 priority/link-state rules (as of the script currently deployed)
+> The job no longer runs one blanket `u_last_comment_from_unit4 <= now - staleDays` query. It now runs **5 independent rules**, each its own `GlideRecord` query against a shared base filter, so per-rule row counts and skip reasons are traceable in the log individually.
 
-- `active = true`, `assigned_to` NOT NULL, `category IN (0,1)`, `state != 6`
-- `u_last_comment_from_unit4 <= now - staleDays` (gone quiet)
-- **AND** (`u_auto_update_count < threshold` **OR** `u_auto_update_threshold_reached <= now - cooloffDays`) → i.e. under the no-change cap, or past cooloff
-- optionally scoped by `case.filter.accounts` and `case.test.cases`
+**Shared base filter** (AND-prefix on every rule):
 
-For each hit it calls `sn_fd.FlowAPI.startSubflowQuick(subflow, {case_number, run_as_user: assigned_to, trigger_timestamp})`.
+```text
+active=true ^ assigned_toISNOTEMPTY ^ categoryIN0,1 ^ stateNOT IN3,6,18
+[^ accountIN<case.filter.accounts>]        (optional)
+[^ numberIN<case.test.cases>]              (optional)
+^ (u_auto_update_count<threshold OR u_auto_update_threshold_reached<=now-cooloffDays)
+```
+
+**Per-rule stale-day thresholds:**
+
+| Rule | Condition | Stale window | Property |
+|---|---|---|---|
+| 1 | P1/P2, **no** linked Problem | Monday/Thursday review cycle **only** — no run on other days | `sn_csm_ai_agents.u4.case.update.stale.threshold.days` |
+| 2 | P1/P2, linked Problem, `problem.state = 104` (Fix in Progress) | 14 days | `sn_csm_ai_agents.u4.case.p1p2.linked.fip.stale.days` |
+| 3 | P1/P2, linked Problem, any other state | 7 days | `sn_csm_ai_agents.u4.case.p1p2.linked.stale.days` |
+| 4 | P3/P4, **no** linked Problem | 10 days | `sn_csm_ai_agents.u4.case.p3p4.nolink.stale.days` |
+| 5 | P3/P4, linked Problem | 28 days | `sn_csm_ai_agents.u4.case.p3p4.linked.stale.days` |
+
+Rule 1 is the only one gated by day-of-week (`gdt.getDayOfWeekLocalTime()`, 1=Monday, 4=Thursday); rules 2–5 run every time the job fires.
+
+**Per-case skip logic — now duplicated into the job itself**, not left solely to the BR/routing tool:
+
+1. **Problem resolution-code guard** — if the case has a linked Problem with `resolution_code` `risk_accepted` or `duplicate`, skip.
+2. **Work Item gate** — if the linked Problem's `state` is `104` (Fix in Progress) or `106` (Resolved) and no `u_work_item` (via `parent`) exists, skip.
+3. **Active-execution dedup** — if an `sn_aia_execution_plan` for agent `db969eb8870ffed0d939a7573cbb35b8` already exists with `objective CONTAINS <case number>` and `state IN (ready, in_progress)`, skip (prevents duplicate stale-path fires while a prior execution is still running). The **Problem Update Path is exempt** from this check — it always fires regardless.
+
+For each surviving case: `sn_fd.FlowAPI.startSubflowQuick(subflow, {case_number, run_as_user: assigned_to, trigger_timestamp})`, wrapped in try/catch (`gs.error` on failure, loop continues). Job logs a per-rule match count and a final `totalNumberOfRecProccessed` / `totalNumberSkipped` tally.
+
+> [!bug] Triple-duplicated WI/resolution-code gating
+> The resolution-code guard and the Work Item gate now exist in **three** places: [[AIPF_Flag Cases on Problem State or Work]] (BR, Problem Update Path), [[Resolve routing decision and template selection]] (`WI_REQUIRED`/`wi_required`), and now this scheduled job (Stale Case Path). Three independent authorities enforcing the same rule — patch one, miss the other two. See [[#13. Risks & Open Questions]].
 
 > [!warning] Volume / batching is an open post-pilot item
 > Pilot ≈ 30–40 qualifying cases per run across 2 accounts. No batching/pacing/cap exists — a large simultaneous qualifying set could spike platform load and flood a consultant's NAP. See [[#13. Risks & Open Questions]].
@@ -134,9 +161,10 @@ Central utility in `sn_csm_ai_agents`. Methods:
 |---|---|
 | `_getCaseProblemDetails(caseNumber)` | Fetch case + problem, compute vars, build templates, return everything. **Side effect:** clears `u_problem_updated`; if it was set, also resets `u_auto_update_count = 0` and clears `u_auto_update_threshold_reached`. |
 | `_computeVariables(...)` | Derives `PROBLEM_LINKED`, `IS_FIRST_LINKAGE`, `RESOLUTION_CODE`, `PROBLEM_STATE`, `WI_REQUIRED` (FIP/Resolved), `CURRENT_WORKAROUND_VALUE`, `WORKAROUND_PREVIOUSLY_SHARED`, `WORKAROUND_PENDING`. As of 2026-07-24, also derives **`WORKAROUND_ONLY_LATEST_CHANGE`** — see [[#17. Changelog]]. |
-| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). As of 2026-07-24, greeting/sign-off use **first-name only** via new `cnFirst`/`caFirst` helpers (contact-name-first, case-assignee-first) — see [[#17. Changelog]]. |
+| `_buildTemplates(...)` | Returns the [[Template Registry]] `7.1`–`7.10.2` with deterministic placeholders pre-filled (`greeting`, `sign_off`, case/product/problem numbers). As of 2026-07-24, greeting/sign-off use **first-name only** via new `cnFirst`/`caFirst` helpers (contact-name-first, case-assignee-first). As of **2026-08-07 (evening)** `7.1`'s body is **also** skill-generated via `_getStaleCaseSum()` — "Option A", see [[#17. Changelog]]. |
 | `_incrementAutoUpdateCount(caseNumber, resetToZero)` | `reset` → count 0 + clear stamp; else count+1 and stamp `u_auto_update_threshold_reached = now` when `count >= threshold`. |
 | `_addCaseComment(caseNumber, commentText)` | Writes to `comments` (customer-visible) with appended `\n\n[Note: AI-assisted message reviewed by consultant]`. |
+| `_getStaleCaseSum(caseNumber)` | Generates the `7.10.2` **and (since 2026-08-07 evening) `7.1`** body by invoking the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] Now Assist skill (`sn_one_extend.OneExtendUtil.executeSecure`, `capabilityId: '5fd7239187aecb10d939a7573cbb3556'`, `skillConfigId: 'b3d7639187aecb10d939a7573cbb3589'`), passing `case_number`, and returning the skill's `response` **string as-is**. Returns `''` on failure (logged via `gs.error`, no throw). ⚠️ Previously returned `JSON.stringify(skillResponse)`, which wrapped every generated body in literal double quotes inside the customer comment — fixed 2026-08-07, see [[#17. Changelog]]. |
 
 ### Tool 1 wrapper script (literal, as configured on the AI Agent Tool)
 
@@ -225,7 +253,7 @@ Writer tool — posts the approved message, then updates the [[Counter and Coolo
 2. **Fallback anchor** = state-change work-note `"has been updated to state - <state>"`.
 3. First-linkage is `true` **iff no AI comment** (matched by the disclaimer string) exists with `sys_created_on >= anchor`.
 
-`comments_history` (last state-template style sent) and `worknote_history` (last 5 AI comments, for worknote dedup) are pulled the same way, with `[code]…[/code]` and `⚠` lines stripped. `WORKAROUND_PREVIOUSLY_SHARED` scans the last 10 AI comments for the plain-text workaround substring.
+`comments_history` (last state-template style sent) is pulled the same way. `case_details.prior_ai_comments` holds the **last 3** customer-visible comments (AI + human, not 5), with `[code]…[/code]` blocks and `⚠` lines stripped — used **only** for worknote/workaround dedup (Step 4/Step 2 of the agent prompt), not for state derivation. `WORKAROUND_PREVIOUSLY_SHARED` scans the last 10 AI comments for the plain-text workaround substring.
 
 > [!tip] Why journal-mining instead of a flag
 > There's no dedicated "last template sent" field — state history is reconstructed from the customer-visible journal, keyed off the AI disclaimer marker. Fragile if the disclaimer string or worknote wording changes; see maintainability risk.
@@ -252,11 +280,11 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 
 ### Gate order
 
-1. **Gate 1 — no problem linked** → `STOP_GATE1`; template `7.2` if case state contains "Awaiting", else `7.1`.
+1. **Gate 1 — no problem linked** → `STOP_GATE1`; template `7.2` if case state contains "Awaiting", else `7.1`. `problem_linked` is normalised through a `_boolish()` helper (`true`/`false`/`empty`/`unknown`) rather than a raw `=== false || === 'false'` check — an **`unknown`** shape (present but uninterpretable) now hard-**`STOP`**s with a review message instead of silently falling through into the 6A/6B/6C classification below, which previously produced a bogus "template could not be determined / `6B`" stop on cases that should have received `7.1`/`7.2`.
 2. **Resolution guard** → `Risk Accepted` / `Duplicate` → `STOP` (no template, stop_reason surfaced in NAP).
 3. **Closed + Canceled** → `6B` / `7.8`.
-4. **Gate 3 — WI required, none linked** → `STOP` with review message.
-5. **Workaround-only-change override (added 2026-07-24)** — if `WORKAROUND_ONLY_LATEST_CHANGE` is true (the latest Problem edit touched *only* the workaround field, and the value is genuinely new/not previously shared), template `7.4` fires **directly**, bypassing the 6A/6B/6C decision below entirely — regardless of what state-based bookkeeping (`IS_FIRST_LINKAGE`/`implied_state`) would otherwise compute. See [[#17. Changelog]] for why this was needed and how the variable is derived.
+4. **Gate 3 — WI required** → proceeds only on positive confirmation that a Work Item exists; fails **CLOSED** via the same `_boolish()` normalisation as Gate 1 (hardened 2026-08-07): `wi_required` `unknown` → `STOP`; `wi_required = true` with `has_work_item = false` → `STOP` (no WI); `has_work_item` anything other than a confirmed `true` (i.e. `empty`/`unknown`) → `STOP` as unconfirmed. Previously raw string comparisons could fail **open** in both directions — see [[#17. Changelog]] for the live-incident writeup.
+5. ~~**Workaround-only-change override** (added 2026-07-24)~~ — **removed, apparently unintentionally, during the 2026-08-07 Script Include refactor.** The override block (fire `7.4` directly when `WORKAROUND_ONLY_LATEST_CHANGE` is true, bypassing 6A/6B/6C) existed in the pre-refactor inline Tool 2 wrapper but was dropped from `caseRoutingPCCCUtil.resolve()` in the rewrite — confirmed by diffing the old inline script against the new Script Include. `caseUpdateAgentUtil.script.js` still computes `WORKAROUND_ONLY_LATEST_CHANGE`, and the [[#18. Current Agent Prompt|current agent prompt]]'s Step 5 still passes `workaround_only_latest_change` into the tool call — but `resolve()` now silently ignores that input entirely. The `6C` → `7.4` path today is reached only via the ordinary `workaroundPending` check inside the 6A/6B/6C branch below. **Open decision: restore the override, or retire the now-dead input/variable.** See [[#17. Changelog]] and [[#13. Risks & Open Questions]].
 
 ### Decision after gates
 
@@ -275,7 +303,7 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 | 6A | Root Cause Analysis | `7.6` |
 | 6A | Fix in Progress | `7.7` |
 | 6A | Resolved/Closed + Fix Applied | `7.5` |
-| 6B state changed | New | `7.3` |
+| 6B state changed | New / **Assess** (Assess added 2026-08-07) | `7.3` |
 | 6B | Root Cause Analysis | `7.6` |
 | 6B | Fix in Progress | `7.7` |
 | 6B | Resolved + Fix Applied / Closed + Fix Applied | `7.5` |
@@ -284,198 +312,291 @@ Tool 2 = [[Resolve routing decision and template selection]]. Pure script, **no 
 | 6C | new worknote available | `7.9` |
 | 6C | prior was Resolved (Canceled/Fix Applied) | `7.10.1` (follow-up) |
 | 6C | nothing new | `7.10.2` (no significant change) |
-| any | undetermined | `STOP` (safety fallback) |
+| **6B_DEGRADED** | Problem linked but `problem_state` **blank** | `7.10.2` + `gs.warn` (added 2026-08-07) |
+| any | undetermined (state present but unrecognised) | `STOP` (safety fallback) |
 
 `append_*` flags let a state template also carry a workaround/worknote in one combined message (e.g. state body + `[WORKAROUND]`), while `7.4`/`7.9` own their token directly.
 
-> [!bug] Open bug — 6B missing an 'Assess' check that 6A has (confirmed still open 2026-07-24)
-> `6A` has an explicit `New || Assess` branch → template `7.3`. **`6B` has no equivalent `Assess` branch and no generic fallback** — a Problem sitting at `Assess` that routes through `6B` (i.e. not first-linkage, state changed) currently falls through to the safety-fallback `STOP`, with **no customer message sent at all**. This is the same gap already documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section (written 2026-07-16, mirrors the live tool's actual behavior rather than silently "fixing" the test) — not a newly discovered issue, just re-confirmed live and flagged here as still unresolved as of 2026-07-24.
+> [!tip] Exhaustive version of this table
+> [[routing-decision-table]] expands the gate order and this matrix into a full equivalence-class table — every routing outcome, every `_boolish` state, the five Stale Case Path rules, the no-Problem paths, and the combinations that are structurally unreachable. Use it when checking a specific input combination rather than the general shape of the logic.
 
-### Tool 2 wrapper script (literal, as configured on the AI Agent Tool)
+> [!success]- Resolved 2026-08-07 — the 6B/'Assess' gap (open since 2026-07-16)
+> `6A` had an explicit `New || Assess` branch → template `7.3`. **`6B` had no equivalent `Assess` branch and no generic fallback**, so a Problem sitting at `Assess` that routed through `6B` (not first-linkage, state changed) fell through to the safety-fallback `STOP` with **no customer message sent at all**. Documented as a "known asymmetry" in [[Proactive Customer Case Communicator - ATF Test Suite]]'s T2 section since 2026-07-16 — the test mirrored the live tool's actual behaviour rather than silently "fixing" it.
+>
+> **Fix:** `6B`'s first branch now mirrors `6A`'s:
+> ```javascript
+> if (problemState === 'New' || problemState === 'Assess') {
+>     selectedTemplate = '7.3';
+> }
+> ```
+> ⚠️ The T2 ATF case that asserted a `STOP` on `6B` + `Assess` now fails by design. Update the assertion to expect `7.3`; do not revert the branch.
 
-Pure script tool, no LLM call inside it — matches the "deterministic first" design principle. The 6B bug above is visible directly in this code: the `routingDecision === '6B'` branch below has no `New || Assess` case, unlike `6A`'s explicit one.
+> [!info] Degraded routing — `6B_DEGRADED` (added 2026-08-07)
+> Past Gate 1, `problem_linked` is confirmed `'true'`. A **blank `problem_state`** at that point is therefore a data-population fault, not a real Problem state — every previously observed instance was the Gate 1 defect leaking unlinked cases into the classification, and that path is now closed.
+>
+> Rather than send nothing, these route to `7.10.2` under a distinct `routing_decision` of **`6B_DEGRADED`**, with a `gs.warn` naming the original route. Safe content-wise: `7.10.2`'s body is generated by the Stale Case Summarization skill from case comments and work notes, so it asserts nothing about the Problem's state.
+>
+> Two deliberate limits:
+> - A state that is **present but unrecognised** still `STOP`s. That is a new or unmapped Problem state and must surface rather than silently receiving "no significant change".
+> - `6A` keeps its plain `STOP` for unrecognised states. `6A` means first linkage, where a blank state is a much stronger signal that something upstream is broken.
+>
+> The distinct label keeps these countable in reporting instead of masquerading as normal `6B` routing. **A rising `6B_DEGRADED` count is an input-pipeline alarm, not a routing outcome to accept.**
+
+### Tool 2 — `caseRoutingPCCCUtil` (Script Include)
+
+Refactored 2026-08-07 from an inline AI Agent Tool wrapper into a Script Include, so it is unit-testable and version-controlled. Still a pure function — no reads, no writes, no LLM call inside it — matching the "deterministic first" design principle. The AI Agent Tool now calls `new caseRoutingPCCCUtil().resolve(inputs)` and returns its output unchanged.
+
+> [!bug]- Resolved 2026-08-07 (evening) — the AI Agent Tool was still executing the **old inline copy**
+> Creating the Script Include did not change routing behaviour, because the AI Agent Tool "Resolve routing decision and template selection" still held its **own pre-refactor inline script**. `resolve()` existed, was correct, and was never called. Live evidence: case `CS0991191` (no Problem linked) produced the pre-fix stop verbatim —
+> `Template could not be determined for problem_state: , resolution_code: , routing_decision: 6B`
+> — a message the hardened Gate 1 can no longer emit for an unlinked case. Two independent tells confirmed the tool script was the old one: no `_boolish()` anywhere in it, and the workaround-only-change override still present (the Script Include never carried that block).
+> **Fix:** the tool script was replaced with a thin delegating wrapper:
+> ```javascript
+> (function(inputs) {
+>     return new caseRoutingPCCCUtil().resolve(inputs);
+> })(inputs);
+> ```
+> **Lesson:** a Script Include being present, correct and ATF-green says nothing about what the agent actually runs. After any Tool 2 change, verify the *tool record's* script field, not just the Script Include.
+
+The 6B bug above is still visible directly in this code: the `routingDecision === '6B'` branch has no `New || Assess` case, unlike `6A`'s explicit one.
+
+> [!warning] Every input arrives as a **string**, and it is populated upstream
+> The tool's input variables are filled before `resolve()` runs — they are not read straight off the record. A value can therefore arrive as `'false'`, `'False'`, `' false '`, `'No'`, `'null'`, or blank, and the same execution can contain an unresolved placeholder token where a value should be. **Any comparison here that tests `===` against a single literal is a latent bug.**
+> As of 2026-08-07 (evening) **all six** boolean-ish inputs — `problem_linked`, `wi_required`, `has_work_item`, `is_first_linkage`, `workaround_pending`, `new_worknote_available` — are normalised through `_boolish()` at the top of `resolve()`, and every downstream comparison is a plain boolean. No bare-literal comparisons remain in the routing tool.
+> This is still a shield, not a cure: the underlying defect is the agent emitting literal `"null"` strings and mixed-case booleans into tool inputs. See [[#13. Risks & Open Questions]].
 
 ```javascript
-(function(inputs) {
-    // only string inputs are allowed
-    // return outputs object where the keys in it are understandable by LLM
+var caseRoutingPCCCUtil = Class.create();
+caseRoutingPCCCUtil.prototype = {
+    initialize: function() {},
 
-    var isFirstLinkage = inputs.is_first_linkage;
-    var impliedState = inputs.implied_state || null;
-    var problemState = inputs.problem_state || '';
-    var resolutionCode = inputs.resolution_code || '';
-    var workaroundPending = inputs.workaround_pending;
-    var newWorknoteAvailable = inputs.new_worknote_available;
-    var lastTemplateStyle = inputs.last_template_style || null;
+    /**
+     * Deterministic routing + template selection for the Proactive Customer
+     * Case Communicator. Pure function: no reads, no writes — decision only.
+     *
+     * @param {Object} inputs
+     *   problem_linked, case_state, is_first_linkage, implied_state,
+     *   problem_state, resolution_code, workaround_pending,
+     *   new_worknote_available, wi_required, has_work_item, last_template_style
+     * @return {Object} { success, routing_decision, selected_template,
+     *   append_workaround, append_worknote, fill_worknote_token,
+     *   fill_workaround_token, [stop_reason] }
+     */
+    resolve: function(inputs) {
+        inputs = inputs || {};
 
-    // Gate 1 — No problem linked
-    var problemLinked = inputs.problem_linked;
+        var isFirstLinkage = inputs.is_first_linkage;
+        var impliedState = inputs.implied_state || null;
+        var problemState = inputs.problem_state || '';
+        var resolutionCode = inputs.resolution_code || '';
+        var workaroundPending = inputs.workaround_pending;
+        var newWorknoteAvailable = inputs.new_worknote_available;
+        var lastTemplateStyle = inputs.last_template_style || null; // reserved
 
-    if (problemLinked === false || problemLinked === 'false') {
-        var caseState = inputs.case_state || '';
-        if (caseState.indexOf('Awaiting') !== -1) {
-            return {
-                success: true,
-                routing_decision: 'STOP_GATE1',
-                selected_template: '7.2',
-                append_workaround: false,
-                append_worknote: false,
-                fill_worknote_token: false,
-                fill_workaround_token: false
-            };
+        // Gate 1 — No problem linked.
+        //
+        // Inputs arrive as upstream-populated strings, so this value shows up as
+        // 'false', 'False', ' false ', 'No', 'null' or blank depending on who
+        // filled it. The previous test (=== false || === 'false') matched only
+        // two of those; every other shape fell through into the 6A/6B/6C
+        // classification below, which assumes a Problem exists — producing a
+        // 'Template could not be determined ... routing_decision: 6B' stop and
+        // NO customer message, on a case that should have received 7.1 or 7.2.
+        // Normalise first, then branch on all three outcomes explicitly.
+        var problemLinked = this._boolish(inputs.problem_linked);
+
+        if (problemLinked === 'unknown') {
+            // Present but uninterpretable. Do not guess: guessing 'not linked'
+            // would tell a customer no Problem is linked when one may well be.
+            return this._stop('problem_linked could not be interpreted as a boolean ' +
+                '(received: ' + JSON.stringify(inputs.problem_linked) + '). ' +
+                'No message sent — fix the input before retrying.');
+        }
+
+        if (problemLinked === 'false' || problemLinked === 'empty') {
+            var caseState = inputs.case_state || '';
+            if (caseState.indexOf('Awaiting') !== -1) {
+                return this._out('STOP_GATE1', '7.2');
+            }
+            return this._out('STOP_GATE1', '7.1');
+        }
+
+        // Resolution guard — Risk Accepted / Duplicate
+        if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
+            resolutionCode.toLowerCase() === 'risk accepted' ||
+            resolutionCode.toLowerCase() === 'duplicate') {
+            return this._stop('No communication required — Problem resolution code is ' +
+                resolutionCode + '. Case update skipped.');
+        }
+
+        // Gate 2b — Closed + Canceled (before WI gate)
+        if (problemState === 'Closed' && resolutionCode === 'Canceled') {
+            return this._out('6B', '7.8');
+        }
+
+        // Gate 3 — Work Item required but not linked.
+        //
+        // This gate protects a customer message, so it must fail CLOSED. The
+        // previous test (=== true / === 'false' on raw inputs) failed open in
+        // both directions: wi_required 'True' read as not-required and skipped
+        // the gate entirely, and has_work_item 'False' read as not-false, which
+        // also skipped it — either one releasing a message on a Problem with no
+        // Work Item linked. Normalise, then require positive confirmation.
+        //
+        // An ABSENT wi_required stays "not required" on purpose: per the Business
+        // Rule in §3, a Work Item is only demanded for states 104 (Fix in
+        // Progress) and 106 (Resolved), and every New/Assess/RCA path omits the
+        // input entirely. Treating blank as "required" would silence those.
+        var wiRequired = this._boolish(inputs.wi_required);
+        var hasWorkItem = this._boolish(inputs.has_work_item);
+
+        if (wiRequired === 'unknown') {
+            return this._stop('wi_required could not be interpreted as a boolean ' +
+                '(received: ' + JSON.stringify(inputs.wi_required) + '). ' +
+                'No message sent — fix the input before retrying.');
+        }
+
+        if (wiRequired === 'true') {
+            if (hasWorkItem === 'false') {
+                return this._stop('No Work Item linked to Problem. Communication cannot be ' +
+                    'sent until a Work Item is linked. Please review.');
+            }
+            if (hasWorkItem !== 'true') {
+                // 'empty' or 'unknown'. A required Work Item that cannot be
+                // confirmed is not a confirmed Work Item — do not release a
+                // customer message on the strength of an unverified gate.
+                return this._stop('A Work Item is required for this Problem state but ' +
+                    'has_work_item could not be confirmed (received: ' +
+                    JSON.stringify(inputs.has_work_item) + '). ' +
+                    'No message sent — fix the input before retrying.');
+            }
+        }
+
+        // Routing decision
+        var routingDecision;
+        if (isFirstLinkage === true || isFirstLinkage === 'true') {
+            routingDecision = '6A';
+        } else if (!impliedState || impliedState === 'null') {
+            routingDecision = '6B';
+        } else if (problemState === impliedState) {
+            routingDecision = '6C';
         } else {
-            return {
-                success: true,
-                routing_decision: 'STOP_GATE1',
-                selected_template: '7.1',
-                append_workaround: false,
-                append_worknote: false,
-                fill_worknote_token: false,
-                fill_workaround_token: false
-            };
+            routingDecision = '6B';
         }
-    }
 
-    if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
-        resolutionCode.toLowerCase() === 'risk accepted' || resolutionCode.toLowerCase() === 'duplicate') {
+        // Template selection
+        var selectedTemplate;
+
+        if (routingDecision === '6A') {
+            if (problemState === 'New' || problemState === 'Assess') {
+                selectedTemplate = '7.3';
+            } else if (problemState === 'Root Cause Analysis') {
+                selectedTemplate = '7.6';
+            } else if (problemState === 'Fix in Progress') {
+                selectedTemplate = '7.7';
+            } else if ((problemState === 'Resolved' || problemState === 'Closed') &&
+                resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            }
+        } else if (routingDecision === '6B') {
+            if (problemState === 'New') {
+                selectedTemplate = '7.3';
+            } else if (problemState === 'Root Cause Analysis') {
+                selectedTemplate = '7.6';
+            } else if (problemState === 'Fix in Progress') {
+                selectedTemplate = '7.7';
+            } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
+                selectedTemplate = '7.8';
+            } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
+                selectedTemplate = '7.5';
+            }
+        } else if (routingDecision === '6C') {
+            if (workaroundPending === true || workaroundPending === 'true') {
+                selectedTemplate = '7.4';
+            } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
+                selectedTemplate = '7.9';
+            } else if (impliedState === 'Resolved' &&
+                (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
+                selectedTemplate = '7.10.1';
+            } else {
+                selectedTemplate = '7.10.2';
+            }
+        }
+
+        // Safety fallback — never return undefined template
+        if (!selectedTemplate) {
+            return this._stop('Template could not be determined for problem_state: ' +
+                problemState + ', resolution_code: ' + resolutionCode +
+                ', routing_decision: ' + routingDecision);
+        }
+
+        var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') &&
+            selectedTemplate !== '7.4';
+        var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') &&
+            selectedTemplate !== '7.9';
+
+        return {
+            success: true,
+            routing_decision: routingDecision,
+            selected_template: selectedTemplate,
+            append_workaround: appendWorkaround,
+            append_worknote: appendWorknote,
+            fill_worknote_token: selectedTemplate === '7.9',
+            fill_workaround_token: selectedTemplate === '7.4'
+        };
+    },
+
+    // ---- helpers (keep return shape identical to the original tool) ----
+
+    /**
+     * Normalise an upstream-populated tool input to one of four explicit
+     * states: 'true' | 'false' | 'empty' | 'unknown'.
+     *
+     * Deliberately returns strings, not a boolean-or-null, so that "absent"
+     * and "not a boolean" stay distinguishable at the call site. Collapsing
+     * them is what let a blank value be read as a legitimate answer.
+     */
+    _boolish: function(v) {
+        if (v === true) return 'true';
+        if (v === false) return 'false';
+        if (v === null || v === undefined) return 'empty';
+
+        var s = String(v).trim().toLowerCase();
+        if (s === '' || s === 'null' || s === 'undefined') return 'empty';
+        if (s === 'true' || s === 'yes' || s === 'y' || s === '1') return 'true';
+        if (s === 'false' || s === 'no' || s === 'n' || s === '0') return 'false';
+        return 'unknown';
+    },
+
+    _out: function(decision, template) {
+        return {
+            success: true,
+            routing_decision: decision,
+            selected_template: template,
+            append_workaround: false,
+            append_worknote: false,
+            fill_worknote_token: false,
+            fill_workaround_token: false
+        };
+    },
+
+    _stop: function(reason) {
         return {
             success: true,
             routing_decision: 'STOP',
             selected_template: null,
-            stop_reason: 'No communication required — Problem resolution code is ' + resolutionCode + '. Case update skipped.',
+            stop_reason: reason,
             append_workaround: false,
             append_worknote: false,
             fill_worknote_token: false,
             fill_workaround_token: false
         };
-    }
+    },
 
-    // Gate 2b — Closed + Canceled
-    if (problemState === 'Closed' && resolutionCode === 'Canceled') {
-        return {
-            success: true,
-            routing_decision: '6B',
-            selected_template: '7.8',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    // Gate 3 — Work Item required but not linked
-    var wiRequired = inputs.wi_required;
-    var hasWorkItem = inputs.has_work_item;
-
-    if ((wiRequired === true || wiRequired === 'true') &&
-        (hasWorkItem === false || hasWorkItem === 'false')) {
-        return {
-            success: true,
-            routing_decision: 'STOP',
-            selected_template: null,
-            stop_reason: 'No Work Item linked to Problem. Communication cannot be sent until a Work Item is linked. Please review.',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    // Workaround-only-change override — if the most recent Problem edit touched only
-    // the workaround field (no state/work_notes change alongside or after it) and a
-    // new, unshared workaround is present, communicate it directly regardless of the
-    // state-based 6A/6B/6C classification below.
-    var workaroundOnlyLatestChange = inputs.workaround_only_latest_change;
-    if ((workaroundOnlyLatestChange === true || workaroundOnlyLatestChange === 'true') &&
-        (workaroundPending === true || workaroundPending === 'true')) {
-        return {
-            success: true,
-            routing_decision: '6C',
-            selected_template: '7.4',
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: true
-        };
-    }
-
-    var routingDecision;
-    if (isFirstLinkage === true || isFirstLinkage === 'true') {
-        routingDecision = '6A';
-    } else if (!impliedState || impliedState === 'null') {
-        routingDecision = '6B';
-    } else if (problemState === impliedState) {
-        routingDecision = '6C';
-    } else {
-        routingDecision = '6B';
-    }
-
-    // TEMPLATE SELECTION
-    var selectedTemplate;
-
-    if (routingDecision === '6A') {
-        if (problemState === 'New' || problemState === 'Assess') {
-            selectedTemplate = '7.3';
-        } else if (problemState === 'Root Cause Analysis') {
-            selectedTemplate = '7.6';
-        } else if (problemState === 'Fix in Progress') {
-            selectedTemplate = '7.7';
-        } else if ((problemState === 'Resolved' || problemState === 'Closed') && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        }
-    } else if (routingDecision === '6B') {
-        if (problemState === 'New') {
-            selectedTemplate = '7.3';
-        } else if (problemState === 'Root Cause Analysis') {
-            selectedTemplate = '7.6';
-        } else if (problemState === 'Fix in Progress') {
-            selectedTemplate = '7.7';
-        } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
-            selectedTemplate = '7.8';
-        } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
-            selectedTemplate = '7.5';
-        }
-    } else if (routingDecision === '6C') {
-        if (workaroundPending === true || workaroundPending === 'true') {
-            selectedTemplate = '7.4';
-        } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
-            selectedTemplate = '7.9';
-        } else if (impliedState === 'Resolved' &&
-            (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
-            selectedTemplate = '7.10.1';
-        } else {
-            selectedTemplate = '7.10.2';
-        }
-    }
-    // Safety fallback — prevents undefined template
-    if (!selectedTemplate) {
-        return {
-            success: true,
-            routing_decision: 'STOP',
-            selected_template: null,
-            stop_reason: 'Template could not be determined for problem_state: ' + problemState + ', resolution_code: ' + resolutionCode + ', routing_decision: ' + routingDecision,
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    }
-
-    var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') && selectedTemplate !== '7.4';
-    var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') && selectedTemplate !== '7.9';
-
-    return {
-        success: true,
-        routing_decision: routingDecision,
-        selected_template: selectedTemplate,
-        append_workaround: appendWorkaround,
-        append_worknote: appendWorknote,
-        fill_worknote_token: selectedTemplate === '7.9',
-        fill_workaround_token: selectedTemplate === '7.4'
-    };
-})(inputs);
+    type: 'caseRoutingPCCCUtil'
+};
 ```
 
 ---
@@ -489,7 +610,7 @@ Built by `_buildTemplates()`. `reset_count` drives [[Counter and Cooloff]] behav
 
 | ID | reset_count | Use | Greeting |
 |---|---|---|---|
-| `7.1` | skip | No problem linked, case In Progress — "actively reviewing" | Dear |
+| `7.1` | skip | No problem linked, case In Progress — body generated by the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] skill (`_getStaleCaseSum()`) since 2026-08-07 evening; was static "actively reviewing" filler | Dear |
 | `7.2` | skip | No problem linked, Awaiting Customer Info — follow-up | Dear |
 | `7.3` | true | Problem identified (New/Assess) | Dear |
 | `7.4` | true | Workaround shared `[WORKAROUND]` | Dear |
@@ -499,9 +620,31 @@ Built by `_buildTemplates()`. `reset_count` drives [[Counter and Cooloff]] behav
 | `7.8` | true | Working-as-designed / closed, no fix | Dear |
 | `7.9` | true | Worknote update `[WORKNOTE]` | Dear |
 | `7.10.1` | false | Follow-up after fix applied | Dear |
-| `7.10.2` | false | No significant change | Dear |
+| `7.10.2` | false | No significant change — body generated by the [[stale-case-summarization-skill-notes\|Stale Case Summarization]] skill (`_getStaleCaseSum()`), not static text | Dear |
 
 Placeholders still LLM/agent-filled: `[MEANINGFUL_TITLE]`, `[RELEASE_VERSION]`, and the synthesised `[WORKAROUND]` / `[WORKNOTE]` bodies.
+
+> [!info] `7.10.2` body is now skill-generated, not canned
+> The static filler ("I wanted to provide a quick update on your case...") is commented out in `_buildTemplates()` and replaced by `this._getStaleCaseSum(cs)` — a synchronous call to the [[stale-case-summarization-skill-notes|Stale Case Summarization]] Now Assist skill via `sn_one_extend.OneExtendUtil.executeSecure`. See [[#5. `caseUpdateAgentUtil` (Script Include)]].
+
+> [!info] `7.1` is now skill-generated too — "Option A" (2026-08-07 evening)
+> **Requirement:** give stale cases with **no linked Problem** the same case-specific message quality that `7.10.2` gives problem-linked ones, instead of repeating identical static "we are actively reviewing" filler every stale cycle.
+>
+> Two options were evaluated:
+>
+> | | Option A — reuse `7.1` | Option B — route `7.10.2` without a Problem |
+> |---|---|---|
+> | Routing change | none | new Gate 1 third branch + a "prior outreach" input |
+> | Counter impact | none (`skip` preserved) | `7.10.2` is `reset_count = false` → no-Problem cases enter the counter with **no reset path**, since full reset only happens via the Problem Update Path. Permanent cooloff-restamp loop. |
+> | Agent prompt | none | Step 7.2's hardcoded ID→`reset_count` map must be replaced by reading `templates[SELECTED_TEMPLATE].reset_count` |
+> | Doc churn | one registry row | gates, matrix, decision table, registry |
+> | Effort | one line | five changes |
+>
+> **Option A was chosen.** `7.1`'s body in `_buildTemplates()` now calls `this._getStaleCaseSum(cs)`. Customer-visible outcome is identical to `7.10.2`; the template ID stays `7.1`, so `reset_count = skip` is preserved and no-Problem stale cases keep surfacing every run rather than accumulating toward cooloff.
+>
+> **Consequence to remember:** `7.10.2` remains structurally unreachable without a linked Problem — it lives only in the `6C` branch, and `6C` is only reachable past Gate 1. Reporting that counts "stale no-change messages" by template ID will see these as `7.1`, not `7.10.2`. Revisit Option B only if `7.10.2` is needed as a distinct reporting/NAP label, and solve the counter-reset gap first.
+>
+> The Stale Case Summarization skill needed **no change** for this: it takes only `case_number`, and its prompt's status buckets already cover non-Problem cases ("Waiting for customer information or action", "Waiting for CSS or another internal support team", and the "No clear recent progress found" fallback).
 
 ---
 
@@ -548,7 +691,11 @@ Custom fields on `sn_customerservice_case`:
 
 | Property | Default | Purpose |
 |---|---|---|
-| `sn_csm_ai_agents.u4.case.update.stale.threshold.days` | 2 | Days quiet before pickup |
+| `sn_csm_ai_agents.u4.case.update.stale.threshold.days` | 2 | Days quiet before pickup — **now scoped to Rule 1 only** (P1/P2, no linked Problem, Mon/Thu review). See [[#4. Stale Case Path]]. |
+| `sn_csm_ai_agents.u4.case.p1p2.linked.fip.stale.days` | 14 | Rule 2 — P1/P2, linked Problem, `state = 104` (Fix in Progress) |
+| `sn_csm_ai_agents.u4.case.p1p2.linked.stale.days` | 7 | Rule 3 — P1/P2, linked Problem, any other state |
+| `sn_csm_ai_agents.u4.case.p3p4.nolink.stale.days` | 10 | Rule 4 — P3/P4, no linked Problem |
+| `sn_csm_ai_agents.u4.case.p3p4.linked.stale.days` | 28 | Rule 5 — P3/P4, linked Problem |
 | `sn_csm_ai_agents.u4.case.auto.update.threshold` | 3 | Max no-change messages before cooloff |
 | `sn_csm_ai_agents.case.auto.update.cooloff.days` | 7 | Cooloff window after threshold |
 | `sn_csm_ai_agents.case.filter.accounts` | — | Restrict to accounts (optional; empty = all) |
@@ -570,15 +717,34 @@ Custom fields on `sn_customerservice_case`:
 
 ### Verified from code
 - **Journal-string coupling** — every history/first-linkage query depends on the exact disclaimer string `[Note: AI-assisted message reviewed by consultant]` and worknote phrasing (`"has been associated with the Case"`, `"has been updated to state -"`). Change the wording anywhere and detection silently breaks.
-- **WI check duplicated** — Work-Item existence is enforced in both [[AIPF_Flag Cases on Problem State or Work]] (state `104/106`) and [[Resolve routing decision and template selection]] (`WI_REQUIRED`). Two authorities → patch one, miss the other.
-- **No batching in [[Stale Case Scheduled Job]]** — every qualifying case fires a subflow in one `while` loop. No cap, pacing, or backpressure.
+- **WI check now triplicated** — Work-Item existence is enforced in [[AIPF_Flag Cases on Problem State or Work]] (state `104/106`), [[Resolve routing decision and template selection]] (`WI_REQUIRED`), **and** now the [[Stale Case Scheduled Job]] itself (`ProactiveCasecommunication-MonitorCase.script.js`, same `104/106` check). Three authorities → patch one, miss the other two.
+- **Resolution-code guard also triplicated** — Risk Accepted / Duplicate skip logic exists in the BR, the routing tool, and now the scheduled job as well.
+- **Hard-coded execution-plan agent sys_id** — the scheduled job's active-execution dedup check hard-codes `agent = 'db969eb8870ffed0d939a7573cbb35b8'` inline. An agent clone/re-publish that changes this sys_id silently breaks dedup (cases could double-fire) with no error surfaced.
+- **No batching in [[Stale Case Scheduled Job]]** — every qualifying case fires a subflow in one `while` loop per rule (5 rules now, not 1). No cap, pacing, or backpressure.
+- **Tool inputs are not trustworthy as delivered** (found 2026-08-07) — a live execution carried `new_worknote_available: "{organize_general_knowledge}.4"`, an unresolved placeholder token, alongside blanks in every other Problem field. Inputs are populated upstream and arrive as strings; the router cannot assume they are well-formed. There is no validation step between population and `resolve()`.
+- **Workaround-only-change override silently dropped in the 2026-08-07 refactor** — see the flag in [[#7. Deterministic Routing]] gate 5 and the changelog entry below. Not yet decided whether to restore it or retire the now-dead `workaround_only_latest_change` input/variable.
 
 ### From prior notes (unverified here)
 - **Stuck execution / silent exclusion** — if an execution hangs, is the case ever re-picked? No self-healing documented.
 - **NAP shows internal variable** — consultants occasionally saw `{ "NEW_PROBLEM_WORKNOTE_AVAILABLE": true }` instead of the draft; likely approval-step content mapping, not draft generation. Confirm which output variable is bound to the NAP confirmation. **Still open as of 2026-07-24** — not addressed by this session's fixes (those targeted `[RELEASE_VERSION]`/`[WORKAROUND]`/`[WORKNOTE]` token leakage specifically, a related but distinct symptom — see [[#17. Changelog]]).
 - **Large-context / token limits** — long case histories may exceed model/exec limits; consider summarising older worknotes.
 - **Assigned-user eligibility** — locked/inactive user or missing Now Assist CSM group membership → execution error. Needs daily monitoring.
-- **6B missing an Assess-state branch** (found 2026-07-24) — see the bug callout in [[#7. Deterministic Routing]]. Not yet fixed.
+
+### Resolved 2026-08-07 — see [[#17. Changelog]]
+- ~~Gate 1 missed every `problem_linked` value except boolean `false` and the exact string `'false'`~~ — fixed via `_boolish()` normalisation; blank, missing, `'False'`, `' false '`, `'No'`, `'0'` and `'null'` now all trip the gate.
+- ~~Gate 3 failed **open** on `wi_required` / `has_work_item`~~ — fixed; the gate now requires positive confirmation that a Work Item exists before letting a message through, instead of only stopping on two exact literals.
+- ~~The two fixes above were not actually live~~ (evening) — the AI Agent Tool still ran its own pre-refactor inline script; `resolve()` was never called. Tool script replaced with a delegating wrapper. See the bug callout in [[#7. Deterministic Routing]].
+- ~~Every skill-generated body reached the customer wrapped in literal double quotes~~ (evening) — `_getStaleCaseSum()` returned `JSON.stringify(skillResponse)`; the `JSON.stringify` was removed so the `response` string is returned as-is.
+- ~~No-Problem stale cases received identical static filler every cycle~~ (evening) — `7.1`'s body is now skill-generated ("Option A", see [[#8. Template Registry]]).
+- ~~Bare-literal boolean comparisons on `is_first_linkage` / `workaround_pending` / `new_worknote_available`~~ (evening) — all three now normalise through `_boolish()`. No bare-literal boolean comparisons remain in `resolve()`.
+- ~~`6B` missing an `Assess` branch~~ (evening, open since 2026-07-16) — `6B`'s first branch now mirrors `6A`'s `New || Assess` → `7.3`.
+- ~~A linked Problem with a blank `problem_state` sent nothing~~ (evening) — now routes to `7.10.2` under `6B_DEGRADED` with a `gs.warn`.
+
+### New / raised 2026-08-07 (evening)
+- **Skill blast radius widened without evals** — `_getStaleCaseSum()` now backs `7.1` as well as `7.10.2`, so the Stale Case Summarization skill writes to *every* stale no-Problem case, not just problem-linked no-change ones. That skill has **no automated evaluations run**, **no role restrictions**, and its `GetRecordInfo` tool uses `GlideRecord` where the Skill Kit editor explicitly warns to use `GlideRecordSecure`. Volume up, assurance unchanged.
+- **One skill call per `_buildTemplates()` invocation** — `_getStaleCaseSum()` is synchronous and now fires for two templates' bodies. It runs during template construction regardless of which template routing eventually selects, so every agent execution pays the LLM round-trip even when the selected template does not use it. Candidate for lazy evaluation if run duration becomes a problem.
+- **Upstream input hygiene is the real defect** — `_boolish()` is a shield, not a cure. The agent is emitting literal `"null"` strings and inconsistent boolean casing into tool inputs (`is_first_linkage: null` observed on `CS0991191`). Tightening the Step 5 tool-call instruction in the agent prompt to emit lowercase `true`/`false` only would remove the whole defect class at source.
+- **`u_last_comment_from_unit4` can predate case creation** — `CS0991191` was opened `2026-08-06 16:16` with `u_last_comment_from_unit4 = 2026-07-07`, `comments` empty and `u_first_response = false`; the value appears inherited from the source record during case creation. Effect: a brand-new case reads as 31 days stale on day one and is immediately eligible for rules 1 and 4. False-positive source for the whole Stale Case Path, independent of routing.
 
 ### Resolved this session (2026-07-24) — see [[#17. Changelog]] for full detail
 - ~~`[RELEASE_VERSION]` placeholder/filler leaking into drafts~~ — fixed; placeholder/filler `fix_notes` now treated as empty, token deleted and sentence rewritten instead of leaking through.
@@ -643,6 +809,199 @@ Post-deploy: agent active, 3 tools attached, trigger active, Script Include in s
 
 Session-by-session record of live changes to the deployed PCCC components. Source: VS Code Claude Code session working directly against the ServiceNow instance (Agent API), not this vault — captured here after the fact so the architecture doc stays current.
 
+### 2026-08-07 (evening) — Tool 2 actually wired to the Script Include, JSON-quoting fix, Option A for no-Problem stale cases
+
+Triage session driven by a single live case, `CS0991191` (Vinje kommune, P3, no linked Problem, In Progress, 31 days since last Unit4 comment). Three defects found and fixed, in the order they surfaced.
+
+**1. The morning's Gate 1/3 fixes were not live**
+
+Symptom — NAP returned:
+
+```
+Processing stopped: Template could not be determined for the current case because the
+linked problem state information required for template selection is unavailable.
+
+Inputs:  problem_linked: false · case_state: In Progress · is_first_linkage: null
+         (all Problem fields blank)
+Output:  routing_decision: STOP · selected_template: null
+         stop_reason: Template could not be determined for problem_state: ,
+                      resolution_code: , routing_decision: 6B
+```
+
+That stop string is character-identical to the pre-fix incident recorded in the entry below — a message the hardened Gate 1 **cannot** emit for an unlinked case (it would return the named `problem_linked could not be interpreted…` stop instead).
+
+Diagnosis — the Script Include `caseRoutingPCCCUtil` was deployed and correct, but the AI Agent Tool "Resolve routing decision and template selection" still held its own **pre-refactor inline script**. Confirmed by reading the tool's script field: no `_boolish()` anywhere, and the workaround-only-change override block still present — a block the Script Include never carried. The refactor created the Script Include without repointing the tool at it, so `resolve()` was dead code.
+
+Fix — tool script replaced with:
+
+```javascript
+(function(inputs) {
+    return new caseRoutingPCCCUtil().resolve(inputs);
+})(inputs);
+```
+
+Three behaviour changes ride along with that swap, all expected:
+
+| Change | Effect |
+|---|---|
+| Gate 1 now fires | `CS0991191` returns `STOP_GATE1` / `7.1` instead of a bogus `6B` stop |
+| Gate 3 now fails **closed** | `has_work_item` `empty`/`unknown` now STOPs instead of releasing a message. Expect a visible rise in NAP stops — correct, but it reads as a regression to consultants unless they are told. |
+| Workaround-only override **removed** | The Script Include has no `workaround_only_latest_change` handling. `7.4` is now reachable only via the ordinary `6C` + `workaroundPending` path. Still an open decision: restore or retire. |
+
+`_boolish` normalisation is *not* the whole story — `is_first_linkage`, `workaround_pending` and `new_worknote_available` still use bare-literal comparisons inside `resolve()`. Logged in [[#13. Risks & Open Questions]]; they fail quiet, not dangerous.
+
+**2. Skill-generated bodies reached customers wrapped in quotes**
+
+Symptom — the approved draft posted as:
+
+```
+Dear Vicky,
+
+Thank you for your patience regarding your case CS0991191, related to …
+
+"We wanted to reach out with a brief update on your case regarding the CB05 (XML)
+bank reconciliation import behavior. …"
+```
+
+Greeting and case line unquoted, skill block quoted — the quoting boundary is exactly where the skill output crosses into the template.
+
+Diagnosis — not the LLM. The skill prompt already forbids preamble and wrappers. `_getStaleCaseSum()` ended in `return JSON.stringify(skillResponse);`, and JSON-encoding a string adds its own delimiters: `Hello` serialises as `"Hello"`. The serialised form was being pasted into the comment.
+
+Fix — one line: `return skillResponse;`. Verified `typeof skillResponse === 'string'` first; had it been an object, the extracted field (`resp.capabilities[capabilityId].response`) would have been needed instead, and returning the object raw would have posted `[object Object]`. If double-encoding ever appears (literal `\n` or `\"` in a posted comment), a defensive unwrap helper is the fallback — parse up to twice, `.trim()`, strip delimiters manually if `JSON.parse` throws.
+
+**3. Option A — skill-generated body for no-Problem stale cases**
+
+`7.10.2` was initially expected to serve `CS0991191`. It cannot: `7.10.2` lives only in the `6C` branch, and `6C` is unreachable past Gate 1, which fires on any case with no linked Problem. The requirement — case-specific stale messaging for no-Problem cases — was met instead by pointing `7.1`'s body at `_getStaleCaseSum()`, preserving `reset_count = skip`. Full option comparison and the rejected Option B (with its counter-reset gap) are recorded in [[#8. Template Registry]].
+
+**4. Routing hardening — normalisation completed, `Assess` closed, degraded path added**
+
+With the tool finally executing `resolve()`, three further changes went into `caseRoutingPCCCUtil`:
+
+*Normalisation completed.* `is_first_linkage`, `workaround_pending` and `new_worknote_available` now pass through `_boolish()` alongside the three gate inputs, and every downstream comparison is a plain boolean. Previously each silently read `'True'`, `' true '`, `'Yes'` and `'1'` as *not set* — and for the content flags this failed twice over in one pass: `6C` skipped the `7.4`/`7.9` branch **and** the corresponding `append_*` flag stayed `false`, so the workaround or worknote was dropped in both directions. No bare-literal boolean comparisons remain in the tool.
+
+*`6B` + `Assess` closed.* `6B`'s first branch now mirrors `6A`'s:
+
+```javascript
+if (problemState === 'New' || problemState === 'Assess') {
+    selectedTemplate = '7.3';
+}
+```
+
+Open since 2026-07-16. The T2 ATF case asserting a `STOP` here now fails by design — update the assertion to `7.3`.
+
+*`6B_DEGRADED` added.* A linked Problem with a blank `problem_state` is a data-population fault, not a state. Rather than sending nothing, it routes to `7.10.2` under a distinct `routing_decision` label with a `gs.warn`:
+
+```javascript
+if (!problemState) {
+    gs.warn('[PCCC] Linked Problem with empty problem_state — routing to ' +
+        '7.10.2 (degraded). routing_decision was ' + routingDecision +
+        '. Investigate tool input population.');
+    return this._out('6B_DEGRADED', '7.10.2');
+}
+```
+
+`7.10.2`'s body is skill-generated from case comments and work notes, so it asserts nothing about the Problem state — safe to send on unknown data. A state that is **present but unrecognised** still `STOP`s, so a new or unmapped Problem state surfaces instead of quietly receiving "no significant change". `6A` keeps its plain `STOP`: first linkage with a blank state is a stronger signal of upstream breakage. **Treat a rising `6B_DEGRADED` count as an input-pipeline alarm, not an acceptable outcome.**
+
+**Verification performed**
+
+- Replayed the reported `CS0991191` payload against the tool post-swap → `STOP_GATE1` / `7.1`, no `stop_reason`.
+- Re-ran the T2 ATF matrix. Two categories of test move **by design**: any test asserting a message on a blank `has_work_item` (now the fail-closed stop), and the `6B` + `Assess` stop (now `7.3`).
+- Confirmed the Stale Case Summarization skill required no change — single `case_number` input, and its status buckets already cover non-Problem cases.
+
+**New ATF coverage needed**
+
+- `6B` + `Assess` → `7.3`
+- `6B` + blank `problem_state` → `6B_DEGRADED` / `7.10.2`
+- `6B` + present-but-unrecognised `problem_state` → `STOP`
+- `6A` + blank `problem_state` → `STOP` (asymmetry is intentional)
+- `workaround_pending: 'True'` → `7.4` (regression guard for the normalisation)
+- `new_worknote_available: 'Yes'` → `7.9`
+- `is_first_linkage: '1'` → `6A`
+
+**Follow-ups raised, not yet done**
+
+- Decide the fate of the workaround-only-change override.
+- Tighten the agent prompt's Step 5 so tool inputs stop carrying `"null"` strings and mixed-case booleans. `_boolish` is a shield; this is the cure.
+- Investigate `u_last_comment_from_unit4` inheriting a pre-creation timestamp.
+- Run evals on the Stale Case Summarization skill now that its blast radius covers all stale no-Problem cases.
+- Sweep `sn_aia_execution_plan` for rows left in `ready`/`in_progress` by the pre-fix Gate 1 defect — each one silently excludes its case from every future stale run via the job's dedup check.
+
+---
+
+### 2026-08-07 — Routing tool moved to a Script Include, Gate 1/3 hardened, stale-job rewrite, skill-generated 7.10.2, canonical prompt embedded
+
+Two parallel work threads landed the same day: a live-instance session (Script Include refactor + Gate 1/3 bug fixes, tested via ATF) and a vault-sync session (reconciling the doc against the current committed script files — `caseRoutingPCCCUtil.script.js`, `caseUpdateAgentUtil.script.js`, `ProactiveCasecommunication-MonitorCase.script.js` — plus the current full agent prompt text). Combined below.
+
+**Refactor — `caseRoutingPCCCUtil` (Script Include)**
+- The inline Tool 2 wrapper (`(function(inputs){...})(inputs)`) became a Script Include exposing `resolve(inputs)`, with `_out()`/`_stop()` helpers. Return shape is byte-identical to the previous tool, so nothing downstream changes. The AI Agent Tool now calls `new caseRoutingPCCCUtil().resolve(inputs)`.
+- Motivation: the inline script was not unit-testable, which is how the Gate 1 defect below survived a full ATF suite.
+
+**Bug — Gate 1 fell through for almost every representation of "no problem linked"**
+
+Reported live: a case with no Problem linked produced
+
+```
+Stop reason : Template could not be determined for problem_state: , resolution_code: , routing_decision: 6B
+```
+
+Diagnosis. Gate 1 tested `problemLinked === false || problemLinked === 'false'` — two literals. Inputs are populated upstream and arrive as **strings**, so the value also appears as `'False'`, `' false '`, `'No'`, `'0'`, `'null'`, or blank. Any of those skipped the gate and fell into the 6A/6B/6C classification, which assumes a Problem exists. With no `implied_state`, the decision table sends that straight to `6B`; the `6B` branch has no case for an empty `problem_state`, so it hit the safety fallback and stopped. **The customer received nothing, where the design specifies template `7.1` (or `7.2` when the case state contains "Awaiting").**
+
+The `STOP` message named `6B`, which made this look like the open 6B/Assess bug. It is unrelated — 6B was only ever the fall-through destination, never a decision about the Problem.
+
+Fix. Added `_boolish(v)`, returning one of four explicit states — `'true'`, `'false'`, `'empty'`, `'unknown'` — after trimming and lowercasing. Gate 1 now branches on all of them:
+
+| `problem_linked` | outcome |
+|---|---|
+| `true`, `'true'`, `'yes'`, `'y'`, `'1'` | proceed to the resolution guard |
+| `false`, `'false'`, `'no'`, `'n'`, `'0'` (any case, any padding) | `STOP_GATE1` → `7.1` / `7.2` |
+| missing, `null`, `''`, `'null'`, `'undefined'` | `STOP_GATE1` → `7.1` / `7.2` |
+| anything else (e.g. a Problem number) | `STOP` with a named `stop_reason`, no message |
+
+`'empty'` deliberately routes to Gate 1 rather than to `STOP`: a case whose Problem fields are *all* blank is a case with no Problem. The `'unknown'` branch exists so an uninterpretable value never becomes a guess — telling a customer no Problem is linked when one may be is worse than sending nothing.
+
+`_boolish` returns strings rather than a boolean-or-null so that "absent" and "not a boolean" stay distinguishable at the call site. Collapsing them is what let a blank value read as a legitimate answer in the first place.
+
+Verified. The full T2 matrix plus 17 new Gate 1 cases — 34 checks, 0 failures — and the reported input replayed verbatim now yields `STOP_GATE1` / `7.1`. Note the reported payload rendered as `problem_linked: false`, which the *old* code handles correctly; replaying it against the old script confirms the runtime value must have been one of the other shapes above, since every one of those reproduces the reported stop exactly.
+
+**Bug — Gate 3 failed open on `wi_required` / `has_work_item`**
+
+Same root cause as Gate 1, found while fixing it, and worse in effect. The gate read:
+
+```javascript
+if ((wiRequired === true || wiRequired === 'true') &&
+    (hasWorkItem === false || hasWorkItem === 'false')) {
+```
+
+Both halves had to match exact literals for the gate to fire, so it failed **open** in two independent ways: `wi_required: 'True'` read as not-required and skipped the gate entirely, and `has_work_item: 'False'` read as not-`'false'` and also skipped it. Either one released a customer message on a Problem with **no Work Item linked** — the precise thing the gate exists to prevent, and unlike the Gate 1 defect this one sends a message rather than withholding one.
+
+Fix. Both inputs go through `_boolish()`, and the gate now demands *positive confirmation* rather than only stopping on a recognised negative:
+
+| `wi_required` | `has_work_item` | outcome |
+|---|---|---|
+| false / absent / blank | anything | gate does not apply — proceed |
+| true | true | proceed |
+| true | false | `STOP` — "No Work Item linked to Problem" (unchanged wording) |
+| true | blank, missing, or unrecognised | `STOP` — presence could not be confirmed |
+| unrecognised | anything | `STOP` — `wi_required` uninterpretable |
+
+An **absent** `wi_required` deliberately stays "not required": per the Business Rule in [[#3. Problem Update Path]] a Work Item is only demanded for states `104` (Fix in Progress) and `106` (Resolved), and every New/Assess/RCA path omits the input. Treating blank as required would silence those. This is the opposite default to Gate 1, and for the opposite reason — there, blank Problem fields *are* the evidence of no Problem.
+
+Verified. 13 new T2 rows, 50 checks total, 0 failures. Reverting only the gate body and re-running fails 9 of them — each returning `6B` / `7.7`, i.e. a live "Fix in Progress" update sent on a Problem with no confirmed Work Item. The tests were confirmed capable of failing before being trusted.
+
+> [!note] Gate 3 is one of two authorities
+> [[AIPF_Flag Cases on Problem State or Work]] enforces the same Work-Item rule before the agent ever fires ([[#13. Risks & Open Questions]], "WI check duplicated"). This change hardens the router's copy only. The Business Rule's own check was not reviewed for the same class of defect.
+
+**Found, not fixed (flagged so it isn't lost)**
+- `workaround_pending`, `new_worknote_available` and `is_first_linkage` still use bare-literal comparisons. They fail quietly rather than dangerously — content is omitted, not misstated — so they were left for a separate change. See [[#13. Risks & Open Questions]].
+- The same execution carried `new_worknote_available: "{organize_general_knowledge}.4"` — an unresolved placeholder token. Benign in the router (it is not `'true'`), but it means input population itself is producing malformed values and nothing validates them before `resolve()` runs. Root cause not investigated.
+- `6B` still has no `Assess` branch (open since 2026-07-24, untouched here).
+- **Newly found while reconciling this doc against the refactor diff**: the "workaround-only-change override" block present in the pre-refactor inline Tool 2 wrapper was **not carried over** into the new `caseRoutingPCCCUtil.resolve()` — confirmed by diffing the removed inline-script lines against the new Script Include, which contains no `workaround_only_latest_change` handling at all. `caseUpdateAgentUtil.script.js` still computes the variable and the agent prompt still passes it in, so it's now a dead input on the tool side. Not called out in the refactor's own commit message — likely an unintentional drop during the rewrite rather than a deliberate removal. See [[#7. Deterministic Routing]] gate 5 and [[#13. Risks & Open Questions]].
+
+**Separately — synced from the current committed script files** (`caseUpdateAgentUtil.script.js`, `ProactiveCasecommunication-MonitorCase.script.js`, current agent prompt text):
+- **`caseUpdateAgentUtil.script.js`** — new `_getStaleCaseSum()` method; template `7.10.2`'s body is now generated by the [[stale-case-summarization-skill-notes|Stale Case Summarization]] Now Assist skill instead of static filler text. Corrected this doc's prior "last 5 comments" claim to the actual "last 3" (`prior_ai_comments`) — doc error, not a code change.
+- **`ProactiveCasecommunication-MonitorCase.script.js`** — rewritten from one blanket stale-threshold query into 5 independent priority/link-state rules, each with its own configurable day-threshold property; added resolution-code guard, Work Item gate, and active-execution dedup directly into the job (previously left to the BR/routing tool). See [[#4. Stale Case Path]] and the triplication risks in [[#13. Risks & Open Questions]].
+- **Full canonical agent prompt (Steps 1–7)** embedded verbatim in [[#18. Current Agent Prompt]] — previously only summarised here, with the full text tracked outside the vault.
+
 ### 2026-07-24 — Template rewrite, prompt hardening, workaround-only-change fix
 
 **Phase 1 — Template rewrite (`caseUpdateAgentUtil.script.js`, live in ServiceNow)**
@@ -676,6 +1035,419 @@ Session-by-session record of live changes to the deployed PCCC components. Sourc
 
 ---
 
+## 18. Current Agent Prompt
+
+Full text of the PCCC agent's instructions, as of 2026-08-07 — embedded verbatim so this doc stays the single source of truth instead of pointing to a `.txt` file tracked outside the vault. Supersedes the step-by-step summary implied by [[#3. Problem Update Path]]'s original Step 1–6 walkthrough; see the changelog note under [[#17. Changelog]] for how the numbering evolved.
+
+```text
+STEP 1 — FETCH AND STORE DATA
+Call the Fetch Tool once. Store ALL returned data in memory.
+RULE: All values in variables are fixed. NEVER re-derive or recompute them.
+
+STEP 2 — PREPARE CONTENT
+Complete 2.1 and 2.2 fully before proceeding to Step 3.
+Do NOT move to Step 3 until both are done and stored.
+
+CLEAN AND FILTER CONTENT (apply in 2.1 and 2.2):
+Apply in strict order: (1) remove noise → (2) remove raw input → (3) apply semantic value check.
+Do not evaluate all conditions at once.
+
+1. Remove non-informational content:
+   - Greetings and sign-offs
+     (e.g. "Hi Jakub,", "Kind regards")
+   - Mentions and emails — remove identifier only, keep sentence
+     (e.g. "@john.smith confirmed the fix" → "The fix was confirmed")
+   - Internal role references — remove role name, keep finding
+     (e.g. "PS consultant confirmed not reproducible" → "Not reproducible")
+   - Internal questions or prompts directed at another person
+     (e.g. "Can you check this?", "Any update?", "Do you know the ETA?")
+   - Internal coordination or routing actions
+     (e.g. reassignment, queue movement, "please pick this up")
+   - References to attachments or external content
+     (e.g. "See attached log", "Screenshot added")
+   - System or audit logs
+     (e.g. field changes, internal IDs such as UWID numbers)
+   - Do NOT remove fix delivery timelines meaningful to the customer
+     (e.g. "fix scheduled for June 2028" → KEEP)
+
+2. Remove raw or unprocessed input:
+   - Structured Q&A text
+   - Repeated phrases that do not add new technical detail
+   - Text that closely repeats the case description without adding new technical detail
+
+3. Apply SEMANTIC VALUE CHECK:
+   Keep content ONLY if it contains at least one of:
+   - A concrete technical finding (error, root cause, identified issue)
+   - A clear action, fix, or progress update
+      Progress updates are valid ONLY if they include a specific finding, action, or next step.
+   - A specific request or action needed from the customer
+   Discard if:
+   - Purely status with no substance (e.g. "under investigation", "no updates")
+   - Placeholder or empty responses (e.g. "none", "n/a", "tbd")
+   - Negative or placeholder workaround responses (e.g. "no workaround", "not available")
+   - Internal coordination or non-informational content
+
+4. If nothing meaningful remains → treat as empty.
+
+2.1 WORKAROUND
+Source: problem_details.workaround
+
+If WORKAROUND_PENDING = false → set [LOCKED_WORKAROUND] = empty. Stop.
+If empty → set [LOCKED_WORKAROUND] = empty. Set WORKAROUND_PENDING = false. Stop.
+Else:
+  Apply CLEAN AND FILTER CONTENT.
+  If valid → store as [LOCKED_WORKAROUND]. LOCKED.
+  Else → [LOCKED_WORKAROUND] = empty.
+
+WORKAROUND_PENDING stays as fetched UNLESS [LOCKED_WORKAROUND] is empty 
+if [LOCKED_WORKAROUND] = empty → set WORKAROUND_PENDING = false regardless of fetched value.
+
+2.2 WORKNOTE
+Source: latest entry from problem_details.work_notes_history.
+
+If empty → set [LOCKED_WORKNOTE] = empty. Set NEW_PROBLEM_WORKNOTE_AVAILABLE = false. Stop.
+Else:
+  Apply CLEAN AND FILTER CONTENT.
+  If valid:
+    - Summarise into clear concise sentences
+    - Preserve specific technical details verbatim
+    - Rephrase customer asks in second person:
+      Start with "Could you please..." or "To assist with our investigation..."
+      Never use "they request", "we are asking", or third-party framing
+    - Never use internal roles or names
+    - Bullet points for actionable steps only
+    - NEVER fabricate
+    - Store as [LOCKED_WORKNOTE]. LOCKED.
+    - Set NEW_PROBLEM_WORKNOTE_AVAILABLE = true.
+  Else → [LOCKED_WORKNOTE] = empty. NEW_PROBLEM_WORKNOTE_AVAILABLE = false.
+
+STEP 3 — GENERATE MEANINGFUL TITLE
+Complete fully before proceeding to Step 4.
+
+Use case_details.short_description and/or case_details.description.
+Create a short clear title of 8–10 words maximum.
+Store as [MEANINGFUL_TITLE]. LOCKED. Do NOT regenerate in Step 6.
+If both empty → [MEANINGFUL_TITLE] = "Title not available".
+
+STEP 4 — RESOLVE WORKNOTE AVAILABILITY
+Output the JSON block before proceeding to Step 5.
+Do NOT move to Step 5 until JSON is output. Do NOT display to the end-user.
+
+Produce exactly this JSON block:
+{
+  "NEW_PROBLEM_WORKNOTE_AVAILABLE": true or false
+}
+
+4.1 Reason internally. Do NOT display reasoning.
+
+Q1: If problem_details.work_notes_history is empty OR [LOCKED_WORKNOTE] is empty:
+    Set NEW_PROBLEM_WORKNOTE_AVAILABLE = false. Stop.
+    Else go to Q2.
+
+Q2: Has [LOCKED_WORKNOTE] already been communicated to the customer?
+    Strip greeting and sign-off from each entry in case_details.prior_ai_comments.
+    Source: case_details.prior_ai_comments ONLY.
+    Do NOT read case_details.comments_history for this step.
+    If case_details.prior_ai_comments is empty or unavailable → set NEW_PROBLEM_WORKNOTE_AVAILABLE = true. Stop.
+    Semantically compare [LOCKED_WORKNOTE] against each stripped entry.
+
+    SEMANTIC MATCH — focus on specific technical details only:
+    - Exact field names, version numbers, error codes, named findings
+    - If specific values differ (different date, version, number, quarter) → match_found = false
+      even if topic is same. Changed value = new information.
+    - If specific values identical → match_found = true
+    Example: "fix scheduled for July 2028" does NOT match "fix scheduled for June 2026"
+
+    DE-DUPLICATION RULE (STRICT): Check below:
+    - Same fix timeline or schedule or quarter (same date/period/Quarter)?
+    - Same patch number, version, identifier, or same milestone?
+    - Same investigation finding or root cause (same concrete detail, not just similar meaning)?
+If any of the above questions have a YES as answer → match_found = true. 
+All NO → match_found = false.
+
+Q3: If match_found = true → NEW_PROBLEM_WORKNOTE_AVAILABLE = false
+    If match_found = false OR comparison is unclear → NEW_PROBLEM_WORKNOTE_AVAILABLE = true
+   
+
+If NEW_PROBLEM_WORKNOTE_AVAILABLE = true:
+  [LOCKED_WORKNOTE] already stored from Step 2.2. Do NOT re-synthesise.
+
+STEP 5 — RESOLVE ROUTING AND TEMPLATE
+MANDATORY TOOL CALL — call the Resolve routing decision and template selection
+tool now. Do NOT skip. Do NOT proceed to Step 6 until tool has returned.
+
+Pass the following tool inputs. Copy each value EXACTLY as it was returned by the
+Fetch Tool in Step 1 (or Step 4's JSON where noted) — do NOT re-derive, re-evaluate,
+round, or infer any of these from memory or context. If a value is missing, pass it
+as empty/null rather than guessing or omitting the input entirely:
+    is_first_linkage              = IS_FIRST_LINKAGE (Step 1)
+    implied_state                 = IMPLIED_STATE (Step 1)
+    problem_state                 = PROBLEM_STATE (Step 1)
+    resolution_code               = RESOLUTION_CODE (Step 1)
+    workaround_pending             = WORKAROUND_PENDING (Step 1) — copy verbatim, do not flip
+    workaround_only_latest_change  = WORKAROUND_ONLY_LATEST_CHANGE (Step 1) — copy verbatim,
+                                      even though it is a newer field; never omit it
+    new_worknote_available         = NEW_PROBLEM_WORKNOTE_AVAILABLE (Step 4 JSON)
+    last_template_style            = LAST_TEMPLATE_STYLE (Step 1)
+    problem_linked                 = PROBLEM_LINKED (Step 1)
+    case_state                     = case_details.state (Step 1)
+    wi_required                    = WI_REQUIRED (Step 1)
+    has_work_item                  = problem_details.has_work_item (Step 1)
+Also pass [LOCKED_WORKAROUND] and [LOCKED_WORKNOTE] if the tool call needs them.
+
+5.1 Store returned values exactly as received. Do NOT re-evaluate:
+    routing_decision → ROUTING_DECISION. LOCKED.
+    selected_template → SELECTED_TEMPLATE. LOCKED.
+    append_workaround → APPEND_WORKAROUND. LOCKED.
+    append_worknote → APPEND_WORKNOTE. LOCKED.
+    fill_workaround_token → FILL_WORKAROUND_TOKEN. LOCKED.
+    fill_worknote_token → FILL_WORKNOTE_TOKEN. LOCKED.
+
+Produce exactly this JSON block. Do NOT display to end-user.
+Do NOT proceed to Step 6 until output.
+{
+  "ROUTING_DECISION": "<value>",
+  "SELECTED_TEMPLATE": "<value>",
+  "APPEND_WORKAROUND": true/false,
+  "APPEND_WORKNOTE": true/false,
+  "FILL_WORKAROUND_TOKEN": true/false,
+  "FILL_WORKNOTE_TOKEN": true/false
+}
+
+5.2 IF ROUTING_DECISION = "STOP":
+    Display stop_reason to the consultant.
+    STOP execution. Do NOT execute any further steps.
+
+5.3 IF ROUTING_DECISION = "STOP_GATE1":
+    SELECTED_TEMPLATE is set. Proceed directly to Step 6.
+
+5.4 Otherwise: IF SELECTED_TEMPLATE = "7.8" → proceed to Step 5.5.
+    ELSE → proceed to Step 6.
+
+STEP 5.5 — 7.8 CONSULTANT CHOICE (ONLY IF SELECTED_TEMPLATE = "7.8")
+This applies to the Problem Resolved+Canceled / Closed+Canceled scenario.
+Do NOT draft or display the message yet. Do NOT proceed to Step 6 until
+this step is complete. Do NOT infer, guess, or pre-select an option from
+cause notes or the cancellation reason — the consultant decides, not the AI.
+
+Display exactly this to the consultant and wait for a reply:
+"This case's linked Problem was resolved with resolution code 'Canceled'.
+Please choose which closing applies to this case:
+1) The reported behavior has been confirmed to be working as designed.
+2) This request is more suitable as an enhancement and can be raised via Community4U (C4U).
+3) Further internal investigation is required to determine the next steps and provide a more robust solution."
+
+Map the consultant's reply to option 1, 2, or 3 (accept "1"/"2"/"3", or an
+unambiguous paraphrase of one option's text). Store the result as
+[SELECTED_7_8_OPTION] (value 1, 2, or 3). LOCKED.
+
+If the reply does not clearly map to one of the three options, re-ask once:
+"Please reply with 1, 2, or 3." If still unclear after the retry, do NOT
+guess — trigger a consultant note (per 6.4) and STOP execution.
+
+Once [SELECTED_7_8_OPTION] is LOCKED, proceed to Step 6.
+
+STEP 6 — DRAFT THE MESSAGE
+Do NOT draft until Step 4 JSON is output and Step 5 tool has returned.
+Read SELECTED_TEMPLATE from Step 5 JSON exactly as output. Do NOT re-evaluate.
+Draft directly — do NOT call any tool for this step.
+
+6.1 PREPARE BEFORE BUILDING
+SELECTED_TEMPLATE is a string value (e.g. "7.1", "7.3").
+Use templates[SELECTED_TEMPLATE].greeting, .body, .sign_off as the structure.
+
+Strictly Set these values before assembling:
+
+- [MEANINGFUL_TITLE] → value from Step 3
+-   MANDATORY: [RELEASE_VERSION] → Extract from problem_details.fix_notes.
+    - Keep ONLY if fix_notes contains a CONCRETE version/patch number (e.g. "25.1.6")
+      or a CONCRETE fix-delivery detail (a real date, a named milestone actually
+      completed, "fix is available"). Generic placeholder or filler text
+      (e.g. "fix notes text", "tbd", "n/a", "update pending", or any text with
+      no digit/version/date pattern and no named milestone) is NOT a value —
+      treat fix_notes as EMPTY in that case.
+
+    -  Remove only internal or closure statements in fix_notes:
+      •strip "closing", "closing out", "problem will be closed", "internal update" statements from fix_notes
+
+    - If after removing internal closure statements, fix_notes has any CONCRETE data remaining → use that as [RELEASE_VERSION]
+
+    - If fix_notes is empty, placeholder/filler, OR does NOT contain a concrete version/fix outcome
+      after removal/stripping → DELETE the [RELEASE_VERSION] token AND rewrite the sentence it
+      sits in so it reads naturally without it. Do NOT leave the token in the draft "to be safe" —
+      an absent/unclear release version is exactly the case this rule exists for.
+    - [RELEASE_VERSION] token must NEVER remain literally in the drafted message. This is
+      checked again in Step 6.4 — Step 6.4 is MANDATORY and runs even if you believe you
+      already handled RELEASE_VERSION here. Templates with two [RELEASE_VERSION] occurrences
+      (e.g. 7.5) require BOTH to be resolved or BOTH removed — check each independently.
+
+- [WORKAROUND] → [LOCKED_WORKAROUND] if FILL_WORKAROUND_TOKEN = true.
+  (template 7.4 only — fills inline token)
+  FILL_WORKAROUND_TOKEN = false does NOT skip WORKAROUND_BLOCK.
+
+- [WORKNOTE] → [LOCKED_WORKNOTE] if FILL_WORKNOTE_TOKEN = true.
+  (template 7.9 only — fills inline token)
+  FILL_WORKNOTE_TOKEN = false does NOT skip WORKNOTE_BLOCK.
+Note: FILL_* controls inline template replacement only.
+APPEND_* controls additional message blocks. These are independent.
+
+- IDENTIFICATION_SENTENCE → only if ROUTING_DECISION = "6A" AND
+  (SELECTED_TEMPLATE = "7.5" OR SELECTED_TEMPLATE = "7.7"):
+  "We are pleased to inform you that the existing Problem record
+  [CURRENT_PROBLEM_NUMBER], related to [MEANINGFUL_TITLE] in [PRODUCT_NAME],
+  has now been linked to your case [CASE_NUMBER]."
+  Else → empty.
+
+- WORKAROUND_BLOCK → if APPEND_WORKAROUND = true:
+  "Additionally, our teams have identified a workaround that may help
+  in the meantime.
+  Workaround: [LOCKED_WORKAROUND]"
+  Else → empty.
+
+- WORKNOTE_BLOCK → if APPEND_WORKNOTE = true:
+  "Our team has also made the following progress on the investigation:
+  [LOCKED_WORKNOTE]"
+  Else → empty.
+
+- 7.8 OPTION SELECTION → only if SELECTED_TEMPLATE = "7.8":
+  The 7.8 body contains three mutually exclusive closings (options 1, 2, 3).
+  Use [SELECTED_7_8_OPTION] from Step 5.5 exactly as LOCKED — do NOT re-derive,
+  override, or re-infer it from cause notes or the cancellation reason.
+  Keep ONLY the option matching [SELECTED_7_8_OPTION] and DELETE the numbered
+  list and the other two options before drafting.
+  The final body must read as a single continuous closing, with no "1)"/"2)"/"3)"
+  markers remaining.
+  GUARD: if Step 6 is somehow reached without [SELECTED_7_8_OPTION] LOCKED,
+  do NOT guess — return to Step 5.5.
+
+6.2 DRAFT RULES
+- One greeting. One sign-off. Never repeated.
+- Never fabricate or infer. Only use data from fetched records.
+- Never add sentences not in the template body.
+- Do not alter template wording or intent.
+- Remove internal reference numbers that are not case or problem numbers (e.g. UWIDXXX).
+- Grammar and tone: correct only. Do not rewrite.
+
+6.3 ASSEMBLE IN THIS EXACT ORDER:
+1. [SELECTED_TEMPLATE].greeting
+2. IDENTIFICATION_SENTENCE (if not empty)
+3. Template body with all tokens replaced.
+   IF IDENTIFICATION_SENTENCE is not empty:
+   Remove [CASE_NUMBER], [MEANINGFUL_TITLE] and [PRODUCT_NAME] from the first sentence of the template body only if they already appear in IDENTIFICATION_SENTENCE. Do not remove from any other part.
+ Example:
+   IDENTIFICATION_SENTENCE: "...existing Problem record PRB0064702, related to Invoice approval failing in UNIT4 ERP, has now been linked to case CS0990403."
+ Template first sentence: "I wanted to keep you informed about the progress of your case CS0990403, related to Invoice approval failing in UNIT4 ERP."
+ Result: "I wanted to keep you informed about the progress of your case."
+4. WORKAROUND_BLOCK (if APPEND_WORKAROUND = true)
+5. WORKNOTE_BLOCK (if APPEND_WORKNOTE = true)
+6. [SELECTED_TEMPLATE].sign_off
+
+CRITICAL: sign-off MUST be the final line of the MESSAGE BODY.
+Never omit. Never place after sources or notes.
+
+6.4 TOKEN CHECK — MANDATORY, ALWAYS RUN
+This step is NEVER optional and NEVER skipped, even if Step 6.1 already
+resolved or removed a token. Re-scan the FULL assembled draft, character by
+character, for any literal unreplaced token — do not rely on memory of what
+you did in 6.1.
+Scan complete draft for any unreplaced token:
+[MEANINGFUL_TITLE], [PRODUCT_NAME], [CURRENT_PROBLEM_NUMBER],
+[CASE_NUMBER], [RELEASE_VERSION], [WORKAROUND], [WORKNOTE],
+or any value matching [Field not found].
+Do not attempt to infer or replace missing values.
+Leave token unresolved and trigger consultant note instead.
+If any found:
+  Append after sign-off in bold:
+  "⚠  Consultant note: one or more fields could not be found —
+  please review before approving."
+  This line MUST NEVER be posted to Additional Comments.
+
+STEP 7 — OUTPUT AND APPROVAL
+Do NOT output before Step 6 is complete.
+
+7.1 Display to the end-user in this exact order:
+OUTPUT FORMAT (STRICT)
+Render the response in this order, without showing any section labels:
+
+1. MESSAGE BODY  
+- Display greeting through sign-off only  
+- No internal labels, headers, or markers  
+- Sign-off must be the final line  
+
+2. REFERENCE LINKS (display below the message, clearly separated)  
+Reference links — for your review only.  
+These will NOT be posted to the customer.  
+
+Case: <case_details.case_url with case number as link text>
+Problem: <problem_url with CURRENT_PROBLEM_NUMBER as link text — omit if null>
+
+3. CONSULTANT NOTE (only if present)  
+⚠  Consultant note: ...  
+- Must NOT appear in the message body  
+- Must NOT be posted to the customer  
+
+4. APPROVAL
+Please choose one:
+1) Approve
+2) Modify
+3) Reject
+Note: On Approve this message will be posted to Additional Comments and is visible to the customer.
+
+Do NOT display below mapping rules to the end-user.
+Note:  Map user input to closest choice:
+    "1", "approve", "yes", "looks good", "send it" → Approve
+    "2", "change", "edit", "update", "modify" → Modify
+    "3", "no", "reject", "cancel", "don't send" → Reject
+    Also match a reply that echoes the button text back verbatim
+    (e.g. "1) Approve") to the same choice.
+
+Populate changed_field_values with get_user_input set to matched choice label.
+
+7.2 If Approve:
+Post ONLY the MESSAGE BODY to additional comments. Strip all other content.
+Use reset_count from templates[SELECTED_TEMPLATE].reset_count:
+  "true"  → templates 7.3 through 7.9
+  "false" → templates 7.10.1 and 7.10.2
+  "skip"  → templates 7.1 and 7.2
+
+Display: "The update has been posted to Additional Comments successfully. Thank you."
+STOP execution. Do NOT execute any further steps.
+
+7.3 If Modify:
+Ask exactly: "What changes would you like to make?"
+Wait for user response.
+MODIFIED OUTPUT RULE (MANDATORY):
+-  Apply ONLY what is explicitly requested to the existing MESSAGE BODY
+- Output ONLY the final customer-facing message, including greeting, body, and sign-off.
+- Do NOT include any meta phrases such as "Here is...", "Below is...", "Updated version...", "Shortened...", "Detailed..."
+- Do NOT explain changes.
+- Do NOT echo the modification instruction itself in the message. Apply the change only.
+- Start directly with the greeting.
+- Modify only the existing message content.
+- Do NOT add meta commentary or wrapper phrases.
+- Do NOT add new sentences unless explicitly provided by the consultant.
+-DO NOT CALL any tools or re-run Steps 2–6
+
+Then display:
+"Please review and select an action:
+1) Approve
+2) Modify
+3) Reject
+Note: On Approve this message will be posted to Additional Comments and is visible to the customer."
+Map the reply using the same rules as Step 7.1's mapping note.
+
+If Approve → Go to 7.2
+If Modify → repeat 7.3
+If Reject → 7.4.
+
+7.4 If Reject:
+Thank the consultant. STOP execution. Do not post anything.
+
+RULE: End-user approval is mandatory before any message is posted to case comments. No exceptions.
+```
+
+---
+
 ## Related Notes
 
 - [[Monitor Work Item AI Agent]] — sibling agent, `u_work_item` → Problem worknote, Global scope
@@ -684,7 +1456,7 @@ Session-by-session record of live changes to the deployed PCCC components. Sourc
 - [[AIPF_Flag Cases on Problem State or Work]]
 - [[caseUpdateAgentUtil]]
 - [[Resolve routing decision and template selection]]
-- [[caseRoutingUtil]] — extracted Script Include version of the routing logic, see [[Proactive Customer Case Communicator - ATF Test Suite]]
+- [[caseRoutingPCCCUtil]] — extracted Script Include version of the routing logic, see [[Proactive Customer Case Communicator - ATF Test Suite]]
 - [[Stale Case Scheduled Job]]
 - [[Template Registry]]
 - [[Counter and Cooloff]]
@@ -695,5 +1467,8 @@ Session-by-session record of live changes to the deployed PCCC components. Sourc
 - [[Problem Management]]
 - [[Work Item]]
 - [[Human in the Loop]]
+- [[stale-case-summarization-skill-notes|Stale Case Summarization]] — Now Assist skill called by `_getStaleCaseSum()` to generate the `7.10.2` body, see [[#5. `caseUpdateAgentUtil` (Script Include)]] and [[#8. Template Registry]]
+- [[routing-decision-table]] — exhaustive equivalence-class expansion of [[#7. Deterministic Routing]]'s gate order and template matrix
+- [[#18. Current Agent Prompt]] — full canonical Step 1–7 prompt text, embedded in this doc
 
 #servicenow #ai-agent #now-assist #csm #problem-management #architecture #unit4

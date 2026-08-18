@@ -19,7 +19,8 @@
       "Bash(obsidian *)",
       "Bash(rtk git *)",
       "Bash(rtk ls *)",
-      "Bash(rtk wc *)"
+      "Bash(rtk wc *)",
+      "mcp__sn-rag__sn_search"
     ]
   },
   "enableAllProjectMcpServers": true,

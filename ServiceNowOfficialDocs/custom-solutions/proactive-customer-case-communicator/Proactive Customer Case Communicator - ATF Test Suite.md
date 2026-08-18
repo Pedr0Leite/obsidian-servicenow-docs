@@ -36,7 +36,7 @@ Automated regression for the **deterministic layer** of [[Proactive Customer Cas
 Create one **Test Suite**: `PCCC – Deterministic Regression`, containing:
 
 1. [[#T1 — Template registry integrity]]
-2. [[#T2 — Routing decision matrix]] (+ [[#T2a — caseRoutingUtil Script Include]] prerequisite)
+2. [[#T2 — Routing decision matrix]] (+ [[#T2a — caseRoutingPCCCUtil Script Include]] prerequisite)
 3. [[#T3 — Business Rule case flagging]]
 4. [[#T4 — Counter & cooloff mechanics]]
 
@@ -126,7 +126,7 @@ Keep the suite inside the PCCC update set so it travels with the app.
 **Purpose:** prove the deterministic router picks the right `routing_decision` / `selected_template` / `append_*` per input combination.
 
 > [!warning] Prerequisite — extract the router into a Script Include (done)
-> `Resolve routing decision and template selection` is an AI Agent tool (`sn_aia_tool`) whose logic is an inline IIFE — ATF can't call it as-is. The logic has been moved verbatim into the scoped Script Include **[[caseRoutingUtil]]** (see [[#T2a — caseRoutingUtil Script Include]] below), and the tool now delegates to it, so tool + test share one code path.
+> `Resolve routing decision and template selection` is an AI Agent tool (`sn_aia_tool`) whose logic is an inline IIFE — ATF can't call it as-is. The logic has been moved verbatim into the scoped Script Include **[[caseRoutingPCCCUtil]]** (see [[#T2a — caseRoutingPCCCUtil Script Include]] below), and the tool now delegates to it, so tool + test share one code path.
 
 > [!note] Real inputs & values
 > The router reads **snake_case** keys off an `inputs` object — `problem_linked`, `case_state`, `is_first_linkage`, `implied_state`, `problem_state`, `resolution_code`, `workaround_pending`, `new_worknote_available`, `wi_required`, `has_work_item`, `last_template_style`. Note `has_work_item` (not `wi_exists`). Resolution values are **title-case strings**: `'Risk Accepted'`, `'Duplicate'`, `'Fix Applied'`, `'Canceled'`.
@@ -135,7 +135,7 @@ Keep the suite inside the PCCC update set so it travels with the app.
 
 ```javascript
 (function(outputs, steps, params, stepResult) {
-    var r = new caseRoutingUtil();
+    var r = new caseRoutingPCCCUtil();
     var fails = [];
 
     function check(label, inputs, wantDecision, wantTemplate, wantAppendWA, wantAppendWN) {
@@ -154,6 +154,32 @@ Keep the suite inside the PCCC update set so it travels with the app.
     check('G1 no problem / awaiting', {problem_linked:false, case_state:'Awaiting Customer Info'}, 'STOP_GATE1', '7.2');
     check('G1 no problem / other',    {problem_linked:false, case_state:'In Progress'},           'STOP_GATE1', '7.1');
 
+    // ---- Gate 1 — every representation of "not linked" (added 2026-08-07) ----
+    // Inputs are populated upstream and arrive as strings. The pre-fix gate tested
+    // two literals and let all of the following fall through into 6A/6B/6C, ending
+    // at the safety fallback with NO customer message sent. See the 2026-08-07
+    // changelog entry in [[Proactive Customer Case Communicator]].
+    check('G1 string false',      {problem_linked:'false',   case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 CAPS False',        {problem_linked:'False',   case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 padded " false "',  {problem_linked:' false ', case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 No',                {problem_linked:'No',      case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 zero string',       {problem_linked:'0',       case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 empty string',      {problem_linked:'',        case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 null',              {problem_linked:null,      case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 literal "null"',    {problem_linked:'null',    case_state:'In Progress'}, 'STOP_GATE1', '7.1');
+    check('G1 missing key',       {case_state:'In Progress'},                           'STOP_GATE1', '7.1');
+    check('G1 no inputs at all',  {},                                                   'STOP_GATE1', '7.1');
+    check('G1 empty + awaiting',  {problem_linked:'', case_state:'Awaiting Customer Info'}, 'STOP_GATE1', '7.2');
+
+    // Present but uninterpretable must NOT be guessed as "not linked" — telling a
+    // customer no Problem is linked when one may be is worse than sending nothing.
+    check('G1 uninterpretable -> STOP', {problem_linked:'PRB0012345', case_state:'In Progress'}, 'STOP', null);
+
+    // ---- Gate 1 — truthy variants must still proceed, not trip the gate ----
+    check('linked "true" proceeds', {problem_linked:'true', is_first_linkage:'true', problem_state:'New'}, '6A', '7.3');
+    check('linked "Yes" proceeds',  {problem_linked:'Yes',  is_first_linkage:'true', problem_state:'New'}, '6A', '7.3');
+    check('linked "1" proceeds',    {problem_linked:'1',    is_first_linkage:'true', problem_state:'New'}, '6A', '7.3');
+
     // ---- Resolution guard (title-case) ----
     check('res Risk Accepted', {problem_linked:true, resolution_code:'Risk Accepted'}, 'STOP', null);
     check('res Duplicate',     {problem_linked:true, resolution_code:'Duplicate'},     'STOP', null);
@@ -163,6 +189,32 @@ Keep the suite inside the PCCC update set so it travels with the app.
 
     // ---- Gate 3 — WI required, none linked ----
     check('FIP no WI', {problem_linked:true, problem_state:'Fix in Progress', wi_required:true, has_work_item:false}, 'STOP', null);
+
+    // ---- Gate 3 — must fail CLOSED on every input shape (added 2026-08-07) ----
+    // Pre-fix, each of these skipped the gate and released a customer message on
+    // a Problem with no confirmed Work Item.
+    check('G3 wi "True" / no WI',   {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'True',  has_work_item:'false'}, 'STOP', null);
+    check('G3 wi " true " / no WI', {problem_linked:'true', problem_state:'Fix in Progress', wi_required:' true ', has_work_item:'False'}, 'STOP', null);
+    check('G3 wi "Yes" / no WI',    {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'Yes',   has_work_item:'No'},    'STOP', null);
+    check('G3 wi "1" / WI "0"',     {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'1',     has_work_item:'0'},     'STOP', null);
+
+    // Required, but presence cannot be confirmed → still STOP, distinct reason.
+    check('G3 required / WI blank',   {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'true', has_work_item:''},          'STOP', null);
+    check('G3 required / WI missing', {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'true'},                            'STOP', null);
+    check('G3 required / WI null',    {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'true', has_work_item:null},        'STOP', null);
+    check('G3 required / WI garbage', {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'true', has_work_item:'WI0012345'}, 'STOP', null);
+
+    // wi_required itself uninterpretable → STOP rather than guess either way.
+    check('G3 wi_required garbage', {problem_linked:'true', problem_state:'Fix in Progress', wi_required:'maybe', has_work_item:'true'}, 'STOP', null);
+
+    // Confirmed present → the gate must NOT fire, in every truthy spelling.
+    check('G3 wi "True" + WI "True"', {problem_linked:'true', is_first_linkage:'true', problem_state:'Fix in Progress', wi_required:'True', has_work_item:'True'}, '6A', '7.7');
+    check('G3 wi "Yes" + WI "yes"',   {problem_linked:'true', is_first_linkage:'true', problem_state:'Fix in Progress', wi_required:'Yes',  has_work_item:'yes'},  '6A', '7.7');
+
+    // Not required → gate skipped, whatever has_work_item says.
+    check('G3 not required "False"', {problem_linked:'true', is_first_linkage:'true', problem_state:'Fix in Progress', wi_required:'False', has_work_item:'false'}, '6A', '7.7');
+    // Absent wi_required stays "not required" — New/Assess/RCA paths omit it entirely.
+    check('G3 wi_required absent',   {problem_linked:'true', is_first_linkage:'true', problem_state:'Fix in Progress'}, '6A', '7.7');
 
     // ---- 6A first linkage ----
     check('6A New',                 {problem_linked:true, is_first_linkage:true, problem_state:'New'},                 '6A', '7.3');
@@ -191,7 +243,7 @@ Keep the suite inside the PCCC update set so it travels with the app.
     check('fallback undetermined', {problem_linked:true, is_first_linkage:false, implied_state:'New', problem_state:'SomethingUnmapped'}, 'STOP', null);
 
     if (fails.length) { stepResult.setOutputMessage('FAIL (' + fails.length + '): ' + fails.join('  |  ')); stepResult.setFailed(); }
-    else { stepResult.setOutputMessage('Routing matrix OK (22 cases)'); stepResult.setSuccess(); }
+    else { stepResult.setOutputMessage('Routing matrix OK (50 cases)'); stepResult.setSuccess(); }
 })(outputs, steps, params, stepResult);
 ```
 
@@ -204,189 +256,28 @@ Each row is one branch of the routing tool — add rows as branches change.
 
 ---
 
-## T2a — caseRoutingUtil Script Include
+## T2a — caseRoutingPCCCUtil Script Include
 
-The routing logic, lifted verbatim from the tool IIFE into a callable, scoped Script Include. **Create in scope `sn_csm_ai_agents`, Client callable = false.** Then point the tool at it (see the delegation snippet after the code).
+The routing logic as a callable, scoped Script Include, so ATF and the AI Agent Tool share one code path.
 
-> [!info] Behaviour-preserving
-> Same gate order, same string comparisons, same return shape. Only structural change: `inputs` is a method argument instead of a closure variable.
+> [!danger] The canonical source is the architecture note — this section no longer carries a copy
+> This section used to embed a full second copy of `resolve()`. It drifted twice: it missed the 2026-07-24 workaround-only-change override gate, and it would have missed the 2026-08-07 Gate 1 hardening. A test suite asserting against a stale duplicate of the code under test proves nothing.
+>
+> **The one source of truth is [[Proactive Customer Case Communicator#7. Deterministic Routing]].** Copy the Script Include from there into scope `sn_csm_ai_agents`, **Client callable = false**, then point the tool at it with the delegation snippet below.
+>
+> If you change routing, change it in the architecture note and re-copy — never edit a copy in this file.
 
-> [!warning] Drift as of 2026-07-24 — this embedded script no longer matches the live routing tool
-> On 2026-07-24 a new **workaround-only-change override gate** was added to the live [[Resolve routing decision and template selection]] tool: when `WORKAROUND_ONLY_LATEST_CHANGE` is true, template `7.4` fires directly, ahead of the `6A`/`6B`/`6C` decision block shown below (see [[Proactive Customer Case Communicator#7. Deterministic Routing]] and [[Proactive Customer Case Communicator#17. Changelog]]). The `resolve()` implementation embedded below does **not** yet include this gate — re-sync this Script Include (and add a T2 test row for the new gate) before trusting T2 as full coverage of live routing behavior.
-
-```javascript
-var caseRoutingUtil = Class.create();
-caseRoutingUtil.prototype = {
-    initialize: function() {},
-
-    /**
-     * Deterministic routing + template selection. Pure function — no reads/writes.
-     * @param {Object} inputs  problem_linked, case_state, is_first_linkage,
-     *   implied_state, problem_state, resolution_code, workaround_pending,
-     *   new_worknote_available, wi_required, has_work_item, last_template_style
-     * @return {Object} { success, routing_decision, selected_template,
-     *   append_workaround, append_worknote, fill_worknote_token,
-     *   fill_workaround_token, [stop_reason] }
-     */
-    resolve: function(inputs) {
-        inputs = inputs || {};
-
-        var isFirstLinkage = inputs.is_first_linkage;
-        var impliedState = inputs.implied_state || null;
-        var problemState = inputs.problem_state || '';
-        var resolutionCode = inputs.resolution_code || '';
-        var workaroundPending = inputs.workaround_pending;
-        var newWorknoteAvailable = inputs.new_worknote_available;
-        var lastTemplateStyle = inputs.last_template_style || null; // reserved
-
-        // Gate 1 — No problem linked
-        var problemLinked = inputs.problem_linked;
-        if (problemLinked === false || problemLinked === 'false') {
-            var caseState = inputs.case_state || '';
-            if (caseState.indexOf('Awaiting') !== -1) {
-                return this._out('STOP_GATE1', '7.2');
-            }
-            return this._out('STOP_GATE1', '7.1');
-        }
-
-        // Resolution guard — Risk Accepted / Duplicate
-        if (resolutionCode === 'Risk Accepted' || resolutionCode === 'Duplicate' ||
-            resolutionCode.toLowerCase() === 'risk accepted' ||
-            resolutionCode.toLowerCase() === 'duplicate') {
-            return this._stop('No communication required — Problem resolution code is ' +
-                resolutionCode + '. Case update skipped.');
-        }
-
-        // Gate 2b — Closed + Canceled (before WI gate)
-        if (problemState === 'Closed' && resolutionCode === 'Canceled') {
-            return this._out('6B', '7.8');
-        }
-
-        // Gate 3 — Work Item required but not linked
-        var wiRequired = inputs.wi_required;
-        var hasWorkItem = inputs.has_work_item;
-        if ((wiRequired === true || wiRequired === 'true') &&
-            (hasWorkItem === false || hasWorkItem === 'false')) {
-            return this._stop('No Work Item linked to Problem. Communication cannot be ' +
-                'sent until a Work Item is linked. Please review.');
-        }
-
-        // Routing decision
-        var routingDecision;
-        if (isFirstLinkage === true || isFirstLinkage === 'true') {
-            routingDecision = '6A';
-        } else if (!impliedState || impliedState === 'null') {
-            routingDecision = '6B';
-        } else if (problemState === impliedState) {
-            routingDecision = '6C';
-        } else {
-            routingDecision = '6B';
-        }
-
-        // Template selection
-        var selectedTemplate;
-
-        if (routingDecision === '6A') {
-            if (problemState === 'New' || problemState === 'Assess') {
-                selectedTemplate = '7.3';
-            } else if (problemState === 'Root Cause Analysis') {
-                selectedTemplate = '7.6';
-            } else if (problemState === 'Fix in Progress') {
-                selectedTemplate = '7.7';
-            } else if ((problemState === 'Resolved' || problemState === 'Closed') &&
-                resolutionCode === 'Fix Applied') {
-                selectedTemplate = '7.5';
-            }
-        } else if (routingDecision === '6B') {
-            if (problemState === 'New') {
-                selectedTemplate = '7.3';
-            } else if (problemState === 'Root Cause Analysis') {
-                selectedTemplate = '7.6';
-            } else if (problemState === 'Fix in Progress') {
-                selectedTemplate = '7.7';
-            } else if (problemState === 'Resolved' && resolutionCode === 'Fix Applied') {
-                selectedTemplate = '7.5';
-            } else if (problemState === 'Resolved' && resolutionCode === 'Canceled') {
-                selectedTemplate = '7.8';
-            } else if (problemState === 'Closed' && resolutionCode === 'Fix Applied') {
-                selectedTemplate = '7.5';
-            }
-        } else if (routingDecision === '6C') {
-            if (workaroundPending === true || workaroundPending === 'true') {
-                selectedTemplate = '7.4';
-            } else if (newWorknoteAvailable === true || newWorknoteAvailable === 'true') {
-                selectedTemplate = '7.9';
-            } else if (impliedState === 'Resolved' &&
-                (resolutionCode === 'Canceled' || resolutionCode === 'Fix Applied')) {
-                selectedTemplate = '7.10.1';
-            } else {
-                selectedTemplate = '7.10.2';
-            }
-        }
-
-        // Safety fallback — never return undefined template
-        if (!selectedTemplate) {
-            return this._stop('Template could not be determined for problem_state: ' +
-                problemState + ', resolution_code: ' + resolutionCode +
-                ', routing_decision: ' + routingDecision);
-        }
-
-        var appendWorkaround = (workaroundPending === true || workaroundPending === 'true') &&
-            selectedTemplate !== '7.4';
-        var appendWorknote = (newWorknoteAvailable === true || newWorknoteAvailable === 'true') &&
-            selectedTemplate !== '7.9';
-
-        return {
-            success: true,
-            routing_decision: routingDecision,
-            selected_template: selectedTemplate,
-            append_workaround: appendWorkaround,
-            append_worknote: appendWorknote,
-            fill_worknote_token: selectedTemplate === '7.9',
-            fill_workaround_token: selectedTemplate === '7.4'
-        };
-    },
-
-    // ---- helpers (return shape identical to the original tool) ----
-    _out: function(decision, template) {
-        return {
-            success: true,
-            routing_decision: decision,
-            selected_template: template,
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    },
-
-    _stop: function(reason) {
-        return {
-            success: true,
-            routing_decision: 'STOP',
-            selected_template: null,
-            stop_reason: reason,
-            append_workaround: false,
-            append_worknote: false,
-            fill_worknote_token: false,
-            fill_workaround_token: false
-        };
-    },
-
-    type: 'caseRoutingUtil'
-};
-```
 
 **Tool delegation** — replace the tool's IIFE body with:
 
 ```javascript
 (function(inputs) {
-    return new caseRoutingUtil().resolve(inputs);
+    return new caseRoutingPCCCUtil().resolve(inputs);
 })(inputs);
 ```
 
 > [!tip] Confirm the extraction before trusting T2
-> Run a quick Background Script (scope `sn_csm_ai_agents`) calling `new caseRoutingUtil().resolve(...)` across a few known combinations and eyeball the output. Then draft one live NAP message through the tool — if it throws a cross-scope / `Illegal access` error, set the Script Include's **Accessible from** to *All application scopes* or add a cross-scope privilege record.
+> Run a quick Background Script (scope `sn_csm_ai_agents`) calling `new caseRoutingPCCCUtil().resolve(...)` across a few known combinations and eyeball the output. Then draft one live NAP message through the tool — if it throws a cross-scope / `Illegal access` error, set the Script Include's **Accessible from** to *All application scopes* or add a cross-scope privilege record.
 
 ---
 
@@ -462,10 +353,10 @@ Use the **Record Query** step's assertion tab (field `u_problem_updated`, operat
 | Concern | Test |
 |---|---|
 | Template bodies / first-name / tokens / reset_count | T1 |
-| Routing branch correctness (decision, template, append/fill) | T2 (via [[caseRoutingUtil]]) |
+| Routing branch correctness (decision, template, append/fill) | T2 (via [[caseRoutingPCCCUtil]]) |
 | BR flag/exit gates | T3 |
 | Counter / threshold / reset | T4 |
 
-Related: [[Proactive Customer Case Communicator]] · [[caseRoutingUtil]] · [[Resolve routing decision and template selection]] · [[PCCC - Template & Stale Rework - Task Plan]] · [[PCCC - Testing - ATF Build & Manual Runbook]]
+Related: [[Proactive Customer Case Communicator]] · [[caseRoutingPCCCUtil]] · [[Resolve routing decision and template selection]] · [[PCCC - Template & Stale Rework - Task Plan]] · [[PCCC - Testing - ATF Build & Manual Runbook]]
 
 #servicenow #atf #testing #now-assist #csm #custom-solutions
