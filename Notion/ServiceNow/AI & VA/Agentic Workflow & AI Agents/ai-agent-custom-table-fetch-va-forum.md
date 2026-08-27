@@ -1,3 +1,15 @@
+---
+aliases:
+  - "AI Agent to fetch data from custom table (VA forum)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - virtual-agent
+  - tools
+  - forum
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/virtual-agent-forum/ai-agent-to-fetch-data-from-custom-table-and-return-couple/m-p/3429630 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

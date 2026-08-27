@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Get Familiar with Agentic Workflows and AI Agent (lab)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - lab
+  - now-assist-panel
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/developer-articles/get-familiar-with-agentic-workflows-amp-ai-agent/ta-p/3326559 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

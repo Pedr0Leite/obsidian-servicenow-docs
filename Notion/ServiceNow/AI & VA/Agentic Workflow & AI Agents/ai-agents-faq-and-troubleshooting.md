@@ -1,3 +1,15 @@
+---
+aliases:
+  - "AI Agents FAQ and Troubleshooting"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - faq
+  - troubleshooting
+  - licensing
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/ai-agents-faq-and-troubleshooting/ta-p/3200454 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

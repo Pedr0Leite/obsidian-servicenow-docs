@@ -1,3 +1,15 @@
+---
+aliases:
+  - "In-product experience for Agentic Workflows"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - now-assist
+  - ui
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/in-product-experience-for-agentic-workflows/ta-p/3507831 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via defuddle/WebFetch/CLI with 503 — real browser session succeeded, no login required) -->

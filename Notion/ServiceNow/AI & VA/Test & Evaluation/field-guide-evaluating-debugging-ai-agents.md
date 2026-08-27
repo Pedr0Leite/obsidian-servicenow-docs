@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Field Guide to Evaluating, Analyzing and Debugging AI Agents"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - evaluation
+  - analytics
+  - troubleshooting
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/ceg-ai-coe-articles/a-field-guide-to-evaluating-analyzing-and-debugging-ai-agents-on/ta-p/3545229 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

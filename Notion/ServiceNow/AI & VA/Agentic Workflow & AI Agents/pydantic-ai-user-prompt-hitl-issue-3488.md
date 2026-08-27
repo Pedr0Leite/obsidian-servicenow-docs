@@ -1,3 +1,14 @@
+---
+aliases:
+  - "pydantic-ai issue 3488 - user_prompt with HITL"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - human-in-the-loop
+  - prior-art
+  - non-servicenow
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://github.com/pydantic/pydantic-ai/issues/3488 -->
 <!-- Fetched: 2026-07-23 via defuddle CLI -->

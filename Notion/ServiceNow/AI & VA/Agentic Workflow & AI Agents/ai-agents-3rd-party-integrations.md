@@ -1,3 +1,14 @@
+---
+aliases:
+  - "AI Agents and 3rd party integrations"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - integrations
+  - hrsd
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/ai-agents-and-3rd-party-integrations/ta-p/3316286 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

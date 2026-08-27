@@ -20,8 +20,12 @@ date: 2026-07-22
 > [!info] Status
 > Design only. Resolves both open questions from [[partner-case-summary-agent|the story]]: role-vs-group access design, and Virtual Agent/NAP licensing with a documented fallback. Nothing built yet.
 
+> [!warning] §4 and §5 superseded by the v4 prompt package
+> The prompt/tool design has moved on to **v4** (three tools; per-case summarization runs inside the account-query loop and is returned as `resume`) since this section was first written — see [[partner-case-summary-agent-prompt-package]] for the current agent prompt, full tool contracts, and a script defect register (D1-D6). §4 below is kept for the original two-tool rationale but is no longer the build target; §5's ACL claim is corrected in that package's D2. See §17 Changelog.
+
 ## Related
 - [[partner-case-summary-agent]] — locked story this design implements
+- [[partner-case-summary-agent-prompt-package]] — canonical v3 agent prompt, tool contracts, defect register, open items
 - [[Proactive Customer Case Communicator]] — sibling agent on the same table; this design intentionally diverges from its write-heavy pattern where noted
 
 ---
@@ -124,6 +128,9 @@ Row-per-case (not row-per-request) on the account flow so "which cases were summ
 > [!note] Why two tools, not one
 > Keeping the tools split mirrors the story's two named capabilities and keeps each tool's GlideRecord query simple and independently testable, matching PCCC's convention of one tool per distinct data operation rather than one do-everything tool.
 
+> [!warning] Superseded — v4 uses three tools, not two
+> "Get Active Cases for Account" was split into two tools (Search Account → user selection gate → Get Active Cases from Account), with per-case summarization now happening *inside* Get Active Cases from Account's query loop via `sn_uxc_gen_ai.TaskSummarize`, returned per case as `resume` rather than as a separate bulk step. (An intermediate v3 briefly used a fourth, standalone `GetBulkCasesSummarization` tool — superseded, see the prompt package's changelog.) Full contracts: [[partner-case-summary-agent-prompt-package#8. Tool contracts|prompt package §8]]. The "one tool per data operation" rationale above still holds — it's *why* the split happened, just with a finer grain than originally designed.
+
 ---
 
 ## 5. Script Include — `PartnerCaseSummaryUtil`
@@ -139,6 +146,9 @@ Single Script Include, scoped, owning all data access — mirrors `caseUpdateAge
 No write methods exist in this Script Include — there is no `_addCaseComment`-equivalent, by design (§0).
 
 ### Why ACL enforcement here is "do nothing extra," and why that's the point
+
+> [!bug] Corrected by the prompt package (D2) — plain `GlideRecord` is NOT sufficient here
+> The claim below — that `GlideRecord` "automatically" respects the invoking user's ACLs — holds for a Business Rule or Client Script running in the user's own session, but **not** for a scoped-app Script Include: scoped-app `GlideRecord` evaluates against the **application's** access rights, not the caller's record-level ACLs. Both query methods (`getCaseSummaryData`, `getActiveCasesForAccount`) must use `GlideRecordSecure()`, not `GlideRecord()`. Without this fix, Search Account / Get Active Cases from Account can return records the Partner Manager cannot open, and — since the per-case summarization step moved in-loop (v4) — that same unsecured query feeds sys_ids straight into `TaskSummarize`, so the tool generates and returns summary **content** for those cases, a worse leak than existence disclosure. See [[partner-case-summary-agent-prompt-package#9. Script defect register|prompt package §9, D2]] for the full writeup and fix. The paragraph below is kept for historical context; treat "do nothing extra" as false until `GlideRecordSecure()` is in place.
 
 `GlideRecord` queries executed in the context of the invoking user automatically apply `sn_customerservice_case` ACLs — rows the user isn't authorized to read are simply not returned by `gr.query()`/`gr.next()`. The Script Include does not need (and must not add) any bypass such as `setWorkflow(false)`, `autoSysFields(false)`, or an elevated service account impersonation. This is the mechanism that satisfies "respect existing case ACLs, no privilege escalation" — it's automatic as long as:
 
@@ -285,5 +295,20 @@ Rationale:
 ## 10. Dependencies
 
 - Depends on the Now Assist / AI Agent framework already active on this instance (confirmed likely present, since PCCC runs on it — §9 step 1 verifies rather than assumes).
-- Depends on `sn_customerservice_case`'s existing ACL configuration being correct and complete already — this design adds no case-level ACLs and relies entirely on what's already governing case visibility today.
+- Depends on `sn_customerservice_case`'s existing ACL configuration being correct and complete already — this design adds no case-level ACLs and relies entirely on what's already governing case visibility today, **provided §5's `GlideRecordSecure()` fix (D4) is applied** — plain `GlideRecord` in a scoped-app Script Include does not inherit this automatically.
 - No dependency on PCCC's components — separate scope, separate Script Include, no shared code. Comparison in this document is for consistency/convention only, not a build dependency.
+
+---
+
+## 17. Changelog
+
+### 2026-08-11 (later same day) — v4 prompt package: back to three tools, summarization moved in-loop
+- [[partner-case-summary-agent-prompt-package]] revised to v4: the standalone `GetBulkCasesSummarization` tool introduced in v3 is removed. Per-case `TaskSummarize` calls now happen inside Get Active Cases from Account's own query loop, returned per case as a `resume` field — three tools total, not four.
+- Defect register reset against the current script: new D1 (`ReferenceError` on undefined `rec` — leftover from an earlier `forEach` implementation, blocks every account with active cases), D3 (empty table name, Search Account only — Get Active Cases from Account's own table-name defect from v3 is fixed), D4 (unguarded `JSON.parse` — same shape as v3's D5, renumbered), D5/D6 (performance/config, same substance as v3's D6/D7). The v3 ACL defect carries forward unchanged, renumbered **D2** (was D4) — still the single most load-bearing open issue.
+- Architecture §4/§5 callouts and this changelog updated to reference D2 (not D4) and three tools (not four) accordingly.
+
+### 2026-08-11 — v3 prompt package landed; tool count 2→4; ACL claim in §5 corrected
+- Full canonical agent prompt (name/description/role/instructions), memory-variable table, and four tool contracts landed in a new companion note: [[partner-case-summary-agent-prompt-package]]. §4 above (2-tool design) is superseded — kept for its original rationale, not as the build target.
+- **Regression/correction found while reconciling this doc against the prompt package:** §5's core claim that plain `GlideRecord` "automatically" enforces the invoking user's ACLs is **false for scoped-app Script Includes** — confirmed as defect D4 in the prompt package. Both query methods need `GlideRecordSecure()`. This was an unverified assumption in the original design, not a regression from a prior working state (nothing has been built yet), but it is the single most load-bearing security claim in the document and it does not hold as written.
+- Account-level summarization moved from "the agent does per-case LLM reasoning over tool-returned data" (original §4 Tool 2 design) to a dedicated `GetBulkCasesSummarization` tool wrapping `sn_uxc_gen_ai.TaskSummarize` — a genuinely different data flow, not just a rename. Six more defects (D1, D2, D3, D5, D6, D7) catalogued in the prompt package, three of them (D1-D3) blocking on the account path.
+- Test plan impact and open items (O1-O5) tracked in the prompt package rather than duplicated here — see that note's §10/§11.
