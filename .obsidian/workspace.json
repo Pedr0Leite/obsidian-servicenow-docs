@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3363ec651fe7a7a3",
+        "id": "ea3152b1ec6dee68",
         "type": "tabs",
         "children": [
           {
-            "id": "00cb085f8bb1c29d",
+            "id": "304503e2b6770b4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -157,28 +163,47 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "8ef0731eb249b69b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "00cb085f8bb1c29d",
-  "lastOpenFiles": []
+  "active": "304503e2b6770b4a",
+  "lastOpenFiles": [
+    "graphify/sn-instance-scan/GRAPH_REPORT.md",
+    "graphify/capacity-planner",
+    "graphify/New folder",
+    "Applications/sn-instance-scan/examples-to-follow-from/202210_Assessment Navigator_v0.1_Draft.pdf",
+    "Applications/sn-instance-scan/examples-to-follow-from/Assessment Report Document - Agentic AI - ITSM.pdf",
+    "Applications/sn-instance-scan/examples-to-follow-from",
+    "Applications/sn-instance-scan/New folder"
+  ]
 }

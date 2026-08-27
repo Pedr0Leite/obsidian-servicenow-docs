@@ -1,0 +1,130 @@
+digraph capability {
+  graph [rankdir=TB, splines=true, nodesep=0.35, ranksep=0.7, bgcolor="white",
+         fontname="Helvetica", fontsize=11, compound=true, pad=0.35];
+  node  [fontname="Helvetica", fontsize=9, shape=component, style="filled", fillcolor="#EEF4F8", color="#2A4B5C", penwidth=1.2];
+  edge  [fontname="Helvetica", fontsize=8, color="#3D5A6C", arrowsize=0.6];
+  labelloc="t";
+  label=<<b>UML Component Diagram &#8212; Platform Capability Map</b><br/><font point-size="9">Active product footprint inferred from 1350 active modules (sys_plugins), scan 2026-07-29</font>>;
+
+  /* ---- EXPERIENCE LAYER ---- */
+  subgraph cluster_ux {
+    label=<<b>Experience Layer</b>>; style="rounded,filled"; fillcolor="#F2F7FB"; color="#4A7C9B"; fontsize=11;
+    nxui  [label=<&#171;component&#187;<br/><b>Next Experience (UXF)</b><br/><font point-size="7">com.sn_nxui_framework<br/>Magellan / Concourse nav</font>>];
+    aw    [label=<&#171;component&#187;<br/><b>Agent / Configurable<br/>Workspace</b><br/><font point-size="7">com.agent_workspace<br/>workspace_core &#183; app_shell_aw</font>>];
+    uib   [label=<&#171;component&#187;<br/><b>UI Builder</b><br/><font point-size="7">com.glide.ux.config<br/>macroponent catalog item</font>>];
+    sp    [label=<&#171;component&#187;<br/><b>Service Portal</b><br/><font point-size="7">com.glide.service-portal.*<br/>agent-chat &#183; restricted pages</font>>];
+    mob   [label=<&#171;component&#187;<br/><b>Now Mobile</b><br/><font point-size="7">com.glide.sg &#183; sg.theme<br/>mobile.studio.api</font>>];
+    vtb   [label=<&#171;component&#187;<br/><b>Visual Task Boards</b><br/><font point-size="7">com.glide.ui.vtb</font>>];
+  }
+
+  /* ---- APPLICATION LAYER ---- */
+  subgraph cluster_app {
+    label=<<b>Application Layer &#8212; ACTIVE</b>>; style="rounded,filled"; fillcolor="#F1FAF3"; color="#3E8E5A"; fontsize=11;
+    itsm [label=<&#171;subsystem&#187;<br/><b>ITSM</b><br/><font point-size="7">Incident (best_practice.london)<br/>Problem (com.snc.problem)<br/>Change: core &#183; model foundation &#183;<br/>policy &#183; collision &#183; risk calc &#183; calendar<br/>Knowledge Advanced<br/>Universal Request Core</font>>, fillcolor="#DFF2E4", shape=box, style="rounded,filled"];
+    sc   [label=<&#171;subsystem&#187;<br/><b>Service Catalog / Request</b><br/><font point-size="7">com.glideapp.servicecatalog<br/>+ platform &#183; wizard &#183; REST API<br/>UI Policy for Catalog<br/>Delegated Request Experience</font>>, fillcolor="#DFF2E4", shape=box, style="rounded,filled"];
+    slm  [label=<&#171;subsystem&#187;<br/><b>Service Level Mgmt</b><br/><font point-size="7">com.snc.sla.* (ATF, contract2,<br/>guided_tour)</font>>, fillcolor="#DFF2E4", shape=box, style="rounded,filled"];
+    itam [label=<&#171;subsystem&#187;<br/><b>ITAM</b><br/><font point-size="7">Asset Mgmt &#183; SAM Extensions<br/>Fixed Asset &#183; Contract Mgmt<br/>Asset Mgmt Workspace (+Recomm.)<br/>My Assets &#183; Asset Mgmt PA</font>>, fillcolor="#DFF2E4", shape=box, style="rounded,filled"];
+    cmdb [label=<&#171;subsystem&#187;<br/><b>CMDB / CSDM</b><br/><font point-size="7">CMDB scoped &#183; CMDB Data Manager<br/>(CI Lifecycle) &#183; CMDB Guided Setup<br/>Next-Gen BSM<br/>ITSM CSDM Best Practice &#8211; Quebec</font>>, fillcolor="#DFF2E4", shape=box, style="rounded,filled"];
+    itom [label=<&#171;subsystem&#187;<br/><b>ITOM &#8212; foundation only</b><br/><font point-size="7">MID Server (com.glideapp.agent)<br/>ITOM UI Components<br/>ITOM Guided Setup (legacy)<br/><b>NO</b> Discovery / Service Mapping /<br/>Event Mgmt / Cloud Mgmt</font>>, fillcolor="#FDF3D8", color="#B58B22", shape=box, style="rounded,filled"];
+    orphan [label=<&#171;subsystem&#187;<br/><b>Orphaned / unattached</b><br/><font point-size="7">Employee Service Center<br/>(com.sn_hr_service_portal) &#8212; <b>no HR Core</b><br/>Process Mining Core (com.sn_process_optimization)<br/>OpenFrame + omnichannel components<br/>Trino / Kafka data paths</font>>, fillcolor="#FBE3D8", color="#B8674A", shape=box, style="rounded,dashed,filled"];
+  }
+
+  /* ---- INTELLIGENCE ---- */
+  subgraph cluster_ai {
+    label=<<b>Intelligence &amp; Analytics</b>>; style="rounded,filled"; fillcolor="#F5F2FA"; color="#6B5B95"; fontsize=11;
+    na   [label=<&#171;component&#187;<br/><b>Now Assist Core</b><br/><font point-size="7">com.now_assist_core<br/>Mobile Now Assist Search<br/><i>no domain NA skills detected</i></font>>, fillcolor="#E7E1F2"];
+    ais  [label=<&#171;component&#187;<br/><b>AI Search</b><br/><font point-size="7">com.glide.ais &#183; index_sources<br/>AI Search Assist</font>>, fillcolor="#E7E1F2"];
+    va   [label=<&#171;component&#187;<br/><b>Virtual Agent</b><br/><font point-size="7">Glide Conversation Server<br/>VA Designer &#183; Web Client &#183; Spoke<br/>SM VA Core &#183; SP widgets</font>>, fillcolor="#E7E1F2"];
+    nlu  [label=<&#171;component&#187;<br/><b>NLU Workbench</b><br/><font point-size="7">com.snc.nlu_studio &#183; nlu.model<br/>Active Learning &#183; NLU proxy</font>>, fillcolor="#E7E1F2"];
+    pa   [label=<&#171;component&#187;<br/><b>Performance Analytics</b><br/><font point-size="7">PA Enhanced UI &#183; Data Snapshots<br/>Content Pack: Problem<br/>PAR Intelligence / Analytics Artifacts<br/>Benchmarks Client + Spoke</font>>, fillcolor="#E7E1F2"];
+  }
+
+  /* ---- PLATFORM CORE ---- */
+  subgraph cluster_core {
+    label=<<b>Now Platform Core</b>>; style="rounded,filled"; fillcolor="#FAFAFA"; color="#6B6B6B"; fontsize=11;
+    glide [label=<&#171;component&#187;<br/><b>Glide Core</b><br/><font point-size="7">com.snc.core &#183; State Engine<br/>Complex Object &#183; Metric Definition<br/>Remote Tables &#183; Database Views</font>>];
+    flow  [label=<&#171;component&#187;<br/><b>Flow Designer / PAD</b><br/><font point-size="7">Action Trigger &#183; system actions<br/>action steps: REST, script, email,<br/>SMS, collector<br/>Process Automation Designer</font>>];
+    wf    [label=<&#171;component&#187;<br/><b>Legacy Workflow</b><br/><font point-size="7">com.glideapp.workflow.authoring<br/><i>co-exists with Flow Designer</i></font>>, fillcolor="#FDF3D8", color="#B58B22"];
+    notif [label=<&#171;component&#187;<br/><b>Notification Engine</b><br/><font point-size="7">Engine Based Notifications<br/>Email Client &#183; Layout &#183; Digest<br/>Email/SMS separation &#183; Push Retention</font>>];
+    search [label=<&#171;component&#187;<br/><b>Text Search</b><br/><font point-size="7">Text Index (+attachments)<br/>Global Search REST &#183; NLQ &#183; Analytics</font>>];
+  }
+
+  /* ---- INTEGRATION ---- */
+  subgraph cluster_int {
+    label=<<b>Integration Layer</b>>; style="rounded,filled"; fillcolor="#FFF6F2"; color="#B8674A"; fontsize=11;
+    ihub [label=<&#171;component&#187;<br/><b>IntegrationHub</b><br/><font point-size="7">Runtime &#183; Designer Core &#183; Wizards<br/>Usage + Feature dashboards<br/>Stream Connect &#183; Kafka consumer/ETL</font>>, fillcolor="#FBE3D8"];
+    spokes [label=<&#171;component&#187;<br/><b>Spokes</b><br/><font point-size="7">ITSM &#183; CICD &#183; Virtual Agent<br/>Benchmarks &#183; Connect &#183; VTB</font>>, fillcolor="#FBE3D8"];
+    api  [label=<&#171;component&#187;<br/><b>Inbound APIs</b><br/><font point-size="7">REST Provider &#183; Scripted REST<br/>GraphQL (framework, editor, explorer)<br/>SOAP / Web Services &#183; OpenAPI<br/>CORS &#183; rate limit &#183; access policy</font>>, fillcolor="#FBE3D8"];
+    data [label=<&#171;component&#187;<br/><b>Data Movement</b><br/><font point-size="7">Import Sets (+REST/IH) &#183; Export Sets<br/>Transform Service &#183; Trino Integration<br/>NowMQ v1/v2 &#183; ECC Queue</font>>, fillcolor="#FBE3D8"];
+  }
+
+  /* ---- SECURITY & GOVERNANCE ---- */
+  subgraph cluster_sec {
+    label=<<b>Security &amp; Governance</b>>; style="rounded,filled"; fillcolor="#FDF3F5"; color="#A34C63"; fontsize=11;
+    sec [label=<&#171;component&#187;<br/><b>Access Control</b><br/><font point-size="7">High Security Settings<br/>Contextual Security Rules &#183; Query ACL<br/>Security Jump Start &#183; Scope Master<br/>Restricted Caller Access</font>>, fillcolor="#F7DEE5"];
+    idm [label=<&#171;component&#187;<br/><b>Identity &amp; Auth</b><br/><font point-size="7">OAuth 2.0 &#183; LDAP &#183; mutual-TLS<br/>Adaptive Auth &#183; IP-range auth<br/>MFA (soft PIN, email OTP, KBA)<br/>Identity Center &#183; Machine Identity</font>>, fillcolor="#F7DEE5"];
+    sm  [label=<&#171;component&#187;<br/><b>Secrets &amp; Audit</b><br/><font point-size="7">Secrets Mgmt (core + global)<br/>Identity Security Audit &#183; Audit TTL<br/>Security Center (Xanadu family)</font>>, fillcolor="#F7DEE5"];
+  }
+
+  /* ---- ALM ---- */
+  subgraph cluster_alm {
+    label=<<b>Application Lifecycle</b>>; style="rounded,filled"; fillcolor="#F6F6FB"; color="#5A5A8E"; fontsize=11;
+    atf [label=<&#171;component&#187;<br/><b>ATF</b><br/><font point-size="7">framework + parameters, lists,<br/>REST inbound, SC portal,<br/>hosted test generation</font>>, fillcolor="#E4E4F2"];
+    scm [label=<&#171;component&#187;<br/><b>Change Delivery</b><br/><font point-size="7">Metadata Source Control (Git)<br/>Update Sets (+batching, preview,<br/>hierarchy) &#183; CICD REST API</font>>, fillcolor="#E4E4F2"];
+    upg [label=<&#171;component&#187;<br/><b>Upgrade &amp; Ops</b><br/><font point-size="7">Upgrade Center &#183; Impact Tracker<br/>Blame Tool &#183; Live Upgrade<br/>Clone API &#183; Instance Scan<br/>Delete Recovery &#183; Table Cleaner</font>>, fillcolor="#E4E4F2"];
+    custom [label=<&#171;custom application&#187;<br/><b>SN Instance Scan</b><br/><font point-size="7"><b>x_335329_iscan</b><br/>5 tables &#183; 6 script includes<br/>12 ACLs &#183; 4 UI actions &#183; 2 UI policies<br/>0 BR &#183; 0 flows &#183; 0 integrations</font>>, fillcolor="#DFF2E4", color="#3E8E5A", penwidth=2.0];
+  }
+
+  /* ---- DEPENDENCIES ---- */
+  nxui -> aw     [style=dashed, label="«use»"];
+  nxui -> uib    [style=dashed];
+  aw   -> itsm   [style=dashed];
+  sp   -> sc     [style=dashed];
+  mob  -> itsm   [style=dashed];
+  vtb  -> itsm   [style=dashed];
+
+  itsm -> cmdb   [label="CI reference"];
+  sc   -> itsm   [label="RITM → task"];
+  slm  -> itsm   [label="SLA attach"];
+  itam -> cmdb   [label="asset ↔ CI"];
+  itom -> cmdb   [label="population\n(MID only)", color="#B58B22"];
+
+  va   -> nlu    [style=dashed];
+  va   -> itsm   [label="deflection"];
+  ais  -> search [style=dashed];
+  na   -> ais    [style=dashed];
+  pa   -> itsm   [style=dashed, label="indicators"];
+
+  itsm -> flow   [style=dashed];
+  sc   -> flow   [style=dashed];
+  flow -> glide  [style=dashed];
+  wf   -> glide  [style=dashed, color="#B58B22"];
+  notif -> glide [style=dashed];
+
+  flow -> ihub   [style=dashed];
+  ihub -> spokes [style=dashed];
+  ihub -> data   [style=dashed];
+  api  -> glide  [style=dashed];
+  data -> glide  [style=dashed];
+
+  sec  -> glide  [style=dashed, color="#A34C63"];
+  idm  -> sec    [style=dashed, color="#A34C63"];
+  sm   -> sec    [style=dashed, color="#A34C63"];
+
+  atf  -> itsm   [style=dotted, color="#5A5A8E"];
+  scm  -> glide  [style=dotted, color="#5A5A8E"];
+  upg  -> glide  [style=dotted, color="#5A5A8E"];
+  custom -> glide [label="reads sys_app,\nsys_db_object,\nsys_dictionary", color="#3E8E5A", penwidth=1.6];
+
+  /* layout guides: force vertical layering, keep width down */
+  edge [style=invis, weight=40];
+  sp -> itsm; nxui -> sc; uib -> slm; mob -> itam; vtb -> cmdb;
+  itam -> pa; cmdb -> na;
+  glide -> sec; glide -> idm; glide -> sm;
+  ihub -> atf; api -> scm; data -> upg; spokes -> custom;
+  edge [style=solid, weight=1];
+
+  orphan -> glide [style=dotted, color="#B8674A", label="no consumer"];
+
+  note [shape=note, fillcolor="#FFFDF0", color="#B58B22", fontsize=9, style=filled, label=<<b>Absent from the scan &#8212; no plugin found</b><br align="left"/>HRSD apps (only the ESC portal is active) &#183; CSM &#183; FSM<br align="left"/>SecOps (SIR / VR) &#183; IRM / GRC &#183; SPM-PPM (read-role stubs only)<br align="left"/>Discovery &#183; Service Mapping &#183; Event Management &#183; Cloud Management<br align="left"/>Domain Separation &#183; Now Assist domain skills<br align="left"/>AI Agents / Agentic Workflow (AIA / AWF)<br align="left"/>>];
+}

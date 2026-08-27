@@ -41,7 +41,7 @@ Once triggered, the agent (`sn_aia_agent` "Proactive Customer Case Communicator"
 | **2 — Clean & filter content** | Cleans work notes / prior comments in strict order: strip greetings/sign-offs → strip raw mentions/emails (keep the sentence) → strip internal role references, internal-only questions, coordination/routing chatter, attachment references. | Agent (LLM), deterministic *rules*, not judgment |
 | **3 — Title** | Builds `[MEANINGFUL_TITLE]` (8–10 words) from `short_description`/`description`. Locked once set — not regenerated later. | Agent (LLM) |
 | **4 — Resolve worknote availability** | Decides `NEW_PROBLEM_WORKNOTE_AVAILABLE` (true/false) from `problem_details.work_notes_history` + `[LOCKED_WORKNOTE]` + prior AI comments, reasoning internally. | Agent (LLM) — **outputs this as a raw JSON block**, see [[#Known issue — internal JSON leaking into NAP]] below |
-| **5 — Routing & template selection** | Calls the deterministic routing tool, stores `ROUTING_DECISION` / `SELECTED_TEMPLATE` / `APPEND_WORKAROUND` / `APPEND_WORKNOTE` / `FILL_WORKAROUND_TOKEN` / `FILL_WORKNOTE_TOKEN` verbatim (all LOCKED). Also produces a raw JSON block of these values before continuing. If `ROUTING_DECISION == STOP`, displays `stop_reason` to the consultant and halts. | Tool 2 = [[Resolve routing decision and template selection]] → delegates to [[caseRoutingUtil]] (pure function, see [[#7. Deterministic Routing]] in the architecture note) |
+| **5 — Routing & template selection** | Calls the deterministic routing tool, stores `ROUTING_DECISION` / `SELECTED_TEMPLATE` / `APPEND_WORKAROUND` / `APPEND_WORKNOTE` / `FILL_WORKAROUND_TOKEN` / `FILL_WORKNOTE_TOKEN` verbatim (all LOCKED). Also produces a raw JSON block of these values before continuing. If `ROUTING_DECISION == STOP`, displays `stop_reason` to the consultant and halts. | Tool 2 = [[Resolve routing decision and template selection]] → delegates to [[caseRoutingPCCCUtil]] (pure function, see [[#7. Deterministic Routing]] in the architecture note) |
 | **6 — Draft the message** | Combines the selected template body with any appended workaround/worknote content, using the locked variables from steps 3–5. Produces ONE customer-facing draft. | Agent (LLM), template text is fixed, only prose/token-filling is generative |
 | **7 — Human review (NAP)** | Draft is presented in the [[Now Assist Panel]] for the assigned consultant: **Approve / Modify / Reject**. Nothing is posted without this. | [[Human in the Loop]] |
 | **8 — Post** | On approval, writes to `comments` (customer-visible Additional Comments) with the fixed AI disclaimer appended, and updates the auto-update counter per the template's `reset_count` contract. | Tool 3 `_addCaseComment()` + `_incrementAutoUpdateCount()` |
@@ -63,7 +63,7 @@ Confirmed live (see session note below, not yet promoted to the architecture doc
 | Test | Covers |
 |---|---|
 | T1 — Template registry integrity | All 11 templates: no leftover tokens, first-name greeting/sign-off, correct greeting word, `reset_count` contract, no false "actively working" claim on 7.7/7.10.2 |
-| T2 (+ T2a) — Routing decision matrix | 22 branch combinations through [[caseRoutingUtil]] (gates 1–3, 6A/6B/6C, append/fill flags, safety fallback) |
+| T2 (+ T2a) — Routing decision matrix | 50 branch combinations through [[caseRoutingPCCCUtil]] (gates 1–3, 6A/6B/6C, append/fill flags, safety fallback) |
 | T3 — Business Rule case flagging | `AIPF_Flag Cases on Problem State or Work` flag/exit gates (8 scenarios) |
 | T4 — Counter & cooloff mechanics | Increment, threshold stamp, reset |
 
@@ -113,7 +113,7 @@ Confirmed live (see session note below, not yet promoted to the architecture doc
 
 | Edge | How to trigger | What to check |
 |---|---|---|
-| WI check duplication drift | Change the Work-Item-required logic in only one of the two places it's enforced ([[AIPF_Flag Cases on Problem State or Work]] vs. [[caseRoutingUtil]]) | The two authorities can drift — verify both still agree after any change to either |
+| WI check duplication drift | Change the Work-Item-required logic in only one of the two places it's enforced ([[AIPF_Flag Cases on Problem State or Work]] vs. [[caseRoutingPCCCUtil]]) | The two authorities can drift — verify both still agree after any change to either |
 | Disclaimer string change | Someone edits the AI disclaimer text or worknote phrasing ("has been associated with the Case", "has been updated to state -") | Every history/first-linkage/dedup query silently breaks since they string-match on these — regression-test after any copy change |
 
 ---
@@ -130,7 +130,7 @@ Keep ATF's `PCCC – Deterministic Regression` suite as-is (T1–T4, [[#B0. What
 - [[Proactive Customer Case Communicator]]
 - [[Proactive Customer Case Communicator - ATF Test Suite]]
 - [[caseUpdateAgentUtil]]
-- [[caseRoutingUtil]]
+- [[caseRoutingPCCCUtil]]
 - [[Resolve routing decision and template selection]]
 - [[AIPF_Flag Cases on Problem State or Work]]
 - [[Stale Case Scheduled Job]]
