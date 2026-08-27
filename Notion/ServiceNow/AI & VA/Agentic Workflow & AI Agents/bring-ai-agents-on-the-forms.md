@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Bring AI Agents on the Forms"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - ui
+  - forum
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-forum/bring-ai-agents-on-the-forms/m-p/3405557 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

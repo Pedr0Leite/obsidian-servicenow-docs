@@ -1,3 +1,14 @@
+---
+aliases:
+  - "Now Assist Panel error (plugin sync)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - now-assist-panel
+  - troubleshooting
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-forum/now-assist-panel-error/m-p/3480832 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

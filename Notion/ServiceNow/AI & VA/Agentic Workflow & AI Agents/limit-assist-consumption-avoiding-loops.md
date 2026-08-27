@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Limit Assist Consumption by Avoiding AI Agent Loops"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - performance
+  - triggers
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/ceg-ai-coe-articles/limit-assist-consumption-by-designing-ai-agents-which-avoid/ta-p/3450013 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

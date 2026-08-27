@@ -1,3 +1,14 @@
+---
+aliases:
+  - "Now Assist forum - misc threads"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - forum
+  - troubleshooting
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Two short forum threads bundled together — both low individual content but worth keeping. -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

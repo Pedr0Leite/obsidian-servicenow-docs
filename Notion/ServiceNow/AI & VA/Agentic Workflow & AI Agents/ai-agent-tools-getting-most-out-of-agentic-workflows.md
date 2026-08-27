@@ -1,3 +1,14 @@
+---
+aliases:
+  - "AI Agent tools - Getting the most out of your agentic workflows"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - tools
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/ai-agent-tools-getting-the-most-out-of-your-agentic-workflows/ta-p/3227648 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

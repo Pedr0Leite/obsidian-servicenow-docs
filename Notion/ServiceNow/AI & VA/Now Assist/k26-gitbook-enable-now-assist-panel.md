@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Enable the Now Assist Panel (K26 SNU8139 lab)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - now-assist-panel
+  - k26
+  - lab
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://servicenow-events-or-lab-guidebo.gitbook.io/knowledge-2026/knowledge-2026/snu8139-k26/call-my-agent-demystifying-ai-agents-in-servicenow/enable-the-now-assist-panel -->
 <!-- Fetched: 2026-07-23 via defuddle CLI -->

@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Now Assist FAQs"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - faq
+  - generative-ai
+  - licensing
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/now-assist-faqs/ta-p/2685122 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

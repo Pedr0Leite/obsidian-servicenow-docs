@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Accelerating Agent Responses with Activity Response Generation"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - csm
+  - activity-stream
+  - generative-ai
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/accelerating-agent-responses-with-now-assist-s-activity-response/ta-p/3489063 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

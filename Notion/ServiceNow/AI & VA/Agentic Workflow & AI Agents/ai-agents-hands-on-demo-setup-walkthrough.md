@@ -1,3 +1,14 @@
+---
+aliases:
+  - "AI Agents Hands-On Demo and Setup Walkthrough"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - agentic-workflow
+  - lab
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/creator-special-interest-group/ai-agents-hands-on-demo-setup-walkthrough/ta-p/3176497 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

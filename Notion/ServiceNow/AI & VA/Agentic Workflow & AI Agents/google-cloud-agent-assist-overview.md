@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Google Cloud Agent Assist (product overview)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - competitive
+  - generative-ai
+  - csm
+  - non-servicenow
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://cloud.google.com/agent-assist?hl=tr -->
 <!-- Fetched: 2026-07-23 via defuddle CLI -->

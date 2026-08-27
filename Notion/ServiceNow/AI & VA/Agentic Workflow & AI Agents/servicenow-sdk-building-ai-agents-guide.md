@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Building AI Agents with the Fluent SDK"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - fluent-sdk
+  - now-sdk
+  - scripting
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://servicenow.github.io/sdk/guides/building-ai-agents-guide -->
 <!-- Fetched: 2026-07-23 via defuddle CLI -->

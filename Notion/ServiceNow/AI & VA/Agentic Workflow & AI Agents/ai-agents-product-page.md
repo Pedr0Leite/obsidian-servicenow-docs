@@ -1,3 +1,14 @@
+---
+aliases:
+  - "ServiceNow AI Agents (product page)"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - ai-agents
+  - servicenow-otto
+  - marketing
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/products/ai-agents.html -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked with 403 via defuddle/WebFetch, real browser succeeded, no login required) -->

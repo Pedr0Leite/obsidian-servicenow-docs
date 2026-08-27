@@ -1,3 +1,14 @@
+---
+aliases:
+  - "Now Assist Context Menu"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - generative-ai
+  - productivity
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/now-assist-articles/now-assist-context-menu-a-productivity-tool-within-servicenow/ta-p/3545940 -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->

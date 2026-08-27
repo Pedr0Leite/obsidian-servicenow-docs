@@ -1,3 +1,15 @@
+---
+aliases:
+  - "Now Assist for CSM - Email Reply Recommendations"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - now-assist
+  - csm
+  - email
+  - generative-ai
+---
+
 <!-- RAW SOURCE — landing in raw/inbox/ per README.md, not yet ingested into wiki/. -->
 <!-- Source URL: https://www.servicenow.com/community/csm-articles/now-assist-for-csm-email-reply-recommendations/ta-p/3345499 (redirected to "servicenow-otto-for-csm-email-reply-recommendations" — rebranding) -->
 <!-- Fetched: 2026-07-23 via claude-in-chrome (blocked via CLI, real browser succeeded, no login required) -->
