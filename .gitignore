@@ -1,6 +1,3 @@
 __pycache__/
-<<<<<<< HEAD
+scripts/.frontmatter_cache.jsonl
 .smart-env/
-=======
-.smart-env/
->>>>>>> origin/main
