@@ -3921,6 +3921,26 @@
     "KB0817583": "performance/KB0817583 - Slowness because of high memory contention when the job 'Flow Engine Event Handler' is running.md",
     "KB0817647": "application-development/KB0817647 - Forwarded emails and SPAM SPF_SOFTFAIL or SPF_HARDFAIL.md",
     "KB0817665": "application-development/KB0817665 - Rest API fails to post attachment, if the name contains square braces (or other special characters)..md",
-    "KB0817964": "application-development/KB0817964 - Attachment tablerecord attachment tab 'Updated By' field will have a value of 'system' when attaching a document to a re.md"
+    "KB0817964": "application-development/KB0817964 - Attachment tablerecord attachment tab 'Updated By' field will have a value of 'system' when attaching a document to a re.md",
+    "KB0540707": "integrations/KB0540707 - ODBC Driver Installer.md",
+    "KB0551644": "automation-configuration/KB0551644 - How to verify the push service received a notification.md",
+    "KB0717946": "integrations/KB0717946 - oAuth JWT Bearer Grant Type Integration Setup.md",
+    "KB0718002": "integrations/KB0718002 - oAuth JWT Grant Type Troubleshooting steps.md",
+    "KB0724520": "integrations/KB0724520 - SFTP import fails with error java.io.IOException SSH authentication failed, Timed out while waiting for TCP to connect.md",
+    "KB0791883": "application-development/KB0791883 - Undelivered Mail Returned to Sender.md",
+    "KB0792658": "application-development/KB0792658 - 'Send' button in email client fails with email getting send-ignored with error stating User did not click send.md",
+    "KB0817550": "integrations/KB0817550 - CORS policy Error thrown in external REST web API browser when using basic authentication to access servicenow table API.md",
+    "KB0817981": "application-development/KB0817981 - Response to a scripted REST API request is not received even though the request completes processing on the instance.md",
+    "KB0818176": "application-development/KB0818176 - How to define canonical mapping due to error xxxxx is not registered in canonical mapping in the logs.md",
+    "KB0818197": "application-development/KB0818197 - Import - Field map does not correctly set the target field which is configured with a Choice List.md",
+    "KB0818216": "application-development/KB0818216 - Image in the header of a UI page is not displayed in the exported PDF.md",
+    "KB0818234": "application-development/KB0818234 - MySQL and MariaDB Imports - JDBC data load fails with the error message MID Server reported error java.lang.NoClassDefFo.md",
+    "KB0818252": "integrations/KB0818252 - Twilio Direct Configuration error Could not connect as there are existing Twiml Apps in this account. Either delete them.md",
+    "KB0818290": "application-development/KB0818290 - OAuth - Authorization Code Grant flow requires User Interventions from the UI and cannot be automated programmatically.md",
+    "KB0818299": "integrations/KB0818299 - How to change the default ServiceNow sender email.md",
+    "KB0818304": "application-development/KB0818304 - How to identify slow data import due to coalesce.md",
+    "KB0818323": "application-development/KB0818323 - Multiple payloads are getting generated for one push notification.md",
+    "KB0818338": "scripting-and-coding/KB0818338 - ACL looping on 'glide.security.ui.filter' system property causing stackoverflow.md",
+    "KB0818495": "application-development/KB0818495 - One time code via email is not sending during the Multifactor Authentication process (MFA).md"
   }
 }
