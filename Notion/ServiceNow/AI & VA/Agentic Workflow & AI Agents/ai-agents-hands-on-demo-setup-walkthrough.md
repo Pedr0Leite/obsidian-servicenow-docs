@@ -127,3 +127,9 @@ Best regards,
 ## Why this might matter to this vault
 
 Full worked example of a **decision-making** (approve/reject) AI Agent with explicit "run only once" / "do not update" constraints in its instructions — useful comparison point for [[Proactive Customer Case Communicator]]'s "LOCKED" variable pattern and for [[partner-case-summary-agent]]'s read-only design (this agent shows the reverse: a write-capable agent that still constrains itself to single-execution steps via instructions, not code).
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

@@ -1,3 +1,17 @@
+---
+aliases:
+  - "Custom metrics for agentic auto-evaluation"
+area: "AI & VA"
+source: raw-inbox
+tags:
+  - agentic-workflow
+  - ai-agents
+  - evaluation
+  - custom-metric
+  - scripting
+  - testing
+---
+
 Custom metrics for agentic auto-evaluation
 
 A developer quick reference for workflows and AI agents
@@ -388,3 +402,9 @@ Most teams get what they need without ever authoring an expected result. The rea
 | Agentic evaluation run results           | servicenow.com/docs/r/zurich/intelligent-experiences/aia-eval-metrics.html                            |
 | Evaluate agentic workflows and AI agents | servicenow.com/docs/r/intelligent-experiences/execute-aia-eval.html                                   |
 | Call a custom skill from a script        | servicenow.com/docs/r/intelligent-experiences/now-assist-skill-kit/call-custom-skill-from-script.html |
+
+## Related
+
+- [[Custom metrics in Agentic Evaluation]]
+- [[field-guide-evaluating-debugging-ai-agents]]
+- [[partner-case-lookup-custom-evaluation-metric]]

@@ -110,3 +110,9 @@ The in-product experience for Agentic AI represents a significant step forward i
 ## Why this might matter to this vault
 
 Directly relevant to [[Proactive Customer Case Communicator]] and [[partner-case-summary-agent]] — this is an *alternative surfacing pattern* (embedded record-level UI actions + contextual side panel) to NAP/VA conversational entry, which the Partner Case Summary Agent architecture already flagged as a secondary/fallback path. The `com.glide.agentic_processes_view.enabled` property gate (admin-restricted, requires KB2762154 workaround) is a concrete config detail worth checking if either agent is ever moved toward this in-record surface instead of pure NAP.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

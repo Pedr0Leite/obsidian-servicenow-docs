@@ -48,3 +48,9 @@ Note: listed as a preview product/feature at time of fetch.
 ## Why this might matter to this vault
 
 Comparable positioning to ServiceNow's [[Now Assist Panel]] / [[Proactive Customer Case Communicator]] — both are "in-the-moment assistant surfaced to a human agent/consultant" patterns. Could be useful as an outside reference point if ever comparing NAP's approve/modify/reject human-in-the-loop design against a competing vendor's approach, but this page is pure marketing copy, not technical documentation — no architecture/config detail to mine.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

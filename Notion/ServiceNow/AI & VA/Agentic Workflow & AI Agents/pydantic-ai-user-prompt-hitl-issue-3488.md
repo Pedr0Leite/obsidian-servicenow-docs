@@ -104,3 +104,9 @@ Current behavior: pydantic-ai raises `UserError` when you try to pass a new `use
 ## Why this might matter to this vault
 
 Relevant prior art for [[Proactive Customer Case Communicator]]'s Approve/Modify/Reject design: this issue is effectively asking for a third option beyond binary approve/deny — mid-flow steering via a new prompt. PCCC's "Modify" option already covers a similar need (the consultant edits the draft rather than just approving/rejecting it), so this is a useful cross-framework comparison point if PCCC's approval UX is ever revisited, but not something requiring any action now.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

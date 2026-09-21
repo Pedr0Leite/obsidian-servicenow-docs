@@ -2,7 +2,7 @@
 
 Navigation index for the personal Notion export (`Notion/ServiceNow/`). Every note below has YAML frontmatter with an `aliases` entry (its clean title) and `tags`, plus a `## Related` section of `[[wikilinks]]` to other notes — Obsidian resolves these links via the alias, so the graph view now connects across folders.
 
-Total notes indexed: 285.
+Total notes indexed: 314.
 
 ---
 
@@ -108,31 +108,55 @@ Total notes indexed: 285.
 | Note | Tags |
 |------|------|
 | [[50+ (Un)documented Virtual Agent variables (vaInpu]] | #virtual-agent, #vaInputs, #vaVars, #vaContext, #vaSystem, #scripting |
+| [[Accelerating Agent Responses with Activity Response Generation]] | #now-assist, #csm, #activity-stream, #generative-ai |
 | [[Agentic Workflow & AI Agents]] | #ai-agents, #agentic-workflow, #react-loop, #now-intelligence |
 | [[Agentic Workflow & AI Agents – Tips]] | #ai-agents, #agentic-workflow, #prompt-engineering |
 | [[AI & VA]] | #ai-agents, #agentic-workflow, #ai-search, #genai, #virtual-agent, #now-intelligence |
+| [[AI Agent to fetch data from custom table (VA forum)]] | #ai-agents, #virtual-agent, #tools, #forum |
+| [[AI Agent tools - Getting the most out of your agentic workflows]] | #ai-agents, #agentic-workflow, #tools |
 | [[AI Agent tools – Getting the most out of your agen]] | #ai-agents, #agentic-workflow, #ai-agent-tools, #ai-search, #flow-designer |
 | [[AI Agents & Agentic Workflows — Reference Compilat]] | #ai-agents, #agentic-workflow, #genai, #ai-agent-studio, #now-intelligence |
+| [[AI Agents and 3rd party integrations]] | #ai-agents, #integrations, #hrsd |
+| [[AI Agents FAQ and Troubleshooting]] | #ai-agents, #faq, #troubleshooting, #licensing |
+| [[AI Agents Hands-On Demo and Setup Walkthrough]] | #ai-agents, #agentic-workflow, #lab |
+| [[AI Agents — Troubleshooting, Debugging & Best Practices (CCL6230-K26)]] | #ai-agents, #agentic-workflow, #troubleshooting, #debugging, #react-loop, #k26 |
 | [[AI Search]] | #ai-search, #vector-search, #rag, #now-intelligence |
 | [[AI Search – Considerations for Designing, Maintaining, and Sca]] | #ai-search, #search-relevancy, #scaling, #governance |
 | [[AI Search Synonyms]] | #ai-search, #synonyms, #search-relevancy |
 | [[Automation Discovery]] | #automation-discovery, #virtual-agent, #topic-recommendations, #now-intelligence |
 | [[Automation Discovery – Considerations for Designing, Maintaining, and Sca]] | #automation-discovery, #virtual-agent, #itsm, #topic-recommendations |
 | [[Best Practices for Creating AI Agent Workflows]] | #ai-agents, #agentic-workflow, #prompt-engineering, #react-loop, #troubleshooting |
+| [[Bring AI Agents on the Forms]] | #ai-agents, #agentic-workflow, #ui, #forum |
 | [[Build Custom AI Skills with Now Assist Skill Kit S]] | #now-assist-skill-kit, #genai, #custom-skills, #flow-designer |
+| [[Building AI Agents with the Fluent SDK]] | #ai-agents, #fluent-sdk, #now-sdk, #scripting |
+| [[Custom metrics for agentic auto-evaluation]] | #agentic-workflow, #ai-agents, #evaluation, #custom-metric, #scripting, #testing |
 | [[Custom metrics in Agentic Evaluation]] | #agentic-workflow, #ai-agents, #testing, #evaluation, #scripting |
+| [[Customizing text in the Now Assist chat window]] | #now-assist, #virtual-agent, #customization, #sys-ui-message, #support-case |
+| [[Enable the Now Assist Panel (K26 SNU8139 lab)]] | #now-assist, #now-assist-panel, #k26, #lab |
+| [[External users cannot open links in Virtual Agent chat]] | #virtual-agent, #now-assist, #acl, #csm, #service-portal, #support-case |
+| [[Field Guide to Evaluating, Analyzing and Debugging AI Agents]] | #ai-agents, #evaluation, #analytics, #troubleshooting |
 | [[GAF]] | #gaf, #genai, #ai-search, #now-intelligence, #scripting |
 | [[GenAI]] | #genai, #now-assist, #now-intelligence |
 | [[Get Familiar with Agentic Workflows & AI Agent]] | #ai-agents, #agentic-workflow, #ai-agent-studio, #now-assist-panel, #ai-search |
+| [[Get Familiar with Agentic Workflows and AI Agent (lab)]] | #ai-agents, #agentic-workflow, #lab, #now-assist-panel |
+| [[Get Similar Records AIS — CS9293768]] | #ai-search, #vector-search, #performance, #troubleshooting, #support-case, #csm |
 | [[getSimilarRecords Script]] | #ai-search, #vector-search, #scripting, #troubleshooting, #performance |
+| [[Google Cloud Agent Assist (product overview)]] | #competitive, #generative-ai, #csm, #non-servicenow |
 | [[How does Task Intelligence Work]] | #task-intelligence, #now-intelligence, #csm, #doc-intel |
+| [[In-product experience for Agentic Workflows]] | #ai-agents, #agentic-workflow, #now-assist, #ui |
 | [[Introducing AI Agents and Quick Start Guide]] | #ai-agents, #ai-agent-studio, #now-assist, #agentic-workflow, #ai-search |
 | [[Introducing Custom Record Summarization Now Assist]] | #now-assist, #genai, #summarization, #skill-kit, #app-engine |
 | [[Issue Auto Resolution]] | #issue-auto-resolution, #virtual-agent, #itsm, #now-intelligence |
 | [[Issue Auto Resolution – Considerations for Designing, Maintaining, and Sca]] | #issue-auto-resolution, #virtual-agent, #itsm, #upgrades |
 | [[Knowledge graph enhancing Virtual Agent search]] | #virtual-agent, #knowledge-graph, #ai-search, #now-assist, #nlq |
+| [[Limit Assist Consumption by Avoiding AI Agent Loops]] | #ai-agents, #agentic-workflow, #performance, #triggers |
 | [[Links to check later]] | #ai-search, #now-assist, #ai-agents, #reference-links |
 | [[Migrating Virtual Agent and NLU between instances]] | #virtual-agent, #nlu, #update-sets, #migration |
+| [[Now Assist Context Menu]] | #now-assist, #generative-ai, #productivity |
+| [[Now Assist FAQs]] | #now-assist, #faq, #generative-ai, #licensing |
+| [[Now Assist for CSM - Email Reply Recommendations]] | #now-assist, #csm, #email, #generative-ai |
+| [[Now Assist forum - misc threads]] | #now-assist, #forum, #troubleshooting |
+| [[Now Assist Panel error (plugin sync)]] | #now-assist, #now-assist-panel, #troubleshooting |
 | [[Now Assist]] | #now-assist, #genai, #virtual-agent, #ai-search, #skill-kit, #csm, #itsm |
 | [[Now Assist case Summaization in custom tables]] | #now-assist, #genai, #summarization, #csm |
 | [[Now Assist for CSM - Resolution Notes Generation]] | #now-assist, #genai, #csm, #summarization, #case-management |
@@ -141,6 +165,8 @@ Total notes indexed: 285.
 | [[Now Assist Panel (NAP) Troubleshooting Guide Commo]] | #now-assist, #troubleshooting, #genai, #admin, #virtual-agent |
 | [[Now Assist Q&A using Dynamic Translation]] | #now-assist, #genai, #translation, #virtual-agent, #ai-search |
 | [[Now Assist Skill Kit - Knowledge Article Categoriz]] | #now-assist, #skill-kit, #genai, #knowledge-management, #flow-designer |
+| [[pydantic-ai issue 3488 - user_prompt with HITL]] | #human-in-the-loop, #prior-art, #non-servicenow |
+| [[ServiceNow AI Agents (product page)]] | #ai-agents, #servicenow-otto, #marketing |
 | [[Task Intelligence]] | #task-intelligence, #now-intelligence, #predictive-intelligence, #csm |
 | [[Task Intelligence – Considerations for Designing, Maintaining, and Sca]] | #task-intelligence, #now-intelligence, #model-retraining, #scaling |
 | [[Test & Evaluation]] | #agentic-workflow, #ai-agents, #testing, #evaluation |
@@ -264,6 +290,7 @@ Total notes indexed: 285.
 | [[Anonymize data]] | #anonymize-data, #data-anonymization, #pii, #applications, #update-sets |
 | [[Applications]] | #applications, #update-sets, #anonymize-data, #update-set-mover |
 | [[Ideas]] | #anonymize-data, #pii, #data-anonymization, #applications |
+| [[ServiceNow Application Local Development Guide (SDK CLI)]] | #servicenow-sdk, #local-development, #cli, #applications, #update-sets |
 | [[Update Set Mover]] | #update-sets, #update-set-mover, #applications, #migrations |
 | [[Update sets - Full Applications]] | #update-sets, #applications, #integrations, #integrationhub |
 
@@ -310,6 +337,7 @@ Total notes indexed: 285.
 | Note | Tags |
 |------|------|
 | [[Create translation for an existing choice]] | #translations, #sys-choice, #background-scripts, #glide-record, #random-scripts |
+| [[Fix Broken KB Attachment References]] | #background-scripts, #fix-script, #attachments, #glide-record, #glide-sys-attachment, #knowledge-base, #random-scripts |
 | [[Fun with array methods!]] | #array-methods, #javascript, #glidequery, #random-scripts, #scripting |
 | [[Ler anexos excel via BG]] | #background-scripts, #attachments, #excel-parser, #glide-record, #random-scripts |
 | [[Random Scripts]] | #background-scripts, #array-methods, #ui-page, #translations, #random-scripts |
@@ -365,6 +393,7 @@ Total notes indexed: 285.
 
 | Note | Tags |
 |------|------|
+| [[CS9676678 — Related records search not indexed]] | #workspace, #csm, #text-index, #search-relevancy, #knowledge-management, #support-case |
 | [[How to use UI Actions in Workspaces]] | #workspace, #ui-actions, #declarative-actions, #g-modal |
 | [[Workspace]] | #workspace, #ui-actions, #app-shell, #next-experience-ui |
 | [[Workspace App Shell UX Page Properties]] | #workspace, #app-shell, #ui-builder, #next-experience-ui |

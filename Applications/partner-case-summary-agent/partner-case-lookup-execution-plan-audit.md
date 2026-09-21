@@ -1,3 +1,17 @@
+---
+aliases:
+  - "Partner Case Lookup — Execution Plan Forensic Audit"
+area: "partner-case-summary-agent"
+source: raw-inbox
+tags:
+  - servicenow
+  - sn_aia
+  - ai-agents
+  - agentic-workflow
+  - execution-plan
+  - troubleshooting
+---
+
 # Partner Case Lookup — Execution Plan Forensic Audit
 
 **Execution plan:** `821dfdf383c7cf1038241c426daad3e4` (state=`completed`, `status` field empty)
@@ -315,3 +329,8 @@ None of these field names (`tool_name`/`tool_inputs`/`tool_output`/`agent_name`/
 4. **The double-cycle plan has two genuinely cancelled task rows** mid-sequence that aren't mentioned anywhere in the brief — real in-flight cancellation/retry noise that any path-conformance check needs to tolerate.
 5. **The Evaluation Results Dashboard's "0/9" doesn't match the underlying data** — the batch run is `status=completed` and has 60+ metric-result rows against it. Whatever "Evaluated records" counts, it isn't counting from `sys_one_extend_eval_metric_result` or `sys_one_extend_batch_result` correctly (or at all).
 6. **"AgenticExecutionParserTool" doesn't exist as a record name, but is a deliberate naming reference inside `AgenticEvalParserTool`'s source** — the two are related but not the same object, and the real payload shape came from the *existing* script, not the literally-named one you searched for.
+
+## Related
+
+- [[partner-case-lookup-custom-evaluation-metric]]
+- [[partner-case-summary-agent-architecture]]

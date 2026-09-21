@@ -48,3 +48,8 @@ Summarizing a complex case: 8-10 minutes → 30 seconds. Writing a professional 
 ## Why this might matter to this vault
 
 This is the OOB, generic version of the same "summarize case + draft communication, human reviews before it goes out" pattern that [[Proactive Customer Case Communicator]] custom-builds with deterministic routing/templates instead of free-form Context Menu prompts. Also directly relevant background for [[partner-case-summary-agent]] — confirms case summarization inside a workspace is an established, already-adopted UX pattern (not a novel ask), which supports the story's "low navigation skill" design goal.
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

@@ -31,3 +31,9 @@ AlpUtkuM, Mega Sage — 11-18-2025
 ## Why this might matter to this vault
 
 Directly relevant design-justification data point for [[partner-case-summary-agent]]: this is nearly the same shape of ask ("fetch data from a table based on a query, return results to the user via a conversational surface"), and a ServiceNow employee explicitly argues that pattern alone is a "poor use case for Agentic AI" — better served by scripting/AI Search — unless there's real reasoning/planning value. This is a useful sanity check: Partner Case Summary Agent's *data retrieval* step (case/account lookup) is indeed close to deterministic and could arguably be plain scripting, but its **summarization** step (turning raw case data into a 2-3 line prose summary judging status/next-steps/blockers) is exactly the "think" part that justifies the LLM/agent framework rather than a plain script or report. Worth citing this tension explicitly if the design is ever challenged on "why use an AI Agent for this at all."
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

@@ -83,3 +83,13 @@ Ensure plugins up to date; re-index AI Search sources; ensure the VA search prof
 ## Why this might matter to this vault
 
 General product-level FAQ, mostly licensing/commercial/language scope rather than technical architecture — lower direct relevance to [[Proactive Customer Case Communicator]] or [[partner-case-summary-agent]] than the other articles in this batch, but useful background: confirms assists aren't charged on errors (relevant when estimating Partner Case Summary Agent's cost footprint for "not found"/ACL-denied lookups), and that PDIs can't be used for Now Assist testing at all (only sub-prod/scoped-prod, consistent with what both agents' test plans already assume).
+
+## Related
+
+- [[accelerating-agent-responses-activity-response-generation]]
+- [[k26-gitbook-enable-now-assist-panel]]
+- [[now-assist-context-menu-productivity-tool]]
+- [[now-assist-for-csm-email-reply-recommendations]]
+- [[now-assist-forum-misc-threads]]
+- [[now-assist-panel-error-plugin-sync]]
+- [[now-assist-chat-text-customization]]

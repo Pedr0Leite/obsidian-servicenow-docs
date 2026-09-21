@@ -157,3 +157,9 @@ Error "There are no agents available at the moment. Please try again later." —
 ## Why this might matter to this vault
 
 This is the most complete step-by-step build tutorial fetched in this batch — directly usable as a template for building [[partner-case-summary-agent]] in AI Agent Studio (exercise 5/6 pattern: duplicate-and-modify vs. create-new AI Agent, Record operation tool config with `{{input}}` field-value syntax, Supervised vs Autonomous execution mode). The Yokohama Patch 1 "duplicating an agent doesn't duplicate its tools" gotcha is a real trap worth flagging if anyone reuses this pattern.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

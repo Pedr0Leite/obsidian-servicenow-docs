@@ -43,3 +43,8 @@ Dexter Chan, ServiceNow Employee — 02-13-2026, edited 02-25-2026
 ## Why this might matter to this vault
 
 Directly relevant to [[Proactive Customer Case Communicator]]'s "worknote summarization" and dedup logic (§4–5 of that architecture note) — this is the OOB skill version of the same "read the whole activity/journal history and produce a contextual summary" capability PCCC re-implements custom via `caseUpdateAgentUtil`'s journal-mining. Worth checking whether PCCC could have used this OOB skill as a tool instead of reimplementing worknote-history parsing from scratch — though PCCC's need (deterministic dedup against prior AI comments, not just "summarize the thread") likely still requires the custom logic.
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

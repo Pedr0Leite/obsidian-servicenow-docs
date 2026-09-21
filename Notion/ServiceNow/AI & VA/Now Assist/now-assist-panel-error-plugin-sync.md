@@ -32,3 +32,8 @@ Thread resolution: user updated the "Now Assist for CSM" plugin (not just repair
 ## Why this might matter to this vault
 
 Directly relevant to the "blank NAP" bug scenario investigated earlier in [[Proactive Customer Case Communicator]] work — confirms **plugin version drift between Now Assist dependent apps** is a real, recurring root cause of NAP malfunctions, and that **repair ≠ upgrade** (repair only fixes the one selected app; upgrading the parent "Now Assist for X" app cascades to all dependents). The "Now Assist Suite" bundle is the ServiceNow-recommended fix for exactly this class of problem — worth checking if it's installed before troubleshooting NAP issues from scratch.
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

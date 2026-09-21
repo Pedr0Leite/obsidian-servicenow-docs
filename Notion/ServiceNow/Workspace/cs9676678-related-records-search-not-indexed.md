@@ -1,3 +1,17 @@
+---
+aliases:
+  - "CS9676678 — Related records search not indexed"
+area: "Workspace"
+source: raw-inbox
+tags:
+  - workspace
+  - csm
+  - text-index
+  - search-relevancy
+  - knowledge-management
+  - support-case
+---
+
 # CS9676678 — Related records search not indexed
 
 **Priority:** 2 - High | **Status:** Work in Progress | **Last updated:** 2026-09-08
@@ -25,3 +39,8 @@ Related Record Definitions and Text Index configuration were already checked by 
 ## Current status
 
 Awaiting response from ServiceNow product specialists on whether the SLA indexing behavior is expected or a defect. The Knowledge-articles-missing issue still needs to be addressed/reproduced by Support.
+
+## Related
+
+- [[Workspace for a custom app forms]]
+- [[AI Search Synonyms]]
