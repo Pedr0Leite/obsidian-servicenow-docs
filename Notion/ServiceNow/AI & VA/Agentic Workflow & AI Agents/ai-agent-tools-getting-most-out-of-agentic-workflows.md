@@ -70,3 +70,9 @@ All tools currently only input/output **String**. Safety mechanism: `sn_aia.cont
 ## Why this might matter to this vault
 
 The **script-tool-output** gotcha (a script can `gs.info()` something but the agent only ever sees what's explicitly `return`ed as an `outputs` object) is directly relevant to any custom Script tool design in [[partner-case-summary-agent-architecture]]'s `PartnerCaseSummaryUtil` Script Include — confirms the design's `{answer, effort}`-style explicit return shape (also seen in the [[Now Assist Readiness Evaluation - Architecture Deep Dive]] question-script pattern) is the *correct*, necessary pattern, not just a style convention. The zero-width-space debugging story is a good concrete "what a silently-empty tool output actually looks like in practice" case study.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

@@ -73,3 +73,9 @@ Tuition reimbursement, Time-off balance retrieval, Feedback lookups, Request tim
 ## Why this might matter to this vault
 
 The **Integration Gateway + Decision Table routing pattern** (feature_name/service_name → decision table → subflow → Integration Hub action) is a more elaborate cousin of [[Proactive Customer Case Communicator]]'s deterministic routing tool ([[caseRoutingUtil]]) — both push branching logic out of the LLM into a script/table, but this pattern is designed specifically for pluggable external-system integrations (multiple HR providers behind one interface), which neither PCCC nor [[partner-case-summary-agent]] currently need since they're both single-table, ServiceNow-native. Worth remembering if either agent's scope ever expands to a genuinely external system.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

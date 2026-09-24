@@ -54,3 +54,9 @@ tags:
 ## Why this might matter to this vault
 
 Mostly marketing framing rather than technical detail, but the **web agents** concept ("interacting with web interfaces like a human, unlocking automation for hard-to-reach 3rd-party apps without APIs") is a notably different capability than anything in [[Proactive Customer Case Communicator]] or [[partner-case-summary-agent]] — both of those stay entirely inside ServiceNow's own data model. Confirms the AI Agent Fabric / MCP / A2A concepts already referenced in the [[Now Assist Readiness Evaluation - Architecture Deep Dive]] licensing section and the SDK guide's tool-type table are current, actively-marketed platform capabilities, not experimental.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

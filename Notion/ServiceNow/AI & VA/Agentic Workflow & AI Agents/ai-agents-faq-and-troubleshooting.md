@@ -113,3 +113,18 @@ Documentation link, Now Learning course, "Now Assist AI Agents prompting guide",
 ## Why this might matter to this vault
 
 Confirms/extends several risks already flagged in [[Proactive Customer Case Communicator]] and [[partner-case-summary-agent-architecture]]: the 128K context window ceiling (relevant to PCCC's "large-context / token limits" open risk), the NAP idle-timeout property (`com.glide.cs.conversation_idle_timeout`, matches PCCC's "AIPF_NAP conversation idle timeout" deployment note — this FAQ confirms it's a **Global** property, not agent-specific, meaning changing it for PCCC affects all Virtual Agent conversations instance-wide), and the "Now Assist Readiness Evaluation" store app cross-reference (already covered in [[Now Assist Readiness Evaluation - Architecture Deep Dive]]).
+
+## Related
+
+- [[ai-agent-custom-table-fetch-va-forum]]
+- [[ai-agent-tools-getting-most-out-of-agentic-workflows]]
+- [[ai-agents-3rd-party-integrations]]
+- [[ai-agents-hands-on-demo-setup-walkthrough]]
+- [[ai-agents-product-page]]
+- [[bring-ai-agents-on-the-forms]]
+- [[get-familiar-with-agentic-workflows-ai-agents-lab]]
+- [[google-cloud-agent-assist-overview]]
+- [[limit-assist-consumption-avoiding-loops]]
+- [[now-assist-in-product-experience-agentic-workflows]]
+- [[pydantic-ai-user-prompt-hitl-issue-3488]]
+- [[ai-agents-knowledge-base-ccl6230]]

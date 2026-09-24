@@ -65,3 +65,8 @@ Prerequisites: Enable Now Assist for CSM; AI Search; Email Recommendation skill;
 ## Why this might matter to this vault
 
 Same "draft → agent reviews/edits/sends" pattern as [[Proactive Customer Case Communicator]]'s Approve/Modify/Reject loop, but for **inbound** email replies rather than **outbound** proactive updates — worth comparing if PCCC's draft-review UX is ever redesigned. Confirms the "Now Assist" → "ServiceNow Otto" rebrand is actively in progress on the ServiceNow Community site itself (title/URL mismatch), consistent with the branding note already captured in `servicenow-sdk-building-ai-agents-guide.md`.
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

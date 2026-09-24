@@ -53,3 +53,8 @@ Additional troubleshooting offered (Dexter Chan, ServiceNow Employee): double-ch
 ## Why this might matter to this vault
 
 Thread 2 gives a second concrete, distinct root cause for "blank/malfunctioning NAP" beyond plugin-version drift (see `now-assist-panel-error-plugin-sync.md`): **duplicate records in `sn_nowassist_skill_config_status`**, fixable by deleting the most recent duplicate. Worth adding to a "NAP troubleshooting checklist" if one gets written for [[Proactive Customer Case Communicator]]. Thread 1 confirms in-chat action buttons (as opposed to form-level UI actions) aren't a solved/documented pattern yet — relevant if either PCCC or [[partner-case-summary-agent]] ever wants NAP-native buttons rather than a plain conversational or form-UI-action entry point.
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

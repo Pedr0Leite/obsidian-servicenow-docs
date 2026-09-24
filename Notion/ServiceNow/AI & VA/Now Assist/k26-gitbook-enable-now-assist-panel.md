@@ -32,3 +32,8 @@ tags:
 The **Now Assist Panel** conversational assistant has been activated and is ready to be used.
 
 (Original page included screenshots for each step, not reproduced here — only the text steps were extractable via CLI fetch.)
+
+## Related
+
+- [[now-assist-faqs-general]]
+- [[Now Assist Panel (NAP) Troubleshooting Guide Commo]]

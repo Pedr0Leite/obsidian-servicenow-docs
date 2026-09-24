@@ -39,3 +39,9 @@ ameybhaisar, Tera Contributor — 10-15-2025
 ## Why this might matter to this vault
 
 Directly answers the surfacing question already resolved in [[partner-case-summary-agent-architecture]] §7 (NAP conversational primary + Agent Workspace UI action as secondary/fallback) — confirms UI actions triggering Agentic Workflows/AI Agents is a supported, real pattern, matching PCCC's own UI-action-based approach. **Flag**: the unresolved Classic-UI-works-but-Workspace-doesn't report from Christian R is worth checking if the Partner Case Summary Agent's UI action fallback ends up targeting Workspace specifically — this thread suggests that combination may have known issues.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]

@@ -90,3 +90,9 @@ AI Agent Studio > Status tab (Realtime Monitoring: execution plans/executions an
 ## Why this might matter to this vault
 
 Directly extends [[Proactive Customer Case Communicator]]'s known risk "No batching in Stale Case Scheduled Job — every qualifying case fires a subflow in one while loop. No cap, pacing, or backpressure" — the **Create Record check (50/15min)** default limit is exactly the kind of platform-level backstop that risk note should be checked against (does PCCC's scheduled job actually hit this ceiling on a large batch, and if so what happens to the un-processed remainder?). Also gives a concrete emergency runbook (deactivate trigger → check `sn_aia_execution_plan` → analyze → redesign) that's more actionable than what PCCC's own docs currently capture for its "stuck execution / silent exclusion" open risk.
+
+## Related
+
+- [[ai-agents-faq-and-troubleshooting]]
+- [[ai-agents-knowledge-base-ccl6230]]
+- [[field-guide-evaluating-debugging-ai-agents]]
